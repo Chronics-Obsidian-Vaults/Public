@@ -1,0 +1,16 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-feat
+tags:
+- source/compendium/src/5e/phb
+- source/optional-feature/ed
+aliases:
+- Wave of Rolling Earth
+---
+# Wave of Rolling Earth
+*Source: Player's Handbook p. 81*  
+
+**Prerequisite**: Level 17
+
+You can spend 6 ki points to cast [wall of stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-stone.md).

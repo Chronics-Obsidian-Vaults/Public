@@ -1,0 +1,45 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- source/compendium/src/5e/phb
+- source/spell/class/bard/magical-secrets
+- source/spell/class/cleric
+- source/spell/class/paladin
+- source/spell/level/5th-level
+- source/spell/school/abjuration
+- source/spell/subclass/divine-soul/good
+classes:
+- Bard (Magical Secrets)
+- Cleric
+- Paladin
+- Sorcerer (Divine Soul, Good)
+aliases:
+- Dispel Evil and Good
+---
+# Dispel Evil and Good
+*5th-level, Abjuration*  
+
+
+- **Casting time:** 1 Action
+- **Range:** Self
+- **Components:** V, S, M (holy water or powdered silver and iron)
+- **Duration:** Concentration, up to 1 minute
+
+Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.
+
+You can end the spell early by using either of the following special functions.
+
+## Break Enchantment
+
+As your action, you touch a creature you can reach that is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), or possessed by such creatures.
+
+## Dismissal
+
+As your action, make a melee spell attack against a celestial, an elemental, a fey, a fiend, or an undead you can reach. On a hit, you attempt to drive the creature back to its home plane. The creature must succeed on a Charisma saving throw or be sent back to its home plane (if it isn't there already). If they aren't on their home plane, undead are sent to the Shadowfell, and fey are sent to the Feywild.
+
+## Summary
+
+**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+*Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

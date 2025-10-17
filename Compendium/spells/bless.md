@@ -1,0 +1,39 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- source/compendium/src/5e/phb
+- source/spell/class/bard/magical-secrets
+- source/spell/class/cleric
+- source/spell/class/paladin
+- source/spell/feat/fey-touched
+- source/spell/feat/magic-initiate/cleric-spells
+- source/spell/level/1st-level
+- source/spell/school/enchantment
+- source/spell/subclass/divine-soul/law
+- source/spell/subclass/life-domain
+classes:
+- Bard (Magical Secrets)
+- Cleric
+- Cleric (Life Domain)
+- Paladin
+- Sorcerer (Divine Soul, Law)
+aliases:
+- Bless
+---
+# Bless
+*1st-level, Enchantment*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a sprinkling of holy water)
+- **Duration:** Concentration, up to 1 minute
+
+You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a `d4` and add the number rolled to the attack roll or saving throw.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-life-domain.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Law)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+*Source: Player's Handbook p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

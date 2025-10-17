@@ -1,0 +1,27 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- source/compendium/src/5e/dmg
+- source/item/attunement/required
+- source/item/rarity/very-rare
+- source/item/tier/major
+- source/item/weapon/martial
+- source/item/weapon/melee
+aliases: 
+- "Dwarven Thrower"
+---
+# Dwarven Thrower
+*Weapon ([warhammer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/warhammer.md)), major, very rare (requires attunement by a dwarf)*  
+![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/dwarven-thrower.webp#right)
+
+- **Damage**:
+  - One-handed: 1d8 bludgeoning
+  - Two-handed: 1d10 bludgeoning
+- **Range**: 20/60
+- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Weight**: 2.0 lbs.
+
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra `1d8` damage or, if the target is a giant, `2d8` damage. Immediately after the attack, the weapon flies back to your hand.
+
+*Source: Dungeon Master's Guide p. 167. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

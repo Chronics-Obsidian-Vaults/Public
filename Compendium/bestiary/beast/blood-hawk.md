@@ -1,0 +1,69 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- source/compendium/src/5e/mm
+- source/monster/cr/1-8
+- source/monster/environment/arctic
+- source/monster/environment/coastal
+- source/monster/environment/forest
+- source/monster/environment/grassland
+- source/monster/environment/hill
+- source/monster/environment/mountain
+- source/monster/size/small
+- source/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- Blood Hawk
+---
+# [Blood Hawk](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/blood-hawk.md)
+*Source: Monster Manual p. 319, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
+
+```statblock
+"name": "Blood Hawk"
+"size": "Small"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "7"
+"hit_dice": "2d6"
+"modifier": !!int "2"
+"stats":
+  - !!int "6"
+  - !!int "14"
+  - !!int "10"
+  - !!int "3"
+  - !!int "14"
+  - !!int "5"
+"speed": "10 ft., fly 60 ft."
+"skillsaves":
+  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+    "desc": "+4"
+"senses": "passive Perception 14"
+"languages": ""
+"cr": "1/8"
+"traits":
+  - "desc": "The hawk has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+      \ checks that rely on sight."
+    "name": "Keen Sight"
+  - "desc": "The hawk has advantage on an attack roll against a creature if at least\
+      \ one of the hawk's allies is within 5 feet of the creature and the ally isn't\
+      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+    "name": "Pack Tactics"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
+      \ + 2) piercing damage."
+    "name": "Beak"
+"source":
+  - "MM"
+  - "EGW"
+"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/blood-hawk.webp"
+```
+^statblock
+
+## Environment
+
+mountain, grassland, forest, hill, coastal, arctic

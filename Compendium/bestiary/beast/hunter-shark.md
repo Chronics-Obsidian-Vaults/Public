@@ -1,0 +1,64 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- source/compendium/src/5e/mm
+- source/monster/cr/2
+- source/monster/environment/underwater
+- source/monster/size/large
+- source/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- Hunter Shark
+---
+# [Hunter Shark](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/hunter-shark.md)
+*Source: Monster Manual p. 330, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
+
+```statblock
+"name": "Hunter Shark"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"ac_class": "natural armor"
+"hp": !!int "45"
+"hit_dice": "6d10 + 12"
+"modifier": !!int "1"
+"stats":
+  - !!int "18"
+  - !!int "13"
+  - !!int "15"
+  - !!int "1"
+  - !!int "10"
+  - !!int "4"
+"speed": "swim 40 ft."
+"skillsaves":
+  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+    "desc": "+2"
+"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
+  \ 30 ft., passive Perception 12"
+"languages": ""
+"cr": "2"
+"traits":
+  - "desc": "The shark has advantage on melee attack rolls against any creature that\
+      \ doesn't have all its hit points."
+    "name": "Blood Frenzy"
+  - "desc": "The shark can breathe only underwater."
+    "name": "Water Breathing"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
+      \ (2d8 + 4) piercing damage."
+    "name": "Bite"
+"source":
+  - "MM"
+  - "EGW"
+"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/hunter-shark.webp"
+```
+^statblock
+
+## Environment
+
+underwater

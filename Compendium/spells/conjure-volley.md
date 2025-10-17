@@ -1,0 +1,29 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- source/compendium/src/5e/phb
+- source/spell/class/bard/magical-secrets
+- source/spell/class/ranger
+- source/spell/level/5th-level
+- source/spell/school/conjuration
+classes:
+- Bard (Magical Secrets)
+- Ranger
+aliases:
+- Conjure Volley
+---
+# Conjure Volley
+*5th-level, Conjuration*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 150 feet
+- **Components:** V, S, M (one piece of ammunition or one thrown weapon)
+- **Duration:** Instantaneous
+
+You fire a piece of nonmagical ammunition from a ranged weapon or throw a nonmagical weapon into the air and choose a point within range. Hundreds of duplicates of the ammunition or weapon fall in a volley from above and then disappear. Each creature in a 40-foot-radius, 20-foot-high cylinder centered on that point must make a Dexterity saving throw. A creature takes `8d8` damage on a failed save, or half as much damage on a successful one. The damage type is the same as that of the ammunition or weapon.
+
+**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+
+*Source: Player's Handbook p. 226*

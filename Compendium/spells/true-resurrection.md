@@ -1,0 +1,37 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- source/compendium/src/5e/phb
+- source/spell/class/bard/magical-secrets
+- source/spell/class/cleric
+- source/spell/class/druid
+- source/spell/level/9th-level
+- source/spell/school/necromancy
+- source/spell/subclass/divine-soul/good
+classes:
+- Bard (Magical Secrets)
+- Cleric
+- Druid
+- Sorcerer (Divine Soul, Good)
+aliases:
+- True Resurrection
+---
+# True Resurrection
+*9th-level, Necromancy*  
+
+
+- **Casting time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)
+- **Duration:** Instantaneous
+
+You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature's soul is free and willing, the creature is restored to life with all its hit points.
+
+This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs. If the creature was undead, it is restored to its non-undead form.
+
+The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
+
+**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+*Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

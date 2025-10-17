@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-feat
+tags:
+- source/compendium/src/5e/tce
+- source/feat
+aliases:
+- Skill Expert
+---
+# Skill Expert
+*Source: Tasha's Cauldron of Everything p. 80*  
+
+You have honed your proficiency with particular skills, granting you the following benefits:
+
+- Increase one ability score of your choice by 1, to a maximum of 20.  
+- You gain proficiency in one [skill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/skills-phb.md) of your choice.  
+- Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.

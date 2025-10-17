@@ -1,0 +1,61 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- source/compendium/src/5e/mm
+- source/monster/cr/1
+- source/monster/environment/desert
+- source/monster/environment/forest
+- source/monster/environment/grassland
+- source/monster/environment/hill
+- source/monster/size/large
+- source/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- Giant Hyena
+---
+# [Giant Hyena](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-hyena.md)
+*Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+```statblock
+"name": "Giant Hyena"
+"size": "Large"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "45"
+"hit_dice": "6d10 + 12"
+"modifier": !!int "2"
+"stats":
+  - !!int "16"
+  - !!int "14"
+  - !!int "14"
+  - !!int "2"
+  - !!int "12"
+  - !!int "7"
+"speed": "50 ft."
+"skillsaves":
+  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+    "desc": "+3"
+"senses": "passive Perception 13"
+"languages": ""
+"cr": "1"
+"traits":
+  - "desc": "When the hyena reduces a creature to 0 hit points with a melee attack\
+      \ on its turn, the hyena can take a bonus action to move up to half its speed\
+      \ and make a bite attack."
+    "name": "Rampage"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
+      \ (2d6 + 3) piercing damage."
+    "name": "Bite"
+"source":
+  - "MM"
+"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-hyena.webp"
+```
+^statblock
+
+## Environment
+
+grassland, forest, hill, desert

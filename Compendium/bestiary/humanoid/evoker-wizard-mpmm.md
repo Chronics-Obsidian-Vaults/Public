@@ -1,0 +1,88 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- source/compendium/src/5e/mpmm
+- source/monster/cr/9
+- source/monster/environment/urban
+- source/monster/size/medium
+- source/monster/type/humanoid
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- Evoker Wizard
+---
+# [Evoker Wizard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/evoker-wizard-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*  
+
+Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
+
+## Wizards
+
+Wizards pursue magical power through the study of arcane texts. Some travel the world searching for esoteric tomes while others train lesser wizards or collaborate with colleagues to create new spells.
+
+```statblock
+"name": "Evoker Wizard (MPMM)"
+"size": "Medium"
+"type": "humanoid"
+"alignment": "Any alignment"
+"ac": !!int "12"
+"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"hp": !!int "121"
+"hit_dice": "22d8 + 22"
+"modifier": !!int "2"
+"stats":
+  - !!int "9"
+  - !!int "14"
+  - !!int "12"
+  - !!int "17"
+  - !!int "12"
+  - !!int "11"
+"speed": "30 ft."
+"saves":
+  - "intelligence": !!int "7"
+  - "wisdom": !!int "5"
+"skillsaves":
+  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+    "desc": "+7"
+  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+    "desc": "+7"
+"senses": "passive Perception 11"
+"languages": "any four languages"
+"cr": "9"
+"actions":
+  - "desc": "The evoker makes three Arcane Burst attacks."
+    "name": "Multiattack"
+  - "desc": "*Melee  or Ranged Spell Attack:* +7 to hit, reach 5 ft. or range 120\
+      \ ft., one target. *Hit:* 25 (4d10 + 3) force damage."
+    "name": "Arcane Burst"
+  - "desc": "The evoker unleashes a magical explosion of a particular damage type:\
+      \ cold, fire, lightning, or thunder. The magic erupts in a 20-foot-radius sphere\
+      \ centered on a point within 150 feet of the evoker. Each creature in that area\
+      \ must make a DC 15 Dexterity saving throw. The evoker can select up to three\
+      \ creatures it can see in the area to ignore the spell, as the evoker sculpts\
+      \ the spell's energy around them. On a failed save, a creature takes 40 (9d8)\
+      \ damage of the chosen type and is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ On a successful save, a creature takes half as much damage and isn't knocked\
+      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+    "name": "Sculpted Explosion (Recharge 4-6)"
+  - "desc": "The evoker casts one of the following spells, using Intelligence as the\
+      \ spellcasting ability (spell save DC 15):\n\n**At will:** [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
+      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
+      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
+      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
+      \n**2/day each:** [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md),\
+      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md),\
+      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\n\
+      \n**1/day each:** [wall of ice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-ice.md)"
+    "name": "Spellcasting"
+"source":
+  - "MPMM"
+  - "VGM"
+"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/evoker-wizard-mpmm.webp"
+```
+^statblock
+
+## Environment
+
+urban

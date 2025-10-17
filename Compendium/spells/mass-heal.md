@@ -1,0 +1,31 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- source/compendium/src/5e/phb
+- source/spell/class/bard/magical-secrets
+- source/spell/class/cleric
+- source/spell/level/9th-level
+- source/spell/school/evocation
+- source/spell/subclass/divine-soul/good
+classes:
+- Bard (Magical Secrets)
+- Cleric
+- Sorcerer (Divine Soul, Good)
+aliases:
+- Mass Heal
+---
+# Mass Heal
+*9th-level, Evocation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) or [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened). This spell has no effect on undead or constructs.
+
+**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+*Source: Player's Handbook p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

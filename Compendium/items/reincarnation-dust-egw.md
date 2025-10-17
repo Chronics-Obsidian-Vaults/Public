@@ -1,0 +1,17 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- source/compendium/src/5e/egw
+- source/item/rarity/very-rare
+aliases: 
+- "Reincarnation Dust"
+---
+# Reincarnation Dust
+*Wondrous item, very rare*  
+
+
+
+When this small pouch of purple dust is sprinkled on a dead humanoid or a piece of a dead humanoid, the dust is absorbed by the remains. If willing, the dead creature returns to life with a new body as if the [reincarnate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/reincarnate.md) spell had been cast on the remains.
+
+*Source: Explorer's Guide to Wildemount p. 268*

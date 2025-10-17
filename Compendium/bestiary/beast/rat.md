@@ -1,0 +1,58 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- source/compendium/src/5e/mm
+- source/monster/cr/0
+- source/monster/environment/swamp
+- source/monster/environment/urban
+- source/monster/size/tiny
+- source/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- Rat
+---
+# [Rat](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/rat.md)
+*Source: Monster Manual p. 335, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+```statblock
+"name": "Rat"
+"size": "Tiny"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "10"
+"hp": !!int "1"
+"hit_dice": "1d4 - 1"
+"modifier": !!int "0"
+"stats":
+  - !!int "2"
+  - !!int "11"
+  - !!int "9"
+  - !!int "2"
+  - !!int "10"
+  - !!int "4"
+"speed": "20 ft."
+"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+  \ 30 ft., passive Perception 10"
+"languages": ""
+"cr": "0"
+"traits":
+  - "desc": "The rat has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+      \ checks that rely on smell."
+    "name": "Keen Smell"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
+      \ damage."
+    "name": "Bite"
+"source":
+  - "MM"
+  - "EGW"
+  - "BMT"
+"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/rat.webp"
+```
+^statblock
+
+## Environment
+
+swamp, urban

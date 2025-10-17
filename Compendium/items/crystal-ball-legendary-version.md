@@ -1,0 +1,24 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- source/compendium/src/5e/dmg
+- source/item/attunement/required
+- source/item/rarity/legendary
+- source/item/tier/major
+aliases: 
+- "Crystal Ball (Legendary Version)"
+---
+# Crystal Ball (Legendary Version)
+*Wondrous item, major, legendary (requires attunement)*  
+
+
+- **Weight**: 3.0 lbs.
+
+**Items in this group:**
+
+- [Crystal Ball of Mind Reading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crystal-ball-of-mind-reading.md)
+- [Crystal Ball of Telepathy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crystal-ball-of-telepathy.md)
+- [Crystal Ball of True Seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crystal-ball-of-true-seeing.md)
+
+*Source: Dungeon Master's Guide p. 159*

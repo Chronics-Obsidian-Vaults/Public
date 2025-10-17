@@ -1,0 +1,65 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- source/compendium/src/5e/mm
+- source/monster/cr/1-8
+- source/monster/environment/forest
+- source/monster/environment/hill
+- source/monster/environment/urban
+- source/monster/size/medium
+- source/monster/type/beast
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- Mastiff
+---
+# [Mastiff](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/mastiff.md)
+*Source: Monster Manual p. 332, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
+
+```statblock
+"name": "Mastiff"
+"size": "Medium"
+"type": "beast"
+"alignment": "Unaligned"
+"ac": !!int "12"
+"hp": !!int "5"
+"hit_dice": "1d8 + 1"
+"modifier": !!int "2"
+"stats":
+  - !!int "13"
+  - !!int "14"
+  - !!int "12"
+  - !!int "3"
+  - !!int "12"
+  - !!int "7"
+"speed": "40 ft."
+"skillsaves":
+  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+    "desc": "+3"
+"senses": "passive Perception 13"
+"languages": ""
+"cr": "1/8"
+"traits":
+  - "desc": "The mastiff has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+      \ checks that rely on hearing or smell."
+    "name": "Keen Hearing and Smell"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
+      \ + 1) piercing damage. If the target is a creature, it must succeed on a DC\
+      \ 11 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+    "name": "Bite"
+"source":
+  - "MM"
+  - "ERLW"
+  - "EGW"
+  - "BMT"
+"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/mastiff.webp"
+```
+^statblock
+
+## Environment
+
+forest, hill, urban
