@@ -1,0 +1,8 @@
+.DS_Store
+#.obsidian/app.json
+#.obsidian/themes
+#.obsidian/appearance.json
+#.obsidian/graph.json
+#.obsidian/templates.json
+.obsidian/workspace.json
+#CLAUDE.md
