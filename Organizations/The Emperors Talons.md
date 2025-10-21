@@ -15,7 +15,7 @@ The Emperor's Talons served as the elite intelligence and covert operations orga
 
 > "An Emperor's Talon requires no banner, no armour, no oath spoken aloud. Their loyalty is written in the blood of the Empire's enemies, their victories recorded only in the silence that follows."
 >  
-> — Attributed to the Empress [[Kenari]] the Third
+> — Attributed to the Empress [[Kenari|Kenari the Third]]
 
 ## Organizational Structure
 
@@ -31,7 +31,7 @@ This branch consisted of highly skilled mercenaries specializing in area control
 
 ### The Empress Veil
 
-An exclusively female branch of operatives focusing on infiltration of high society and centers of power. Their methods included:
+An exclusively female branch of operatives focusing on infiltration of high society and centres of power. Their methods included:
 * Deep cover operations in foreign courts and among nobility
 * Information extraction through manipulation, deceit, and seduction
 * Employment of both mundane and magical means of gathering intelligence
