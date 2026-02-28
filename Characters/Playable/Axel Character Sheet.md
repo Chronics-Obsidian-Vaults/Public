@@ -1,35 +1,92 @@
 ---
-name: Axel O'Brien
+name: Axel
 aliases:
 tags:
   - character
   - playable
+  - source/monster/cr/1
+  - source/monster/size/medium
+  - source/monster/type/humanoid
+cssclasses: json5e-monster
+statblock: inline
+statblock-link: "#^statblock"
 proficiency: 2
 class: sorcerer
 speed: 30
 hp: 14
+ac: "14"
 acbonus: 4
 level: 3
 hitdice: 6
 player: Axel
 race: Tiefling
-gender: Non-binary
+gender: Female
 status: alive
 age: 35
 spellcasting: 3
 modifier: 1
 max-hp: 14
 passperc: 11
+alignment: Chaotic Neutral
+background: Guild Artisan
 ---
-# Axel O'Brien - Level 3 [[tiefling|Tiefling]] [[sorcerer-draconic-bloodline|Draconic Bloodline]] [[sorcerer-ggr|Sorcerer]]
+# Axel - Level 3 [[tiefling|Tiefling]] [[sorcerer-draconic-bloodline|Draconic Bloodline]] [[sorcerer|Sorcerer]]
+
+```statblock
+"name": "Axel"
+"size": "Medium"
+"type": "humanoid"
+"alignment": "Chaotic Neutral"
+"ac": !!int "14"
+"hp": !!int "14"
+"hit_dice": "3d6"
+"modifier": !!int "1"
+"stats":
+  - !!int "10"
+  - !!int "12"
+  - !!int "8"
+  - !!int "15"
+  - !!int "13"
+  - !!int "17"
+"speed": "30 ft."
+"saves":
+  - "name": "Constitution"
+    "desc": "+1"
+  - "name": "Charisma"
+    "desc": "+5"
+"skillsaves":
+  - "name": "Arcana"
+    "desc": "+4"
+  - "name": "Deception"
+    "desc": "+5"
+  - "name": "Insight"
+    "desc": "+3"
+  - "name": "Persuasion"
+    "desc": "+5"
+"damage_resistances": "fire"
+"senses": "darkvision 60 ft., passive Perception 11"
+"languages": "Common, Draconic, Elvish, Infernal"
+"cr": "1"
+"traits":
+  - "desc": "The character has darkvision out to 60 feet."
+    "name": "Darkvision"
+  - "desc": "Resistant to Fire damage."
+    "name": "Damage Resistances"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1d4+1 piercing"
+    "name": "Dagger"
+"source":
+  - "DMV Import"
+```
+^statblock
 
 
 
 > [!column|no-i no-t]
 >> [!div-m|no-title]
->> ![[Axel.png]]
+>> ![[Template_Player_Placeholder.png]]
 >
->> [!div-m|no-title] Axel O'Brien
+>> [!div-m|no-title] Axel
 >> ~~~meta-bind
 >> INPUT[select(
 >> option(1, ℹ️General),
@@ -65,7 +122,7 @@ passperc: 11
 >>
 >> >[!div-m|no-title]
 >> >![[#Traits|no-h-clean]]
->> 
+>>
 >> >[!div-m|no-title]
 >> > ![[#Spellbook]]
 >>
@@ -116,7 +173,18 @@ items:
 
 ## Description
 
-Axel is a non-binary tiefling sorcerer and guild artisan (weaver). Write your character's physical appearance, personality, mannerisms, and backstory here.
+Axel is a female tiefling sorcerer and guild artisan. Write your character's physical appearance, personality, mannerisms, and backstory here.
+
+## Characteristics
+
+### Physical
+**Height**: 5"3' | **Weight**: 130 | **Eyes**: Amber | **Hair**: Chestnut with Blue Highlights | **Skin**: Peach
+
+### Personality
+**Traits**: Erratic, Hot-Headed
+**Ideals**: Nihilist
+**Bonds**: Adoptive Family
+**Flaws**: Way too emotionally invested
 
 ## Configure
 
@@ -124,6 +192,7 @@ Axel is a non-binary tiefling sorcerer and guild artisan (weaver). Write your ch
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Name               | `INPUT[text:name]`|
 | Player             | `INPUT[text:player]`|
+| Race               | `INPUT[text:race]`|
 | Class              | `INPUT[suggester(option(artificer), option(barbarian), option(bard), option(blood hunter), option(cleric), option(druid), option(fighter), option(monk), option(paladin), option(ranger), option(rouge), option(sorcerer), option(warlock), option(wizard)):class]` |
 | Level              | `INPUT[number:level]`|
 | Gender             | `INPUT[text:gender]`|
@@ -154,90 +223,98 @@ abilities:
   charisma: 17
 
 proficiencies:
-  - constitution
-  - charisma
+  - con
+  - cha
 ```
+
+### Saving Throws
+**Proficiencies**: Con, Cha
 
 ### Skills
 
 ```skills
 proficiencies:
-  - arcana
-  - deception
   - insight
+  - deception
   - persuasion
+  - arcana
 ```
 
 ### Attacks
-- **[[dagger|Dagger]]** melee, +3 to hit, 1d4+1 piercing damage
-- **[[dagger|Dagger]] (off-hand)** melee, +3 to hit, 1d4+0 piercing damage
+- **[[dagger|Dagger]]** melee, +3 to hit, 1d4+1 piercing
 
 ---
 
 ### Proficiencies
 
-### Tool Proficiencies
-**[[weavers-tools|Weaver's Tools]]**
-
 ### Languages
-Common, Draconic, Infernal
+Common, Draconic, Elvish, Infernal
 
 ### Weapon Proficiencies
-Dagger, Dart, Sling, Quarterstaff, Crossbow, light
+Crossbow, light, Dagger, Dart, Quarterstaff, Sling
+
+### Tool Proficiencies
+Weaver's Tools
+
+### Armour Proficiencies
+*None*
 
 ---
-
 
 
 ## Traits
-
-### [[senses#Darkvision|Darkvision]]
-**60 ft.**
-
----
 
 ### Damage Resistances
 **Fire**
 
 ---
 
-### Flexible Casting
-You can convert sorcery points into spell slots.
-
-| Level | Point cost |
-| --- | --- |
-| 1st | 2 |
-| 2nd | 3 |
-| 3rd | 5 |
-| 4th | 6 |
-| 5th | 7 |
-
-You can also convert spell slots into sorcery points equal to the slot's level.
+### Darkvision: 60 ft.
+Damage Resistances: fire
 
 ---
 
-### Puppeteer
+### Draconic Resilience. +1 HP/level, unarmored AC 13 + DEX modifier.
 
-```healthpoints
-state_key: axel_puppet_health
-health: '{{divide (multiply frontmatter.max-hp 3) 2}}'
-```
-
-You manipulate a puppet resembling your image. The puppet can be controlled with Mage Hand and acts as an [[arcane-focus|Arcane Focus]] while being controlled. While handling the puppet, you can forgo the 1 minute duration of Mage Hand.
-
-While in combat, the puppet has three halves of your total hit points. The puppet cannot be healed, magically restored or regenerate health on a short or long rest. To heal the puppet, [[weavers-tools|Weaver's Tools]] and sewing materials are required.
-
-When its hit points fall to 0, the puppet is damaged and cannot be used as an arcane focus.
-You can stitch it back together in 1d4 hours and with the appropriate materials. Magically mending the puppet at 0 HP can prevent it from breaking, but it but will still be inoperable as an arcane focus for the duration of the encounter. 
-
-If enough damage is dealt as to be considered as an instant death, the puppet is permanently destroyed and a new one must be made. Making a new puppet will take 1d10 + 3 hours and the appropriate materials.
 
 ---
 
-### Sorcery Points
+### Equipment. You possess a letter of introduction from your guild. Enter this manually as a custom item.
+
+
+---
+
+### Guild Membership. As an established and respected member of a guild, you can rely on certain benefits that membership provides, Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
+
+
+---
+
+### Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers. You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces. .
+
+
+---
+
+### Hellish Resistance. Resistance to fire damage.
+
+
+---
+
+### Infernal Legacy. You know thaumaturgy and can cast Hellish Rebuke once per day. CHA is the spellcasting ability.
+
 ```consumable
 label: ""
-state_key: "{{frontmatter.name}}_arcane_recovery"
+state_key: axel_infernal_legacy._you_know_thaumaturgy_and_can_cast_hellish_rebuke_once_per_day._cha_is_the_spellcasting_ability.
+uses: 1
+reset_on: new-day
+```
+
+---
+
+### Sorcery Points. You have 3 sorcery points (use 3 times/long rest).
+
+```consumable
+label: ""
+state_key: axel_sorcery_points
 uses: 3
 reset_on:
   - event: long-rest
@@ -245,163 +322,50 @@ reset_on:
 
 ---
 
-### [[distant-spell|Distant Spell]]
-Spend 1 sorcery pt. double the range of a spell with range 5 ft. or greater or make the range of a touch spell 30 ft.
+### Subtle Spell. Spend 1 sorcery pt. to cast a spell without somatic or verbal components.
 
----
-
-### [[subtle-spell|Subtle Spell]]
-Spend 1 sorcery pt. to cast a spell without somatic or verbal components.
-
----
-
-### [[tiefling-infernal-legacy-scag|Tiefling (Infernal Legacy)]]
-```consumable
-label: ""
-state_key: "{{frontmatter.name}}_infernal_legacy"
-uses: 1
-reset_on: new-day
-```
-You know thaumaturgy and can cast Hellish Rebuke once per day. CHA is the spellcasting ability.
-
----
-
-### Draconic Resilience
-+1 HP/level, unarmoured AC 13 + DEX modifier.
-
----
-
-### Hellish Resistance
-Resistance to fire damage.
-
----
-
-### [[guild-artisan|Guild Artisan]]
-
-#### Equipment
-You possess a letter of introduction from your guild. Enter this manually as a custom item.
-
-#### Guild Membership
-As an established and respected member of a guild, you can rely on certain benefits that membership provides, Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
-
-Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers. You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces.
 
 ---
 
 ## Spellbook
 
 ### Spell Slots
-
 ```consumable
 items:
   - label: "Level 1"
-    state_key: '{frontmatter.name}_spells_1'
+    state_key: axel_spells_1
     reset_on: long-rest
     uses: 4
   - label: "Level 2"
-    state_key: axel_spell_2
+    state_key: axel_spells_2
     reset_on: long-rest
     uses: 2
 ```
 
 ### Spells
 
-> [!note]- Cantrips
-> ##### [[dancing-lights|Dancing Lights]]
-> ```spell-components
-> casting_time: 1 action
-> range: 120 ft
-> duration: Concentration, up to 1 minute
-> components: V, S, M (a bit of phosphorus or wychwood, or a glowworm)
->```
->
-> ##### [[mage-hand|Mage Hand]]
-> ```spell-components
-> casting_time: 1 action
-> range: 30 ft
-> duration: 1 minute
-> components: V, S
-> ```
->
-> ##### [[mending|Mending]]
-> ```spell-components
-> casting_time: 1 minute
-> range: Touch
-> duration: Instantaneous
-> components: V, S, M (two loadstones)
-> ```
->
-> ##### [[ray-of-frost|Ray of Frost]]
-> ```spell-components
-> casting_time: 1 action
-> range: 60 ft
-> duration: Instantaneous
-> components: V, S
-> ```
-> 
-> ##### [[thaumaturgy|Thaumaturgy]]
-> ```spell-components
-> casting_time: 1 action
-> range: 60 ft
-> duration: Instantaneous
-> components: V, S
-> ```
-
->[!note]- 1st Level
->
-> ##### [[detect-magic|Detect Magic]]
-> ```spell-components
-> casting_time: 1 action (ritual)
-> range: Self
-> duration: Concentration, up to 10 minutes
-> components: V, S
-> ```
->
-> ##### [[false-life|False Life]]
-> ```spell-components
-> casting_time: 1 action
-> range: 60 ft
-> duration: 1 hour
-> components: V, S, M (a small amount of alcohol)
-> ```
->
-> ##### [[chaos-bolt-xge|Chaos Bolt]]
-> ```spell-components
-> casting_time: 1 action
-> range: 120 ft
-> duration: Instantaneous
-> components: V, S
-> ```
-
->[!note]- 2nd Level
-> 
-> ##### [[detect-thoughts|Detect Thoughts]]
-> ```spell-components
-> casting_time: 1 action
-> range: Self
-> duration: Concentration, up to 1 minute
-> components: V, S, M (A copper piece)
-> ```
-
+*Spell data not available from DMV export. Please add spells manually or re-run with --orcpub-url parameter.*
 
 ## Inventory
 
-| Name                                           | Quantity | Details            |
-| ---------------------------------------------- | -------- | ------------------ |
-| [[pouch\|Pouch]]                               | 1        | 5 sp, 1 lb.        |
-| [[potion-of-healing\|Potion of Healing]]       | 3        | 50 gp, 1/2 lb.     |
-| Knife, Small                                   | 1        |                    |
-| [[waterskin\|Waterskin]]                       | 1        | 2 sp, 5 lb. (full) |
-| [[bedroll\|Bedroll]]                           | 1        | 1 gp, 7 lb.        |
-| [[rations-1-day\|Rations (1 day)]]             | 10       | 5 sp, 2 lb.        |
-| [[hempen-rope-50-feet\|Hempen Rope (50 feet)]] | 1        | 1 gp, 10 lb.       |
-| [[tinderbox\|Tinderbox]]                       | 1        | 5 sp, 1 lb.        |
-| Clothes, traveller's                           | 1        | 2 gp, 4 lb.        |
-| [[mess-kit\|Mess Kit]]                         | 1        | 2 sp, 1 lb.        |
-| [[backpack\|Backpack]]                         | 1        | 2 gp, 5 lb.        |
-| [[weavers-tools\|Weaver's Tools]]              | 1        |                    |
-| [[torch\|Torch]]                               | 10       | 1 cp, 1 lb.        |
-| [[component-pouch\|Component Pouch]]           | 1        | 25 gp, 2 lb.       |
+| Name | Quantity | Details |
+| ---- | -------- | ------- |
+| [[pouch|Pouch]] | 1 |  |
+| [[potion-of-healing|Potion Of Healing]] | 3 |  |
+| Knife Small | 1 |  |
+| [[waterskin|Waterskin]] | 1 |  |
+| [[bedroll|Bedroll]] | 1 |  |
+| [[rations-1-day|Rations 1 Day ]] | 10 |  |
+| Rope Hempen | 1 |  |
+| [[tinderbox|Tinderbox]] | 1 |  |
+| Clothes Traveler S | 1 |  |
+| [[mess-kit|Mess Kit]] | 1 |  |
+| [[backpack|Backpack]] | 1 |  |
+| [[weavers-tools|Weavers Tools]] | 1 |  |
+| [[torch|Torch]] | 10 |  |
+| [[component-pouch|Component Pouch]] | 1 |  |
+| [[dagger|Dagger]] | 1 |  |
+| [[ersatz-eye-xge|Ersatz Eye]] | 1 |  |
 
 ---
 
@@ -416,10 +380,10 @@ items:
 
 **Worn Armour**:
 **Worn Shield**:
-**Main Hand**: [[Dagger]]
-**Off Hand**: [[Dagger]] (off-hand)
+**Main Hand**: [[dagger|Dagger]]
+**Off Hand**:
 
 ### Magic Items
 
 #### [[ersatz-eye-xge|Ersatz Eye]]
-This artificial eye replaces a real one that was lost or removed. While the ersatz eye is embedded in your eye socket, it can't be removed by anyone other than you, and you can see through the tiny orb as though it were a normal eye.
+*Add magic item description here*

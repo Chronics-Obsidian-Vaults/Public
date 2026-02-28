@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "player_name": null,
+  "character": [
+    {
+      "passive_perception": 14,
+      "immunities": [
+        {
+          "value": "magical-sleep",
+          "qualifier": null
+        }
+      ],
+      "subrace": "Drow",
+      "ac": 16,
+      "saving_throw_advantages": null,
+      "proficiency_bonus": "4",
+      "race": "Elf",
+      "alignment": "Lawful Neutral",
+      "experience": null,
+      "background": "Courtier",
+      "equipment": [
+        {
+          "equipment": {
+            "clothes-fine": {
+              "id": 17592359273499,
+              "quantity": 1,
+              "equipped?": true,
+              "background-starting-equipment?": true
+            },
+            "pouch": {
+              "id": 17592359273501,
+              "quantity": 1,
+              "equipped?": true,
+              "background-starting-equipment?": true
+            },
+            "explorers-pack": {
+              "id": 17592362648972,
+              "quantity": 1,
+              "equipped?": true,
+              "class-starting-equipment?": true
+            },
+            "crossbow-bolt": {
+              "id": 17592362648974,
+              "quantity": 20,
+              "equipped?": true,
+              "class-starting-equipment?": true
+            },
+            "signet-ring": {
+              "id": 17592362658631,
+              "quantity": 1,
+              "equipped?": true
+            },
+            "potion-of-healing": {
+              "id": 17592362658633,
+              "quantity": 5,
+              "equipped?": true
+            }
+          },
+          "armor": {
+            "scale-mail": {
+              "quantity": 1,
+              "equipped?": true
+            }
+          },
+          "magic-armor": null,
+          "magic-items": {
+            "sending-stones": {
+              "id": 17592362658629,
+              "quantity": 5,
+              "equipped?": true
+            }
+          },
+          "weapons": [
+            [
+              "rapier",
+              {
+                "equipped?": true,
+                "quantity": 1
+              }
+            ]
+          ],
+          "magic-weapons": [
+            [
+              "firearm-hand-dmv-1",
+              {
+                "id": 17592362658692,
+                "quantity": 1,
+                "equipped?": true
+              }
+            ],
+            [
+              "firearm-long-dmv-1",
+              {
+                "id": 17592362658694,
+                "quantity": 1,
+                "equipped?": true
+              }
+            ]
+          ]
+        }
+      ],
+      "spells": [
+        {
+          "spellcasting_fields": "TO-DO Spells. um yah... it's a nightmare to pull spells and details"
+        }
+      ],
+      "damage_resistances": [],
+      "treasure": {
+        "gp": 5,
+        "pp": 1500,
+        "treasure": ""
+      },
+      "abilities_bonuses": [
+        {
+          "abilities": {
+            "str": 11,
+            "dex": 17,
+            "con": 13,
+            "int": 13,
+            "wis": 10,
+            "cha": 14
+          },
+          "bonuses": {
+            "str": 0,
+            "dex": 3,
+            "con": 1,
+            "int": 1,
+            "wis": 0,
+            "cha": 2
+          }
+        }
+      ],
+      "image_url": null,
+      "damage_vulnerabilities": null,
+      "proficiencies": [
+        {
+          "all": "Weapon Proficiencies: Martial; Simple\n\nArmor Proficiencies: Light; Medium; Shields\n\nLanguage Proficiencies: Common; Dwarvish; Elvish; Undercommon",
+          "tool": null,
+          "weapon": "Martial; Simple",
+          "armor": "Light; Medium; Shields",
+          "language": "Common; Dwarvish; Elvish; Undercommon"
+        }
+      ],
+      "skills": {
+        "religion": "+1",
+        "animal-handling-check": false,
+        "persuasion": "+6",
+        "sleight-of-hand-check": false,
+        "religion-check": false,
+        "nature-check": false,
+        "investigation": "+5",
+        "performance-check": false,
+        "acrobatics": "+3",
+        "performance": "+2",
+        "perception": "+4",
+        "sleight-of-hand": "+3",
+        "medicine-check": false,
+        "investigation-check": true,
+        "survival": "0",
+        "history": "+5",
+        "history-check": true,
+        "animal-handling": "0",
+        "nature": "+1",
+        "deception": "+2",
+        "intimidation": "+2",
+        "arcana": "+5",
+        "athletics": "0",
+        "perception-check": true,
+        "intimidation-check": false,
+        "survival-check": false,
+        "insight-check": true,
+        "stealth-check": false,
+        "deception-check": false,
+        "athletics-check": false,
+        "persuasion-check": true,
+        "arcana-check": true,
+        "acrobatics-check": false,
+        "insight": "+4",
+        "medicine": "0",
+        "stealth": "+3"
+      },
+      "characteristics": [
+        {
+          "factions_and_organizations": null,
+          "faction_image_url": null,
+          "eyes": "Red",
+          "age": "350",
+          "sex": "Female",
+          "ideals": "Violence is always welcome if warranted",
+          "speed": 30,
+          "personality-trait-2": "Vengeful",
+          "bonds": null,
+          "personality_trait_1": "Cold",
+          "weight": "150",
+          "hair": "White",
+          "skin": "Pale Purple",
+          "height": "5'7\"",
+          "character_backstory": "",
+          "flaws": null
+        }
+      ],
+      "save_bonuses": {
+        "str": 0,
+        "dex": 7,
+        "con": 1,
+        "int": 5,
+        "wis": 0,
+        "cha": 2
+      },
+      "character_name": "Nadyha Prenya",
+      "attacks": {
+        "weapon-name-2": "Firearm, Hand (DMV) +1",
+        "weapon-attack-bonus-2": "+8",
+        "weapon-damage-1": "1d8+3 piercing",
+        "weapon-damage-3": "1d12+4 piercing",
+        "weapon-name-1": "Rapier",
+        "weapon-attack-bonus-3": "+8",
+        "attacks-and-spellcasting": "Number of Attacks: 2\n",
+        "weapon-name-3": "Firearm, Long (DMV) +1",
+        "weapon-damage-2": "1d10+4 piercing",
+        "weapon-attack-bonus-1": "+7"
+      },
+      "hp": [
+        {
+          "hp_current": null,
+          "hp_max": 95
+        }
+      ],
+      "initiative_bonus": 3,
+      "classes": {
+        "blood-hunter-order-of-the-profane-soul-": {
+          "class-name": "Blood Hunter (Order of the Profane Soul)",
+          "class-level": 8,
+          "hit-die": 10,
+          "subclass": "the-undying",
+          "subclass-name": "The Undying"
+        },
+        "warlock": {
+          "class-name": "Warlock",
+          "class-level": 4,
+          "hit-die": 8,
+          "subclass": "the-undead",
+          "subclass-name": "The Undead"
+        }
+      },
+      "condition_immunities": [],
+      "traits": {
+        "features-and-traits-2": "Darkvision: 120 ft.\nImmunities: magical-sleep\n\n----------Bonus Actions----------\nForm of Dread. At 1st level, you manifest an aspect of your patron’s dreadful power. As a bonus action, you transform for 1 minute. You gain the following benefits while transformed:\n\nYou gain temporary hit points equal to 1d10 + your warlock level.\nOnce during each of your turns, when you hit a creature with an attack, you can force it to make a Wisdom saving throw, and if the saving throw fails, the target is frightened of you until the end of your next turn.\nYou are immune to the frightened condition.\nYou can transform a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.\n\nThe appearance of your Form of Dread reflects some aspect of your patron. For example, your form could be a shroud of shadows forming the crown and robes of your lich patron, or your body might glow with glyphs from ancient funerary rites and be surrounded by desert winds, suggesting your mummy patron.\n\n---------------Actions--------------\nSending Stones. Cast sending to communicate with the holder of the other stone (use once/day).\n\n-----------Other Traits------------\nBlood Curse of the Fallen Puppet. When a creature you can see within 30 feet drops to 0 hit points, you can use your reaction to make that creature immediately makes a single weapon attack against a target of your choice within its attack range.\n   Amplify. You can first move the cursed creature up to half their speed, and you grant a bonus to the cursed creature’s attack roll equal to your Intelligence modifier (minimum of 1).\n\nBlood Curse of the Marked. As a bonus action, you can mark a creature within 30 feet of you. Until the end of your turn, whenever you deal rite damage to the target, you deal an additional hemocraft die of rite damage.\n   Amplify. The next attack roll you make against the target before the end of your turn has advantage.\n\nBlood Hunter Multiclassing. Should you wish to multiclass into a blood hunter, the prerequisites and proficiencies gained are listed below.\n\nBlood Hunter Multiclassing Prerequisites\nAbility Score Minimum\nStrength 13 or Dexterity 13, and Intelligence 13\n\nBlood Hunter Multiclassing Proficiencies\nProficiencies Gained\nLight armor, medium armor, shields, simple weapons, martial weapons, one skill from the class’s skill list, alchemical supplies.\n\nBlood Hunter Multiclassing with Warlock\nIf multiclassing Order of the Profane Soul with Warlock levels, add a third of your blood hunter levels (rounded down) to your Warlock level and consult the Warlock progression table in the Player’s Handbook for total Spell Slots, Cantrips known, and Spell Slot Level.\n\nBlood Maledict. At 1st level, you gain the ability to channel, and sometimes sacrifice, a part of your vital essence to curse and manipulate creatures through hemocraft magic. You gain one blood curse of your choice, detailed in the “Blood Curses” section at the end of the class description. You learn one additional blood curse of your choice, and you can choose one of the blood curses you know and replace it with another blood curse, at 6th, 10th, 14th, and 18th level.\n   When you use your Blood Maledict, you choose which curse to invoke. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse.\n   You can use this feature once. Beginning at 6th level, you can use your Blood Maledict feature twice, at 13th level you can use it three times between rests, and at 17th level, you can use it four times between rests. You regain all expended uses when you finish a short or long rest.\n\nLevel      Hemocraft Die\n 1st                 1d4\n 2nd                1d4\n 3rd                1d4\n 4th                1d4\n 5th                1d6\n 6th                1d6\n 7th                1d6\n 8th                1d6\n 9th                1d6\n10th               1d6\n11th               1d8\n12th               1d8\n13th               1d8\n14th               1d8\n15th               1d8\n16th               1d8\n17th              1d10\n18th              1d10\n19th              1d10\n20th              1d10.\n\nBrand of Castigation. At 6th level, whenever you damage a creature with your Crimson Rite feature, you can choose to sear an arcane brand of hemocraft magic into it (requires no action). You always know the direction to the branded creature, and each time the branded creature deals damage to you or a creature you can see within 5 feet of you, the branded creature suffers psychic damage equal to your Intelligence modifier (minimum of 1 damage).\n   Your brand lasts until you dismiss it, or you apply a brand to another creature. Your brand counts as a spell for the purposes of dispel magic, and the spell level is equal to half of your blood hunter level (maximum of 9th level spell).\n   Once you use this feature, you can’t use it again until you finish a short or long rest.\n\nCourt Functionary. Your knowledge of how bureaucracies function lets you gain access to the records and inner workings of any noble court or government you encounter. You know who the movers and shakers are, whom to go to for the favors you seek, and what the current intrigues of interest in the group are.\n\nCrimson Rite. At 2nd level, you learn to invoke a rite of hemocraft within your weapon at the cost of your own vitality. Choose one rite from the Primal Rites list below to learn.\n   As a bonus action, you activate a crimson rite on a single weapon with the elemental energy of a known rite of your choice that lasts until you finish a short or long rest, or if you aren’t holding the weapon at the end of your turn. When you activate a rite, you lose a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table.\n   While active, attacks from this weapon deal an additional 1d4 damage of the chosen rite’s type. This damage is magical, and increases as you gain levels as a blood hunter, as shown in the Hemocraft Die column of the Blood Hunter table. A weapon can only hold a single active rite at a time.\n   You learn an additional Primal Rite of your choice at 7th level, and choose an Esoteric Rite to learn at 14th level.\n\nDefensive Duelist. When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.\n\nDrow High Magic. Prerequisite: Drow subrace\nYou learn more of the magic typical of dark elves. You learn the detect magic spell and can cast it at will, without expending a spell slot. You also learn levitate and dispel magic, each of which you can cast once without expending a spell slot. You regain the ability to cast those two spells in this way when you finish a long rest. Charisma is your spellcasting ability for all three spells.\n\nDrow Magic. You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once per day. When you reach 5th level, you can also cast the darkness spell once per day. You regain the ability to cast these spells with this trait when you finish a long rest. Charisma is your spellcasting ability for these spells.\n\nDrow Weapon Training. You have proficiency with rapiers, shortswords, and hand crossbows.\n\nDueling. When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.\n\nEldritch Invocation: Armor of Shadows. Cast mage armor on yourself at will.\n\nEldritch Invocation: Thief of Five Fates. Cast bane warlock spell slot (use once/long rest).\n\nFey Ancestry. Advantage on charmed saves and immune to sleep magic.\n\nFighting Style. At 2nd level, you adopt a style of fighting as your specialty. Choose one of the provided options. You can’t take a Fighting Style option more than once, even if you later get to choose again.\n\nGunner. You have a quick hand and keen eye when employing firearms, granting you the following benefits:\n\n    • Increase your Dexterity score by 1, to a maximum of 20.\n    • You gain proficiency with firearms (see “Firearms” in the Dungeon Master’s Guide).\n    • You ignore the loading property of firearms.\n    • Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.\n\nHunter's Bane. Beginning at 1st level, you have survived the Hunter’s Bane, a dangerous, long-guarded ritual that alters your life’s blood, forever binding you to the darkness and honing your senses against it. You have advantage on Wisdom (Survival) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.\n   The Hunter’s Bane also empowers your body to control and shape hemocraft magic, using your own blood and life essence to fuel your abilities. Some of your features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:\n\nHemocraft save DC = 8 + your proficiency bonus + your Intelligence modifier.\n\nMystic Frenzy. Starting at 7th level, when you use your action to cast a cantrip, you can immediately make one weapon attack as a bonus action.\n\nOtherworldly Patron. When you reach 3rd level, you strike a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each detailed in the Player’s Handbook, the Undying within the Sword Coast Adventurer’s Guide, and the Celestial or Hexblade in Xanathar’s Guide to Everything. Your choice augments some of your order features.\n\nPact Boon: Pact of the Tome. You have a spellbook with 3 extra cantrips.\n\nPact Magic. When you reach 3rd level, you can augment your combat techniques with the ability to cast spells. See chapter 10 of the Player’s Handbook for the general rules of spellcasting and chapter 11 of the Player’s Handbook for the Warlock spell list.\n   Cantrips. You learn two cantrips of your choice from the warlock spell list. You learn an additional warlock cantrip of your choice at 10th level.\n   Spell Slots. The Profane Soul Spellcasting table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.\n   For example, when you are 8th level, you have two 2nd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 2nd-level spell.\n   Spells Known of 1st Level and Higher. At 3rd level, you know two 1st-level spells of your choice from the warlock spell list.\n   The Spells Known column of the Profane Soul table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach 11th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.\n   Additionally, when you gain a level in this class and order, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.\n   Spellcasting Ability. Intelligence is your spellcasting ability for your warlock spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.\n\nNote: Your spell slots and cantrips known do not display properly. Refer to the table below for proper spells known and spell slot level.\n\nProfane Soul Spellcasting\nBlood Hunter Level    Cantrips Known    Spells Known      Spell Slots       Slot Level\n                3rd                             2                             2                         1                     1st\n                4th                             2                             2                         1                     1st\n                5th                             2                             3                         1                     1st\n                6th                             2                             3                         2                     1st\n                7th                             2                             4                         2                     2nd\n                8th                             2                             4                         2                     2nd\n                9th                             2                             5                         2                     2nd\n               10th                            3                             5                         2                     2nd\n               11th                            3                             6                         2                     2nd\n               12th                            3                             6                         2                     2nd\n               13th                            3                             7                         2                     3rd\n               14th                            3                             7                         2                     3rd\n               15th                            3                             8                         2                     3rd\n               16th                            3                             8                         2                     3rd\n               17th                            3                             9                         2                     3rd\n               18th                            3                             9                         2                     3rd\n               19th                            3                             10                       2                     4th\n               20th                            3                             11                       2                     4th\n\nSpell save DC = 8 + your proficiency bonus + your Intelligence modifier.\n\nSpell attack modifier = your proficiency bonus + your Intelligence modifier.\n\nRevealed Arcana. At 7th level, your dark patron grants you the rare use of a dangerous arcane spell based on your pact.\n   The Undying. You can cast blindness/deafness once using a pact magic spell slot. You can’t do so again until you finish a long rest.\n\nRite Focus. Beginning at 3rd level, your weapon becomes a core to your pact with your chosen dark patron. While you have an active Crimson Rite, you can use your weapon as a spellcasting focus (found in chapter 5 of the Player’s Handbook) for your warlock spells, and you gain a specific benefit based on your chosen pact (outlined below).\n   The Undying. Whenever you reduce a hostile creature to 0 hit points using a weapon, you regain a number of hit points equal to one roll of your hemocraft die.\n\nRite of the Flame. Your rite damage is fire damage.\n\nRite of the Frozen. Your rite damage is cold damage.\n\nSunlight Sensitivity. You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.\n\nSuperior Darkvision. Your darkvision has a radius of 120 feet.\n\nTrance. Trance 4 hrs. instead of sleep 8."
+      }
+    }
+  ]
+}
