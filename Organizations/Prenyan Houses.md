@@ -46,7 +46,7 @@ Specialists in magical research and enchantment services:
 
 ### The Akveta District
 
-Located on the eastern slopes, this district focuses on luxury goods production and the limited high-value trade that Geldeon permits.
+Located on the western slopes, this district focuses on luxury goods production and the limited high-value trade that Geldeon permits.
 
 #### House Zothello
 Renowned for their mastery of luxury goods and selective trade operations:
@@ -70,7 +70,7 @@ Masters of internal logistics and distribution:
 
 ### The Gruhor District
 
-Positioned on the western slopes, this district commands mining operations and serves as the industrial backbone of Geldeon's economy.
+Positioned on the eastern slopes, this district commands mining operations and serves as the industrial backbone of Geldeon's economy.
 
 #### House Gruhor
 A dwarf family that dominates Geldeon's mining operations:

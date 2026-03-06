@@ -7,6 +7,8 @@ Welcome to the player-accessible campaign wiki for **Chronics of the Times Befor
 This repository contains all canonical campaign information accessible to players:
 
 ### 📖 Core Content
+- **[Assets/](Assets/)**: Character portraits, visual assets, and campaign imagery
+- **[Character Notes/](Character Notes/)**: Player character journals, logs, and personal narratives
 - **[Characters/](Characters/)**: Player characters and notable NPCs
   - `NPCs/`: Non-player character profiles
   - `Playable/`: Player character information
