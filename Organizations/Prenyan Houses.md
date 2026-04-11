@@ -37,12 +37,12 @@ Masters of information and internal communication networks:
 * Cultural preservation and maintenance of pre-war Amberlight traditions
 * Educational institutions focused on preserving knowledge
 
-#### House Thornwick
-Specialists in magical research and enchantment services:
-* Magical enhancement of everyday items for local use
-* Protective ward systems for wealthy estates
-* Arcane consultation for guild operations
-* Maintenance of the city's magical infrastructure
+#### House Stormwind
+Masters of resource management and environmental control:
+* Weather monitoring and prediction for mining and agriculture
+* Management of the city's water resources and distribution
+* Agricultural oversight for Geldeon's limited food production
+* Natural resource conservation and sustainability planning
 
 ### The Akveta District
 
@@ -88,12 +88,12 @@ Specialists in construction and architectural engineering:
 * Quarrying operations and stone preparation
 * Civil engineering projects throughout the city
 
-#### House Stormwind
-Masters of resource management and environmental control:
-* Weather monitoring and prediction for mining and agriculture
-* Management of the city's water resources and distribution
-* Agricultural oversight for Geldeon's limited food production
-* Natural resource conservation and sustainability planning
+#### House Thornwick
+Specialists in magical research and enchantment services:
+* Magical enhancement of everyday items for local use
+* Protective ward systems for wealthy estates
+* Arcane consultation for guild operations
+* Maintenance of the city's magical infrastructure
 
 ## Political Influence
 

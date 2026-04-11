@@ -12,6 +12,8 @@ fc-calendar: Cylostran Calendar
 fc-date: 3683-08-01
 fc-end: 3962-08-42
 fc-category: Political
+aliases:
+  - The Rending
 ---
 
 The Cylostran Civil War, commonly known as The Rending, erupted in the year 3228 of the Age of Flourish. At this time, [[Cylostra|Cylostra]] existed as a unified continental nation called the Cylostran Empire, with its capital city established in [[Kaskond|Kaskond]].
