@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "+1 Fate Dealer's Deck"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # +1 Fate Dealer's Deck
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  

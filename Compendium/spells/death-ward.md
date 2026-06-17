@@ -31,6 +31,15 @@ classes:
 - Warlock (The Undying)
 aliases:
 - Death Ward
+level: 4
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: "8 hours"
+components_vsm: [V, S]
 ---
 # Death Ward
 *4th-level, Abjuration*  

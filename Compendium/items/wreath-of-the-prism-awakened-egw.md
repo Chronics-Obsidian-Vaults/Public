@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Wreath of the Prism (Awakened)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Wreath of the Prism (Awakened)
 *Wondrous item, legendary (requires attunement)*  

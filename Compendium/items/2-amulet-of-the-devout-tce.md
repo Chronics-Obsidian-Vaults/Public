@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "+2 Amulet of the Devout"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # +2 Amulet of the Devout
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  

@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Charm Person
+level: 1
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: "1 hour"
+components_vsm: [V, S]
 ---
 # Charm Person
 *1st-level, Enchantment*  

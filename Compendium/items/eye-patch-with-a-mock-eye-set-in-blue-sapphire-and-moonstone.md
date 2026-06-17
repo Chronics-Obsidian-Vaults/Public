@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Eye patch with a mock eye set in blue sapphire and moonstone"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Eye patch with a mock eye set in blue sapphire and moonstone
 *Treasure (art object)*  

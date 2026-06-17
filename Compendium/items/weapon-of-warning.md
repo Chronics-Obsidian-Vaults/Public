@@ -68,6 +68,10 @@ aliases:
 - "Warhammer of Warning"
 - "Whip of Warning"
 - "Yklwa of Warning"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: uncommon
+attunement: required
 ---
 # Weapon of Warning
 *Major, uncommon (requires attunement)*  

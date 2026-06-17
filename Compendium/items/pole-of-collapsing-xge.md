@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Pole of Collapsing"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Pole of Collapsing
 *Wondrous item, minor, common*  

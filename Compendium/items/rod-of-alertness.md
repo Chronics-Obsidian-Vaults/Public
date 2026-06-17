@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Rod of Alertness"
+item_type: wondrous
+item_subtype: rod
+rarity: very-rare
+attunement: required
 ---
 # Rod of Alertness
 *Rod, major, very rare (requires attunement)*  

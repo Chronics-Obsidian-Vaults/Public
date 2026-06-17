@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Sleep
+level: 1
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a pinch of fine sand, rose petals, or a cricket)"
+duration: "1 minute"
+components_vsm: [V, S, M]
 ---
 # Sleep
 *1st-level, Enchantment*  

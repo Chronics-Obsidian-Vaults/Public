@@ -18,6 +18,15 @@ classes:
 - Ranger
 aliases:
 - Hunter's Mark
+level: 1
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: "90 feet"
+components: V
+duration: "Concentration, up to 1 hour"
+components_vsm: [V]
 ---
 # Hunter's Mark
 *1st-level, Divination*  

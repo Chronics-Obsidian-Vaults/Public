@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Elemental Gem, Blue Sapphire"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Elemental Gem, Blue Sapphire
 *Wondrous item, minor, uncommon*  

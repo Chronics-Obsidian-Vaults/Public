@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Musket Bullet"
+item_type: 
+item_subtype: 
+rarity: unknown
+attunement: none
 ---
 # Musket Bullet
 *Ammunition (firearm)*  

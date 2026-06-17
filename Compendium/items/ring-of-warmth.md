@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Warmth"
+item_type: wondrous
+item_subtype: ring
+rarity: uncommon
+attunement: required
 ---
 # Ring of Warmth
 *Ring, major, uncommon (requires attunement)*  

@@ -26,6 +26,15 @@ classes:
 - Wizard
 aliases:
 - Hypnotic Pattern
+level: 3
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [S, M]
 ---
 # Hypnotic Pattern
 *3rd-level, Illusion*  

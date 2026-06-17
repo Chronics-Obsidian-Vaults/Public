@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Chain Lightning
+level: 6
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Chain Lightning
 *6th-level, Evocation*  

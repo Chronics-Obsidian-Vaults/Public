@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/other
 aliases: 
 - "Sunbeam Compass"
+item_type: wondrous
+item_subtype: other
+rarity: unknown/magic
+attunement: none
 ---
 # Sunbeam Compass
 *Wondrous item, other*  

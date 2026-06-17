@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Poison Resistance"
+item_type: wondrous
+item_subtype: potion
+rarity: uncommon
+attunement: none
 ---
 # Potion of Poison Resistance
 *Potion, minor, uncommon*  

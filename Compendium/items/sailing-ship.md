@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/ship-water
 aliases: 
 - "Sailing Ship"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Sailing Ship
 *Ship, vehicle (water)*  

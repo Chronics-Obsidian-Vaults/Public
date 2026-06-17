@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Booming Blade
+level: 0
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (5-foot Radius)
+components: "S, M (a melee weapon worth at least 1 sp)"
+duration: "1 round"
+components_vsm: [S, M]
 ---
 # Booming Blade
 *cantrip, Evocation*  

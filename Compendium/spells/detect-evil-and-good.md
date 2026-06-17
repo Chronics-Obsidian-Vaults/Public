@@ -21,6 +21,15 @@ classes:
 - Warlock (The Genie, Dao)
 aliases:
 - Detect Evil and Good
+level: 1
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S]
 ---
 # Detect Evil and Good
 *1st-level, Divination*  

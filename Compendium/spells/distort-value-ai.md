@@ -23,6 +23,15 @@ classes:
 - Wizard
 aliases:
 - Distort Value
+level: 1
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Touch
+components: V
+duration: "8 hours"
+components_vsm: [V]
 ---
 # Distort Value
 *1st-level, Illusion*  

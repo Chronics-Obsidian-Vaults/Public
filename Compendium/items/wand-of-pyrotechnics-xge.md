@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Wand of Pyrotechnics"
+item_type: wondrous
+item_subtype: wand
+rarity: common
+attunement: none
 ---
 # Wand of Pyrotechnics
 *Wand, minor, common*  

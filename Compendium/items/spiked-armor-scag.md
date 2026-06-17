@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Spiked Armor"
+item_type: armor
+item_subtype: medium
+rarity: unknown
+attunement: none
 ---
 # Spiked Armor
 *Medium armor*  

@@ -20,6 +20,10 @@ aliases:
 - "Spiked Barding"
 - "Splint Barding"
 - "Studded Leather Barding"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Barding
 *Tack and harness*  

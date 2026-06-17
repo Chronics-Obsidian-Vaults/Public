@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Sling"
+item_type: weapon
+item_subtype: "ranged, simple"
+rarity: none
+attunement: none
 ---
 # Sling
 *Weapon*  

@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Moodmark Paint"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Moodmark Paint
 *Wondrous item, common*  

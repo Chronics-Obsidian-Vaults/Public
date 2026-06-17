@@ -36,6 +36,15 @@ classes:
 - Wizard
 aliases:
 - Burning Hands
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (15-foot Cone)
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Burning Hands
 *1st-level, Evocation*  

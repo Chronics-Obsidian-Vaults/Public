@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Chromatic Orb
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a diamond worth at least 50 gp)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Chromatic Orb
 *1st-level, Evocation*  

@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Orzhov Guild Signet"
+item_type: wondrous
+item_subtype: ring
+rarity: uncommon
+attunement: required
 ---
 # Orzhov Guild Signet
 *Ring, uncommon (requires attunement)*  

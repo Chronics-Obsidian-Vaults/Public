@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Bloodaxe"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Bloodaxe
 *Weapon ([greataxe](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/greataxe.md)), very rare (requires attunement)*  

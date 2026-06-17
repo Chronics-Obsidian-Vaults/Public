@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Silk robe with gold embroidery"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Silk robe with gold embroidery
 *Treasure (art object)*  

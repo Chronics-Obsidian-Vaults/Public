@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Forcecage
+level: 7
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "100 feet"
+components: "V, S, M (ruby dust worth 1,500 gp)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Forcecage
 *7th-level, Evocation*  

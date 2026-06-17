@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Stone of Controlling Earth Elementals"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous item, major, rare*  

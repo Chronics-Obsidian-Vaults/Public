@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Embroidered silk handkerchief"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Embroidered silk handkerchief
 *Treasure (art object)*  

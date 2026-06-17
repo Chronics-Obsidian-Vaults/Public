@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Coin of Decisionry"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: none
 ---
 # Coin of Decisionry
 *Wondrous item*  

@@ -3,6 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
+item_type: 
+item_subtype: 
+rarity: 
+attunement: none
 ---
 # Index of Items
 

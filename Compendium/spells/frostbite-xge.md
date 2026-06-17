@@ -39,6 +39,15 @@ classes:
 - Wizard
 aliases:
 - Frostbite
+level: 0
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Frostbite
 *cantrip, Evocation*  

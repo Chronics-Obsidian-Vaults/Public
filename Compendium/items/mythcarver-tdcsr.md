@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Mythcarver"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Mythcarver
 *Weapon ([longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md)), legendary (requires attunement by a bard)*  

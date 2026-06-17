@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Belashyrra's Beholder Crown"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Belashyrra's Beholder Crown
 *Wondrous item, legendary (requires attunement)*  

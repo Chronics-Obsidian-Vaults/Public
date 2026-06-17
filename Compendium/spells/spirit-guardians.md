@@ -19,6 +19,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Spirit Guardians
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (15-foot Radius)
+components: "V, S, M (a holy symbol)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Spirit Guardians
 *3rd-level, Conjuration*  

@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/scroll
 aliases: 
 - "Spell Scroll (8th Level)"
+item_type: wondrous
+item_subtype: scroll
+rarity: very-rare
+attunement: none
 ---
 # Spell Scroll (8th Level)
 *Scroll, minor, very rare*  

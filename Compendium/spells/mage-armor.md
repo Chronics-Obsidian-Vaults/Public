@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Mage Armor
+level: 1
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a piece of cured leather)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Mage Armor
 *1st-level, Abjuration*  

@@ -8,6 +8,10 @@ tags:
 - source/item/shield/
 aliases: 
 - "Boomerang Shield"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Boomerang Shield
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), uncommon (requires attunement)*  

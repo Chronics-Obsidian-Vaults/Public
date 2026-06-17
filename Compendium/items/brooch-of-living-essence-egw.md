@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Brooch of Living Essence"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Brooch of Living Essence
 *Wondrous item, uncommon (requires attunement)*  

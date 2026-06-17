@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Necklace of Adaptation"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Necklace of Adaptation
 *Wondrous item, major, uncommon (requires attunement)*  

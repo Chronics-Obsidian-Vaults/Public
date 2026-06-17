@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Rope of Entanglement"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Rope of Entanglement
 *Wondrous item, major, rare*  

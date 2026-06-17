@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Figurine of Wondrous Power, Onyx Dog"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Figurine of Wondrous Power, Onyx Dog
 *Wondrous item, major, rare*  

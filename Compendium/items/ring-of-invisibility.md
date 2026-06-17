@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Invisibility"
+item_type: wondrous
+item_subtype: ring
+rarity: legendary
+attunement: required
 ---
 # Ring of Invisibility
 *Ring, major, legendary (requires attunement)*  

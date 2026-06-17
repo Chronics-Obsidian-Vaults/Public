@@ -25,6 +25,15 @@ classes:
 - Warlock (The Undying)
 aliases:
 - Aura of Life
+level: 4
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (30-foot Radius)
+components: V
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V]
 ---
 # Aura of Life
 *4th-level, Abjuration*  

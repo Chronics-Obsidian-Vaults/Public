@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Titanstone Knuckles (Dormant)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Titanstone Knuckles (Dormant)
 *Wondrous item, legendary (requires attunement)*  

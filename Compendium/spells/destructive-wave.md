@@ -15,6 +15,15 @@ classes:
 - Paladin
 aliases:
 - Destructive Wave
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (30-foot Radius)
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Destructive Wave
 *5th-level, Evocation*  

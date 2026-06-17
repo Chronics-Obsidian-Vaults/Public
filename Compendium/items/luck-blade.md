@@ -17,6 +17,10 @@ aliases:
 - "Luck Blade Rapier"
 - "Luck Blade Scimitar"
 - "Luck Blade Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Luck Blade
 *Major, legendary (requires attunement)*  

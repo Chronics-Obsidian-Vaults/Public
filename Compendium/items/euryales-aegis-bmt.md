@@ -8,6 +8,10 @@ tags:
 - source/item/shield/
 aliases: 
 - "Euryale's Aegis"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Euryale's Aegis
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), legendary (requires attunement)*  

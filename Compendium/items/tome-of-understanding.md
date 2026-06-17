@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Tome of Understanding"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Tome of Understanding
 *Wondrous item, major, very rare*  

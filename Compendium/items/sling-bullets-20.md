@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Sling Bullets (20)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Sling Bullets (20)
 *Ammunition*  

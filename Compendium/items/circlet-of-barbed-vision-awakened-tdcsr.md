@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Circlet of Barbed Vision (Awakened)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Circlet of Barbed Vision (Awakened)
 *Wondrous item, legendary (requires attunement by a creature of non-good alignment)*  

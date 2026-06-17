@@ -10,6 +10,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Mace of Disruption"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: rare
+attunement: required
 ---
 # Mace of Disruption
 *Weapon ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), major, rare (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Signet Ring"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Signet Ring
 *Adventuring gear*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Pair of engraved bone dice"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Pair of engraved bone dice
 *Treasure (art object)*  

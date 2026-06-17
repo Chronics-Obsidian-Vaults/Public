@@ -14,6 +14,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Vicious Mockery
+level: 0
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  

@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Climbing"
+item_type: wondrous
+item_subtype: potion
+rarity: common
+attunement: none
 ---
 # Potion of Climbing
 *Potion, minor, common*  

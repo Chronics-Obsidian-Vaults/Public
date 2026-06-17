@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/other
 aliases: 
 - "Dreamlily"
+item_type: wondrous
+item_subtype: other
+rarity: none
+attunement: none
 ---
 # Dreamlily
 

@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Tether Essence
+level: 7
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a spool of platinum cord worth at least 250 gp, which the spell consumes)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Tether Essence
 *7th-level, Necromancy*  

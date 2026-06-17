@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Ravenous Void
+level: 9
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "1000 feet"
+components: "V, S, M (a small, nine-pointed star made of iron)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Ravenous Void
 *9th-level, Evocation*  

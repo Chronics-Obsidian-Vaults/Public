@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Spell Bottle"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Spell Bottle
 *Wondrous item, legendary (requires attunement)*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Silken Spite (Dormant)"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: artifact
+attunement: required
 ---
 # Silken Spite (Dormant)
 *Weapon ([rapier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rapier.md)), artifact (requires attunement)*  

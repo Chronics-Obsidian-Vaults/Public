@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potions of Healing"
+item_type: wondrous
+item_subtype: potion
+rarity: varies
+attunement: none
 ---
 # Potions of Healing
 *Potion*  

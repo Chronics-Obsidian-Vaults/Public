@@ -27,6 +27,15 @@ classes:
 - Wizard
 aliases:
 - Speak with Dead
+level: 3
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "10 feet"
+components: "V, S, M (burning incense)"
+duration: "10 minutes"
+components_vsm: [V, S, M]
 ---
 # Speak with Dead
 *3rd-level, Necromancy*  

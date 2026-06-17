@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Sentinel Shield"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Sentinel Shield
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), major, uncommon*  

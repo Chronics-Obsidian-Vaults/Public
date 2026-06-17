@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Failed Experiment Wand"
+item_type: wondrous
+item_subtype: wand
+rarity: rare
+attunement: required
 ---
 # Failed Experiment Wand
 *Wand, rare (requires attunement by a spellcaster)*  

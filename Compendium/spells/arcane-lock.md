@@ -21,6 +21,15 @@ classes:
 - Wizard
 aliases:
 - Arcane Lock
+level: 2
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (gold dust worth at least 25 gp, which the spell consumes)"
+duration: Until dispelled
+components_vsm: [V, S, M]
 ---
 # Arcane Lock
 *2nd-level, Abjuration*  

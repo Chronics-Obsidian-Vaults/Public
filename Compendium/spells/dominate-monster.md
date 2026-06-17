@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Dominate Monster
+level: 8
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S]
 ---
 # Dominate Monster
 *8th-level, Enchantment*  

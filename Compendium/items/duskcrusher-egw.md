@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Duskcrusher"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Duskcrusher
 *Weapon ([warhammer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/warhammer.md)), very rare (requires attunement)*  

@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Flying Chariot"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Flying Chariot
 *Wondrous item, rare*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Khrusor, Spear of Heliod"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: artifact
+attunement: required
 ---
 # Khrusor, Spear of Heliod
 *Weapon ([spear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spear.md)), artifact (requires attunement)*  

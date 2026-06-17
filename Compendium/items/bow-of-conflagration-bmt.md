@@ -13,6 +13,10 @@ aliases:
 - "Bow of Conflagration"
 - "Longbow of Conflagration"
 - "Shortbow of Conflagration"
+item_type: wondrous
+item_subtype: "generic-variant, martial, ranged, simple"
+rarity: rare
+attunement: required
 ---
 # Bow of Conflagration
 *Rare (requires attunement)*  

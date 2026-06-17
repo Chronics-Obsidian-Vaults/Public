@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Opal"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Opal
 *Treasure (gemstone)*  

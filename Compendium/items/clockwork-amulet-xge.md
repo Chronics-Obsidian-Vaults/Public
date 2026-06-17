@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Clockwork Amulet"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Clockwork Amulet
 *Wondrous item, minor, common*  

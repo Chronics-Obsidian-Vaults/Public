@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Demiplane
+level: 8
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: S
+duration: "1 hour"
+components_vsm: [S]
 ---
 # Demiplane
 *8th-level, Conjuration*  

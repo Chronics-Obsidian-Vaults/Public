@@ -17,6 +17,10 @@ aliases:
 - "Rapier of Vengeance"
 - "Scimitar of Vengeance"
 - "Shortsword of Vengeance"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: uncommon
+attunement: required
 ---
 # Sword of Vengeance
 *Cursed item, major, uncommon (requires attunement)*  

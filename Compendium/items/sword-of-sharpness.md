@@ -15,6 +15,10 @@ aliases:
 - "Greatsword of Sharpness"
 - "Longsword of Sharpness"
 - "Scimitar of Sharpness"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Sword of Sharpness
 *Major, very rare (requires attunement)*  

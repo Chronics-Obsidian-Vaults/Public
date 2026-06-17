@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Telekinesis
+level: 5
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S]
 ---
 # Telekinesis
 *5th-level, Transmutation*  

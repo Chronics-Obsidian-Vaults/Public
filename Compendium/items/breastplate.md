@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Breastplate"
+item_type: armor
+item_subtype: medium
+rarity: none
+attunement: none
 ---
 # Breastplate
 *Medium armor*  

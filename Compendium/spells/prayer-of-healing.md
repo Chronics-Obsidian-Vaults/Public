@@ -17,6 +17,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Prayer of Healing
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: "30 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Prayer of Healing
 *2nd-level, Evocation*  

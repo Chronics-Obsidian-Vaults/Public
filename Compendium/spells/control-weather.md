@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Control Weather
+level: 8
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: Self (5-mile Radius)
+components: "V, S, M (burning incense and bits of earth and wood mixed in water)"
+duration: "Concentration, up to 8 hours"
+components_vsm: [V, S, M]
 ---
 # Control Weather
 *8th-level, Transmutation*  

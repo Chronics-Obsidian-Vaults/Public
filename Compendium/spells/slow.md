@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Slow
+level: 3
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a drop of molasses)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Slow
 *3rd-level, Transmutation*  

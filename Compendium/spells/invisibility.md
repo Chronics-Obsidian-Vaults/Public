@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Invisibility
+level: 2
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (an eyelash encased in gum arabic)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Invisibility
 *2nd-level, Illusion*  

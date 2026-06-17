@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Maximum Power"
+item_type: wondrous
+item_subtype: potion
+rarity: rare
+attunement: none
 ---
 # Potion of Maximum Power
 *Potion, rare*  

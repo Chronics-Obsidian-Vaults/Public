@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Siren Song Lyre"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Siren Song Lyre
 *Wondrous item, instrument, rare (requires attunement)*  

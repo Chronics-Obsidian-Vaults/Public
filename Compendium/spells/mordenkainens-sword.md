@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Mordenkainen's Sword
+level: 7
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Mordenkainen's Sword
 *7th-level, Evocation*  

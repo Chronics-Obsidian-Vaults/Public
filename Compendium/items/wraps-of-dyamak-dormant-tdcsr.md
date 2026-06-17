@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Wraps of Dyamak (Dormant)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Wraps of Dyamak (Dormant)
 *Wondrous item, legendary (requires attunement by a monk)*  

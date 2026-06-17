@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Cloak of the Bat"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Cloak of the Bat
 *Wondrous item, major, rare (requires attunement)*  

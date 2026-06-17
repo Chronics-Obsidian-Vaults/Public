@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Deathwalker's Ward (Exalted)"
+item_type: armor
+item_subtype: light
+rarity: legendary
+attunement: required
 ---
 # Deathwalker's Ward (Exalted)
 *Light armor ([studded leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)), legendary (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Apparatus of Kwalish"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Apparatus of Kwalish
 *Wondrous item, major, legendary*  

@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Oil of Slipperiness"
+item_type: wondrous
+item_subtype: potion
+rarity: uncommon
+attunement: none
 ---
 # Oil of Slipperiness
 *Potion, minor, uncommon*  

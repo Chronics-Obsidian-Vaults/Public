@@ -12,6 +12,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Encode Thoughts
+level: 0
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: S
+duration: "8 hours"
+components_vsm: [S]
 ---
 # Encode Thoughts
 *cantrip, Enchantment*  

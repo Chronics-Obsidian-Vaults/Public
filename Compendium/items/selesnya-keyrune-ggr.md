@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Selesnya Keyrune"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Selesnya Keyrune
 *Wondrous item, rare (requires attunement by a member of the Selesnya guild)*  

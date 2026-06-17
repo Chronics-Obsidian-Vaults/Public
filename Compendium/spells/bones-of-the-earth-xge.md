@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Bones of the Earth
+level: 6
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Bones of the Earth
 *6th-level, Transmutation*  

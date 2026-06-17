@@ -24,6 +24,10 @@ aliases:
 - "Living Spiked Armor"
 - "Living Splint Armor"
 - "Living Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: very-rare
+attunement: required
 ---
 # Living Armor
 *Very rare (requires attunement)*  

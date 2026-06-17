@@ -16,6 +16,15 @@ classes:
 - Paladin (Oath of the Crown)
 aliases:
 - Circle of Power
+level: 5
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (30-foot Radius)
+components: V
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V]
 ---
 # Circle of Power
 *5th-level, Abjuration*  

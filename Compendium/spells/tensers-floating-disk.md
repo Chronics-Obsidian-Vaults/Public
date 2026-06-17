@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Tenser's Floating Disk
+level: 1
+ritual: true
+school: conjuration
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: "30 feet"
+components: "V, S, M (a drop of mercury)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  

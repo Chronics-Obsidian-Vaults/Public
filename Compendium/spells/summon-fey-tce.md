@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Summon Fey
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a gilded flower worth at least 300 gp)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Summon Fey
 *3rd-level, Conjuration*  

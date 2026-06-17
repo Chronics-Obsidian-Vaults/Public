@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Sequester
+level: 7
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)"
+duration: Until dispelled
+components_vsm: [V, S, M]
 ---
 # Sequester
 *7th-level, Transmutation*  

@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "+1 Rhythm-Maker's Drum"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # +1 Rhythm-Maker's Drum
 *Wondrous item, instrument, uncommon (requires attunement by a bard)*  

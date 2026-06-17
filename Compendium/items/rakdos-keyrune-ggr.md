@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Rakdos Keyrune"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Rakdos Keyrune
 *Wondrous item, uncommon (requires attunement by a member of the Rakdos guild)*  

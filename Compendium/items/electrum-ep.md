@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Electrum (ep)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Electrum (ep)
 *Treasure (coinage)*  

@@ -27,6 +27,15 @@ classes:
 - Wizard
 aliases:
 - Dimension Door
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "500 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Dimension Door
 *4th-level, Conjuration*  

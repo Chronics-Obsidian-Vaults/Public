@@ -31,6 +31,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Guidance
+level: 0
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Guidance
 *cantrip, Divination*  

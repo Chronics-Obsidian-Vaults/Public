@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Wall of Sand
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a handful of sand)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Wall of Sand
 *3rd-level, Evocation*  

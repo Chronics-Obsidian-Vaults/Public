@@ -13,6 +13,10 @@ aliases:
 - "Clockwork Plate Armor"
 - "Clockwork Ring Mail"
 - "Clockwork Splint Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy"
+rarity: very-rare
+attunement: required
 ---
 # Clockwork Armor
 *Very rare (requires attunement)*  

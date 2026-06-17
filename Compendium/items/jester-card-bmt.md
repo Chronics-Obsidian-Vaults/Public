@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Jester Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Jester Card
 *Wondrous item, legendary*  

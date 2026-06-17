@@ -24,6 +24,10 @@ aliases:
 - "Cast-Off Spiked Armor"
 - "Cast-Off Splint Armor"
 - "Cast-Off Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: common
+attunement: none
 ---
 # Cast-Off Armor
 *Minor, common*  

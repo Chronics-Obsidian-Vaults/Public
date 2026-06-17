@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Bejeweled ivory drinking horn with gold filigree"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Bejeweled ivory drinking horn with gold filigree
 *Treasure (art object)*  

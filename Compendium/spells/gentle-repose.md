@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Gentle Repose
+level: 2
+ritual: true
+school: necromancy
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Touch
+components: "V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)"
+duration: "10 days"
+components_vsm: [V, S, M]
 ---
 # Gentle Repose
 *2nd-level, Necromancy (ritual)*  

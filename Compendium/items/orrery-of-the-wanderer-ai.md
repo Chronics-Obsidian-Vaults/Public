@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/other
 aliases: 
 - "Orrery of the Wanderer"
+item_type: wondrous
+item_subtype: other
+rarity: artifact
+attunement: required
 ---
 # Orrery of the Wanderer
 *Wondrous item, other, artifact (requires attunement)*  

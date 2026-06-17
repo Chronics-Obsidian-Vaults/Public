@@ -66,6 +66,10 @@ aliases:
 - "Adamantine Warhammer"
 - "Adamantine Whip"
 - "Adamantine Yklwa"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: unknown
+attunement: none
 ---
 # Adamantine Weapon
 *Major*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Carrion Crawler Mucus"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Carrion Crawler Mucus
 *Adventuring gear, poison (contact)*  

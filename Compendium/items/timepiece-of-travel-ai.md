@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Timepiece of Travel"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Timepiece of Travel
 *Wondrous item, very rare (requires attunement)*  

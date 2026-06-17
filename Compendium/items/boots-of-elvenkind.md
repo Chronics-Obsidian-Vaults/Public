@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Boots of Elvenkind"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Boots of Elvenkind
 *Wondrous item, major, uncommon*  

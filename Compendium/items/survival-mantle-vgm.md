@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Survival Mantle"
+item_type: armor
+item_subtype: medium
+rarity: unknown
+attunement: none
 ---
 # Survival Mantle
 *Medium armor*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gold 5-Zino Coin"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gold 5-Zino Coin
 *Treasure (coinage)*  

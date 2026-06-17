@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Clairvoyance"
+item_type: wondrous
+item_subtype: potion
+rarity: rare
+attunement: none
 ---
 # Potion of Clairvoyance
 *Potion, minor, rare*  

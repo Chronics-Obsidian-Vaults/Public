@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Silver"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Silver
 *Trade good*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Basic Poison (vial)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Basic Poison (vial)
 *Adventuring gear, poison*  

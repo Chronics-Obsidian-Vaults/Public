@@ -20,6 +20,15 @@ classes:
 - Ranger
 aliases:
 - Tree Stride
+level: 5
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Tree Stride
 *5th-level, Conjuration*  

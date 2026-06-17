@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Antagonize
+level: 3
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a playing card depicting a rogue)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Antagonize
 *3rd-level, Enchantment*  

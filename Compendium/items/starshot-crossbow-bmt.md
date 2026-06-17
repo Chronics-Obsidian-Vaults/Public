@@ -15,6 +15,10 @@ aliases:
 - "Starshot Heavy Crossbow"
 - "Starshot Light Crossbow"
 - "Starshot Light Repeating Crossbow"
+item_type: wondrous
+item_subtype: "generic-variant, martial, ranged, simple"
+rarity: rare
+attunement: required
 ---
 # Starshot Crossbow
 *Rare (requires attunement)*  

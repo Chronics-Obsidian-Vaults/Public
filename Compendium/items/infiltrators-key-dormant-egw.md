@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Infiltrator's Key (Dormant)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Infiltrator's Key (Dormant)
 *Wondrous item, legendary (requires attunement)*  

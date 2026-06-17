@@ -10,6 +10,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Scimitar of Speed"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Scimitar of Speed
 *Weapon ([scimitar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scimitar.md)), major, very rare (requires attunement)*  

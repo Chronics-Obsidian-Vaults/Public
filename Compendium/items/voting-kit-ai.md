@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Voting Kit"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Voting Kit
 *Wondrous item, common*  

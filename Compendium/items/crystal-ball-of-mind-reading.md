@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Crystal Ball of Mind Reading"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Crystal Ball of Mind Reading
 *Wondrous item, major, legendary (requires attunement)*  

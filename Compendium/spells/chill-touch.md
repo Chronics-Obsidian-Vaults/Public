@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Chill Touch
+level: 0
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: "1 round"
+components_vsm: [V, S]
 ---
 # Chill Touch
 *cantrip, Necromancy*  

@@ -26,6 +26,15 @@ classes:
 - Wizard
 aliases:
 - Counterspell
+level: 3
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Reaction"
+range: "60 feet"
+components: S
+duration: Instantaneous
+components_vsm: [S]
 ---
 # Counterspell
 *3rd-level, Abjuration*  

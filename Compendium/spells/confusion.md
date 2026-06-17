@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Confusion
+level: 4
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (three nut shells)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Confusion
 *4th-level, Enchantment*  

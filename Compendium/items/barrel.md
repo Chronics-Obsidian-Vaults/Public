@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Barrel"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Barrel
 *Adventuring gear*  

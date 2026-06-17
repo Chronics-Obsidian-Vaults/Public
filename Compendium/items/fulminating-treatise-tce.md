@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Fulminating Treatise"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Fulminating Treatise
 *Wondrous item, rare (requires attunement by a wizard)*  

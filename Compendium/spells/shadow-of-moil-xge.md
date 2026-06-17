@@ -12,6 +12,15 @@ classes:
 - Warlock
 aliases:
 - Shadow of Moil
+level: 4
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (an undead eyeball encased in a gem worth at least 150 gp)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Shadow of Moil
 *4th-level, Necromancy*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "The Bloody End"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: artifact
+attunement: required
 ---
 # The Bloody End
 *Weapon ([morningstar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/morningstar.md)), artifact (requires attunement)*  

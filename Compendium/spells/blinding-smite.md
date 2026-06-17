@@ -14,6 +14,15 @@ classes:
 - Paladin
 aliases:
 - Blinding Smite
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Blinding Smite
 *3rd-level, Evocation*  

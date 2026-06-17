@@ -14,6 +14,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Word of Recall
+level: 6
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "5 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Word of Recall
 *6th-level, Conjuration*  

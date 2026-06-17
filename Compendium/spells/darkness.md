@@ -37,6 +37,15 @@ classes:
 - Wizard
 aliases:
 - Darkness
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, M (bat fur and a drop of pitch or piece of coal)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, M]
 ---
 # Darkness
 *2nd-level, Evocation*  

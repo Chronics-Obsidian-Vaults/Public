@@ -10,6 +10,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Sword of Answering (Answerer)"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Sword of Answering (Answerer)
 *Weapon ([longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md)), major, legendary (requires attunement by a chaotic good creature)*  

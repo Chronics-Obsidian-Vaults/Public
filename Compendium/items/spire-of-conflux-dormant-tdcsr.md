@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Spire of Conflux (Dormant)"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: legendary
+attunement: required
 ---
 # Spire of Conflux (Dormant)
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

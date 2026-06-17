@@ -16,6 +16,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Regenerate
+level: 7
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Touch
+components: "V, S, M (a prayer wheel and holy water)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Regenerate
 *7th-level, Transmutation*  

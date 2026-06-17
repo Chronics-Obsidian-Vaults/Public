@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Sending Stones"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Sending Stones
 *Wondrous item, minor, uncommon*  

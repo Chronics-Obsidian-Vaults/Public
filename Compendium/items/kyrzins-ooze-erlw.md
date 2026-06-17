@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Kyrzin's Ooze"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Kyrzin's Ooze
 *Wondrous item, very rare (requires attunement)*  

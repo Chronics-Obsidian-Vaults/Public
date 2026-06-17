@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Bad News Bullets (5)"
+item_type: 
+item_subtype: 
+rarity: unknown
+attunement: none
 ---
 # Bad News Bullets (5)
 *Ammunition (firearm)*  

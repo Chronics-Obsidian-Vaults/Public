@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Electrum 50-Zib Coin"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Electrum 50-Zib Coin
 *Treasure (coinage)*  

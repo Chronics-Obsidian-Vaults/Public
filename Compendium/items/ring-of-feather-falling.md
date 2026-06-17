@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Feather Falling"
+item_type: wondrous
+item_subtype: ring
+rarity: rare
+attunement: required
 ---
 # Ring of Feather Falling
 *Ring, major, rare (requires attunement)*  

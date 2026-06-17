@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Hallucinatory Terrain
+level: 4
+school: illusion
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: "300 feet"
+components: "V, S, M (a stone, a twig, and a bit of green plant)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Hallucinatory Terrain
 *4th-level, Illusion*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Bell Branch"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Bell Branch
 *Wondrous item, rare (requires attunement by a druid or warlock)*  

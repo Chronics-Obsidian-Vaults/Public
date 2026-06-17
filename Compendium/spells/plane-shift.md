@@ -24,6 +24,15 @@ classes:
 - Wizard
 aliases:
 - Plane Shift
+level: 7
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Plane Shift
 *7th-level, Conjuration*  

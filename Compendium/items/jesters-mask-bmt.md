@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Jester's Mask"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Jester's Mask
 *Wondrous item, legendary (requires attunement by a bard, sorcerer, or warlock)*  

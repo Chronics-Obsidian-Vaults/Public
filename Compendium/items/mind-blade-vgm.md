@@ -16,6 +16,10 @@ aliases:
 - "Mind Blade Rapier"
 - "Mind Blade Scimitar"
 - "Mind Blade Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: rare
+attunement: required
 ---
 # Mind Blade
 *Rare (requires attunement by a specific individual)*  

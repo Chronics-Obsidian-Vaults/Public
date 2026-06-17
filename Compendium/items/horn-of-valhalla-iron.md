@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Horn of Valhalla, Iron"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Horn of Valhalla, Iron
 *Wondrous item, major, legendary*  

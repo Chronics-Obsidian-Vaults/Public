@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Hat of Disguise"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Hat of Disguise
 *Wondrous item, major, uncommon (requires attunement)*  

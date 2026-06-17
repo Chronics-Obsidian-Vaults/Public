@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Greataxe"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: none
+attunement: none
 ---
 # Greataxe
 *Weapon*  

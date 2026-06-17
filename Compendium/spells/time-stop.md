@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Time Stop
+level: 9
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Time Stop
 *9th-level, Transmutation*  

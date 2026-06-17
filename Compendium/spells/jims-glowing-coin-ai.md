@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Jim's Glowing Coin
+level: 2
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "S, M (a coin), R"
+duration: "1 minute"
+components_vsm: [S, M]
 ---
 # Jim's Glowing Coin
 *2nd-level, Enchantment*  

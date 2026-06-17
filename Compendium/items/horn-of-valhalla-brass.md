@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Horn of Valhalla, Brass"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Horn of Valhalla, Brass
 *Wondrous item, major, rare*  

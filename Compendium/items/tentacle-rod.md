@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Tentacle Rod"
+item_type: wondrous
+item_subtype: rod
+rarity: rare
+attunement: required
 ---
 # Tentacle Rod
 *Rod, major, rare (requires attunement)*  

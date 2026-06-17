@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Pride Silk"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Pride Silk
 *Adventuring gear*  

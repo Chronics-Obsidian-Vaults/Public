@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Mordenkainen's Private Sanctum
+level: 4
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: "120 feet"
+components: "V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  

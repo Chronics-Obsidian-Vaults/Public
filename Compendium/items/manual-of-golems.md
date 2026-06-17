@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Manual of Golems"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Manual of Golems
 *Wondrous item, major, very rare*  

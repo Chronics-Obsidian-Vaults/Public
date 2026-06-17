@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Blade Ward
+level: 0
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "1 round"
+components_vsm: [V, S]
 ---
 # Blade Ward
 *cantrip, Abjuration*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Sling Bullets of Althemone"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Sling Bullets of Althemone
 *Ammunition, very rare*  

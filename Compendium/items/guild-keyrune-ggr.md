@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Guild Keyrune"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: required
 ---
 # Guild Keyrune
 *Wondrous item (requires attunement by a member of the relevant guild)*  

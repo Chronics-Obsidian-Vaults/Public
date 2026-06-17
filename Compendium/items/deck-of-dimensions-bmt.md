@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Deck of Dimensions"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Deck of Dimensions
 *Wondrous item, very rare (requires attunement)*  

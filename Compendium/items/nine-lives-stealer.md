@@ -17,6 +17,10 @@ aliases:
 - "Nine Lives Stealer Rapier"
 - "Nine Lives Stealer Scimitar"
 - "Nine Lives Stealer Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Nine Lives Stealer
 *Major, very rare (requires attunement)*  

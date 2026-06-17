@@ -18,6 +18,15 @@ classes:
 - Sorcerer
 aliases:
 - Freedom of the Waves
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a strand of wet hair)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Freedom of the Waves
 *3rd-level, Conjuration*  

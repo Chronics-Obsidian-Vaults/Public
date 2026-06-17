@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Azorius Keyrune"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Azorius Keyrune
 *Wondrous item, rare (requires attunement by a member of the Azorius guild)*  

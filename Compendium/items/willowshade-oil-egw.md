@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Willowshade Oil"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Willowshade Oil
 *Adventuring gear*  

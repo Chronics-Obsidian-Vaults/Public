@@ -23,6 +23,15 @@ classes:
 - Wizard
 aliases:
 - Catapult
+level: 1
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: S
+duration: Instantaneous
+components_vsm: [S]
 ---
 # Catapult
 *1st-level, Transmutation*  

@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Periapt of Proof against Poison"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Periapt of Proof against Poison
 *Wondrous item, major, rare*  

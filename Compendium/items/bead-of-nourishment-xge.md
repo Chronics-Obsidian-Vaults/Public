@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Bead of Nourishment"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Bead of Nourishment
 *Wondrous item, minor, common*  

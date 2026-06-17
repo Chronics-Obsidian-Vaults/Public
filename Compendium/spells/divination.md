@@ -30,6 +30,15 @@ classes:
 - Wizard
 aliases:
 - Divination
+level: 4
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Self
+components: "V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Divination
 *4th-level, Divination (ritual)*  

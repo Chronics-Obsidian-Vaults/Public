@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Map or Scroll Case"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Map or Scroll Case
 *Adventuring gear*  

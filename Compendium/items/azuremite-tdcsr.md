@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/unknown/magic
 aliases: 
 - "Azuremite"
+item_type: 
+item_subtype: 
+rarity: unknown/magic
+attunement: none
 ---
 # Azuremite
 *Illegal drug*  

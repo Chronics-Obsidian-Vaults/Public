@@ -21,6 +21,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Shield of Faith
+level: 1
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: "60 feet"
+components: "V, S, M (a small parchment with a bit of holy text written on it)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Shield of Faith
 *1st-level, Abjuration*  

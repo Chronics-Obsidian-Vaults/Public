@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Protective Verses"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Protective Verses
 *Wondrous item, rare (requires attunement by a wizard)*  

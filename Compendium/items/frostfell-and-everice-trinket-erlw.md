@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Frostfell and Everice Trinket"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Frostfell and Everice Trinket
 *Adventuring gear*  

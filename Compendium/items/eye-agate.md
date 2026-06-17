@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Eye Agate"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Eye Agate
 *Treasure (gemstone)*  

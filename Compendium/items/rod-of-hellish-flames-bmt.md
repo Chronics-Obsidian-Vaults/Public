@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Rod of Hellish Flames"
+item_type: wondrous
+item_subtype: rod
+rarity: very-rare
+attunement: required
 ---
 # Rod of Hellish Flames
 *Rod, very rare (requires attunement by a spellcaster)*  

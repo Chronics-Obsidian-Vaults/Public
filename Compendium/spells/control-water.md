@@ -33,6 +33,15 @@ classes:
 - Wizard
 aliases:
 - Control Water
+level: 4
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "300 feet"
+components: "V, S, M (a drop of water and a pinch of dust)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Control Water
 *4th-level, Transmutation*  

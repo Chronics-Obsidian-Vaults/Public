@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Cold Resistance"
 - "Splint Armor of Cold Resistance"
 - "Studded Leather Armor of Cold Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Cold Resistance
 *Major, rare (requires attunement)*  

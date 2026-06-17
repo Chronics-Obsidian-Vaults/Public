@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Far Gear"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Far Gear
 *Wondrous item, very rare (requires attunement)*  

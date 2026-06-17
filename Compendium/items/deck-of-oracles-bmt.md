@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Deck of Oracles"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Deck of Oracles
 *Wondrous item, rare (requires attunement)*  

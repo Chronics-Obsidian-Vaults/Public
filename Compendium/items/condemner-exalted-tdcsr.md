@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Condemner (Exalted)"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: legendary
+attunement: required
 ---
 # Condemner (Exalted)
 *Weapon ([heavy crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/heavy-crossbow.md)), legendary (requires attunement)*  

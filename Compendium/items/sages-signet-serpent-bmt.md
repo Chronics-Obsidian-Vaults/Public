@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Sage's Signet (Serpent)"
+item_type: wondrous
+item_subtype: ring
+rarity: rare
+attunement: required
 ---
 # Sage's Signet (Serpent)
 *Ring, rare (requires attunement by a spellcaster)*  

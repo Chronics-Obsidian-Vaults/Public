@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Turquoise"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Turquoise
 *Treasure (gemstone)*  

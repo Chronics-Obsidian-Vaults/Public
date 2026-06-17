@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Foresight
+level: 9
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Touch
+components: "V, S, M (a hummingbird feather)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Foresight
 *9th-level, Divination*  

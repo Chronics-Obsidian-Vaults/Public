@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/scroll
 aliases: 
 - "Spell Scroll (4th Level)"
+item_type: wondrous
+item_subtype: scroll
+rarity: rare
+attunement: none
 ---
 # Spell Scroll (4th Level)
 *Scroll, minor, rare*  

@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Gaseous Form
+level: 3
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a bit of gauze and a wisp of smoke)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Gaseous Form
 *3rd-level, Transmutation*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Leather Armor"
+item_type: armor
+item_subtype: light
+rarity: none
+attunement: none
 ---
 # Leather Armor
 *Light armor*  

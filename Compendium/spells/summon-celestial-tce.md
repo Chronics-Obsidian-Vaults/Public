@@ -16,6 +16,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Summon Celestial
+level: 5
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a golden reliquary worth at least 500 gp)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Summon Celestial
 *5th-level, Conjuration*  

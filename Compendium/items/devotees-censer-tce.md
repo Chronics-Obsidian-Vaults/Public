@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Devotee's Censer"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: rare
+attunement: required
 ---
 # Devotee's Censer
 *Weapon ([flail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/flail.md)), rare (requires attunement by a cleric or paladin)*  

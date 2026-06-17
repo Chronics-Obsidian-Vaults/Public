@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Skysail"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: rare
+attunement: required
 ---
 # Skysail
 *Wondrous item, weapon ([quarterstaff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/quarterstaff.md)), rare (requires attunement)*  

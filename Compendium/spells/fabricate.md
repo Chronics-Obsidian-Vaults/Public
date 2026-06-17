@@ -21,6 +21,15 @@ classes:
 - Wizard
 aliases:
 - Fabricate
+level: 4
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: "120 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Fabricate
 *4th-level, Transmutation*  

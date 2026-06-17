@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Simic Keyrune"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Simic Keyrune
 *Wondrous item, uncommon (requires attunement by a member of the Simic guild)*  

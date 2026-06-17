@@ -20,6 +20,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Spiritual Weapon
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: "60 feet"
+components: "V, S"
+duration: "1 minute"
+components_vsm: [V, S]
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  

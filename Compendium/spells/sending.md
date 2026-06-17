@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Sending
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Unlimited
+components: "V, S, M (a short piece of fine copper wire)"
+duration: "1 round"
+components_vsm: [V, S, M]
 ---
 # Sending
 *3rd-level, Evocation*  

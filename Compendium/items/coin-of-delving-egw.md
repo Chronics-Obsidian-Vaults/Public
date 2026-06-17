@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Coin of Delving"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Coin of Delving
 *Wondrous item, common*  

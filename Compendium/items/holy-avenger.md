@@ -17,6 +17,10 @@ aliases:
 - "Holy Avenger Rapier"
 - "Holy Avenger Scimitar"
 - "Holy Avenger Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Holy Avenger
 *Major, legendary (requires attunement by a paladin)*  

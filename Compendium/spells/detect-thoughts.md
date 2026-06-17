@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Detect Thoughts
+level: 2
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a copper piece)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Detect Thoughts
 *2nd-level, Divination*  

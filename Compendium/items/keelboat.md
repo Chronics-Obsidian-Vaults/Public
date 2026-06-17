@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/ship-water
 aliases: 
 - "Keelboat"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Keelboat
 *Ship, vehicle (water)*  

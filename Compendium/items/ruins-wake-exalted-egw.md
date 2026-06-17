@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Ruin's Wake (Exalted)"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: artifact
+attunement: required
 ---
 # Ruin's Wake (Exalted)
 *Weapon ([spear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spear.md)), artifact (requires attunement)*  

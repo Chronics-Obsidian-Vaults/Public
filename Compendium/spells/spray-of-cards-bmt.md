@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Spray of Cards
+level: 2
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (15-foot Cone)
+components: "V, S, M (a deck of cards)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Spray of Cards
 *2nd-level, Conjuration*  

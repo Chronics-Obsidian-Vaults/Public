@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Oil of Taggit"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Oil of Taggit
 *Adventuring gear, poison (contact)*  

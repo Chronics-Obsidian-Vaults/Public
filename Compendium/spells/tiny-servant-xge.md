@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Tiny Servant
+level: 3
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Touch
+components: "V, S"
+duration: "8 hours"
+components_vsm: [V, S]
 ---
 # Tiny Servant
 *3rd-level, Transmutation*  

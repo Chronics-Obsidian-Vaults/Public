@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Musket"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: none
+attunement: none
 ---
 # Musket
 *Weapon*  

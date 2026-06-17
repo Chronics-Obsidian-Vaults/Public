@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Pan Flute"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Pan Flute
 *Instrument*  

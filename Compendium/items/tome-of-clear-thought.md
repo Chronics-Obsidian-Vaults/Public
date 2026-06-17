@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Tome of Clear Thought"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Tome of Clear Thought
 *Wondrous item, major, very rare*  

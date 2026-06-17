@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Guild Signet"
+item_type: wondrous
+item_subtype: ring
+rarity: uncommon
+attunement: required
 ---
 # Guild Signet
 *Ring, uncommon (requires attunement)*  

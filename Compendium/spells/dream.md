@@ -19,6 +19,15 @@ classes:
 - Wizard
 aliases:
 - Dream
+level: 5
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Special
+components: "V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Dream
 *5th-level, Illusion*  

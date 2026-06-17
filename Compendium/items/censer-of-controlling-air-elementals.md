@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Censer of Controlling Air Elementals"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Censer of Controlling Air Elementals
 *Wondrous item, major, rare*  

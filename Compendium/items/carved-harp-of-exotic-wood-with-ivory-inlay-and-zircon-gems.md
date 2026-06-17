@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Carved harp of exotic wood with ivory inlay and zircon gems"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Carved harp of exotic wood with ivory inlay and zircon gems
 *Treasure (art object)*  

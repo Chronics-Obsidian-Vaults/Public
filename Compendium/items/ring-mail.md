@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Ring Mail"
+item_type: armor
+item_subtype: heavy
+rarity: none
+attunement: none
 ---
 # Ring Mail
 *Heavy armor*  

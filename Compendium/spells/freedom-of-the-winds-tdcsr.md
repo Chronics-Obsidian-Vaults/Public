@@ -18,6 +18,15 @@ classes:
 - Sorcerer
 aliases:
 - Freedom of the Winds
+level: 5
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a scrap of sailcloth)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Freedom of the Winds
 *5th-level, Abjuration*  

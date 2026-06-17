@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Sleet Storm
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (a pinch of dust and a few drops of water)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Sleet Storm
 *3rd-level, Conjuration*  

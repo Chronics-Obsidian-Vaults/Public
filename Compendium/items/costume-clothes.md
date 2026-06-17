@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Costume Clothes"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Costume Clothes
 *Adventuring gear*  

@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Summon Construct
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (an ornate stone and metal lockbox worth at least 400 gp)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Summon Construct
 *4th-level, Conjuration*  

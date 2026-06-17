@@ -8,6 +8,10 @@ tags:
 - source/item/shield/
 aliases: 
 - "Honor's Last Stand (Exalted)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Honor's Last Stand (Exalted)
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), legendary (requires attunement by a creature of non-evil alignment)*  

@@ -16,6 +16,15 @@ classes:
 - Sorcerer
 aliases:
 - Flame Blade
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: "V, S, M (leaf of sumac)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Flame Blade
 *2nd-level, Evocation*  

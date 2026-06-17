@@ -17,6 +17,10 @@ aliases:
 - "Rapier of Wounding"
 - "Scimitar of Wounding"
 - "Shortsword of Wounding"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: rare
+attunement: required
 ---
 # Sword of Wounding
 *Major, rare (requires attunement)*  

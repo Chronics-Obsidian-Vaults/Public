@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/ship-water
 aliases: 
 - "Warship"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Warship
 *Ship, vehicle (water)*  

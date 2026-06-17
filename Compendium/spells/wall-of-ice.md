@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Wall of Ice
+level: 6
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a small piece of quartz)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Wall of Ice
 *6th-level, Evocation*  

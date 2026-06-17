@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "+3 All-Purpose Tool"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # +3 All-Purpose Tool
 *Wondrous item, very rare (requires attunement by an artificer)*  

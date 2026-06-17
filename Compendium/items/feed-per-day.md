@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Feed (per day)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Feed (per day)
 *Tack and harness*  

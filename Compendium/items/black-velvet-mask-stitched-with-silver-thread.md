@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Black velvet mask stitched with silver thread"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Black velvet mask stitched with silver thread
 *Treasure (art object)*  

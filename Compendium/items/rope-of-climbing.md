@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Rope of Climbing"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Rope of Climbing
 *Wondrous item, minor, uncommon*  

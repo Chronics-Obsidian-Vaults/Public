@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Bag of Devouring"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Bag of Devouring
 *Wondrous item, minor, very rare*  

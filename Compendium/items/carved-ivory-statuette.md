@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Carved ivory statuette"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Carved ivory statuette
 *Treasure (art object)*  

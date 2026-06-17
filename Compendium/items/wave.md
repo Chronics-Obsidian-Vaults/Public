@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Wave"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Wave
 *Weapon ([trident](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trident.md)), legendary (requires attunement by a creature that worships a god of the sea)*  

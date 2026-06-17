@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Magic Circle
+level: 3
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "10 feet"
+components: "V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Magic Circle
 *3rd-level, Abjuration*  

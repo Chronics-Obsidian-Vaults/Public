@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Stone Shape
+level: 4
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Stone Shape
 *4th-level, Transmutation*  

@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Danse Macabre
+level: 5
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S]
 ---
 # Danse Macabre
 *5th-level, Necromancy*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Brewer's Supplies"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Brewer's Supplies
 *Artisan's tools*  

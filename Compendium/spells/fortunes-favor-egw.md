@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Fortune's Favor
+level: 2
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "60 feet"
+components: "V, S, M (a white pearl worth at least 100 gp, which the spell consumes)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Fortune's Favor
 *2nd-level, Divination*  

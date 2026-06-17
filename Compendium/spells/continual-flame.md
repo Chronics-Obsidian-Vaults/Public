@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Continual Flame
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (ruby dust worth 50 gp, which the spell consumes)"
+duration: Until dispelled
+components_vsm: [V, S, M]
 ---
 # Continual Flame
 *2nd-level, Evocation*  

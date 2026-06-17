@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Mass Polymorph
+level: 9
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a caterpillar cocoon)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Mass Polymorph
 *9th-level, Transmutation*  

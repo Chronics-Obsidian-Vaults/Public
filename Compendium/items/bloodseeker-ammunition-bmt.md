@@ -24,6 +24,10 @@ aliases:
 - "Bloodseeker Pepperbox Bullet"
 - "Bloodseeker Pistol Bullet"
 - "Bloodseeker Sling Bullet"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: very-rare
+attunement: none
 ---
 # Bloodseeker Ammunition
 *Ammunition, very rare*  

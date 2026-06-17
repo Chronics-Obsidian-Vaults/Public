@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Knight Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Knight Card
 *Wondrous item, legendary*  

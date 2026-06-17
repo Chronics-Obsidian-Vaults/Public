@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Quaal's Feather Token, Whip"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Quaal's Feather Token, Whip
 *Wondrous item, minor, rare*  

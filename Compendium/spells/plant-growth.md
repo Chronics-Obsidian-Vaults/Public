@@ -26,6 +26,15 @@ classes:
 - Warlock (The Archfey)
 aliases:
 - Plant Growth
+level: 3
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Plant Growth
 *3rd-level, Transmutation*  

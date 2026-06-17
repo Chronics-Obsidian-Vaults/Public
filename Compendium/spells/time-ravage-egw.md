@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Time Ravage
+level: 9
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Time Ravage
 *9th-level, Necromancy*  

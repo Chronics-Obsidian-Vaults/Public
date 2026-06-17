@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Spyglass of Clairvoyance"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Spyglass of Clairvoyance
 *Wondrous item, common*  

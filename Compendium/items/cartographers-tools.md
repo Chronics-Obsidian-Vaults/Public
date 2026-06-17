@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Cartographer's Tools"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Cartographer's Tools
 *Artisan's tools*  

@@ -27,6 +27,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Aid
+level: 2
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a tiny strip of white cloth)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Aid
 *2nd-level, Abjuration*  

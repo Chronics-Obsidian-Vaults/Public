@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Piercer"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: rare
+attunement: required
 ---
 # Piercer
 *Weapon ([shortsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md)), rare (requires attunement)*  

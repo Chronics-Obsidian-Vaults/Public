@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Water Breathing
+level: 3
+ritual: true
+school: transmutation
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: "30 feet"
+components: "V, S, M (a short reed or piece of straw)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  

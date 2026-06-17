@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Vitality"
+item_type: wondrous
+item_subtype: potion
+rarity: very-rare
+attunement: none
 ---
 # Potion of Vitality
 *Potion, minor, very rare*  

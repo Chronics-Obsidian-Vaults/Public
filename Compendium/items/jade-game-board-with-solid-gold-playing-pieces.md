@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Jade game board with solid gold playing pieces"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Jade game board with solid gold playing pieces
 *Treasure (art object)*  

@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Rakdos Guild Signet"
+item_type: wondrous
+item_subtype: ring
+rarity: uncommon
+attunement: required
 ---
 # Rakdos Guild Signet
 *Ring, uncommon (requires attunement)*  

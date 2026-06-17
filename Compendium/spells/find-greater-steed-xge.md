@@ -12,6 +12,15 @@ classes:
 - Paladin
 aliases:
 - Find Greater Steed
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: "30 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Find Greater Steed
 *4th-level, Conjuration*  

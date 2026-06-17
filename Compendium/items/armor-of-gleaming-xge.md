@@ -20,6 +20,10 @@ aliases:
 - "Scale Mail of Gleaming"
 - "Spiked Armor of Gleaming"
 - "Splint Armor of Gleaming"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, medium"
+rarity: common
+attunement: none
 ---
 # Armor of Gleaming
 *Minor, common*  

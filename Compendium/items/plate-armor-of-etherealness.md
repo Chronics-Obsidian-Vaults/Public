@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Plate Armor of Etherealness"
+item_type: armor
+item_subtype: heavy
+rarity: legendary
+attunement: required
 ---
 # Plate Armor of Etherealness
 *Heavy armor ([plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)), major, legendary (requires attunement)*  

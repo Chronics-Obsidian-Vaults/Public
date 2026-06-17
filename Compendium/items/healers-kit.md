@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Healer's Kit"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Healer's Kit
 *Adventuring gear*  

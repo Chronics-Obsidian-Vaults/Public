@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Blasting Powder"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Blasting Powder
 *Adventuring gear*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Purple Worm Poison"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  

@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff of Dunamancy"
+item_type: weapon
+item_subtype: simple
+rarity: very-rare
+attunement: required
 ---
 # Staff of Dunamancy
 *Staff, weapon, very rare (requires attunement by a wizard)*  

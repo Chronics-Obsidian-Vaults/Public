@@ -19,6 +19,10 @@ aliases:
 - "Adamantine Scale Mail"
 - "Adamantine Spiked Armor"
 - "Adamantine Splint Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, medium"
+rarity: uncommon
+attunement: none
 ---
 # Adamantine Armor
 *Major, uncommon*  

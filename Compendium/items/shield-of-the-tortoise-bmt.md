@@ -8,6 +8,10 @@ tags:
 - source/item/shield/
 aliases: 
 - "Shield of the Tortoise"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Shield of the Tortoise
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), cursed item, uncommon (requires attunement)*  

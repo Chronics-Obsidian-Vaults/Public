@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Abi-Dalzim's Horrid Wilting
+level: 8
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (a bit of sponge)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Abi-Dalzim's Horrid Wilting
 *8th-level, Necromancy*  

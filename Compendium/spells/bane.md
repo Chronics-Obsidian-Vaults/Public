@@ -21,6 +21,15 @@ classes:
 - Sorcerer (Divine Soul, Chaos)
 aliases:
 - Bane
+level: 1
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a drop of blood)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Bane
 *1st-level, Enchantment*  

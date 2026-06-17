@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Mind Lash"
+item_type: weapon
+item_subtype: melee
+rarity: rare
+attunement: required
 ---
 # Mind Lash
 *Melee weapon, rare (requires attunement by a mind flayer)*  

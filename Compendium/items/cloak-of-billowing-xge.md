@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Cloak of Billowing"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Cloak of Billowing
 *Wondrous item, minor, common*  

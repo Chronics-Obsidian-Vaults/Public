@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Gravity Sinkhole
+level: 4
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a black marble)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Gravity Sinkhole
 *4th-level, Evocation*  

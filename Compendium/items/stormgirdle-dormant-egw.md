@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Stormgirdle (Dormant)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Stormgirdle (Dormant)
 *Wondrous item, legendary (requires attunement)*  

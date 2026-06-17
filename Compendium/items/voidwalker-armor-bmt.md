@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Voidwalker Armor"
+item_type: armor
+item_subtype: light
+rarity: rare
+attunement: required
 ---
 # Voidwalker Armor
 *Light armor ([studded leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)), cursed item, rare (requires attunement)*  

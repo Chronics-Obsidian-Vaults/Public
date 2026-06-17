@@ -16,6 +16,15 @@ classes:
 - Ranger
 aliases:
 - Goodberry
+level: 1
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a sprig of mistletoe)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Goodberry
 *1st-level, Transmutation*  

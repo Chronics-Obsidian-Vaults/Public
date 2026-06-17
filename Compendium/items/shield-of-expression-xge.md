@@ -8,6 +8,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Shield of Expression"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Shield of Expression
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), minor, common*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Nature's Mantle"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Nature's Mantle
 *Wondrous item, uncommon (requires attunement by a druid or ranger)*  

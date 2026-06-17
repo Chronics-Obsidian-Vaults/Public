@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Deck of Wild Cards"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Deck of Wild Cards
 *Wondrous item, very rare*  

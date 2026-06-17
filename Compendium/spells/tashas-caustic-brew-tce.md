@@ -23,6 +23,15 @@ classes:
 - Wizard
 aliases:
 - Tasha's Caustic Brew
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (30-foot Line)
+components: "V, S, M (a bit of rotten food)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Tasha's Caustic Brew
 *1st-level, Evocation*  

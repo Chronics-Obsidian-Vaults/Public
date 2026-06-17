@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Plate of the Dawnmartyr (Dormant)"
+item_type: armor
+item_subtype: heavy
+rarity: legendary
+attunement: required
 ---
 # Plate of the Dawnmartyr (Dormant)
 *Heavy armor ([plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)), legendary (requires attunement)*  

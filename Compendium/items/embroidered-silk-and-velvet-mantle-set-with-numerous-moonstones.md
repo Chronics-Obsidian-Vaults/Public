@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Embroidered silk and velvet mantle set with numerous moonstones"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Embroidered silk and velvet mantle set with numerous moonstones
 *Treasure (art object)*  

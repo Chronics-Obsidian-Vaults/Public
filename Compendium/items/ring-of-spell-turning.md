@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Spell Turning"
+item_type: wondrous
+item_subtype: ring
+rarity: legendary
+attunement: required
 ---
 # Ring of Spell Turning
 *Ring, major, legendary (requires attunement)*  

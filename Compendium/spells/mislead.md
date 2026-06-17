@@ -19,6 +19,15 @@ classes:
 - Wizard
 aliases:
 - Mislead
+level: 5
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: S
+duration: "Concentration, up to 1 hour"
+components_vsm: [S]
 ---
 # Mislead
 *5th-level, Illusion*  

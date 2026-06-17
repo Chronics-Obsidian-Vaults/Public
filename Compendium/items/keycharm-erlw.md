@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Keycharm"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: required
 ---
 # Keycharm
 *Wondrous item, common (requires attunement by a creature with the Mark of Warding)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/artifact
 aliases: 
 - "Orb of Dragonkind"
+item_type: 
+item_subtype: 
+rarity: artifact
+attunement: required
 ---
 # Orb of Dragonkind
 *Wondrous item, artifact (requires attunement)*  

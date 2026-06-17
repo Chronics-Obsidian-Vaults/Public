@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Chunk of Meat"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Chunk of Meat
 *Food and drink*  

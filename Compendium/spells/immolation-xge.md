@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Immolation
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Immolation
 *5th-level, Evocation*  

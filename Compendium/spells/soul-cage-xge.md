@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Soul Cage
+level: 6
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Reaction"
+range: "60 feet"
+components: "V, S, M (a tiny silver cage worth 100 gp)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Soul Cage
 *6th-level, Necromancy*  

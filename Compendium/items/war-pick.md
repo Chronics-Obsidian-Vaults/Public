@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "War Pick"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: none
+attunement: none
 ---
 # War Pick
 *Weapon*  

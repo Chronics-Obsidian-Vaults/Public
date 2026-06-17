@@ -22,6 +22,10 @@ aliases:
 - "Dried Leech Pepperbox Bullet"
 - "Dried Leech Pistol Bullet"
 - "Dried Leech Sling Bullet"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: uncommon
+attunement: none
 ---
 # Dried Leech
 *Ammunition, uncommon*  

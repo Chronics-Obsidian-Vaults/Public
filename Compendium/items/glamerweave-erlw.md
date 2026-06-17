@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Glamerweave"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: none
 ---
 # Glamerweave
 *Wondrous item*  

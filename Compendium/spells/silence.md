@@ -26,6 +26,15 @@ classes:
 - Warlock (The Undying)
 aliases:
 - Silence
+level: 2
+ritual: true
+school: illusion
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: "120 feet"
+components: "V, S"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S]
 ---
 # Silence
 *2nd-level, Illusion (ritual)*  

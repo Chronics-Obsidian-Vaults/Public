@@ -31,6 +31,15 @@ classes:
 - Warlock (The Archfey)
 aliases:
 - Faerie Fire
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Faerie Fire
 *1st-level, Evocation*  

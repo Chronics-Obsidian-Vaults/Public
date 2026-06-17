@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Dispelling Stone"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Dispelling Stone
 *Wondrous item, very rare*  

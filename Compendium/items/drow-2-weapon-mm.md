@@ -64,6 +64,10 @@ aliases:
 - "Drow +2 Warhammer"
 - "Drow +2 Whip"
 - "Drow +2 Yklwa"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: unknown/magic
+attunement: none
 ---
 # Drow +2 Weapon
 

@@ -24,6 +24,15 @@ classes:
 - Wizard
 aliases:
 - Lightning Bolt
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (100-foot Line)
+components: "V, S, M (a bit of fur and a rod of amber, crystal, or glass)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Lightning Bolt
 *3rd-level, Evocation*  

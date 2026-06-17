@@ -24,6 +24,15 @@ classes:
 - Wizard
 aliases:
 - Snare
+level: 1
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Touch
+components: "S, M (25 feet of rope, which the spell consumes)"
+duration: "8 hours"
+components_vsm: [S, M]
 ---
 # Snare
 *1st-level, Abjuration*  

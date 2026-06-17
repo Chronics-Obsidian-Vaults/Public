@@ -26,6 +26,15 @@ classes:
 - Wizard
 aliases:
 - Glyph of Warding
+level: 3
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 hour"
+range: Touch
+components: "V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)"
+duration: Until dispelled or triggered
+components_vsm: [V, S, M]
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  

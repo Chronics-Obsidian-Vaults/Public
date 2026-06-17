@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Acid Resistance"
 - "Splint Armor of Acid Resistance"
 - "Studded Leather Armor of Acid Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Acid Resistance
 *Major, rare (requires attunement)*  

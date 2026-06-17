@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Stone of Good Luck"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Stone of Good Luck
 *Wondrous item, major, uncommon (requires attunement)*  

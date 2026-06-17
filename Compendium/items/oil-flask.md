@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Oil (flask)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Oil (flask)
 *Adventuring gear*  

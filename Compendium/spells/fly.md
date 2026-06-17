@@ -23,6 +23,15 @@ classes:
 - Wizard
 aliases:
 - Fly
+level: 3
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a wing feather from any bird)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Fly
 *3rd-level, Transmutation*  

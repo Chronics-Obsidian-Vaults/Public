@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Hill Giant Strength"
+item_type: wondrous
+item_subtype: potion
+rarity: uncommon
+attunement: none
 ---
 # Potion of Hill Giant Strength
 *Potion, minor, uncommon*  

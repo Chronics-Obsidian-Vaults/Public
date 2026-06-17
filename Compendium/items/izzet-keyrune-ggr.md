@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Izzet Keyrune"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Izzet Keyrune
 *Wondrous item, rare (requires attunement by a member of the Izzet guild)*  

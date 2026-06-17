@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Blink
+level: 3
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "1 minute"
+components_vsm: [V, S]
 ---
 # Blink
 *3rd-level, Transmutation*  

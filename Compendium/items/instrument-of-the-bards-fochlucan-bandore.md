@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Instrument of the Bards, Fochlucan Bandore"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Instrument of the Bards, Fochlucan Bandore
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  

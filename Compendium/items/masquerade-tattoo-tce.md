@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/tattoo
 aliases: 
 - "Masquerade Tattoo"
+item_type: wondrous
+item_subtype: tattoo
+rarity: common
+attunement: required
 ---
 # Masquerade Tattoo
 *Wondrous item (tattoo), common (requires attunement)*  

@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Wand of Web"
+item_type: wondrous
+item_subtype: wand
+rarity: uncommon
+attunement: required
 ---
 # Wand of Web
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

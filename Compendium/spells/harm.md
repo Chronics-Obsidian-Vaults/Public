@@ -14,6 +14,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Harm
+level: 6
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Harm
 *6th-level, Necromancy*  

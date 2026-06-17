@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Grenade Launcher"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Grenade Launcher
 *Adventuring gear*  

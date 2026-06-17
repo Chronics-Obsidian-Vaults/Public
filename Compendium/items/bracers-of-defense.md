@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Bracers of Defense"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Bracers of Defense
 *Wondrous item, major, rare (requires attunement)*  

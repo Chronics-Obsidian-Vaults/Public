@@ -22,6 +22,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Beacon of Hope
+level: 3
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Beacon of Hope
 *3rd-level, Abjuration*  

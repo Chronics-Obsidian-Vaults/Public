@@ -17,6 +17,10 @@ aliases:
 - "Defender Rapier"
 - "Defender Scimitar"
 - "Defender Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Defender
 *Major, legendary (requires attunement)*  

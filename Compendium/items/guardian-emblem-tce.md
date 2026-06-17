@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Guardian Emblem"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Guardian Emblem
 *Wondrous item, uncommon (requires attunement by a cleric or paladin)*  

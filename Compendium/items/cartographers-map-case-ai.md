@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Cartographer's Map Case"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Cartographer's Map Case
 *Wondrous item, common*  

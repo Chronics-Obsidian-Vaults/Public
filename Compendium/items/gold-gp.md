@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gold (gp)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gold (gp)
 *Treasure (coinage)*  

@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Locate Creature
+level: 4
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a bit of fur from a bloodhound)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Locate Creature
 *4th-level, Divination*  

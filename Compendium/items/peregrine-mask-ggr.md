@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Peregrine Mask"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Peregrine Mask
 *Wondrous item, very rare (requires attunement)*  

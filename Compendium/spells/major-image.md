@@ -23,6 +23,15 @@ classes:
 - Wizard
 aliases:
 - Major Image
+level: 3
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a bit of fleece)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Major Image
 *3rd-level, Illusion*  

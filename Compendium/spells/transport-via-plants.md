@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Transport via Plants
+level: 6
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "10 feet"
+components: "V, S"
+duration: "1 round"
+components_vsm: [V, S]
 ---
 # Transport via Plants
 *6th-level, Conjuration*  

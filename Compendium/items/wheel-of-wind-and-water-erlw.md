@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Wheel of Wind and Water"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Wheel of Wind and Water
 *Wondrous item, uncommon*  

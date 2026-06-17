@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Orb of the Veil"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Orb of the Veil
 *Wondrous item, cursed item, very rare (requires attunement)*  

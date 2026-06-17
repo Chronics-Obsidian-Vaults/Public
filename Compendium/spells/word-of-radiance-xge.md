@@ -17,6 +17,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Word of Radiance
+level: 0
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "5 feet"
+components: "V, M (a holy symbol)"
+duration: Instantaneous
+components_vsm: [V, M]
 ---
 # Word of Radiance
 *cantrip, Evocation*  

@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Boots of the Vigilant"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Boots of the Vigilant
 *Wondrous item, uncommon*  

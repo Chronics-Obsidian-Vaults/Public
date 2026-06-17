@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Longevity"
+item_type: wondrous
+item_subtype: potion
+rarity: very-rare
+attunement: none
 ---
 # Potion of Longevity
 *Potion, minor, very rare*  

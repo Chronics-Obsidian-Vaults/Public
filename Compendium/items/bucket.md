@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Bucket"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Bucket
 *Adventuring gear*  

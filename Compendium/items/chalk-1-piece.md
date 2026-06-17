@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Chalk (1 piece)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Chalk (1 piece)
 *Adventuring gear*  

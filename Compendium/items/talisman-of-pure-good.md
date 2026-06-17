@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Talisman of Pure Good"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Talisman of Pure Good
 *Wondrous item, major, legendary (requires attunement by a creature of good alignment)*  

@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Imbued Wood Focus"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: required
 ---
 # Imbued Wood Focus
 *Wondrous item, spellcasting focus, common (requires attunement)*  

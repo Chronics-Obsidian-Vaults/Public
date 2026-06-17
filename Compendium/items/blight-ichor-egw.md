@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Blight Ichor"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Blight Ichor
 *Adventuring gear*  

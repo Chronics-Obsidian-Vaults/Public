@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Efreeti Bottle"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Efreeti Bottle
 *Wondrous item, major, very rare*  

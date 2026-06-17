@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Copper (cp)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Copper (cp)
 *Treasure (coinage)*  

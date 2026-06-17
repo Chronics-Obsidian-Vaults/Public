@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Cataclysm Bolts"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Cataclysm Bolts
 *Ammunition, very rare*  

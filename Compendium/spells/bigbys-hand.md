@@ -19,6 +19,15 @@ classes:
 - Wizard
 aliases:
 - Bigby's Hand
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (an eggshell and a snakeskin glove)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Bigby's Hand
 *5th-level, Evocation*  

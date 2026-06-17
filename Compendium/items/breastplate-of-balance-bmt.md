@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Breastplate of Balance"
+item_type: armor
+item_subtype: medium
+rarity: rare
+attunement: required
 ---
 # Breastplate of Balance
 *Medium armor ([breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md)), rare (requires attunement)*  

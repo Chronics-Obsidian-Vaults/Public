@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Grappling Hook"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Grappling Hook
 *Adventuring gear*  

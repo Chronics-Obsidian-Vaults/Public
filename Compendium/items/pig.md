@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Pig"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Pig
 *Trade good*  

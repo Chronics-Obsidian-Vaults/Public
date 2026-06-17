@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Necrotic Resistance"
+item_type: wondrous
+item_subtype: ring
+rarity: rare
+attunement: required
 ---
 # Ring of Necrotic Resistance
 *Ring, major, rare (requires attunement)*  

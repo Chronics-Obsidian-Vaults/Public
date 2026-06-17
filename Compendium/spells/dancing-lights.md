@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Dancing Lights
+level: 0
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a bit of phosphorus or wychwood, or a glowworm)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Dancing Lights
 *cantrip, Evocation*  

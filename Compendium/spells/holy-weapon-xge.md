@@ -16,6 +16,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Holy Weapon
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Touch
+components: "V, S"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S]
 ---
 # Holy Weapon
 *5th-level, Evocation*  

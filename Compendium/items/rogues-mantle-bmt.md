@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Rogue's Mantle"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Rogue's Mantle
 *Wondrous item, rare (requires attunement)*  

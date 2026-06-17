@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Animal Friendship"
+item_type: wondrous
+item_subtype: potion
+rarity: uncommon
+attunement: none
 ---
 # Potion of Animal Friendship
 *Potion, minor, uncommon*  

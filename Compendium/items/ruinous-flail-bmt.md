@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Ruinous Flail"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: rare
+attunement: required
 ---
 # Ruinous Flail
 *Weapon ([flail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/flail.md)), rare (requires attunement)*  

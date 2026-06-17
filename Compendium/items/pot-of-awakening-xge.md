@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Pot of Awakening"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Pot of Awakening
 *Wondrous item, minor, common*  

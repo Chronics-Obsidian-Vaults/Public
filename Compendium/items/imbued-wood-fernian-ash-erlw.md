@@ -13,6 +13,10 @@ aliases:
 - "Fernian Ash Rod"
 - "Fernian Ash Staff"
 - "Fernian Ash Wand"
+item_type: wondrous
+item_subtype: "generic-variant, simple"
+rarity: common
+attunement: required
 ---
 # Imbued Wood (Fernian Ash)
 *Wondrous item, common (requires attunement)*  

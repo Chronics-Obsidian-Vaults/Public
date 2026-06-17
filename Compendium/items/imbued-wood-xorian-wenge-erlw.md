@@ -13,6 +13,10 @@ aliases:
 - "Xorian Wenge Rod"
 - "Xorian Wenge Staff"
 - "Xorian Wenge Wand"
+item_type: wondrous
+item_subtype: "generic-variant, simple"
+rarity: common
+attunement: required
 ---
 # Imbued Wood (Xorian Wenge)
 *Wondrous item, common (requires attunement)*  

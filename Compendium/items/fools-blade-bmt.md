@@ -16,6 +16,10 @@ aliases:
 - "Fool's Rapier"
 - "Fool's Scimitar"
 - "Fool's Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Fool's Blade
 *Very rare (requires attunement)*  

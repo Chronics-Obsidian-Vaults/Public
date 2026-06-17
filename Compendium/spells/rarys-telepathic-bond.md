@@ -17,6 +17,15 @@ classes:
 - Wizard
 aliases:
 - Rary's Telepathic Bond
+level: 5
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: "30 feet"
+components: "V, S, M (pieces of eggshell from two different kinds of creatures)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  

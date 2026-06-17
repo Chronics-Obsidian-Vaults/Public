@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Dream of the Blue Veil
+level: 7
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: "20 feet"
+components: "V, S, M (a magic item or a willing creature from the destination world)"
+duration: "6 hours"
+components_vsm: [V, S, M]
 ---
 # Dream of the Blue Veil
 *7th-level, Conjuration*  

@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Infernal Calling
+level: 5
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "90 feet"
+components: "V, S, M (a ruby worth at least 999 gp)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Infernal Calling
 *5th-level, Conjuration*  

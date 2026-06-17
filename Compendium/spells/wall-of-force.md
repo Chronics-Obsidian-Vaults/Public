@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Wall of Force
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a pinch of powder made by crushing a clear gemstone)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Wall of Force
 *5th-level, Evocation*  

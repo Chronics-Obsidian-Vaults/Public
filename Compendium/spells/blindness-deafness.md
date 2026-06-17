@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Blindness/Deafness
+level: 2
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: V
+duration: "1 minute"
+components_vsm: [V]
 ---
 # Blindness/Deafness
 *2nd-level, Necromancy*  

@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Maddening Darkness
+level: 8
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, M (a drop of pitch mixed with a drop of mercury)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, M]
 ---
 # Maddening Darkness
 *8th-level, Evocation*  

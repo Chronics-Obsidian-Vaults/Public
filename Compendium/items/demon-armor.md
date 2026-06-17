@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Demon Armor"
+item_type: armor
+item_subtype: heavy
+rarity: very-rare
+attunement: required
 ---
 # Demon Armor
 *Heavy armor, cursed item, major, very rare (requires attunement)*  

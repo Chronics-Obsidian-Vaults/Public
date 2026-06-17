@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Spellshard"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Spellshard
 *Wondrous item, common*  

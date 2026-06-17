@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Cap of Water Breathing"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Cap of Water Breathing
 *Wondrous item, minor, uncommon*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Wand"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Wand
 *Spellcasting focus*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Sealing Wax"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Sealing Wax
 *Adventuring gear*  

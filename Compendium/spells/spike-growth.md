@@ -21,6 +21,15 @@ classes:
 - Warlock (The Genie, Dao)
 aliases:
 - Spike Growth
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Spike Growth
 *2nd-level, Transmutation*  

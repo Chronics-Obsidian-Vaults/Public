@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Fire Bolt
+level: 0
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Fire Bolt
 *cantrip, Evocation*  

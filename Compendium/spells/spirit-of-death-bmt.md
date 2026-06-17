@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Spirit of Death
+level: 4
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a gilded playing card worth at least 400 gp and depicting an avatar of death)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Spirit of Death
 *4th-level, Necromancy*  

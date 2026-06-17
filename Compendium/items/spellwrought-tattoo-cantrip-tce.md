@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/tattoo
 aliases: 
 - "Spellwrought Tattoo (Cantrip)"
+item_type: wondrous
+item_subtype: tattoo
+rarity: common
+attunement: none
 ---
 # Spellwrought Tattoo (Cantrip)
 *Wondrous item (tattoo), common*  

@@ -27,6 +27,15 @@ classes:
 - Wizard
 aliases:
 - Cone of Cold
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (60-foot Cone)
+components: "V, S, M (a small crystal or glass cone)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Cone of Cold
 *5th-level, Evocation*  

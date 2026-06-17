@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Wind Walk
+level: 6
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "30 feet"
+components: "V, S, M (fire and holy water)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Wind Walk
 *6th-level, Transmutation*  

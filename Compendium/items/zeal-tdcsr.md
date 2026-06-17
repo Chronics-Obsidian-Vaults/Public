@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Zeal"
+item_type: 
+item_subtype: 
+rarity: unknown
+attunement: none
 ---
 # Zeal
 *Illegal drug*  

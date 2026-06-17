@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Flames Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Flames Card
 *Wondrous item, legendary*  

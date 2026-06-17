@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Mace of the Black Crown"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: artifact
+attunement: required
 ---
 # Mace of the Black Crown
 *Weapon ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), artifact (requires attunement)*  

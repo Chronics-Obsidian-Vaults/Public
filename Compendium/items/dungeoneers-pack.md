@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Dungeoneer's Pack"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Dungeoneer's Pack
 *Adventuring gear*  

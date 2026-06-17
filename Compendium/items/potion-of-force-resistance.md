@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Force Resistance"
+item_type: wondrous
+item_subtype: potion
+rarity: uncommon
+attunement: none
 ---
 # Potion of Force Resistance
 *Potion, minor, uncommon*  

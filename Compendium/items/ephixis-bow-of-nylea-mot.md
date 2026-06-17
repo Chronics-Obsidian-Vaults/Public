@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Ephixis, Bow of Nylea"
+item_type: weapon
+item_subtype: "ranged, simple"
+rarity: artifact
+attunement: required
 ---
 # Ephixis, Bow of Nylea
 *Weapon ([shortbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortbow.md)), artifact (requires attunement)*  

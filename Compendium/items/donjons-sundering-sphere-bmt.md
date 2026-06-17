@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Donjon's Sundering Sphere"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Donjon's Sundering Sphere
 *Wondrous item, rare (requires attunement)*  

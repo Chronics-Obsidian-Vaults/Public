@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Two-Person Tent"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Two-Person Tent
 *Adventuring gear*  

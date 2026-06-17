@@ -27,6 +27,15 @@ classes:
 - Warlock (The Undying)
 aliases:
 - Spare the Dying
+level: 0
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Spare the Dying
 *cantrip, Necromancy*  

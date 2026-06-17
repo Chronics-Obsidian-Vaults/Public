@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/scroll
 aliases: 
 - "Scroll of Protection from Plants"
+item_type: wondrous
+item_subtype: scroll
+rarity: rare
+attunement: none
 ---
 # Scroll of Protection from Plants
 *Scroll, minor, rare*  

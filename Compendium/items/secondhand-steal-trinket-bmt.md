@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Secondhand Steal Trinket"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Secondhand Steal Trinket
 *Adventuring gear*  

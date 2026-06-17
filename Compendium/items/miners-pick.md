@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Miner's Pick"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Miner's Pick
 *Adventuring gear*  

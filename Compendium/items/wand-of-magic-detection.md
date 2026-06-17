@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Wand of Magic Detection"
+item_type: wondrous
+item_subtype: wand
+rarity: uncommon
+attunement: none
 ---
 # Wand of Magic Detection
 *Wand, minor, uncommon*  

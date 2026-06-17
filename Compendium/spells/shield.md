@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Shield
+level: 1
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Reaction"
+range: Self
+components: "V, S"
+duration: "1 round"
+components_vsm: [V, S]
 ---
 # Shield
 *1st-level, Abjuration*  

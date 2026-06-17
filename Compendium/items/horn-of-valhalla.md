@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Horn of Valhalla"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: none
 ---
 # Horn of Valhalla
 *Wondrous item*  

@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Living Loot Satchel"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: none
 ---
 # Living Loot Satchel
 *Wondrous item*  

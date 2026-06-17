@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Energy Cell"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Energy Cell
 *Ammunition (firearm)*  

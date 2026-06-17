@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Magic Jar
+level: 6
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Self
+components: "V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)"
+duration: Until dispelled
+components_vsm: [V, S, M]
 ---
 # Magic Jar
 *6th-level, Necromancy*  

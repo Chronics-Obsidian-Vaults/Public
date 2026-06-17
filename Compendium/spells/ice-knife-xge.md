@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Ice Knife
+level: 1
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "S, M (a drop of water or piece of ice)"
+duration: Instantaneous
+components_vsm: [S, M]
 ---
 # Ice Knife
 *1st-level, Conjuration*  

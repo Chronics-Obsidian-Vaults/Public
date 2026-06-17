@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Periapt of Health"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Periapt of Health
 *Wondrous item, minor, uncommon*  

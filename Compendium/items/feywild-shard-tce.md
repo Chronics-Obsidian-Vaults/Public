@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Feywild Shard"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Feywild Shard
 *Wondrous item, uncommon (requires attunement by a sorcerer)*  

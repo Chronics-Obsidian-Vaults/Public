@@ -13,6 +13,10 @@ aliases:
 - "Mabaran Ebony Rod"
 - "Mabaran Ebony Staff"
 - "Mabaran Ebony Wand"
+item_type: wondrous
+item_subtype: "generic-variant, simple"
+rarity: common
+attunement: required
 ---
 # Imbued Wood (Mabaran Ebony)
 *Wondrous item, common (requires attunement)*  

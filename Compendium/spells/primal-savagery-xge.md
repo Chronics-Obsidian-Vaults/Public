@@ -20,6 +20,15 @@ classes:
 - Druid (Circle of the Land, Arctic)
 aliases:
 - Primal Savagery
+level: 0
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: S
+duration: Instantaneous
+components_vsm: [S]
 ---
 # Primal Savagery
 *cantrip, Transmutation*  

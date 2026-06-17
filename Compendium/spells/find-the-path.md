@@ -16,6 +16,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Find the Path
+level: 6
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Self
+components: "V, S, M (a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes—worth 100 gp and an object from the location you wish to find)"
+duration: "Concentration, up to 1 day"
+components_vsm: [V, S, M]
 ---
 # Find the Path
 *6th-level, Divination*  

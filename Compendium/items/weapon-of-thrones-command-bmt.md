@@ -48,6 +48,10 @@ aliases:
 - "War Pick of Throne's Command"
 - "Warhammer of Throne's Command"
 - "Whip of Throne's Command"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged"
+rarity: very-rare
+attunement: required
 ---
 # Weapon of Throne's Command
 *Very rare (requires attunement)*  

@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Animal Shapes
+level: 8
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: "Concentration, up to 24 hours"
+components_vsm: [V, S]
 ---
 # Animal Shapes
 *8th-level, Transmutation*  

@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Sword Burst
+level: 0
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (5-foot Radius)
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Sword Burst
 *cantrip, Conjuration*  

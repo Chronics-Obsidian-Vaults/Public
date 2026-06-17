@@ -27,6 +27,10 @@ aliases:
 - "Walloping Pistol Bullet"
 - "Walloping Renaissance Bullet"
 - "Walloping Sling Bullet"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: common
+attunement: none
 ---
 # Walloping Ammunition
 *Ammunition, minor, common*  

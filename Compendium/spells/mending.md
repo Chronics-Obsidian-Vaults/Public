@@ -44,6 +44,15 @@ classes:
 - Wizard
 aliases:
 - Mending
+level: 0
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Touch
+components: "V, S, M (two lodestones)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Mending
 *cantrip, Transmutation*  

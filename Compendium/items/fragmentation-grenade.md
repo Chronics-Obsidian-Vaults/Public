@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/explosive
 aliases: 
 - "Fragmentation Grenade"
+item_type: weapon
+item_subtype: explosive
+rarity: none
+attunement: none
 ---
 # Fragmentation Grenade
 *Explosive*  

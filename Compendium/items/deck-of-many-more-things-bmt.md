@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Deck of Many More Things"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Deck of Many More Things
 *Wondrous item, legendary*  

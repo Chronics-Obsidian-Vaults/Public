@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Tidecaller Trident"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Tidecaller Trident
 *Weapon ([trident](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trident.md)), very rare (requires attunement)*  

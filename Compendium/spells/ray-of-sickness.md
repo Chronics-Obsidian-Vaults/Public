@@ -30,6 +30,15 @@ classes:
 - Wizard
 aliases:
 - Ray of Sickness
+level: 1
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Ray of Sickness
 *1st-level, Necromancy*  

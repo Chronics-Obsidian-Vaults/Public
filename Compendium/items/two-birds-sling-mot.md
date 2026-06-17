@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Two-Birds Sling"
+item_type: weapon
+item_subtype: "ranged, simple"
+rarity: rare
+attunement: none
 ---
 # Two-Birds Sling
 *Weapon ([sling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sling.md)), rare*  

@@ -12,6 +12,15 @@ classes:
 - Ranger
 aliases:
 - Hail of Thorns
+level: 1
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Hail of Thorns
 *1st-level, Conjuration*  

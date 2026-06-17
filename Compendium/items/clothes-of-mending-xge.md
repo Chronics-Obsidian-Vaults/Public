@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Clothes of Mending"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Clothes of Mending
 *Wondrous item, minor, common*  

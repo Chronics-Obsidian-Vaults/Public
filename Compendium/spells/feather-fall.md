@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Feather Fall
+level: 1
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Reaction"
+range: "60 feet"
+components: "V, M (a small feather or a piece of down)"
+duration: "1 minute"
+components_vsm: [V, M]
 ---
 # Feather Fall
 *1st-level, Transmutation*  

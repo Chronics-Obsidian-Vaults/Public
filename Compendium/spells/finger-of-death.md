@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Finger of Death
+level: 7
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Finger of Death
 *7th-level, Necromancy*  

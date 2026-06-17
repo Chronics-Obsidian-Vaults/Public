@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Perfume of Bewitching"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Perfume of Bewitching
 *Wondrous item, minor, common*  

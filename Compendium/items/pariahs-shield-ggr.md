@@ -8,6 +8,10 @@ tags:
 - source/item/shield/
 aliases: 
 - "Pariah's Shield"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Pariah's Shield
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), rare (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Verminshroud"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Verminshroud
 *Wondrous item, legendary (requires attunement)*  

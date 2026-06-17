@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Portable Hole"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Portable Hole
 *Wondrous item, minor, rare*  

@@ -30,6 +30,15 @@ classes:
 - Warlock (The Celestial)
 aliases:
 - Revivify
+level: 3
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (diamonds worth 300 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Revivify
 *3rd-level, Necromancy*  

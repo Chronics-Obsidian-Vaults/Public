@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Belt of Stone Giant Strength"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Belt of Stone Giant Strength
 *Wondrous item, major, very rare (requires attunement)*  

@@ -20,6 +20,15 @@ classes:
 - Warlock
 aliases:
 - Hellish Rebuke
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Reaction"
+range: "60 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Hellish Rebuke
 *1st-level, Evocation*  

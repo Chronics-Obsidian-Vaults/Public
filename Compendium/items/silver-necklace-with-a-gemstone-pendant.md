@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Silver necklace with a gemstone pendant"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Silver necklace with a gemstone pendant
 *Treasure (art object)*  

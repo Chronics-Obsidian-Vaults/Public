@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Disintegrate
+level: 6
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a lodestone and a pinch of dust)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Disintegrate
 *6th-level, Transmutation*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Spies' Murmur"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Spies' Murmur
 *Wondrous item, uncommon (requires attunement)*  

@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Wings of Flying"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Wings of Flying
 *Wondrous item, major, rare (requires attunement)*  

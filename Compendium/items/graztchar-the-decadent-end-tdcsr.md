@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Graz'tchar, the Decadent End"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Graz'tchar, the Decadent End
 *Weapon ([greatsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/greatsword.md)), legendary (requires attunement)*  

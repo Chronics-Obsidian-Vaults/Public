@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Nolzur's Marvelous Pigments"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous item, minor, very rare*  

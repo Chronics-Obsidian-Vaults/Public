@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Create Undead
+level: 6
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "10 feet"
+components: "V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Create Undead
 *6th-level, Necromancy*  

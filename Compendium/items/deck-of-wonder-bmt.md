@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Deck of Wonder"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Deck of Wonder
 *Wondrous item, uncommon*  

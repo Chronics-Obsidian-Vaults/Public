@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Agony (Awakened)"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Agony (Awakened)
 *Weapon ([flail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/flail.md)), legendary (requires attunement by a creature of non-good alignment)*  

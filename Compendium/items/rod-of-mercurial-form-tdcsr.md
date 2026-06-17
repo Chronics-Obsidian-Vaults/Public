@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Rod of Mercurial Form"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Rod of Mercurial Form
 *Wondrous item, uncommon*  

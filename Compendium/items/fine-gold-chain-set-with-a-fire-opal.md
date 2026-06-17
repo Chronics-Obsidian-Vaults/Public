@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Fine gold chain set with a fire opal"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Fine gold chain set with a fire opal
 *Treasure (art object)*  

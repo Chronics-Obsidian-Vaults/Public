@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Manual of Gainful Exercise"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Manual of Gainful Exercise
 *Wondrous item, major, very rare*  

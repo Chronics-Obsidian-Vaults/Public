@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Fool Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Fool Card
 *Wondrous item, legendary*  

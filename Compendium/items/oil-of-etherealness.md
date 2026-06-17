@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Oil of Etherealness"
+item_type: wondrous
+item_subtype: potion
+rarity: rare
+attunement: none
 ---
 # Oil of Etherealness
 *Potion, minor, rare*  

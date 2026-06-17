@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Fine Wine (bottle)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Fine Wine (bottle)
 *Food and drink*  

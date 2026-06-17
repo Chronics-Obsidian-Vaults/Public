@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Astromancy Archive"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Astromancy Archive
 *Wondrous item, rare (requires attunement by a wizard)*  

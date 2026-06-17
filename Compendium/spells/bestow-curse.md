@@ -26,6 +26,15 @@ classes:
 - Wizard
 aliases:
 - Bestow Curse
+level: 3
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Bestow Curse
 *3rd-level, Necromancy*  

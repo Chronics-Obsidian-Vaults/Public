@@ -38,6 +38,15 @@ classes:
 - Sorcerer (Runechild)
 aliases:
 - Freedom of Movement
+level: 4
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a leather strap, bound around the arm or a similar appendage)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Freedom of Movement
 *4th-level, Abjuration*  

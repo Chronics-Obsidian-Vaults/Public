@@ -30,6 +30,15 @@ classes:
 - Wizard
 aliases:
 - Dominate Person
+level: 5
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Dominate Person
 *5th-level, Enchantment*  

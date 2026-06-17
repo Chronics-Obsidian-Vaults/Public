@@ -22,6 +22,10 @@ aliases:
 - "Winged Pepperbox Bullet"
 - "Winged Pistol Bullet"
 - "Winged Sling Bullet"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: uncommon
+attunement: none
 ---
 # Winged Ammunition
 *Ammunition, uncommon*  

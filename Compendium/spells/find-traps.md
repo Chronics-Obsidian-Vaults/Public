@@ -19,6 +19,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Find Traps
+level: 2
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Find Traps
 *2nd-level, Divination*  

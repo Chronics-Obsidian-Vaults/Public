@@ -15,6 +15,15 @@ classes:
 - Sorcerer
 aliases:
 - Chaos Bolt
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Chaos Bolt
 *1st-level, Evocation*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Rations (1 day)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Rations (1 day)
 *Adventuring gear*  

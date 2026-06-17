@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Talisman of the Sphere"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Talisman of the Sphere
 *Wondrous item, major, legendary (requires attunement)*  

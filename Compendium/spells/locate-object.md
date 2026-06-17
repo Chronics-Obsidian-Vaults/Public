@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Locate Object
+level: 2
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a forked twig)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Locate Object
 *2nd-level, Divination*  

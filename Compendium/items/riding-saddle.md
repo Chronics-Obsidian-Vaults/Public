@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Riding Saddle"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Riding Saddle
 *Tack and harness*  

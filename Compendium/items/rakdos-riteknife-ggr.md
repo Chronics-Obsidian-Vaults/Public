@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Rakdos Riteknife"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: legendary
+attunement: required
 ---
 # Rakdos Riteknife
 *Weapon ([dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)), legendary (requires attunement)*  

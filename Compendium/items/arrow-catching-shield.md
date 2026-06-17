@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Arrow-Catching Shield"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Arrow-Catching Shield
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), major, rare (requires attunement)*  

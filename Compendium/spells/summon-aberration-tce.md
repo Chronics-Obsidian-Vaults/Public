@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Summon Aberration
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a pickled tentacle and an eyeball in a platinum-inlaid vial worth at least 400 gp)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Summon Aberration
 *4th-level, Conjuration*  

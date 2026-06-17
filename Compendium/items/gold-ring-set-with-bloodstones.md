@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gold ring set with bloodstones"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gold ring set with bloodstones
 *Treasure (art object)*  

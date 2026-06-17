@@ -9,6 +9,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Instrument of Illusions"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: required
 ---
 # Instrument of Illusions
 *Wondrous item, instrument, minor, common (requires attunement)*  

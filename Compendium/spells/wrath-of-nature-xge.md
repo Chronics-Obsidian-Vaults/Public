@@ -14,6 +14,15 @@ classes:
 - Ranger
 aliases:
 - Wrath of Nature
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Wrath of Nature
 *5th-level, Evocation*  

@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Blowgun"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: none
+attunement: none
 ---
 # Blowgun
 *Weapon*  

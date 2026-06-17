@@ -16,6 +16,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - True Resurrection
+level: 9
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 hour"
+range: Touch
+components: "V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # True Resurrection
 *9th-level, Necromancy*  

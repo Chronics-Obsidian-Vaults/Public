@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Raven's Slumber"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Raven's Slumber
 *Wondrous item, very rare*  

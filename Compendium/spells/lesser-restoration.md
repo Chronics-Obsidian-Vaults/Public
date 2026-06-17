@@ -34,6 +34,15 @@ classes:
 - Warlock (The Celestial)
 aliases:
 - Lesser Restoration
+level: 2
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Lesser Restoration
 *2nd-level, Abjuration*  

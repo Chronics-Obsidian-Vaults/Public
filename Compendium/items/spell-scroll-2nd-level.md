@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/scroll
 aliases: 
 - "Spell Scroll (2nd Level)"
+item_type: wondrous
+item_subtype: scroll
+rarity: uncommon
+attunement: none
 ---
 # Spell Scroll (2nd Level)
 *Scroll, minor, uncommon*  

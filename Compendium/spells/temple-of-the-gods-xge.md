@@ -14,6 +14,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Temple of the Gods
+level: 7
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 hour"
+range: "120 feet"
+components: "V, S, M (a holy symbol worth at least 5 gp)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Temple of the Gods
 *7th-level, Conjuration*  

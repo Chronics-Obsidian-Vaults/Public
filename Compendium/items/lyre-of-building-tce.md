@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Lyre of Building"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Lyre of Building
 *Wondrous item, instrument, rare (requires attunement by a bard)*  

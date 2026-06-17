@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Necklace string of small pink pearls"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Necklace string of small pink pearls
 *Treasure (art object)*  

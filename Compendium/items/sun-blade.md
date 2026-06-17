@@ -10,6 +10,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Sun Blade"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: rare
+attunement: required
 ---
 # Sun Blade
 *Weapon ([longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md)), major, rare (requires attunement)*  

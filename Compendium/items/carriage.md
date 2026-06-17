@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/land
 aliases: 
 - "Carriage"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Carriage
 *Vehicle (land)*  

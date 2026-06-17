@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Broom of Flying"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Broom of Flying
 *Wondrous item, major, uncommon*  

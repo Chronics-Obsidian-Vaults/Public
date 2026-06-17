@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Rope of Mending"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Rope of Mending
 *Wondrous item, minor, common*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Dimir Keyrune"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Dimir Keyrune
 *Wondrous item, very rare (requires attunement by a member of the Dimir guild)*  

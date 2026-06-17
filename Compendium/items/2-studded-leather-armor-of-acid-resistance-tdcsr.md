@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "+2 Studded Leather Armor of Acid Resistance"
+item_type: armor
+item_subtype: light
+rarity: unknown/magic
+attunement: required
 ---
 # +2 Studded Leather Armor of Acid Resistance
 *Light armor, major (requires attunement)*  

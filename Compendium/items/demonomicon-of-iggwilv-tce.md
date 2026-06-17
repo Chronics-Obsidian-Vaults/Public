@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/artifact
 aliases: 
 - "Demonomicon of Iggwilv"
+item_type: 
+item_subtype: 
+rarity: artifact
+attunement: required
 ---
 # Demonomicon of Iggwilv
 *Wondrous item, artifact (requires attunement)*  

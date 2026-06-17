@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Burnt Othur Fumes"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Burnt Othur Fumes
 *Adventuring gear, poison (inhaled)*  

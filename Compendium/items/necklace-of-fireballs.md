@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Necklace of Fireballs"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Necklace of Fireballs
 *Wondrous item, minor, rare*  

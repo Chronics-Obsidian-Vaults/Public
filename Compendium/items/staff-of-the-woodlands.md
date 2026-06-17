@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff of the Woodlands"
+item_type: weapon
+item_subtype: simple
+rarity: rare
+attunement: required
 ---
 # Staff of the Woodlands
 *Staff, weapon, major, rare (requires attunement by a druid)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Quiver"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Quiver
 *Adventuring gear*  

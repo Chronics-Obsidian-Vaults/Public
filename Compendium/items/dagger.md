@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Dagger"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: none
+attunement: none
 ---
 # Dagger
 *Weapon*  

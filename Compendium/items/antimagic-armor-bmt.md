@@ -24,6 +24,10 @@ aliases:
 - "Antimagic Spiked Armor"
 - "Antimagic Splint Armor"
 - "Antimagic Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: very-rare
+attunement: required
 ---
 # Antimagic Armor
 *Very rare (requires attunement)*  

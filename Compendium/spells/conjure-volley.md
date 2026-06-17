@@ -12,6 +12,15 @@ classes:
 - Ranger
 aliases:
 - Conjure Volley
+level: 5
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (one piece of ammunition or one thrown weapon)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Conjure Volley
 *5th-level, Conjuration*  

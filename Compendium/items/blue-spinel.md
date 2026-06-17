@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Blue Spinel"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Blue Spinel
 *Treasure (gemstone)*  

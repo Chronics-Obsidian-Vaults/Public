@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Weird
+level: 9
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Weird
 *9th-level, Illusion*  

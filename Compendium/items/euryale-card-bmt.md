@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Euryale Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Euryale Card
 *Wondrous item, legendary*  

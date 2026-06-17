@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Hat of Vermin"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Hat of Vermin
 *Wondrous item, minor, common*  

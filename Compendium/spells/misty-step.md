@@ -38,6 +38,15 @@ classes:
 - Wizard
 aliases:
 - Misty Step
+level: 2
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Misty Step
 *2nd-level, Conjuration*  

@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Transmute Rock
+level: 5
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (clay and water)"
+duration: Until dispelled
+components_vsm: [V, S, M]
 ---
 # Transmute Rock
 *5th-level, Transmutation*  

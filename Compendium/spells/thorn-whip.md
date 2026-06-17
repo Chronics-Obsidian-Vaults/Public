@@ -23,6 +23,15 @@ classes:
 - Druid (Circle of the Land, Arctic)
 aliases:
 - Thorn Whip
+level: 0
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (the stem of a plant with thorns)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Thorn Whip
 *cantrip, Transmutation*  

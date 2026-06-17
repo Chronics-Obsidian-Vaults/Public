@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Summon Fiend
+level: 6
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (humanoid blood inside a ruby vial worth at least 600 gp)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Summon Fiend
 *6th-level, Conjuration*  

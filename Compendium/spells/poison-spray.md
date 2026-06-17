@@ -40,6 +40,15 @@ classes:
 - Wizard
 aliases:
 - Poison Spray
+level: 0
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "10 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Poison Spray
 *cantrip, Conjuration*  

@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Net"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: none
+attunement: none
 ---
 # Net
 *Weapon*  

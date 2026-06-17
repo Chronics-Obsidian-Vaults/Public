@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Heart Weaver's Primer"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Heart Weaver's Primer
 *Wondrous item, rare (requires attunement by a wizard)*  

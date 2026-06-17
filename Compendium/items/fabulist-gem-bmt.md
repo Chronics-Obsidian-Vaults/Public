@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Fabulist Gem"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Fabulist Gem
 *Wondrous item, uncommon (requires attunement)*  

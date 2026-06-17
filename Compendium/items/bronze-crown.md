@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Bronze crown"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Bronze crown
 *Treasure (art object)*  

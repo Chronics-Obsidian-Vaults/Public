@@ -24,6 +24,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Aura of Purity
+level: 4
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (30-foot Radius)
+components: V
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V]
 ---
 # Aura of Purity
 *4th-level, Abjuration*  

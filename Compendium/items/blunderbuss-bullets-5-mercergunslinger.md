@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Blunderbuss Bullets (5)"
+item_type: 
+item_subtype: 
+rarity: unknown
+attunement: none
 ---
 # Blunderbuss Bullets (5)
 *Ammunition (firearm)*  

@@ -15,6 +15,15 @@ classes:
 - Warlock
 aliases:
 - Arms of Hadar
+level: 1
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (10-foot Radius)
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Arms of Hadar
 *1st-level, Conjuration*  

@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Ersatz Eye"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Ersatz Eye
 *Wondrous item, minor, common*  

@@ -21,6 +21,15 @@ classes:
 - Wizard
 aliases:
 - Rope Trick
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (powdered corn extract and a twisted loop of parchment)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Rope Trick
 *2nd-level, Transmutation*  

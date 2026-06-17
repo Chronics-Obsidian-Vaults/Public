@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Leomund's Tiny Hut
+level: 3
+ritual: true
+school: evocation
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: Self (10-foot Hemisphere)
+components: "V, S, M (a small crystal bead)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Leomund's Tiny Hut
 *3rd-level, Evocation (ritual)*  

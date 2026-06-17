@@ -24,6 +24,10 @@ aliases:
 - "Spiked Armor of Weightlessness"
 - "Splint Armor of Weightlessness"
 - "Studded Leather Armor of Weightlessness"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: uncommon
+attunement: required
 ---
 # Armor of Weightlessness
 *Uncommon (requires attunement)*  

@@ -16,6 +16,10 @@ aliases:
 - "Moon-Touched Rapier"
 - "Moon-Touched Scimitar"
 - "Moon-Touched Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: common
+attunement: none
 ---
 # Moon-Touched Sword
 *Minor, common*  

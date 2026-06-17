@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Passwall
+level: 5
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a pinch of sesame seeds)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Passwall
 *5th-level, Transmutation*  

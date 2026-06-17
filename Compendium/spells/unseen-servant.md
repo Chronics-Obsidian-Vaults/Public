@@ -24,6 +24,15 @@ classes:
 - Wizard
 aliases:
 - Unseen Servant
+level: 1
+ritual: true
+school: conjuration
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: "60 feet"
+components: "V, S, M (a piece of string and a bit of wood)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Unseen Servant
 *1st-level, Conjuration (ritual)*  

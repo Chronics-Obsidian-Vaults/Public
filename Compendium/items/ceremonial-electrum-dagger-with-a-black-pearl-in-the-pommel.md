@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Ceremonial electrum dagger with a black pearl in the pommel"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Ceremonial electrum dagger with a black pearl in the pommel
 *Treasure (art object)*  

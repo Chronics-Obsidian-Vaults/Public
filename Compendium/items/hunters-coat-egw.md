@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Hunter's Coat"
+item_type: armor
+item_subtype: light
+rarity: very-rare
+attunement: required
 ---
 # Hunter's Coat
 *Light armor ([leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)), very rare (requires attunement)*  

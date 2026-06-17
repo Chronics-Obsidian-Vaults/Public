@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Witch Bolt
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a twig from a tree that has been struck by lightning)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Witch Bolt
 *1st-level, Evocation*  

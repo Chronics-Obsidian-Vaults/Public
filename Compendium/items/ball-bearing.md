@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Ball Bearing"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Ball Bearing
 *Adventuring gear*  

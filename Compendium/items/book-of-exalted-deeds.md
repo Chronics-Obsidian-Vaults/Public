@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/artifact
 aliases: 
 - "Book of Exalted Deeds"
+item_type: 
+item_subtype: 
+rarity: artifact
+attunement: required
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement by a creature of good alignment)*  

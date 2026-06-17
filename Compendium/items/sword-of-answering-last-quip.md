@@ -10,6 +10,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Sword of Answering (Last Quip)"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Sword of Answering (Last Quip)
 *Weapon ([longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md)), major, legendary (requires attunement by a chaotic neutral creature)*  

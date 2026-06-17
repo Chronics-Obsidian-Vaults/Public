@@ -20,6 +20,10 @@ aliases:
 - "Scale Mail of the Fallen"
 - "Spiked Armor of the Fallen"
 - "Splint Armor of the Fallen"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, medium"
+rarity: uncommon
+attunement: required
 ---
 # Armor of the Fallen
 *Uncommon (requires attunement)*  

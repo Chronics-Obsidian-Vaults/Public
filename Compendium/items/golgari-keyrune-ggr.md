@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Golgari Keyrune"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Golgari Keyrune
 *Wondrous item, very rare (requires attunement by a member of the Golgari guild)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Navigator's Tools"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Navigator's Tools
 *Tool*  

@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Orb of Shielding"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: required
 ---
 # Orb of Shielding
 *Wondrous item, spellcasting focus, common (requires attunement)*  

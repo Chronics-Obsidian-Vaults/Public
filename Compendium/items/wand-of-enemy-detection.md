@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Wand of Enemy Detection"
+item_type: wondrous
+item_subtype: wand
+rarity: rare
+attunement: required
 ---
 # Wand of Enemy Detection
 *Wand, major, rare (requires attunement)*  

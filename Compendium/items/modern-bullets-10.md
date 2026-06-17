@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Modern Bullets (10)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Modern Bullets (10)
 *Ammunition (firearm)*  

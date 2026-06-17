@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/artifact
 aliases: 
 - "Teeth of Dahlver-Nar"
+item_type: 
+item_subtype: 
+rarity: artifact
+attunement: required
 ---
 # Teeth of Dahlver-Nar
 *Wondrous item, artifact (requires attunement)*  

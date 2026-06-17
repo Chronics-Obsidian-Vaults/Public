@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Tome of the Stilled Tongue"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Tome of the Stilled Tongue
 *Wondrous item, major, legendary (requires attunement by a wizard)*  

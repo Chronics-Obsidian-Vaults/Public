@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Block and Tackle"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Block and Tackle
 *Adventuring gear*  

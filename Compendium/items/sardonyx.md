@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Sardonyx"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Sardonyx
 *Treasure (gemstone)*  

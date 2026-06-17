@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Druidic Focus"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Druidic Focus
 *Spellcasting focus*  

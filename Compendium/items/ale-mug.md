@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Ale (mug)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Ale (mug)
 *Food and drink*  

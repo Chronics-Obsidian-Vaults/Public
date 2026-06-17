@@ -35,6 +35,15 @@ classes:
 - Wizard (School of Illusion)
 aliases:
 - Minor Illusion
+level: 0
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "S, M (a bit of fleece)"
+duration: "1 minute"
+components_vsm: [S, M]
 ---
 # Minor Illusion
 *cantrip, Illusion*  

@@ -20,6 +20,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Healing Word
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: "60 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Healing Word
 *1st-level, Evocation*  

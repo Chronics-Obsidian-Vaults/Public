@@ -28,6 +28,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Resistance
+level: 0
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a miniature cloak)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Resistance
 *cantrip, Abjuration*  

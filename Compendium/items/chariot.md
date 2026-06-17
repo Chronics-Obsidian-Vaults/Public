@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/land
 aliases: 
 - "Chariot"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Chariot
 *Vehicle (land)*  

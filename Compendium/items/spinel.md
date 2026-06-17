@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Spinel"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Spinel
 *Treasure (gemstone)*  

@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Symbol
+level: 7
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Touch
+components: "V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)"
+duration: Until dispelled or triggered
+components_vsm: [V, S, M]
 ---
 # Symbol
 *7th-level, Abjuration*  

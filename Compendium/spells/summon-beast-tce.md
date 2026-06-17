@@ -14,6 +14,15 @@ classes:
 - Ranger
 aliases:
 - Summon Beast
+level: 2
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200 gp)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Summon Beast
 *2nd-level, Conjuration*  

@@ -24,6 +24,10 @@ aliases:
 - "Mariner's Spiked Armor"
 - "Mariner's Splint Armor"
 - "Mariner's Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: uncommon
+attunement: none
 ---
 # Mariner's Armor
 *Minor, uncommon*  

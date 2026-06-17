@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Helm of Teleportation"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Helm of Teleportation
 *Wondrous item, major, rare (requires attunement)*  

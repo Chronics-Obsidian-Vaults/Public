@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Orb of Time"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Orb of Time
 *Wondrous item, minor, common*  

@@ -17,6 +17,15 @@ classes:
 - Ranger
 aliases:
 - Searing Smite
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Searing Smite
 *1st-level, Evocation*  

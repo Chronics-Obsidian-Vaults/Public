@@ -13,6 +13,10 @@ aliases:
 - "Glimmering Moonbow"
 - "Glimmering Moon Longbow"
 - "Glimmering Moon Shortbow"
+item_type: wondrous
+item_subtype: "generic-variant, martial, ranged, simple"
+rarity: rare
+attunement: required
 ---
 # Glimmering Moonbow
 *Rare (requires attunement)*  

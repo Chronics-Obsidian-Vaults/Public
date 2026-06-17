@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Druid Grove
+level: 6
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: Touch
+components: "V, S, M (mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Druid Grove
 *6th-level, Abjuration*  

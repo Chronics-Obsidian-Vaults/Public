@@ -23,6 +23,10 @@ aliases:
 - "Silvered Pepperbox Bullet"
 - "Silvered Pistol Bullet"
 - "Silvered Sling Bullet"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: unknown
+attunement: none
 ---
 # Silvered Ammunition
 *Ammunition, minor*  

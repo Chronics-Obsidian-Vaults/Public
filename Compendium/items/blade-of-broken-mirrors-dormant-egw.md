@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Blade of Broken Mirrors (Dormant)"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: artifact
+attunement: required
 ---
 # Blade of Broken Mirrors (Dormant)
 *Weapon ([dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)), artifact (requires attunement by a humanoid)*  

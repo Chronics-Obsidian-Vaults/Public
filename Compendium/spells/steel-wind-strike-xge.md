@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Steel Wind Strike
+level: 5
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "S, M (a melee weapon worth at least 1 sp)"
+duration: Instantaneous
+components_vsm: [S, M]
 ---
 # Steel Wind Strike
 *5th-level, Conjuration*  

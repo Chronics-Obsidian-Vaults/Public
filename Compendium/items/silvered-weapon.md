@@ -66,6 +66,10 @@ aliases:
 - "Silvered Warhammer"
 - "Silvered Whip"
 - "Silvered Yklwa"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: unknown
+attunement: none
 ---
 # Silvered Weapon
 *Major*  

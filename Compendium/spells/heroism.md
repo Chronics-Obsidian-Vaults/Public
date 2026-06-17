@@ -23,6 +23,15 @@ classes:
 - Paladin (Oath of Glory)
 aliases:
 - Heroism
+level: 1
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Heroism
 *1st-level, Enchantment*  

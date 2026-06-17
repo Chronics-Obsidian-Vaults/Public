@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Brass mug with jade inlay"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Brass mug with jade inlay
 *Treasure (art object)*  

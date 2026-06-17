@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/tattoo
 aliases: 
 - "Acid Absorbing Tattoo"
+item_type: wondrous
+item_subtype: tattoo
+rarity: very-rare
+attunement: required
 ---
 # Acid Absorbing Tattoo
 *Wondrous item (tattoo), very rare (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Jeweled gold crown"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Jeweled gold crown
 *Treasure (art object)*  

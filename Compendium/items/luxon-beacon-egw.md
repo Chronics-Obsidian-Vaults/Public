@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Luxon Beacon"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Luxon Beacon
 *Wondrous item, legendary*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Caltrops (bag of 20)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Caltrops (bag of 20)
 *Adventuring gear*  

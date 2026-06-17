@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff"
+item_type: weapon
+item_subtype: simple
+rarity: none
+attunement: none
 ---
 # Staff
 *Staff, weapon, spellcasting focus*  

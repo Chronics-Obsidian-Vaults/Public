@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Ioun Stone, Greater Absorption"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Ioun Stone, Greater Absorption
 *Wondrous item, major, legendary (requires attunement)*  

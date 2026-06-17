@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Summer's Dance"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: rare
+attunement: required
 ---
 # Summer's Dance
 *Weapon ([scimitar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scimitar.md)), rare (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Astral Shard"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Astral Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

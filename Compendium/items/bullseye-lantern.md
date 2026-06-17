@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Bullseye Lantern"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Bullseye Lantern
 *Adventuring gear*  

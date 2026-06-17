@@ -11,6 +11,10 @@ aliases:
 - "Orb of Shielding (Mabaran Obsidian)"
 - "Mabaran Obsidian Crystal"
 - "Mabaran Obsidian Orb"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: common
+attunement: required
 ---
 # Orb of Shielding (Mabaran Obsidian)
 *Wondrous item, common (requires attunement)*  

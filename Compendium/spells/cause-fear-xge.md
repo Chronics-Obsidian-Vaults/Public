@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Cause Fear
+level: 1
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Cause Fear
 *1st-level, Necromancy*  

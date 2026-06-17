@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Hooded Lantern"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Hooded Lantern
 *Adventuring gear*  

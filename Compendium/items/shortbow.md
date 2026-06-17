@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Shortbow"
+item_type: weapon
+item_subtype: "ranged, simple"
+rarity: none
+attunement: none
 ---
 # Shortbow
 *Weapon*  

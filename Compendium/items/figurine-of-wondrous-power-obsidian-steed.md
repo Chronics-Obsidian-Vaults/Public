@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Figurine of Wondrous Power, Obsidian Steed"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Figurine of Wondrous Power, Obsidian Steed
 *Wondrous item, major, very rare*  

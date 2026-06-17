@@ -24,6 +24,10 @@ aliases:
 - "Smoldering Spiked Armor"
 - "Smoldering Splint Armor"
 - "Smoldering Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: common
+attunement: none
 ---
 # Smoldering Armor
 *Minor, common*  

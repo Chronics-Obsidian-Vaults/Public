@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Eyes of Charming"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Eyes of Charming
 *Wondrous item, major, uncommon (requires attunement)*  

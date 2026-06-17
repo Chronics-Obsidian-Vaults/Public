@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Brooch of Shielding"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Brooch of Shielding
 *Wondrous item, major, uncommon (requires attunement)*  

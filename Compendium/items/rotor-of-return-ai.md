@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Rotor of Return"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Rotor of Return
 *Wondrous item, very rare (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Iron"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Iron
 *Trade good*  

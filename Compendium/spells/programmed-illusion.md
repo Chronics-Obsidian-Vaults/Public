@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Programmed Illusion
+level: 6
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a bit of fleece and jade dust worth at least 25 gp)"
+duration: Until dispelled
+components_vsm: [V, S, M]
 ---
 # Programmed Illusion
 *6th-level, Illusion*  

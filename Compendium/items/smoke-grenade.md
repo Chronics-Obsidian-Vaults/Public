@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/explosive
 aliases: 
 - "Smoke Grenade"
+item_type: weapon
+item_subtype: explosive
+rarity: none
+attunement: none
 ---
 # Smoke Grenade
 *Explosive*  

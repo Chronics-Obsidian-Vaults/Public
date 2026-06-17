@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Regeneration"
+item_type: wondrous
+item_subtype: ring
+rarity: very-rare
+attunement: required
 ---
 # Ring of Regeneration
 *Ring, major, very rare (requires attunement)*  

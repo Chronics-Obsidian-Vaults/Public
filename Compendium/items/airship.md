@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/airship-air
 aliases: 
 - "Airship"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Airship
 *Airship, vehicle (air)*  

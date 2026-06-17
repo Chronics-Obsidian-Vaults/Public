@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Shatter
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a chip of mica)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Shatter
 *2nd-level, Evocation*  

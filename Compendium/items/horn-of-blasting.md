@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Horn of Blasting"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Horn of Blasting
 *Wondrous item, major, rare*  

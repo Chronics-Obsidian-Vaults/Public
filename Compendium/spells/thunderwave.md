@@ -35,6 +35,15 @@ classes:
 - Wizard
 aliases:
 - Thunderwave
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (15-foot Cube)
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Thunderwave
 *1st-level, Evocation*  

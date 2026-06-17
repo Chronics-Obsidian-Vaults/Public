@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Crystal Ball of True Seeing"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Crystal Ball of True Seeing
 *Wondrous item, major, legendary (requires attunement)*  

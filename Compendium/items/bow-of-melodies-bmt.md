@@ -13,6 +13,10 @@ aliases:
 - "Bow of Melodies"
 - "Longbow of Melodies"
 - "Shortbow of Melodies"
+item_type: wondrous
+item_subtype: "generic-variant, martial, ranged, simple"
+rarity: very-rare
+attunement: required
 ---
 # Bow of Melodies
 *Very rare (requires attunement)*  

@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Radiant Resistance"
 - "Splint Armor of Radiant Resistance"
 - "Studded Leather Armor of Radiant Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Radiant Resistance
 *Major, rare (requires attunement)*  

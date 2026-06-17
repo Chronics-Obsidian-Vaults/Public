@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Goggles of Object Reading"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Goggles of Object Reading
 *Wondrous item, uncommon (requires attunement)*  

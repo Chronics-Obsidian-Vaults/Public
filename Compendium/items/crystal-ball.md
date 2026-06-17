@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Crystal Ball"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Crystal Ball
 *Wondrous item, major, very rare (requires attunement)*  

@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Thunder Resistance"
 - "Splint Armor of Thunder Resistance"
 - "Studded Leather Armor of Thunder Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Thunder Resistance
 *Major, rare (requires attunement)*  

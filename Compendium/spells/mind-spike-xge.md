@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Mind Spike
+level: 2
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: S
+duration: "Concentration, up to 1 hour"
+components_vsm: [S]
 ---
 # Mind Spike
 *2nd-level, Divination*  

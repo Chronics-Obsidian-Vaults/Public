@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Condemner (Dormant)"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: legendary
+attunement: required
 ---
 # Condemner (Dormant)
 *Weapon ([heavy crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/heavy-crossbow.md)), legendary (requires attunement)*  

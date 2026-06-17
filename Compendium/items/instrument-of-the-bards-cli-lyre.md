@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Instrument of the Bards, Cli Lyre"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Instrument of the Bards, Cli Lyre
 *Wondrous item, instrument, major, rare (requires attunement by a bard)*  

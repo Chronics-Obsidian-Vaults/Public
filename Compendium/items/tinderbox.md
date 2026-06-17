@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Tinderbox"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Tinderbox
 *Adventuring gear*  

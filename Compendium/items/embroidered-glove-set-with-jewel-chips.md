@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Embroidered glove set with jewel chips"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Embroidered glove set with jewel chips
 *Treasure (art object)*  

@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Talons Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Talons Card
 *Wondrous item, legendary*  

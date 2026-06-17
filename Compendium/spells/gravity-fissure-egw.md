@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Gravity Fissure
+level: 6
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (100-foot Line)
+components: "V, S, M (a fistful of iron filings)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Gravity Fissure
 *6th-level, Evocation*  

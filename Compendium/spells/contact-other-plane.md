@@ -15,6 +15,15 @@ classes:
 - Wizard
 aliases:
 - Contact Other Plane
+level: 5
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: Self
+components: V
+duration: "1 minute"
+components_vsm: [V]
 ---
 # Contact Other Plane
 *5th-level, Divination (ritual)*  

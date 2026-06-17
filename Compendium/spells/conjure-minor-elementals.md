@@ -21,6 +21,15 @@ classes:
 - Wizard
 aliases:
 - Conjure Minor Elementals
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "90 feet"
+components: "V, S"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S]
 ---
 # Conjure Minor Elementals
 *4th-level, Conjuration*  

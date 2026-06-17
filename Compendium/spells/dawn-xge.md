@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Dawn
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a sunburst pendant worth at least 100 gp)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Dawn
 *5th-level, Evocation*  

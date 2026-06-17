@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Scholar's Pack"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Scholar's Pack
 *Adventuring gear*  

@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Bag of Holding"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Bag of Holding
 *Wondrous item, minor, uncommon*  

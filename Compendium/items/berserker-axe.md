@@ -15,6 +15,10 @@ aliases:
 - "Berserker Battleaxe"
 - "Berserker Greataxe"
 - "Berserker Handaxe"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, simple"
+rarity: rare
+attunement: required
 ---
 # Berserker Axe
 *Cursed item, major, rare (requires attunement)*  

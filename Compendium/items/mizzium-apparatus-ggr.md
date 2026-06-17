@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Mizzium Apparatus"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Mizzium Apparatus
 *Wondrous item, uncommon (requires attunement by a sorcerer, warlock, or wizard)*  

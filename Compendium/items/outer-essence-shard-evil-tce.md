@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Outer Essence Shard (Evil)"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Outer Essence Shard (Evil)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

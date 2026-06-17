@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Fire Resistance"
 - "Splint Armor of Fire Resistance"
 - "Studded Leather Armor of Fire Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Fire Resistance
 *Major, rare (requires attunement)*  

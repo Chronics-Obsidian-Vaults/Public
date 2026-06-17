@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Fog Cloud
+level: 1
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S]
 ---
 # Fog Cloud
 *1st-level, Conjuration*  

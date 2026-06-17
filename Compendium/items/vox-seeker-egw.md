@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Vox Seeker"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Vox Seeker
 *Wondrous item, common*  

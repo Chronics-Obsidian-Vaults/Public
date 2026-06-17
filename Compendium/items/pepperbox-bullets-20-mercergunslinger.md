@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Pepperbox Bullets (20)"
+item_type: 
+item_subtype: 
+rarity: unknown
+attunement: none
 ---
 # Pepperbox Bullets (20)
 *Ammunition (firearm)*  

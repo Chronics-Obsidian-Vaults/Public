@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Tinkertop Boltblaster 1000"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: very-rare
+attunement: required
 ---
 # Tinkertop Boltblaster 1000
 *Weapon ([hand crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hand-crossbow.md)), very rare (requires attunement)*  

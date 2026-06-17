@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/scroll
 aliases: 
 - "Spell Scroll (5th Level)"
+item_type: wondrous
+item_subtype: scroll
+rarity: rare
+attunement: none
 ---
 # Spell Scroll (5th Level)
 *Scroll, minor, rare*  

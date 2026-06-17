@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Horseshoes of a Zephyr"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Horseshoes of a Zephyr
 *Wondrous item, minor, very rare*  

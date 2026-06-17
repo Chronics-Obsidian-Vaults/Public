@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Magician's Judge"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: rare
+attunement: none
 ---
 # Magician's Judge
 *Weapon ([greatsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/greatsword.md)), rare*  

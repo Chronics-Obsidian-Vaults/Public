@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Instrument of the Bards, Ollamh Harp"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Instrument of the Bards, Ollamh Harp
 *Wondrous item, instrument, major, legendary (requires attunement by a bard)*  

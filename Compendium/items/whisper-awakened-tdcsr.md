@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Whisper (Awakened)"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: legendary
+attunement: required
 ---
 # Whisper (Awakened)
 *Weapon ([dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)), legendary (requires attunement)*  

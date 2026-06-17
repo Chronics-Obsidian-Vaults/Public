@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Create Homunculus
+level: 6
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 hour"
+range: Touch
+components: "V, S, M (clay, ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted dagger worth at least 1,000 gp)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Create Homunculus
 *6th-level, Transmutation*  

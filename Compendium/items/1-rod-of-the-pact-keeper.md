@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "+1 Rod of the Pact Keeper"
+item_type: wondrous
+item_subtype: rod
+rarity: uncommon
+attunement: required
 ---
 # +1 Rod of the Pact Keeper
 *Rod, major, uncommon (requires attunement by a warlock)*  

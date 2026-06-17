@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Cauldron of Rebirth"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Cauldron of Rebirth
 *Wondrous item, very rare (requires attunement by a druid or warlock)*  

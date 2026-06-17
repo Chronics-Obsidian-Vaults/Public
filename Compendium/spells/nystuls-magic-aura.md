@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Nystul's Magic Aura
+level: 2
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a small square of silk)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Nystul's Magic Aura
 *2nd-level, Illusion*  

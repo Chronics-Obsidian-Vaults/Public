@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Pipes of the Sewers"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Pipes of the Sewers
 *Wondrous item, instrument, major, uncommon (requires attunement)*  

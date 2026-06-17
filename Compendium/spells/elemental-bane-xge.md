@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Elemental Bane
+level: 4
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Elemental Bane
 *4th-level, Transmutation*  

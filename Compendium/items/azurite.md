@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Azurite"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Azurite
 *Treasure (gemstone)*  

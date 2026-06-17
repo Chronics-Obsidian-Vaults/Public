@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Arrows (20)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Arrows (20)
 *Ammunition*  

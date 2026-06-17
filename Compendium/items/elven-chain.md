@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Elven Chain"
+item_type: armor
+item_subtype: medium
+rarity: rare
+attunement: none
 ---
 # Elven Chain
 *Medium armor, major, rare*  

@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/tattoo
 aliases: 
 - "Coiling Grasp Tattoo"
+item_type: wondrous
+item_subtype: tattoo
+rarity: uncommon
+attunement: required
 ---
 # Coiling Grasp Tattoo
 *Wondrous item (tattoo), uncommon (requires attunement)*  

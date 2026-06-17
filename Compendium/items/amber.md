@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Amber"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Amber
 *Treasure (gemstone)*  

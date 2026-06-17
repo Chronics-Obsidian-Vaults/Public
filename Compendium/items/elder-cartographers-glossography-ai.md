@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Elder Cartographer's Glossography"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Elder Cartographer's Glossography
 *Wondrous item, uncommon*  

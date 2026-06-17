@@ -13,6 +13,15 @@ classes:
 - Druid
 aliases:
 - Giant Insect
+level: 4
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S]
 ---
 # Giant Insect
 *4th-level, Transmutation*  

@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Horn of Valhalla, Silver"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Horn of Valhalla, Silver
 *Wondrous item, major, rare*  

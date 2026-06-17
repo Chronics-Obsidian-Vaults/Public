@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Rod of Rulership"
+item_type: wondrous
+item_subtype: rod
+rarity: rare
+attunement: required
 ---
 # Rod of Rulership
 *Rod, major, rare (requires attunement)*  

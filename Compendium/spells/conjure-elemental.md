@@ -19,6 +19,15 @@ classes:
 - Wizard
 aliases:
 - Conjure Elemental
+level: 5
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "90 feet"
+components: "V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Conjure Elemental
 *5th-level, Conjuration*  

@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/other
 aliases: 
 - "Hag Eye"
+item_type: wondrous
+item_subtype: other
+rarity: unknown/magic
+attunement: none
 ---
 # Hag Eye
 

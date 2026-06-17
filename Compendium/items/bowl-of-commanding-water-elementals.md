@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Bowl of Commanding Water Elementals"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous item, major, rare*  

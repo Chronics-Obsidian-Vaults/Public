@@ -27,6 +27,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Water Walk
+level: 3
+ritual: true
+school: transmutation
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: "30 feet"
+components: "V, S, M (a piece of cork)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  

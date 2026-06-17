@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Ink Pen"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Ink Pen
 *Adventuring gear*  

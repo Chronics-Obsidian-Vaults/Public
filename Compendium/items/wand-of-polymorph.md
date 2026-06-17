@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Wand of Polymorph"
+item_type: wondrous
+item_subtype: wand
+rarity: very-rare
+attunement: required
 ---
 # Wand of Polymorph
 *Wand, major, very rare (requires attunement by a spellcaster)*  

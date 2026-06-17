@@ -26,16 +26,16 @@ The founding house and traditional leaders among the Prenyan dynasties. House Pr
 * Extensive patronage and financial backing of artisan guilds throughout the city
 * Private security services for wealthy individuals and businesses who can afford protection
 * Discreet banking services within Geldeon's closed economy
+* Intelligence gathering within Geldeon's districts
 
 Their support of the artisan guilds has made them indispensable to Geldeon's self-sufficient economy, while their private security forces serve as elite protection for those who distrust the Quorum's enforcers.
 
 #### House Valdris
 Masters of information and internal communication networks:
 * Courier and messaging services throughout the city's vertical layout
-* Intelligence gathering within Geldeon's districts
+* Newspaper and press circulation
 * Record keeping and administrative services
 * Cultural preservation and maintenance of pre-war Amberlight traditions
-* Educational institutions focused on preserving knowledge
 
 #### House Stormwind
 Masters of resource management and environmental control:
@@ -46,7 +46,7 @@ Masters of resource management and environmental control:
 
 ### The Akveta District
 
-Located on the western slopes, this district focuses on luxury goods production and the limited high-value trade that Geldeon permits.
+Located on the eastern slopes, this district focuses on luxury goods production and the limited high-value trade that Geldeon permits.
 
 #### House Zothello
 Renowned for their mastery of luxury goods and selective trade operations:
@@ -70,7 +70,7 @@ Masters of internal logistics and distribution:
 
 ### The Gruhor District
 
-Positioned on the eastern slopes, this district commands mining operations and serves as the industrial backbone of Geldeon's economy.
+Positioned on the western slopes, this district commands mining operations and serves as the industrial backbone of Geldeon's economy.
 
 #### House Gruhor
 A dwarf family that dominates Geldeon's mining operations:

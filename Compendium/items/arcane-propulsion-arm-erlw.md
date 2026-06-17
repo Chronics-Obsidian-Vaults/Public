@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Arcane Propulsion Arm"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Arcane Propulsion Arm
 *Wondrous item, very rare (requires attunement by a creature missing a hand or an arm)*  

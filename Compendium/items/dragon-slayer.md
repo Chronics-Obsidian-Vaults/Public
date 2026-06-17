@@ -16,6 +16,10 @@ aliases:
 - "Dragon Slayer Rapier"
 - "Dragon Slayer Scimitar"
 - "Dragon Slayer Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: rare
+attunement: none
 ---
 # Dragon Slayer
 *Major, rare*  

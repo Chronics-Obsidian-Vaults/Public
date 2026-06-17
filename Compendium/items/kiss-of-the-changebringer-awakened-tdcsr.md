@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Kiss of the Changebringer (Awakened)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Kiss of the Changebringer (Awakened)
 *Wondrous item, legendary (requires attunement)*  

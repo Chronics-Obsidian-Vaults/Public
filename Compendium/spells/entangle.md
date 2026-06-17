@@ -17,6 +17,15 @@ classes:
 - Ranger
 aliases:
 - Entangle
+level: 1
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Entangle
 *1st-level, Conjuration*  

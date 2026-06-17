@@ -17,6 +17,15 @@ classes:
 - Ranger
 aliases:
 - Animal Messenger
+level: 2
+ritual: true
+school: enchantment
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: "30 feet"
+components: "V, S, M (a morsel of food)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Animal Messenger
 *2nd-level, Enchantment (ritual)*  

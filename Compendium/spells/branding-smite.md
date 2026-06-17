@@ -17,6 +17,15 @@ classes:
 - Warlock (The Hexblade)
 aliases:
 - Branding Smite
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Branding Smite
 *2nd-level, Evocation*  

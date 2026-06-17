@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Tasha's Otherworldly Guise
+level: 6
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: "V, S, M (an object engraved with a symbol of the Outer Planes, worth at least 500 gp)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Tasha's Otherworldly Guise
 *6th-level, Transmutation*  

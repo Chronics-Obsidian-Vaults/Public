@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Figurine of Wondrous Power"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: none
 ---
 # Figurine of Wondrous Power
 *Wondrous item*  

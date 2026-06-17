@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/unknown/magic
 aliases: 
 - "Residuum Enchanting Slate"
+item_type: 
+item_subtype: 
+rarity: unknown/magic
+attunement: none
 ---
 # Residuum Enchanting Slate
 *Wondrous item, tool*  

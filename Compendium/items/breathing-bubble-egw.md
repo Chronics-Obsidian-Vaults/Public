@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Breathing Bubble"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Breathing Bubble
 *Wondrous item, common*  

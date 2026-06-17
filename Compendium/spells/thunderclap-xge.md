@@ -39,6 +39,15 @@ classes:
 - Wizard
 aliases:
 - Thunderclap
+level: 0
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "5 feet"
+components: S
+duration: Instantaneous
+components_vsm: [S]
 ---
 # Thunderclap
 *cantrip, Evocation*  

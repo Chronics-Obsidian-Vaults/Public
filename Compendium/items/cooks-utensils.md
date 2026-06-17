@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Cook's Utensils"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Cook's Utensils
 *Artisan's tools*  

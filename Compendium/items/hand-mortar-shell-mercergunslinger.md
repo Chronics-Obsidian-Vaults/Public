@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Hand Mortar Shell"
+item_type: 
+item_subtype: 
+rarity: unknown
+attunement: none
 ---
 # Hand Mortar Shell
 *Ammunition (firearm)*  

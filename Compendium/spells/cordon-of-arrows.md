@@ -12,6 +12,15 @@ classes:
 - Ranger
 aliases:
 - Cordon of Arrows
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "5 feet"
+components: "V, S, M (four or more arrows or bolts)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Cordon of Arrows
 *2nd-level, Transmutation*  

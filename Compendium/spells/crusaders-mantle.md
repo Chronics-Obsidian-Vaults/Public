@@ -15,6 +15,15 @@ classes:
 - Paladin
 aliases:
 - Crusader's Mantle
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (30-foot Radius)
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Crusader's Mantle
 *3rd-level, Evocation*  

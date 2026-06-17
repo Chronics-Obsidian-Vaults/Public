@@ -24,6 +24,15 @@ classes:
 - Wizard
 aliases:
 - Phantasmal Force
+level: 2
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a bit of fleece)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Phantasmal Force
 *2nd-level, Illusion*  

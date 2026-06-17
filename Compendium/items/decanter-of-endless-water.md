@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Decanter of Endless Water"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Decanter of Endless Water
 *Wondrous item, minor, uncommon*  

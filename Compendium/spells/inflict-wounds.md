@@ -18,6 +18,15 @@ classes:
 - Sorcerer (Divine Soul, Evil)
 aliases:
 - Inflict Wounds
+level: 1
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Inflict Wounds
 *1st-level, Necromancy*  

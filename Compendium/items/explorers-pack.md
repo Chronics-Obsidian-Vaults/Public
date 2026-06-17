@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Explorer's Pack"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Explorer's Pack
 *Adventuring gear*  

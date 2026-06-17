@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Ink (1-ounce bottle)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Ink (1-ounce bottle)
 *Adventuring gear*  

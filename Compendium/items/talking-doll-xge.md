@@ -8,6 +8,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Talking Doll"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: required
 ---
 # Talking Doll
 *Wondrous item, minor, common (requires attunement)*  

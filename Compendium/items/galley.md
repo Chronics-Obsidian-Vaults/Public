@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/ship-water
 aliases: 
 - "Galley"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Galley
 *Ship, vehicle (water)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Fishing Tackle"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Fishing Tackle
 *Adventuring gear*  

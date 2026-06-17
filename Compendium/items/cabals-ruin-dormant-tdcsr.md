@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Cabal's Ruin (Dormant)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Cabal's Ruin (Dormant)
 *Wondrous item, legendary (requires attunement)*  

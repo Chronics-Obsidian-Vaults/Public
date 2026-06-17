@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Alchemy Jug"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Alchemy Jug
 *Wondrous item, minor, uncommon*  

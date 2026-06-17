@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Shield of Missile Attraction"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Shield of Missile Attraction
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), cursed item, major, rare (requires attunement)*  

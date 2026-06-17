@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Sun Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Sun Card
 *Wondrous item, legendary*  

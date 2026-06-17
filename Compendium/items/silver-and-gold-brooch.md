@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Silver and gold brooch"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Silver and gold brooch
 *Treasure (art object)*  

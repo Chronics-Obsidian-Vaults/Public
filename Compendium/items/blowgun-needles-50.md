@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Blowgun Needles (50)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Blowgun Needles (50)
 *Ammunition*  

@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Wish
+level: 9
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Wish
 *9th-level, Conjuration*  

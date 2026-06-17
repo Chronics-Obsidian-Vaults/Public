@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "+1 All-Purpose Tool"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # +1 All-Purpose Tool
 *Wondrous item, uncommon (requires attunement by an artificer)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Assassin's Blood"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Assassin's Blood
 *Adventuring gear, poison (ingested)*  

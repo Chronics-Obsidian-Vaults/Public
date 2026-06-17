@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Loaf of Bread"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Loaf of Bread
 *Food and drink*  

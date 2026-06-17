@@ -23,6 +23,10 @@ aliases:
 - "Drow +2 Spiked Armor"
 - "Drow +2 Splint Armor"
 - "Drow +2 Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: unknown/magic
+attunement: none
 ---
 # Drow +2 Armor
 

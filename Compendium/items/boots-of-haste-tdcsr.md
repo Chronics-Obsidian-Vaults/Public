@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Boots of Haste"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Boots of Haste
 *Wondrous item, very rare (requires attunement)*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Spire of Conflux"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: legendary
+attunement: required
 ---
 # Spire of Conflux
 *Staff, weapon, legendary (requires attunement by a spellcaster)*  

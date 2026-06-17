@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Cleansing Stone"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Cleansing Stone
 *Wondrous item, common*  

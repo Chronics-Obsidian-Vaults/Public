@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Reverse Gravity
+level: 7
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "100 feet"
+components: "V, S, M (a lodestone and iron filings)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Reverse Gravity
 *7th-level, Transmutation*  

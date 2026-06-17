@@ -10,6 +10,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Trident of Fish Command"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: uncommon
+attunement: required
 ---
 # Trident of Fish Command
 *Weapon ([trident](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trident.md)), major, uncommon (requires attunement)*  

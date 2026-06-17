@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Spider Climb
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a drop of bitumen and a spider)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Spider Climb
 *2nd-level, Transmutation*  

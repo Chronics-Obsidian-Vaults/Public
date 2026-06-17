@@ -16,6 +16,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Dispel Evil and Good
+level: 5
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (holy water or powdered silver and iron)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  

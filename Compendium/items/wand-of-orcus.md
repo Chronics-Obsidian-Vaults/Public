@@ -10,6 +10,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Wand of Orcus"
+item_type: wondrous
+item_subtype: "melee, simple, wand"
+rarity: artifact
+attunement: required
 ---
 # Wand of Orcus
 *Weapon ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), wand, artifact (requires attunement)*  

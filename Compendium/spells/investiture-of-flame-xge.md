@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Investiture of Flame
+level: 6
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S]
 ---
 # Investiture of Flame
 *6th-level, Transmutation*  

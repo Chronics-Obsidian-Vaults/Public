@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Platinum bracelet set with a sapphire"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Platinum bracelet set with a sapphire
 *Treasure (art object)*  

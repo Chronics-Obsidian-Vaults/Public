@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Vampiric Touch
+level: 3
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Vampiric Touch
 *3rd-level, Necromancy*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Greater Silver Sword"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Greater Silver Sword
 *Weapon ([greatsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/greatsword.md)), legendary (requires attunement by a creature that has psionic ability)*  

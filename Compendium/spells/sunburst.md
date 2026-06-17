@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Sunburst
+level: 8
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (fire and a piece of sunstone)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Sunburst
 *8th-level, Evocation*  

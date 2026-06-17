@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/artifact
 aliases: 
 - "Hand of Vecna"
+item_type: 
+item_subtype: 
+rarity: artifact
+attunement: required
 ---
 # Hand of Vecna
 *Wondrous item, artifact (requires attunement)*  

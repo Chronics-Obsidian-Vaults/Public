@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Bottle stopper cork embossed with gold leaf and set with amethysts"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Bottle stopper cork embossed with gold leaf and set with amethysts
 *Treasure (art object)*  

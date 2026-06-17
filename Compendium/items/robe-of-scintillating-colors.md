@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Robe of Scintillating Colors"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Robe of Scintillating Colors
 *Wondrous item, major, very rare (requires attunement)*  

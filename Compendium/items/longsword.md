@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Longsword"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: none
+attunement: none
 ---
 # Longsword
 *Weapon*  

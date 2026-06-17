@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Brazier of Commanding Fire Elementals"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Brazier of Commanding Fire Elementals
 *Wondrous item, major, rare*  

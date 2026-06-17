@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Magic Mouth
+level: 2
+ritual: true
+school: illusion
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: "30 feet"
+components: "V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)"
+duration: Until dispelled
+components_vsm: [V, S, M]
 ---
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  

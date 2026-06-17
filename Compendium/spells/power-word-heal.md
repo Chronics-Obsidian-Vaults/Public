@@ -14,6 +14,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Power Word Heal
+level: 9
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Power Word Heal
 *9th-level, Evocation*  

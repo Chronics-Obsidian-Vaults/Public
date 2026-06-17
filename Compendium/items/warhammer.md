@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Warhammer"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: none
+attunement: none
 ---
 # Warhammer
 *Weapon*  

@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Tome of Leadership and Influence"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Tome of Leadership and Influence
 *Wondrous item, major, very rare*  

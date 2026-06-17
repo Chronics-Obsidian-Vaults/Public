@@ -16,6 +16,15 @@ classes:
 - Ranger
 aliases:
 - Conjure Barrage
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (60-foot Cone)
+components: "V, S, M (one piece of ammunition or a thrown weapon)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Conjure Barrage
 *3rd-level, Conjuration*  

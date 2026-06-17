@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Voyager Staff"
+item_type: weapon
+item_subtype: simple
+rarity: very-rare
+attunement: required
 ---
 # Voyager Staff
 *Staff, weapon, very rare (requires attunement by a spellcaster)*  

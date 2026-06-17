@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Sprig of Mistletoe"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Sprig of Mistletoe
 *Spellcasting focus*  

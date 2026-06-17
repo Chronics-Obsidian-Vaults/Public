@@ -26,6 +26,15 @@ classes:
 - Wizard
 aliases:
 - Mirror Image
+level: 2
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "1 minute"
+components_vsm: [V, S]
 ---
 # Mirror Image
 *2nd-level, Illusion*  

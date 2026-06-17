@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Catnap
+level: 3
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "S, M (a pinch of sand)"
+duration: "10 minutes"
+components_vsm: [S, M]
 ---
 # Catnap
 *3rd-level, Enchantment*  

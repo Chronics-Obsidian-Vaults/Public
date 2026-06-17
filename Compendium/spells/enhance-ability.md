@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Enhance Ability
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (fur or a feather from a beast)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Enhance Ability
 *2nd-level, Transmutation*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Black Sapphire"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Black Sapphire
 *Treasure (gemstone)*  

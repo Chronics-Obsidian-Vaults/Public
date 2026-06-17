@@ -46,6 +46,15 @@ classes:
 - Wizard
 aliases:
 - Detect Magic
+level: 1
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Self
+components: "V, S"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S]
 ---
 # Detect Magic
 *1st-level, Divination (ritual)*  

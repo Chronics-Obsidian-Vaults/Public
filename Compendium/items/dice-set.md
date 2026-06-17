@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Dice Set"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Dice Set
 *Gaming set*  

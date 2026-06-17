@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Chrysoberyl"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Chrysoberyl
 *Treasure (gemstone)*  

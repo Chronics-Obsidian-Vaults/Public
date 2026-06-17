@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Tsunami
+level: 8
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Sight
+components: "V, S"
+duration: "Concentration, up to 6 rounds"
+components_vsm: [V, S]
 ---
 # Tsunami
 *8th-level, Conjuration*  

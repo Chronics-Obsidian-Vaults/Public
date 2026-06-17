@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Earthbind
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "300 feet"
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Earthbind
 *2nd-level, Transmutation*  

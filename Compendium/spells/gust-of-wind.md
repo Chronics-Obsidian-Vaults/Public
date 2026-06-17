@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Gust of Wind
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (60-foot Line)
+components: "V, S, M (a legume seed)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Gust of Wind
 *2nd-level, Evocation*  

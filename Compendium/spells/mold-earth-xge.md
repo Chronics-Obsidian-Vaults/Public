@@ -34,6 +34,15 @@ classes:
 - Wizard
 aliases:
 - Mold Earth
+level: 0
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: S
+duration: "Instantaneous, up to 1 hour"
+components_vsm: [S]
 ---
 # Mold Earth
 *cantrip, Transmutation*  

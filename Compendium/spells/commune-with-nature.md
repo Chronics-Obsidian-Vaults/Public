@@ -26,6 +26,15 @@ classes:
 - Ranger
 aliases:
 - Commune with Nature
+level: 5
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: Self
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Commune with Nature
 *5th-level, Divination (ritual)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Infiltrator's Key (Exalted)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Infiltrator's Key (Exalted)
 *Wondrous item, legendary (requires attunement)*  

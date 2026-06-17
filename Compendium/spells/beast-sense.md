@@ -19,6 +19,15 @@ classes:
 - Ranger
 aliases:
 - Beast Sense
+level: 2
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Touch
+components: S
+duration: "Concentration, up to 1 hour"
+components_vsm: [S]
 ---
 # Beast Sense
 *2nd-level, Divination (ritual)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Peridot"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Peridot
 *Treasure (gemstone)*  

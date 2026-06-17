@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Shiftweave"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Shiftweave
 *Wondrous item, common*  

@@ -37,6 +37,15 @@ classes:
 - Wizard
 aliases:
 - Protection from Evil and Good
+level: 1
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (holy water or powdered silver and iron, which the spell consumes)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Protection from Evil and Good
 *1st-level, Abjuration*  

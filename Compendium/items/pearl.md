@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Pearl"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Pearl
 *Treasure (gemstone)*  

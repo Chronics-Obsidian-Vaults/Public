@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Large well-made tapestry"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Large well-made tapestry
 *Treasure (art object)*  

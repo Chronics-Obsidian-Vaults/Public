@@ -14,6 +14,15 @@ classes:
 - Ranger
 aliases:
 - Conjure Woodland Beings
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (one holly berry per creature summoned)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Conjure Woodland Beings
 *4th-level, Conjuration*  

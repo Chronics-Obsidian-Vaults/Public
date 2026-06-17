@@ -15,6 +15,15 @@ classes:
 - Wizard
 aliases:
 - Modify Memory
+level: 5
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Modify Memory
 *5th-level, Enchantment*  

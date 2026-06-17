@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Fates Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Fates Card
 *Wondrous item, legendary*  

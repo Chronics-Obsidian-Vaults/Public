@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Shotgun"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: none
+attunement: none
 ---
 # Shotgun
 *Weapon*  

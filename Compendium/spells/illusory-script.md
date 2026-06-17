@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Illusory Script
+level: 1
+ritual: true
+school: illusion
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: Touch
+components: "S, M (a lead-based ink worth at least 10 gp, which the spell consumes)"
+duration: "10 days"
+components_vsm: [S, M]
 ---
 # Illusory Script
 *1st-level, Illusion (ritual)*  

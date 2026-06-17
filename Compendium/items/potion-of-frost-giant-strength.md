@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Frost Giant Strength"
+item_type: wondrous
+item_subtype: potion
+rarity: rare
+attunement: none
 ---
 # Potion of Frost Giant Strength
 *Potion, minor, rare*  

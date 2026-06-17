@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Invisibility"
+item_type: wondrous
+item_subtype: potion
+rarity: very-rare
+attunement: none
 ---
 # Potion of Invisibility
 *Potion, minor, very rare*  

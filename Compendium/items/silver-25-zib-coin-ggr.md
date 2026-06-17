@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Silver 25-Zib Coin"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Silver 25-Zib Coin
 *Treasure (coinage)*  

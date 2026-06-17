@@ -18,6 +18,10 @@ aliases:
 - "Mithral +1 Scale Mail"
 - "Mithral +1 Spiked Armor"
 - "Mithral +1 Splint Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, medium"
+rarity: rare
+attunement: none
 ---
 # Mithral +1 Armor
 *Rare*  

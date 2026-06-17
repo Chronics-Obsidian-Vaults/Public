@@ -27,6 +27,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Insect Plague
+level: 5
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "300 feet"
+components: "V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Insect Plague
 *5th-level, Conjuration*  

@@ -11,6 +11,10 @@ aliases:
 - "Orb of Shielding (Fernian Basalt)"
 - "Fernian Basalt Crystal"
 - "Fernian Basalt Orb"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: common
+attunement: required
 ---
 # Orb of Shielding (Fernian Basalt)
 *Wondrous item, common (requires attunement)*  

@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Meteor Swarm
+level: 9
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "1 miles"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Meteor Swarm
 *9th-level, Evocation*  

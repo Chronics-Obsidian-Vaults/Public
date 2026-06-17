@@ -10,6 +10,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Mace of Terror"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: rare
+attunement: required
 ---
 # Mace of Terror
 *Weapon ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), major, rare (requires attunement)*  

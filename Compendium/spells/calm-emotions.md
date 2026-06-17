@@ -24,6 +24,15 @@ classes:
 - Warlock (The Archfey)
 aliases:
 - Calm Emotions
+level: 2
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Calm Emotions
 *2nd-level, Enchantment*  

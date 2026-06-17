@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/ship-water
 aliases: 
 - "Longship"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Longship
 *Ship, vehicle (water)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Hunk of Cheese"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Hunk of Cheese
 *Food and drink*  

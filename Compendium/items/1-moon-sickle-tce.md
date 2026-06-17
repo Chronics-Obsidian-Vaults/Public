@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "+1 Moon Sickle"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: uncommon
+attunement: required
 ---
 # +1 Moon Sickle
 *Weapon ([sickle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sickle.md)), uncommon (requires attunement by a druid or ranger)*  

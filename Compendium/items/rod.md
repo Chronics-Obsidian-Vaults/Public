@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Rod"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Rod
 *Spellcasting focus*  

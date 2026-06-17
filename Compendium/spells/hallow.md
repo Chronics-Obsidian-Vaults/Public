@@ -17,6 +17,15 @@ classes:
 - Warlock (The Fiend)
 aliases:
 - Hallow
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "24 hours"
+range: Touch
+components: "V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)"
+duration: Until dispelled
+components_vsm: [V, S, M]
 ---
 # Hallow
 *5th-level, Evocation*  

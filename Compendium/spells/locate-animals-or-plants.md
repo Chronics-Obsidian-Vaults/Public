@@ -17,6 +17,15 @@ classes:
 - Ranger
 aliases:
 - Locate Animals or Plants
+level: 2
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Self
+components: "V, S, M (a bit of fur from a bloodhound)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  

@@ -21,6 +21,15 @@ classes:
 - Wizard
 aliases:
 - Color Spray
+level: 1
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (15-foot Cone)
+components: "V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)"
+duration: "1 round"
+components_vsm: [V, S, M]
 ---
 # Color Spray
 *1st-level, Illusion*  

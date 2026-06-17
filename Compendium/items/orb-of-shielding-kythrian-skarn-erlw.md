@@ -11,6 +11,10 @@ aliases:
 - "Orb of Shielding (Kythrian Skarn)"
 - "Kythrian Skarn Crystal"
 - "Kythrian Skarn Orb"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: common
+attunement: required
 ---
 # Orb of Shielding (Kythrian Skarn)
 *Wondrous item, common (requires attunement)*  

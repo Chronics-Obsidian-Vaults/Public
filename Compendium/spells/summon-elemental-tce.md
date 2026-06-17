@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Summon Elemental
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Summon Elemental
 *4th-level, Conjuration*  

@@ -25,6 +25,15 @@ classes:
 - Warlock
 aliases:
 - Magic Stone
+level: 0
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Touch
+components: "V, S"
+duration: "1 minute"
+components_vsm: [V, S]
 ---
 # Magic Stone
 *cantrip, Transmutation*  

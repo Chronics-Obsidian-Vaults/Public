@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Old masterpiece painting"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Old masterpiece painting
 *Treasure (art object)*  

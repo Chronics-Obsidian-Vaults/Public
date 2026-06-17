@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Scribe's Pen"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: required
 ---
 # Scribe's Pen
 *Wondrous item, common (requires attunement by a creature with the Mark of Scribing)*  

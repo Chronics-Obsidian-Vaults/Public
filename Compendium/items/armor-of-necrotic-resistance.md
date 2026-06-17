@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Necrotic Resistance"
 - "Splint Armor of Necrotic Resistance"
 - "Studded Leather Armor of Necrotic Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Necrotic Resistance
 *Major, rare (requires attunement)*  

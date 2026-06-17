@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Silent Image
+level: 1
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a bit of fleece)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Silent Image
 *1st-level, Illusion*  

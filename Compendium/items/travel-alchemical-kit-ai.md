@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Travel Alchemical Kit"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Travel Alchemical Kit
 *Wondrous item, uncommon*  

@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Augury
+level: 2
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: Self
+components: "V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Augury
 *2nd-level, Divination (ritual)*  

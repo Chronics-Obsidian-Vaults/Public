@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Belt of Fire Giant Strength"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Belt of Fire Giant Strength
 *Wondrous item, major, very rare (requires attunement)*  

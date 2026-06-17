@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Amulet of Health"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Amulet of Health
 *Wondrous item, major, rare (requires attunement)*  

@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Mental Prison
+level: 6
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: S
+duration: "Concentration, up to 1 minute"
+components_vsm: [S]
 ---
 # Mental Prison
 *6th-level, Illusion*  

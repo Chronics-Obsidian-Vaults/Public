@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Arcane Cannon"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Arcane Cannon
 *Wondrous item, very rare*  

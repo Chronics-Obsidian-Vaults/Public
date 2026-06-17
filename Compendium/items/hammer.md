@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Hammer"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Hammer
 *Adventuring gear*  

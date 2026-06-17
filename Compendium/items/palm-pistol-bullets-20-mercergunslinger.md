@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Palm Pistol Bullets (20)"
+item_type: 
+item_subtype: 
+rarity: unknown
+attunement: none
 ---
 # Palm Pistol Bullets (20)
 *Ammunition (firearm)*  

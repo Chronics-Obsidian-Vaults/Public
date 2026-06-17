@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Basket"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Basket
 *Adventuring gear*  

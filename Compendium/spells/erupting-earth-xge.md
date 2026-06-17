@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Erupting Earth
+level: 3
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a piece of obsidian)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Erupting Earth
 *3rd-level, Transmutation*  

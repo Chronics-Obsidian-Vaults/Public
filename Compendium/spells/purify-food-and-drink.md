@@ -26,6 +26,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Purify Food and Drink
+level: 1
+ritual: true
+school: transmutation
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: "10 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  

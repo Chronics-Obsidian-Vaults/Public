@@ -11,6 +11,10 @@ aliases:
 - "Orb of Shielding (Shavarran Chert)"
 - "Shavarran Chert Crystal"
 - "Shavarran Chert Orb"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: common
+attunement: required
 ---
 # Orb of Shielding (Shavarran Chert)
 *Wondrous item, common (requires attunement)*  

@@ -24,6 +24,15 @@ classes:
 - Warlock (The Genie, Dao)
 aliases:
 - Meld into Stone
+level: 3
+ritual: true
+school: transmutation
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Touch
+components: "V, S"
+duration: "8 hours"
+components_vsm: [V, S]
 ---
 # Meld into Stone
 *3rd-level, Transmutation (ritual)*  

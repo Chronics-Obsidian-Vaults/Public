@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Friends
+level: 0
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "S, M (a small amount of makeup applied to the face as this spell is cast)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [S, M]
 ---
 # Friends
 *cantrip, Enchantment*  

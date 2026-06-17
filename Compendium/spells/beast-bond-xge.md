@@ -16,6 +16,15 @@ classes:
 - Ranger
 aliases:
 - Beast Bond
+level: 1
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a bit of fur wrapped in a cloth)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Beast Bond
 *1st-level, Divination*  

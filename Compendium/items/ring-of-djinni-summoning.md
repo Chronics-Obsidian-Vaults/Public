@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Djinni Summoning"
+item_type: wondrous
+item_subtype: ring
+rarity: legendary
+attunement: required
 ---
 # Ring of Djinni Summoning
 *Ring, major, legendary (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Platinum"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Platinum
 *Trade good*  

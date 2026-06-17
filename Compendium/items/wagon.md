@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/land
 aliases: 
 - "Wagon"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Wagon
 *Vehicle (land)*  

@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "+2 Ring of Protection"
+item_type: wondrous
+item_subtype: ring
+rarity: rare
+attunement: required
 ---
 # +2 Ring of Protection
 *Ring, major, rare (requires attunement)*  

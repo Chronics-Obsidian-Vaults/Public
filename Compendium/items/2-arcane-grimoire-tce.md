@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "+2 Arcane Grimoire"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # +2 Arcane Grimoire
 *Wondrous item, rare (requires attunement by a wizard)*  

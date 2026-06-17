@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/tattoo
 aliases: 
 - "Spellwrought Tattoo (5th Level)"
+item_type: wondrous
+item_subtype: tattoo
+rarity: rare
+attunement: none
 ---
 # Spellwrought Tattoo (5th Level)
 *Wondrous item (tattoo), rare*  

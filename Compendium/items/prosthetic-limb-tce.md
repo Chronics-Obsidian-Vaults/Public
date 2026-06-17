@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Prosthetic Limb"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Prosthetic Limb
 *Wondrous item, common*  

@@ -20,6 +20,15 @@ classes:
 - Druid (Circle of the Land, Arctic)
 aliases:
 - Shillelagh
+level: 0
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Touch
+components: "V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)"
+duration: "1 minute"
+components_vsm: [V, S, M]
 ---
 # Shillelagh
 *cantrip, Transmutation*  

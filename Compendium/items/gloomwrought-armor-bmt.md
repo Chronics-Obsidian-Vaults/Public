@@ -24,6 +24,10 @@ aliases:
 - "Gloomwrought Spiked Armor"
 - "Gloomwrought Splint Armor"
 - "Gloomwrought Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Gloomwrought Armor
 *Rare (requires attunement)*  

@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Reincarnation Dust"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Reincarnation Dust
 *Wondrous item, very rare*  

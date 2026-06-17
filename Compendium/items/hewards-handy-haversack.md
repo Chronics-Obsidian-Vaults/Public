@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Heward's Handy Haversack"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Heward's Handy Haversack
 *Wondrous item, minor, rare*  

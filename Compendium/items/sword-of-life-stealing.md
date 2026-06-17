@@ -17,6 +17,10 @@ aliases:
 - "Rapier of Life Stealing"
 - "Scimitar of Life Stealing"
 - "Shortsword of Life Stealing"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: rare
+attunement: required
 ---
 # Sword of Life Stealing
 *Major, rare (requires attunement)*  

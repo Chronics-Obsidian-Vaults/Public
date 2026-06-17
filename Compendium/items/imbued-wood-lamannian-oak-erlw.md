@@ -13,6 +13,10 @@ aliases:
 - "Lamannian Oak Rod"
 - "Lamannian Oak Staff"
 - "Lamannian Oak Wand"
+item_type: wondrous
+item_subtype: "generic-variant, simple"
+rarity: common
+attunement: required
 ---
 # Imbued Wood (Lamannian Oak)
 *Wondrous item, common (requires attunement)*  

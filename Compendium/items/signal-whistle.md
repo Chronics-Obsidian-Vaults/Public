@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Signal Whistle"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Signal Whistle
 *Adventuring gear*  

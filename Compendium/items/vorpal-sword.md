@@ -15,6 +15,10 @@ aliases:
 - "Vorpal Greatsword"
 - "Vorpal Longsword"
 - "Vorpal Scimitar"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Vorpal Sword
 *Major, legendary (requires attunement)*  

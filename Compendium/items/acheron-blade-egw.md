@@ -16,6 +16,10 @@ aliases:
 - "Acheron Blade Rapier"
 - "Acheron Blade Scimitar"
 - "Acheron Blade Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: rare
+attunement: required
 ---
 # Acheron Blade
 *Rare (requires attunement)*  

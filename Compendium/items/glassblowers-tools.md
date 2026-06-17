@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Glassblower's Tools"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Glassblower's Tools
 *Artisan's tools*  

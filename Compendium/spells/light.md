@@ -41,6 +41,15 @@ classes:
 - Wizard
 aliases:
 - Light
+level: 0
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, M (a firefly or phosphorescent moss)"
+duration: "1 hour"
+components_vsm: [V, M]
 ---
 # Light
 *cantrip, Evocation*  

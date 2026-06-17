@@ -9,6 +9,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Instrument of Scribing"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: required
 ---
 # Instrument of Scribing
 *Wondrous item, instrument, minor, common (requires attunement)*  

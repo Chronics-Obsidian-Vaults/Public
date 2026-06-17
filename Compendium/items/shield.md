@@ -7,6 +7,10 @@ tags:
 - source/item/shield/
 aliases: 
 - "Shield"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Shield
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md))*  

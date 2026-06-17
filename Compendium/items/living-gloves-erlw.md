@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Living Gloves"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Living Gloves
 *Wondrous item, uncommon (requires attunement)*  

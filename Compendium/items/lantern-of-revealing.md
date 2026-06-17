@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Lantern of Revealing"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Lantern of Revealing
 *Wondrous item, minor, uncommon*  

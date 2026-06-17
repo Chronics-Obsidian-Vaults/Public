@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Hide Armor"
+item_type: armor
+item_subtype: medium
+rarity: none
+attunement: none
 ---
 # Hide Armor
 *Medium armor*  

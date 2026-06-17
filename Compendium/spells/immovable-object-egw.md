@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Immovable Object
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (gold dust worth at least 25 gp, which the spell consumes)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Immovable Object
 *2nd-level, Transmutation*  

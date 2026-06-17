@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Will of the Talon (Exalted)"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: artifact
+attunement: required
 ---
 # Will of the Talon (Exalted)
 *Weapon ([war pick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/war-pick.md)), artifact (requires attunement)*  

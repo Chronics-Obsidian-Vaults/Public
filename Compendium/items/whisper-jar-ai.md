@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Whisper Jar"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: required
 ---
 # Whisper Jar
 *Wondrous item (requires attunement)*  

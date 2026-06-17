@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Intellect Fortress
+level: 3
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: V
+duration: "Concentration, up to 1 hour"
+components_vsm: [V]
 ---
 # Intellect Fortress
 *3rd-level, Abjuration*  

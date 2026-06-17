@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Sending Stone"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Sending Stone
 *Wondrous item, uncommon*  

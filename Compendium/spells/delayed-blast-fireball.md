@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Delayed Blast Fireball
+level: 7
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (a tiny ball of bat guano and sulfur)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Delayed Blast Fireball
 *7th-level, Evocation*  

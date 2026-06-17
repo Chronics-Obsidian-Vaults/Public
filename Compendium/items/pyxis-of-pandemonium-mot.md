@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Pyxis of Pandemonium"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Pyxis of Pandemonium
 *Wondrous item, cursed item, legendary*  

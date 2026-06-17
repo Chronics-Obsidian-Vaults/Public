@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Emerald"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Emerald
 *Treasure (gemstone)*  

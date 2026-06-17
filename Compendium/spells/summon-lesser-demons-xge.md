@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Summon Lesser Demons
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a vial of blood from a humanoid killed within the past 24 hours)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Summon Lesser Demons
 *3rd-level, Conjuration*  

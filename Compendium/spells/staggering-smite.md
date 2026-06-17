@@ -14,6 +14,15 @@ classes:
 - Warlock (The Hexblade)
 aliases:
 - Staggering Smite
+level: 4
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Staggering Smite
 *4th-level, Evocation*  

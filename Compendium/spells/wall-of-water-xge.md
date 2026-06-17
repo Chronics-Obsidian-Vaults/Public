@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Wall of Water
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a drop of water)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Wall of Water
 *3rd-level, Evocation*  

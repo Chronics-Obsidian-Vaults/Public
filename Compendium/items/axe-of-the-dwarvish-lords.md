@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Axe of the Dwarvish Lords"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: artifact
+attunement: required
 ---
 # Axe of the Dwarvish Lords
 *Weapon ([battleaxe](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/battleaxe.md)), cursed item, artifact (requires attunement)*  

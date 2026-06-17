@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Horseshoes of Speed"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Horseshoes of Speed
 *Wondrous item, minor, rare*  

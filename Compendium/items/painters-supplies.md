@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Painter's Supplies"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Painter's Supplies
 *Artisan's tools*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Ruin's Wake (Dormant)"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: artifact
+attunement: required
 ---
 # Ruin's Wake (Dormant)
 *Weapon ([spear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spear.md)), artifact (requires attunement)*  

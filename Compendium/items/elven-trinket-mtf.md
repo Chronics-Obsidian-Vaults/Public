@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Elven Trinket"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Elven Trinket
 *Adventuring gear*  

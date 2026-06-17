@@ -14,6 +14,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Motivational Speech
+level: 3
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "60 feet"
+components: V
+duration: "1 hour"
+components_vsm: [V]
 ---
 # Motivational Speech
 *3rd-level, Enchantment*  

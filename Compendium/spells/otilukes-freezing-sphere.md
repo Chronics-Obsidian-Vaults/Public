@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Otiluke's Freezing Sphere
+level: 6
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "300 feet"
+components: "V, S, M (a small crystal sphere)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Otiluke's Freezing Sphere
 *6th-level, Evocation*  

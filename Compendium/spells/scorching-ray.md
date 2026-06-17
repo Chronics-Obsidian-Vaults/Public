@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Scorching Ray
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Scorching Ray
 *2nd-level, Evocation*  

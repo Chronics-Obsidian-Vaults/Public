@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff of Adornment"
+item_type: weapon
+item_subtype: simple
+rarity: common
+attunement: none
 ---
 # Staff of Adornment
 *Staff, weapon, minor, common*  

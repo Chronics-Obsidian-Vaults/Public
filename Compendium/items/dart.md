@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Dart"
+item_type: weapon
+item_subtype: "ranged, simple"
+rarity: none
+attunement: none
 ---
 # Dart
 *Weapon*  

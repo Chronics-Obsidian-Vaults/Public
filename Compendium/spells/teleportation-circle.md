@@ -21,6 +21,15 @@ classes:
 - Wizard
 aliases:
 - Teleportation Circle
+level: 5
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "10 feet"
+components: "V, M (rare chalks and inks infused with precious gems worth 50 gp, which the spell consumes)"
+duration: "1 round"
+components_vsm: [V, M]
 ---
 # Teleportation Circle
 *5th-level, Conjuration*  

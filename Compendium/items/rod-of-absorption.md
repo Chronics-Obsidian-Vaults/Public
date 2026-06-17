@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Rod of Absorption"
+item_type: wondrous
+item_subtype: rod
+rarity: very-rare
+attunement: required
 ---
 # Rod of Absorption
 *Rod, major, very rare (requires attunement)*  

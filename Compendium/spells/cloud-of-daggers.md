@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Cloud of Daggers
+level: 2
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a sliver of glass)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Cloud of Daggers
 *2nd-level, Conjuration*  

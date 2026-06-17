@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/tattoo
 aliases: 
 - "Illuminator's Tattoo"
+item_type: wondrous
+item_subtype: tattoo
+rarity: common
+attunement: required
 ---
 # Illuminator's Tattoo
 *Wondrous item (tattoo), common (requires attunement)*  

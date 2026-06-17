@@ -24,6 +24,15 @@ classes:
 - Wizard
 aliases:
 - Levitate
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Levitate
 *2nd-level, Transmutation*  

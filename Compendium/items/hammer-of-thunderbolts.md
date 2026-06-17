@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Hammer of Thunderbolts"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: legendary
+attunement: none
 ---
 # Hammer of Thunderbolts
 *Weapon ([maul](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/maul.md)), major, legendary*  

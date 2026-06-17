@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Creation
+level: 5
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "30 feet"
+components: "V, S, M (a tiny piece of matter of the same type of the item you plan to create)"
+duration: Special
+components_vsm: [V, S, M]
 ---
 # Creation
 *5th-level, Illusion*  

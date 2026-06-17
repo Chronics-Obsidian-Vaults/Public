@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Hold Monster
+level: 5
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a small, straight piece of iron)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Hold Monster
 *5th-level, Enchantment*  

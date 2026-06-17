@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff of Healing"
+item_type: weapon
+item_subtype: simple
+rarity: rare
+attunement: required
 ---
 # Staff of Healing
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, or druid)*  

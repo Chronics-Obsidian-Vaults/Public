@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Alchemical Compendium"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Alchemical Compendium
 *Wondrous item, rare (requires attunement by a wizard)*  

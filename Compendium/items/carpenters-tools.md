@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Carpenter's Tools"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Carpenter's Tools
 *Artisan's tools*  

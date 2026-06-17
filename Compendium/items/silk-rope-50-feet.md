@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Silk Rope (50 feet)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Silk Rope (50 feet)
 *Adventuring gear*  

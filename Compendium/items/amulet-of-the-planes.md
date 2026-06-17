@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Amulet of the Planes"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Amulet of the Planes
 *Wondrous item, major, very rare (requires attunement)*  

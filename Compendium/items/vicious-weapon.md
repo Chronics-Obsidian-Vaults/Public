@@ -66,6 +66,10 @@ aliases:
 - "Vicious Warhammer"
 - "Vicious Whip"
 - "Vicious Yklwa"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: rare
+attunement: none
 ---
 # Vicious Weapon
 *Major, rare*  

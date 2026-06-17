@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Lightning Resistance"
 - "Splint Armor of Lightning Resistance"
 - "Studded Leather Armor of Lightning Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Lightning Resistance
 *Major, rare (requires attunement)*  

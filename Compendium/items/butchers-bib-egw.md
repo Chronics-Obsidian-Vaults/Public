@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Butcher's Bib"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Butcher's Bib
 *Wondrous item, rare (requires attunement)*  

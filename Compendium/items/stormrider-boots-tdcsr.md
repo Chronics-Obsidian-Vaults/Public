@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Stormrider Boots"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Stormrider Boots
 *Wondrous item, rare*  

@@ -24,6 +24,10 @@ aliases:
 - "Feywrought Spiked Armor"
 - "Feywrought Splint Armor"
 - "Feywrought Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Feywrought Armor
 *Rare (requires attunement)*  

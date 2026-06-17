@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - True Seeing
+level: 6
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # True Seeing
 *6th-level, Divination*  

@@ -26,6 +26,15 @@ classes:
 - Wizard
 aliases:
 - Darkvision
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (either a pinch of dried carrot or an agate)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Darkvision
 *2nd-level, Transmutation*  

@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Mirage Arcane
+level: 7
+school: illusion
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: Sight
+components: "V, S"
+duration: "10 days"
+components_vsm: [V, S]
 ---
 # Mirage Arcane
 *7th-level, Illusion*  

@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Dwarven Plate"
+item_type: armor
+item_subtype: heavy
+rarity: very-rare
+attunement: none
 ---
 # Dwarven Plate
 *Heavy armor ([plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)), major, very rare*  

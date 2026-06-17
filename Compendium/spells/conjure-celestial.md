@@ -14,6 +14,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Conjure Celestial
+level: 7
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "90 feet"
+components: "V, S"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S]
 ---
 # Conjure Celestial
 *7th-level, Conjuration*  

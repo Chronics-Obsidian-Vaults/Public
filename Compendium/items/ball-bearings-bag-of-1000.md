@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Ball Bearings (bag of 1,000)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Ball Bearings (bag of 1,000)
 *Adventuring gear*  

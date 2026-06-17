@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Flamefriend Lantern"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Flamefriend Lantern
 *Wondrous item, rare (requires attunement)*  

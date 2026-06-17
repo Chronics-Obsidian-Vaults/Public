@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Pitcher"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Pitcher
 *Adventuring gear*  

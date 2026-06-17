@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Common Glamerweave"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Common Glamerweave
 *Wondrous item, common*  

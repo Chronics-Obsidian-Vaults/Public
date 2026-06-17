@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Quiver of Ehlonna"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Quiver of Ehlonna
 *Wondrous item, major, uncommon*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Box of turquoise animal figurines"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Box of turquoise animal figurines
 *Treasure (art object)*  

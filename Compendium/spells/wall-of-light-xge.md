@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Wall of Light
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a hand mirror)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Wall of Light
 *5th-level, Evocation*  

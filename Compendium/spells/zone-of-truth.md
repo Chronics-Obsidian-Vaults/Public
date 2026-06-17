@@ -26,6 +26,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Zone of Truth
+level: 2
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: "10 minutes"
+components_vsm: [V, S]
 ---
 # Zone of Truth
 *2nd-level, Enchantment*  

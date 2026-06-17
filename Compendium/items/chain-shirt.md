@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Chain Shirt"
+item_type: armor
+item_subtype: medium
+rarity: none
+attunement: none
 ---
 # Chain Shirt
 *Medium armor*  

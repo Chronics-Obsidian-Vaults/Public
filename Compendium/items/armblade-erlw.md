@@ -34,6 +34,10 @@ aliases:
 - "Warhammer Armblade"
 - "Whip Armblade"
 - "Yklwa Armblade"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, simple"
+rarity: common
+attunement: required
 ---
 # Armblade
 *Common (requires attunement by a warforged)*  

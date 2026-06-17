@@ -24,6 +24,15 @@ classes:
 - Warlock (The Genie, Dao)
 aliases:
 - Create Food and Water
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Create Food and Water
 *3rd-level, Conjuration*  

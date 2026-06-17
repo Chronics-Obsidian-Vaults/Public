@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Spyglass"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Spyglass
 *Adventuring gear*  

@@ -7,6 +7,10 @@ tags:
 - source/item/weapon/explosive
 aliases: 
 - "Gluebomb"
+item_type: weapon
+item_subtype: explosive
+rarity: none
+attunement: none
 ---
 # Gluebomb
 *Explosive*  

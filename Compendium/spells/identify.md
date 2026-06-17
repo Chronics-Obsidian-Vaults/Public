@@ -30,6 +30,15 @@ classes:
 - Wizard
 aliases:
 - Identify
+level: 1
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: Touch
+components: "V, S, M (a pearl worth at least 100 gp and an owl feather)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Identify
 *1st-level, Divination (ritual)*  

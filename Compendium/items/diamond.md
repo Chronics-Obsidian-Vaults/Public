@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Diamond"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Diamond
 *Treasure (gemstone)*  

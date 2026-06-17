@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Warrior's Passkey"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Warrior's Passkey
 *Wondrous item, rare (requires attunement)*  

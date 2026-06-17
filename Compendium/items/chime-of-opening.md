@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Chime of Opening"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Chime of Opening
 *Wondrous item, minor, rare*  

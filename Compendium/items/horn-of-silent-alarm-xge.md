@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Horn of Silent Alarm"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Horn of Silent Alarm
 *Wondrous item, minor, common*  

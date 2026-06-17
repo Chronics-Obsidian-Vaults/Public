@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Corecut Dagger"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: very-rare
+attunement: required
 ---
 # Corecut Dagger
 *Weapon ([dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)), cursed item, very rare (requires attunement)*  

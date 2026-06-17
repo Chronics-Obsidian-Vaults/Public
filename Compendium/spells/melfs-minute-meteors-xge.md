@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Melf's Minute Meteors
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (niter, sulfur, and pine tar formed into a bead)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Melf's Minute Meteors
 *3rd-level, Evocation*  

@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Cloak of Elvenkind"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Cloak of Elvenkind
 *Wondrous item, major, uncommon (requires attunement)*  

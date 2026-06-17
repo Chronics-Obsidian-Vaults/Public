@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Psychic Resistance"
 - "Splint Armor of Psychic Resistance"
 - "Studded Leather Armor of Psychic Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Psychic Resistance
 *Major, rare (requires attunement)*  

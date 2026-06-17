@@ -17,6 +17,10 @@ aliases:
 - "Frost Brand Rapier"
 - "Frost Brand Scimitar"
 - "Frost Brand Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Frost Brand
 *Major, very rare (requires attunement)*  

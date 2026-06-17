@@ -27,6 +27,15 @@ classes:
 - Wizard
 aliases:
 - Nondetection
+level: 3
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Nondetection
 *3rd-level, Abjuration*  

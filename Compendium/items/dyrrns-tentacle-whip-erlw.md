@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Dyrrn's Tentacle Whip"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Dyrrn's Tentacle Whip
 *Weapon ([whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whip.md)), very rare (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Painted gold child's sarcophagus"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Painted gold child's sarcophagus
 *Treasure (art object)*  

@@ -17,6 +17,15 @@ classes:
 - Ranger
 aliases:
 - Speak with Plants
+level: 3
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (30-foot Radius)
+components: "V, S"
+duration: "10 minutes"
+components_vsm: [V, S]
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Fate Cutter Shears"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: very-rare
+attunement: required
 ---
 # Fate Cutter Shears
 *Weapon ([dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)), very rare (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Scale Mail"
+item_type: armor
+item_subtype: medium
+rarity: none
+attunement: none
 ---
 # Scale Mail
 *Medium armor*  

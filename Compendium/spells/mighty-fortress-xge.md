@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Mighty Fortress
+level: 8
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "1 miles"
+components: "V, S, M (a diamond worth at least 500 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Mighty Fortress
 *8th-level, Conjuration*  

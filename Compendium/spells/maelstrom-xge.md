@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Maelstrom
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (paper or leaf in the shape of a funnel)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Maelstrom
 *5th-level, Evocation*  

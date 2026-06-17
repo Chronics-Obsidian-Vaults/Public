@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Pyrotechnics
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Pyrotechnics
 *2nd-level, Transmutation*  

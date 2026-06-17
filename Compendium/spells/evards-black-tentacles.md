@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Evard's Black Tentacles
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a piece of tentacle from a giant octopus or a giant squid)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  

@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Pistol Bullets (20)"
+item_type: 
+item_subtype: 
+rarity: unknown
+attunement: none
 ---
 # Pistol Bullets (20)
 *Ammunition (firearm)*  

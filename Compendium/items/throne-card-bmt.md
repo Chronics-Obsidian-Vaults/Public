@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Throne Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Throne Card
 *Wondrous item, legendary*  

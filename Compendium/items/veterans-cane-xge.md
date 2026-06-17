@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Veteran's Cane"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Veteran's Cane
 *Wondrous item, minor, common*  

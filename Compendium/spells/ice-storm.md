@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Ice Storm
+level: 4
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "300 feet"
+components: "V, S, M (a pinch of dust and a few drops of water)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Ice Storm
 *4th-level, Evocation*  

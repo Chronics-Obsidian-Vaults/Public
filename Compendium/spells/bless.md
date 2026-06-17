@@ -20,6 +20,15 @@ classes:
 - Sorcerer (Divine Soul, Law)
 aliases:
 - Bless
+level: 1
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a sprinkling of holy water)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Bless
 *1st-level, Enchantment*  

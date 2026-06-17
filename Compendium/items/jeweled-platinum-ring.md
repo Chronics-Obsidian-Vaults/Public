@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Jeweled platinum ring"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Jeweled platinum ring
 *Treasure (art object)*  

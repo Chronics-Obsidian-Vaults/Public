@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Contingency
+level: 6
+school: evocation
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: Self
+components: "V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)"
+duration: "10 days"
+components_vsm: [V, S, M]
 ---
 # Contingency
 *6th-level, Evocation*  

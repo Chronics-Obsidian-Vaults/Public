@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Bead of Force"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Bead of Force
 *Wondrous item, minor, rare*  

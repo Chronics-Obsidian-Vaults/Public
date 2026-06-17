@@ -11,6 +11,10 @@ aliases:
 - "Orb of Shielding (Irian Quartz)"
 - "Irian Quartz Crystal"
 - "Irian Quartz Orb"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: common
+attunement: required
 ---
 # Orb of Shielding (Irian Quartz)
 *Wondrous item, common (requires attunement)*  

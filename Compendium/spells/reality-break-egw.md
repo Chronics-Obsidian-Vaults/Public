@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Reality Break
+level: 8
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a crystal prism)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Reality Break
 *8th-level, Conjuration*  

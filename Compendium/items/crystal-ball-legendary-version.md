@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Crystal Ball (Legendary Version)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Crystal Ball (Legendary Version)
 *Wondrous item, major, legendary (requires attunement)*  

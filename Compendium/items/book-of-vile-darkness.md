@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/artifact
 aliases: 
 - "Book of Vile Darkness"
+item_type: 
+item_subtype: 
+rarity: artifact
+attunement: required
 ---
 # Book of Vile Darkness
 *Wondrous item, artifact (requires attunement)*  

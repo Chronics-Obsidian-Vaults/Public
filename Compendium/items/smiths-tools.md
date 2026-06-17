@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Smith's Tools"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Smith's Tools
 *Artisan's tools*  

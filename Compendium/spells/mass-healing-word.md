@@ -19,6 +19,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Mass Healing Word
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: "60 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Mass Healing Word
 *3rd-level, Evocation*  

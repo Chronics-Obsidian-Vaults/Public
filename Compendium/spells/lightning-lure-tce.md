@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Lightning Lure
+level: 0
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (15-foot Radius)
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Lightning Lure
 *cantrip, Evocation*  

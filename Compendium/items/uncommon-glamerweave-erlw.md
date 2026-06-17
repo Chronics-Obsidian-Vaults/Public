@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Uncommon Glamerweave"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Uncommon Glamerweave
 *Wondrous item, uncommon*  

@@ -15,6 +15,15 @@ classes:
 - Wizard
 aliases:
 - Drawmij's Instant Summons
+level: 6
+ritual: true
+school: conjuration
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: Touch
+components: "V, S, M (a sapphire worth 1,000 gp)"
+duration: Until dispelled
+components_vsm: [V, S, M]
 ---
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  

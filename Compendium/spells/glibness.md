@@ -12,6 +12,15 @@ classes:
 - Warlock
 aliases:
 - Glibness
+level: 8
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: V
+duration: "1 hour"
+components_vsm: [V]
 ---
 # Glibness
 *8th-level, Transmutation*  

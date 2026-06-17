@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Carved bone statuette"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Carved bone statuette
 *Treasure (art object)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Bag of Tricks, Rust"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Bag of Tricks, Rust
 *Wondrous item, major, uncommon*  

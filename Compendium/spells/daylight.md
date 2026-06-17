@@ -30,6 +30,15 @@ classes:
 - Warlock (The Celestial)
 aliases:
 - Daylight
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: "1 hour"
+components_vsm: [V, S]
 ---
 # Daylight
 *3rd-level, Evocation*  

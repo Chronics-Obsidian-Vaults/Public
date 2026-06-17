@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Wheel of Stars"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Wheel of Stars
 *Wondrous item, very rare (requires attunement)*  

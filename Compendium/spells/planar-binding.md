@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Planar Binding
+level: 5
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 hour"
+range: "60 feet"
+components: "V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Planar Binding
 *5th-level, Abjuration*  

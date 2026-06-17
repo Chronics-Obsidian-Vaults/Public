@@ -8,6 +8,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Crossbow Bolt of Slaying"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Crossbow Bolt of Slaying
 *Ammunition, minor, very rare*  

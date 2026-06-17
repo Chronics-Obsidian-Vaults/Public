@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Crystal Ball of Telepathy"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Crystal Ball of Telepathy
 *Wondrous item, major, legendary (requires attunement)*  

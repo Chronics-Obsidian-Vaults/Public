@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/unknown/magic
 aliases: 
 - "Circlet of Wisdom"
+item_type: 
+item_subtype: 
+rarity: unknown/magic
+attunement: none
 ---
 # Circlet of Wisdom
 *Wondrous item*  

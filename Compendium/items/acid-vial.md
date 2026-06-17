@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Acid (vial)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Acid (vial)
 *Adventuring gear*  

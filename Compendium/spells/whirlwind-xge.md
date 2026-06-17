@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Whirlwind
+level: 7
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "300 feet"
+components: "V, M (a piece of straw)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, M]
 ---
 # Whirlwind
 *7th-level, Evocation*  

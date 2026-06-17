@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Telepathy
+level: 8
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Unlimited
+components: "V, S, M (a pair of linked silver rings)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Telepathy
 *8th-level, Evocation*  

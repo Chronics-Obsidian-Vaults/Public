@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Leomund's Secret Chest
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Leomund's Secret Chest
 *4th-level, Conjuration*  

@@ -27,6 +27,15 @@ classes:
 - Wizard
 aliases:
 - Fireball
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (a tiny ball of bat guano and sulfur)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Fireball
 *3rd-level, Evocation*  

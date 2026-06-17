@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Xen'drik Trinket"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Xen'drik Trinket
 *Adventuring gear*  

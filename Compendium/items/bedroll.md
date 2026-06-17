@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Bedroll"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Bedroll
 *Adventuring gear*  

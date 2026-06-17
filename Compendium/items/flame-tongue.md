@@ -17,6 +17,10 @@ aliases:
 - "Flame Tongue Rapier"
 - "Flame Tongue Scimitar"
 - "Flame Tongue Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: rare
+attunement: required
 ---
 # Flame Tongue
 *Major, rare (requires attunement)*  

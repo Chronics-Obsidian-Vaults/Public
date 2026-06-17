@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Gloves of Thievery"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Gloves of Thievery
 *Wondrous item, major, uncommon*  

@@ -33,6 +33,15 @@ classes:
 - Wizard
 aliases:
 - Wall of Fire
+level: 4
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a small piece of phosphorus)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Wall of Fire
 *4th-level, Evocation*  

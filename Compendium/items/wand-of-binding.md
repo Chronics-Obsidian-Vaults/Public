@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Wand of Binding"
+item_type: wondrous
+item_subtype: wand
+rarity: rare
+attunement: required
 ---
 # Wand of Binding
 *Wand, major, rare (requires attunement by a spellcaster)*  

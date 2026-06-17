@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "+3 Fate Dealer's Deck"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # +3 Fate Dealer's Deck
 *Wondrous item, legendary (requires attunement by a cleric or paladin)*  

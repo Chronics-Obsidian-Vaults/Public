@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gold cup set with emeralds"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gold cup set with emeralds
 *Treasure (art object)*  

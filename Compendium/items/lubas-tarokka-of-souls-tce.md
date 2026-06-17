@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/artifact
 aliases: 
 - "Luba's Tarokka of Souls"
+item_type: 
+item_subtype: 
+rarity: artifact
+attunement: required
 ---
 # Luba's Tarokka of Souls
 *Wondrous item, artifact (requires attunement)*  

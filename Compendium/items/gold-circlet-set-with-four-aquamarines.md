@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gold circlet set with four aquamarines"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gold circlet set with four aquamarines
 *Treasure (art object)*  

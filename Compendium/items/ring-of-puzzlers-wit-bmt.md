@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Puzzler's Wit"
+item_type: wondrous
+item_subtype: ring
+rarity: uncommon
+attunement: none
 ---
 # Ring of Puzzler's Wit
 *Ring, uncommon*  

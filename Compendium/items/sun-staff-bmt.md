@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Sun Staff"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: rare
+attunement: required
 ---
 # Sun Staff
 *Staff, weapon, rare (requires attunement by a cleric, druid, or wizard)*  

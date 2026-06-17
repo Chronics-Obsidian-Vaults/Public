@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/land
 aliases: 
 - "Sled"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Sled
 *Vehicle (land)*  

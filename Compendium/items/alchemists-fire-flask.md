@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Alchemist's Fire (flask)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Alchemist's Fire (flask)
 *Adventuring gear*  

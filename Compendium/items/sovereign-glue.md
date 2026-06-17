@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Sovereign Glue"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Sovereign Glue
 *Wondrous item, minor, legendary*  

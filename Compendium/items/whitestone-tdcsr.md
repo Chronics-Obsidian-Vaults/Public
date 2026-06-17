@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/unknown/magic
 aliases: 
 - "Whitestone"
+item_type: 
+item_subtype: 
+rarity: unknown/magic
+attunement: none
 ---
 # Whitestone
 *Trade good*  

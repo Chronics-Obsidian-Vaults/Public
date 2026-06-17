@@ -38,6 +38,15 @@ classes:
 - Wizard
 aliases:
 - Stoneskin
+level: 4
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (diamond dust worth 100 gp, which the spell consumes)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Stoneskin
 *4th-level, Abjuration*  

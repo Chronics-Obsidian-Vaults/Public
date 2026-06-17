@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - True Polymorph
+level: 9
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # True Polymorph
 *9th-level, Transmutation*  

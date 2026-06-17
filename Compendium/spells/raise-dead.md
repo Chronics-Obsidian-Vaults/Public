@@ -22,6 +22,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Raise Dead
+level: 5
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 hour"
+range: Touch
+components: "V, S, M (a diamond worth at least 500 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Raise Dead
 *5th-level, Necromancy*  

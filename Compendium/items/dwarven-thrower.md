@@ -10,6 +10,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Dwarven Thrower"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Dwarven Thrower
 *Weapon ([warhammer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/warhammer.md)), major, very rare (requires attunement by a dwarf)*  

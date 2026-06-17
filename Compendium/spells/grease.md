@@ -23,6 +23,15 @@ classes:
 - Wizard
 aliases:
 - Grease
+level: 1
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a bit of pork rind or butter)"
+duration: "1 minute"
+components_vsm: [V, S, M]
 ---
 # Grease
 *1st-level, Conjuration*  

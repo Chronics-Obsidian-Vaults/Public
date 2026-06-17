@@ -13,6 +13,10 @@ aliases:
 - "Risian Pine Rod"
 - "Risian Pine Staff"
 - "Risian Pine Wand"
+item_type: wondrous
+item_subtype: "generic-variant, simple"
+rarity: common
+attunement: required
 ---
 # Imbued Wood (Risian Pine)
 *Wondrous item, common (requires attunement)*  

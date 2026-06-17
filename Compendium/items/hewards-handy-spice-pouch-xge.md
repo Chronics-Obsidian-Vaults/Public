@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Heward's Handy Spice Pouch"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Heward's Handy Spice Pouch
 *Wondrous item, minor, common*  

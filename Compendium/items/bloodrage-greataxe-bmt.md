@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Bloodrage Greataxe"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: uncommon
+attunement: none
 ---
 # Bloodrage Greataxe
 *Weapon ([greataxe](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/greataxe.md)), uncommon*  

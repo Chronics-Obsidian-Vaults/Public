@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gold jewelry box with platinum filigree"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gold jewelry box with platinum filigree
 *Treasure (art object)*  

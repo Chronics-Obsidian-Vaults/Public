@@ -65,6 +65,10 @@ aliases:
 - "Corpse Slayer Warhammer"
 - "Corpse Slayer Whip"
 - "Corpse Slayer Yklwa"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: rare
+attunement: required
 ---
 # Corpse Slayer
 *Rare (requires attunement)*  

@@ -23,6 +23,10 @@ aliases:
 - "Forcebreaker Staff"
 - "Forcebreaker Warhammer"
 - "Forcebreaker Wooden Staff"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: very-rare
+attunement: none
 ---
 # Forcebreaker Weapon
 *Very rare*  

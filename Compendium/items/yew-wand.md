@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Yew Wand"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Yew Wand
 *Spellcasting focus*  

@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Antimagic Field
+level: 8
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (10-foot Sphere)
+components: "V, S, M (a pinch of powdered iron or iron filings)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Antimagic Field
 *8th-level, Abjuration*  

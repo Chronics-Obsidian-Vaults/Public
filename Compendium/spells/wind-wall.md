@@ -22,6 +22,15 @@ classes:
 - Warlock (The Genie, Djinni)
 aliases:
 - Wind Wall
+level: 3
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a tiny fan and a feather of exotic origin)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Wind Wall
 *3rd-level, Evocation*  

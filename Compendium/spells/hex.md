@@ -14,6 +14,15 @@ classes:
 - Warlock
 aliases:
 - Hex
+level: 1
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: "90 feet"
+components: "V, S, M (the petrified eye of a newt)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Hex
 *1st-level, Enchantment*  

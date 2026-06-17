@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Armor of the Valiant Soul"
+item_type: armor
+item_subtype: medium
+rarity: legendary
+attunement: required
 ---
 # Armor of the Valiant Soul
 *Medium armor ([scale mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scale-mail.md)), legendary (requires attunement)*  

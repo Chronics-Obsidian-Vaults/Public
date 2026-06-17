@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Mirror of Life Trapping"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  

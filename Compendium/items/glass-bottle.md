@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Glass Bottle"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Glass Bottle
 *Adventuring gear*  

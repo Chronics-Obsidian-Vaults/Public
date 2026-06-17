@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Shapechange
+level: 9
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Shapechange
 *9th-level, Transmutation*  

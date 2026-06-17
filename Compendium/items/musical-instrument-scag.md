@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Musical Instrument"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Musical Instrument
 *Instrument*  

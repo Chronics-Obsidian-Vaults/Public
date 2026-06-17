@@ -31,6 +31,15 @@ classes:
 - Warlock (The Genie, Efreeti)
 aliases:
 - Flame Strike
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (pinch of sulfur)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Flame Strike
 *5th-level, Evocation*  

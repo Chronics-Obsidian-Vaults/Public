@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Titanstone Knuckles (Exalted)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Titanstone Knuckles (Exalted)
 *Wondrous item, legendary (requires attunement)*  

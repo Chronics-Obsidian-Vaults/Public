@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Project Image
+level: 7
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "500 miles"
+components: "V, S, M (a small replica of you made from materials worth at least 5 gp)"
+duration: "Concentration, up to 1 day"
+components_vsm: [V, S, M]
 ---
 # Project Image
 *7th-level, Illusion*  

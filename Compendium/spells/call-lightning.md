@@ -19,6 +19,15 @@ classes:
 - Paladin (Oath of the Open Sea)
 aliases:
 - Call Lightning
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S]
 ---
 # Call Lightning
 *3rd-level, Conjuration*  

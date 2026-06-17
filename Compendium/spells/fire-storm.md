@@ -18,6 +18,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Fire Storm
+level: 7
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Fire Storm
 *7th-level, Evocation*  

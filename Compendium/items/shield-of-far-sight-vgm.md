@@ -7,6 +7,10 @@ tags:
 - source/item/shield/
 aliases: 
 - "Shield of Far Sight"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Shield of Far Sight
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), rare*  

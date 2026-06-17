@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Dimensional Loop"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Dimensional Loop
 *Wondrous item, very rare (requires attunement)*  

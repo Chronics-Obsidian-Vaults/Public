@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Snilloc's Snowball Swarm
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a piece of ice or a small white rock chip)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Snilloc's Snowball Swarm
 *2nd-level, Evocation*  

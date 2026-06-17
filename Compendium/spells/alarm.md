@@ -30,6 +30,15 @@ classes:
 - Wizard
 aliases:
 - Alarm
+level: 1
+ritual: true
+school: abjuration
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: "30 feet"
+components: "V, S, M (a tiny bell and a piece of fine silver wire)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Alarm
 *1st-level, Abjuration (ritual)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/unknown/magic
 aliases: 
 - "Suude (Brown)"
+item_type: 
+item_subtype: 
+rarity: unknown/magic
+attunement: none
 ---
 # Suude (Brown)
 *Illegal drug*  

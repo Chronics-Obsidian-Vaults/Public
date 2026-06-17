@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Speaking Stone"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Speaking Stone
 *Wondrous item, very rare*  

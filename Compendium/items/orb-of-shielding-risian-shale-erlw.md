@@ -11,6 +11,10 @@ aliases:
 - "Orb of Shielding (Risian Shale)"
 - "Risian Shale Crystal"
 - "Risian Shale Orb"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: common
+attunement: required
 ---
 # Orb of Shielding (Risian Shale)
 *Wondrous item, common (requires attunement)*  

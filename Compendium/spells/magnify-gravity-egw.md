@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Magnify Gravity
+level: 1
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: "1 round"
+components_vsm: [V, S]
 ---
 # Magnify Gravity
 *1st-level, Transmutation*  

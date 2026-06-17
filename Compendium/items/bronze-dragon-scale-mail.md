@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Bronze Dragon Scale Mail"
+item_type: armor
+item_subtype: medium
+rarity: very-rare
+attunement: required
 ---
 # Bronze Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

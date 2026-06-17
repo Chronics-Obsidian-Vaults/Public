@@ -12,6 +12,15 @@ classes:
 - Ranger
 aliases:
 - Swift Quiver
+level: 5
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Touch
+components: "V, S, M (a quiver containing at least one piece of ammunition)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Swift Quiver
 *5th-level, Transmutation*  

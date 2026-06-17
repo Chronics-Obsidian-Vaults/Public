@@ -24,6 +24,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Warding Bond
+level: 2
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Warding Bond
 *2nd-level, Abjuration*  

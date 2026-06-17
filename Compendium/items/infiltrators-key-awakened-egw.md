@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Infiltrator's Key (Awakened)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Infiltrator's Key (Awakened)
 *Wondrous item, legendary (requires attunement)*  

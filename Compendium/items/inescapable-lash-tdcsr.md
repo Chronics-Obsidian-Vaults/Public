@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Inescapable Lash"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: rare
+attunement: required
 ---
 # Inescapable Lash
 *Weapon ([whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whip.md)), rare (requires attunement)*  

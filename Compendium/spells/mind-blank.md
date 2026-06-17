@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Mind Blank
+level: 8
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: "24 hours"
+components_vsm: [V, S]
 ---
 # Mind Blank
 *8th-level, Abjuration*  

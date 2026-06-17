@@ -14,6 +14,15 @@ classes:
 - Ranger
 aliases:
 - Guardian of Nature
+level: 4
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Guardian of Nature
 *4th-level, Transmutation*  

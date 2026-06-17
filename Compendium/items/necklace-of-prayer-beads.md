@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Necklace of Prayer Beads"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Necklace of Prayer Beads
 *Wondrous item, major, rare (requires attunement by a cleric, druid, or paladin)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Jeweled anklet"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Jeweled anklet
 *Treasure (art object)*  

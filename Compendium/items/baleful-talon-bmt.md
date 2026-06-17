@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Baleful Talon"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: very-rare
+attunement: none
 ---
 # Baleful Talon
 *Weapon ([dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)), very rare*  

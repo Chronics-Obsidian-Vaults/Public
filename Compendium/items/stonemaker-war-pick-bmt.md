@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Stonemaker War Pick"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Stonemaker War Pick
 *Weapon ([war pick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/war-pick.md)), very rare (requires attunement)*  

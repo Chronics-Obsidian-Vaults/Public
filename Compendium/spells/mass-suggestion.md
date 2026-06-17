@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Mass Suggestion
+level: 6
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)"
+duration: "24 hours"
+components_vsm: [V, M]
 ---
 # Mass Suggestion
 *6th-level, Enchantment*  

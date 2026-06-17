@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Serpent Venom"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Serpent Venom
 *Adventuring gear, poison (injury)*  

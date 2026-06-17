@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Wreath of the Prism"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Wreath of the Prism
 *Wondrous item, legendary (requires attunement)*  

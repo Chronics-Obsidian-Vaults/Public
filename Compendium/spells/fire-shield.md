@@ -30,6 +30,15 @@ classes:
 - Wizard
 aliases:
 - Fire Shield
+level: 4
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a bit of phosphorus or a firefly)"
+duration: "10 minutes"
+components_vsm: [V, S, M]
 ---
 # Fire Shield
 *4th-level, Evocation*  

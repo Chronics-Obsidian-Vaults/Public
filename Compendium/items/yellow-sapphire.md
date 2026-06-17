@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Yellow Sapphire"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Yellow Sapphire
 *Treasure (gemstone)*  

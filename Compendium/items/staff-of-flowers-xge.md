@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff of Flowers"
+item_type: weapon
+item_subtype: simple
+rarity: common
+attunement: none
 ---
 # Staff of Flowers
 *Staff, weapon, minor, common*  

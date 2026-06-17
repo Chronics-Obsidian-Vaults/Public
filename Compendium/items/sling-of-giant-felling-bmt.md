@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Sling of Giant Felling"
+item_type: weapon
+item_subtype: "ranged, simple"
+rarity: uncommon
+attunement: none
 ---
 # Sling of Giant Felling
 *Weapon ([sling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sling.md)), uncommon*  

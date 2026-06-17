@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Longstrider
+level: 1
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a pinch of dirt)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Longstrider
 *1st-level, Transmutation*  

@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Arcane Eye
+level: 4
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a bit of bat fur)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Arcane Eye
 *4th-level, Divination*  

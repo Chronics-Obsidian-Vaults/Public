@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Elemental Gem, Red Corundum"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Elemental Gem, Red Corundum
 *Wondrous item, minor, uncommon*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Studded Leather Armor"
+item_type: armor
+item_subtype: light
+rarity: none
+attunement: none
 ---
 # Studded Leather Armor
 *Light armor*  

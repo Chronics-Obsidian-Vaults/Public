@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Iron Bands of Bilarro"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Iron Bands of Bilarro
 *Wondrous item, major, rare*  

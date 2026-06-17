@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Illusionist's Bracers"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Illusionist's Bracers
 *Wondrous item, very rare (requires attunement by a spellcaster)*  

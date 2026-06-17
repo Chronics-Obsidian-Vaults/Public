@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/ship-water
 aliases: 
 - "Rowboat"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Rowboat
 *Ship, vehicle (water)*  

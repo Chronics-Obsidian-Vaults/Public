@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Silver-plated steel longsword with jet set in hilt"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Silver-plated steel longsword with jet set in hilt
 *Treasure (art object)*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Javelin of Lightning"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: uncommon
+attunement: none
 ---
 # Javelin of Lightning
 *Weapon ([javelin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/javelin.md)), major, uncommon*  

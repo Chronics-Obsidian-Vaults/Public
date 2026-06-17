@@ -14,6 +14,15 @@ classes:
 - Warlock
 aliases:
 - Hunger of Hadar
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (a pickled octopus tentacle)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  

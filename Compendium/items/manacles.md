@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Manacles"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Manacles
 *Adventuring gear*  

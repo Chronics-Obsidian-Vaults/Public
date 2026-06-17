@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Message
+level: 0
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a short piece of copper wire)"
+duration: "1 round"
+components_vsm: [V, S, M]
 ---
 # Message
 *cantrip, Transmutation*  

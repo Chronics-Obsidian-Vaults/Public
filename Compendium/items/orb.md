@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Orb"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Orb
 *Spellcasting focus*  

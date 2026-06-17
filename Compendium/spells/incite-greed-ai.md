@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Incite Greed
+level: 3
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a gem worth at least 50 gp)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Incite Greed
 *3rd-level, Enchantment*  

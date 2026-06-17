@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Primordial Ward
+level: 6
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Primordial Ward
 *6th-level, Abjuration*  

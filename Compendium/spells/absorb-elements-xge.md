@@ -27,6 +27,15 @@ classes:
 - Wizard
 aliases:
 - Absorb Elements
+level: 1
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Reaction"
+range: Self
+components: S
+duration: "1 round"
+components_vsm: [S]
 ---
 # Absorb Elements
 *1st-level, Abjuration*  

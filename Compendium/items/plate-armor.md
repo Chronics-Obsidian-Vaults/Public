@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Plate Armor"
+item_type: armor
+item_subtype: heavy
+rarity: none
+attunement: none
 ---
 # Plate Armor
 *Heavy armor*  

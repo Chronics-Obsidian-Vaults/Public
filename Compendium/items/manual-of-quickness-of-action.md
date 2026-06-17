@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Manual of Quickness of Action"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Manual of Quickness of Action
 *Wondrous item, major, very rare*  

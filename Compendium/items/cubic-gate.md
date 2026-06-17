@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Cubic Gate"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Cubic Gate
 *Wondrous item, major, legendary*  

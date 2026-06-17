@@ -11,6 +11,10 @@ aliases:
 - "Orb of Shielding (Lamannian Flint)"
 - "Lamannian Flint Crystal"
 - "Lamannian Flint Orb"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: common
+attunement: required
 ---
 # Orb of Shielding (Lamannian Flint)
 *Wondrous item, common (requires attunement)*  

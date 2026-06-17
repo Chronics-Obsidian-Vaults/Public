@@ -19,6 +19,15 @@ classes:
 - Wizard
 aliases:
 - Mordenkainen's Faithful Hound
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a tiny silver whistle, a piece of bone, and a thread)"
+duration: "8 hours"
+components_vsm: [V, S, M]
 ---
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  

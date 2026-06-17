@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Libram of Souls and Flesh"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Libram of Souls and Flesh
 *Wondrous item, rare (requires attunement by a wizard)*  

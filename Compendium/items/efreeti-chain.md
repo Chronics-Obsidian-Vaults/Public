@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Efreeti Chain"
+item_type: armor
+item_subtype: heavy
+rarity: legendary
+attunement: required
 ---
 # Efreeti Chain
 *Heavy armor ([chain mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-mail.md)), major, legendary (requires attunement)*  

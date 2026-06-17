@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Automatic Pistol"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: none
+attunement: none
 ---
 # Automatic Pistol
 *Weapon*  

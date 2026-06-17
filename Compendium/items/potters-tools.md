@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Potter's Tools"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Potter's Tools
 *Artisan's tools*  

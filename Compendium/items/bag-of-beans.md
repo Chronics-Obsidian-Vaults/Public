@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Bag of Beans"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Bag of Beans
 *Wondrous item, minor, rare*  

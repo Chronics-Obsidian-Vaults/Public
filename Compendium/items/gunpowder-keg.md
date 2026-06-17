@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/explosive
 aliases: 
 - "Gunpowder Keg"
+item_type: weapon
+item_subtype: explosive
+rarity: none
+attunement: none
 ---
 # Gunpowder Keg
 *Explosive*  

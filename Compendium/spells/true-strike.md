@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - True Strike
+level: 0
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: S
+duration: "Concentration, up to 1 round"
+components_vsm: [S]
 ---
 # True Strike
 *cantrip, Divination*  

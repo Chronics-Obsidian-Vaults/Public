@@ -24,6 +24,15 @@ classes:
 - Wizard
 aliases:
 - Crown of Madness
+level: 2
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Crown of Madness
 *2nd-level, Enchantment*  

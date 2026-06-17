@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Deck of Many Things"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Deck of Many Things
 *Wondrous item, major, legendary*  

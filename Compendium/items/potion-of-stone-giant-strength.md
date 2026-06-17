@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Potion of Stone Giant Strength"
+item_type: wondrous
+item_subtype: potion
+rarity: rare
+attunement: none
 ---
 # Potion of Stone Giant Strength
 *Potion, minor, rare*  

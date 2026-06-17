@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Dark Star
+level: 8
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (a shard of onyx and a drop of the caster's blood, both of which the spell consumes)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Dark Star
 *8th-level, Evocation*  

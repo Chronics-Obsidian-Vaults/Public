@@ -7,6 +7,10 @@ tags:
 - source/item/vehicle/land
 aliases: 
 - "Cart"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Cart
 *Vehicle (land)*  

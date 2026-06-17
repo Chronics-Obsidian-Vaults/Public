@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Light Crossbow"
+item_type: weapon
+item_subtype: "ranged, simple"
+rarity: none
+attunement: none
 ---
 # Light Crossbow
 *Weapon*  

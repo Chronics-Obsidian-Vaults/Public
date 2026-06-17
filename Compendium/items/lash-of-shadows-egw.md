@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Lash of Shadows"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: artifact
+attunement: required
 ---
 # Lash of Shadows
 *Weapon ([whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whip.md)), artifact (requires attunement)*  

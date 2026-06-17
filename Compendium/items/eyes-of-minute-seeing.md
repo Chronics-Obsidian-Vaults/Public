@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Eyes of Minute Seeing"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Eyes of Minute Seeing
 *Wondrous item, minor, uncommon*  

@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Scatter
+level: 6
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Scatter
 *6th-level, Conjuration*  

@@ -30,6 +30,15 @@ classes:
 - Wizard
 aliases:
 - Scrying
+level: 5
+school: divination
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: Self
+components: "V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Scrying
 *5th-level, Divination*  

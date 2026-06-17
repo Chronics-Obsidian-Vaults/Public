@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Wyvern Poison"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Wyvern Poison
 *Adventuring gear, poison (injury)*  

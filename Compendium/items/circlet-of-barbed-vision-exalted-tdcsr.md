@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Circlet of Barbed Vision (Exalted)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Circlet of Barbed Vision (Exalted)
 *Wondrous item, legendary (requires attunement by a creature of non-good alignment)*  

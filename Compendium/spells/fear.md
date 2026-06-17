@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Fear
+level: 3
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (30-foot Cone)
+components: "V, S, M (a white feather or the heart of a hen)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Fear
 *3rd-level, Illusion*  

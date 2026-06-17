@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Boots of Speed"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Boots of Speed
 *Wondrous item, major, rare (requires attunement)*  

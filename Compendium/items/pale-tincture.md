@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Pale Tincture"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Pale Tincture
 *Adventuring gear, poison (ingested)*  

@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Puzzle Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Puzzle Card
 *Wondrous item, legendary*  

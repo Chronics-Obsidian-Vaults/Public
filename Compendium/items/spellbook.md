@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Spellbook"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Spellbook
 *Adventuring gear*  

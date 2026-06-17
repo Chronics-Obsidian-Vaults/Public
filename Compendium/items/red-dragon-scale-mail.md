@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Red Dragon Scale Mail"
+item_type: armor
+item_subtype: medium
+rarity: very-rare
+attunement: required
 ---
 # Red Dragon Scale Mail
 *Medium armor, major, very rare (requires attunement)*  

@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Mantle of Spell Resistance"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Mantle of Spell Resistance
 *Wondrous item, major, rare (requires attunement)*  

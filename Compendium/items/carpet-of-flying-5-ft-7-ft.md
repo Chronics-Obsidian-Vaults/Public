@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Carpet of Flying, 5 ft. × 7 ft."
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Carpet of Flying, 5 ft. × 7 ft.
 *Wondrous item, major, very rare*  

@@ -23,6 +23,15 @@ classes:
 - Wizard
 aliases:
 - Wall of Stone
+level: 5
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a small block of granite)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Wall of Stone
 *5th-level, Evocation*  

@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Prismatic Spray
+level: 7
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self (60-foot Cone)
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Prismatic Spray
 *7th-level, Evocation*  

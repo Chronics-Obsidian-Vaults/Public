@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Guards and Wards
+level: 6
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: Touch
+components: "V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)"
+duration: "24 hours"
+components_vsm: [V, S, M]
 ---
 # Guards and Wards
 *6th-level, Abjuration*  

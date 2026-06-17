@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Move Earth
+level: 6
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (an iron blade and a small bag containing a mixture of soils—clay, loam, and sand)"
+duration: "Concentration, up to 2 hours"
+components_vsm: [V, S, M]
 ---
 # Move Earth
 *6th-level, Transmutation*  

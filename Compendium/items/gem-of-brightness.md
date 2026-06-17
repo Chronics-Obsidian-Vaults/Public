@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Gem of Brightness"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Gem of Brightness
 *Wondrous item, major, uncommon*  

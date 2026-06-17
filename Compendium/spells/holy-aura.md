@@ -14,6 +14,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Holy Aura
+level: 8
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Holy Aura
 *8th-level, Abjuration*  

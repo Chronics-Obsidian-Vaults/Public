@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff of Charming"
+item_type: weapon
+item_subtype: simple
+rarity: rare
+attunement: required
 ---
 # Staff of Charming
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  

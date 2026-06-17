@@ -14,6 +14,15 @@ classes:
 - Druid
 aliases:
 - Awaken
+level: 5
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "8 hours"
+range: Touch
+components: "V, S, M (an agate worth at least 1,000 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Awaken
 *5th-level, Transmutation*  

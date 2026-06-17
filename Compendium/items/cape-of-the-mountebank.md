@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Cape of the Mountebank"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Cape of the Mountebank
 *Wondrous item, major, rare*  

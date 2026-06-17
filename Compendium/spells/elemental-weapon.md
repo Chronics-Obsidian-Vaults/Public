@@ -24,6 +24,15 @@ classes:
 - Warlock (The Hexblade)
 aliases:
 - Elemental Weapon
+level: 3
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S]
 ---
 # Elemental Weapon
 *3rd-level, Transmutation*  

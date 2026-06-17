@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Tongues
+level: 3
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, M (a small clay model of a ziggurat)"
+duration: "1 hour"
+components_vsm: [V, M]
 ---
 # Tongues
 *3rd-level, Divination*  

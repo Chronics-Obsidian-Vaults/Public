@@ -24,6 +24,10 @@ aliases:
 - "+2 Spiked Armor"
 - "+2 Splint Armor"
 - "+2 Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: very-rare
+attunement: none
 ---
 # +2 Armor
 *Major, very rare*  

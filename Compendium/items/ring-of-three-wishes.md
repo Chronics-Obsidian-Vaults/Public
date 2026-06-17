@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Three Wishes"
+item_type: wondrous
+item_subtype: ring
+rarity: legendary
+attunement: none
 ---
 # Ring of Three Wishes
 *Ring, major, legendary*  

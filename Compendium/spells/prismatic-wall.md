@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Prismatic Wall
+level: 9
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S"
+duration: "10 minutes"
+components_vsm: [V, S]
 ---
 # Prismatic Wall
 *9th-level, Abjuration*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Grovelthrash (Awakened)"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: artifact
+attunement: required
 ---
 # Grovelthrash (Awakened)
 *Weapon ([warhammer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/warhammer.md)), artifact (requires attunement)*  

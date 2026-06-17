@@ -13,6 +13,10 @@ aliases:
 - "Kythrian Manchineel Rod"
 - "Kythrian Manchineel Staff"
 - "Kythrian Manchineel Wand"
+item_type: wondrous
+item_subtype: "generic-variant, simple"
+rarity: common
+attunement: required
 ---
 # Imbued Wood (Kythrian Manchineel)
 *Wondrous item, common (requires attunement)*  

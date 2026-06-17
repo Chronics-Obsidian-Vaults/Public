@@ -21,6 +21,15 @@ classes:
 - Wizard
 aliases:
 - Find Familiar
+level: 1
+ritual: true
+school: conjuration
+concentration: false
+casting_time: "1 hour unless cast as a ritual"
+range: "10 feet"
+components: "V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Find Familiar
 *1st-level, Conjuration (ritual)*  

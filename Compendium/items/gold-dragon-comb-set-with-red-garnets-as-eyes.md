@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gold dragon comb set with red garnets as eyes"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gold dragon comb set with red garnets as eyes
 *Treasure (art object)*  

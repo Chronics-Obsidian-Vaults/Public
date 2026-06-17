@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/artifact
 aliases: 
 - "Baba Yaga's Mortar and Pestle"
+item_type: 
+item_subtype: 
+rarity: artifact
+attunement: required
 ---
 # Baba Yaga's Mortar and Pestle
 *Wondrous item, artifact (requires attunement)*  

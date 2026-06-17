@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Danoth's Visor (Exalted)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Danoth's Visor (Exalted)
 *Wondrous item, legendary (requires attunement)*  

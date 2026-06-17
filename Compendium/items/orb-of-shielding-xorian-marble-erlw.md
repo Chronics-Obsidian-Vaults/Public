@@ -11,6 +11,10 @@ aliases:
 - "Orb of Shielding (Xorian Marble)"
 - "Xorian Marble Crystal"
 - "Xorian Marble Orb"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: common
+attunement: required
 ---
 # Orb of Shielding (Xorian Marble)
 *Wondrous item, common (requires attunement)*  

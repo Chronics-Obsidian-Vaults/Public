@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Summon Undead
+level: 3
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (a gilded skull worth at least 300 gp)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Summon Undead
 *3rd-level, Necromancy*  

@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/potion
 aliases: 
 - "Elixir of Health"
+item_type: wondrous
+item_subtype: potion
+rarity: rare
+attunement: none
 ---
 # Elixir of Health
 *Potion, minor, rare*  

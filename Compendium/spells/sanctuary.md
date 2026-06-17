@@ -28,6 +28,15 @@ classes:
 - Warlock (The Genie, Dao)
 aliases:
 - Sanctuary
+level: 1
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: "30 feet"
+components: "V, S, M (a small silver mirror)"
+duration: "1 minute"
+components_vsm: [V, S, M]
 ---
 # Sanctuary
 *1st-level, Abjuration*  

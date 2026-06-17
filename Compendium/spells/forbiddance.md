@@ -15,6 +15,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Forbiddance
+level: 6
+ritual: true
+school: abjuration
+concentration: false
+casting_time: "10 minutes unless cast as a ritual"
+range: Touch
+components: "V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)"
+duration: "1 day"
+components_vsm: [V, S, M]
 ---
 # Forbiddance
 *6th-level, Abjuration (ritual)*  

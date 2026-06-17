@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Skyblinder Staff"
+item_type: weapon
+item_subtype: simple
+rarity: uncommon
+attunement: required
 ---
 # Skyblinder Staff
 *Staff, weapon, uncommon (requires attunement)*  

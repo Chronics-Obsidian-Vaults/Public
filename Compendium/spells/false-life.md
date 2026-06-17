@@ -34,6 +34,15 @@ classes:
 - Wizard
 aliases:
 - False Life
+level: 1
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a small amount of alcohol or distilled spirits)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # False Life
 *1st-level, Necromancy*  

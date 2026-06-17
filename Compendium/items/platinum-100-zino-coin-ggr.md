@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Platinum 100-Zino Coin"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Platinum 100-Zino Coin
 *Treasure (coinage)*  

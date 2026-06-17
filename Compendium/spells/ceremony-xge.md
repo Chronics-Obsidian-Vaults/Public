@@ -20,6 +20,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Ceremony
+level: 1
+ritual: true
+school: abjuration
+concentration: false
+casting_time: "1 hour unless cast as a ritual"
+range: Touch
+components: "V, S, M (25 gp worth of powdered silver, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Ceremony
 *1st-level, Abjuration (ritual)*  

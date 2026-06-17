@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Copper chalice with silver filigree"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Copper chalice with silver filigree
 *Treasure (art object)*  

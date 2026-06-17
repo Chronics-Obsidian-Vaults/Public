@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Helm of Comprehending Languages"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Helm of Comprehending Languages
 *Wondrous item, minor, uncommon*  

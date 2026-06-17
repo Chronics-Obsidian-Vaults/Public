@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Tidal Wave
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a drop of water)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Tidal Wave
 *3rd-level, Conjuration*  

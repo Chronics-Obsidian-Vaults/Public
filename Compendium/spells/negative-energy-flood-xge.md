@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Negative Energy Flood
+level: 5
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, M (a broken bone and a square of black silk)"
+duration: Instantaneous
+components_vsm: [V, M]
 ---
 # Negative Energy Flood
 *5th-level, Necromancy*  

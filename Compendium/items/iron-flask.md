@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Iron Flask"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Iron Flask
 *Wondrous item, major, legendary*  

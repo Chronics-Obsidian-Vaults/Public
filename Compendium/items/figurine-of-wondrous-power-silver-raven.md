@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Figurine of Wondrous Power, Silver Raven"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Figurine of Wondrous Power, Silver Raven
 *Wondrous item, major, uncommon*  

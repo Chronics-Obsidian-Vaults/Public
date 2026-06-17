@@ -14,6 +14,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Divine Word
+level: 7
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: "30 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Divine Word
 *7th-level, Evocation*  

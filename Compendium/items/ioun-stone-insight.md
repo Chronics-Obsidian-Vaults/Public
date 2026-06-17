@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Ioun Stone, Insight"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Ioun Stone, Insight
 *Wondrous item, major, very rare (requires attunement)*  

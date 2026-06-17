@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Storm of Vengeance
+level: 9
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Sight
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Storm of Vengeance
 *9th-level, Conjuration*  

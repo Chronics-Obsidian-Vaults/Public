@@ -37,6 +37,15 @@ classes:
 - Wizard
 aliases:
 - Blight
+level: 4
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Blight
 *4th-level, Necromancy*  

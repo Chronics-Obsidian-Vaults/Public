@@ -27,6 +27,10 @@ aliases:
 - "+3 Pistol Bullet"
 - "+3 Renaissance Bullet"
 - "+3 Sling Bullet"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: very-rare
+attunement: none
 ---
 # +3 Ammunition
 *Ammunition, minor, very rare*  

@@ -27,6 +27,10 @@ aliases:
 - "+1 Pistol Bullet"
 - "+1 Renaissance Bullet"
 - "+1 Sling Bullet"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: uncommon
+attunement: none
 ---
 # +1 Ammunition
 *Ammunition, minor, uncommon*  

@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Teleport
+level: 7
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "10 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Teleport
 *7th-level, Conjuration*  

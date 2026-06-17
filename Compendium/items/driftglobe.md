@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Driftglobe"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Driftglobe
 *Wondrous item, minor, uncommon*  

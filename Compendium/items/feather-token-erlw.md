@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Feather Token"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Feather Token
 *Wondrous item, common*  

@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Melf's Acid Arrow
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: "V, S, M (powdered rhubarb leaf and an adder's stomach)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  

@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Comprehend Languages
+level: 1
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Self
+components: "V, S, M (a pinch of soot and salt)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Comprehend Languages
 *1st-level, Divination (ritual)*  

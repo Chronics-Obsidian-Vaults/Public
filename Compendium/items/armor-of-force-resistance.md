@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Force Resistance"
 - "Splint Armor of Force Resistance"
 - "Studded Leather Armor of Force Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Force Resistance
 *Major, rare (requires attunement)*  

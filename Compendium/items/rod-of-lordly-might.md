@@ -10,6 +10,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Rod of Lordly Might"
+item_type: wondrous
+item_subtype: "melee, rod"
+rarity: legendary
+attunement: required
 ---
 # Rod of Lordly Might
 *Rod ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), melee weapon ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), major, legendary (requires attunement)*  

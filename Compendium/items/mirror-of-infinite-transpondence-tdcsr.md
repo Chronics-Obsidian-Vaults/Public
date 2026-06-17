@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Mirror of Infinite Transpondence"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Mirror of Infinite Transpondence
 *Wondrous item, very rare*  

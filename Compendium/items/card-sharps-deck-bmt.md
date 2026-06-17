@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Card Sharp's Deck"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Card Sharp's Deck
 *Wondrous item, uncommon*  

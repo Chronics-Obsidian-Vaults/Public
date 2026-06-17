@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Spindle of Fate"
+item_type: wondrous
+item_subtype: wand
+rarity: legendary
+attunement: required
 ---
 # Spindle of Fate
 *Wand, legendary (requires attunement)*  

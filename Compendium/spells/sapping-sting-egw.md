@@ -13,6 +13,15 @@ classes:
 - Cleric (Death Domain)
 aliases:
 - Sapping Sting
+level: 0
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Sapping Sting
 *cantrip, Necromancy*  

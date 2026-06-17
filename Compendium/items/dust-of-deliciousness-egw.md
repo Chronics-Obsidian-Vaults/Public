@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Dust of Deliciousness"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Dust of Deliciousness
 *Wondrous item, uncommon*  

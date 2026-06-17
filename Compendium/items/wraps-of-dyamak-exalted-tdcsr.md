@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Wraps of Dyamak (Exalted)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Wraps of Dyamak (Exalted)
 *Wondrous item, legendary (requires attunement by a monk)*  

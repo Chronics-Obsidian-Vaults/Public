@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Iron Pot"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Iron Pot
 *Adventuring gear*  

@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Illusory Dragon
+level: 8
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: S
+duration: "Concentration, up to 1 minute"
+components_vsm: [S]
 ---
 # Illusory Dragon
 *8th-level, Illusion*  

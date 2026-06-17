@@ -21,6 +21,15 @@ classes:
 - Wizard
 aliases:
 - Skywrite
+level: 2
+ritual: true
+school: transmutation
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Sight
+components: "V, S"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S]
 ---
 # Skywrite
 *2nd-level, Transmutation (ritual)*  

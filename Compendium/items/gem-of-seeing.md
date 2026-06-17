@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Gem of Seeing"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Gem of Seeing
 *Wondrous item, major, rare (requires attunement)*  

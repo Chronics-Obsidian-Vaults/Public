@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Circle of Death
+level: 6
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (the powder of a crushed black pearl worth at least 500 gp)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Circle of Death
 *6th-level, Necromancy*  

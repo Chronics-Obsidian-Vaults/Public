@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Flesh to Stone
+level: 6
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a pinch of lime, water, and earth)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Flesh to Stone
 *6th-level, Transmutation*  

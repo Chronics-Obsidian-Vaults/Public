@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Vitriolic Sphere
+level: 4
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (a drop of giant slug bile)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Vitriolic Sphere
 *4th-level, Evocation*  

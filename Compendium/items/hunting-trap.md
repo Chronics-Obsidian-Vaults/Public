@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Hunting Trap"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Hunting Trap
 *Adventuring gear*  

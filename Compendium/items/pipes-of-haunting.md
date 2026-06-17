@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Pipes of Haunting"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Pipes of Haunting
 *Wondrous item, instrument, major, uncommon*  

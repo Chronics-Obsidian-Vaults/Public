@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Stabling (per day)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Stabling (per day)
 *Tack and harness*  

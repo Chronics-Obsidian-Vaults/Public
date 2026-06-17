@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "Crystalline Chronicle"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Crystalline Chronicle
 *Wondrous item, very rare (requires attunement by a wizard)*  

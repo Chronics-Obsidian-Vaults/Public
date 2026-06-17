@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Cabal's Ruin (Awakened)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Cabal's Ruin (Awakened)
 *Wondrous item, legendary (requires attunement)*  

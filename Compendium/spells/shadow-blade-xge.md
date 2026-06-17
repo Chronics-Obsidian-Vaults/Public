@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Shadow Blade
+level: 2
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Shadow Blade
 *2nd-level, Illusion*  

@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Documancy Satchel"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: none
 ---
 # Documancy Satchel
 *Wondrous item*  

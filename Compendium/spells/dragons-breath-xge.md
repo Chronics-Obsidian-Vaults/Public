@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Dragon's Breath
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Touch
+components: "V, S, M (a hot pepper)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Dragon's Breath
 *2nd-level, Transmutation*  

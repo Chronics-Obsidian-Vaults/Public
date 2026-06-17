@@ -23,6 +23,15 @@ classes:
 - Wizard
 aliases:
 - Geas
+level: 5
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: "60 feet"
+components: V
+duration: "30 days"
+components_vsm: [V]
 ---
 # Geas
 *5th-level, Enchantment*  

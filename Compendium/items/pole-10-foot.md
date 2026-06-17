@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Pole (10-foot)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Pole (10-foot)
 *Adventuring gear*  

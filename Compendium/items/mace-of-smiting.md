@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Mace of Smiting"
+item_type: weapon
+item_subtype: "melee, simple"
+rarity: rare
+attunement: none
 ---
 # Mace of Smiting
 *Weapon ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), major, rare*  

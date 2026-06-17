@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "+3 Bloodwell Vial"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # +3 Bloodwell Vial
 *Wondrous item, very rare (requires attunement by a sorcerer)*  

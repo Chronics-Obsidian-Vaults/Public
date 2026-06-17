@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Shadowfell Shard"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Shadowfell Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

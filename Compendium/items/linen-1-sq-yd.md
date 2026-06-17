@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Linen (1 sq. yd.)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Linen (1 sq. yd.)
 *Trade good*  

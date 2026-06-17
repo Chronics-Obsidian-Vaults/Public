@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Climber's Kit"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Climber's Kit
 *Adventuring gear*  

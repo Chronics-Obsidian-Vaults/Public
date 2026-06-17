@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Life Transference
+level: 3
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Life Transference
 *3rd-level, Necromancy*  

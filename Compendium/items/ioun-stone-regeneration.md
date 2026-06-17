@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Ioun Stone, Regeneration"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Ioun Stone, Regeneration
 *Wondrous item, major, legendary (requires attunement)*  

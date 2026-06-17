@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Phantom Steed
+level: 3
+ritual: true
+school: illusion
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: "30 feet"
+components: "V, S"
+duration: "1 hour"
+components_vsm: [V, S]
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  

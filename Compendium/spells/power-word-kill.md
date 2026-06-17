@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Power Word Kill
+level: 9
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Power Word Kill
 *9th-level, Enchantment*  

@@ -11,6 +11,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Wristpocket
+level: 2
+ritual: true
+school: conjuration
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Self
+components: S
+duration: "Concentration, up to 1 hour"
+components_vsm: [S]
 ---
 # Wristpocket
 *2nd-level, Conjuration (ritual)*  

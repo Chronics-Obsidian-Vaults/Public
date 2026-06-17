@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/explosive
 aliases: 
 - "Dynamite (stick)"
+item_type: weapon
+item_subtype: explosive
+rarity: none
+attunement: none
 ---
 # Dynamite (stick)
 *Explosive*  

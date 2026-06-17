@@ -23,6 +23,15 @@ classes:
 - Wizard
 aliases:
 - Otiluke's Resilient Sphere
+level: 4
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Otiluke's Resilient Sphere
 *4th-level, Evocation*  

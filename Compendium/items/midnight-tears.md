@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Midnight Tears"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Midnight Tears
 *Adventuring gear, poison (ingested)*  

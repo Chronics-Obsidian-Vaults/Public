@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gold locket with a painted portrait inside"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gold locket with a painted portrait inside
 *Treasure (art object)*  

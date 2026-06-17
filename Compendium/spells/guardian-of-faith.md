@@ -25,6 +25,15 @@ classes:
 - Warlock (The Celestial)
 aliases:
 - Guardian of Faith
+level: 4
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: V
+duration: "8 hours"
+components_vsm: [V]
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  

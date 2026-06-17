@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "Wand of Secrets"
+item_type: wondrous
+item_subtype: wand
+rarity: uncommon
+attunement: none
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  

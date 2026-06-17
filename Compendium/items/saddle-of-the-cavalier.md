@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Saddle of the Cavalier"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Saddle of the Cavalier
 *Wondrous item, minor, uncommon*  

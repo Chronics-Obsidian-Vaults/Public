@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Elemental Essence Shard (Air)"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Elemental Essence Shard (Air)
 *Wondrous item, rare (requires attunement by a sorcerer)*  

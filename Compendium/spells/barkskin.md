@@ -18,6 +18,15 @@ classes:
 - Ranger
 aliases:
 - Barkskin
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a handful of oak bark)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Barkskin
 *2nd-level, Transmutation*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Piton"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Piton
 *Adventuring gear*  

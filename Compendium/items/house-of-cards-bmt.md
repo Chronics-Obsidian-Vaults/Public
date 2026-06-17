@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "House of Cards"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # House of Cards
 *Wondrous item, uncommon*  

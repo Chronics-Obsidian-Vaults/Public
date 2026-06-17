@@ -13,6 +13,10 @@ aliases:
 - "Mind Carapace Plate Armor"
 - "Mind Carapace Ring Mail"
 - "Mind Carapace Splint Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy"
+rarity: uncommon
+attunement: required
 ---
 # Mind Carapace Armor
 *Uncommon (requires attunement by a specific individual)*  

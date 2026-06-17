@@ -17,6 +17,15 @@ classes:
 - Wizard
 aliases:
 - Jim's Magic Missile
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, R"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Jim's Magic Missile
 *1st-level, Evocation*  

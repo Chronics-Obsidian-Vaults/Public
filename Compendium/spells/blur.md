@@ -28,6 +28,15 @@ classes:
 - Wizard
 aliases:
 - Blur
+level: 2
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Blur
 *2nd-level, Illusion*  

@@ -25,6 +25,10 @@ aliases:
 - "Spiked Armor of Poison Resistance"
 - "Splint Armor of Poison Resistance"
 - "Studded Leather Armor of Poison Resistance"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: rare
+attunement: required
 ---
 # Armor of Poison Resistance
 *Major, rare (requires attunement)*  

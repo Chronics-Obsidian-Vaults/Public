@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Jump
+level: 1
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (a grasshopper's hind leg)"
+duration: "1 minute"
+components_vsm: [V, S, M]
 ---
 # Jump
 *1st-level, Transmutation*  

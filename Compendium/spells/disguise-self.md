@@ -37,6 +37,15 @@ classes:
 - Wizard
 aliases:
 - Disguise Self
+level: 1
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "1 hour"
+components_vsm: [V, S]
 ---
 # Disguise Self
 *1st-level, Illusion*  

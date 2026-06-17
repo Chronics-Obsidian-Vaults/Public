@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Boros Keyrune"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Boros Keyrune
 *Wondrous item, rare (requires attunement by a member of the Boros guild)*  

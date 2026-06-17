@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Reincarnate
+level: 5
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 hour"
+range: Touch
+components: "V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Reincarnate
 *5th-level, Transmutation*  

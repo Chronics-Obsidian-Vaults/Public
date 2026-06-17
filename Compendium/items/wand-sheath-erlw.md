@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Wand Sheath"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: required
 ---
 # Wand Sheath
 *Wondrous item, common (requires attunement by a warforged)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/other
 aliases: 
 - "Flensing Claws (Huge)"
+item_type: wondrous
+item_subtype: other
+rarity: unknown
+attunement: none
 ---
 # Flensing Claws (Huge)
 

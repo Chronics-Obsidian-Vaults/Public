@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Sage's Signet (Bear)"
+item_type: wondrous
+item_subtype: ring
+rarity: very-rare
+attunement: required
 ---
 # Sage's Signet (Bear)
 *Ring, very rare (requires attunement by a spellcaster)*  

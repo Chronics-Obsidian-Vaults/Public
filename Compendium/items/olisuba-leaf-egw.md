@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Olisuba Leaf"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Olisuba Leaf
 *Adventuring gear*  

@@ -41,6 +41,15 @@ classes:
 - Wizard
 aliases:
 - Mage Hand
+level: 0
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: "1 minute"
+components_vsm: [V, S]
 ---
 # Mage Hand
 *cantrip, Conjuration*  

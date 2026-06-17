@@ -7,6 +7,10 @@ tags:
 - source/item/wondrous/other
 aliases: 
 - "Heartstone"
+item_type: wondrous
+item_subtype: other
+rarity: very-rare
+attunement: none
 ---
 # Heartstone
 *Very rare*  

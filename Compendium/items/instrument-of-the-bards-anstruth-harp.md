@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Instrument of the Bards, Anstruth Harp"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Instrument of the Bards, Anstruth Harp
 *Wondrous item, instrument, major, very rare (requires attunement by a bard)*  

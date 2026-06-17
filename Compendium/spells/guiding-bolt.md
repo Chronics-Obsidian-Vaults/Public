@@ -22,6 +22,15 @@ classes:
 - Warlock (The Celestial)
 aliases:
 - Guiding Bolt
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S"
+duration: "1 round"
+components_vsm: [V, S]
 ---
 # Guiding Bolt
 *1st-level, Evocation*  

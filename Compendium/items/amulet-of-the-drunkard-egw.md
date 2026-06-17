@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Amulet of the Drunkard"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Amulet of the Drunkard
 *Wondrous item, uncommon*  

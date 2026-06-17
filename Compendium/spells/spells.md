@@ -3,6 +3,8 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 - json5e-index
+ritual: false
+concentration: false
 ---
 # Index of Spells
 

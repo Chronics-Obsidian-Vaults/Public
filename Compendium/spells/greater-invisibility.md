@@ -33,6 +33,15 @@ classes:
 - Wizard
 aliases:
 - Greater Invisibility
+level: 4
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S]
 ---
 # Greater Invisibility
 *4th-level, Illusion*  

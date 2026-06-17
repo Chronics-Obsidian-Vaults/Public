@@ -16,6 +16,10 @@ aliases:
 - "Rapier of the Planes"
 - "Scimitar of the Planes"
 - "Shortsword of the Planes"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: legendary
+attunement: required
 ---
 # Sword of the Planes
 *Legendary (requires attunement)*  

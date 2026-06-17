@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Void Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Void Card
 *Wondrous item, legendary*  

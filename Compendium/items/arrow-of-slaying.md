@@ -8,6 +8,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Arrow of Slaying"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Arrow of Slaying
 *Ammunition, minor, very rare*  

@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Tasha's Mind Whip
+level: 2
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: V
+duration: "1 round"
+components_vsm: [V]
 ---
 # Tasha's Mind Whip
 *2nd-level, Enchantment*  

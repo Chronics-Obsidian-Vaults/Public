@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Star rose quartz"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Star rose quartz
 *Treasure (gemstone)*  

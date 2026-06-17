@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/very-rare
 aliases: 
 - "+3 Wraps of Unarmed Prowess"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # +3 Wraps of Unarmed Prowess
 *Wondrous item, very rare*  

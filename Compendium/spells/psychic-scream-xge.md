@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Psychic Scream
+level: 9
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: S
+duration: Instantaneous
+components_vsm: [S]
 ---
 # Psychic Scream
 *9th-level, Enchantment*  

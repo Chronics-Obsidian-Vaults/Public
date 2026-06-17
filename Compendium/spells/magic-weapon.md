@@ -33,6 +33,15 @@ classes:
 - Wizard
 aliases:
 - Magic Weapon
+level: 2
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Touch
+components: "V, S"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S]
 ---
 # Magic Weapon
 *2nd-level, Transmutation*  

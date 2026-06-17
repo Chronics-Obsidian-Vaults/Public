@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Chain Mail"
+item_type: armor
+item_subtype: heavy
+rarity: none
+attunement: none
 ---
 # Chain Mail
 *Heavy armor*  

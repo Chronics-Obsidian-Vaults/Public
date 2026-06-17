@@ -25,6 +25,15 @@ classes:
 - Ranger
 aliases:
 - Pass without Trace
+level: 2
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Pass without Trace
 *2nd-level, Abjuration*  

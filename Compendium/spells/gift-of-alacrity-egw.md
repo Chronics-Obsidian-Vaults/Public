@@ -11,6 +11,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Gift of Alacrity
+level: 1
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 minute"
+range: Touch
+components: "V, S"
+duration: "8 hours"
+components_vsm: [V, S]
 ---
 # Gift of Alacrity
 *1st-level, Divination*  

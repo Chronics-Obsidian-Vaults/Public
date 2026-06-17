@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Doublet of Dramatic Demise"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Doublet of Dramatic Demise
 *Wondrous item, common*  

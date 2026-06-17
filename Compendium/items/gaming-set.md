@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gaming Set"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gaming Set
 *Gaming set*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Coat of the Crest"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Coat of the Crest
 *Wondrous item, rare (requires attunement)*  

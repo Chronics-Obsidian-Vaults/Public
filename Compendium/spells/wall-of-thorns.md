@@ -12,6 +12,15 @@ classes:
 - Druid
 aliases:
 - Wall of Thorns
+level: 6
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (a handful of thorns)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Wall of Thorns
 *6th-level, Conjuration*  

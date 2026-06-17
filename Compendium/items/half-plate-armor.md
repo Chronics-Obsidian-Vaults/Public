@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Half Plate Armor"
+item_type: armor
+item_subtype: medium
+rarity: none
+attunement: none
 ---
 # Half Plate Armor
 *Medium armor*  

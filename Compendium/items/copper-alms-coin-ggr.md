@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Copper Alms-Coin"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Copper Alms-Coin
 *Treasure (coinage)*  

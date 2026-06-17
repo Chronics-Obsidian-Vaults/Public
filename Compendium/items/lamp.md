@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Lamp"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Lamp
 *Adventuring gear*  

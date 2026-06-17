@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Aganazzar's Scorcher
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a red dragon's scale)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Aganazzar's Scorcher
 *2nd-level, Evocation*  

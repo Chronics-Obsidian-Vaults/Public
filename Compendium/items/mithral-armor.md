@@ -19,6 +19,10 @@ aliases:
 - "Mithral Scale Mail"
 - "Mithral Spiked Armor"
 - "Mithral Splint Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, medium"
+rarity: uncommon
+attunement: none
 ---
 # Mithral Armor
 *Minor, uncommon*  

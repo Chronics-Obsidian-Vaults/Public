@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Priest's Pack"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Priest's Pack
 *Adventuring gear*  

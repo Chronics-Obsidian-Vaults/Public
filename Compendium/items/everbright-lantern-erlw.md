@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/common
 aliases: 
 - "Everbright Lantern"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Everbright Lantern
 *Wondrous item, common*  

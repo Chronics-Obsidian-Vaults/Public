@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Antipathy/Sympathy
+level: 8
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 hour"
+range: "60 feet"
+components: "V, S, M (either a lump of alum soaked in vinegar for the antipathy effect or a drop of honey for the sympathy effect)"
+duration: "10 days"
+components_vsm: [V, S, M]
 ---
 # Antipathy/Sympathy
 *8th-level, Enchantment*  

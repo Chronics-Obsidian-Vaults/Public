@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Tinker's Tools"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Tinker's Tools
 *Artisan's tools*  

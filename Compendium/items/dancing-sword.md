@@ -17,6 +17,10 @@ aliases:
 - "Dancing Rapier"
 - "Dancing Scimitar"
 - "Dancing Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee"
+rarity: very-rare
+attunement: required
 ---
 # Dancing Sword
 *Major, very rare (requires attunement)*  

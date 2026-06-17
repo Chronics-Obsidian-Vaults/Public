@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Feeblemind
+level: 8
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "150 feet"
+components: "V, S, M (a handful of clay, crystal, glass, or mineral spheres)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Feeblemind
 *8th-level, Enchantment*  

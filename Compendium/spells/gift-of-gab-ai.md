@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Gift of Gab
+level: 2
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Reaction"
+range: Self
+components: "V, S, R"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Gift of Gab
 *2nd-level, Enchantment*  

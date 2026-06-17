@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Muroosa Balm"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Muroosa Balm
 *Adventuring gear*  

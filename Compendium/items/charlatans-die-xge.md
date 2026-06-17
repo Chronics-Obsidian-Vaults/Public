@@ -8,6 +8,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Charlatan's Die"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: required
 ---
 # Charlatan's Die
 *Wondrous item, minor, common (requires attunement)*  

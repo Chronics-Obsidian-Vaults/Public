@@ -36,6 +36,15 @@ classes:
 - Wizard
 aliases:
 - Banishment
+level: 4
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (an item distasteful to the target)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Banishment
 *4th-level, Abjuration*  

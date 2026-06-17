@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Candle of the Deep"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Candle of the Deep
 *Wondrous item, minor, common*  

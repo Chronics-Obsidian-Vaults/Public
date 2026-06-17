@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Ale (gallon)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Ale (gallon)
 *Food and drink*  

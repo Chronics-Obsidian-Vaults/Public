@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Three-Dragon Ante Set"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Three-Dragon Ante Set
 *Gaming set*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Earthboard"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Earthboard
 *Wondrous item, rare (requires attunement)*  

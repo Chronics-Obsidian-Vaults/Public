@@ -21,6 +21,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Commune
+level: 5
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 minute unless cast as a ritual"
+range: Self
+components: "V, S, M (incense and a vial of holy or unholy water)"
+duration: "1 minute"
+components_vsm: [V, S, M]
 ---
 # Commune
 *5th-level, Divination (ritual)*  

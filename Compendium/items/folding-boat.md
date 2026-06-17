@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Folding Boat"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Folding Boat
 *Wondrous item, minor, rare*  

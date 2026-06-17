@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Paper (one sheet)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Paper (one sheet)
 *Adventuring gear*  

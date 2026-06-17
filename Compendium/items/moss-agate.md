@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Moss Agate"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Moss Agate
 *Treasure (gemstone)*  

@@ -18,6 +18,15 @@ classes:
 - Wizard
 aliases:
 - Crown of Stars
+level: 7
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S"
+duration: "1 hour"
+components_vsm: [V, S]
 ---
 # Crown of Stars
 *7th-level, Evocation*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Mournland Trinket"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Mournland Trinket
 *Adventuring gear*  

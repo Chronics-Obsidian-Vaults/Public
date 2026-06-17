@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Orb of Direction"
+item_type: 
+item_subtype: 
+rarity: common
+attunement: none
 ---
 # Orb of Direction
 *Wondrous item, minor, common*  

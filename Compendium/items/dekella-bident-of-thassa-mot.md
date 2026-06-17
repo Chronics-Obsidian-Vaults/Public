@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Dekella, Bident of Thassa"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: artifact
+attunement: required
 ---
 # Dekella, Bident of Thassa
 *Weapon ([trident](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trident.md)), artifact (requires attunement)*  

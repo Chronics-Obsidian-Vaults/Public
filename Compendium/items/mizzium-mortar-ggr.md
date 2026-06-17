@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Mizzium Mortar"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Mizzium Mortar
 *Wondrous item, rare*  

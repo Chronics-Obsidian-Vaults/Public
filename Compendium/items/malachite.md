@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Malachite"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Malachite
 *Treasure (gemstone)*  

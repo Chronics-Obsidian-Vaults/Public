@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Sage Card"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: none
 ---
 # Sage Card
 *Wondrous item, legendary*  

@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Hide of the Feral Guardian (Dormant)"
+item_type: armor
+item_subtype: light
+rarity: legendary
+attunement: required
 ---
 # Hide of the Feral Guardian (Dormant)
 *Light armor ([studded leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)), legendary (requires attunement)*  

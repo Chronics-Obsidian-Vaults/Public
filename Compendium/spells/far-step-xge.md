@@ -16,6 +16,15 @@ classes:
 - Wizard
 aliases:
 - Far Step
+level: 5
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Far Step
 *5th-level, Conjuration*  

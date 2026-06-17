@@ -29,6 +29,15 @@ classes:
 - Wizard
 aliases:
 - Expeditious Retreat
+level: 1
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: "V, S"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S]
 ---
 # Expeditious Retreat
 *1st-level, Transmutation*  

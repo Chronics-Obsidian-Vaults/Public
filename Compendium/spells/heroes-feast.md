@@ -16,6 +16,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Heroes' Feast
+level: 6
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: "30 feet"
+components: "V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  

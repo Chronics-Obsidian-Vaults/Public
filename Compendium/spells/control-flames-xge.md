@@ -34,6 +34,15 @@ classes:
 - Wizard
 aliases:
 - Control Flames
+level: 0
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: S
+duration: "Instantaneous, up to 1 hour"
+components_vsm: [S]
 ---
 # Control Flames
 *cantrip, Transmutation*  

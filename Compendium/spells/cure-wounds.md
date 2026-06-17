@@ -31,6 +31,15 @@ classes:
 - Warlock (The Celestial)
 aliases:
 - Cure Wounds
+level: 1
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Cure Wounds
 *1st-level, Evocation*  

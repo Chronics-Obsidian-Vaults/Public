@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Stormgirdle (Awakened)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Stormgirdle (Awakened)
 *Wondrous item, legendary (requires attunement)*  

@@ -18,6 +18,10 @@ aliases:
 - "Mizzium Scale Mail"
 - "Mizzium Spiked Armor"
 - "Mizzium Splint Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, medium"
+rarity: rare
+attunement: none
 ---
 # Mizzium Armor
 *Rare*  

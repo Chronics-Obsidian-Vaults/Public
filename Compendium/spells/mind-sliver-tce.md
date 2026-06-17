@@ -30,6 +30,15 @@ classes:
 - Wizard
 aliases:
 - Mind Sliver
+level: 0
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: V
+duration: "1 round"
+components_vsm: [V]
 ---
 # Mind Sliver
 *cantrip, Enchantment*  

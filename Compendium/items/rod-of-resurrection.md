@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Rod of Resurrection"
+item_type: wondrous
+item_subtype: rod
+rarity: legendary
+attunement: required
 ---
 # Rod of Resurrection
 *Rod, major, legendary (requires attunement by a cleric, druid, or paladin)*  

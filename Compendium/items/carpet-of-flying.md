@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Carpet of Flying"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: none
 ---
 # Carpet of Flying
 *Wondrous item, major, very rare*  

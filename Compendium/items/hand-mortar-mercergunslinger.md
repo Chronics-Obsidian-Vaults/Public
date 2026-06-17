@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Hand Mortar"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: unknown
+attunement: none
 ---
 # Hand Mortar
 *Weapon*  

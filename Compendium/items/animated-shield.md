@@ -9,6 +9,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Animated Shield"
+item_type: 
+item_subtype: 
+rarity: very-rare
+attunement: required
 ---
 # Animated Shield
 *Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), major, very rare (requires attunement)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Small gold idol"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Small gold idol
 *Treasure (art object)*  

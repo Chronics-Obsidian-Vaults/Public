@@ -20,6 +20,15 @@ classes:
 - Paladin (Oath of the Watchers)
 aliases:
 - Moonbeam
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "120 feet"
+components: "V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Moonbeam
 *2nd-level, Evocation*  

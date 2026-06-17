@@ -21,6 +21,15 @@ classes:
 - Wizard
 aliases:
 - Legend Lore
+level: 5
+school: divination
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: Self
+components: "V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Legend Lore
 *5th-level, Divination*  

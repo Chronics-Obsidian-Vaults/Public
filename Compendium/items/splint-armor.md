@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Splint Armor"
+item_type: armor
+item_subtype: heavy
+rarity: none
+attunement: none
 ---
 # Splint Armor
 *Heavy armor*  

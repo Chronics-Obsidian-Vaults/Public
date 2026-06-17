@@ -66,6 +66,10 @@ aliases:
 - "+1 Warhammer"
 - "+1 Whip"
 - "+1 Yklwa"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: uncommon
+attunement: none
 ---
 # +1 Weapon
 *Major, uncommon*  

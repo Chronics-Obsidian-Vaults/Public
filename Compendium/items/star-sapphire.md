@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Star Sapphire"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Star Sapphire
 *Treasure (gemstone)*  

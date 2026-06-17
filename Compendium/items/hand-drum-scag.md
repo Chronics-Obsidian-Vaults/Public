@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Hand Drum"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Hand Drum
 *Instrument*  

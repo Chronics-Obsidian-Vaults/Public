@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Bit and bridle"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Bit and bridle
 *Tack and harness*  

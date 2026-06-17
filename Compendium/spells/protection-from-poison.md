@@ -25,6 +25,15 @@ classes:
 - Sorcerer (Runechild)
 aliases:
 - Protection from Poison
+level: 2
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: "1 hour"
+components_vsm: [V, S]
 ---
 # Protection from Poison
 *2nd-level, Abjuration*  

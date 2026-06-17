@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Sage's Signet"
+item_type: wondrous
+item_subtype: ring
+rarity: varies
+attunement: required
 ---
 # Sage's Signet
 *Ring (requires attunement by a spellcaster)*  

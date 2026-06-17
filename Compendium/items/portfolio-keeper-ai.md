@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Portfolio Keeper"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: none
 ---
 # Portfolio Keeper
 *Wondrous item*  

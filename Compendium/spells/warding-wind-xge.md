@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Warding Wind
+level: 2
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: V
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V]
 ---
 # Warding Wind
 *2nd-level, Evocation*  

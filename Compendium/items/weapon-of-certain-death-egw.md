@@ -64,6 +64,10 @@ aliases:
 - "Warhammer of Certain Death"
 - "Whip of Certain Death"
 - "Yklwa of Certain Death"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: rare
+attunement: none
 ---
 # Weapon of Certain Death
 *Rare*  

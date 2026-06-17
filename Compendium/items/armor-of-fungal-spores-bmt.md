@@ -14,6 +14,10 @@ aliases:
 - "Hide Armor of Fungal Spores"
 - "Scale Mail of Fungal Spores"
 - "Spiked Armor of Fungal Spores"
+item_type: wondrous
+item_subtype: "generic-variant, medium"
+rarity: uncommon
+attunement: none
 ---
 # Armor of Fungal Spores
 *Uncommon*  

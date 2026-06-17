@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/ranged
 aliases: 
 - "Pepperbox"
+item_type: weapon
+item_subtype: "martial, ranged"
+rarity: unknown
+attunement: none
 ---
 # Pepperbox
 *Weapon*  

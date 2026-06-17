@@ -9,6 +9,10 @@ tags:
 - source/item/wondrous/wand
 aliases: 
 - "+1 Wand of the War Mage"
+item_type: wondrous
+item_subtype: wand
+rarity: uncommon
+attunement: required
 ---
 # +1 Wand of the War Mage
 *Wand, major, uncommon (requires attunement by a spellcaster)*  

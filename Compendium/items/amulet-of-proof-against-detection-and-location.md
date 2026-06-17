@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Amulet of Proof against Detection and Location"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, major, uncommon (requires attunement)*  

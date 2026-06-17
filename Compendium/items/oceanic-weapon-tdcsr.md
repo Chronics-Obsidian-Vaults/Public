@@ -40,6 +40,10 @@ aliases:
 - "Oceanic Spear"
 - "Oceanic Trident"
 - "Oceanic Yklwa"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, ranged, simple"
+rarity: rare
+attunement: required
 ---
 # Oceanic Weapon
 *Rare (requires attunement)*  

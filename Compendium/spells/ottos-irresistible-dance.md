@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Otto's Irresistible Dance
+level: 6
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  

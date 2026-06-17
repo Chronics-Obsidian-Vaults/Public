@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Clone
+level: 8
+school: necromancy
+ritual: false
+concentration: false
+casting_time: "1 hour"
+range: Touch
+components: "V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold the creature being cloned, such as a huge urn, coffin, mud-filled cyst in the ground, or crystal container filled with salt water)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Clone
 *8th-level, Necromancy*  

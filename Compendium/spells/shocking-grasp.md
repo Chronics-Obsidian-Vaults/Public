@@ -31,6 +31,15 @@ classes:
 - Wizard
 aliases:
 - Shocking Grasp
+level: 0
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Shocking Grasp
 *cantrip, Evocation*  

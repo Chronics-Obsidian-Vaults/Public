@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Rod of Security"
+item_type: wondrous
+item_subtype: rod
+rarity: very-rare
+attunement: none
 ---
 # Rod of Security
 *Rod, major, very rare*  

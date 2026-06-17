@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Wooden Staff"
+item_type: weapon
+item_subtype: simple
+rarity: none
+attunement: none
 ---
 # Wooden Staff
 *Weapon, spellcasting focus*  

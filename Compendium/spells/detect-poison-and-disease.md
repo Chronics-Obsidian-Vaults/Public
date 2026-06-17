@@ -27,6 +27,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Detect Poison and Disease
+level: 1
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Self
+components: "V, S, M (a yew leaf)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Detect Poison and Disease
 *1st-level, Divination (ritual)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Atlas of Endless Horizons"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Atlas of Endless Horizons
 *Wondrous item, rare (requires attunement by a wizard)*  

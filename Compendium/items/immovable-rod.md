@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Immovable Rod"
+item_type: wondrous
+item_subtype: rod
+rarity: uncommon
+attunement: none
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  

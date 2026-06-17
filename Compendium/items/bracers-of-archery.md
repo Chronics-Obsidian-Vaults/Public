@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Bracers of Archery"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Bracers of Archery
 *Wondrous item, major, uncommon (requires attunement)*  

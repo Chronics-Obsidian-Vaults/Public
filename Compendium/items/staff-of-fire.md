@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff of Fire"
+item_type: weapon
+item_subtype: simple
+rarity: very-rare
+attunement: required
 ---
 # Staff of Fire
 *Staff, weapon, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

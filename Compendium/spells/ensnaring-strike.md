@@ -15,6 +15,15 @@ classes:
 - Ranger
 aliases:
 - Ensnaring Strike
+level: 1
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Bonus Action"
+range: Self
+components: V
+duration: "Concentration, up to 1 minute"
+components_vsm: [V]
 ---
 # Ensnaring Strike
 *1st-level, Conjuration*  

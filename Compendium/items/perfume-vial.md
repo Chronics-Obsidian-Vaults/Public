@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Perfume (vial)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Perfume (vial)
 *Adventuring gear*  

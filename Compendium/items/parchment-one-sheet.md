@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Parchment (one sheet)"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Parchment (one sheet)
 *Adventuring gear*  

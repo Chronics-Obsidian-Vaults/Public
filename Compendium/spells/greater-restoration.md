@@ -29,6 +29,15 @@ classes:
 - Warlock (The Celestial)
 aliases:
 - Greater Restoration
+level: 5
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Touch
+components: "V, S, M (diamond dust worth at least 100 gp, which the spell consumes)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Greater Restoration
 *5th-level, Abjuration*  

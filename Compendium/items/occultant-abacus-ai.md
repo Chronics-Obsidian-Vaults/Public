@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Occultant Abacus"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: required
 ---
 # Occultant Abacus
 *Wondrous item (requires attunement)*  

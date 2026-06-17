@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Far Realm Shard"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Far Realm Shard
 *Wondrous item, rare (requires attunement by a sorcerer)*  

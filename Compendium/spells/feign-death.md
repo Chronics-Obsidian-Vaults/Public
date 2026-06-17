@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - Feign Death
+level: 3
+ritual: true
+school: necromancy
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Touch
+components: "V, S, M (a pinch of graveyard dirt)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Feign Death
 *3rd-level, Necromancy (ritual)*  

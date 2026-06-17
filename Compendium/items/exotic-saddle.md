@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Exotic Saddle"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Exotic Saddle
 *Tack and harness*  

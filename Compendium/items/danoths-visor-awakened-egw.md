@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Danoth's Visor (Awakened)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Danoth's Visor (Awakened)
 *Wondrous item, legendary (requires attunement)*  

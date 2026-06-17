@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Malice"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Malice
 *Adventuring gear, poison (inhaled)*  

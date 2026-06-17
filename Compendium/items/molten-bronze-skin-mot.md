@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/generic-variant
 aliases: 
 - "Molten Bronze Skin"
+item_type: wondrous
+item_subtype: generic-variant
+rarity: rare
+attunement: required
 ---
 # Molten Bronze Skin
 *Rare (requires attunement)*  

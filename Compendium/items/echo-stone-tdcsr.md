@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Echo Stone"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Echo Stone
 *Wondrous item, uncommon*  

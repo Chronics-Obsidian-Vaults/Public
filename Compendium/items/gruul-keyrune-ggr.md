@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Gruul Keyrune"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Gruul Keyrune
 *Wondrous item, rare (requires attunement by a member of the Gruul guild)*  

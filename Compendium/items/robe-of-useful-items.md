@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Robe of Useful Items"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Robe of Useful Items
 *Wondrous item, minor, uncommon*  

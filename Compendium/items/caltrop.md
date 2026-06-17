@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Caltrop"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Caltrop
 *Adventuring gear*  

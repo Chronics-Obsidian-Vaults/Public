@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Calligrapher's Supplies"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Calligrapher's Supplies
 *Artisan's tools*  

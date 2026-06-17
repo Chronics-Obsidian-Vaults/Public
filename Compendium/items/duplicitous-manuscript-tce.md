@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Duplicitous Manuscript"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Duplicitous Manuscript
 *Wondrous item, rare (requires attunement by a wizard)*  

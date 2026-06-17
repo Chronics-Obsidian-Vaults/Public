@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Eversmoking Bottle"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Eversmoking Bottle
 *Wondrous item, major, uncommon*  

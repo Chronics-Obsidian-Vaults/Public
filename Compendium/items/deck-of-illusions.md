@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Deck of Illusions"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Deck of Illusions
 *Wondrous item, major, uncommon*  

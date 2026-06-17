@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Small mirror set in a painted wooden frame"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Small mirror set in a painted wooden frame
 *Treasure (art object)*  

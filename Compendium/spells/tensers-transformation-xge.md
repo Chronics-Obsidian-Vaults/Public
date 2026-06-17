@@ -14,6 +14,15 @@ classes:
 - Wizard
 aliases:
 - Tenser's Transformation
+level: 6
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a few hairs from a bull)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Tenser's Transformation
 *6th-level, Transmutation*  

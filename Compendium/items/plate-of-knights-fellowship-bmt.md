@@ -8,6 +8,10 @@ tags:
 - source/item/rarity/uncommon
 aliases: 
 - "Plate of Knight's Fellowship"
+item_type: armor
+item_subtype: heavy
+rarity: uncommon
+attunement: required
 ---
 # Plate of Knight's Fellowship
 *Heavy armor ([plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)), uncommon (requires attunement)*  

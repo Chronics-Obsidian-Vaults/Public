@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Thunder Step
+level: 3
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "90 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Thunder Step
 *3rd-level, Conjuration*  

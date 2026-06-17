@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/rod
 aliases: 
 - "Rod of Retribution"
+item_type: wondrous
+item_subtype: rod
+rarity: uncommon
+attunement: required
 ---
 # Rod of Retribution
 *Rod, uncommon (requires attunement)*  

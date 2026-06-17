@@ -14,6 +14,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Planar Ally
+level: 6
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: "60 feet"
+components: "V, S"
+duration: Instantaneous
+components_vsm: [V, S]
 ---
 # Planar Ally
 *6th-level, Conjuration*  

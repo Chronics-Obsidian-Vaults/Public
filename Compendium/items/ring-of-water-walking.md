@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/ring
 aliases: 
 - "Ring of Water Walking"
+item_type: wondrous
+item_subtype: ring
+rarity: uncommon
+attunement: none
 ---
 # Ring of Water Walking
 *Ring, major, uncommon*  

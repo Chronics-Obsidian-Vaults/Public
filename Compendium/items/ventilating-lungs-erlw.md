@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Ventilating Lungs"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Ventilating Lungs
 *Wondrous item, rare (requires attunement)*  

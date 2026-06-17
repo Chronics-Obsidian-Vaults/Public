@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Planecaller's Codex"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Planecaller's Codex
 *Wondrous item, rare (requires attunement by a wizard)*  

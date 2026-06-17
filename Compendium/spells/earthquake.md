@@ -18,6 +18,15 @@ classes:
 - Sorcerer (Divine Soul, Good)
 aliases:
 - Earthquake
+level: 8
+school: evocation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "500 feet"
+components: "V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Earthquake
 *8th-level, Evocation*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/rare
 aliases: 
 - "Helm of the Gods"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: required
 ---
 # Helm of the Gods
 *Wondrous item, rare (requires attunement)*  

@@ -9,6 +9,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff of the Adder"
+item_type: weapon
+item_subtype: simple
+rarity: uncommon
+attunement: required
 ---
 # Staff of the Adder
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warlock)*  

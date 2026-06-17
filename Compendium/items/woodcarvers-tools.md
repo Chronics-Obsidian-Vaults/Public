@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Woodcarver's Tools"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Woodcarver's Tools
 *Artisan's tools*  

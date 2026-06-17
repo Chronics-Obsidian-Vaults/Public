@@ -29,6 +29,15 @@ classes:
 - Ranger
 aliases:
 - Speak with Animals
+level: 1
+ritual: true
+school: divination
+concentration: false
+casting_time: "1 Action unless cast as a ritual"
+range: Self
+components: "V, S"
+duration: "10 minutes"
+components_vsm: [V, S]
 ---
 # Speak with Animals
 *1st-level, Divination (ritual)*  

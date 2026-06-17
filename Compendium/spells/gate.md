@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Gate
+level: 9
+school: conjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a diamond worth at least 5,000 gp)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Gate
 *9th-level, Conjuration*  

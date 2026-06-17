@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Medallion of Thoughts"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Medallion of Thoughts
 *Wondrous item, major, uncommon (requires attunement)*  

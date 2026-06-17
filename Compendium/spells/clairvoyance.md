@@ -32,6 +32,15 @@ classes:
 - Wizard
 aliases:
 - Clairvoyance
+level: 3
+school: divination
+ritual: false
+concentration: false
+casting_time: "10 minutes"
+range: "1 miles"
+components: "V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)"
+duration: "Concentration, up to 10 minutes"
+components_vsm: [V, S, M]
 ---
 # Clairvoyance
 *3rd-level, Divination*  

@@ -17,6 +17,15 @@ classes:
 - Warlock
 aliases:
 - Armor of Agathys
+level: 1
+school: abjuration
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a cup of water)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # Armor of Agathys
 *1st-level, Abjuration*  

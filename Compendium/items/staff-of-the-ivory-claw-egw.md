@@ -8,6 +8,10 @@ tags:
 - source/item/weapon/simple
 aliases: 
 - "Staff of the Ivory Claw"
+item_type: weapon
+item_subtype: simple
+rarity: rare
+attunement: required
 ---
 # Staff of the Ivory Claw
 *Staff, weapon, rare (requires attunement by a spellcaster)*  

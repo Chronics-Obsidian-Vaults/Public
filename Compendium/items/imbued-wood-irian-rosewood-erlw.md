@@ -13,6 +13,10 @@ aliases:
 - "Irian Rosewood Rod"
 - "Irian Rosewood Staff"
 - "Irian Rosewood Wand"
+item_type: wondrous
+item_subtype: "generic-variant, simple"
+rarity: common
+attunement: required
 ---
 # Imbued Wood (Irian Rosewood)
 *Wondrous item, common (requires attunement)*  

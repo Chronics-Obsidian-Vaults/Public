@@ -20,6 +20,10 @@ aliases:
 - "Giant Slayer Rapier"
 - "Giant Slayer Scimitar"
 - "Giant Slayer Shortsword"
+item_type: wondrous
+item_subtype: "generic-variant, martial, melee, simple"
+rarity: rare
+attunement: none
 ---
 # Giant Slayer
 *Major, rare*  

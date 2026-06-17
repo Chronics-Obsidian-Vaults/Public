@@ -24,6 +24,15 @@ classes:
 - Wizard
 aliases:
 - Suggestion
+level: 2
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)"
+duration: "Concentration, up to 8 hours"
+components_vsm: [V, M]
 ---
 # Suggestion
 *2nd-level, Enchantment*  

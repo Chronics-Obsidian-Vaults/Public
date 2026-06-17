@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/legendary
 aliases: 
 - "Grimoire Infinitus (Exalted)"
+item_type: 
+item_subtype: 
+rarity: legendary
+attunement: required
 ---
 # Grimoire Infinitus (Exalted)
 *Wondrous item, legendary (requires attunement by a wizard)*  

@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/unknown
 aliases: 
 - "Oloore Root Teabag"
+item_type: 
+item_subtype: 
+rarity: unknown
+attunement: none
 ---
 # Oloore Root Teabag
 *Illegal drug*  

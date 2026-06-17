@@ -13,6 +13,10 @@ aliases:
 - "Shavarran Birch Rod"
 - "Shavarran Birch Staff"
 - "Shavarran Birch Wand"
+item_type: wondrous
+item_subtype: "generic-variant, simple"
+rarity: common
+attunement: required
 ---
 # Imbued Wood (Shavarran Birch)
 *Wondrous item, common (requires attunement)*  

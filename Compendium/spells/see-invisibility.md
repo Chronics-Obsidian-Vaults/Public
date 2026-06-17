@@ -25,6 +25,15 @@ classes:
 - Wizard
 aliases:
 - See Invisibility
+level: 2
+school: divination
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: Self
+components: "V, S, M (a pinch of talc and a small sprinkling of powdered silver)"
+duration: "1 hour"
+components_vsm: [V, S, M]
 ---
 # See Invisibility
 *2nd-level, Divination*  

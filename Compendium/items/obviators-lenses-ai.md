@@ -6,6 +6,10 @@ tags:
 - source/item/rarity/varies
 aliases: 
 - "Obviator's Lenses"
+item_type: 
+item_subtype: 
+rarity: varies
+attunement: none
 ---
 # Obviator's Lenses
 *Wondrous item*  

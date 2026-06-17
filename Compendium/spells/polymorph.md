@@ -24,6 +24,15 @@ classes:
 - Wizard
 aliases:
 - Polymorph
+level: 4
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: "V, S, M (a caterpillar cocoon)"
+duration: "Concentration, up to 1 hour"
+components_vsm: [V, S, M]
 ---
 # Polymorph
 *4th-level, Transmutation*  

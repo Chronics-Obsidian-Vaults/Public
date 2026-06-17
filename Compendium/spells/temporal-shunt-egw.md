@@ -10,6 +10,15 @@ classes:
 - Bard (Magical Secrets)
 aliases:
 - Temporal Shunt
+level: 5
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Reaction"
+range: "120 feet"
+components: "V, S"
+duration: "1 round"
+components_vsm: [V, S]
 ---
 # Temporal Shunt
 *5th-level, Transmutation*  

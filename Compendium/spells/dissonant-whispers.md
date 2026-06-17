@@ -17,6 +17,15 @@ classes:
 - Warlock (The Great Old One)
 aliases:
 - Dissonant Whispers
+level: 1
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "60 feet"
+components: V
+duration: Instantaneous
+components_vsm: [V]
 ---
 # Dissonant Whispers
 *1st-level, Enchantment*  

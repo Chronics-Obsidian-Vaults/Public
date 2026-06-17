@@ -23,6 +23,10 @@ aliases:
 - "Last Stand Spiked Armor"
 - "Last Stand Splint Armor"
 - "Last Stand Studded Leather Armor"
+item_type: wondrous
+item_subtype: "generic-variant, heavy, light, medium"
+rarity: very-rare
+attunement: none
 ---
 # Last Stand Armor
 *Very rare*  

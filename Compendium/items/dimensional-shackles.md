@@ -7,6 +7,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Dimensional Shackles"
+item_type: 
+item_subtype: 
+rarity: rare
+attunement: none
 ---
 # Dimensional Shackles
 *Wondrous item, major, rare*  

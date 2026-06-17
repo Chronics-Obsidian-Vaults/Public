@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Boots of the Winterlands"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: required
 ---
 # Boots of the Winterlands
 *Wondrous item, major, uncommon (requires attunement)*  

@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Seeming
+level: 5
+school: illusion
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: "8 hours"
+components_vsm: [V, S]
 ---
 # Seeming
 *5th-level, Illusion*  

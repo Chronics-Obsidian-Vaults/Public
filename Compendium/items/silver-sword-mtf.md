@@ -10,6 +10,10 @@ tags:
 - source/item/weapon/melee
 aliases: 
 - "Silver Sword"
+item_type: weapon
+item_subtype: "martial, melee"
+rarity: unknown/magic
+attunement: required
 ---
 # Silver Sword
 *Weapon, major (requires attunement by a creature that has psionic ability)*  

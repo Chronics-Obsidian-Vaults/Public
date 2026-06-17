@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Cloth-of-gold vestments"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Cloth-of-gold vestments
 *Treasure (art object)*  

@@ -22,6 +22,15 @@ classes:
 - Wizard
 aliases:
 - Charm Monster
+level: 4
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S"
+duration: "1 hour"
+components_vsm: [V, S]
 ---
 # Charm Monster
 *4th-level, Enchantment*  

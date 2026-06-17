@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Gold bird cage with electrum filigree"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Gold bird cage with electrum filigree
 *Treasure (art object)*  

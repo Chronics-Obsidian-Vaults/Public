@@ -8,6 +8,10 @@ tags:
 - source/item/wondrous/tattoo
 aliases: 
 - "Blood Fury Tattoo"
+item_type: wondrous
+item_subtype: tattoo
+rarity: legendary
+attunement: required
 ---
 # Blood Fury Tattoo
 *Wondrous item (tattoo), legendary (requires attunement)*  

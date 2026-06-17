@@ -8,6 +8,10 @@ tags:
 - source/item/tier/major
 aliases: 
 - "Glamoured Studded Leather"
+item_type: armor
+item_subtype: light
+rarity: rare
+attunement: none
 ---
 # Glamoured Studded Leather
 *Light armor, major, rare*  

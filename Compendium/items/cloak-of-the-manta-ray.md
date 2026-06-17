@@ -7,6 +7,10 @@ tags:
 - source/item/tier/minor
 aliases: 
 - "Cloak of the Manta Ray"
+item_type: 
+item_subtype: 
+rarity: uncommon
+attunement: none
 ---
 # Cloak of the Manta Ray
 *Wondrous item, minor, uncommon*  

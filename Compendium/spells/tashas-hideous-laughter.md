@@ -20,6 +20,15 @@ classes:
 - Wizard
 aliases:
 - Tasha's Hideous Laughter
+level: 1
+school: enchantment
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (tiny tarts and a feather that is waved in the air)"
+duration: "Concentration, up to 1 minute"
+components_vsm: [V, S, M]
 ---
 # Tasha's Hideous Laughter
 *1st-level, Enchantment*  

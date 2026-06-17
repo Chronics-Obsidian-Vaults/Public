@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Arcane Focus"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Arcane Focus
 *Spellcasting focus*  

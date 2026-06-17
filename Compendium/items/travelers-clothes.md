@@ -7,6 +7,10 @@ tags:
 - source/item/rarity/none
 aliases: 
 - "Traveler's Clothes"
+item_type: 
+item_subtype: 
+rarity: none
+attunement: none
 ---
 # Traveler's Clothes
 *Adventuring gear*  

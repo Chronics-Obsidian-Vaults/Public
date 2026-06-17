@@ -23,6 +23,15 @@ classes:
 - Warlock (The Fathomless)
 aliases:
 - Create or Destroy Water
+level: 1
+school: transmutation
+ritual: false
+concentration: false
+casting_time: "1 Action"
+range: "30 feet"
+components: "V, S, M (a drop of water if creating water or a few grains of sand if destroying it)"
+duration: Instantaneous
+components_vsm: [V, S, M]
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  
