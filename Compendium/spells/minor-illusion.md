@@ -2,48 +2,50 @@
 obsidianUIMode: preview
 cssclasses: json5e-spell
 tags:
-- source/compendium/src/5e/phb
-- source/spell/class/bard/magical-secrets
-- source/spell/class/sorcerer
-- source/spell/class/warlock
-- source/spell/class/wizard
-- source/spell/feat/aberrant-dragonmark
-- source/spell/feat/magic-initiate/wizard-spells
-- source/spell/level/cantrip
-- source/spell/optfeature/pact-of-the-tome
-- source/spell/race/kobold
-- source/spell/school/illusion
-- source/spell/subclass/arcana-domain
-- source/spell/subclass/arcane-trickster
-- source/spell/subclass/eldritch-knight
-- source/spell/subclass/school-of-illusion
-- source/spell/subclass/way-of-shadow
-- source/spell/subrace/elf-high
-- source/spell/subrace/elf-mark-of-shadow
-- source/spell/subrace/gnome-forest
-- source/spell/subrace/half-elf-moon-elf-or-sun-elf-descent
-- source/spell/subrace/tiefling-glasya
+  - source/compendium/src/5e/phb
+  - source/spell/class/bard/magical-secrets
+  - source/spell/class/sorcerer
+  - source/spell/class/warlock
+  - source/spell/class/wizard
+  - source/spell/feat/aberrant-dragonmark
+  - source/spell/feat/magic-initiate/wizard-spells
+  - source/spell/level/cantrip
+  - source/spell/optfeature/pact-of-the-tome
+  - source/spell/race/kobold
+  - source/spell/school/illusion
+  - source/spell/subclass/arcana-domain
+  - source/spell/subclass/arcane-trickster
+  - source/spell/subclass/eldritch-knight
+  - source/spell/subclass/school-of-illusion
+  - source/spell/subclass/way-of-shadow
+  - source/spell/subrace/elf-high
+  - source/spell/subrace/elf-mark-of-shadow
+  - source/spell/subrace/gnome-forest
+  - source/spell/subrace/half-elf-moon-elf-or-sun-elf-descent
+  - source/spell/subrace/tiefling-glasya
 classes:
-- Bard (Magical Secrets)
-- Cleric (Arcana Domain)
-- Fighter (Eldritch Knight)
-- Monk (Way of Shadow)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warlock
-- Wizard
-- Wizard (School of Illusion)
+  - Bard (Magical Secrets)
+  - Cleric (Arcana Domain)
+  - Fighter (Eldritch Knight)
+  - Monk (Way of Shadow)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (School of Illusion)
 aliases:
-- Minor Illusion
+  - Minor Illusion
 level: 0
 school: illusion
 ritual: false
 concentration: false
-casting_time: "1 Action"
-range: "30 feet"
-components: "S, M (a bit of fleece)"
-duration: "1 minute"
-components_vsm: [S, M]
+casting_time: 1 Action
+range: 30 feet
+components: S, M (a bit of fleece)
+duration: 1 minute
+components_vsm:
+  - S
+  - M
 ---
 # Minor Illusion
 *cantrip, Illusion*  
