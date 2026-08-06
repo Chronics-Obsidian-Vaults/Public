@@ -27,7 +27,7 @@ tags:
 - Jabal
 - Despacho de telas
 - Visita de Aneira a los Zothello
-- Interrogación investigación con el quorum sobre el techo de los Valdris.
+- Interrogación/investigación con el quorum sobre el techo de los Valdris.
 
 **Notas**
 - 6:00 - No he podido conciliar sueño. Mejor.
@@ -39,8 +39,8 @@ tags:
 - 11:30 - La muralla de la casa era un atenuante mágico. Nimue o los Gruhor esconden algo.
 - 11:45 - LA CASA ES UN LIMO. PERO CLARO. ¡¿TODA TU PUTA CASA MAGRIETH ES UN MALDITO LIMO Y HASTA AHORA ME ENTERO?!
 	- Además toda la voz tétrica de las dos resuena en la casa. Viejas mañosas.
-- 12:30 - Las chicas dicen no estar relacionado al tema de Jabal. No se. No me convencen.
-- 13:00 - La caminata de vuelta fue un suplicio. Mucho sol. Ganas de llover. Ninguna buena respuesta. Lo único bueno fue el te. Como siempre.
-- 18:00 - El intento valiente y bien intencionado de Nimue y Magrieth en devolver al sastre dejaron algunas ideas en mi mente que quizás llegue a intentar con mas calma. Y quizás precisión. 
+- 12:30 - Las chicas dicen no estar relacionadas al tema de Jabal. No se. No me convencen.
 	- Por lo menos están avisadas. Dudo igual de sobremanera que ellas dos procuren forjar mi firma para algo así. No caerían tan bajo.
+- 13:00 - La caminata de vuelta fue un suplicio. Mucho sol. Ganas de llover. Ninguna buena respuesta. Lo único bueno fue el té. Como siempre.
+- 18:00 - El intento valiente y bien intencionado de Nimue y Magrieth en devolver al sastre dejaron algunas ideas en mi mente que quizás llegue a intentar con mas calma. Y quizás precisión. 
 - 20:10 - Hasta ahora noto que la libreta me alertó de unos ojos intrusos. ¿Qué tanto busca el sastre entre mis notas?
