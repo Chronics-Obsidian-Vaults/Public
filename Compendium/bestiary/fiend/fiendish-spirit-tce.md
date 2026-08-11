@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fiendish Spirit
+- "Fiendish Spirit"
 ---
-# [Fiendish Spirit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/fiendish-spirit-tce.md)
+# [Fiendish Spirit](Compendium/bestiary/fiend/fiendish-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 112*  
 
 ```statblock
@@ -20,6 +21,8 @@ aliases:
 "type": "fiend"
 "alignment": "Unaligned"
 "ac_class": "12 + the level of the spell (natural armor)"
+"hp": "50 (Demon only) or 40 (Devil only) or 60 (Yugoloth only) + 15 for each spell\
+  \ level above 6th"
 "modifier": !!int "3"
 "stats":
   - !!int "13"
@@ -31,9 +34,8 @@ aliases:
 "speed": "40 ft., climb 40 ft. (demon only), fly 60 ft. (devil only)"
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "traits":
   - "desc": "The fiend has advantage on saving throws against spells and other magical\
@@ -64,6 +66,6 @@ aliases:
     "name": "Hurl Flame (Devil Only)"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/fiendish-spirit-tce.webp"
+"image": "Compendium/bestiary/fiend/token/fiendish-spirit-tce.webp"
 ```
 ^statblock

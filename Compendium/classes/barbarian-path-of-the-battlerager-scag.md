@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/scag
 - source/subclass/barbarian/battlerager
 aliases:
-- Path of the Battlerager
+- "Path of the Battlerager"
 ---
 # Path of the Battlerager
 *[Barbarian](./barbarian.md): Primal Path*  
@@ -43,12 +43,9 @@ aliases:
 
 ^class-progression
 
+Known as Kuldjargh (literally "axe idiot") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, [spiked armor](Compendium/items/spiked-armor-scag.md) and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.
 
-## Class Features
-
-### Path of the Battlerager (Level 3)
-
-Known as Kuldjargh (literally "axe idiot") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, [spiked armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spiked-armor-scag.md) and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.
+## Subclass Features
 
 ### Restriction—Dwarves Only (Level 3)
 
@@ -58,11 +55,11 @@ Your DM can lift this restriction to better suit the campaign. The restriction e
 
 ### Battlerager Armor (Level 3)
 
-When you choose this path at 3rd level, you gain the ability to use [spiked armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spiked-armor-scag.md) as a weapon.
+When you choose this path at 3rd level, you gain the ability to use [spiked armor](Compendium/items/spiked-armor-scag.md) as a weapon.
 
-While you are wearing [spiked armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spiked-armor-scag.md) and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes at a target within 5 feet of you. If the attack hits, the spikes deal `1d4` piercing damage. You use your Strength modifier for the attack and damage rolls.
+While you are wearing [spiked armor](Compendium/items/spiked-armor-scag.md) and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes at a target within 5 feet of you. If the attack hits, the spikes deal `1d4` piercing damage. You use your Strength modifier for the attack and damage rolls.
 
-Additionally, when you use the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.
+Additionally, when you use the [Attack](Rules/actions.md#Attack) action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.
 
 ### Reckless Abandon (Level 6)
 
@@ -70,8 +67,8 @@ Beginning at 6th level, when you use Reckless Attack while raging, you also gain
 
 ### Battlerager Charge (Level 10)
 
-Beginning at 10th level, you can take the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash) action as a bonus action while you are raging.
+Beginning at 10th level, you can take the [Dash](Rules/actions.md#Dash) action as a bonus action while you are raging.
 
 ### Spiked Retribution (Level 14)
 
-Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), and are wearing [spiked armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spiked-armor-scag.md).
+Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't [incapacitated](Rules/conditions.md#Incapacitated), and are wearing [spiked armor](Compendium/items/spiked-armor-scag.md).

@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/gnomish
 - source/domain/nature
-aliases: 
-- Baervan Wildwanderer
+aliases:
+- "Baervan Wildwanderer"
 ---
 # Baervan Wildwanderer
 *Source: Sword Coast Adventurer's Guide p. 24* 

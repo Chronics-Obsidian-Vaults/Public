@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Broodguard
+- "Yuan-ti Broodguard"
 ---
-# [Yuan-ti Broodguard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/yuan-ti-broodguard-mpmm.md)
+# [Yuan-ti Broodguard](Compendium/bestiary/monstrosity/yuan-ti-broodguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*  
 
 > [!quote] A quote from Mordenkainen  
@@ -50,14 +51,12 @@ Most broodguards are made from human captives forced to consume a magical brew t
   - "dexterity": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Abyssal, Common, Draconic"
 "cr": "2"
 "traits":
@@ -77,7 +76,7 @@ Most broodguards are made from human captives forced to consume a magical brew t
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/yuan-ti-broodguard-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/yuan-ti-broodguard-mpmm.webp"
 ```
 ^statblock
 

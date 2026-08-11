@@ -8,12 +8,12 @@ tags:
 - source/domain/life
 - source/domain/light
 - source/domain/war
-aliases: 
-- The Silver Flame
+aliases:
+- "The Silver Flame"
 ---
 # The Silver Flame
 *Source: Eberron: Rising from the Last War p. 141* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/erlw-the-silver-flame.webp#symbol)
+![](Compendium/deities/img/erlw-the-silver-flame.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: Other Faiths of Eberron

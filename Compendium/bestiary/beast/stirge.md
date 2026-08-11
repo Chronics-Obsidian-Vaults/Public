@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -18,10 +19,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stirge
+- "Stirge"
 ---
-# [Stirge](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/stirge.md)
-*Source: Monster Manual p. 284, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Stirge](Compendium/bestiary/beast/stirge.md)
+*Source: Monster Manual p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
 
@@ -49,8 +50,7 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
   - !!int "8"
   - !!int "6"
 "speed": "10 ft., fly 40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": ""
 "cr": "1/8"
 "actions":
@@ -64,8 +64,7 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
     "name": "Blood Drain"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/stirge.webp"
+"image": "Compendium/bestiary/beast/token/stirge.webp"
 ```
 ^statblock
 

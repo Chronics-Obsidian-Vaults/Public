@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Places to Go; Points of Interest
+- "Places to Go; Points of Interest"
 ---
 # Places to Go; Points of Interest
 *Source: Acquisitions Incorporated p. 65* 

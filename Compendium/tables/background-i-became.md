@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Background; I became...
+- "Background; I became..."
 ---
 # Background; I became...
 *Source: Xanathar's Guide to Everything p. 64* 

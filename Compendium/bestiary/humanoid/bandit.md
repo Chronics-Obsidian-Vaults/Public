@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -15,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bandit
+- "Bandit"
 ---
-# [Bandit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/bandit.md)
-*Source: Monster Manual p. 343, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Bandit](Compendium/bestiary/humanoid/bandit.md)
+*Source: Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 
@@ -31,7 +32,7 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 "subtype": "any race"
 "alignment": "Any Non-Lawful alignment"
 "ac": !!int "12"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -43,6 +44,9 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[light crossbow](Compendium/items/light-crossbow.md)"
+  - "[scimitar](Compendium/items/scimitar.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
@@ -55,10 +59,7 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
     "name": "Light Crossbow"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/bandit.webp"
+"image": "Compendium/bestiary/humanoid/token/bandit.webp"
 ```
 ^statblock
 

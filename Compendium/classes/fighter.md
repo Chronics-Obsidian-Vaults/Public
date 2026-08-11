@@ -6,7 +6,7 @@ tags:
 - source/class/fighter
 - source/compendium/src/5e/phb
 aliases:
-- Fighter
+- "Fighter"
 ---
 # Fighter
 *Source: Player's Handbook p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/fighter.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d10 per Fighter level
@@ -51,17 +53,17 @@ aliases:
 ## Starting Fighter
 
 - **Saving Throws**: Constitution, Strength
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor), [medium armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Medium%20Armor), [heavy armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Heavy%20Armor), [shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor), [medium armor](Rules/item-types.md#Medium%20Armor), [heavy armor](Rules/item-types.md#Heavy%20Armor), [shields](Compendium/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
 - **Tools**: none
-- **Skills**: choose 2 from [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), and [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)
+- **Skills**: choose 2 from [Acrobatics](Rules/skills.md#Acrobatics), [Animal Handling](Rules/skills.md#Animal%20Handling), [Athletics](Rules/skills.md#Athletics), [History](Rules/skills.md#History), [Insight](Rules/skills.md#Insight), [Intimidation](Rules/skills.md#Intimidation), [Perception](Rules/skills.md#Perception), and [Survival](Rules/skills.md#Survival)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) [chain mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-mail.md) or (b) [leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md), [longbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longbow.md), and [20 arrows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arrows-20.md)
-- (a) a martial weapon and a [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md) or (b) two martial weapons
-- (a) a [light crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/light-crossbow.md) and [20 bolts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crossbow-bolts-20.md) or (b) two [handaxes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/handaxe.md)
-- (a) a [dungeoneer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md)
+- (a) [chain mail](Compendium/items/chain-mail.md) or (b) [leather armor](Compendium/items/leather-armor.md), [longbow](Compendium/items/longbow.md), and [20 arrows](Compendium/items/arrows-20.md)
+- (a) a martial weapon and a [shield](Compendium/items/shield.md) or (b) two martial weapons
+- (a) a [light crossbow](Compendium/items/light-crossbow.md) and [20 bolts](Compendium/items/crossbow-bolts-20.md) or (b) two [handaxes](Compendium/items/handaxe.md)
+- (a) a [dungeoneer's pack](Compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](Compendium/items/explorers-pack.md)
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -71,9 +73,8 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor), [medium armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Medium%20Armor), [shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor), [medium armor](Rules/item-types.md#Medium%20Armor), [shields](Compendium/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
-
 ## Fighter
 
 A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.
@@ -102,7 +103,7 @@ You might have enjoyed formal training in a noble's army or in a local militia. 
 
 #### Quick Build
 
-You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/soldier.md) background.
+You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [soldier](Compendium/backgrounds/soldier.md) background.
 
 > [!quote] A quote from Tordek  
 > 
@@ -183,12 +184,19 @@ Do you have a combat style that mirrors your outlook on life, or is something el
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [Archery](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/archery.md)  
-- [Defense](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/defense.md)  
-- [Dueling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/dueling.md)  
-- [Great Weapon Fighting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/great-weapon-fighting.md)  
-- [Protection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/protection.md)  
-- [Two-Weapon Fighting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/two-weapon-fighting.md)  
+Options (choose 1):
+
+- [Archery](Compendium/optional-features/archery.md)  
+- [Defense](Compendium/optional-features/defense.md)  
+- [Dueling](Compendium/optional-features/dueling.md)  
+- [Great Weapon Fighting](Compendium/optional-features/great-weapon-fighting.md)  
+- [Protection](Compendium/optional-features/protection.md)  
+- [Two-Weapon Fighting](Compendium/optional-features/two-weapon-fighting.md)  
+- [Blind Fighting](Compendium/optional-features/blind-fighting-tce.md)  
+- [Interception](Compendium/optional-features/interception-tce.md)  
+- [Superior Technique](Compendium/optional-features/superior-technique-tce.md)  
+- [Thrown Weapon Fighting](Compendium/optional-features/thrown-weapon-fighting-tce.md)  
+- [Unarmed Fighting](Compendium/optional-features/unarmed-fighting-tce.md)  
 
 ### Second Wind (Level 1)
 
@@ -215,16 +223,16 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 41_
 
-*4th-level fighter [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*4th-level fighter [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 
-- Replace a [fighting style](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-fs-f.md) you know with another fighting style available to fighters.  
-- If you know any [maneuvers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-mv-b.md) from the [Battle Master](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/fighter-battle-master.md) archetype, you can replace one maneuver you know with a different maneuver.  
+- Replace a [fighting style](Compendium/lists/list-optfeaturetype-fs-f.md) you know with another fighting style available to fighters.  
+- If you know any [maneuvers](Compendium/lists/list-optfeaturetype-mv-b.md) from the [Battle Master](Compendium/classes/fighter-battle-master.md) archetype, you can replace one maneuver you know with a different maneuver.  
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](Rules/actions.md#Attack) action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
@@ -256,7 +264,7 @@ At 10th level, you gain a feature granted by your Martial Archetype.
 
 ### Extra Attack (2) (Level 11)
 
-At 11th level, you can attack three times whenever you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn.
+At 11th level, you can attack three times whenever you take the [Attack](Rules/actions.md#Attack) action on your turn.
 
 ### Ability Score Improvement (Level 12)
 
@@ -304,10 +312,10 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (3) (Level 20)
 
-At 20th level, you can attack four times whenever you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn.
+At 20th level, you can attack four times whenever you take the [Attack](Rules/actions.md#Attack) action on your turn.
 
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Fighter
-> ![Fighting Style, Fighter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
+> ![Fighting Style, Fighter](Compendium/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
 ^list-optfeature-fs-f

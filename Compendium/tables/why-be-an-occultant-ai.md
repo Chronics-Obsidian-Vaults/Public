@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Why Be an Occultant?
+- "Why Be an Occultant?"
 ---
 # Why Be an Occultant?
 *Source: Acquisitions Incorporated p. 32* 

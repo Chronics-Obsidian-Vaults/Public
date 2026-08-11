@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/11
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Behir
+- "Behir"
 ---
-# [Behir](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/behir.md)
-*Source: Monster Manual p. 25, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Behir](Compendium/bestiary/monstrosity/behir.md)
+*Source: Monster Manual p. 25. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The serpentine behir crawls along floors and clambers up walls to reach its prey. Its lightning breath can incinerate most creatures, even as more powerful foes are constricted in its coils and eaten alive.
 
@@ -55,13 +56,12 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
   - !!int "12"
 "speed": "50 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "lightning"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 90 ft., passive Perception 16"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 90 ft., passive Perception 16"
 "languages": "Draconic"
 "cr": "11"
 "actions":
@@ -72,10 +72,9 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one Large or smaller\
       \ creature. *Hit:* 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing\
-      \ damage. The target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 16) if the behir isn't already constricting a creature, and the\
-      \ target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ until this grapple ends."
+      \ damage. The target is [grappled](Rules/conditions.md#Grappled) (escape DC\
+      \ 16) if the behir isn't already constricting a creature, and the target is\
+      \ [restrained](Rules/conditions.md#Restrained) until this grapple ends."
     "name": "Constrict"
   - "desc": "The behir exhales a line of lightning that is 20 feet long and 5 feet\
       \ wide. Each creature in that line must make a DC 16 Dexterity saving throw,\
@@ -84,24 +83,21 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
     "name": "Lightning Breath (Recharge 5-6)"
   - "desc": "The behir makes one bite attack against a Medium or smaller target it\
       \ is grappling. If the attack hits, the target is also swallowed, and the grapple\
-      \ ends. While swallowed, the target is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-      \ it has total cover against attacks and other effects outside the behir, and\
-      \ it takes 21 (6d6) acid damage at the start of each of the behir's turns. A\
-      \ behir can have only one creature swallowed at a time.\n\nIf the behir takes\
-      \ 30 damage or more on a single turn from the swallowed creature, the behir\
-      \ must succeed on a DC 14 Constitution saving throw at the end of that turn\
-      \ or regurgitate the creature, which falls [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
-      \ in a space within 10 feet of the behir. If the behir dies, a swallowed creature\
-      \ is no longer [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ ends. While swallowed, the target is [blinded](Rules/conditions.md#Blinded)\
+      \ and [restrained](Rules/conditions.md#Restrained), it has total cover against\
+      \ attacks and other effects outside the behir, and it takes 21 (6d6) acid damage\
+      \ at the start of each of the behir's turns. A behir can have only one creature\
+      \ swallowed at a time.\n\nIf the behir takes 30 damage or more on a single turn\
+      \ from the swallowed creature, the behir must succeed on a DC 14 Constitution\
+      \ saving throw at the end of that turn or regurgitate the creature, which falls\
+      \ [prone](Rules/conditions.md#Prone) in a space within 10 feet of the behir.\
+      \ If the behir dies, a swallowed creature is no longer [restrained](Rules/conditions.md#Restrained)\
       \ by it and can escape from the corpse by using 15 feet of movement, exiting\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ [prone](Rules/conditions.md#Prone)."
     "name": "Swallow"
 "source":
   - "MM"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/behir.webp"
+"image": "Compendium/bestiary/monstrosity/token/behir.webp"
 ```
 ^statblock
 

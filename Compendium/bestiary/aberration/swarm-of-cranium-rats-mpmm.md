@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Cranium Rats
+- "Swarm of Cranium Rats"
 ---
-# [Swarm of Cranium Rats](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/swarm-of-cranium-rats-mpmm.md)
+# [Swarm of Cranium Rats](Compendium/bestiary/aberration/swarm-of-cranium-rats-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
 
 ## Cranium Rat
@@ -40,16 +41,11 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   - !!int "14"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained), [stunned](Rules/conditions.md#Stunned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 10"
 "languages": "telepathy 30 ft."
 "cr": "5"
 "traits":
@@ -68,11 +64,9 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   - "desc": "As long as it has more than half of its hit points remaining, the swarm\
       \ casts one of the following spells, requiring no spell components and using\
       \ Intelligence as the spellcasting ability (spell save DC 13):\n\n**At will:**\
-      \ [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [comprehend languages](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/comprehend-languages.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md)\n\
-      \n**1/day each:** [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md)"
+      \ [command](Compendium/spells/command.md), [comprehend languages](Compendium/spells/comprehend-languages.md),\
+      \ [detect thoughts](Compendium/spells/detect-thoughts.md)\n\n**1/day each:**\
+      \ [confusion](Compendium/spells/confusion.md), [dominate monster](Compendium/spells/dominate-monster.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The swarm sheds dim light from its brains in a 5-foot radius, increases\
@@ -83,7 +77,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/swarm-of-cranium-rats-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/swarm-of-cranium-rats-mpmm.webp"
 ```
 ^statblock
 

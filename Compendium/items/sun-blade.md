@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
@@ -8,7 +9,7 @@ tags:
 - source/item/tier/major
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Sun Blade"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -16,16 +17,16 @@ rarity: rare
 attunement: required
 ---
 # Sun Blade
-*Weapon ([longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md)), major, rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/sun-blade.webp#right)
+*Weapon ([longsword](Compendium/items/longsword.md)), major, rare (requires attunement)*  
+![](Compendium/items/img/sun-blade.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 radiant
   - Two-handed: 1d10 radiant
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
-This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with [shortswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md) or [longswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md), you are proficient with the sun blade.
+This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with [shortswords](Compendium/items/shortsword.md) or [longswords](Compendium/items/longsword.md), you are proficient with the sun blade.
 
 You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `1d8` radiant damage.
 

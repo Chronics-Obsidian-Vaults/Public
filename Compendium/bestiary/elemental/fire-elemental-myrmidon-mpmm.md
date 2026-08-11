@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/7
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Elemental Myrmidon
+- "Fire Elemental Myrmidon"
 ---
-# [Fire Elemental Myrmidon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/fire-elemental-myrmidon-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203, The Book of Many Things*  
+# [Fire Elemental Myrmidon](Compendium/bestiary/elemental/fire-elemental-myrmidon-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 
 ## Elemental Myrmidons
 
@@ -24,7 +25,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate](Compendium/items/plate-armor.md)"
 "hp": !!int "123"
 "hit_dice": "19d8 + 38"
 "modifier": !!int "4"
@@ -38,12 +39,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone)"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Ignan, one language of its creator's choice"
 "cr": "7"
 "traits":
@@ -65,7 +65,6 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "source":
   - "MPMM"
   - "MTF"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/fire-elemental-myrmidon-mpmm.webp"
+"image": "Compendium/bestiary/elemental/token/fire-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock

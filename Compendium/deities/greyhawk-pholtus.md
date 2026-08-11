@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/light
 - source/domain/order
-aliases: 
-- Pholtus
+aliases:
+- "Pholtus"
 ---
 # Pholtus
 *Source: Player's Handbook p. 295* 

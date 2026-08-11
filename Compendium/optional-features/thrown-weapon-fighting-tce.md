@@ -7,7 +7,7 @@ tags:
 - source/optional-feature/fs-f
 - source/optional-feature/fs-r
 aliases:
-- Thrown Weapon Fighting
+- "Thrown Weapon Fighting"
 ---
 # Thrown Weapon Fighting
 *Source: Tasha's Cauldron of Everything p. 42*  

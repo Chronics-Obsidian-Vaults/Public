@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/24
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dyrrn
+- "Dyrrn"
 ---
-# [Dyrrn](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/dyrrn-erlw.md)
+# [Dyrrn](Compendium/bestiary/npc/dyrrn-erlw.md)
 *Source: Eberron: Rising from the Last War p. 288*  
 
 Dyrrn is known to its followers as the Corruptor, the Stealer of Thoughts, the Slithering Lord, and the Foul Labyrinth. In the lore of the Gatekeepers, it is said that Dyrrn plants thoughts in the weak minded—the seeds of terrible ideas that fester and grow. Those who are particularly brilliant often draw the attention of the Foul Labyrinth, which hungers to consume unique minds.
@@ -71,30 +72,25 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
   - "wisdom": !!int "13"
   - "charisma": !!int "14"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+15"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+15"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+13"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+13"
 "damage_resistances": "poison, psychic"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 23"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 23"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "24"
 "traits":
   - "desc": "If a creature tries to read Dyrrn's thoughts or deals psychic damage\
       \ to it, that creature must succeed on a DC 23 Intelligence saving throw or\
-      \ be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. The [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ be [stunned](Rules/conditions.md#Stunned) for 1 minute. The [stunned](Rules/conditions.md#Stunned)\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Alien Mind"
@@ -113,15 +109,15 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
 "actions":
   - "desc": "Dyrrn makes one Tentacle Whip attack and uses its Corruption once. Dyrrn\
       \ can replace its Tentacle Whip attack with Extract Brain if it has a creature\
-      \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)."
+      \ [grappled](Rules/conditions.md#Grappled)."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 24\
       \ (3d10 + 8) slashing damage. If the target is a Medium or smaller creature,\
-      \ it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 23), pulled into an unoccupied space within 5 feet of Dyrrn, and\
-      \ must succeed on a DC 23 Intelligence saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until this grapple ends. Dyrrn can't use the same tentacle whip on another\
-      \ target until this grapple ends. Dyrrn has two tentacle whips."
+      \ it is [grappled](Rules/conditions.md#Grappled) (escape DC 23), pulled into\
+      \ an unoccupied space within 5 feet of Dyrrn, and must succeed on a DC 23 Intelligence\
+      \ saving throw or be [stunned](Rules/conditions.md#Stunned) until this grapple\
+      \ ends. Dyrrn can't use the same tentacle whip on another target until this\
+      \ grapple ends. Dyrrn has two tentacle whips."
     "name": "Tentacle Whip"
   - "desc": "Dyrrn targets one creature it can see within 60 feet of it. The target\
       \ must succeed on a DC 23 Constitution saving throw or take 22 (4d6 + 8) necrotic\
@@ -132,10 +128,10 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Corruption"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by Dyrrn. *Hit:* 55 (10d10) piercing damage. If this damage reduces the target\
-      \ to 0 hit points, Dyrrn kills the target by extracting and devouring its brain."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one [incapacitated](Rules/conditions.md#Incapacitated)\
+      \ creature [grappled](Rules/conditions.md#Grappled) by Dyrrn. *Hit:* 55 (10d10)\
+      \ piercing damage. If this damage reduces the target to 0 hit points, Dyrrn\
+      \ kills the target by extracting and devouring its brain."
     "name": "Extract Brain"
 "lair_actions":
   - "desc": "While within the Palace of Sinew, Dyrrn can invoke the ambient magic\
@@ -144,15 +140,15 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
       \ the same effect two rounds in a row:\n\n- Dyrrn uses its Corruption action.\
       \  \n- A 30-foot-square area of ground within 120 feet of Dyrrn sprouts tentacles\
       \ until initiative count 20 on the next round. Any creature that starts or ends\
-      \ its turn in the area must succeed on a DC 23 Strength saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
-      \ A creature can escape the tentacles with a successful DC 23 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics))\
-      \ or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics))\
-      \ check as an action.  \n- Each creature of Dyrrn's choice that it can see within\
-      \ 120 feet of it must succeed on a DC 23 Wisdom saving throw or take 26 (4d12)\
-      \ psychic damage. Unless the target has immunity to psychic damage, its Intelligence\
-      \ score is reduced by 1d4 each time it fails the saving throw for this lair\
-      \ action. The target dies if its Intelligence score is reduced to 0. The reduction\
-      \ lasts until the target finishes a short or long rest.  "
+      \ its turn in the area must succeed on a DC 23 Strength saving throw or be [restrained](Rules/conditions.md#Restrained).\
+      \ A creature can escape the tentacles with a successful DC 23 Strength ([Athletics](Rules/skills.md#Athletics))\
+      \ or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check as an action.\
+      \  \n- Each creature of Dyrrn's choice that it can see within 120 feet of it\
+      \ must succeed on a DC 23 Wisdom saving throw or take 26 (4d12) psychic damage.\
+      \ Unless the target has immunity to psychic damage, its Intelligence score is\
+      \ reduced by 1d4 each time it fails the saving throw for this lair action. The\
+      \ target dies if its Intelligence score is reduced to 0. The reduction lasts\
+      \ until the target finishes a short or long rest.  "
     "name": ""
 "regional_effects":
   - "desc": "A region containing a passage to Dyrrn's lair is warped in one or more\
@@ -189,12 +185,12 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
     "name": "Spawn Aberration (Costs 2 Actions)"
   - "desc": "Dyrrn magically emits psychic energy in a 60-foot cone. Each creature\
       \ in that area must succeed on a DC 23 Intelligence saving throw or take 30\
-      \ (5d8 + 8) psychic damage and be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ (5d8 + 8) psychic damage and be [stunned](Rules/conditions.md#Stunned) for\
+      \ 1 minute. A creature can repeat the saving throw at the end of each of its\
+      \ turns, ending the effect on itself on a success."
     "name": "Mind Blast (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/dyrrn-erlw.webp"
+"image": "Compendium/bestiary/npc/token/dyrrn-erlw.webp"
 ```
 ^statblock

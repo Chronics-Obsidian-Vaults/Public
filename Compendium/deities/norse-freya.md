@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/norse
 - source/domain/life
-aliases: 
-- Freya
+aliases:
+- "Freya"
 ---
 # Freya
 *Source: Player's Handbook p. 299* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brahma Lutier
+- "Brahma Lutier"
 ---
-# [Brahma Lutier](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/brahma-lutier-ai.md)
+# [Brahma Lutier](Compendium/bestiary/npc/brahma-lutier-ai.md)
 *Source: Acquisitions Incorporated p. 205*  
 
 Formally a former member of the "B" Team, Brahma Lutier is a gifted cartographer, spy, and troubadour. Tutored in at least the latter of those vocations by Audra Courtier (wife of Propha Dran and co-owner of the Dran & Courtier inn of Red Larch), Brahma's specialty is a song of domination that is legendarily difficult to resist.
@@ -37,11 +38,11 @@ Her retirement is said to be connected to a falling out with husband Oak Truestr
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+5"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+5"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish"
@@ -49,18 +50,15 @@ Her retirement is said to be connected to a falling out with husband Oak Truestr
 "traits":
   - "desc": "Brahma is a 4th-level spellcaster. Her spellcasting ability is Charisma\
       \ (spell save DC 13, +5 to hit with spell attacks). She has the following bard\
-      \ spells prepared:\n\n**Cantrips (at will):** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [vicious mockery](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vicious-mockery.md)\n\
-      \n**1st level (4 slots):** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [heroism](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heroism.md),\
-      \ [illusory script](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/illusory-script.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md),\
-      \ [unseen servant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/unseen-servant.md)\n\
-      \n**2nd level (3 slots):** [cloud of daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloud-of-daggers.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [mage hand](Compendium/spells/mage-hand.md),\
+      \ [message](Compendium/spells/message.md), [vicious mockery](Compendium/spells/vicious-mockery.md)\n\
+      \n**1st level (4 slots):** [charm person](Compendium/spells/charm-person.md),\
+      \ [heroism](Compendium/spells/heroism.md), [illusory script](Compendium/spells/illusory-script.md),\
+      \ [sleep](Compendium/spells/sleep.md), [unseen servant](Compendium/spells/unseen-servant.md)\n\
+      \n**2nd level (3 slots):** [cloud of daggers](Compendium/spells/cloud-of-daggers.md),\
+      \ [invisibility](Compendium/spells/invisibility.md)"
     "name": "Spellcasting"
-  - "desc": "Brahma has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "Brahma has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put her to sleep."
     "name": "Fey Ancestry"
   - "desc": "Brahma can use a bonus action to target one creature she can see within\
@@ -73,16 +71,16 @@ Her retirement is said to be connected to a falling out with husband Oak Truestr
       \ + 2) slashing damage."
     "name": "War Lute"
   - "desc": "Brahma targets one creature that can see or hear her, which must succeed\
-      \ on a DC 13 Wisdom saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ on a DC 13 Wisdom saving throw or be [charmed](Rules/conditions.md#Charmed)\
       \ by her for 1 minute. The target can repeat the save at the end of each of\
       \ its turns, ending the effect on itself on a success. It has disadvantage on\
-      \ these saves if being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by Brahma is something the target openly or secretly desires. For 1 hour after\
-      \ the charm effect ends, the target has disadvantage on Intelligence, Wisdom,\
-      \ or Charisma checks made as part of a contest with Brahma."
+      \ these saves if being [charmed](Rules/conditions.md#Charmed) by Brahma is something\
+      \ the target openly or secretly desires. For 1 hour after the charm effect ends,\
+      \ the target has disadvantage on Intelligence, Wisdom, or Charisma checks made\
+      \ as part of a contest with Brahma."
     "name": "Song of Domination (3/Day)"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/brahma-lutier-ai.webp"
+"image": "Compendium/bestiary/npc/token/brahma-lutier-ai.webp"
 ```
 ^statblock

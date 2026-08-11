@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases:
-- Tenser's Transformation
+- "Tenser's Transformation"
 level: 6
 school: transmutation
 ritual: false
@@ -40,10 +41,10 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 - When you hit a target with a weapon attack, that target takes an extra `2d12` force damage.  
 - You have proficiency with all armor, shields, simple weapons, and martial weapons.  
 - You have proficiency in Strength and Constitution saving throws.  
-- You can attack twice, instead of once, when you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.  
+- You can attack twice, instead of once, when you take the [Attack](Rules/actions.md#Attack) action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.  
 
-Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion).
+Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [exhaustion](Rules/conditions.md#Exhaustion).
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 168*

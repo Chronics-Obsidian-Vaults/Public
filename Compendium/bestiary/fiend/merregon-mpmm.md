@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merregon
+- "Merregon"
 ---
-# [Merregon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/merregon-mpmm.md)
+# [Merregon](Compendium/bestiary/fiend/merregon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166*  
 
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
@@ -42,14 +43,15 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[halberd](Compendium/items/halberd.md)"
+  - "[heavy crossbow](Compendium/items/heavy-crossbow.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "understands Infernal but can't speak, telepathy 120 ft."
 "cr": "4"
 "traits":
-  - "desc": "Magical darkness doesn't impede the merregon's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the merregon's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The merregon has advantage on saving throws against spells and other\
       \ magical effects."
@@ -70,6 +72,6 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/merregon-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/merregon-mpmm.webp"
 ```
 ^statblock

@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/halfling
 - source/domain/trickery
-aliases: 
-- Brandobaris
+aliases:
+- "Brandobaris"
 ---
 # Brandobaris
 *Source: Mordenkainen's Tome of Foes p. 104* 

@@ -7,8 +7,8 @@ tags:
 - source/deity/gnome
 - source/domain/arcana
 - source/domain/trickery
-aliases: 
-- Baravar Cloakshadow
+aliases:
+- "Baravar Cloakshadow"
 ---
 # Baravar Cloakshadow
 *Source: Mordenkainen's Tome of Foes p. 111* 

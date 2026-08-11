@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Poltergeist
+- "Poltergeist"
 ---
-# [Poltergeist](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/poltergeist.md)
+# [Poltergeist](Compendium/bestiary/undead/poltergeist.md)
 *Source: Monster Manual p. 279*  
 
 A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
@@ -38,17 +39,12 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained),\
+  \ [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "2"
 "traits":
@@ -57,10 +53,10 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
       \ inside an object."
     "name": "Incorporeal Movement"
   - "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls,\
-      \ as well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that\
+      \ rely on sight."
     "name": "Sunlight Sensitivity"
-  - "desc": "The poltergeist is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)."
+  - "desc": "The poltergeist is [invisible](Rules/conditions.md#Invisible)."
     "name": "Invisibility"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10\
@@ -80,7 +76,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
     "name": "Telekinetic Thrust"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/poltergeist.webp"
+"image": "Compendium/bestiary/undead/token/poltergeist.webp"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/dmg
 - source/reward/blessing
 aliases:
-- Blessing of Weapon Enhancement
+- "Blessing of Weapon Enhancement"
 ---
 # Blessing of Weapon Enhancement
 

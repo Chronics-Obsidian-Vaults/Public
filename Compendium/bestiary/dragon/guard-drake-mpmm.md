@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -16,9 +17,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guard Drake
+- "Guard Drake"
 ---
-# [Guard Drake](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/guard-drake-mpmm.md)
+# [Guard Drake](Compendium/bestiary/dragon/guard-drake-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
@@ -48,10 +49,9 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "understands Draconic but can't speak"
 "cr": "2"
 "actions":
@@ -65,7 +65,7 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
     "name": "Tail"
 "source":
   - "MPMM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/guard-drake-mpmm.webp"
+"image": "Compendium/bestiary/dragon/token/guard-drake-mpmm.webp"
 ```
 ^statblock
 

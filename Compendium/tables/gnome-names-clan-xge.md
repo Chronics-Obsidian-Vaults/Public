@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Gnome Names – Clan
+- "Gnome Names – Clan"
 ---
 # Gnome Names – Clan
 *Source: Xanathar's Guide to Everything p. 178* 

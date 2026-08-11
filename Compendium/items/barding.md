@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/tack-and-harness
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Barding"
 - "Breastplate Barding"
 - "Chain Mail Barding"

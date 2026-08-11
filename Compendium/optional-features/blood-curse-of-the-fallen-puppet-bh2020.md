@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bh2020
 - source/optional-feature/blood-curse
 aliases:
-- Blood Curse of the Fallen Puppet
+- "Blood Curse of the Fallen Puppet"
 ---
 # Blood Curse of the Fallen Puppet
 *Source: Blood Hunter 2020*  

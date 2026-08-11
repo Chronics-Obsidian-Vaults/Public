@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skyjek Roc
+- "Skyjek Roc"
 ---
-# [Skyjek Roc](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/skyjek-roc-ggr.md)
+# [Skyjek Roc](Compendium/bestiary/monstrosity/skyjek-roc-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 219*  
 
 The aerial forces of the Boros Legion-skyknights who fly alongside the angels-take to the air mounted on Skyjek rocs. These avians are named for the skyknights who are also part of the Wojek League, called Skyjeks. From the backs of their rocs, these mounted soldiers carry out reconnaissance missions, bombard enemies on the ground, and engage flying foes.
@@ -26,7 +27,7 @@ Skyjek rocs are headstrong and impulsive, but their bravery makes them ideal mou
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "15"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md)"
 "hp": !!int "37"
 "hit_dice": "5d10 + 10"
 "modifier": !!int "1"
@@ -42,13 +43,13 @@ Skyjek rocs are headstrong and impulsive, but their bravery makes them ideal mou
   - "dexterity": !!int "3"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The roc has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The roc has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
@@ -62,6 +63,6 @@ Skyjek rocs are headstrong and impulsive, but their bravery makes them ideal mou
     "name": "Talons"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/skyjek-roc-ggr.webp"
+"image": "Compendium/bestiary/monstrosity/token/skyjek-roc-ggr.webp"
 ```
 ^statblock

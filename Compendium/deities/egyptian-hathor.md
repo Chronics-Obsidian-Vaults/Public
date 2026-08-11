@@ -7,8 +7,8 @@ tags:
 - source/deity/egyptian
 - source/domain/life
 - source/domain/light
-aliases: 
-- Hathor
+aliases:
+- "Hathor"
 ---
 # Hathor
 *Source: Player's Handbook p. 299. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

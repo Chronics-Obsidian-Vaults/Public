@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/selesnya-initiate
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/ranger
+- source/spell/feat/mark-of-finding
 - source/spell/level/3rd-level
 - source/spell/school/transmutation
-- source/spell/subrace/half-orc-mark-of-finding
-- source/spell/subrace/human-mark-of-finding
 classes:
 - Bard (Magical Secrets)
 - Druid
 - Ranger
 aliases:
-- Speak with Plants
+- "Speak with Plants"
 level: 3
 school: transmutation
 ritual: false
@@ -44,8 +44,8 @@ Plants might be able to perform other tasks on your behalf, at the DM's discreti
 
 If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
 
-This spell can cause the plants created by the [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md) spell to release a [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) creature.
+This spell can cause the plants created by the [entangle](Compendium/spells/entangle.md) spell to release a [restrained](Rules/conditions.md#Restrained) creature.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

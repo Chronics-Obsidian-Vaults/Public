@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Werevulture
+- "Werevulture"
 ---
-# [Werevulture](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/werevulture-bmt.md)
+# [Werevulture](Compendium/bestiary/fiend/werevulture-bmt.md)
 *Source: The Book of Many Things p. 184*  
 
 Scholars believe the curse of the werevulture is related to vrocks, vulturelike demons known for their covetousness and their capricious violence. According to these scholars, a flock of vrocks descended on a Material Plane world through a planar rupture, leaving plagues and other afflictions in their wake. Many of those who were injured by the demons survived, and the survivors gratefully thanked their gods for their apparent good fortune. But during the next full moon, they transformed into the first werevultures: hideous, birdlike creatures who hungered for the flesh of the dead. In the years since, the curse has spread far and wide.
@@ -36,8 +37,10 @@ Werevultures appear perfectly ordinary when in humanoid shape. But by the light 
   - !!int "8"
 "speed": "30 ft., 10 ft. in vulture form, 30 ft. in hybrid form"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
 "senses": "passive Perception 15"
 "languages": "Common (can't speak in vulture form)"
 "cr": "4"
@@ -54,9 +57,9 @@ Werevultures appear perfectly ordinary when in humanoid shape. But by the light 
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage. If the target is a Humanoid, it must succeed on\
       \ a DC 13 Constitution saving throw or be cursed until targeted by the [Remove\
-      \ Curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md)\
-      \ spell or a similar effect. If the cursed target drops to 0 hit points, it\
-      \ becomes a werevulture under the DM's control and regains 10 hit points."
+      \ Curse](Compendium/spells/remove-curse.md) spell or a similar effect. If the\
+      \ cursed target drops to 0 hit points, it becomes a werevulture under the DM's\
+      \ control and regains 10 hit points."
     "name": "Beak (Vulture or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (4d4 + 3) slashing damage."
@@ -72,6 +75,6 @@ Werevultures appear perfectly ordinary when in humanoid shape. But by the light 
     "name": "Change Shape"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/werevulture-bmt.webp"
+"image": "Compendium/bestiary/fiend/token/werevulture-bmt.webp"
 ```
 ^statblock

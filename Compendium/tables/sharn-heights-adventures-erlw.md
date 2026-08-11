@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Sharn Heights Adventures
+- "Sharn Heights Adventures"
 ---
 # Sharn Heights Adventures
 *Source: Eberron: Rising from the Last War p. 244* 

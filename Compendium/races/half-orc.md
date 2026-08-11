@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/phb
 - source/race/half-orc
 aliases:
-- Half-Orc
+- "Half-Orc"
 ---
 # Half-Orc
 *Source: Player's Handbook p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/half-orc.webp#right)
+![](Compendium/races/img/half-orc.webp#right)
 
 - **Ability Scores**: str +2 con +1
 - **Size**: Medium
@@ -31,7 +32,7 @@ Thanks to your orc blood, you have superior vision in dark and dim conditions. Y
 
 ### Menacing
 
-You gain proficiency in the [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation) skill.
+You gain proficiency in the [Intimidation](Rules/skills.md#Intimidation) skill.
 
 ### Relentless Endurance
 

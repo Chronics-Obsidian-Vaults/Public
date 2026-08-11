@@ -1,28 +1,28 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/5th-level
 - source/spell/optfeature/wave-of-rolling-earth
 - source/spell/school/evocation
 - source/spell/subclass/circle-of-the-land/desert
-- source/spell/subclass/the-genie/dao
+- source/spell/subclass/the-genie
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Druid
 - Druid (Circle of the Land, Desert)
 - Sorcerer
-- Warlock (The Genie, Dao)
+- Warlock (The Genie)
 - Wizard
 aliases:
-- Wall of Stone
+- "Wall of Stone"
 level: 5
 school: evocation
 ritual: false
@@ -52,8 +52,8 @@ If you create a span greater than 20 feet in length, you must halve the size of 
 
 The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the DM's discretion.
 
-If you maintain your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
+If you maintain your [concentration](Rules/conditions.md#Concentration) on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Desert)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie, Dao)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Desert)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie)](Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

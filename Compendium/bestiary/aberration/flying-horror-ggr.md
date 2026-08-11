@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flying Horror
+- "Flying Horror"
 ---
-# [Flying Horror](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/flying-horror-ggr.md)
+# [Flying Horror](Compendium/bestiary/aberration/flying-horror-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 203*  
 
 ## Horrors and Madness
@@ -29,7 +30,7 @@ Whenever a character fails a saving throw against the flying horror's Frightenin
 | 4+ | Indefinite |
 ^madness-severity
 
-## Horrors
+### Horrors
 
 Terrifying evils stalk, fly, and scuttle in the dark corners of Ravnica, from the depths of the undercity to the blackest parts of the night sky. Collectively, these creatures are called horrors-a variety of things that lurk in the dark and embody the deepest fears of Ravnica's people. All are evil creatures with dim reason and preternatural cunning.
 
@@ -37,7 +38,7 @@ At least three guilds have been known to compel horrors into service. For House 
 
 House Dimir uses all three base kinds of horrors. The Cult of Rakdos prefers shadow horrors, and the Golgari Swarm uses skittering horrors.
 
-## Customizing a Horror
+### Customizing a Horror
 
 Horrors share some common body types but vary wildly in other characteristics. A particular horror's form might incorporate elements that resemble fiendish, insectile, or reptilian features. To customize a horror, choose a base creature (flying horror, shadow horror, or skittering horror), then roll once on the Primary Features table and once on the Secondary Features table (or choose an option from each table). Add those features to the base creature.
 
@@ -48,7 +49,7 @@ Horrors share some common body types but vary wildly in other characteristics. A
 |----------|---------|
 | 1 | Avoidance. If the horror is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. |
 | 2 | Damage Resistances. The horror has resistance to necrotic and psychic damage. |
-| 3 | Innate Spellcasting. The horror's innate spellcasting ability is Charisma (spell save DC 13 for flying horror, DC 16 for shadow horror, and DC 17 for skittering horror). It can innately cast the following spells, requiring no material components: 3/day: [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md) 1/day each: [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md) (shadow horror and skittering horror only), [phantasmal killer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-killer.md) (skittering horror only) |
+| 3 | Innate Spellcasting. The horror's innate spellcasting ability is Charisma (spell save DC 13 for flying horror, DC 16 for shadow horror, and DC 17 for skittering horror). It can innately cast the following spells, requiring no material components: 3/day: [darkness](Compendium/spells/darkness.md) 1/day each: [fear](Compendium/spells/fear.md) (shadow horror and skittering horror only), [phantasmal killer](Compendium/spells/phantasmal-killer.md) (skittering horror only) |
 | 4 | Psychic Rebuke. When the horror takes damage from a melee attack, it can use its reaction to emit psychic energy within a 5-foot radius. Each creature in that area takes 3 (`1d6`) psychic damage (flying horror), 7 (`2d6`) psychic damage (shadow horror), or 10 (`3d6`) psychic damage (skittering horror). |
 ^primary-features
 
@@ -56,10 +57,10 @@ Horrors share some common body types but vary wildly in other characteristics. A
 
 | dice: d4 | Feature |
 |----------|---------|
-| 1 | Grasping Tendrils. The horror has four tendrils. Each tendril can be attacked (AC 12, 10 hit points). Destroying one deals no damage to the horror. As a bonus action, the horror can target one creature it can see within 10 feet of it. The target must succeed on a Dexterity saving throw or be [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) by the horror. The DC of the saving throw and the DC to escape the grapple are the same: 9 for the flying horror, 13 for the shadow horror, and 19 for the skittering horror. Until the grapple ends, the horror can't use the same tendril to grapple another target. |
-| 2 | Indomitable Mind. The horror is immune to the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) condition. |
-| 3 | Keen Senses. The horror has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on sight, sound, or smell. |
-| 4 | Mind Sight. Magical darkness doesn't impede the horror's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision). |
+| 1 | Grasping Tendrils. The horror has four tendrils. Each tendril can be attacked (AC 12, 10 hit points). Destroying one deals no damage to the horror. As a bonus action, the horror can target one creature it can see within 10 feet of it. The target must succeed on a Dexterity saving throw or be [grappled](Rules/conditions.md#Grappled) by the horror. The DC of the saving throw and the DC to escape the grapple are the same: 9 for the flying horror, 13 for the shadow horror, and 19 for the skittering horror. Until the grapple ends, the horror can't use the same tendril to grapple another target. |
+| 2 | Indomitable Mind. The horror is immune to the [charmed](Rules/conditions.md#Charmed) condition. |
+| 3 | Keen Senses. The horror has advantage on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight, sound, or smell. |
+| 4 | Mind Sight. Magical darkness doesn't impede the horror's [darkvision](Rules/senses.md#Darkvision). |
 ^secondary-features
 
 ```statblock
@@ -81,38 +82,36 @@ Horrors share some common body types but vary wildly in other characteristics. A
   - !!int "16"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_vulnerabilities": "radiant"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 14"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 14"
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "The horror has advantage on attack rolls against [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+  - "desc": "The horror has advantage on attack rolls against [frightened](Rules/conditions.md#Frightened)\
       \ creatures."
     "name": "Fear Frenzy"
   - "desc": "While in sunlight, the horror has disadvantage on attack rolls and on\
-      \ Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d6\
       \ + 5) slashing damage plus 14 (4d6) psychic damage."
     "name": "Claws"
   - "desc": "The horror screeches. Each creature within 30 feet of it that can hear\
-      \ it must succeed on a DC 13 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of it for 1 minute. The [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. If a creature's saving throw is successful\
-      \ or the effect ends for it, the creature is immune to the horror's Frightening\
-      \ Screech for the next 24 hours."
+      \ it must succeed on a DC 13 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
+      \ of it for 1 minute. The [frightened](Rules/conditions.md#Frightened) creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. If a creature's saving throw is successful or the\
+      \ effect ends for it, the creature is immune to the horror's Frightening Screech\
+      \ for the next 24 hours."
     "name": "Frightening Screech (Recharge 5-6)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/flying-horror-ggr.webp"
+"image": "Compendium/bestiary/aberration/token/flying-horror-ggr.webp"
 ```
 ^statblock

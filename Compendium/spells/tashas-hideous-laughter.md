@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -8,6 +9,7 @@ tags:
 - source/spell/feat/fey-touched
 - source/spell/feat/magic-initiate/wizard-spells
 - source/spell/level/1st-level
+- source/spell/reward/charm-of-the-jester
 - source/spell/school/enchantment
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/eldritch-knight
@@ -19,7 +21,7 @@ classes:
 - Warlock (The Great Old One)
 - Wizard
 aliases:
-- Tasha's Hideous Laughter
+- "Tasha's Hideous Laughter"
 level: 1
 school: enchantment
 ritual: false
@@ -39,10 +41,10 @@ components_vsm: [V, S, M]
 - **Components:** V, S, M (tiny tarts and a feather that is waved in the air)
 - **Duration:** Concentration, up to 1 minute
 
-A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone), becoming [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.
+A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall [prone](Rules/conditions.md#Prone), becoming [incapacitated](Rules/conditions.md#Incapacitated) and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.
 
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Warlock (The Great Old One)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-great-old-one.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Warlock (The Great Old One)](Compendium/lists/list-spells-classes-the-great-old-one.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Hideous Laughter")*

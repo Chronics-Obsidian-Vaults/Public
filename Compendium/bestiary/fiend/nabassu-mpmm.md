@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/15
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nabassu
+- "Nabassu"
 ---
-# [Nabassu](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/nabassu-mpmm.md)
+# [Nabassu](Compendium/bestiary/fiend/nabassu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135*  
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
@@ -46,14 +47,13 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
   - "strength": !!int "11"
   - "dexterity": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 17"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 17"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "15"
 "traits":
@@ -68,8 +68,7 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
       \ by the numbers rolled. For every 4 Hit Dice the nabassu gains in this way,\
       \ its attacks deal an extra 3 (1d6) damage on a hit. The nabassu retains these\
       \ benefits for 6 days. A creature devoured by a nabassu can be restored to life\
-      \ only by a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell."
+      \ only by a [wish](Compendium/spells/wish.md) spell."
     "name": "Devour Soul"
   - "desc": "The nabassu has advantage on saving throws against spells and other magical\
       \ effects."
@@ -91,13 +90,12 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
       \ regains hit points equal to half that amount. This reduction lasts until the\
       \ target finishes a short or long rest. The target dies if its hit point maximum\
       \ is reduced to 0, and if the target is a Humanoid, it immediately rises as\
-      \ a [ghoul](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghoul.md)\
-      \ under the nabassu's control."
+      \ a [ghoul](Compendium/bestiary/undead/ghoul.md) under the nabassu's control."
     "name": "Soul-Stealing Gaze"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/nabassu-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/nabassu-mpmm.webp"
 ```
 ^statblock
 

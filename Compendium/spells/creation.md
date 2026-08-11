@@ -1,27 +1,27 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/simic-scientist
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
+- source/spell/feat/mark-of-making
 - source/spell/level/5th-level
 - source/spell/school/illusion
 - source/spell/subclass/forge-domain
-- source/spell/subclass/the-genie/dao
-- source/spell/subrace/human-mark-of-making
+- source/spell/subclass/the-genie
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Cleric (Forge Domain)
 - Sorcerer
-- Warlock (The Genie, Dao)
+- Warlock (The Genie)
 - Wizard
 aliases:
-- Creation
+- "Creation"
 level: 5
 school: illusion
 ritual: false
@@ -60,6 +60,6 @@ Using any material created by this spell as another spell's material component c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie, Dao)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie)](Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

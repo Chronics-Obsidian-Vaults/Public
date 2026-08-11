@@ -7,8 +7,8 @@ tags:
 - source/deity/greek
 - source/domain/tempest
 - source/domain/war
-aliases: 
-- Hercules
+aliases:
+- "Hercules"
 ---
 # Hercules
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Minotaur Skeleton
+- "Minotaur Skeleton"
 ---
-# [Minotaur Skeleton](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/minotaur-skeleton.md)
+# [Minotaur Skeleton](Compendium/bestiary/undead/minotaur-skeleton.md)
 *Source: Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -61,17 +62,17 @@ A skeleton doesn't require air, food, drink, or sleep.
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
 "traits":
   - "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
       \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-      \ saving throw or be pushed up to 10 feet away and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ saving throw or be pushed up to 10 feet away and knocked [prone](Rules/conditions.md#Prone)."
     "name": "Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17\
@@ -82,7 +83,7 @@ A skeleton doesn't require air, food, drink, or sleep.
     "name": "Gore"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/minotaur-skeleton.webp"
+"image": "Compendium/bestiary/undead/token/minotaur-skeleton.webp"
 ```
 ^statblock
 

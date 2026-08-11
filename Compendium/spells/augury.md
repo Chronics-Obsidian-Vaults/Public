@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -11,10 +12,9 @@ tags:
 - source/spell/ritual
 - source/spell/school/divination
 - source/spell/subclass/arcane-trickster
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/knowledge-domain
-- source/spell/subclass/oath-of-the-open-sea
 - source/spell/subclass/path-of-the-ancestral-guardian
 classes:
 - Barbarian (Path of the Ancestral Guardian)
@@ -23,12 +23,11 @@ classes:
 - Cleric (Knowledge Domain)
 - Druid
 - Fighter (Eldritch Knight)
-- Paladin (Oath of the Open Sea)
 - Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Wizard
 aliases:
-- Augury
+- "Augury"
 level: 2
 ritual: true
 school: divination
@@ -59,6 +58,6 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before completing your next long rest, there is a cumulative  chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [Barbarian (Path of the Ancestral Guardian)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-path-of-the-ancestral-guardian-xge.md "subclass=XGE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-knowledge-domain.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of the Open Sea)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Barbarian (Path of the Ancestral Guardian)](Compendium/lists/list-spells-classes-path-of-the-ancestral-guardian-xge.md "subclass=XGE"); [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

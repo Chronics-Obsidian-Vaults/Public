@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Initiate of the Comet
+- "Initiate of the Comet"
 ---
-# [Initiate of the Comet](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/initiate-of-the-comet-bmt.md)
+# [Initiate of the Comet](Compendium/bestiary/humanoid/initiate-of-the-comet-bmt.md)
 *Source: The Book of Many Things p. 93*  
 
 Once initiated into the Heralds of the Comet, members learn magical divination practices that give them glimpses into the future.
@@ -38,7 +39,7 @@ Once initiated into the Heralds of the Comet, members learn magical divination p
   - "wisdom": !!int "3"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+2"
 "senses": "passive Perception 11"
 "languages": "Common plus any one language"
@@ -54,11 +55,10 @@ Once initiated into the Heralds of the Comet, members learn magical divination p
       \ ft., one target. *Hit:* 14 (2d10 + 3) force damage."
     "name": "Comet Strike"
   - "desc": "The initiate casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\n**At will:** [Mage Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [Thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1/day each:** [Dimension Door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [Divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md),\
-      \ [Enthrall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enthrall.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [Mage Hand](Compendium/spells/mage-hand.md),\
+      \ [Thaumaturgy](Compendium/spells/thaumaturgy.md)\n\n**1/day each:** [Dimension\
+      \ Door](Compendium/spells/dimension-door.md), [Divination](Compendium/spells/divination.md),\
+      \ [Enthrall](Compendium/spells/enthrall.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When hit by an attack roll, the initiate can force the attacker to reroll\
@@ -66,6 +66,6 @@ Once initiated into the Heralds of the Comet, members learn magical divination p
     "name": "Moment of Foresight (1/Day)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/initiate-of-the-comet-bmt.webp"
+"image": "Compendium/bestiary/humanoid/token/initiate-of-the-comet-bmt.webp"
 ```
 ^statblock

@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Elemental Essence Shard (Fire)"
 item_type: 
 item_subtype: 
@@ -13,7 +15,7 @@ rarity: rare
 attunement: required
 ---
 # Elemental Essence Shard (Fire)
-*Wondrous item, rare (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
 
 - **Weight**: 1.0 lbs.

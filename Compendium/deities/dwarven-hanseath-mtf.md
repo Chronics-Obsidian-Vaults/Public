@@ -7,8 +7,8 @@ tags:
 - source/deity/dwarven
 - source/domain/trickery
 - source/domain/war
-aliases: 
-- Hanseath
+aliases:
+- "Hanseath"
 ---
 # Hanseath
 *Source: Mordenkainen's Tome of Foes p. 73* 

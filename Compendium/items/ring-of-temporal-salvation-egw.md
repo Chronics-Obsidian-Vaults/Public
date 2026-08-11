@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Temporal Salvation"
 item_type: wondrous
 item_subtype: ring
@@ -18,6 +19,6 @@ attunement: required
 
 
 
-If you die while wearing this gray crystal ring, you vanish and reappear in an unoccupied space within 5 feet of the space you left (or the nearest unoccupied space). You have a number of hit points equal to `3d6` + your Constitution modifier. If your hit point maximum is lower than the number of hit points you regain, your hit point maximum rises to a similar amount. If you have any levels of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion), reduce your level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion) by 1. Once the ring is used, it turns to dust and is destroyed.
+If you die while wearing this gray crystal ring, you vanish and reappear in an unoccupied space within 5 feet of the space you left (or the nearest unoccupied space). You have a number of hit points equal to `3d6` + your Constitution modifier. If your hit point maximum is lower than the number of hit points you regain, your hit point maximum rises to a similar amount. If you have any levels of [exhaustion](Rules/conditions.md#Exhaustion), reduce your level of [exhaustion](Rules/conditions.md#Exhaustion) by 1. Once the ring is used, it turns to dust and is destroyed.
 
 *Source: Explorer's Guide to Wildemount p. 269*

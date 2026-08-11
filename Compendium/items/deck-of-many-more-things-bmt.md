@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/rarity/legendary
-aliases: 
+aliases:
 - "Deck of Many More Things"
 item_type: 
 item_subtype: 
@@ -13,7 +14,7 @@ attunement: none
 ---
 # Deck of Many More Things
 *Wondrous item, legendary*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/deck-of-many-more-things.webp#right)
+![](Compendium/items/img/deck-of-many-more-things.webp#right)
 
 
 Over the centuries since the first Deck of Many Things was created, many have sought and failed to replicate it. But some have created new cards. These forty-four additional cards are known collectively as the Deck of Many More Things. (More information on creating new cards for this deck appears in chapter 2.)
@@ -32,76 +33,76 @@ The DM can use the physical cards provided in The Deck of Many Things card set t
 
 | dice: d100 | Card |
 |------------|------|
-| 01 | [Aberration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Aberration) |
-| 02 | [Balance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Balance)* |
-| 03 | [Beast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Beast) |
-| 04 | [Book](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Book) |
-| 05 | [Bridge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Bridge) |
-| 06 | [Campfire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Campfire) |
-| 07 | [Cavern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Cavern) |
-| 08 | [Celestial](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Celestial) |
-| 09 | [Comet](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Comet)* |
-| 10 | [Construct](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Construct) |
-| 11 | [Corpse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Corpse) |
-| 12 | [Crossroads](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Crossroads) |
-| 13 | [Donjon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Donjon)* |
-| 14 | [Door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Door) |
-| 15 | [Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Dragon) |
-| 16 | [Elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Elemental) |
-| 17 | [Euryale](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Euryale)* |
-| 18 | [Expert](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Expert) |
-| 19 | [Fates](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Fates)* |
-| 20 | [Fey](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Fey) |
-| 21 | [Fiend](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Fiend) |
-| 22 | [Flames](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Flames)* |
-| 23 | [Fool](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Fool)* |
-| 24 | [Gem](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Gem)* |
-| 25 | [Giant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Giant) |
-| 26 | [Humanoid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Humanoid) |
-| 27 | [Jester](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Jester)* |
-| 28 | [Key](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Key)* |
-| 29 | [Knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Knight)* |
-| 30 | [Lance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Lance) |
-| 31 | [Mage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Mage) |
-| 32 | [Map](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Map) |
-| 33 | [Maze](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Maze) |
-| 34 | [Mine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Mine) |
-| 35 | [Monstrosity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Monstrosity) |
-| 36 | [Moon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Moon)* |
-| 37 | [Ooze](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Ooze) |
-| 38 | [Path](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Path) |
-| 39 | [Pit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Pit) |
-| 40 | [Plant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Plant) |
-| 41 | [Priest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Priest) |
-| 42 | [Prisoner](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Prisoner) |
-| 43 | [Puzzle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Puzzle)* |
-| 44 | [Ring](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Ring) |
-| 45 | [Rogue](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Rogue)* |
-| 46 | [Ruin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Ruin)* |
-| 47 | [Sage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Sage)* |
-| 48 | [Shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Shield) |
-| 49 | [Ship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Ship) |
-| 50 | [Skull](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Skull)* |
-| 51 | [Staff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Staff) |
-| 52 | [Stairway](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Stairway) |
-| 53 | [Star](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Star)* |
-| 54 | [Statue](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Statue) |
-| 55 | [Sun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Sun)* |
-| 56 | [Talons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Talons)* |
-| 57 | [Tavern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Tavern) |
-| 58 | [Temple](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Temple) |
-| 59 | [Throne](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Throne)* |
-| 60 | [Tomb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Tomb) |
-| 61 | [Tower](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Tower) |
-| 62 | [Tree](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Tree) |
-| 63 | [Undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Undead) |
-| 64 | [Void](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Void)* |
-| 65 | [Warrior](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Warrior) |
-| 66 | [Well](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-bmt.md#Well) |
+| 01 | [Aberration](Compendium/decks/deck-of-many-more-things-bmt.md#Aberration) |
+| 02 | [Balance](Compendium/decks/deck-of-many-more-things-bmt.md#Balance)* |
+| 03 | [Beast](Compendium/decks/deck-of-many-more-things-bmt.md#Beast) |
+| 04 | [Book](Compendium/decks/deck-of-many-more-things-bmt.md#Book) |
+| 05 | [Bridge](Compendium/decks/deck-of-many-more-things-bmt.md#Bridge) |
+| 06 | [Campfire](Compendium/decks/deck-of-many-more-things-bmt.md#Campfire) |
+| 07 | [Cavern](Compendium/decks/deck-of-many-more-things-bmt.md#Cavern) |
+| 08 | [Celestial](Compendium/decks/deck-of-many-more-things-bmt.md#Celestial) |
+| 09 | [Comet](Compendium/decks/deck-of-many-more-things-bmt.md#Comet)* |
+| 10 | [Construct](Compendium/decks/deck-of-many-more-things-bmt.md#Construct) |
+| 11 | [Corpse](Compendium/decks/deck-of-many-more-things-bmt.md#Corpse) |
+| 12 | [Crossroads](Compendium/decks/deck-of-many-more-things-bmt.md#Crossroads) |
+| 13 | [Donjon](Compendium/decks/deck-of-many-more-things-bmt.md#Donjon)* |
+| 14 | [Door](Compendium/decks/deck-of-many-more-things-bmt.md#Door) |
+| 15 | [Dragon](Compendium/decks/deck-of-many-more-things-bmt.md#Dragon) |
+| 16 | [Elemental](Compendium/decks/deck-of-many-more-things-bmt.md#Elemental) |
+| 17 | [Euryale](Compendium/decks/deck-of-many-more-things-bmt.md#Euryale)* |
+| 18 | [Expert](Compendium/decks/deck-of-many-more-things-bmt.md#Expert) |
+| 19 | [Fates](Compendium/decks/deck-of-many-more-things-bmt.md#Fates)* |
+| 20 | [Fey](Compendium/decks/deck-of-many-more-things-bmt.md#Fey) |
+| 21 | [Fiend](Compendium/decks/deck-of-many-more-things-bmt.md#Fiend) |
+| 22 | [Flames](Compendium/decks/deck-of-many-more-things-bmt.md#Flames)* |
+| 23 | [Fool](Compendium/decks/deck-of-many-more-things-bmt.md#Fool)* |
+| 24 | [Gem](Compendium/decks/deck-of-many-more-things-bmt.md#Gem)* |
+| 25 | [Giant](Compendium/decks/deck-of-many-more-things-bmt.md#Giant) |
+| 26 | [Humanoid](Compendium/decks/deck-of-many-more-things-bmt.md#Humanoid) |
+| 27 | [Jester](Compendium/decks/deck-of-many-more-things-bmt.md#Jester)* |
+| 28 | [Key](Compendium/decks/deck-of-many-more-things-bmt.md#Key)* |
+| 29 | [Knight](Compendium/decks/deck-of-many-more-things-bmt.md#Knight)* |
+| 30 | [Lance](Compendium/decks/deck-of-many-more-things-bmt.md#Lance) |
+| 31 | [Mage](Compendium/decks/deck-of-many-more-things-bmt.md#Mage) |
+| 32 | [Map](Compendium/decks/deck-of-many-more-things-bmt.md#Map) |
+| 33 | [Maze](Compendium/decks/deck-of-many-more-things-bmt.md#Maze) |
+| 34 | [Mine](Compendium/decks/deck-of-many-more-things-bmt.md#Mine) |
+| 35 | [Monstrosity](Compendium/decks/deck-of-many-more-things-bmt.md#Monstrosity) |
+| 36 | [Moon](Compendium/decks/deck-of-many-more-things-bmt.md#Moon)* |
+| 37 | [Ooze](Compendium/decks/deck-of-many-more-things-bmt.md#Ooze) |
+| 38 | [Path](Compendium/decks/deck-of-many-more-things-bmt.md#Path) |
+| 39 | [Pit](Compendium/decks/deck-of-many-more-things-bmt.md#Pit) |
+| 40 | [Plant](Compendium/decks/deck-of-many-more-things-bmt.md#Plant) |
+| 41 | [Priest](Compendium/decks/deck-of-many-more-things-bmt.md#Priest) |
+| 42 | [Prisoner](Compendium/decks/deck-of-many-more-things-bmt.md#Prisoner) |
+| 43 | [Puzzle](Compendium/decks/deck-of-many-more-things-bmt.md#Puzzle)* |
+| 44 | [Ring](Compendium/decks/deck-of-many-more-things-bmt.md#Ring) |
+| 45 | [Rogue](Compendium/decks/deck-of-many-more-things-bmt.md#Rogue)* |
+| 46 | [Ruin](Compendium/decks/deck-of-many-more-things-bmt.md#Ruin)* |
+| 47 | [Sage](Compendium/decks/deck-of-many-more-things-bmt.md#Sage)* |
+| 48 | [Shield](Compendium/decks/deck-of-many-more-things-bmt.md#Shield) |
+| 49 | [Ship](Compendium/decks/deck-of-many-more-things-bmt.md#Ship) |
+| 50 | [Skull](Compendium/decks/deck-of-many-more-things-bmt.md#Skull)* |
+| 51 | [Staff](Compendium/decks/deck-of-many-more-things-bmt.md#Staff) |
+| 52 | [Stairway](Compendium/decks/deck-of-many-more-things-bmt.md#Stairway) |
+| 53 | [Star](Compendium/decks/deck-of-many-more-things-bmt.md#Star)* |
+| 54 | [Statue](Compendium/decks/deck-of-many-more-things-bmt.md#Statue) |
+| 55 | [Sun](Compendium/decks/deck-of-many-more-things-bmt.md#Sun)* |
+| 56 | [Talons](Compendium/decks/deck-of-many-more-things-bmt.md#Talons)* |
+| 57 | [Tavern](Compendium/decks/deck-of-many-more-things-bmt.md#Tavern) |
+| 58 | [Temple](Compendium/decks/deck-of-many-more-things-bmt.md#Temple) |
+| 59 | [Throne](Compendium/decks/deck-of-many-more-things-bmt.md#Throne)* |
+| 60 | [Tomb](Compendium/decks/deck-of-many-more-things-bmt.md#Tomb) |
+| 61 | [Tower](Compendium/decks/deck-of-many-more-things-bmt.md#Tower) |
+| 62 | [Tree](Compendium/decks/deck-of-many-more-things-bmt.md#Tree) |
+| 63 | [Undead](Compendium/decks/deck-of-many-more-things-bmt.md#Undead) |
+| 64 | [Void](Compendium/decks/deck-of-many-more-things-bmt.md#Void)* |
+| 65 | [Warrior](Compendium/decks/deck-of-many-more-things-bmt.md#Warrior) |
+| 66 | [Well](Compendium/decks/deck-of-many-more-things-bmt.md#Well) |
 | 67–00 | Roll again |
 ^deck-of-many-more-things
 
-* Found in the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) as depicted in the "Dungeon Master's Guide"
+* Found in the [Deck of Many Things](Compendium/items/deck-of-many-things.md) as depicted in the "Dungeon Master's Guide"
 
 ## Aberration
 
@@ -111,7 +112,7 @@ You gain telepathy within a range of 90 feet.
 
 You immediately transform into a random Beast with a CR of 5 or lower. Your game statistics—including your ability scores, hit points, and possible actions—are replaced by the Beast's game statistics, and any nonmagical equipment you're wearing or carrying melds into your new form and can't be used. Any magic items you're carrying drop in an unoccupied space within 5 feet of your new form.
 
-You remain transformed in this way for `2d12` days; nothing can alter your form while you're under the effects of this card, but the [Wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell can end the transformation early. When you revert to your normal form, you return to the same state you were in when you initially transformed.
+You remain transformed in this way for `2d12` days; nothing can alter your form while you're under the effects of this card, but the [Wish](Compendium/spells/wish.md) spell can end the transformation early. When you revert to your normal form, you return to the same state you were in when you initially transformed.
 
 ## Book
 
@@ -119,7 +120,7 @@ You gain the ability to speak, read, and write `1d6 + 2` languages of your choic
 
 ## Bridge
 
-You gain the ability to cast the [Time Stop](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/time-stop.md) spell `1d3` times. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
+You gain the ability to cast the [Time Stop](Compendium/spells/time-stop.md) spell `1d3` times. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
 
 ## Campfire
 
@@ -135,19 +136,19 @@ You sprout a pair of softly luminescent, feathered wings from your back and gain
 
 ## Construct
 
-A [homunculus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/homunculus.md) appears in an unoccupied space within 5 feet of you. The appearance of the homunculus is determined by the DM, and the homunculus treats you as its creator.
+A [homunculus](Compendium/bestiary/construct/homunculus.md) appears in an unoccupied space within 5 feet of you. The appearance of the homunculus is determined by the DM, and the homunculus treats you as its creator.
 
 ## Corpse
 
-You immediately drop to 0 hit points, have the [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) condition, and must begin making death saving throws. Spells and other magical effects that restore hit points have no effect on you until you are stabilized. If you fail three death saving throws, you die and can be resurrected only by the [Wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell.
+You immediately drop to 0 hit points, have the [unconscious](Rules/conditions.md#Unconscious) condition, and must begin making death saving throws. Spells and other magical effects that restore hit points have no effect on you until you are stabilized. If you fail three death saving throws, you die and can be resurrected only by the [Wish](Compendium/spells/wish.md) spell.
 
 ## Crossroads
 
-Roll a `d20`. If the roll is even, you age `1d10` years. If the roll is odd, you become younger by `1d10` years, to a minimum of 1 year. This effect can be undone only by the [Wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell, divine intervention, or similar magic.
+Roll a `d20`. If the roll is even, you age `1d10` years. If the roll is odd, you become younger by `1d10` years, to a minimum of 1 year. This effect can be undone only by the [Wish](Compendium/spells/wish.md) spell, divine intervention, or similar magic.
 
 ## Door
 
-You gain the ability to cast the [Gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gate.md) spell `1d4` times, requiring no material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
+You gain the ability to cast the [Gate](Compendium/spells/gate.md) spell `1d4` times, requiring no material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
 
 ## Dragon
 
@@ -193,7 +194,7 @@ At any time you choose within 1 year of drawing this card, you can mentally name
 
 ## Maze
 
-You gain `1d3` levels of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion).
+You gain `1d3` levels of [exhaustion](Rules/conditions.md#Exhaustion).
 
 ## Mine
 
@@ -205,7 +206,7 @@ A Large or larger Monstrosity with a challenge rating of 10 or less (chosen by t
 
 ## Ooze
 
-A [gelatinous cube](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/gelatinous-cube.md) immediately appears in your space and engulfs you. The gelatinous cube is hostile and remains until it is destroyed. If there isn't enough space for the gelatinous cube to appear, this card has no effect.
+A [gelatinous cube](Compendium/bestiary/ooze/gelatinous-cube.md) immediately appears in your space and engulfs you. The gelatinous cube is hostile and remains until it is destroyed. If there isn't enough space for the gelatinous cube to appear, this card has no effect.
 
 ## Path
 
@@ -213,11 +214,11 @@ Your walking speed increases by 10 feet.
 
 ## Pit
 
-A pit opens beneath you. You plummet `3d6 × 10` feet, take damage from the fall, and have the [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) condition.
+A pit opens beneath you. You plummet `3d6 × 10` feet, take damage from the fall, and have the [prone](Rules/conditions.md#Prone) condition.
 
 ## Plant
 
-You gain the ability to cast [Speak with Plants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-plants.md) without using a spell slot; you must finish a long rest before you can cast it this way again. If you have spell slots of 3rd level or higher, you can cast this spell using them. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
+You gain the ability to cast [Speak with Plants](Compendium/spells/speak-with-plants.md) without using a spell slot; you must finish a long rest before you can cast it this way again. If you have spell slots of 3rd level or higher, you can cast this spell using them. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
 
 ## Priest
 
@@ -225,7 +226,7 @@ Your Wisdom score increases by 2, to a maximum of 22.
 
 ## Prisoner
 
-Glowing chains made of magical force appear and wrap around you. You have the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) condition until the chains are destroyed or you are freed. While you have this condition, you can't cast spells, and any magic items you're wearing or carrying have their properties suppressed. You draw no more cards. The chains are immune to damage and can't be dispelled using the [Dispel Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md) spell or similar magic. However, a [Disintegrate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disintegrate.md) spell destroys the chains instantly, freeing you. Another creature can also free you by succeeding on a DC 30 Dexterity check using [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md).
+Glowing chains made of magical force appear and wrap around you. You have the [restrained](Rules/conditions.md#Restrained) condition until the chains are destroyed or you are freed. While you have this condition, you can't cast spells, and any magic items you're wearing or carrying have their properties suppressed. You draw no more cards. The chains are immune to damage and can't be dispelled using the [Dispel Magic](Compendium/spells/dispel-magic.md) spell or similar magic. However, a [Disintegrate](Compendium/spells/disintegrate.md) spell destroys the chains instantly, freeing you. Another creature can also free you by succeeding on a DC 30 Dexterity check using [thieves' tools](Compendium/items/thieves-tools.md).
 
 ## Ring
 
@@ -249,7 +250,7 @@ You can choose to either decrease your number of declared draws by two or receiv
 
 ## Statue
 
-You immediately have the [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified) condition as your body is transformed into marble. The petrification lasts until you are freed with the [Greater Restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md) spell or similar magic.
+You immediately have the [petrified](Rules/conditions.md#Petrified) condition as your body is transformed into marble. The petrification lasts until you are freed with the [Greater Restoration](Compendium/spells/greater-restoration.md) spell or similar magic.
 
 ## Tavern
 
@@ -257,11 +258,11 @@ Your Charisma score increases by 2 to a maximum of 22.
 
 ## Temple
 
-A deity or entity of similar power becomes bound to aid you. At any point in time between drawing the card and when you die, you can use your action to call on this entity for divine intervention, and the entity is bound to answer. The parameters and nature of this intervention are chosen by the DM. If you die without having used this intervention, the deity fulfills its obligation by casting the [Resurrection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/resurrection.md) spell on you. Once the entity has answered your call for divine intervention or resurrected you, the entity is no longer bound to aid you.
+A deity or entity of similar power becomes bound to aid you. At any point in time between drawing the card and when you die, you can use your action to call on this entity for divine intervention, and the entity is bound to answer. The parameters and nature of this intervention are chosen by the DM. If you die without having used this intervention, the deity fulfills its obligation by casting the [Resurrection](Compendium/spells/resurrection.md) spell on you. Once the entity has answered your call for divine intervention or resurrected you, the entity is no longer bound to aid you.
 
 ## Tomb
 
-At any time you choose within 1 year of drawing this card, you can cast the [True Resurrection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-resurrection.md) spell once without expending a spell slot or requiring material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
+At any time you choose within 1 year of drawing this card, you can cast the [True Resurrection](Compendium/spells/true-resurrection.md) spell once without expending a spell slot or requiring material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
 
 ## Tower
 
@@ -269,11 +270,11 @@ Draw two additional cards beyond your declared number of draws. The magic of the
 
 ## Tree
 
-Your skin immediately becomes rough, like tree bark. Your base AC now equals 15 + your Dexterity modifier while you aren't wearing armor, but you have vulnerability to fire damage. This transformation can be undone only by the [Wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell, divine intervention, or similar magic.
+Your skin immediately becomes rough, like tree bark. Your base AC now equals 15 + your Dexterity modifier while you aren't wearing armor, but you have vulnerability to fire damage. This transformation can be undone only by the [Wish](Compendium/spells/wish.md) spell, divine intervention, or similar magic.
 
 ## Undead
 
-Somewhere on the Material Plane, a [revenant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/revenant.md) rises. This revenant blames you for its existence and relentlessly hunts you to exact its revenge. The revenant exists until either 1 year passes, the revenant kills you, or you use a [Wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell to banish it permanently to the afterlife.
+Somewhere on the Material Plane, a [revenant](Compendium/bestiary/undead/revenant.md) rises. This revenant blames you for its existence and relentlessly hunts you to exact its revenge. The revenant exists until either 1 year passes, the revenant kills you, or you use a [Wish](Compendium/spells/wish.md) spell to banish it permanently to the afterlife.
 
 ## Warrior
 

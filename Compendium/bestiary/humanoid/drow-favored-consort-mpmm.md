@@ -1,22 +1,23 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/18
 - source/monster/environment/underdark
 - source/monster/size/medium
-- source/monster/type/humanoid/elf
+- source/monster/type/humanoid/drow-elf
 - source/monster/type/humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow Favored Consort
+- "Drow Favored Consort"
 ---
-# [Drow Favored Consort](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/drow-favored-consort-mpmm.md)
+# [Drow Favored Consort](Compendium/bestiary/humanoid/drow-favored-consort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183*  
 
-Nearly every priestess of [Lolth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-lolth-mtf.md), including the powerful [drow matron mother](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/drow-matron-mother-mpmm.md) in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
+Nearly every priestess of [Lolth](Compendium/deities/drow-lolth-mtf.md), including the powerful [drow matron mother](Compendium/bestiary/humanoid/drow-matron-mother-mpmm.md) in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
 
 Those favored consorts who prove their cunning gain the ear, and perhaps even the heart, of their priestess and are relied on to provide useful advice. No position of consort is assured for long, though; Lolth's priestesses are notoriously fickle, and a consort must often contend with rivals.
 
@@ -26,7 +27,7 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 "name": "Drow Favored Consort (MPMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf, wizard"
+"subtype": "Drow elf, wizard"
 "alignment": "Any alignment"
 "ac": !!int "15"
 "hp": !!int "240"
@@ -45,25 +46,26 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
   - "constitution": !!int "9"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+11"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+11"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 18"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 18"
 "languages": "Elvish, Undercommon"
 "cr": "18"
 "traits":
-  - "desc": "The drow has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The drow makes three Scimitar or Arcane Eruption attacks. The drow can\
@@ -78,16 +80,11 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
     "name": "Arcane Eruption"
   - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 18):\n\n\
-      **At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md)\n\
-      \n**3/day each:** [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\n\
-      \n**1/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\
+      **At will:** [dancing lights](Compendium/spells/dancing-lights.md), [mage armor](Compendium/spells/mage-armor.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [message](Compendium/spells/message.md)\n\
+      \n**3/day each:** [dimension door](Compendium/spells/dimension-door.md), [fireball](Compendium/spells/fireball.md),\
+      \ [invisibility](Compendium/spells/invisibility.md)\n\n**1/day each:** [darkness](Compendium/spells/darkness.md),\
+      \ [faerie fire](Compendium/spells/faerie-fire.md), [levitate](Compendium/spells/levitate.md)\
       \ (self only)"
     "name": "Spellcasting"
 "reactions":
@@ -98,7 +95,7 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/drow-favored-consort-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/drow-favored-consort-mpmm.webp"
 ```
 ^statblock
 

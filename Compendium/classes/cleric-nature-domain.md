@@ -7,7 +7,7 @@ tags:
 - source/domain/nature
 - source/subclass/cleric/nature
 aliases:
-- Nature Domain
+- "Nature Domain"
 ---
 # Nature Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,12 +44,11 @@ aliases:
 
 ^class-progression
 
+Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, [Obad-Hai](Compendium/deities/greyhawk-obad-hai.md), [Chislev](Compendium/deities/dragonlance-chislev-phb.md), Balinor, and [Pan](Compendium/deities/greek-pan.md)) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
 
-## Class Features
+## Subclass Features
 
-### Nature Domain (Level 1)
-
-Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, [Obad-Hai](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-obad-hai.md), [Chislev](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-chislev-phb.md), Balinor, and [Pan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-pan.md)) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
+### Domain Spells (Level 1)
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -57,16 +56,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md), [speak with animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-animals.md) |
-| 3rd | [barkskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/barkskin.md), [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md) |
-| 5th | [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md), [wind wall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wind-wall.md) |
-| 7th | [dominate beast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-beast.md), [grasping vine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/grasping-vine.md) |
-| 9th | [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md), [tree stride](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tree-stride.md) |
+| 1st | [animal friendship](Compendium/spells/animal-friendship.md), [speak with animals](Compendium/spells/speak-with-animals.md) |
+| 3rd | [barkskin](Compendium/spells/barkskin.md), [spike growth](Compendium/spells/spike-growth.md) |
+| 5th | [plant growth](Compendium/spells/plant-growth.md), [wind wall](Compendium/spells/wind-wall.md) |
+| 7th | [dominate beast](Compendium/spells/dominate-beast.md), [grasping vine](Compendium/spells/grasping-vine.md) |
+| 9th | [insect plague](Compendium/spells/insect-plague.md), [tree stride](Compendium/spells/tree-stride.md) |
 ^nature-domain-spells
 
 ### Acolyte of Nature (Level 1)
 
-At 1st level, you learn one druid cantrip of your choice. This cantrip doesn't count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), or [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival).
+At 1st level, you learn one druid cantrip of your choice. This cantrip doesn't count against the number of cleric cantrips you know. You also gain proficiency in one of the following skills of your choice: [Animal Handling](Rules/skills.md#Animal%20Handling), [Nature](Rules/skills.md#Nature), or [Survival](Rules/skills.md#Survival).
 
 ### Bonus Proficiency (Level 1)
 
@@ -76,7 +75,7 @@ Also at 1st level, you gain proficiency with heavy armor.
 
 Starting at 2nd level, you can use your Channel Divinity to charm animals and plants.
 
-As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) by you for 1 minute or until it takes damage. While it is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) by you, it is friendly to you and other creatures you designate.
+As an action, you present your holy symbol and invoke the name of your deity. Each beast or plant creature that can see you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is [charmed](Rules/conditions.md#Charmed) by you for 1 minute or until it takes damage. While it is [charmed](Rules/conditions.md#Charmed) by you, it is friendly to you and other creatures you designate.
 
 ### Dampen Elements (Level 6)
 
@@ -89,10 +88,10 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Master of Nature (Level 17)
 
-At 17th level, you gain the ability to command animals and plant creatures. While creatures are [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
+At 17th level, you gain the ability to command animals and plant creatures. While creatures are [charmed](Rules/conditions.md#Charmed) by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.

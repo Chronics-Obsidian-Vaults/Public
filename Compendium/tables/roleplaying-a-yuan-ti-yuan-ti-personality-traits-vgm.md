@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Yuan-ti; Yuan-ti Personality Traits
+- "Roleplaying a Yuan-ti; Yuan-ti Personality Traits"
 ---
 # Roleplaying a Yuan-ti; Yuan-ti Personality Traits
 *Source: Volo's Guide to Monsters p. 98* 

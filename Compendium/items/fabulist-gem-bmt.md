@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/attunement/required
 - source/item/rarity/uncommon
-aliases: 
+aliases:
 - "Fabulist Gem"
 item_type: 
 item_subtype: 

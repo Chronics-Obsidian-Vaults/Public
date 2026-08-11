@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/minor
 - source/item/wondrous/potion
-aliases: 
+aliases:
 - "Elixir of Health"
 item_type: wondrous
 item_subtype: potion
@@ -18,6 +19,6 @@ attunement: none
 
 
 
-When you drink this potion, it cures any disease afflicting you, and it removes the [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened), [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed), and [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) conditions. The clear red liquid has tiny bubbles of light in it.
+When you drink this potion, it cures any disease afflicting you, and it removes the [blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened), [paralyzed](Rules/conditions.md#Paralyzed), and [poisoned](Rules/conditions.md#Poisoned) conditions. The clear red liquid has tiny bubbles of light in it.
 
 *Source: Dungeon Master's Guide p. 168*

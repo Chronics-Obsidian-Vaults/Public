@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- House Tarkanan; Tarkanan Contacts
+- "House Tarkanan; Tarkanan Contacts"
 ---
 # House Tarkanan; Tarkanan Contacts
 *Source: Eberron: Rising from the Last War p. 179* 

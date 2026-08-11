@@ -6,7 +6,7 @@ tags:
 - source/class/expert-sidekick
 - source/compendium/src/5e/tce
 aliases:
-- Expert Sidekick
+- "Expert Sidekick"
 ---
 # Expert Sidekick
 *Source: Tasha's Cauldron of Everything p. 142*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![Experts, Left to Right: a Tortle, a Winged Kobold, and a Kenku](Compendium/classes/img/expert-sidekick.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: *x* = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
@@ -56,7 +58,6 @@ aliases:
 - **Tools**: Two tools of your choice if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Skills**: Five skills of your choice
 
-
 ## Expert Sidekick
 
 The Expert is a master of certain tasks or knowledge, favoring cunning over brawn. It might be a scout, a musician, a librarian, a clever street kid, a wily merchant, or a burglar.
@@ -68,7 +69,7 @@ The Expert is a master of certain tasks or knowledge, favoring cunning over braw
 To gain the Expert class, a creature must have at least one language in its stat block that it can speak.
 
 > [!note]
-> Note: this class is intended for NPC [sidekicks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/sidekicks-tce.md).
+> Note: this class is intended for NPC [sidekicks](Rules/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -82,13 +83,13 @@ In addition, the sidekick gains proficiency in five skills of your choice, and i
 
 *1st-level Expert feature*
 
-The sidekick is adept at giving well-timed assistance; the sidekick can take the [Help](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Help) action as a bonus action.
+The sidekick is adept at giving well-timed assistance; the sidekick can take the [Help](Rules/actions.md#Help) action as a bonus action.
 
 ### Cunning Action (Level 2)
 
 *2nd-level Expert feature*
 
-The sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash), [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage), or [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide) action as a bonus action.
+The sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the [Dash](Rules/actions.md#Dash), [Disengage](Rules/actions.md#Disengage), or [Hide](Rules/actions.md#Hide) action as a bonus action.
 
 ### Expertise (Level 3)
 
@@ -116,7 +117,7 @@ The sidekick is adept at fighting in concert with a companion. When the sidekick
 
 *7th-level Expert feature*
 
-Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).
+Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [incapacitated](Rules/conditions.md#Incapacitated).
 
 ### Ability Score Improvement (Level 8)
 
@@ -138,7 +139,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *11th-level Expert feature*
 
-When the sidekick takes the [Help](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Help) action, the creature who receives the help also gains a `1d6` bonus to the `d20` roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
+When the sidekick takes the [Help](Rules/actions.md#Help) action, the creature who receives the help also gains a `1d6` bonus to the `d20` roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
 
 At 20th level, the bonus increases to `2d6`.
 

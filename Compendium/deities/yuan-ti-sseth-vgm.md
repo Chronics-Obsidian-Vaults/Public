@@ -5,8 +5,8 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 - source/deity/yuan-ti
-aliases: 
-- Sseth
+aliases:
+- "Sseth"
 ---
 # Sseth
 *Source: Volo's Guide to Monsters p. 94* 

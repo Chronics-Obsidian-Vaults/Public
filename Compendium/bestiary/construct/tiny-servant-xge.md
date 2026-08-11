@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/xge
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tiny Servant
+- "Tiny Servant"
 ---
-# [Tiny Servant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/tiny-servant-xge.md)
+# [Tiny Servant](Compendium/bestiary/construct/tiny-servant-xge.md)
 *Source: Xanathar's Guide to Everything p. 169*  
 
 ```statblock
@@ -33,16 +34,12 @@ aliases:
   - !!int "1"
 "speed": "30 ft., climb 30 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 10"
 "languages": ""
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
@@ -50,6 +47,6 @@ aliases:
     "name": "Slam"
 "source":
   - "XGE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/tiny-servant-xge.webp"
+"image": "Compendium/bestiary/construct/token/tiny-servant-xge.webp"
 ```
 ^statblock

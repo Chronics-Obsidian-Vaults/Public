@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-8
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boggle
+- "Boggle"
 ---
-# [Boggle](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/boggle-mpmm.md)
+# [Boggle](Compendium/bestiary/fey/boggle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 65, Volo's Guide to Monsters p. 128*  
 
 Boggles are the little bogeys of fairy tales. They lurk in the fringes of the Feywild and are also found on the Material Plane, where they hide under beds and in closets, waiting to frighten and bedevil folk with their mischief.
@@ -24,7 +25,7 @@ Boggles are born out of feelings of loneliness. They materialize when a sapient 
 
 Boggles engage in petty pranks to amuse themselves, using the oil they excrete to cause trouble. A boggle also isn't above breaking dishes, hiding tools, startling cows to decrease their milk, or hiding a baby in an attic. Although a boggle's antics might cause distress and unintentional harm, mischief—not mayhem—is usually the intent. If threatened, a boggle flees rather than stand and fight.
 
-A boggle can create magical openings to travel short distances or to pilfer items that would otherwise be beyond its reach. To create such a rift in space, a boggle must be adjacent to a space defined by a frame, such as an open window or a doorway, a gap between the bars of a cage, or the opening between the feet of a bed and the floor. The rift is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) and disappears after a few seconds—just enough time for the boggle to step, reach, or attack through it.
+A boggle can create magical openings to travel short distances or to pilfer items that would otherwise be beyond its reach. To create such a rift in space, a boggle must be adjacent to a space defined by a frame, such as an open window or a doorway, a gap between the bars of a cage, or the opening between the feet of a bed and the floor. The rift is [invisible](Rules/conditions.md#Invisible) and disappears after a few seconds—just enough time for the boggle to step, reach, or attack through it.
 
 ```statblock
 "name": "Boggle (MPMM)"
@@ -44,15 +45,14 @@ A boggle can create magical openings to travel short distances or to pilfer item
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "Sylvan"
 "cr": "1/8"
 "actions":
@@ -64,9 +64,9 @@ A boggle can create magical openings to travel short distances or to pilfer item
       \ terrain for all creatures except boggles and lasts for 1 hour. The oil has\
       \ one of the following additional effects of the boggle's choice:\n\n- **Slippery\
       \ Oil.** Any non-boggle creature that enters the puddle or starts its turn there\
-      \ must succeed on a DC 11 Dexterity saving throw or fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ must succeed on a DC 11 Dexterity saving throw or fall [prone](Rules/conditions.md#Prone).\
       \  \n- **Sticky Oil.** Any non-boggle creature that enters the puddle or starts\
-      \ its turn there must succeed on a DC 11 Strength saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ its turn there must succeed on a DC 11 Strength saving throw or be [restrained](Rules/conditions.md#Restrained).\
       \ On its turn, a creature can use an action to try to extricate itself, ending\
       \ the effect and moving into the nearest unoccupied space of its choice with\
       \ a successful DC 11 Strength check.  "
@@ -74,30 +74,30 @@ A boggle can create magical openings to travel short distances or to pilfer item
 "bonus_actions":
   - "desc": "The boggle excretes nonflammable oil from its pores, giving itself one\
       \ of the following benefits of its choice until it uses this bonus action again:\n\
-      \n- **Slippery Oil.** The boggle has advantage on Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics))\
+      \n- **Slippery Oil.** The boggle has advantage on Dexterity ([Acrobatics](Rules/skills.md#Acrobatics))\
       \ checks made to escape bonds and end grapples, and it can move through openings\
       \ large enough for a Tiny creature without squeezing.  \n- **Sticky Oil.** The\
-      \ boggle has advantage on Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics))\
+      \ boggle has advantage on Strength ([Athletics](Rules/skills.md#Athletics))\
       \ checks made to grapple and any ability check made to maintain a hold on another\
       \ creature, a surface, or an object. The boggle can also climb difficult surfaces,\
       \ including upside down on ceilings, without needing to make an ability check.\
       \  "
     "name": "Boggle Oil"
-  - "desc": "The boggle creates an [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ and immobile rift within an opening or frame it can see within 5 feet of it,\
-      \ provided that the space is no bigger than 10 feet on any side. The dimensional\
-      \ rift bridges the distance between that space and a point within 30 feet of\
-      \ it that the boggle can see or specify by distance and direction (such as \"\
-      30 feet straight up\"). While next to the rift, the boggle can see through it\
-      \ and is considered to be next to the destination as well, and anything the\
-      \ boggle puts through the rift (including a portion of its body) emerges at\
-      \ the destination. Only the boggle can use the rift, and it lasts until the\
-      \ end of the boggle's next turn."
+  - "desc": "The boggle creates an [invisible](Rules/conditions.md#Invisible) and\
+      \ immobile rift within an opening or frame it can see within 5 feet of it, provided\
+      \ that the space is no bigger than 10 feet on any side. The dimensional rift\
+      \ bridges the distance between that space and a point within 30 feet of it that\
+      \ the boggle can see or specify by distance and direction (such as \"30 feet\
+      \ straight up\"). While next to the rift, the boggle can see through it and\
+      \ is considered to be next to the destination as well, and anything the boggle\
+      \ puts through the rift (including a portion of its body) emerges at the destination.\
+      \ Only the boggle can use the rift, and it lasts until the end of the boggle's\
+      \ next turn."
     "name": "Dimensional Rift"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/boggle-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/boggle-mpmm.webp"
 ```
 ^statblock
 

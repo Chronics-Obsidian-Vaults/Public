@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mm
 aliases:
-- Experience Points by Challenge Rating
+- "Experience Points by Challenge Rating"
 ---
 # Experience Points by Challenge Rating
 *Source: Monster Manual p. 9* 

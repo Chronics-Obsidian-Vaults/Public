@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bulette
+- "Bulette"
 ---
-# [Bulette](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/bulette.md)
+# [Bulette](Compendium/bestiary/monstrosity/bulette.md)
 *Source: Monster Manual p. 34. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a "land shark," it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.
@@ -54,10 +55,10 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
   - !!int "5"
 "speed": "40 ft., burrow 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., tremorsense 60 ft., passive Perception 16"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive\
+  \ Perception 16"
 "languages": ""
 "cr": "5"
 "traits":
@@ -71,18 +72,17 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
   - "desc": "If the bulette jumps at least 15 feet as part of its movement, it can\
       \ then use this action to land on its feet in a space that contains one or more\
       \ other creatures. Each of those creatures must succeed on a DC 16 Strength\
-      \ or Dexterity saving throw (target's choice) or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ or Dexterity saving throw (target's choice) or be knocked [prone](Rules/conditions.md#Prone)\
       \ and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage.\
       \ On a successful save, the creature takes only half the damage, isn't knocked\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ and is pushed 5 feet out of the bulette's space into an unoccupied space of\
-      \ the creature's choice. If no unoccupied space is within range, the creature\
-      \ instead falls [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ [prone](Rules/conditions.md#Prone), and is pushed 5 feet out of the bulette's\
+      \ space into an unoccupied space of the creature's choice. If no unoccupied\
+      \ space is within range, the creature instead falls [prone](Rules/conditions.md#Prone)\
       \ in the bulette's space."
     "name": "Deadly Leap"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/bulette.webp"
+"image": "Compendium/bestiary/monstrosity/token/bulette.webp"
 ```
 ^statblock
 

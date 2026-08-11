@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Human Names – Slavic, Female
+- "Human Names – Slavic, Female"
 ---
 # Human Names – Slavic, Female
 *Source: Xanathar's Guide to Everything p. 181* 

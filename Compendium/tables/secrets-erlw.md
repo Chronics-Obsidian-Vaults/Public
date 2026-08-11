@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Secrets
+- "Secrets"
 ---
 # Secrets
 *Source: Eberron: Rising from the Last War p. 78* 

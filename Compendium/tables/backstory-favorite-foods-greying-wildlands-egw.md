@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Backstory; Favorite Foods (Greying Wildlands)
+- "Backstory; Favorite Foods (Greying Wildlands)"
 ---
 # Backstory; Favorite Foods (Greying Wildlands)
 *Source: Explorer's Guide to Wildemount p. 191* 

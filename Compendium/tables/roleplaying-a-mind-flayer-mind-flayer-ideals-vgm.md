@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Mind Flayer; Mind Flayer Ideals
+- "Roleplaying a Mind Flayer; Mind Flayer Ideals"
 ---
 # Roleplaying a Mind Flayer; Mind Flayer Ideals
 *Source: Volo's Guide to Monsters p. 74* 

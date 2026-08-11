@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/scag
 aliases:
-- Uthgardt Totems
+- "Uthgardt Totems"
 ---
 # Uthgardt Totems
 *Source: Sword Coast Adventurer's Guide p. 121* 
@@ -21,5 +21,5 @@ aliases:
 | Red Tiger | Tiger |
 | Sky Pony | Eagle, with the Elk Aspect of the Beast |
 | Thunderbeast | Bear, with the Tiger Totemic Attunement |
-| Tree Ghost | Bear, with [speak with plants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-plants.md) in place of the normal rituals for the Spirit Seeker feature |
+| Tree Ghost | Bear, with [speak with plants](Compendium/spells/speak-with-plants.md) in place of the normal rituals for the Spirit Seeker feature |
 ^totem-spirit

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Dwarves of the Mror Holds; Leaving the Mror Holds
+- "Dwarves of the Mror Holds; Leaving the Mror Holds"
 ---
 # Dwarves of the Mror Holds; Leaving the Mror Holds
 *Source: Eberron: Rising from the Last War p. 19* 

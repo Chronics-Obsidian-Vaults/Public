@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/armor/heavy
@@ -9,7 +10,7 @@ tags:
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Gloomwrought Armor"
 - "Gloomwrought Breastplate"
 - "Gloomwrought Chain Mail"
@@ -38,7 +39,7 @@ This intricate grayscale armor was forged in the Shadowfell and is infused with 
 
 While you're wearing this armor, you have advantage on saving throws you make to avoid or end the frightened condition on yourself.
 
-This armor has 3 charges. You can expend a charge to cast the [Calm Emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md) spell (save DC 15) from the armor. This armor regains `1d3` expended charges daily at dawn.
+This armor has 3 charges. You can expend a charge to cast the [Calm Emotions](Compendium/spells/calm-emotions.md) spell (save DC 15) from the armor. This armor regains `1d3` expended charges daily at dawn.
 
 **Variants**:
 - [Gloomwrought Breastplate](#Gloomwrought%20Breastplate)

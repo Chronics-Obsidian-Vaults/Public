@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quadrone
+- "Quadrone"
 ---
-# [Quadrone](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/quadrone.md)
+# [Quadrone](Compendium/bestiary/construct/quadrone.md)
 *Source: Monster Manual p. 226*  
 
 Astute combatants, quadrones serve as artillery and field officers in the regiments of modron armies.
@@ -67,10 +68,11 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 12"
+"gear":
+  - "[shortbow](Compendium/items/shortbow.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 12"
 "languages": "Modron"
 "cr": "1"
 "traits":
@@ -91,6 +93,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
     "name": "Shortbow"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/quadrone.webp"
+"image": "Compendium/bestiary/construct/token/quadrone.webp"
 ```
 ^statblock

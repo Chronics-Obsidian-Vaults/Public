@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/25
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warforged Colossus
+- "Warforged Colossus"
 ---
-# [Warforged Colossus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/warforged-colossus-erlw.md)
+# [Warforged Colossus](Compendium/bestiary/construct/warforged-colossus-erlw.md)
 *Source: Eberron: Rising from the Last War p. 314*  
 
 In the final days of the Last War, House Cannith unleashed its mightiest creations: the warforged colossi. These enormous mechanical warriors thundered across Cyre, crushing everything in their paths and leaving ruin behind them. Meant to end the war decisively, the colossi pulverized hundreds of soldiers beneath their feet and incinerated whole legions with beams of fiery light that shot from their mouths. This rampage was cut short on the Day of Mourning. The arcane cataclysm that engulfed Cyre destroyed most of the warforged colossi, causing them to collapse into lifeless heaps.
@@ -20,10 +21,10 @@ In the final days of the Last War, House Cannith unleashed its mightiest creatio
 
 Some warforged colossi survived the Day of Mourning more or less intact and are thought to only be in stasis, waiting to be awakened. Cannith artificers are eager to track them down and determine whether they can be awakened or, at the very least, salvaged for *docents* and other magic items. Here are locations where operational warforged colossi are rumored to dwell:
 
-- "Arkus" (Colossus WX-11) lies [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) at the bottom of the Glowing Chasm in the northern part of the Mournland, with one of its arms torn off.  
+- "Arkus" (Colossus WX-11) lies [prone](Rules/conditions.md#Prone) at the bottom of the Glowing Chasm in the northern part of the Mournland, with one of its arms torn off.  
 - "Artorok" (Colossus WX-73) sits at the bottom of Lake Cyre amid the scaffolding of a sunken House Cannith workshop, flooded but otherwise intact.  
 - "Hanamar" (Colossus WX-42) stands at the bottom of Kraken Bay, near the coast of Valenar, buried up to its knees in sand and flooded, but it is otherwise intact.  
-- "Karrnslayer" (Colossus WX-31) lost its legs but crawls through the Mournland, using its arms to drag its great bulk across the ground. It is always [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) and can't use its Stomp action, but makes three extra turret attacks when it takes the Multiattack action option.  
+- "Karrnslayer" (Colossus WX-31) lost its legs but crawls through the Mournland, using its arms to drag its great bulk across the ground. It is always [prone](Rules/conditions.md#Prone) and can't use its Stomp action, but makes three extra turret attacks when it takes the Multiattack action option.  
 - "Landro" (Colossus WX-33) is partially phased into a mountainside on the border of Cyre and Breland, but still explorable and potentially salvageable.  
 - "Norr" (Colossus WX-5) is slumped amid the ruins of Metrol, the former capital of Cyre.  
 - "Tymber" (Colossus WX-12) squats in the Crawling Swamp, in the northwest corner of the Shadow Marches. How it got there, no one knows.  
@@ -58,16 +59,11 @@ A colossus might be filled with monsters and secrets, in addition to the corpses
   - "charisma": !!int "7"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 150 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [incapacitated](Rules/conditions.md#Incapacitated),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [stunned](Rules/conditions.md#Stunned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 150 ft., passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "25"
 "traits":
@@ -81,7 +77,7 @@ A colossus might be filled with monsters and secrets, in addition to the corpses
   - "desc": "The colossus deals double damage to objects and structures."
     "name": "Siege Monster"
   - "desc": "Any enemy outside the colossus that starts its turn within 30 feet of\
-      \ it must succeed on a DC 26 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ it must succeed on a DC 26 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ until the start of the enemy's next turn. If the enemy's saving throw is successful,\
       \ it is immune to this colossus's Towering Terror for the next 24 hours."
     "name": "Towering Terror"
@@ -94,18 +90,17 @@ A colossus might be filled with monsters and secrets, in addition to the corpses
       \ 20 feet away from it."
     "name": "Slam"
   - "desc": "*Ranged Spell Attack:* +18 to hit, range 300 ft., one target. *Hit:*\
-      \ 18 (4d8) force damage, and if the target is a creature, it is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ 18 (4d8) force damage, and if the target is a creature, it is knocked [prone](Rules/conditions.md#Prone)."
     "name": "Eldritch Turret"
   - "desc": "The colossus stomps one of its feet at a point on the ground within 20\
       \ feet of it. Any creature in a 20-foot-radius, 20-foot-high cylinder centered\
       \ on this point must succeed on a DC 26 Dexterity saving throw or take 33 (6d10)\
-      \ bludgeoning damage and fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ Until the colossus uses its Stomp again or moves, the creature is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
-      \ While [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ in this way, the creature (or another creature within 5 feet of it) can use\
-      \ its action to make a DC 26 Strength check. On a success, the creature relocates\
-      \ to an unoccupied space of its choice within 5 feet of the colossus and is\
-      \ no longer [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\n\
+      \ bludgeoning damage and fall [prone](Rules/conditions.md#Prone). Until the\
+      \ colossus uses its Stomp again or moves, the creature is [restrained](Rules/conditions.md#Restrained).\
+      \ While [restrained](Rules/conditions.md#Restrained) in this way, the creature\
+      \ (or another creature within 5 feet of it) can use its action to make a DC\
+      \ 26 Strength check. On a success, the creature relocates to an unoccupied space\
+      \ of its choice within 5 feet of the colossus and is no longer [restrained](Rules/conditions.md#Restrained).\n\
       \nStructures, as well as nonmagical objects that are neither being worn nor\
       \ carried, take the same amount of damage if they are in the cylinder (no save)."
     "name": "Stomp"
@@ -117,6 +112,6 @@ A colossus might be filled with monsters and secrets, in addition to the corpses
     "name": "Incinerating Beam (Recharge 5-6)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/warforged-colossus-erlw.webp"
+"image": "Compendium/bestiary/construct/token/warforged-colossus-erlw.webp"
 ```
 ^statblock

@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Shadowfell Shard"
 item_type: 
 item_subtype: 
@@ -13,8 +15,8 @@ rarity: rare
 attunement: required
 ---
 # Shadowfell Shard
-*Wondrous item, rare (requires attunement by a sorcerer)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/shadowfell-shard.webp#right)
+*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
+![](Compendium/items/img/shadowfell-shard.webp#right)
 
 - **Weight**: 1.0 lbs.
 

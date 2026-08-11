@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/nature
 - source/domain/trickery
-aliases: 
-- Fenmarel Mestarine
+aliases:
+- "Fenmarel Mestarine"
 ---
 # Fenmarel Mestarine
 *Source: Mordenkainen's Tome of Foes p. 43* 

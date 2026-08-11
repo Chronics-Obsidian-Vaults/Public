@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/12
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boneclaw
+- "Boneclaw"
 ---
-# [Boneclaw](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/boneclaw-mpmm.md)
+# [Boneclaw](Compendium/bestiary/undead/boneclaw-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*  
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
@@ -48,18 +49,15 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
   - "constitution": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold, necrotic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 16"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 16"
 "languages": "Common plus one language spoken by its master"
 "cr": "12"
 "traits":
@@ -75,9 +73,9 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 20\
       \ (3d10 + 4) piercing damage plus 11 (2d10) necrotic damage. If the target is\
       \ a creature, the boneclaw can pull the target up to 10 feet toward itself,\
-      \ and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 14). The boneclaw has two claws. While a claw grapples a target,\
-      \ the claw can attack only that target."
+      \ and the target is [grappled](Rules/conditions.md#Grappled) (escape DC 14).\
+      \ The boneclaw has two claws. While a claw grapples a target, the claw can attack\
+      \ only that target."
     "name": "Piercing Claw"
   - "desc": "If the boneclaw is in dim light or darkness, each creature of the boneclaw's\
       \ choice within 15 feet of it must succeed on a DC 14 Constitution saving throw\
@@ -88,7 +86,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
       \ be in dim light or darkness."
     "name": "Shadow Jump (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the boneclaw takes the [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide)\
+  - "desc": "While in dim light or darkness, the boneclaw takes the [Hide](Rules/actions.md#Hide)\
       \ action."
     "name": "Shadow Stealth"
 "reactions":
@@ -98,7 +96,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/boneclaw-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/boneclaw-mpmm.webp"
 ```
 ^statblock
 

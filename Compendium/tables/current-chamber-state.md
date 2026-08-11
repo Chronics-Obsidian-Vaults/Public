@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Current Chamber State
+- "Current Chamber State"
 ---
 # Current Chamber State
 *Source: Dungeon Master's Guide p. 295* 

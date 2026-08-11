@@ -8,8 +8,8 @@ tags:
 - source/domain/life
 - source/domain/tempest
 - source/domain/trickery
-aliases: 
-- Aerdrie Faenya
+aliases:
+- "Aerdrie Faenya"
 ---
 # Aerdrie Faenya
 *Source: Mordenkainen's Tome of Foes p. 43* 

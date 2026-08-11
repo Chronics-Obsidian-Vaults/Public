@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/orzhov-representative
@@ -9,12 +10,12 @@ tags:
 - source/spell/class/wizard
 - source/spell/level/3rd-level
 - source/spell/optfeature/whispers-of-the-grave
-- source/spell/reward/athreoss-votary
 - source/spell/school/necromancy
 - source/spell/subclass/arcane-trickster
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/knowledge-domain
+- source/spell/subclass/the-undead
 - source/spell/subclass/the-undying
 classes:
 - Bard (Magical Secrets)
@@ -22,11 +23,12 @@ classes:
 - Cleric (Knowledge Domain)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
+- Warlock (The Undead)
 - Warlock (The Undying)
 - Wizard
 aliases:
-- Speak with Dead
+- "Speak with Dead"
 level: 3
 school: necromancy
 ritual: false
@@ -50,6 +52,6 @@ You grant the semblance of life and intelligence to a corpse of your choice with
 
 Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-knowledge-domain.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Undying)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Undead)](Compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [Warlock (The Undying)](Compendium/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gold Dragon Wyrmling
+- "Gold Dragon Wyrmling"
 ---
-# [Gold Dragon Wyrmling](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/gold-dragon-wyrmling.md)
-*Source: Monster Manual p. 115, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Gold Dragon Wyrmling](Compendium/bestiary/dragon/gold-dragon-wyrmling.md)
+*Source: Monster Manual p. 115. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 
@@ -106,13 +107,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "2"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "fire"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
@@ -135,7 +135,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/gold-dragon-wyrmling.webp"
+"image": "Compendium/bestiary/dragon/token/gold-dragon-wyrmling.webp"
 ```
 ^statblock

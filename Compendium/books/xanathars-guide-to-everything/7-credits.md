@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Xanathar's Guide to Everything* 

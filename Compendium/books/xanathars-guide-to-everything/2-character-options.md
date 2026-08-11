@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Character Options
+- "Character Options"
 ---
 # Character Options
 *Source: Xanathar's Guide to Everything, p. 7* 
@@ -20,7 +20,7 @@ Following the subclasses, the section called "this is your life" presents a seri
 
 The chapter concludes with a selection of feats for the races in the player's handbook, offering ways to delve deeper into a character's racial identity.
 
-![Character Options; Subclasses](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/character-options-subclasses-xge.md)
+![Character Options; Subclasses](Compendium/tables/character-options-subclasses-xge.md)
 
 ## This is Your Life
 
@@ -39,7 +39,7 @@ Even though these pages are full of tables and die rolls, they don't make up a r
 
 For instance, you might not want these tables to help you decide who your parents and siblings are, because that's among the information you've already come up with. But you can still use other parts, such as the section on life events, to provide added depth and detail.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/xanathars-guide-to-everything/img/c1039.webp#center)
+![](Compendium/books/xanathars-guide-to-everything/img/c1039.webp#center)
 
 #### How and When to Use the Tables
 
@@ -79,19 +79,19 @@ You had parents, of course, even if they didn't raise you. To determine what you
 
 If your character is a half-elf, a half-orc, or a tiefling, you can use one of the tables below to determine the race of each of your parents. When you have a result, randomly determine which part of the result refers to your father and which to your mother.
 
-![Parents](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/parents-xge.md)
+![Parents](Compendium/tables/parents-xge.md)
 
-![Half-Elf Parents](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/half-elf-parents-xge.md)
+![Half-Elf Parents](Compendium/tables/half-elf-parents-xge.md)
 
-![Half-Orc Parents](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/half-orc-parents-xge.md)
+![Half-Orc Parents](Compendium/tables/half-orc-parents-xge.md)
 
-![Tiefling Parents](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/tiefling-parents-xge.md)
+![Tiefling Parents](Compendium/tables/tiefling-parents-xge.md)
 
 #### Birthplace
 
 After establishing your parentage, you can determine where you were born by using the Birthplace table. (Modify the result or roll again if you get a result that's inconsistent with what you know about your parents.) Once you have a result, roll percentile dice. On a roll of 00, a strange event coincided with your birth: the moon briefly turning red, all the milk within a mile spoiling, the water in the area freezing solid in midsummer, all the iron in the home rusting or turning to silver, or some other unusual event of your choice.
 
-![Birthplace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/birthplace-xge.md)
+![Birthplace](Compendium/tables/birthplace-xge.md)
 
 #### Siblings
 
@@ -117,9 +117,9 @@ You can roll on the Relationship supplemental table to determine how your siblin
 
 You can decide any other details you like about each sibling, including gender, personality, and place in the world.
 
-![Number of Siblings](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/number-of-siblings-xge.md)
+![Number of Siblings](Compendium/tables/number-of-siblings-xge.md)
 
-![Other Details; Birth Order](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/other-details-birth-order-xge.md)
+![Other Details; Birth Order](Compendium/tables/other-details-birth-order-xge.md)
 
 #### Family and Friends
 
@@ -129,27 +129,27 @@ Use the Family table to determine who raised you. If you know who your parents a
 
 Next, refer to the Family Lifestyle table to determine the general circumstances of your upbringing. (Chapter 5 of the player's handbook has more information about lifestyles.) The result on that table includes a number that is applied to your roll on the Childhood Home table, which tells you where you spent your early years. Wrap up this section by using the Childhood Memories table, which tells you how you were treated by other youngsters as you were growing up.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/xanathars-guide-to-everything/img/c1040.webp#center)
+![](Compendium/books/xanathars-guide-to-everything/img/c1040.webp#center)
 
 ##### Supplemental Tables
 
 You can roll on the Relationship table to determine how your family members or other important figures in your life feel about you. You can also use the Race, Occupation, and Alignment tables to learn more about the family members or guardians who raised you. **Developer's Note:** Below you will find a link to a **Story Template** which uses the tables in this and the sections below to randomly determine your back story. Instructions on how to use the template are given in the template itself.
 
-![Supplemental Tables; Family](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-family-xge.md)
+![Supplemental Tables; Family](Compendium/tables/supplemental-tables-family-xge.md)
 
-![Supplemental Tables; Absent Parent](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-absent-parent-xge.md)
+![Supplemental Tables; Absent Parent](Compendium/tables/supplemental-tables-absent-parent-xge.md)
 
-![Supplemental Tables; Family Lifestyle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-family-lifestyle-xge.md)
+![Supplemental Tables; Family Lifestyle](Compendium/tables/supplemental-tables-family-lifestyle-xge.md)
 
-![Supplemental Tables; Childhood Home](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-childhood-home-xge.md)
+![Supplemental Tables; Childhood Home](Compendium/tables/supplemental-tables-childhood-home-xge.md)
 
-![Supplemental Tables; Childhood Memories](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-childhood-memories-xge.md)
+![Supplemental Tables; Childhood Memories](Compendium/tables/supplemental-tables-childhood-memories-xge.md)
 
 ### Personal Decisions
 
 Your character's life takes a particular course depending on the choices you make for the character's background and class.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/xanathars-guide-to-everything/img/c1041.webp#center)
+![](Compendium/books/xanathars-guide-to-everything/img/c1041.webp#center)
 
 #### Background
 
@@ -319,7 +319,7 @@ If you haven't chosen your class yet, do so now, keeping in mind your background
 
 The class sections earlier in this chapter have further story suggestions, which you can use in concert with the material here.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/xanathars-guide-to-everything/img/c1042.webp#center)
+![](Compendium/books/xanathars-guide-to-everything/img/c1042.webp#center)
 
 ##### I became...
 
@@ -473,55 +473,55 @@ No matter how long you've been alive, you have experienced at least one signatur
 
 The older a character is, the greater the chance for multiple life events, as shown on the Life Events by Age table. If you have already chosen your character's starting age, see the entry in the Life Events column that corresponds to how old you are. Otherwise, you can roll dice to determine your current age and number of life events randomly.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/xanathars-guide-to-everything/img/c1043.webp#center)
+![](Compendium/books/xanathars-guide-to-everything/img/c1043.webp#center)
 
 After you know the number of life events your character has experienced, roll once on the Life Events table for each of them. Many of the results on that table direct you to one of the secondary tables that follow. Once you have determined all of your character's life events, you can arrange them in any chronological order you see fit.
 
-![Life Events by Age](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/life-events-by-age-xge.md)
+![Life Events by Age](Compendium/tables/life-events-by-age-xge.md)
 
-![Life Events](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/life-events-xge.md)
+![Life Events](Compendium/tables/life-events-xge.md)
 
 #### Secondary Tables
 
 These tables add detail to many of the results on the Life Events table. The tables are in alphabetical order.
 
-![Secondary Tables; Adventures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secondary-tables-adventures-xge.md)
+![Secondary Tables; Adventures](Compendium/tables/secondary-tables-adventures-xge.md)
 
-![Secondary Tables; Arcane Matters](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secondary-tables-arcane-matters-xge.md)
+![Secondary Tables; Arcane Matters](Compendium/tables/secondary-tables-arcane-matters-xge.md)
 
-![Secondary Tables; Boons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secondary-tables-boons-xge.md)
+![Secondary Tables; Boons](Compendium/tables/secondary-tables-boons-xge.md)
 
-![Secondary Tables; Crime](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secondary-tables-crime-xge.md)
+![Secondary Tables; Crime](Compendium/tables/secondary-tables-crime-xge.md)
 
-![Secondary Tables; Punishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secondary-tables-punishment-xge.md)
+![Secondary Tables; Punishment](Compendium/tables/secondary-tables-punishment-xge.md)
 
-![Secondary Tables; Supernatural Events](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secondary-tables-supernatural-events-xge.md)
+![Secondary Tables; Supernatural Events](Compendium/tables/secondary-tables-supernatural-events-xge.md)
 
-![Secondary Tables; Tragedies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secondary-tables-tragedies-xge.md)
+![Secondary Tables; Tragedies](Compendium/tables/secondary-tables-tragedies-xge.md)
 
-![Secondary Tables; War](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secondary-tables-war-xge.md)
+![Secondary Tables; War](Compendium/tables/secondary-tables-war-xge.md)
 
-![Secondary Tables; Weird Stuff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secondary-tables-weird-stuff-xge.md)
+![Secondary Tables; Weird Stuff](Compendium/tables/secondary-tables-weird-stuff-xge.md)
 
 ### Supplemental Tables
 
 The supplemental tables below give you a way to randomly determine characteristics and other facts about individuals who are part of your character's life. Use these tables when directed to do so by another table, or when you simply want to come up with a piece of information quickly. The tables are in alphabetical order.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/xanathars-guide-to-everything/img/c1044.webp#center)
+![](Compendium/books/xanathars-guide-to-everything/img/c1044.webp#center)
 
-![Supplemental Tables; Alignment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-alignment-xge.md)
+![Supplemental Tables; Alignment](Compendium/tables/supplemental-tables-alignment-xge.md)
 
-![Supplemental Tables; Cause of Death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-cause-of-death-xge.md)
+![Supplemental Tables; Cause of Death](Compendium/tables/supplemental-tables-cause-of-death-xge.md)
 
-![Supplemental Tables; Class](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-class-xge.md)
+![Supplemental Tables; Class](Compendium/tables/supplemental-tables-class-xge.md)
 
-![Supplemental Tables; Occupation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-occupation-xge.md)
+![Supplemental Tables; Occupation](Compendium/tables/supplemental-tables-occupation-xge.md)
 
-![Supplemental Tables; Race](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-race-xge.md)
+![Supplemental Tables; Race](Compendium/tables/supplemental-tables-race-xge.md)
 
-![Supplemental Tables; Relationship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-relationship-xge.md)
+![Supplemental Tables; Relationship](Compendium/tables/supplemental-tables-relationship-xge.md)
 
-![Supplemental Tables; Status](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/supplemental-tables-status-xge.md)
+![Supplemental Tables; Status](Compendium/tables/supplemental-tables-status-xge.md)
 
 ### What's Next?
 
@@ -541,6 +541,6 @@ This section introduces a collection of special feats that allow you to explore 
 
 The cause of a particular transformation is up to you and your DM. A transformational feat can symbolize a latent quality that has emerged as you age, or a transformation might be the result of an event in the campaign, such as exposure to powerful magic or visiting a place of ancient significance to your race. Transformations are a fundamental motif of fantasy literature and folklore. Figuring out why your character has changed can be a rich addition to your campaign's story.
 
-![Racial Feats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/racial-feats-xge.md)
+![Racial Feats](Compendium/tables/racial-feats-xge.md)
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/xanathars-guide-to-everything/img/c1045.webp#center)
+![](Compendium/books/xanathars-guide-to-everything/img/c1045.webp#center)

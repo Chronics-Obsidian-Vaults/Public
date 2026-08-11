@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Manacles"
 item_type: 
 item_subtype: 
@@ -19,6 +20,6 @@ attunement: none
 - **Cost**: 2 gp
 - **Weight**: 6.0 lbs.
 
-These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md) can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
+These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with [thieves' tools](Compendium/items/thieves-tools.md) can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.
 
 *Source: Player's Handbook p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

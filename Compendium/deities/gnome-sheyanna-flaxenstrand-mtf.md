@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/gnome
 - source/domain/light
-aliases: 
-- Sheyanna Flaxenstrand
+aliases:
+- "Sheyanna Flaxenstrand"
 ---
 # Sheyanna Flaxenstrand
 *Source: Mordenkainen's Tome of Foes p. 110* 

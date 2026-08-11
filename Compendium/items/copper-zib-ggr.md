@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/gear/treasure-coinage
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Copper Zib"
 item_type: 
 item_subtype: 

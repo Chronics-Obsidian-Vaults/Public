@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flumph
+- "Flumph"
 ---
-# [Flumph](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/flumph.md)
-*Source: Monster Manual p. 135, The Book of Many Things*  
+# [Flumph](Compendium/bestiary/aberration/flumph.md)
+*Source: Monster Manual p. 135*  
 
 The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
 
@@ -51,26 +52,25 @@ Flumphs live in complex and organized groups called cloisters, within which each
   - !!int "11"
 "speed": "5 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+4"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+4"
 "damage_vulnerabilities": "psychic"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "understands Undercommon but can't speak, telepathy 60 ft."
 "cr": "1/8"
 "traits":
   - "desc": "The flumph can perceive the content of any telepathic communication used\
-      \ within 60 feet of it, and it can't be [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised)\
+      \ within 60 feet of it, and it can't be [surprised](Rules/conditions.md#Surprised)\
       \ by creatures with any form of telepathy."
     "name": "Advanced Telepathy"
-  - "desc": "If the flumph is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ roll a die. On an odd result, the flumph lands upside-down and is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
+  - "desc": "If the flumph is knocked [prone](Rules/conditions.md#Prone), roll a die.\
+      \ On an odd result, the flumph lands upside-down and is [incapacitated](Rules/conditions.md#Incapacitated).\
       \ At the end of each of its turns, the flumph can make a DC 10 Dexterity saving\
-      \ throw, righting itself and ending the [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ throw, righting itself and ending the [incapacitated](Rules/conditions.md#Incapacitated)\
       \ condition if it succeeds."
     "name": "Prone Deficiency"
   - "desc": "The flumph is immune to any effect that would sense its emotions or read\
@@ -81,21 +81,20 @@ Flumphs live in complex and organized groups called cloisters, within which each
       \ (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each of\
       \ its turns, the target must make a DC 10 Constitution saving throw, taking\
       \ 2 (1d4) acid damage on a failure or ending the recurring acid damage on a\
-      \ success. A [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md)\
-      \ spell cast on the target also ends the recurring acid damage."
+      \ success. A [lesser restoration](Compendium/spells/lesser-restoration.md) spell\
+      \ cast on the target also ends the recurring acid damage."
     "name": "Tendrils"
   - "desc": "Each creature in a 15-foot cone originating from the flumph must succeed\
       \ on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid.\
       \ A coated creature exudes a horrible stench for 1d4 hours. The coated creature\
-      \ is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ as long as the stench lasts, and other creatures are [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ while with in 5 feet of the coated creature. A creature can remove the stench\
-      \ on itself by using a short rest to bathe in water, alcohol, or vinegar."
+      \ is [poisoned](Rules/conditions.md#Poisoned) as long as the stench lasts, and\
+      \ other creatures are [poisoned](Rules/conditions.md#Poisoned) while with in\
+      \ 5 feet of the coated creature. A creature can remove the stench on itself\
+      \ by using a short rest to bathe in water, alcohol, or vinegar."
     "name": "Stench Spray (1/Day)"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/flumph.webp"
+"image": "Compendium/bestiary/aberration/token/flumph.webp"
 ```
 ^statblock
 

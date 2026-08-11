@@ -7,8 +7,8 @@ tags:
 - source/deity/forgotten-realms
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Auril
+aliases:
+- "Auril"
 ---
 # Auril
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/optional-feature/fs-r
 aliases:
-- Druidic Warrior
+- "Druidic Warrior"
 ---
 # Druidic Warrior
 *Source: Tasha's Cauldron of Everything p. 57*  

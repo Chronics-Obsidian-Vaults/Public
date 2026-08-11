@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/shield/
 - source/item/tier/major
-aliases: 
+aliases:
 - "+2 Shield"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ rarity: rare
 attunement: none
 ---
 # +2 Shield
-*Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), major, rare*  
+*Armor ([shield](Compendium/items/shield.md)), major, rare*  
 
 
 - **Armor Class**: 2

@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/tier/major
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of Charming"
 item_type: weapon
 item_subtype: simple
@@ -16,15 +17,15 @@ attunement: required
 ---
 # Staff of Charming
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/staff-of-charming.webp#right)
+![](Compendium/items/img/staff-of-charming.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-While holding this staff, you can use an action to expend 1 of its 10 charges to cast [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md), [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md), or [comprehend languages](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/comprehend-languages.md) from it using your spell save DC. The staff can also be used as a magic quarterstaff.
+While holding this staff, you can use an action to expend 1 of its 10 charges to cast [charm person](Compendium/spells/charm-person.md), [command](Compendium/spells/command.md), or [comprehend languages](Compendium/spells/comprehend-languages.md) from it using your spell save DC. The staff can also be used as a magic quarterstaff.
 
 If you are holding the staff and fail a saving throw against an enchantment spell that targets only you, you can turn your failed save into a successful one. You can't use this property of the staff again until the next dawn. If you succeed on a save against an enchantment spell that targets only you, with or without the staff's intervention, you can use your reaction to expend 1 charge from the staff and turn the spell back on its caster as if you had cast the spell.
 

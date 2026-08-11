@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tarkanan Assassin
+- "Tarkanan Assassin"
 ---
-# [Tarkanan Assassin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/tarkanan-assassin-erlw.md)
+# [Tarkanan Assassin](Compendium/bestiary/humanoid/tarkanan-assassin-erlw.md)
 *Source: Eberron: Rising from the Last War p. 320*  
 
 Tarkanan assassins are the elite killers, spies, and thieves who work for House Tarkanan, a criminal organization specializing in theft and assassination. In addition to their deadly skill, a Tarkanan assassin possesses an aberrant dragonmark—a twisted sigil that provides them with magical power. House Tarkanan actively seeks and recruits people with aberrant dragonmarks.
@@ -22,12 +23,12 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
 > 
 > | dice: d6 | At Will | 1/Day |
 > |----------|---------|-------|
-> | 1 | [Fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md) (`2d10`) | [Burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md) (`3d6`) |
-> | 2 | [Shocking grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md) (`2d8`) | [Chromatic orb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chromatic-orb.md) (`4d8`) |
-> | 3 | [Poison spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md) (`2d12`) | [Ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md) (`3d8`) |
-> | 4 | [Friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md) | [Charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md) (two creatures) |
-> | 5 | [Minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md) | [Thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md) (`2d8`) |
-> | 6 | [Dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md) | [Sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md) (`7d8`) |
+> | 1 | [Fire bolt](Compendium/spells/fire-bolt.md) (`2d10`) | [Burning hands](Compendium/spells/burning-hands.md) (`3d6`) |
+> | 2 | [Shocking grasp](Compendium/spells/shocking-grasp.md) (`2d8`) | [Chromatic orb](Compendium/spells/chromatic-orb.md) (`4d8`) |
+> | 3 | [Poison spray](Compendium/spells/poison-spray.md) (`2d12`) | [Ray of sickness](Compendium/spells/ray-of-sickness.md) (`3d8`) |
+> | 4 | [Friends](Compendium/spells/friends.md) | [Charm person](Compendium/spells/charm-person.md) (two creatures) |
+> | 5 | [Minor illusion](Compendium/spells/minor-illusion.md) | [Thunderwave](Compendium/spells/thunderwave.md) (`2d8`) |
+> | 6 | [Dancing lights](Compendium/spells/dancing-lights.md) | [Sleep](Compendium/spells/sleep.md) (`7d8`) |
 > ^at-will-1-day
 ^aberrant-dragonmark-innate-spells
 
@@ -38,7 +39,7 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "3"
@@ -51,25 +52,26 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+3"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Common, Thieves' cant"
 "cr": "2"
 "traits":
   - "desc": "The assassin's spellcasting ability is Constitution (+4 to hit with spell\
       \ attacks). It can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md)\n\
-      \n**1/day:** [chromatic orb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chromatic-orb.md)"
+      \ components:\n\n**At will:** [fire bolt](Compendium/spells/fire-bolt.md)\n\n\
+      **1/day:** [chromatic orb](Compendium/spells/chromatic-orb.md)"
     "name": "Innate Spellcasting"
   - "desc": "When the assassin casts an innate spell, each creature within 10 feet\
       \ of the assassin must make a DC 12 Constitution saving throw, taking 4 (1d8)\
@@ -91,6 +93,6 @@ Tarkanan assassins are the elite killers, spies, and thieves who work for House 
     "name": "Chromatic Orb (1/Day)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/tarkanan-assassin-erlw.webp"
+"image": "Compendium/bestiary/humanoid/token/tarkanan-assassin-erlw.webp"
 ```
 ^statblock

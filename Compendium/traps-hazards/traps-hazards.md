@@ -4,7 +4,7 @@ cssclasses:
 - json5e-note
 - json5e-index
 ---
-# Index of Traps-hazards
+# Index of Traps & Hazards
 
 - [Avalanche](./avalanche-tce.md)
 - [Balance and Ruin](./balance-and-ruin-bmt.md)
@@ -12,13 +12,15 @@ cssclasses:
 - [Brown Mold](./brown-mold.md)
 - [Collapsing Roof](./collapsing-roof.md)
 - [Crossbow Trap](./crossbow-trap-xge.md)
+- [Danse Macabre](./danse-macabre-vrgr.md)
 - [Desecrated Ground](./desecrated-ground.md)
 - [Extreme Cold](./extreme-cold.md)
 - [Extreme Heat](./extreme-heat.md)
-- [Falling into Water](./falling-into-water-tce.md)
+- [Faceless Malice](./faceless-malice-vrgr.md)
 - [Falling Net](./falling-net.md)
-- [Falling onto a Creature](./falling-onto-a-creature-tce.md)
 - [Falling Portcullis](./falling-portcullis-xge.md)
+- [Falling into Water](./falling-into-water-tce.md)
+- [Falling onto a Creature](./falling-onto-a-creature-tce.md)
 - [Fiery Blast Trap](./fiery-blast-trap-xge.md)
 - [Fire-Breathing Statue](./fire-breathing-statue.md)
 - [Flame Storm](./flame-storm-tce.md)
@@ -27,15 +29,17 @@ cssclasses:
 - [Green Slime](./green-slime.md)
 - [Heavy Precipitation](./heavy-precipitation.md)
 - [High Altitude](./high-altitude.md)
+- [Icon of the Lower Aerial Kingdoms](./icon-of-the-lower-aerial-kingdoms-vrgr.md)
 - [Improvised Damage](./improvised-damage.md)
+- [Morbid Memory](./morbid-memory-vrgr.md)
 - [Necrotic Tempest](./necrotic-tempest-tce.md)
 - [Net Trap](./net-trap-xge.md)
 - [Path of Blades](./path-of-blades-xge.md)
 - [Pit Trap](./pit-trap-xge.md)
 - [Pits](./pits.md)
 - [Poison Darts](./poison-darts.md)
-- [Poison Needle Trap](./poison-needle-trap-xge.md)
 - [Poison Needle](./poison-needle.md)
+- [Poison Needle Trap](./poison-needle-trap-xge.md)
 - [Poisoned Tempest](./poisoned-tempest-xge.md)
 - [Quicksand](./quicksand.md)
 - [Razorvine](./razorvine.md)

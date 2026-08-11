@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/9
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boss Augustus
+- "Boss Augustus"
 ---
-# [Boss Augustus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/boss-augustus-bmt.md)
+# [Boss Augustus](Compendium/bestiary/monstrosity/boss-augustus-bmt.md)
 *Source: The Book of Many Things p. 82*  
 
 Augustus is a hulking human werewolf of few words. He shares leadership of the guild with Boss Delour and has a knack for planning heists. Guild members consider him a brutal but fair leader. Some perceptive guild members—like Kathra Bitterwind—have noticed he's become more reclusive recently, and when he does appear, he's restless.
@@ -43,11 +44,11 @@ Only a Wish spell can end Augustus's curse. He has ordered Wanewort, a night hag
   - "strength": !!int "8"
   - "dexterity": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+7"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "senses": "passive Perception 20"
 "languages": "Common, Thieves' cant (can't speak in wolf form)"
@@ -58,7 +59,7 @@ Only a Wish spell can end Augustus's curse. He has ordered Wanewort, a night hag
       \ next turn. Augustus dies only if he starts his turn with 0 hit points and\
       \ doesn't regenerate."
     "name": "Regeneration"
-  - "desc": "Augustus wields a [+2 Longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/2-weapon.md)."
+  - "desc": "Augustus wields a [+2 Longsword](Compendium/items/2-weapon.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Augustus makes any combination of two Bite, Claw, or Magic Longsword\
@@ -66,17 +67,17 @@ Only a Wish spell can end Augustus's curse. He has ordered Wanewort, a night hag
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 26\
       \ (5d8 + 4) piercing damage. If the target is a Humanoid, it must succeed on\
-      \ a DC 15 Constitution saving throw or be cursed with lycanthropy. While cursed\
-      \ in this way, the target retains its alignment, languages, and equipment but\
-      \ otherwise uses the werewolf stat block, excluding actions that require equipment\
-      \ the target doesn't have. During any night when there's a full moon in the\
-      \ sky, the target becomes an NPC under the DM's control and remains so until\
-      \ the night ends. A [Remove Curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md)\
+      \ a DC 15 Constitution saving throw or be cursed with [lycanthropy](Rules/variant-rules/player-characters-as-lycanthropes-mm.md).\
+      \ While cursed in this way, the target retains its alignment, languages, and\
+      \ equipment but otherwise uses the werewolf stat block, excluding actions that\
+      \ require equipment the target doesn't have. During any night when there's a\
+      \ full moon in the sky, the target becomes an NPC under the DM's control and\
+      \ remains so until the night ends. A [Remove Curse](Compendium/spells/remove-curse.md)\
       \ spell or similar magic ends this curse."
     "name": "Bite (Wolf or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 21\
       \ (5d6 + 4) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 16 Strength saving throw or have the [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ a DC 16 Strength saving throw or have the [prone](Rules/conditions.md#Prone)\
       \ condition."
     "name": "Claw (Wolf or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 28\
@@ -88,10 +89,11 @@ Only a Wish spell can end Augustus's curse. He has ordered Wanewort, a night hag
       \ equipment he is wearing or carrying isn't transformed. He reverts to his humanoid\
       \ form if he dies."
     "name": "Change Shape"
-  - "desc": "Augustus takes the Dash, Disengage, or Hide action."
+  - "desc": "Augustus takes the [Dash](Rules/actions.md#Dash), [Disengage](Rules/actions.md#Disengage),\
+      \ or [Hide](Rules/actions.md#Hide) action."
     "name": "Cunning Action"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/boss-augustus-bmt.webp"
+"image": "Compendium/bestiary/monstrosity/token/boss-augustus-bmt.webp"
 ```
 ^statblock

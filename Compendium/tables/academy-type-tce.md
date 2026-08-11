@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Academy Type
+- "Academy Type"
 ---
 # Academy Type
 *Source: Tasha's Cauldron of Everything p. 84* 

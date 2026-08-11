@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Protective Verses"
 item_type: 
 item_subtype: 
@@ -13,12 +15,12 @@ rarity: rare
 attunement: required
 ---
 # Protective Verses
-*Wondrous item, rare (requires attunement by a wizard)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 
 - **Weight**: 3.0 lbs.
 
-This leather-bound spellbook is reinforced with iron and silver fittings and an iron lock (DC 20 to open). As an action, you can touch the book's cover and cause it to lock as if you cast [arcane lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md) on it. When found, the book contains the following spells: [arcane lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md), [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md), [globe of invulnerability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/globe-of-invulnerability.md), [glyph of warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md), [Mordenkainen's private sanctum](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mordenkainens-private-sanctum.md), [protection from evil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md), and [symbol](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/symbol.md). It functions as a spellbook for you.
+This leather-bound spellbook is reinforced with iron and silver fittings and an iron lock (DC 20 to open). As an action, you can touch the book's cover and cause it to lock as if you cast [arcane lock](Compendium/spells/arcane-lock.md) on it. When found, the book contains the following spells: [arcane lock](Compendium/spells/arcane-lock.md), [dispel magic](Compendium/spells/dispel-magic.md), [globe of invulnerability](Compendium/spells/globe-of-invulnerability.md), [glyph of warding](Compendium/spells/glyph-of-warding.md), [Mordenkainen's private sanctum](Compendium/spells/mordenkainens-private-sanctum.md), [protection from evil](Compendium/spells/protection-from-evil-and-good.md), and [symbol](Compendium/spells/symbol.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

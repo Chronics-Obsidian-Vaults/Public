@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Plesiosaurus
+- "Plesiosaurus"
 ---
-# [Plesiosaurus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/plesiosaurus.md)
+# [Plesiosaurus](Compendium/bestiary/beast/plesiosaurus.md)
 *Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A plesiosaurus is a marine dinosaur whose compact body is driven by powerful flippers. Predatory and aggressive, it attacks any creature it encounters. Its flexible neck accounts for a third of its total length, letting it twist in any direction to deliver a powerful bite.
@@ -43,9 +44,9 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   - !!int "5"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
@@ -59,7 +60,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
     "name": "Bite"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/plesiosaurus.webp"
+"image": "Compendium/bestiary/beast/token/plesiosaurus.webp"
 ```
 ^statblock
 

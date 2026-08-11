@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Owlbear
+- "Owlbear"
 ---
-# [Owlbear](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/owlbear.md)
-*Source: Monster Manual p. 249, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Owlbear](Compendium/bestiary/monstrosity/owlbear.md)
+*Source: Monster Manual p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.
 
@@ -63,14 +64,13 @@ Scholars have long debated the origins of the owlbear. The most common theory is
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "The owlbear has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The owlbear has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight or smell."
     "name": "Keen Sight and Smell"
 "actions":
@@ -84,9 +84,7 @@ Scholars have long debated the origins of the owlbear. The most common theory is
     "name": "Claws"
 "source":
   - "MM"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/owlbear.webp"
+"image": "Compendium/bestiary/monstrosity/token/owlbear.webp"
 ```
 ^statblock
 

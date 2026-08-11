@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- The Ways of Faith; Relationship with Your Deity
+- "The Ways of Faith; Relationship with Your Deity"
 ---
 # The Ways of Faith; Relationship with Your Deity
 *Source: Acquisitions Incorporated p. 56* 

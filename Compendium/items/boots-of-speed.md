@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Boots of Speed"
 item_type: 
 item_subtype: 
@@ -15,7 +16,7 @@ attunement: required
 ---
 # Boots of Speed
 *Wondrous item, major, rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/boots-of-speed.webp#right)
+![](Compendium/items/img/boots-of-speed.webp#right)
 
 
 While you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.

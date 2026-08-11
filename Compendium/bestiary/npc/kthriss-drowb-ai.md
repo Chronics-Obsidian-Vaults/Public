@@ -1,17 +1,18 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/3
 - source/monster/size/medium
-- source/monster/type/humanoid/elf
+- source/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- K'thriss Drow'b
+- "K'thriss Drow'b"
 ---
-# [K'thriss Drow'b](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/kthriss-drowb-ai.md)
+# [K'thriss Drow'b](Compendium/bestiary/npc/kthriss-drowb-ai.md)
 *Source: Acquisitions Incorporated p. 202*  
 
 > [!quote]  
@@ -33,10 +34,10 @@ K'thriss's familiar, Ligotti, is a semi-sapient remnant of a tentacle attack, sp
 "name": "K'thriss Drow'b (AI)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "modifier": !!int "2"
@@ -56,55 +57,49 @@ K'thriss's familiar, Ligotti, is a semi-sapient remnant of a tentacle attack, sp
   - "wisdom": !!int "3"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+2"
-  - "name": "[Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)"
+  - "name": "[Investigation](Rules/skills.md#Investigation)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 12"
+"gear":
+  - "[sickle](Compendium/items/sickle.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 12"
 "languages": "Celestial, Common, Elvish, Undercommon; can read all writing"
 "cr": "3"
 "traits":
   - "desc": "K'thriss is a 5th-level spellcaster. His spellcasting ability is Charisma\
       \ (spell save DC 14, +6 to hit with spell attacks). He regains his expended\
       \ spell slots when he finishes a short or long rest, and knows the following\
-      \ warlock spells:\n\n**Cantrips (at will):** [chill touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chill-touch.md),\
-      \ [eldritch blast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/eldritch-blast.md),\
-      \ [mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mending.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md),\
-      \ [thorn whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thorn-whip.md),\
-      \ [vicious mockery](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vicious-mockery.md)\n\
-      \n**1st-3rd level (2 slots):** [dissonant whispers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dissonant-whispers.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [hex](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hex.md),\
-      \ [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md),\
-      \ [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md),\
-      \ [shatter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shatter.md)"
+      \ warlock spells:\n\n**Cantrips (at will):** [chill touch](Compendium/spells/chill-touch.md),\
+      \ [eldritch blast](Compendium/spells/eldritch-blast.md), [mending](Compendium/spells/mending.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md), [thorn whip](Compendium/spells/thorn-whip.md),\
+      \ [vicious mockery](Compendium/spells/vicious-mockery.md)\n\n**1st-3rd level\
+      \ (2 slots):** [dissonant whispers](Compendium/spells/dissonant-whispers.md),\
+      \ [fly](Compendium/spells/fly.md), [hex](Compendium/spells/hex.md), [misty step](Compendium/spells/misty-step.md),\
+      \ [sending](Compendium/spells/sending.md), [shatter](Compendium/spells/shatter.md)"
     "name": "Spellcasting"
   - "desc": "K'thriss's innate spellcasting ability is Charisma (spell save DC 14).\
       \ He can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)\n\
-      \n**1/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md)"
+      \n**At will:** [dancing lights](Compendium/spells/dancing-lights.md), [disguise\
+      \ self](Compendium/spells/disguise-self.md)\n\n**1/day each:** [darkness](Compendium/spells/darkness.md),\
+      \ [faerie fire](Compendium/spells/faerie-fire.md)"
     "name": "Innate Spellcasting"
-  - "desc": "K'thriss wears a [robe of stars](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/robe-of-stars.md)\
-      \ (accounted for in his statistics). The robe allows him to cast the following\
-      \ spells: 6/day: [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md)\
-      \ (7 missiles)"
+  - "desc": "K'thriss wears a [robe of stars](Compendium/items/robe-of-stars.md) (accounted\
+      \ for in his statistics). The robe allows him to cast the following spells:\
+      \ 6/day: [magic missile](Compendium/spells/magic-missile.md) (7 missiles)"
     "name": "Special Equipment"
   - "desc": "K'thriss can telepathically speak to any creature he can see within 30\
       \ feet of him, provided the creature can understand at least one language."
     "name": "Awakened Mind"
-  - "desc": "K'thriss has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "K'thriss has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put him to sleep. Sunlight Sensitivity. While in sunlight,\
-      \ K'thriss has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+      \ K'thriss has disadvantage on attack rolls, as well as on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Fey Ancestry"
 "actions":
@@ -115,6 +110,6 @@ K'thriss's familiar, Ligotti, is a semi-sapient remnant of a tentacle attack, sp
     "name": "Sickle"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/kthriss-drowb-ai.webp"
+"image": "Compendium/bestiary/npc/token/kthriss-drowb-ai.webp"
 ```
 ^statblock

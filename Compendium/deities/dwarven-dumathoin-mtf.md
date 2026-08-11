@@ -7,8 +7,8 @@ tags:
 - source/deity/dwarven
 - source/domain/grave
 - source/domain/knowledge
-aliases: 
-- Dumathoin
+aliases:
+- "Dumathoin"
 ---
 # Dumathoin
 *Source: Mordenkainen's Tome of Foes p. 73* 

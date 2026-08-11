@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Boros Legionnaire
+- "Boros Legionnaire"
 ---
 # Boros Legionnaire
 *Source: Guildmasters' Guide to Ravnica p. 40*  
 
 
-- **Skill Proficiencies.** [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)  
+- **Skill Proficiencies.** [Athletics](Rules/skills.md#Athletics), [Intimidation](Rules/skills.md#Intimidation)  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** Choose one of Celestial, Draconic, Goblin, or Minotaur  
-- **Equipment.** A Boros insignia, a feather from an angel's wing, a tattered piece of a Boros banner (a souvenir from a famous battle), a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 2 gp (Boros-minted 1-zino coins)  
+- **Equipment.** A Boros insignia, a feather from an angel's wing, a tattered piece of a Boros banner (a souvenir from a famous battle), a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 2 gp (Boros-minted 1-zino coins)  
 
 As a member of the Boros Legion, your life is devoted to the service of angels and consecrated to the work of establishing justice and peace on the streets of Ravnica. You might be a true believer, inspired by the example of the angels, moved by the plight of the downtrodden, and devoted to the cause of justice. Or you could be a cynic in the ranks, perhaps because you reluctantly followed in the footsteps of a Boros parent, succumbed to the persuasion of a charismatic recruiter's lofty promises, or were drawn in by the prospect of a life of action.
 
@@ -32,12 +33,12 @@ For you, the spells on the Boros Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md), [sacred flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sacred-flame.md) |
-| 1st | [guiding bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guiding-bolt.md), [heroism](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heroism.md) |
-| 2nd | [aid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aid.md), [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md) |
-| 3rd | [beacon of hope](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/beacon-of-hope.md), [blinding smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blinding-smite.md) |
-| 4th | [death ward](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/death-ward.md), [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md) |
-| 5th | [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md) |
+| Cantrip | [fire bolt](Compendium/spells/fire-bolt.md), [sacred flame](Compendium/spells/sacred-flame.md) |
+| 1st | [guiding bolt](Compendium/spells/guiding-bolt.md), [heroism](Compendium/spells/heroism.md) |
+| 2nd | [aid](Compendium/spells/aid.md), [scorching ray](Compendium/spells/scorching-ray.md) |
+| 3rd | [beacon of hope](Compendium/spells/beacon-of-hope.md), [blinding smite](Compendium/spells/blinding-smite.md) |
+| 4th | [death ward](Compendium/spells/death-ward.md), [wall of fire](Compendium/spells/wall-of-fire.md) |
+| 5th | [flame strike](Compendium/spells/flame-strike.md) |
 ^boros-guild-spells
 
 Your magic often features dramatic bursts of flame or radiance. When you cast beneficial spells on your allies, they appear momentarily surrounded with halos of bright fire.

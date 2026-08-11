@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases:
-- Create Homunculus
+- "Create Homunculus"
 level: 6
 school: transmutation
 ritual: false
@@ -33,12 +34,12 @@ components_vsm: [V, S, M]
 - **Components:** V, S, M (clay, ash, and mandrake root, all of which the spell consumes, and a jewel-encrusted dagger worth at least 1,000 gp)
 - **Duration:** Instantaneous
 
-While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking `2d4` piercing damage that can't be reduced in any way. You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a [homunculus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/homunculus.md).
+While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking `2d4` piercing damage that can't be reduced in any way. You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a [homunculus](Compendium/bestiary/construct/homunculus.md).
 
-The statistics of the [homunculus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/homunculus.md) are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by the total, and the homunculus's hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point, and the change to your and the homunculus's hit points ends when you finish your next long rest. The reduction to your hit point maximum can't be removed by any means before then, except by the homunculus's death.
+The statistics of the [homunculus](Compendium/bestiary/construct/homunculus.md) are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homunculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by the total, and the homunculus's hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point, and the change to your and the homunculus's hit points ends when you finish your next long rest. The reduction to your hit point maximum can't be removed by any means before then, except by the homunculus's death.
 
 You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 152*

@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Marketeering
+- "Downtime and Franchise Activity: Marketeering"
 ---
 # Downtime and Franchise Activity: Marketeering
 *Source: Acquisitions Incorporated p. 40* 
 
-Every successful franchise knows that brands require constant management. Developing new markets, shaping catchy slogans, and surveying and engaging customers can all create new sources of revenue. Should you write and sell exciting chapbook serials based on the exploits of Omin, Jim, [Môrgæn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/morgn-ai.md), and [Viari](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/viari-ai.md)? Should you sell a complex investment scheme to a city's guild masters? Should you create a branded stage production based on your franchise's exciting adventures, with a line of clothing to match? All those things and more are encompassed by the fine art of marketeering.
+Every successful franchise knows that brands require constant management. Developing new markets, shaping catchy slogans, and surveying and engaging customers can all create new sources of revenue. Should you write and sell exciting chapbook serials based on the exploits of Omin, Jim, [Môrgæn](Compendium/bestiary/npc/morgn-ai.md), and [Viari](Compendium/bestiary/npc/viari-ai.md)? Should you sell a complex investment scheme to a city's guild masters? Should you create a branded stage production based on your franchise's exciting adventures, with a line of clothing to match? All those things and more are encompassed by the fine art of marketeering.
 
 ## Resources
 
@@ -18,13 +18,13 @@ The players must first sketch out their marketeering plan and present it to the 
 
 ## Resolution
 
-A marketeering effort requires three ability checks, representing drafting the campaign, launching the campaign, and managing its success. Any of the characters or staff members involved in the marketeering can make a check. The DM decides which abilities and skills are applicable, based on the marketeering plan. For example, a plan involving selling a new line of religious items might require an Intelligence ([Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)) check to draft the idea and develop the products, a Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)) check to convince local temples to promote the idea, and a Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) check to ensure the plan receives continued support.
+A marketeering effort requires three ability checks, representing drafting the campaign, launching the campaign, and managing its success. Any of the characters or staff members involved in the marketeering can make a check. The DM decides which abilities and skills are applicable, based on the marketeering plan. For example, a plan involving selling a new line of religious items might require an Intelligence ([Religion](Rules/skills.md#Religion)) check to draft the idea and develop the products, a Charisma ([Deception](Rules/skills.md#Deception)) check to convince local temples to promote the idea, and a Charisma ([Persuasion](Rules/skills.md#Persuasion)) check to ensure the plan receives continued support.
 
 Each check gains a +1 bonus for each additional 100 gp per franchise rank spent above the baseline expenses. When additional gold is spent, the character making the checks determines which checks the bonuses apply to. Additional gold can be spent at any point in the process, allowing the franchise to put more effort into subsequent checks if earlier checks are less than successful. If the character making the check has the obviator or secretarian position, they receive an additional +1 bonus to each check. A maximum bonus of +5 can be applied to each check.
 
 The DC of each check is determined randomly, reflecting the always-unpredictable conditions of the market. The DM rolls `2d10 + 5` for the DC, generating a separate result for each check. The total number of successes determines the outcome of the activity, as noted on the Marketeering table.
 
-![The Magic Of Marketeering](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/img/ai-022-02-21.webp#center)
+![The Magic Of Marketeering](Rules/variant-rules/img/ai-022-02-21.webp#center)
 
 **Marketeering**
 

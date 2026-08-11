@@ -7,8 +7,8 @@ tags:
 - source/deity/norse
 - source/domain/tempest
 - source/domain/war
-aliases: 
-- Thor
+aliases:
+- "Thor"
 ---
 # Thor
 *Source: Player's Handbook p. 299* 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Backstory; Zemni Fields Settlements
+- "Backstory; Zemni Fields Settlements"
 ---
 # Backstory; Zemni Fields Settlements
 *Source: Explorer's Guide to Wildemount p. 191* 

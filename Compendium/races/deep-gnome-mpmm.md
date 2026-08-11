@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/deep-gnome
 aliases:
-- Deep Gnome
+- "Deep Gnome"
 ---
 # Deep Gnome
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 11*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/deep-gnome.webp#right)
+![](Compendium/races/img/deep-gnome.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: humanoid
@@ -29,7 +30,7 @@ You can see in dim light within 120 feet of you as if it were bright light and i
 
 ### Gift of the Svirfneblin
 
-Starting at 3rd level, you can cast the [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md) spell with this trait. Starting at 5th level, you can also cast the [nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md) spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these using spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [disguise self](Compendium/spells/disguise-self.md) spell with this trait. Starting at 5th level, you can also cast the [nondetection](Compendium/spells/nondetection.md) spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these using spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
@@ -39,7 +40,7 @@ You have advantage on Intelligence, Wisdom, and Charisma saving throws against s
 
 ### Svirfneblin Camouflage
 
-When you make a Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) check, you can make the check with advantage. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+When you make a Dexterity ([Stealth](Rules/skills.md#Stealth)) check, you can make the check with advantage. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Description
 

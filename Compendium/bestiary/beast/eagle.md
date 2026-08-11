@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Eagle
+- "Eagle"
 ---
-# [Eagle](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/eagle.md)
+# [Eagle](Compendium/bestiary/beast/eagle.md)
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -36,13 +37,13 @@ aliases:
   - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The eagle has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The eagle has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
@@ -51,7 +52,7 @@ aliases:
     "name": "Talons"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/eagle.webp"
+"image": "Compendium/bestiary/beast/token/eagle.webp"
 ```
 ^statblock
 

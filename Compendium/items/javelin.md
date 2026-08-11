@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/weapon/melee
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Javelin"
 item_type: weapon
 item_subtype: "melee, simple"
@@ -19,7 +20,7 @@ attunement: none
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown)
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 

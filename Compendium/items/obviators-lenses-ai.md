@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/rarity/varies
-aliases: 
+aliases:
 - "Obviator's Lenses"
 item_type: 
 item_subtype: 
@@ -16,11 +17,11 @@ attunement: none
 
 
 
-Also at rank 2, you gain the use of an uncommon magic item taking the form of a pair of spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look through the obviator's lenses, you use a bonus action to make them function as [eyes of minute seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eyes-of-minute-seeing.md) or [eyes of the eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eyes-of-the-eagle.md). Once you make this choice, it cannot be changed until the next dawn.
+Also at rank 2, you gain the use of an uncommon magic item taking the form of a pair of spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look through the obviator's lenses, you use a bonus action to make them function as [eyes of minute seeing](Compendium/items/eyes-of-minute-seeing.md) or [eyes of the eagle](Compendium/items/eyes-of-the-eagle.md). Once you make this choice, it cannot be changed until the next dawn.
 
 ## Enhanced Lenses
 
-At rank 4, your obviator's lenses gain additional power and become a rare magic item. The lenses now function as both [eyes of the eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eyes-of-the-eagle.md) and [eyes of minute seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eyes-of-minute-seeing.md).
+At rank 4, your obviator's lenses gain additional power and become a rare magic item. The lenses now function as both [eyes of the eagle](Compendium/items/eyes-of-the-eagle.md) and [eyes of minute seeing](Compendium/items/eyes-of-minute-seeing.md).
 
 Additionally, you can focus the power of the lenses to gain accuracy in combat, gaining advantage on a weapon attack roll (no action required). If that attack hits, roll one additional weapon damage die. This property of the lenses can't be used again until the next dawn.
 

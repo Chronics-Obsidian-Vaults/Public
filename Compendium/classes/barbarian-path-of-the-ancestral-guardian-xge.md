@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/barbarian/ancestral-guardian
 aliases:
-- Path of the Ancestral Guardian
+- "Path of the Ancestral Guardian"
 ---
 # Path of the Ancestral Guardian
 *[Barbarian](./barbarian.md): Primal Path*  
@@ -43,6 +43,7 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/barbarian.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
@@ -52,13 +53,11 @@ aliases:
 > 
 > Ew. You're disgusting.
 
-## Class Features
-
-### Path of the Ancestral Guardian (Level 3)
-
 Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.
 
 Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.
+
+## Subclass Features
 
 ### Ancestral Protectors (Level 3)
 
@@ -72,7 +71,7 @@ When you reach certain levels in this class, you can reduce the damage by more: 
 
 ### Consult the Spirits (Level 10)
 
-At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md) or [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md) spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md) invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [augury](Compendium/spells/augury.md) or [clairvoyance](Compendium/spells/clairvoyance.md) spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [clairvoyance](Compendium/spells/clairvoyance.md) invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.
 

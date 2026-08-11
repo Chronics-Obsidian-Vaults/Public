@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mtf
 - source/race/tiefling/fierna
 aliases:
-- Tiefling (Fierna)
+- "Tiefling (Fierna)"
 ---
 # Tiefling (Fierna)
 *Source: Mordenkainen's Tome of Foes p. 21*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/tiefling.webp#right)
+![](Compendium/races/img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 wis +1
 - **Size**: Medium
@@ -36,7 +37,7 @@ You have resistance to fire damage.
 
 ### Legacy of Phlegethos
 
-You know the [friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md) cantrip. When you reach 3rd level, you can cast the [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [friends](Compendium/spells/friends.md) cantrip. When you reach 3rd level, you can cast the [charm person](Compendium/spells/charm-person.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [suggestion](Compendium/spells/suggestion.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

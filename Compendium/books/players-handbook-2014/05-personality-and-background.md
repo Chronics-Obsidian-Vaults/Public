@@ -5,14 +5,14 @@ cssclasses:
 tags:
 - source/compendium/src/5e/phb
 aliases:
-- Personality and Background
+- "Personality and Background"
 ---
 # Personality and Background
 *Source: Player's Handbook (2014), p. 121* 
 
 Characters are defined by much more than their race and class. They're individuals with their own stories, interests, connections, and capabilities beyond those that class and race define. This chapter expounds on the details that distinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and the finer points of personality and alignment.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/players-handbook-2014/img/ch4.webp#center)
+![](Compendium/books/players-handbook-2014/img/ch4.webp#center)
 
 ## Character Details
 
@@ -47,7 +47,7 @@ If you want to, you can roll randomly for your character's height and weight usi
 
 The dice roll given in the Height Modifier column determines the character's extra height (in inches) beyond the base height. That same number multiplied by the dice roll or quantity given in the Weight Modifier column determines the character's extra weight (in pounds) beyond the base weight.
 
-![Random Height and Weight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-height-and-weight-phb.md)
+![Random Height and Weight](Compendium/tables/random-height-and-weight-phb.md)
 
 For example, as a human, Tika has a height of 4 feet 8 inches plus 2d10 inches. Her player rolls 2d10 and gets a total of 12, so Tika stands 5 feet 8 inches tall. Then the player uses that same roll of 12 and multiplies it by 2d4 pounds. Her 2d4 roll is 3, so Tika weighs an extra 36 pounds (12 × 3) on top of her base 110 pounds, for a total of 146 pounds.
 
@@ -109,17 +109,17 @@ Your race indicates the languages your character can speak by default, and your 
 
 With your DM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
 
-![Dwarvish Alphabet](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/players-handbook-2014/img/c4dwarvishalphabet.webp#center)
+![Dwarvish Alphabet](Compendium/books/players-handbook-2014/img/c4dwarvishalphabet.webp#center)
 
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Primordial, Primordial, Primordial, and Primordial dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-![Standard Languages](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/standard-languages-phb.md)
+![Standard Languages](Compendium/tables/standard-languages-phb.md)
 
-![Elvish Alphabet](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/players-handbook-2014/img/c4elvishalphabet.webp#center)
+![Elvish Alphabet](Compendium/books/players-handbook-2014/img/c4elvishalphabet.webp#center)
 
-![Exotic Languages](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/exotic-languages-phb.md)
+![Exotic Languages](Compendium/tables/exotic-languages-phb.md)
 
-![Draconic Alphabet](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/players-handbook-2014/img/c4draconicalphabet.webp#center)
+![Draconic Alphabet](Compendium/books/players-handbook-2014/img/c4draconicalphabet.webp#center)
 
 ### Personal Characteristics
 
@@ -186,7 +186,7 @@ Choosing a background provides you with important story cues about your characte
 
 The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/players-handbook-2014/img/c4-1.webp#center)
+![](Compendium/books/players-handbook-2014/img/c4-1.webp#center)
 
 ### Proficiencies
 
@@ -218,5 +218,5 @@ If you can't find a feature that matches your desired background, work with your
 
 > [!note] Tika and Artemis: Backgrounds
 > 
-> Tika Waylan and Artemis Entreri both lived their earliest years as street urchins. Tika's later career as a barmaid didn't really change her, so she might choose the urchin background, gaining proficiency in the [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand) and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth) skills, and learning the tools of the thieving trade. Artemis is more defined by his criminal background, giving him skills in [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception) and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth), as well as proficiency with the tools of thievery and poison.
+> Tika Waylan and Artemis Entreri both lived their earliest years as street urchins. Tika's later career as a barmaid didn't really change her, so she might choose the urchin background, gaining proficiency in the [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand) and [Stealth](Rules/skills.md#Stealth) skills, and learning the tools of the thieving trade. Artemis is more defined by his criminal background, giving him skills in [Deception](Rules/skills.md#Deception) and [Stealth](Rules/skills.md#Stealth), as well as proficiency with the tools of thievery and poison.
 ^tika-and-artemis-backgrounds

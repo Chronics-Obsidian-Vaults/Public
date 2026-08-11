@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow Spirit
+- "Shadow Spirit"
 ---
-# [Shadow Spirit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/shadow-spirit-tce.md)
+# [Shadow Spirit](Compendium/bestiary/monstrosity/shadow-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "35 + 15 for each spell level above 3rd"
 "modifier": !!int "3"
 "stats":
   - !!int "13"
@@ -30,12 +32,11 @@ aliases:
   - !!int "16"
 "speed": "40 ft."
 "damage_resistances": "necrotic"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "understands the languages you speak"
 "traits":
-  - "desc": "The spirit has advantage on attack rolls against [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+  - "desc": "The spirit has advantage on attack rolls against [frightened](Rules/conditions.md#Frightened)\
       \ creatures."
     "name": "Terror Frenzy (Fury Only)"
   - "desc": "Any creature, other than you, that starts its turn within 5 feet of the\
@@ -50,16 +51,17 @@ aliases:
       \ one target. *Hit:* 1d12 + 3 + the spell's level cold damage."
     "name": "Chilling Rend"
   - "desc": "The spirit screams. Each creature within 30 feet of it must succeed on\
-      \ a Wisdom saving throw against your spell save DC or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ for 1 minute. The [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
+      \ a Wisdom saving throw against your spell save DC or be [frightened](Rules/conditions.md#Frightened)\
+      \ for 1 minute. The [frightened](Rules/conditions.md#Frightened) creature can\
+      \ repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Dreadful Scream (1/Day)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the spirit takes the Hide action."
+  - "desc": "While in dim light or darkness, the spirit takes the [Hide](Rules/actions.md#Hide)\
+      \ action."
     "name": "Shadow Stealth (Fear Only)"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/shadow-spirit-tce.webp"
+"image": "Compendium/bestiary/monstrosity/token/shadow-spirit-tce.webp"
 ```
 ^statblock

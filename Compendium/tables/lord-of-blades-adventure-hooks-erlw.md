@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Lord of Blades Adventure Hooks
+- "Lord of Blades Adventure Hooks"
 ---
 # Lord of Blades Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 214* 
@@ -14,10 +14,10 @@ aliases:
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|
-| 1 | A newly awakened [docent](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/docent-erlw.md) (see "chapter 5") tells its new owner that [the Lord of Blades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/the-lord-of-blades-erlw.md) is the only hope for averting a coming catastrophe. |
+| 1 | A newly awakened [docent](Compendium/items/docent-erlw.md) (see "chapter 5") tells its new owner that [the Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md) is the only hope for averting a coming catastrophe. |
 | 2 | A military officer hires the characters to retrace the steps of a lost scouting party into the Mournland and rescue the commander, who is the officer's son. |
-| 3 | Warforged go missing over the course of several weeks; then one resurfaces, badly damaged and raving about [the Lord of Blades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/the-lord-of-blades-erlw.md). |
-| 4 | Characters strike out into a ruin held by [the Lord of Blades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/the-lord-of-blades-erlw.md) and recover a lost relic that has resurfaced in the possession of warforged soldiers. |
+| 3 | Warforged go missing over the course of several weeks; then one resurfaces, badly damaged and raving about [the Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md). |
+| 4 | Characters strike out into a ruin held by [the Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md) and recover a lost relic that has resurfaced in the possession of warforged soldiers. |
 | 5 | A warforged accused of murdering several members of their mercenary company claims to have no memory of the night in question. |
-| 6 | The characters are met by a warforged who delivers a written summons from [the Lord of Blades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/the-lord-of-blades-erlw.md) himself. |
+| 6 | The characters are met by a warforged who delivers a written summons from [the Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md) himself. |
 ^lord-of-blades-adventure-hooks

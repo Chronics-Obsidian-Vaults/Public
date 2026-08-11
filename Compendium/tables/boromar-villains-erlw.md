@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Boromar Villains
+- "Boromar Villains"
 ---
 # Boromar Villains
 *Source: Eberron: Rising from the Last War p. 247* 

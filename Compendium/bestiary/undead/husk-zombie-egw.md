@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Husk Zombie
+- "Husk Zombie"
 ---
-# [Husk Zombie](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/husk-zombie-egw.md)
+# [Husk Zombie](Compendium/bestiary/undead/husk-zombie-egw.md)
 *Source: Explorer's Guide to Wildemount p. 293*  
 
 The wastes of Eastern Wynandir retain many curses and corruptions from the time of the Calamity, the worst of which pervert the sanctity of death. One such curse manifests as a terrible roving fog that draws the corpses of the fallen to rise as husk zombies—resilient undead of frightening speed and bloodlust. As well, some of the more heinous fiends that walk these scarred lands feed on the life force of the living, leaving these terrible undead in their wake.
@@ -37,9 +38,8 @@ The wastes of Eastern Wynandir retain many curses and corruptions from the time 
   - "constitution": !!int "5"
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"
 "traits":
@@ -59,6 +59,6 @@ The wastes of Eastern Wynandir retain many curses and corruptions from the time 
     "name": "Claw"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/husk-zombie-egw.webp"
+"image": "Compendium/bestiary/undead/token/husk-zombie-egw.webp"
 ```
 ^statblock

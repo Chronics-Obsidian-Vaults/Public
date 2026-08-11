@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/rakdos-cultist
@@ -13,7 +14,7 @@ tags:
 classes:
 - Bard (Magical Secrets)
 aliases:
-- Vicious Mockery
+- "Vicious Mockery"
 level: 0
 school: enchantment
 ritual: false
@@ -37,6 +38,6 @@ You unleash a string of insults laced with subtle enchantments at a creature you
 
 This spell's damage increases by `1d4` when you reach 5th level (`2d4`), 11th level (`3d4`), and 17th level (`4d4`).
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

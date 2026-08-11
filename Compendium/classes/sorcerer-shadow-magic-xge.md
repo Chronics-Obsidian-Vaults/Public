@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/sorcerer/shadow
 aliases:
-- Shadow Magic
+- "Shadow Magic"
 ---
 # Shadow Magic
 *[Sorcerer](./sorcerer.md): Sorcerous Origin*  
@@ -43,14 +43,11 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/sorcerer.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
 > Sometimes I disintegrate my shadow when I see it, because I think it's a different beholder.
-
-## Class Features
-
-### Shadow Magic (Level 1)
 
 You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
 
@@ -68,11 +65,13 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 | 6 | You blinked. Once. Last week. |
 ^shadow-sorcerer-quirks
 
+## Subclass Features
+
 ### Eyes of the Dark (Level 1)
 
-Starting at 1st level, you have [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) with a range of 120 feet.
+Starting at 1st level, you have [darkvision](Rules/senses.md#Darkvision) with a range of 120 feet.
 
-When you reach 3rd level in this class, you learn the [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md) spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md) created by the spell.
+When you reach 3rd level in this class, you learn the [darkness](Compendium/spells/darkness.md) spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [darkness](Compendium/spells/darkness.md) created by the spell.
 
 ### Strength of the Grave (Level 1)
 
@@ -82,7 +81,7 @@ After the saving throw succeeds, you can't use this feature again until you fini
 
 ### Hound of Ill Omen (Level 6)
 
-At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [hound of ill omen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/hound-of-ill-omen-xge.md) to target one creature you can see within 120 feet of you. The hound uses the [dire wolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/dire-wolf.md)'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
+At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [hound of ill omen](Compendium/bestiary/monstrosity/hound-of-ill-omen-xge.md) to target one creature you can see within 120 feet of you. The hound uses the [dire wolf](Compendium/bestiary/beast/dire-wolf.md)'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
 
 - The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.  
 - It appears with a number of temporary hit points equal to half your sorcerer level.  
@@ -99,4 +98,4 @@ At 14th level, you gain the ability to step from one shadow into another. When y
 
 Starting at 18th level, you can spend 6 sorcery points as a bonus action to magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object.
 
-You remain in this form for 1 minute. It ends early if you are [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), if you die, or if you dismiss it as a bonus action.
+You remain in this form for 1 minute. It ends early if you are [incapacitated](Rules/conditions.md#Incapacitated), if you die, or if you dismiss it as a bonus action.

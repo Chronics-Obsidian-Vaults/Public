@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/orzhov-representative
@@ -8,6 +9,7 @@ tags:
 - source/spell/class/warlock
 - source/spell/class/wizard
 - source/spell/feat/magic-initiate/wizard-spells
+- source/spell/feat/mark-of-scribing
 - source/spell/feat/ritual-caster/wizard-spells
 - source/spell/feat/shadow-touched
 - source/spell/level/1st-level
@@ -16,7 +18,6 @@ tags:
 - source/spell/school/illusion
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/eldritch-knight
-- source/spell/subrace/gnome-mark-of-scribing
 classes:
 - Bard (Magical Secrets)
 - Fighter (Eldritch Knight)
@@ -24,7 +25,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Illusory Script
+- "Illusory Script"
 level: 1
 ritual: true
 school: illusion
@@ -50,8 +51,8 @@ To you and any creatures you designate when you cast the spell, the writing appe
 
 Should the spell be dispelled, the original script and the illusion both disappear.
 
-A creature with [truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight) can read the hidden message.
+A creature with [truesight](Rules/senses.md#Truesight) can read the hidden message.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

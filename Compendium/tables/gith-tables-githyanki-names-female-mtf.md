@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githyanki Names, Female
+- "Gith Tables; Githyanki Names, Female"
 ---
 # Gith Tables; Githyanki Names, Female
 *Source: Mordenkainen's Tome of Foes p. 97* 

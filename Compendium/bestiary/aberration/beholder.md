@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/13
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Beholder
+- "Beholder"
 ---
-# [Beholder](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/beholder.md)
-*Source: Monster Manual p. 28, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Book of Many Things*  
+# [Beholder](Compendium/bestiary/aberration/beholder.md)
+*Source: Monster Manual p. 28*  
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
 
@@ -33,7 +34,7 @@ Some beholders manage to channel their xenophobic tendencies into a terrible des
 
 Because they refuse to share territory with others, most beholders withdraw to frigid hills, abandoned ruins, and deep caverns to scheme. A beholder's lair is carved out by its disintegration eye ray, emphasizing vertical passages connecting chambers stacked on top of each other. Such an environment allows a beholder to move freely, even as it prevents intruders from easily creeping about. When intruders do break in, the height of its open ceilings allows a beholder to float up and harry foes on the floor.
 
-As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified) adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
+As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including [petrified](Rules/conditions.md#Petrified) adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
 
 > [!quote] A quote from Valkara Ironfeel, dwarf sage  
 > 
@@ -66,19 +67,18 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+12"
-"condition_immunities": "[prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 22"
+"condition_immunities": "[prone](Rules/conditions.md#Prone)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "13"
 "traits":
   - "desc": "The beholder's central eye creates an area of antimagic, as in the [antimagic\
-      \ field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md)\
-      \ spell, in a 150-foot cone. At the start of each of its turns, the beholder\
-      \ decides which way the cone faces and whether the cone is active. The area\
-      \ works against the beholder's own eye rays."
+      \ field](Compendium/spells/antimagic-field.md) spell, in a 150-foot cone. At\
+      \ the start of each of its turns, the beholder decides which way the cone faces\
+      \ and whether the cone is active. The area works against the beholder's own\
+      \ eye rays."
     "name": "Antimagic Cone"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 14\
@@ -87,13 +87,13 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
   - "desc": "The beholder shoots three of the following magical eye rays at random\
       \ (reroll duplicates), choosing one to three targets it can see within 120 feet\
       \ of it:\n\n- **1. Charm Ray.** The targeted creature must succeed on a DC 16\
-      \ Wisdom saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the beholder for 1 hour, or until the beholder harms the creature.  \n\
-      - **2. Paralyzing Ray.** The targeted creature must succeed on a DC 16 Constitution\
-      \ saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success.  \n- **3. Fear Ray.**\
-      \ The targeted creature must succeed on a DC 16 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ Wisdom saving throw or be [charmed](Rules/conditions.md#Charmed) by the beholder\
+      \ for 1 hour, or until the beholder harms the creature.  \n- **2. Paralyzing\
+      \ Ray.** The targeted creature must succeed on a DC 16 Constitution saving throw\
+      \ or be [paralyzed](Rules/conditions.md#Paralyzed) for 1 minute. The target\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success.  \n- **3. Fear Ray.** The targeted creature must succeed\
+      \ on a DC 16 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- **4. Slowing Ray.**\
       \ The targeted creature must succeed on a DC 16 Dexterity saving throw. On a\
@@ -105,23 +105,22 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
       \ taking 36 (8d8) necrotic damage on a failed save, or half as much damage on\
       \ a successful one.  \n- **6. Telekinetic Ray.** If the target is a creature,\
       \ it must succeed on a DC 16 Strength saving throw or the beholder moves it\
-      \ up to 30 feet in any direction. It is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ up to 30 feet in any direction. It is [restrained](Rules/conditions.md#Restrained)\
       \ by the ray's telekinetic grip until the start of the beholder's next turn\
-      \ or until the beholder is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
+      \ or until the beholder is [incapacitated](Rules/conditions.md#Incapacitated).\
       \  \n\n    If the target is an object weighing 300 pounds or less that isn't\
       \ being worn or carried, it is moved up to 30 feet in any direction. The beholder\
       \ can also exert fine control on objects with this ray, such as manipulating\
       \ a simple tool or opening a door or a container.  \n- **7. Sleep Ray.** The\
       \ targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep\
-      \ and remain [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
-      \ for 1 minute. The target awakens if it takes damage or another creature takes\
-      \ an action to wake it. This ray has no effect on constructs and undead.  \n\
-      - **8. Petrification Ray.** The targeted creature must make a DC 16 Dexterity\
-      \ saving throw. On a failed save, the creature begins to turn to stone and is\
-      \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ and remain [unconscious](Rules/conditions.md#Unconscious) for 1 minute. The\
+      \ target awakens if it takes damage or another creature takes an action to wake\
+      \ it. This ray has no effect on constructs and undead.  \n- **8. Petrification\
+      \ Ray.** The targeted creature must make a DC 16 Dexterity saving throw. On\
+      \ a failed save, the creature begins to turn to stone and is [restrained](Rules/conditions.md#Restrained).\
       \ It must repeat the saving throw at the end of its next turn. On a success,\
-      \ the effect ends. On a failure, the creature is [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified)\
-      \ until freed by the  [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
+      \ the effect ends. On a failure, the creature is [petrified](Rules/conditions.md#Petrified)\
+      \ until freed by the [greater restoration](Compendium/spells/greater-restoration.md)\
       \ spell or other magic.  \n- **9. Disintegration Ray.** If the target is a creature,\
       \ it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force\
       \ damage. If this damage reduces the creature to 0 hit points, its body becomes\
@@ -141,14 +140,14 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
       \ round.  \n- Walls within 120 feet of the beholder sprout grasping appendages\
       \ until initiative count 20 on the round after next. Each creature of the beholder's\
       \ choice that starts its turn within 10 feet of such a wall must succeed on\
-      \ a DC 15 Dexterity saving throw or be [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled).\
-      \ Escaping requires a successful DC 15 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics))\
-      \ or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics))\
-      \ check.  \n- An eye opens on a solid surface within 60 feet of the beholder.\
-      \ One random eye ray of the beholder shoots from that eye at a target of the\
-      \ beholder's choice that it can see. The eye then closes and disappears.  \n\
-      \nThe beholder can't repeat an effect until they have all been used, and it\
-      \ can't use the same effect two rounds in a row."
+      \ a DC 15 Dexterity saving throw or be [grappled](Rules/conditions.md#Grappled).\
+      \ Escaping requires a successful DC 15 Strength ([Athletics](Rules/skills.md#Athletics))\
+      \ or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check.  \n- An eye\
+      \ opens on a solid surface within 60 feet of the beholder. One random eye ray\
+      \ of the beholder shoots from that eye at a target of the beholder's choice\
+      \ that it can see. The eye then closes and disappears.  \n\nThe beholder can't\
+      \ repeat an effect until they have all been used, and it can't use the same\
+      \ effect two rounds in a row."
     "name": ""
 "regional_effects":
   - "desc": "A region containing a beholder's lair is warped by the creature's unnatural\
@@ -170,11 +169,7 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
     "name": "Eye Ray"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/beholder.webp"
+"image": "Compendium/bestiary/aberration/token/beholder.webp"
 ```
 ^statblock
 

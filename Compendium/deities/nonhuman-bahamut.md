@@ -7,8 +7,8 @@ tags:
 - source/deity/nonhuman
 - source/domain/life
 - source/domain/war
-aliases: 
-- Bahamut
+aliases:
+- "Bahamut"
 ---
 # Bahamut
 *Source: Player's Handbook p. 296* 

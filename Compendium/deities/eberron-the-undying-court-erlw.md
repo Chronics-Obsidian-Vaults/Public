@@ -8,12 +8,12 @@ tags:
 - source/domain/grave
 - source/domain/knowledge
 - source/domain/life
-aliases: 
-- The Undying Court
+aliases:
+- "The Undying Court"
 ---
 # The Undying Court
 *Source: Eberron: Rising from the Last War p. 141* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/erlw-the-undying-court.webp#symbol)
+![](Compendium/deities/img/erlw-the-undying-court.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: Other Faiths of Eberron

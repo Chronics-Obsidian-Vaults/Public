@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/tortle
 aliases:
-- Tortle
+- "Tortle"
 ---
 # Tortle
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 34*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/tortle.webp#right)
+![](Compendium/races/img/tortle.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -35,11 +36,11 @@ Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth), or [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival).
+Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [Animal Handling](Rules/skills.md#Animal%20Handling), [Medicine](Rules/skills.md#Medicine), [Nature](Rules/skills.md#Nature), [Perception](Rules/skills.md#Perception), [Stealth](Rules/skills.md#Stealth), or [Survival](Rules/skills.md#Survival).
 
 ### Shell Defense
 
-You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone), your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
+You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [prone](Rules/conditions.md#Prone), your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
 
 ## Description
 

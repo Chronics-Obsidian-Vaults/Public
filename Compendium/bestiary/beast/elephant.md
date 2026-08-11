@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elephant
+- "Elephant"
 ---
-# [Elephant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/elephant.md)
+# [Elephant](Compendium/bestiary/beast/elephant.md)
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -39,20 +40,20 @@ aliases:
 "traits":
   - "desc": "If the elephant moves at least 20 feet straight toward a creature and\
       \ then hits it with a gore attack on the same turn, that target must succeed\
-      \ on a DC 12 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ If the target is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ the elephant can make one stomp attack against it as a bonus action."
+      \ on a DC 12 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
+      \ If the target is [prone](Rules/conditions.md#Prone), the elephant can make\
+      \ one stomp attack against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 19\
       \ (3d8 + 6) piercing damage."
     "name": "Gore"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one [prone](Rules/conditions.md#Prone)\
       \ creature. *Hit:* 22 (3d10 + 6) bludgeoning damage."
     "name": "Stomp"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/elephant.webp"
+"image": "Compendium/bestiary/beast/token/elephant.webp"
 ```
 ^statblock
 

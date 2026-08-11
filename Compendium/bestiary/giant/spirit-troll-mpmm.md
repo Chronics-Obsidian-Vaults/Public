@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/11
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spirit Troll
+- "Spirit Troll"
 ---
-# [Spirit Troll](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/spirit-troll-mpmm.md)
+# [Spirit Troll](Compendium/bestiary/giant/spirit-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
@@ -49,19 +50,15 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "acid, cold, fire"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained),\
+  \ [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Giant"
 "cr": "11"
 "traits":
@@ -79,8 +76,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 19\
       \ (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving\
-      \ throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. The [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ throw or be [stunned](Rules/conditions.md#Stunned) for 1 minute. The [stunned](Rules/conditions.md#Stunned)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Bite"
@@ -90,7 +86,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/spirit-troll-mpmm.webp"
+"image": "Compendium/bestiary/giant/token/spirit-troll-mpmm.webp"
 ```
 ^statblock
 

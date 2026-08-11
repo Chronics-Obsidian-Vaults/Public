@@ -7,8 +7,8 @@ tags:
 - source/deity/gnome
 - source/domain/forge
 - source/domain/knowledge
-aliases: 
-- Flandal Steelskin
+aliases:
+- "Flandal Steelskin"
 ---
 # Flandal Steelskin
 *Source: Mordenkainen's Tome of Foes p. 111* 

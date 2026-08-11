@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/6
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orzhov Giant
+- "Orzhov Giant"
 ---
-# [Orzhov Giant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/orzhov-giant-ggr.md)
+# [Orzhov Giant](Compendium/bestiary/giant/orzhov-giant-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 202*  
 
 A few giants join the ranks of the Orzhov Syndicate and serve as guards, executioners, and thugs-the muscle of the guild. The presence of Orzhov giants in markets and streets serves as an effective reminder for business owners to keep their payments up to date.
@@ -26,7 +27,7 @@ Giants use their tremendous size and strength to advance the cause of no less th
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "84"
 "hit_dice": "8d10 + 40"
 "modifier": !!int "1"
@@ -42,8 +43,9 @@ Giants use their tremendous size and strength to advance the cause of no less th
   - "dexterity": !!int "4"
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common, Giant"
 "cr": "6"
 "traits":
@@ -66,6 +68,6 @@ Giants use their tremendous size and strength to advance the cause of no less th
     "name": "Rock"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/orzhov-giant-ggr.webp"
+"image": "Compendium/bestiary/giant/token/orzhov-giant-ggr.webp"
 ```
 ^statblock

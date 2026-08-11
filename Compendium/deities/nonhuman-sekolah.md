@@ -7,8 +7,8 @@ tags:
 - source/deity/nonhuman
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Sekolah
+aliases:
+- "Sekolah"
 ---
 # Sekolah
 *Source: Player's Handbook p. 296* 

@@ -7,8 +7,8 @@ tags:
 - source/deity/halfling
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Sheela Peryroyl
+aliases:
+- "Sheela Peryroyl"
 ---
 # Sheela Peryroyl
 *Source: Mordenkainen's Tome of Foes p. 103* 

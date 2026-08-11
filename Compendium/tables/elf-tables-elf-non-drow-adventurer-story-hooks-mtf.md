@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Elf Tables; Elf (Non-drow) Adventurer Story Hooks
+- "Elf Tables; Elf (Non-drow) Adventurer Story Hooks"
 ---
 # Elf Tables; Elf (Non-drow) Adventurer Story Hooks
 *Source: Mordenkainen's Tome of Foes p. 64* 

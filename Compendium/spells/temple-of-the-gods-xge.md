@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
 - source/spell/class/cleric
 - source/spell/level/7th-level
 - source/spell/school/conjuration
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 classes:
 - Bard (Magical Secrets)
 - Cleric
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Temple of the Gods
+- "Temple of the Gods"
 level: 7
 school: conjuration
 ritual: false
@@ -45,10 +46,10 @@ In addition, the sensors created by divination spells can't appear inside the te
 
 Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).
 
-The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md), and [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md) has no effect on it. A [disintegrate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disintegrate.md) spell destroys the temple instantly.
+The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by [dispel magic](Compendium/spells/dispel-magic.md), and [antimagic field](Compendium/spells/antimagic-field.md) has no effect on it. A [disintegrate](Compendium/spells/disintegrate.md) spell destroys the temple instantly.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Xanathar's Guide to Everything p. 167*

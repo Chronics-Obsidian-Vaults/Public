@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Guild Artisan
+- "Guild Artisan"
 ---
 # Guild Artisan
 *Source: Player's Handbook p. 132*  
 
 
-- **Skill Proficiencies.** [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Insight](Rules/skills.md#Insight), [Persuasion](Rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** One of your choice  
-- **Equipment.** A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of [traveler's clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/travelers-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of [traveler's clothes](Compendium/items/travelers-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
 

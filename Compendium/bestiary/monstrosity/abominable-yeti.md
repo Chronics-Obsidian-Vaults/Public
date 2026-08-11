@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/9
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Abominable Yeti
+- "Abominable Yeti"
 ---
-# [Abominable Yeti](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/abominable-yeti.md)
-*Source: Monster Manual p. 306, Explorer's Guide to Wildemount*  
+# [Abominable Yeti](Compendium/bestiary/monstrosity/abominable-yeti.md)
+*Source: Monster Manual p. 306*  
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.
 
@@ -61,23 +62,22 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
   - !!int "9"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "cold"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "Yeti"
 "cr": "9"
 "traits":
   - "desc": "If the yeti takes fire damage, it has disadvantage on attack rolls and\
       \ ability checks until the end of its next turn."
     "name": "Fear of Fire"
-  - "desc": "The yeti has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The yeti has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
-  - "desc": "The yeti has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The yeti has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide in snowy terrain."
     "name": "Snow Camouflage"
 "actions":
@@ -88,7 +88,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
     "name": "Claw"
   - "desc": "The yeti targets one creature it can see within 30 feet of it. If the\
       \ target can see the yeti, the target must succeed on a DC 18 Constitution saving\
-      \ throw against this magic or take 21 (6d6) cold damage and then be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ throw against this magic or take 21 (6d6) cold damage and then be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute, unless it is immune to cold damage. The target can repeat the\
       \ saving throw at the end of each of its turns, ending the effect on itself\
       \ on a success. If the target's saving throw is successful, or if the effect\
@@ -100,8 +100,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
     "name": "Cold Breath (Recharge 6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/abominable-yeti.webp"
+"image": "Compendium/bestiary/monstrosity/token/abominable-yeti.webp"
 ```
 ^statblock
 

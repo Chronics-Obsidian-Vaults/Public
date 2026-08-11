@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -9,9 +10,10 @@ tags:
 - source/spell/level/cantrip
 - source/spell/optfeature/blessed-warrior
 - source/spell/optfeature/pact-of-the-tome
+- source/spell/race/khoravar
 - source/spell/race/tiefling-base
 - source/spell/school/transmutation
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subrace/tiefling
 - source/spell/subrace/tiefling-asmodeus
 - source/spell/subrace/tiefling-baalzebul
@@ -22,9 +24,9 @@ tags:
 classes:
 - Bard (Magical Secrets)
 - Cleric
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Thaumaturgy
+- "Thaumaturgy"
 level: 0
 school: transmutation
 ritual: false
@@ -55,6 +57,6 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

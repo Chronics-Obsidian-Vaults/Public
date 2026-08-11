@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/rarity/common
 - source/item/tier/minor
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of Adornment"
 item_type: weapon
 item_subtype: simple
@@ -20,7 +21,7 @@ attunement: none
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 If you place an object weighing no more than 1 pound (such as a shard of crystal, an egg, or a stone) above the tip of the staff while holding it, the object floats an inch from the staff's tip and remains there until it is removed or until the staff is no longer in your possession. The staff can have up to three such objects floating over its tip at any given time. While holding the staff, you can make one or more of the objects slowly spin or turn in place.

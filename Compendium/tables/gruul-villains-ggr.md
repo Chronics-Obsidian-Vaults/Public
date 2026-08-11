@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Gruul Villains
+- "Gruul Villains"
 ---
 # Gruul Villains
 *Source: Guildmasters' Guide to Ravnica p. 141* 
@@ -14,7 +14,7 @@ aliases:
 
 | dice: d8 | Villain |
 |----------|---------|
-| 1 | A [druid of the Old Ways](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/druid-of-the-old-ways-ggr.md), spurred by visions of the end of civilization, plans humanoid sacrifices in the name of Ilharg the Raze-Boar. |
+| 1 | A [druid of the Old Ways](Compendium/bestiary/humanoid/druid-of-the-old-ways-ggr.md), spurred by visions of the end of civilization, plans humanoid sacrifices in the name of Ilharg the Raze-Boar. |
 | 2 | A druid is directing herds of beasts to run amok through tenement neighborhoods. |
 | 3 | A druid summons huge vines and roots to tear buildings down. |
 | 4 | A clan chieftain leads a raid to settle a personal vendetta against another guild. |

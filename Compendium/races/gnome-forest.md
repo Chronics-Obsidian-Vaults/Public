@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/phb
 - source/race/gnome/forest
 aliases:
-- Gnome (Forest)
+- "Gnome (Forest)"
 ---
 # Gnome (Forest)
 *Source: Player's Handbook p. 37*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/gnome.webp#right)
+![](Compendium/races/img/gnome.webp#right)
 
 - **Ability Scores**: dex +1
 - **Size**: Small
@@ -40,7 +41,7 @@ You can speak, read, and write Common and Gnomish. The Gnomish language, which u
 
 ### Natural Illusionist
 
-You know the [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md) cantrip. Intelligence is your spellcasting ability for it.
+You know the [minor illusion](Compendium/spells/minor-illusion.md) cantrip. Intelligence is your spellcasting ability for it.
 
 ### Speak with Small Beasts
 

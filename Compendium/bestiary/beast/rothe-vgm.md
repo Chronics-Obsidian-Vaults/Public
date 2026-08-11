@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/1-4
@@ -10,12 +11,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rothé
+- "Rothé"
 ---
-# [Rothé](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/rothe-vgm.md)
+# [Rothé](Compendium/bestiary/beast/rothe-vgm.md)
 *Source: Volo's Guide to Monsters p. 208*  
 
-Ordinary rothé resemble musk oxen and have [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 30 feet.
+Ordinary rothé resemble musk oxen and have [darkvision](Rules/senses.md#Darkvision) out to a range of 30 feet.
 
 ```statblock
 "name": "Rothé (VGM)"
@@ -34,8 +35,7 @@ Ordinary rothé resemble musk oxen and have [darkvision](/Campaigns/Chronics%20o
   - !!int "10"
   - !!int "4"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -49,7 +49,7 @@ Ordinary rothé resemble musk oxen and have [darkvision](/Campaigns/Chronics%20o
     "name": "Gore"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/rothe-vgm.webp"
+"image": "Compendium/bestiary/beast/token/rothe-vgm.webp"
 ```
 ^statblock
 

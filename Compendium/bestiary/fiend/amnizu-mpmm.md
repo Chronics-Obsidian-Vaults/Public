@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/18
@@ -9,14 +10,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Amnizu
+- "Amnizu"
 ---
-# [Amnizu](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/amnizu-mpmm.md)
+# [Amnizu](Compendium/bestiary/fiend/amnizu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*  
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.
 
-Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of [lemures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/lemure.md). Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
+Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of [lemures](Compendium/bestiary/fiend/lemure.md). Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
 
 ```statblock
 "name": "Amnizu (MPMM)"
@@ -43,19 +44,17 @@ Some amnizus perform the critical task of watching over the River Styx from fort
   - "wisdom": !!int "7"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 17"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 17"
 "languages": "Common, Infernal, telepathy 1,000 ft."
 "cr": "18"
 "traits":
-  - "desc": "Magical darkness doesn't impede the amnizu's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the amnizu's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The amnizu has advantage on saving throws against spells and other magical\
       \ effects."
@@ -69,23 +68,22 @@ Some amnizus perform the critical task of watching over the River Styx from fort
     "name": "Taskmaster Whip"
   - "desc": "The amnizu targets one or two creatures that it can see within 60 feet\
       \ of it. Each target must succeed on a DC 19 Wisdom saving throw or take 26\
-      \ (4d12) necrotic damage and be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ until the start of the amnizu's next turn."
+      \ (4d12) necrotic damage and be [blinded](Rules/conditions.md#Blinded) until\
+      \ the start of the amnizu's next turn."
     "name": "Blinding Rot"
   - "desc": "The amnizu targets one creature it can see within 60 feet of it. That\
       \ creature must succeed on a DC 18 Intelligence saving throw or take 26 (4d12)\
-      \ psychic damage and become [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. A [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ creature repeats the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. If the target is [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for the full minute, it forgets everything it sensed, experienced, and learned\
-      \ during the last 5 hours."
+      \ psychic damage and become [stunned](Rules/conditions.md#Stunned) for 1 minute.\
+      \ A [stunned](Rules/conditions.md#Stunned) creature repeats the saving throw\
+      \ at the end of each of its turns, ending the effect on itself on a success.\
+      \ If the target is [stunned](Rules/conditions.md#Stunned) for the full minute,\
+      \ it forgets everything it sensed, experienced, and learned during the last\
+      \ 5 hours."
     "name": "Forgetfulness (Recharge 6)"
   - "desc": "The amnizu casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 19):\n\n\
-      **At will:** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md)\n\
-      \n**3/day:** [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md)\n\
-      \n**1/day:** [feeblemind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feeblemind.md)"
+      **At will:** [command](Compendium/spells/command.md)\n\n**3/day:** [dominate\
+      \ monster](Compendium/spells/dominate-monster.md)\n\n**1/day:** [feeblemind](Compendium/spells/feeblemind.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 60 feet of the amnizu makes an attack roll against\
@@ -99,6 +97,6 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/amnizu-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/amnizu-mpmm.webp"
 ```
 ^statblock

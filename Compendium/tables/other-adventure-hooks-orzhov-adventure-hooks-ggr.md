@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Other Adventure Hooks; Orzhov Adventure Hooks
+- "Other Adventure Hooks; Orzhov Adventure Hooks"
 ---
 # Other Adventure Hooks; Orzhov Adventure Hooks
 *Source: Guildmasters' Guide to Ravnica p. 149* 
@@ -15,9 +15,9 @@ aliases:
 | dice: d6 | Adventure Hook |
 |----------|----------------|
 | 1 | Newly minted Orzhov coins are inscribed with a magical symbol that binds the spirit of anyone who uses them. |
-| 2 | [Indentured spirits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/indentured-spirit-ggr.md) have been deployed to haunt a location the Orzhov want to keep people away from. |
-| 3 | Thrulls (a [servitor thrull](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/servitor-thrull-ggr.md) or [winged thrull](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/winged-thrull-ggr.md)) that have broken free of Orzhov control are causing mischief. |
+| 2 | [Indentured spirits](Compendium/bestiary/undead/indentured-spirit-ggr.md) have been deployed to haunt a location the Orzhov want to keep people away from. |
+| 3 | Thrulls (a [servitor thrull](Compendium/bestiary/construct/servitor-thrull-ggr.md) or [winged thrull](Compendium/bestiary/construct/winged-thrull-ggr.md)) that have broken free of Orzhov control are causing mischief. |
 | 4 | Items appear on the black market that were obviously stolen from an Orzhov vault, but no one admits that the theft has occurred or claims credit. |
-| 5 | [Gargoyles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/gargoyle.md) perched on structures throughout the city are robbing passersby and delivering their stolen goods to an Orzhov basilica. |
+| 5 | [Gargoyles](Compendium/bestiary/elemental/gargoyle.md) perched on structures throughout the city are robbing passersby and delivering their stolen goods to an Orzhov basilica. |
 | 6 | An eclipse triggers violent behavior from bound Orzhov spirits. |
 ^orzhov-adventure-hooks

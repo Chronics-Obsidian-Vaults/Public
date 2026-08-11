@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hydra
+- "Hydra"
 ---
-# [Hydra](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/hydra.md)
-*Source: Monster Manual p. 190, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Hydra](Compendium/bestiary/monstrosity/hydra.md)
+*Source: Monster Manual p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads. At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god named Lernaea and cast her blood across the multiverse. Each drop that fell upon a world spawned a multi-headed hydra consumed by a hunger as great as the fallen god's hatred. Great champions are known to test their mettle against these fearsome creatures.
 
@@ -44,27 +45,24 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 16"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 16"
 "languages": ""
 "cr": "8"
 "traits":
   - "desc": "The hydra can hold its breath for 1 hour."
     "name": "Hold Breath"
   - "desc": "The hydra has five heads. While it has more than one head, the hydra\
-      \ has advantage on saving throws against being [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-      \ and knocked [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious).\n\
-      \nWhenever the hydra takes 25 or more damage in a single turn, one of its heads\
-      \ dies. If all its heads die, the hydra dies.\n\nAt the end of its turn, it\
-      \ grows two heads for each of its heads that died since its last turn, unless\
-      \ it has taken fire damage since its last turn. The hydra regains 10 hit points\
-      \ for each head regrown in this way."
+      \ has advantage on saving throws against being [blinded](Rules/conditions.md#Blinded),\
+      \ [charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened),\
+      \ [frightened](Rules/conditions.md#Frightened), [stunned](Rules/conditions.md#Stunned),\
+      \ and knocked [unconscious](Rules/conditions.md#Unconscious).\n\nWhenever the\
+      \ hydra takes 25 or more damage in a single turn, one of its heads dies. If\
+      \ all its heads die, the hydra dies.\n\nAt the end of its turn, it grows two\
+      \ heads for each of its heads that died since its last turn, unless it has taken\
+      \ fire damage since its last turn. The hydra regains 10 hit points for each\
+      \ head regrown in this way."
     "name": "Multiple Heads"
   - "desc": "For each head the hydra has beyond one, it gets an extra reaction that\
       \ can be used only for opportunity attacks."
@@ -79,9 +77,7 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/hydra.webp"
+"image": "Compendium/bestiary/monstrosity/token/hydra.webp"
 ```
 ^statblock
 

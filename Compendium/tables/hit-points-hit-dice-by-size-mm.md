@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mm
 aliases:
-- Hit Points; Hit Dice by Size
+- "Hit Points; Hit Dice by Size"
 ---
 # Hit Points; Hit Dice by Size
 *Source: Monster Manual p. 7* 

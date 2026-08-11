@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Random Traps; Trap Trigger
+- "Random Traps; Trap Trigger"
 ---
 # Random Traps; Trap Trigger
 *Source: Dungeon Master's Guide p. 297* 

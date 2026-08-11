@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Greatsword"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -18,7 +19,7 @@ attunement: none
 
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 50 gp
 - **Weight**: 6.0 lbs.
 

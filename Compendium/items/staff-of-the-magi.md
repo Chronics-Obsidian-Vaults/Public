@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/tier/major
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of the Magi"
 item_type: weapon
 item_subtype: simple
@@ -16,12 +17,12 @@ attunement: required
 ---
 # Staff of the Magi
 *Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/staff-of-the-magi.webp#right)
+![](Compendium/items/img/staff-of-the-magi.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
@@ -34,9 +35,9 @@ While holding the staff, you have advantage on saving throws against spells. In 
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md) (7 charges), [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md) (3 charges), [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) (7th-level version, 7 charges), [flaming sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flaming-sphere.md) (2 charges), [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md) (4 charges), [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md) (2 charges), [knock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/knock.md) (2 charges), [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md) (7th-level version, 7 charges), [passwall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/passwall.md) (5 charges), [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md) (7 charges), [telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md) (5 charges), [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md) (4 charges), or [web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md) (2 charges).
+While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [conjure elemental](Compendium/spells/conjure-elemental.md) (7 charges), [dispel magic](Compendium/spells/dispel-magic.md) (3 charges), [fireball](Compendium/spells/fireball.md) (7th-level version, 7 charges), [flaming sphere](Compendium/spells/flaming-sphere.md) (2 charges), [ice storm](Compendium/spells/ice-storm.md) (4 charges), [invisibility](Compendium/spells/invisibility.md) (2 charges), [knock](Compendium/spells/knock.md) (2 charges), [lightning bolt](Compendium/spells/lightning-bolt.md) (7th-level version, 7 charges), [passwall](Compendium/spells/passwall.md) (5 charges), [plane shift](Compendium/spells/plane-shift.md) (7 charges), [telekinesis](Compendium/spells/telekinesis.md) (5 charges), [wall of fire](Compendium/spells/wall-of-fire.md) (4 charges), or [web](Compendium/spells/web.md) (2 charges).
 
-You can also use an action to cast one of the following spells from the staff without using any charges: [arcane lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md), [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md), [enlarge/reduce](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enlarge-reduce.md), [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md), [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md), or [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md).
+You can also use an action to cast one of the following spells from the staff without using any charges: [arcane lock](Compendium/spells/arcane-lock.md), [detect magic](Compendium/spells/detect-magic.md), [enlarge/reduce](Compendium/spells/enlarge-reduce.md), [light](Compendium/spells/light.md), [mage hand](Compendium/spells/mage-hand.md), or [protection from evil and good](Compendium/spells/protection-from-evil-and-good.md).
 
 ## Retributive Strike
 

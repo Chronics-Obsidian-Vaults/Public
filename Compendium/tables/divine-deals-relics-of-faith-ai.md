@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Divine Deals; Relics of Faith
+- "Divine Deals; Relics of Faith"
 ---
 # Divine Deals; Relics of Faith
 *Source: Acquisitions Incorporated p. 56* 

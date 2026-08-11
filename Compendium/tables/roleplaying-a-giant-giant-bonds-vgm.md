@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Giant; Giant Bonds
+- "Roleplaying a Giant; Giant Bonds"
 ---
 # Roleplaying a Giant; Giant Bonds
 *Source: Volo's Guide to Monsters p. 23* 

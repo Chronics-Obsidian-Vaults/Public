@@ -7,8 +7,8 @@ tags:
 - source/deity/gnomish
 - source/domain/death
 - source/domain/war
-aliases: 
-- Urdlen
+aliases:
+- "Urdlen"
 ---
 # Urdlen
 *Source: Sword Coast Adventurer's Guide p. 24* 

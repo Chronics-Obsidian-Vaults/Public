@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Helm of Brilliance"
 item_type: 
 item_subtype: 
@@ -15,14 +16,14 @@ attunement: required
 ---
 # Helm of Brilliance
 *Wondrous item, major, very rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/helm-of-brilliance.webp#right)
+![](Compendium/items/img/helm-of-brilliance.webp#right)
 
 
 This dazzling helm is set with `1d10` diamonds, `2d10` rubies, `3d10` fire opals, and `4d10` opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
 
 You gain the following benefits while wearing it:
 
-- You can use an action to cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component: [daylight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/daylight.md) (opal), [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) (fire opal), [prismatic spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prismatic-spray.md) (diamond), or [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md) (ruby). The gem is destroyed when the spell is cast and disappears from the helm.  
+- You can use an action to cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component: [daylight](Compendium/spells/daylight.md) (opal), [fireball](Compendium/spells/fireball.md) (fire opal), [prismatic spray](Compendium/spells/prismatic-spray.md) (diamond), or [wall of fire](Compendium/spells/wall-of-fire.md) (ruby). The gem is destroyed when the spell is cast and disappears from the helm.  
 - As long as it has at least one diamond, the helm emits dim light in a 30-foot radius when at least one undead is within that area. Any undead that starts its turn in that area takes `1d6` radiant damage.  
 - As long as the helm has at least one ruby, you have resistance to fire damage.  
 - As long as the helm has at least one fire opal, you can use an action and speak a command word to cause one weapon you are holding to burst into flames. The flames emit bright light in a 10-foot radius and dim light for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon, the target takes an extra `1d6` fire damage. The flames last until you use a bonus action to speak the command word again or until you drop or stow the weapon.  

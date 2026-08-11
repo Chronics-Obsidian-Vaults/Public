@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/phb
 - source/race/halfling/stout
 aliases:
-- Halfling (Stout)
+- "Halfling (Stout)"
 ---
 # Halfling (Stout)
 *Source: Player's Handbook p. 28. Available in the Basic Rules (2014)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/halfling.webp#right)
+![](Compendium/races/img/halfling.webp#right)
 
 - **Ability Scores**: con +1
 - **Size**: Small
@@ -31,7 +32,7 @@ When you roll a 1 on an attack roll, ability check, or saving throw, you can rer
 
 ### Brave
 
-You have advantage on saving throws against being [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).
+You have advantage on saving throws against being [frightened](Rules/conditions.md#Frightened).
 
 ### Halfling Nimbleness
 

@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/life
 - source/domain/war
-aliases: 
-- Bahamut
+aliases:
+- "Bahamut"
 ---
 # Bahamut
 *Source: Dungeon Master's Guide p. 10* 

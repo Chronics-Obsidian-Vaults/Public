@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Criminal
+- "Criminal"
 ---
 # Criminal
 *Source: Player's Handbook p. 129. Available in the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)  
-- **Tool Proficiencies.** One type of gaming set, [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)  
-- **Equipment.** A [crowbar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crowbar.md), a set of dark [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md) including a hood, and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](Rules/skills.md#Deception), [Stealth](Rules/skills.md#Stealth)  
+- **Tool Proficiencies.** One type of gaming set, [thieves' tools](Compendium/items/thieves-tools.md)  
+- **Equipment.** A [crowbar](Compendium/items/crowbar.md), a set of dark [common clothes](Compendium/items/common-clothes.md) including a hood, and a belt [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
 

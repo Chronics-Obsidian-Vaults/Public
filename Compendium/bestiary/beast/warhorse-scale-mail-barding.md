@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warhorse (Scale Mail Barding)
+- "Warhorse (Scale Mail Barding)"
 ---
-# [Warhorse (Scale Mail Barding)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/warhorse-scale-mail-barding.md)
-*Source: Monster Manual p. 340, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Warhorse (Scale Mail Barding)](Compendium/bestiary/beast/warhorse-scale-mail-barding.md)
+*Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Warhorse (Scale Mail Barding)"
@@ -21,7 +22,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac": !!int "15"
-"ac_class": "[scale mail barding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/barding.md)"
+"ac_class": "[scale mail barding](Compendium/items/barding.md)"
 "hp": !!int "19"
 "hit_dice": "3d10 + 3"
 "modifier": !!int "1"
@@ -39,9 +40,9 @@ aliases:
 "traits":
   - "desc": "If the horse moves at least 20 feet straight toward a creature and then\
       \ hits it with a hooves attack on the same turn, that target must succeed on\
-      \ a DC 14 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ If the target is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ the horse can make another attack with its hooves against it as a bonus action."
+      \ a DC 14 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
+      \ If the target is [prone](Rules/conditions.md#Prone), the horse can make another\
+      \ attack with its hooves against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
@@ -49,7 +50,6 @@ aliases:
     "name": "Hooves"
 "source":
   - "MM"
-  - "EGW"
 ```
 ^statblock
 

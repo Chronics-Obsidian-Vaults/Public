@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Baboon
+- "Baboon"
 ---
-# [Baboon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/baboon.md)
+# [Baboon](Compendium/bestiary/beast/baboon.md)
 *Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -39,7 +40,7 @@ aliases:
 "traits":
   - "desc": "The baboon has advantage on an attack roll against a creature if at least\
       \ one of the baboon's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4\
@@ -47,7 +48,7 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/baboon.webp"
+"image": "Compendium/bestiary/beast/token/baboon.webp"
 ```
 ^statblock
 

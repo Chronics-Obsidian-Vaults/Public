@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tortle Druid
+- "Tortle Druid"
 ---
-# [Tortle Druid](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/tortle-druid-mpmm.md)
+# [Tortle Druid](Compendium/bestiary/humanoid/tortle-druid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
@@ -42,11 +43,11 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling)"
+  - "name": "[Animal Handling](Rules/skills.md#Animal%20Handling)"
     "desc": "+4"
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+2"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+4"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
@@ -55,7 +56,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - "desc": "The tortle can hold its breath for 1 hour."
     "name": "Hold Breath"
 "actions":
-  - "desc": "The tortle makes four Claw attacks or two [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)'s\
+  - "desc": "The tortle makes four Claw attacks or two [Nature](Rules/skills.md#Nature)'s\
       \ Wrath attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
@@ -67,23 +68,21 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
     "name": "Nature's Wrath"
   - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4\
       \ bonus to AC and has advantage on Strength and Constitution saving throws.\
-      \ While in its shell, the tortle is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ its speed is 0 and can't increase, it has disadvantage on Dexterity saving\
-      \ throws, it can't take reactions, and the only action it can take is a bonus\
-      \ action to emerge."
+      \ While in its shell, the tortle is [prone](Rules/conditions.md#Prone), its\
+      \ speed is 0 and can't increase, it has disadvantage on Dexterity saving throws,\
+      \ it can't take reactions, and the only action it can take is a bonus action\
+      \ to emerge."
     "name": "Shell Defense"
   - "desc": "The tortle casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md),\
-      \ [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md)\n\
-      \n**2/day each:** [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [speak with animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-animals.md),\
-      \ [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](Compendium/spells/druidcraft.md),\
+      \ [guidance](Compendium/spells/guidance.md)\n\n**2/day each:** [cure wounds](Compendium/spells/cure-wounds.md),\
+      \ [hold person](Compendium/spells/hold-person.md), [speak with animals](Compendium/spells/speak-with-animals.md),\
+      \ [thunderwave](Compendium/spells/thunderwave.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/tortle-druid-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/tortle-druid-mpmm.webp"
 ```
 ^statblock
 

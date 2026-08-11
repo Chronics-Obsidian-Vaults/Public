@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -15,7 +16,7 @@ classes:
 - Druid
 - Wizard
 aliases:
-- Antipathy/Sympathy
+- "Antipathy/Sympathy"
 level: 8
 school: enchantment
 ritual: false
@@ -39,7 +40,7 @@ This spell attracts or repels creatures of your choice. You target something wit
 
 ## Antipathy
 
-The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened). The creature remains [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) while it can see the target or is within 60 feet of it. While [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), but the creature becomes [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) again if it regains sight of the target or moves within 60 feet of it.
+The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened). The creature remains [frightened](Rules/conditions.md#Frightened) while it can see the target or is within 60 feet of it. While [frightened](Rules/conditions.md#Frightened) by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer [frightened](Rules/conditions.md#Frightened), but the creature becomes [frightened](Rules/conditions.md#Frightened) again if it regains sight of the target or moves within 60 feet of it.
 
 ## Sympathy
 
@@ -55,6 +56,6 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

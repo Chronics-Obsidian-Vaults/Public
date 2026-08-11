@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/phb
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Object (Tiny)
+- "Animated Object (Tiny)"
 ---
-# [Animated Object (Tiny)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/animated-object-tiny.md)
+# [Animated Object (Tiny)](Compendium/bestiary/construct/animated-object-tiny.md)
 *Source: Player's Handbook p. 213*  
 
 ```statblock
@@ -31,8 +32,8 @@ aliases:
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft. (blind beyond this radius), passive Perception 6"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft. (blind beyond this radius),\
+  \ passive Perception 6"
 "languages": ""
 "traits":
   - "desc": "If the object lacks legs or other appendages it can use for locomotion,\
@@ -49,6 +50,6 @@ aliases:
     "name": "Slam"
 "source":
   - "PHB"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/animated-object-tiny.webp"
+"image": "Compendium/bestiary/construct/token/animated-object-tiny.webp"
 ```
 ^statblock

@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/rarity/very-rare
 - source/item/weapon/melee
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Baleful Talon"
 item_type: weapon
 item_subtype: "melee, simple"
@@ -14,12 +15,12 @@ rarity: very-rare
 attunement: none
 ---
 # Baleful Talon
-*Weapon ([dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)), very rare*  
+*Weapon ([dagger](Compendium/items/dagger.md)), very rare*  
 
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light), [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 You gain a +1 bonus to attack and damage rolls made with this hooked, obsidian dagger.

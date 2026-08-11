@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githzerai Bonds
+- "Gith Tables; Githzerai Bonds"
 ---
 # Gith Tables; Githzerai Bonds
 *Source: Mordenkainen's Tome of Foes p. 97* 

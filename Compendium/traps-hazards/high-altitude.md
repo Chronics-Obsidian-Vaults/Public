@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/dmg
 - source/hazard/env
 aliases:
-- High Altitude
+- "High Altitude"
 ---
 # High Altitude
 *Environmental Hazard*  

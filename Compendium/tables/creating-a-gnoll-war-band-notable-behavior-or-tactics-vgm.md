@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Creating a Gnoll War Band; Notable Behavior or Tactics
+- "Creating a Gnoll War Band; Notable Behavior or Tactics"
 ---
 # Creating a Gnoll War Band; Notable Behavior or Tactics
 *Source: Volo's Guide to Monsters p. 39* 

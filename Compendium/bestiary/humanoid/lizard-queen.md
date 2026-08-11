@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizard Queen
+- "Lizard Queen"
 ---
-# [Lizard Queen](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/lizard-queen.md)
+# [Lizard Queen](Compendium/bestiary/humanoid/lizard-queen.md)
 *Source: Monster Manual p. 205*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -76,15 +77,16 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+4"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened)"
+"gear":
+  - "[trident](Compendium/items/trident.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Abyssal, Draconic"
 "cr": "4"
 "traits":
@@ -110,7 +112,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     "name": "Trident"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/lizard-queen.webp"
+"image": "Compendium/bestiary/humanoid/token/lizard-queen.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Daanvi, the Perfect Order; Daanvi Manifest Zone Features
+- "Daanvi, the Perfect Order; Daanvi Manifest Zone Features"
 ---
 # Daanvi, the Perfect Order; Daanvi Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 229* 

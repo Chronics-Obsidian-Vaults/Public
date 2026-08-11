@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/attunement/required
 - source/item/rarity/uncommon
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Boros Guild Signet"
 item_type: wondrous
 item_subtype: ring
@@ -15,10 +16,10 @@ attunement: required
 ---
 # Boros Guild Signet
 *Ring, uncommon (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/boros-guild-signet.webp#right)
+![](Compendium/items/img/boros-guild-signet.webp#right)
 
 
-This ring, adorned with the symbol of Boros, allows you to cast [heroism](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heroism.md). A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Boros' recognition and favor.
+This ring, adorned with the symbol of Boros, allows you to cast [heroism](Compendium/spells/heroism.md). A guild signet is sometimes awarded to a guild member whose renown score in that guild is 5 or higher, as a reward for performing special services for the guild. Aside from its magical properties, the ring is also an indicator of Boros' recognition and favor.
 
 A signet has 3 charges, and it regains `1d3` expended charges daily at dawn. While wearing it, you can expend 1 charge to cast the associated spell (save DC 13).
 

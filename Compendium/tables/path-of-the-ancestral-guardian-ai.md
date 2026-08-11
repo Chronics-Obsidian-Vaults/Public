@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Path of the Ancestral Guardian
+- "Path of the Ancestral Guardian"
 ---
 # Path of the Ancestral Guardian
 *Source: Acquisitions Incorporated p. 54* 

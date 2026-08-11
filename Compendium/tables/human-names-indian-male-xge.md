@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Human Names – Indian, Male
+- "Human Names – Indian, Male"
 ---
 # Human Names – Indian, Male
 *Source: Xanathar's Guide to Everything p. 181* 

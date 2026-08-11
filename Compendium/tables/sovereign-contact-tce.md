@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Sovereign Contact
+- "Sovereign Contact"
 ---
 # Sovereign Contact
 *Source: Tasha's Cauldron of Everything p. 102* 

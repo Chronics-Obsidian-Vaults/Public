@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -8,20 +9,21 @@ tags:
 - source/spell/class/sorcerer
 - source/spell/class/warlock
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/7th-level
 - source/spell/school/transmutation
 - source/spell/subclass/arcana-domain
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Cleric (Arcana Domain)
 - Sorcerer
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Warlock
 - Wizard
 aliases:
-- Etherealness
+- "Etherealness"
 level: 7
 school: transmutation
 ritual: false
@@ -53,6 +55,6 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Why Be a Decisionist?
+- "Why Be a Decisionist?"
 ---
 # Why Be a Decisionist?
 *Source: Acquisitions Incorporated p. 22* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lemure
+- "Lemure"
 ---
-# [Lemure](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/lemure.md)
+# [Lemure](Compendium/bestiary/fiend/lemure.md)
 *Source: Monster Manual p. 76. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A lemure arises when a mortal soul is twisted by evil and banished to the Nine Hells for eternity. The lowest type of devil, lemures are repugnant, shapeless creatures doomed to suffer torment until they are promoted to a higher form of devil, most commonly an imp.
@@ -114,7 +115,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -158,11 +159,9 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "speed": "15 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "understands Infernal but can't speak"
 "cr": "0"
 "traits":
@@ -170,15 +169,15 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     "name": "Devil's Sight"
   - "desc": "A lemure that dies in the Nine Hells comes back to life with all its\
       \ hit points in 1d10 days unless it is killed by a good-aligned creature with\
-      \ a [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md)\
-      \ spell cast on that creature or its remains are sprinkled with holy water."
+      \ a [bless](Compendium/spells/bless.md) spell cast on that creature or its remains\
+      \ are sprinkled with [holy water](Compendium/items/holy-water-flask.md)."
     "name": "Hellish Rejuvenation"
 "actions":
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage"
+      \ bludgeoning damage."
     "name": "Fist"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/lemure.webp"
+"image": "Compendium/bestiary/fiend/token/lemure.webp"
 ```
 ^statblock

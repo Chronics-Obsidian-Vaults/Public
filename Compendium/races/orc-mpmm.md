@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/orc
 aliases:
-- Orc
+- "Orc"
 ---
 # Orc
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 28*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/orc.webp#right)
+![](Compendium/races/img/orc.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -19,7 +20,7 @@ aliases:
 
 ### Adrenaline Rush
 
-You can take the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash) action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You can take the [Dash](Rules/actions.md#Dash) action as a bonus action. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Whenever you use this trait, you gain a number of temporary hit points equal to your proficiency bonus.
 

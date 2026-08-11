@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Cleric (War Domain)
 - Paladin
 aliases:
-- Divine Favor
+- "Divine Favor"
 level: 1
 school: evocation
 ritual: false
@@ -35,6 +36,6 @@ components_vsm: [V, S]
 
 Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra `1d4` radiant damage on a hit.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-war-domain.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

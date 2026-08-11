@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/11
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloud Giant Smiling One
+- "Cloud Giant Smiling One"
 ---
-# [Cloud Giant Smiling One](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/cloud-giant-smiling-one-mpmm.md)
+# [Cloud Giant Smiling One](Compendium/bestiary/giant/cloud-giant-smiling-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146*  
 
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.
@@ -42,19 +43,19 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
   - "intelligence": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+9"
 "senses": "passive Perception 21"
 "languages": "Common, Giant"
 "cr": "11"
 "traits":
-  - "desc": "The giant can cast the [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md)\
+  - "desc": "The giant can cast the [control weather](Compendium/spells/control-weather.md)\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (8th-level Spell)"
@@ -74,16 +75,12 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
     "name": "Change Shape"
   - "desc": "The giant casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\n**At\
-      \ will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md),\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md)\n\
-      \n**3/day each:** [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [silent image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silent-image.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md),\
-      \ [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md)\n\
-      \n**1/day each:** [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md)"
+      \ will:** [detect magic](Compendium/spells/detect-magic.md), [fog cloud](Compendium/spells/fog-cloud.md),\
+      \ [light](Compendium/spells/light.md), [minor illusion](Compendium/spells/minor-illusion.md)\n\
+      \n**3/day each:** [invisibility](Compendium/spells/invisibility.md), [silent\
+      \ image](Compendium/spells/silent-image.md), [suggestion](Compendium/spells/suggestion.md),\
+      \ [tongues](Compendium/spells/tongues.md)\n\n**1/day each:** [gaseous form](Compendium/spells/gaseous-form.md),\
+      \ [major image](Compendium/spells/major-image.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The giant teleports, along with any equipment it is wearing or carrying,\
@@ -92,7 +89,7 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/cloud-giant-smiling-one-mpmm.webp"
+"image": "Compendium/bestiary/giant/token/cloud-giant-smiling-one-mpmm.webp"
 ```
 ^statblock
 

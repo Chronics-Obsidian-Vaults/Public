@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Inspired
+- "Inspired"
 ---
-# [Inspired](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/inspired-erlw.md)
+# [Inspired](Compendium/bestiary/humanoid/inspired-erlw.md)
 *Source: Eberron: Rising from the Last War p. 294*  
 
 The rulers of distant Sarlona are known as the Inspired. These noble families are said to be bound to celestial spirits that guide and empower them, but the truth is far darker. The Inspired are the mortal hosts of the nightmare spirits of Dal Quor, and they carry out the foul agenda of the Dreaming Dark.
@@ -27,7 +28,7 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -43,28 +44,24 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
   - "intelligence": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+7"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+2"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+7"
 "damage_resistances": "psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
 "senses": "passive Perception 10"
 "languages": "Common, Quori"
 "cr": "2"
 "traits":
   - "desc": "The Inspired's spellcasting ability is Intelligence (spell save DC 13).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [vicious mockery](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vicious-mockery.md)\
-      \ (see \"Actions\" below)\n\n**1/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [dissonant whispers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dissonant-whispers.md),\
-      \ [hex](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hex.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+      \n**At will:** [mage hand](Compendium/spells/mage-hand.md), [vicious mockery](Compendium/spells/vicious-mockery.md)\
+      \ (see \"Actions\" below)\n\n**1/day each:** [charm person](Compendium/spells/charm-person.md),\
+      \ [dissonant whispers](Compendium/spells/dissonant-whispers.md), [hex](Compendium/spells/hex.md),\
+      \ [hold person](Compendium/spells/hold-person.md), [mage armor](Compendium/spells/mage-armor.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The Inspired has advantage on Wisdom saving throws."
     "name": "Dual Mind"
@@ -83,6 +80,6 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
     "name": "Vicious Mockery (Cantrip)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/inspired-erlw.webp"
+"image": "Compendium/bestiary/humanoid/token/inspired-erlw.webp"
 ```
 ^statblock

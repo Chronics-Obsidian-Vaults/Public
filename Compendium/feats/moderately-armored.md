@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Moderately Armored
+- "Moderately Armored"
 ---
 # Moderately Armored
 *Source: Player's Handbook p. 168*  

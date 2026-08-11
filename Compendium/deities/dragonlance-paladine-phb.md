@@ -7,8 +7,8 @@ tags:
 - source/deity/dragonlance
 - source/domain/peace
 - source/domain/war
-aliases: 
-- Paladine
+aliases:
+- "Paladine"
 ---
 # Paladine
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 33* 

@@ -6,7 +6,7 @@ tags:
 - source/class/lingering-soul
 - source/compendium/src/5e/lingering soul
 aliases:
-- Lingering Soul
+- "Lingering Soul"
 ---
 # Lingering Soul
 *Source: Lingering Soul*  
@@ -51,16 +51,15 @@ aliases:
 ## Starting Lingering Soul
 
 - **Saving Throw Proficiencies**: Constitution
-- **Skill Proficiencies**: *Choose 3:* [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion), [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand), or [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)
+- **Skill Proficiencies**: *Choose 3:* [History](Rules/skills.md#History), [Insight](Rules/skills.md#Insight), [Intimidation](Rules/skills.md#Intimidation), [Investigation](Rules/skills.md#Investigation), [Perception](Rules/skills.md#Perception), [Religion](Rules/skills.md#Religion), [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand), or [Stealth](Rules/skills.md#Stealth)
 - **Weapon Proficiencies**: none
 - **Tool Proficiencies**: none
 
 **Starting Equipment:** You start with the following items, plus anything provided by your background.
 
 - (a) a simple weapons
-- (a) a [dungeoneer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dungeoneers-pack.md) (b) an [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md)
+- (a) a [dungeoneer's pack](Compendium/items/dungeoneers-pack.md) (b) an [explorer's pack](Compendium/items/explorers-pack.md)
 - a trinket
-
 
 ## The Lingering Soul
 

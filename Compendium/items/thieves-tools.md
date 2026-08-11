@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/tool
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Thieves' Tools"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Thieves' Tools
 *Tool*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/thieves-tools.webp#right)
+![](Compendium/items/img/thieves-tools.webp#right)
 
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.

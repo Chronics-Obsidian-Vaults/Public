@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Why Be a Cartographer?
+- "Why Be a Cartographer?"
 ---
 # Why Be a Cartographer?
 *Source: Acquisitions Incorporated p. 20* 

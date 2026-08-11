@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Proficiency Dice
+- "Proficiency Dice"
 ---
 # Proficiency Dice
 *Source: Dungeon Master's Guide p. 263* 
@@ -16,4 +16,4 @@ Whenever a feature, such as the rogue's Expertise, lets a character double his o
 
 This option is intended for player characters and nonplayer characters who have levels, as opposed to monsters who don't.
 
-![Proficiency Dice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/proficiency-dice.md)
+![Proficiency Dice](Compendium/tables/proficiency-dice.md)

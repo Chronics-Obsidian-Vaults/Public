@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greek
 - source/domain/nature
-aliases: 
-- Pan
+aliases:
+- "Pan"
 ---
 # Pan
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

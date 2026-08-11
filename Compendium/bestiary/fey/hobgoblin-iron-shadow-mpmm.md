@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hobgoblin Iron Shadow
+- "Hobgoblin Iron Shadow"
 ---
-# [Hobgoblin Iron Shadow](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/hobgoblin-iron-shadow-mpmm.md)
+# [Hobgoblin Iron Shadow](Compendium/bestiary/fey/hobgoblin-iron-shadow-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*  
 
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
@@ -41,14 +42,15 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"gear":
+  - "[dart](Compendium/items/dart.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Common, Goblin"
 "cr": "2"
 "traits":
@@ -71,16 +73,15 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
       \ and its destination must be in dim light or darkness."
     "name": "Shadow Jaunt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 12):\n\n**At will:** [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [silent image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silent-image.md)"
+      \ the spellcasting ability (spell save DC 12):\n\n**At will:** [minor illusion](Compendium/spells/minor-illusion.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**1/day each:**\
+      \ [charm person](Compendium/spells/charm-person.md), [disguise self](Compendium/spells/disguise-self.md),\
+      \ [silent image](Compendium/spells/silent-image.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/hobgoblin-iron-shadow-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/hobgoblin-iron-shadow-mpmm.webp"
 ```
 ^statblock
 

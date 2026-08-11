@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Rotor of Return"
 item_type: 
 item_subtype: 
@@ -29,6 +30,6 @@ As an action, you can set your current location as a point of return locked to t
 
 ## Part of a Whole
 
-While this component is not installed in the [Orrery of the Wanderer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/orrery-of-the-wanderer-ai.md), its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+While this component is not installed in the [Orrery of the Wanderer](Compendium/items/orrery-of-the-wanderer-ai.md), its magic might function sporadically or with unpredictable side effects, as determined by the DM.
 
 *Source: Acquisitions Incorporated p. 221*

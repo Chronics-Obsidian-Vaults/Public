@@ -1,27 +1,27 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/5th-level
 - source/spell/school/transmutation
 - source/spell/subclass/aberrant-mind
 - source/spell/subclass/psi-warrior
-- source/spell/subclass/runechild
 - source/spell/subclass/the-great-old-one
 classes:
 - Bard (Magical Secrets)
 - Fighter (Psi Warrior)
 - Sorcerer
 - Sorcerer (Aberrant Mind)
-- Sorcerer (Runechild)
 - Warlock (The Great Old One)
 - Wizard
 aliases:
-- Telekinesis
+- "Telekinesis"
 level: 5
 school: transmutation
 ritual: false
@@ -45,7 +45,7 @@ You gain the ability to move or manipulate creatures or objects by thought. When
 
 ## Creature
 
-You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) in your telekinetic grip. A creature lifted upward is suspended in mid-air.
+You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is [restrained](Rules/conditions.md#Restrained) in your telekinetic grip. A creature lifted upward is suspended in mid-air.
 
 On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.
 
@@ -59,6 +59,6 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Psi Warrior)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-psi-warrior-tce.md "subclass=TCE"); [Sorcerer (Aberrant Mind)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer (Runechild)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-runechild-tdcsr.md "subclass=TDCSR"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Great Old One)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-great-old-one.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Psi Warrior)](Compendium/lists/list-spells-classes-psi-warrior-tce.md "subclass=TCE"); [Sorcerer (Aberrant Mind)](Compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Great Old One)](Compendium/lists/list-spells-classes-the-great-old-one.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

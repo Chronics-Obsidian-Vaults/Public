@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Monster Relationships
+- "Monster Relationships"
 ---
 # Monster Relationships
 *Source: Xanathar's Guide to Everything p. 91* 

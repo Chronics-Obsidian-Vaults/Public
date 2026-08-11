@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmtcrg
 aliases:
-- Using an Adventure Spread During Play; Fortune Tellers
+- "Using an Adventure Spread During Play; Fortune Tellers"
 ---
 # Using an Adventure Spread During Play; Fortune Tellers
 *Source: The Deck of Many Things: Card Reference Guide p. 13* 

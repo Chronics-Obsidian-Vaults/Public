@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/optional-feature/ei
 aliases:
-- Aspect of the Moon
+- "Aspect of the Moon"
 ---
 # Aspect of the Moon
 *Source: Xanathar's Guide to Everything p. 56*  

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Beholder; Beholder Flaws
+- "Roleplaying a Beholder; Beholder Flaws"
 ---
 # Roleplaying a Beholder; Beholder Flaws
 *Source: Volo's Guide to Monsters p. 8* 

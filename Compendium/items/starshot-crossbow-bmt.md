@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/attunement/required
@@ -9,7 +10,7 @@ tags:
 - source/item/weapon/ranged
 - source/item/weapon/simple
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Starshot Crossbow"
 - "Starshot Hand Crossbow"
 - "Starshot Heavy Crossbow"
@@ -45,28 +46,28 @@ The crossbow is decorated with three constellations. As a bonus action, you can 
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Light](Rules/item-properties.md#Light), [Loading](Rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Starshot Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Loading](Rules/item-properties.md#Loading), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Starshot Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Starshot Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 

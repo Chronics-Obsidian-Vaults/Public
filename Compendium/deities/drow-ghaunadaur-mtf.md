@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/drow
 - source/domain/war
-aliases: 
-- Ghaunadaur
+aliases:
+- "Ghaunadaur"
 ---
 # Ghaunadaur
 *Source: Mordenkainen's Tome of Foes p. 53* 

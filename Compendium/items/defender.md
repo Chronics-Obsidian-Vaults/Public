@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
@@ -9,7 +10,7 @@ tags:
 - source/item/weapon/martial
 - source/item/weapon/melee
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Defender"
 - "Defender Double-Bladed Scimitar"
 - "Defender Greatsword"
@@ -24,7 +25,7 @@ attunement: required
 ---
 # Defender
 *Major, legendary (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/defender.webp#right)
+![Defender (Greatsword)](Compendium/items/img/defender.webp#right)
 
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -42,13 +43,13 @@ The first time you attack with the sword on each of your turns, you can transfer
 ### Defender Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Defender Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Defender Longsword
@@ -56,25 +57,25 @@ The first time you attack with the sword on each of your turns, you can transfer
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Defender Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Defender Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Defender Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 

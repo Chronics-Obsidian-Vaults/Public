@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mm
 aliases:
-- Appendix B: Nonplayer Characters
+- "Appendix B: Nonplayer Characters"
 ---
 # Appendix B: Nonplayer Characters
 *Source: Monster Manual (2014), p. 342* 
@@ -32,24 +32,24 @@ You can upgrade or downgrade an NPC's armor, or add or switch weapons. Adjustmen
 
 The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating. Magic items, as well as adjusting a creature's challenge rating, are described in the Dungeon Master's Guide.
 
-- [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/acolyte.md)  
-- [Archmage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/archmage.md)  
-- [Assassin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/assassin.md)  
-- [Bandit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bandit.md)  
-- [Bandit Captain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bandit-captain.md)  
-- [Berserker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/berserker.md)  
-- [Commoner](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/commoner.md)  
-- [Cultist](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/cultist.md)  
-- [Cult Fanatic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/cult-fanatic.md)  
-- [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/druid.md)  
-- [Gladiator](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/gladiator.md)  
-- [Guard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/guard.md)  
-- [Knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/knight.md)  
-- [Mage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/mage.md)  
-- [Noble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/noble.md)  
-- [Priest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/priest.md)  
-- [Scout](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/scout.md)  
-- [Spy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/spy.md)  
-- [Thug](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/thug.md)  
-- [Tribal Warrior](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/tribal-warrior.md)  
-- [Veteran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/veteran.md)
+- [Acolyte](Compendium/bestiary/humanoid/acolyte.md)  
+- [Archmage](Compendium/bestiary/humanoid/archmage.md)  
+- [Assassin](Compendium/bestiary/humanoid/assassin.md)  
+- [Bandit](Compendium/bestiary/humanoid/bandit.md)  
+- [Bandit Captain](Compendium/bestiary/humanoid/bandit-captain.md)  
+- [Berserker](Compendium/bestiary/humanoid/berserker.md)  
+- [Commoner](Compendium/bestiary/humanoid/commoner.md)  
+- [Cultist](Compendium/bestiary/humanoid/cultist.md)  
+- [Cult Fanatic](Compendium/bestiary/humanoid/cult-fanatic.md)  
+- [Druid](Compendium/bestiary/humanoid/druid.md)  
+- [Gladiator](Compendium/bestiary/humanoid/gladiator.md)  
+- [Guard](Compendium/bestiary/humanoid/guard.md)  
+- [Knight](Compendium/bestiary/humanoid/knight.md)  
+- [Mage](Compendium/bestiary/humanoid/mage.md)  
+- [Noble](Compendium/bestiary/humanoid/noble.md)  
+- [Priest](Compendium/bestiary/humanoid/priest.md)  
+- [Scout](Compendium/bestiary/humanoid/scout.md)  
+- [Spy](Compendium/bestiary/humanoid/spy.md)  
+- [Thug](Compendium/bestiary/humanoid/thug.md)  
+- [Tribal Warrior](Compendium/bestiary/humanoid/tribal-warrior.md)  
+- [Veteran](Compendium/bestiary/humanoid/veteran.md)

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/22
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Green Dragon
+- "Ancient Green Dragon"
 ---
-# [Ancient Green Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/ancient-green-dragon.md)
+# [Ancient Green Dragon](Compendium/bestiary/dragon/ancient-green-dragon.md)
 *Source: Monster Manual p. 93. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -129,20 +130,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "10"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+17"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+11"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "22"
@@ -165,7 +165,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -181,7 +181,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ effect two rounds in a row:\n\n- Grasping roots and vines erupt in a 20-foot\
       \ radius centered on a point on the ground that the dragon can see within 120\
       \ feet of it. That area becomes difficult terrain, and each creature there must\
-      \ succeed on a DC 15 Strength saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ succeed on a DC 15 Strength saving throw or be [restrained](Rules/conditions.md#Restrained)\
       \ by the roots and vines. A creature can be freed if it or another creature\
       \ takes an action to make a DC 15 Strength check and succeeds. The roots and\
       \ vines wilt away when the dragon uses this lair action again or when the dragon\
@@ -201,21 +201,20 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ psychic damage. The wall sinks back into the ground when the dragon uses this\
       \ lair action again or when the dragon dies.  \n- Magical fog billows around\
       \ one creature the dragon can see within 120 feet of it. The creature must succeed\
-      \ on a DC 15 Wisdom saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ on a DC 15 Wisdom saving throw or be [charmed](Rules/conditions.md#Charmed)\
       \ by the dragon until initiative count 20 on the next round.  \n\n**Additional\
-      \ Lair Actions.** At your discretion, a legendary ([adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-green-dragon.md)\
-      \ or [ancient](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-green-dragon.md))\
-      \ green dragon can use one or both of the following additional lair actions\
-      \ while in its lair:\n\n- **Creeper Vines.** The dragon can use the vines and\
-      \ roots within its lair to animate up to three Humanoid corpses, which become\
-      \ [zombies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/zombie.md).\
+      \ Lair Actions.** At your discretion, a legendary ([adult](Compendium/bestiary/dragon/adult-green-dragon.md)\
+      \ or [ancient](Compendium/bestiary/dragon/ancient-green-dragon.md)) green dragon\
+      \ can use one or both of the following additional lair actions while in its\
+      \ lair:\n\n- **Creeper Vines.** The dragon can use the vines and roots within\
+      \ its lair to animate up to three Humanoid corpses, which become [zombies](Compendium/bestiary/undead/zombie.md).\
       \ The zombies take their turn immediately after this lair action. Each one reverts\
       \ to an inanimate corpse after 1 minute, when the dragon uses this lair action\
       \ again, or when the zombie is destroyed.  \n- **Lashing Root.** One large root\
       \ or branch that is part of the lair makes a melee attack roll against a creature\
       \ within 10 feet of it. It has a +7 bonus to hit and deals 10 (3d6) bludgeoning\
       \ damage on a hit. If the target is a Medium or smaller creature, it must succeed\
-      \ on a DC 15 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ on a DC 15 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
       \  "
     "name": ""
 "regional_effects":
@@ -254,19 +253,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
       \ must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ The dragon can then fly up to half its flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). The dragon can then\
+      \ fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/ancient-green-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/ancient-green-dragon.webp"
 ```
 ^statblock
 

@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/scag
 aliases:
-- Clan Crafter
+- "Clan Crafter"
 ---
 # Clan Crafter
 *Source: Sword Coast Adventurer's Guide p. 145*  
 
 
-- **Skill Proficiencies.** [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)  
+- **Skill Proficiencies.** [History](Rules/skills.md#History), [Insight](Rules/skills.md#Insight)  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** Dwarvish or one of your choice if you already speak Dwarvish  
-- **Equipment.** A set of artisan's tools with which you are proficient, a maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from, a set of [traveler's clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/travelers-clothes.md), and a [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 5 gp and a gem worth 10 gp  
+- **Equipment.** A set of artisan's tools with which you are proficient, a maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from, a set of [traveler's clothes](Compendium/items/travelers-clothes.md), and a [pouch](Compendium/items/pouch.md) containing 5 gp and a gem worth 10 gp  
 
 The Stout Folk are well known for their artisanship and the worth of their handiworks, and you have been trained in that ancient tradition. For years you labored under a dwarf master of the craft, enduring long hours and dismissive, sour-tempered treatment in order to gain the fine skills you possess today.
 
@@ -26,6 +27,6 @@ As well respected as clan crafters are among outsiders, no one esteems them quit
 
 ## Suggested Characteristics
 
-Use the tables for the [guild artisan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/guild-artisan.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a clan crafter. (For instance, consider the words "guild" and "clan" to be interchangeable.)
+Use the tables for the [guild artisan](Compendium/backgrounds/guild-artisan.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a clan crafter. (For instance, consider the words "guild" and "clan" to be interchangeable.)
 
 Your bond is almost certainly related to the master or the clan that taught you, or else to the work that you produce. Your ideal might have to do with maintaining the high quality of your work or preserving the dwarven traditions of craftsmanship.

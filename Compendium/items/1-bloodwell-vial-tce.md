@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/uncommon
-aliases: 
+aliases:
 - "+1 Bloodwell Vial"
 item_type: 
 item_subtype: 
@@ -13,7 +15,7 @@ rarity: uncommon
 attunement: required
 ---
 # +1 Bloodwell Vial
-*Wondrous item, uncommon (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, uncommon (requires attunement by a sorcerer)*  
 
 
 

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/warlock/fiend
 aliases:
-- The Fiend
+- "The Fiend"
 ---
 # The Fiend
 *[Warlock](./warlock.md): Otherworldly Patron*  
@@ -43,14 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### The Fiend (Level 1)
-
 You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz-Urb'luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.
 
-#### Expanded Spell List
+## Subclass Features
+
+### Expanded Spell List (Level 1)
 
 The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
@@ -58,11 +55,11 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md), [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md) |
-| 2nd | [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md), [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md) |
-| 3rd | [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md), [stinking cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stinking-cloud.md) |
-| 4th | [fire shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-shield.md), [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md) |
-| 5th | [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md), [hallow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hallow.md) |
+| 1st | [burning hands](Compendium/spells/burning-hands.md), [command](Compendium/spells/command.md) |
+| 2nd | [blindness/deafness](Compendium/spells/blindness-deafness.md), [scorching ray](Compendium/spells/scorching-ray.md) |
+| 3rd | [fireball](Compendium/spells/fireball.md), [stinking cloud](Compendium/spells/stinking-cloud.md) |
+| 4th | [fire shield](Compendium/spells/fire-shield.md), [wall of fire](Compendium/spells/wall-of-fire.md) |
+| 5th | [flame strike](Compendium/spells/flame-strike.md), [hallow](Compendium/spells/hallow.md) |
 ^fiend-expanded-spells
 
 ### Dark One's Blessing (Level 1)

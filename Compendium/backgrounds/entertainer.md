@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Entertainer
+- "Entertainer"
 ---
 # Entertainer
 *Source: Player's Handbook p. 130*  
 
 
-- **Skill Proficiencies.** [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)  
-- **Tool Proficiencies.** [Disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md), one type of musical instrument  
-- **Equipment.** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [costume clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/costume-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Acrobatics](Rules/skills.md#Acrobatics), [Performance](Rules/skills.md#Performance)  
+- **Tool Proficiencies.** [Disguise kit](Compendium/items/disguise-kit.md), one type of musical instrument  
+- **Equipment.** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [costume clothes](Compendium/items/costume-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 You thrive in front of an audience. You know how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art is your life.
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -14,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Spider
+- "Giant Spider"
 ---
-# [Giant Spider](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-spider.md)
-*Source: Monster Manual p. 328, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Spider](Compendium/bestiary/beast/giant-spider.md)
+*Source: Monster Manual p. 328. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 
@@ -40,10 +41,9 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
   - !!int "4"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
@@ -61,26 +61,20 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
       \ (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 9 (2d8) poison damage on a failed save, or half as much damage\
       \ on a successful one. If the poison damage reduces the target to 0 hit points,\
-      \ the target is stable but [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 hour, even after regaining hit points, and is [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ while [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way."
+      \ the target is stable but [poisoned](Rules/conditions.md#Poisoned) for 1 hour,\
+      \ even after regaining hit points, and is [paralyzed](Rules/conditions.md#Paralyzed)\
+      \ while [poisoned](Rules/conditions.md#Poisoned) in this way."
     "name": "Bite"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one creature. *Hit:*\
-      \ The target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by webbing. As an action, the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ target can make a DC 12 Strength check, bursting the webbing on a success.\
-      \ The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability\
-      \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."
+      \ The target is [restrained](Rules/conditions.md#Restrained) by webbing. As\
+      \ an action, the [restrained](Rules/conditions.md#Restrained) target can make\
+      \ a DC 12 Strength check, bursting the webbing on a success. The webbing can\
+      \ also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage;\
+      \ immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-spider.webp"
+"image": "Compendium/bestiary/beast/token/giant-spider.webp"
 ```
 ^statblock
 

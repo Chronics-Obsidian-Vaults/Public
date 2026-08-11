@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/nonhuman
 - source/domain/trickery
-aliases: 
-- Tiamat
+aliases:
+- "Tiamat"
 ---
 # Tiamat
 *Source: Player's Handbook p. 296* 

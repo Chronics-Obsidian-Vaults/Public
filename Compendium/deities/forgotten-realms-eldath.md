@@ -8,8 +8,8 @@ tags:
 - source/domain/life
 - source/domain/nature
 - source/domain/peace
-aliases: 
-- Eldath
+aliases:
+- "Eldath"
 ---
 # Eldath
 *Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 33. Available in the Basic Rules (2014)* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/6
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bloodfray Giant
+- "Bloodfray Giant"
 ---
-# [Bloodfray Giant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/bloodfray-giant-ggr.md)
+# [Bloodfray Giant](Compendium/bestiary/giant/bloodfray-giant-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 200*  
 
 Giants in the Cult of Rakdos act as enforcers, bouncers, and sometimes even pillars, holding the mobile platforms that serve as stages for Rakdos performances. Like other members of the cult, giants thrill to the violence of those shows. Though they can seem entranced by the horror unfolding on the stage, they react quickly and brutally to any interruption of the performance.
@@ -43,17 +44,17 @@ Giants use their tremendous size and strength to advance the cause of no less th
   - "constitution": !!int "8"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Giant"
 "cr": "6"
 "actions":
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 20 ft., one target. *Hit:* 16\
-      \ (3d6 + 6) bludgeoning damage. If the target is a creature, it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 17). Until the grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ (3d6 + 6) bludgeoning damage. If the target is a creature, it is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 17). Until the grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the giant can't use this attack on anyone else."
     "name": "Chain"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
@@ -65,6 +66,6 @@ Giants use their tremendous size and strength to advance the cause of no less th
     "name": "Furious Defense"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/bloodfray-giant-ggr.webp"
+"image": "Compendium/bestiary/giant/token/bloodfray-giant-ggr.webp"
 ```
 ^statblock

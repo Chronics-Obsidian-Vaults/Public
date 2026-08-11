@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hybrid Brute
+- "Hybrid Brute"
 ---
-# [Hybrid Brute](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/hybrid-brute-ggr.md)
+# [Hybrid Brute](Compendium/bestiary/humanoid/hybrid-brute-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 217*  
 
 ## Simic Hybrids
@@ -22,7 +23,7 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
 "name": "Hybrid Brute (GGR)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "Simic hybrid"
+"subtype": "simic hybrid"
 "alignment": "Neutral Good"
 "ac": !!int "18"
 "ac_class": "natural armor"
@@ -51,6 +52,6 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
     "name": "Claw"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/hybrid-brute-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/hybrid-brute-ggr.webp"
 ```
 ^statblock

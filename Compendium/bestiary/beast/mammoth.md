@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mammoth
+- "Mammoth"
 ---
-# [Mammoth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/mammoth.md)
-*Source: Monster Manual p. 332, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Mammoth](Compendium/bestiary/beast/mammoth.md)
+*Source: Monster Manual p. 332. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
 
@@ -41,21 +42,20 @@ A mammoth is an elephantine creature with thick fur and long tusks. Stockier and
 "traits":
   - "desc": "If the mammoth moves at least 20 feet straight toward a creature and\
       \ then hits it with a gore attack on the same turn, that target must succeed\
-      \ on a DC 18 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ If the target is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ the mammoth can make one stomp attack against it as a bonus action."
+      \ on a DC 18 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
+      \ If the target is [prone](Rules/conditions.md#Prone), the mammoth can make\
+      \ one stomp attack against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 25\
       \ (4d8 + 7) piercing damage."
     "name": "Gore"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one [prone](Rules/conditions.md#Prone)\
       \ creature. *Hit:* 29 (4d10 + 7) bludgeoning damage."
     "name": "Stomp"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/mammoth.webp"
+"image": "Compendium/bestiary/beast/token/mammoth.webp"
 ```
 ^statblock
 

@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/tier/major
-aliases: 
+aliases:
 - "Talisman of Ultimate Evil"
 item_type: 
 item_subtype: 
@@ -15,7 +16,7 @@ attunement: required
 ---
 # Talisman of Ultimate Evil
 *Wondrous item, major, legendary (requires attunement by a creature of evil alignment)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/talisman-of-ultimate-evil.webp#right)
+![](Compendium/items/img/talisman-of-ultimate-evil.webp#right)
 
 - **Weight**: 1.0 lbs.
 

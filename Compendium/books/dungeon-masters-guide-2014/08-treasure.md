@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Treasure
+- "Treasure"
 ---
 # Treasure
 *Source: Dungeon Master's Guide (2014), p. 133* 
@@ -15,6 +15,8 @@ Adventurers strive for many things, including glory, knowledge, and justice.
 Many adventurers also seek something more tangible: fortune. Strands of golden chains, stacks of platinum coins, bejeweled crowns, enameled scepters, bolts of silk cloth, and powerful magic items all wait to be seized or unearthed by intrepid, treasure-seeking adventurers.
 
 This chapter details magic items and the placement of treasure in an adventure, as well as special rewards that can be granted instead of or in addition to magic items and mundane treasure.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/7-1.webp#center)
 
 ## Types of Treasure
 
@@ -40,7 +42,11 @@ Types of magic items include armor, potions, scrolls, rings, rods, staffs, wands
 
 Intelligent monsters often use magic items in their possession, while others might hide them away to ensure they don't get lost or stolen. For example, if a hobgoblin tribe has a +1 longsword and an alchemy jug in its treasure hoard, the tribe's warlord might wield the sword, while the jug is kept somewhere safe.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/7-2.webp#center)
+
 ## Random Treasure
+
+![](Compendium/books/dungeon-masters-guide-2014/img/7-3.webp#center)
 
 The following pages contain tables that you can use to randomly generate treasures carried by monsters, stashed in their lairs, or otherwise hidden away. The placement of treasure is left to your discretion. The key is to make sure the players feel rewarded for playing, and that their characters are rewarded for overcoming dangerous challenges.
 
@@ -59,13 +65,13 @@ Use the Individual Treasure table that corresponds to the monster's challenge ra
 
 If it doesn't make sense for a monster to carry a large pile of coins, you can convert the coins into gemstones or art objects of equal value.
 
-![Individual Treasure: Challenge 0—4](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/individual-treasure-challenge-04.md)
+![Individual Treasure: Challenge 0—4](Compendium/tables/individual-treasure-challenge-04.md)
 
-![Individual Treasure: Challenge 5—10](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/individual-treasure-challenge-510.md)
+![Individual Treasure: Challenge 5—10](Compendium/tables/individual-treasure-challenge-510.md)
 
-![Individual Treasure: Challenge 11—16](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/individual-treasure-challenge-1116.md)
+![Individual Treasure: Challenge 11—16](Compendium/tables/individual-treasure-challenge-1116.md)
 
-![Individual Treasure: Challenge 17+](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/individual-treasure-challenge-17.md)
+![Individual Treasure: Challenge 17+](Compendium/tables/individual-treasure-challenge-17.md)
 
 #### Using the Treasure Hoard Tables
 
@@ -81,43 +87,43 @@ If a treasure hoard seems too small, you can roll multiple times on the table. U
 
 You can hand out as much or as little treasure as you want. Over the course of a typical campaign, a party finds treasure hoards amounting to seven rolls on the Challenge 0-4 table, eighteen rolls on the Challenge 5-10 table, twelve rolls on the Challenge 11-16 table, and eight rolls on the Challenge 17+ table.
 
-![Treasure Hoard: Challenge 0—4](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/treasure-hoard-challenge-04.md)
+![Treasure Hoard: Challenge 0—4](Compendium/tables/treasure-hoard-challenge-04.md)
 
-![Treasure Hoard: Challenge 5—10](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/treasure-hoard-challenge-510.md)
+![Treasure Hoard: Challenge 5—10](Compendium/tables/treasure-hoard-challenge-510.md)
 
-![Treasure Hoard: Challenge 11—16](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/treasure-hoard-challenge-1116.md)
+![Treasure Hoard: Challenge 11—16](Compendium/tables/treasure-hoard-challenge-1116.md)
 
-![Treasure Hoard: Challenge 17+](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/treasure-hoard-challenge-17.md)
+![Treasure Hoard: Challenge 17+](Compendium/tables/treasure-hoard-challenge-17.md)
 
 #### Gemstones
 
 If a treasure hoard includes gemstones, you can use the following tables to randomly determine the kind of gemstones found, based on their value. You can roll once and assume all the gems are the same, or roll multiple times to create mixed collections of gemstones.
 
-![10 gp Gemstones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/10-gp-gemstones.md)
+![10 gp Gemstones](Compendium/tables/10-gp-gemstones.md)
 
-![50 gp Gemstones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/50-gp-gemstones.md)
+![50 gp Gemstones](Compendium/tables/50-gp-gemstones.md)
 
-![100 gp Gemstones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/100-gp-gemstones.md)
+![100 gp Gemstones](Compendium/tables/100-gp-gemstones.md)
 
-![500 gp Gemstones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/500-gp-gemstones.md)
+![500 gp Gemstones](Compendium/tables/500-gp-gemstones.md)
 
-![1,000 gp Gemstones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/1000-gp-gemstones.md)
+![1,000 gp Gemstones](Compendium/tables/1000-gp-gemstones.md)
 
-![5,000 gp Gemstones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/5000-gp-gemstones.md)
+![5,000 gp Gemstones](Compendium/tables/5000-gp-gemstones.md)
 
 #### Art Objects
 
 If a treasure hoard includes art objects, you can use the following tables to randomly determine what art objects are found, based on their value. Roll on a table as many times as there are art objects in the treasure hoard. There can be more than one of a given art object.
 
-![25 gp Art Objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/25-gp-art-objects.md)
+![25 gp Art Objects](Compendium/tables/25-gp-art-objects.md)
 
-![250 gp Art Objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/250-gp-art-objects.md)
+![250 gp Art Objects](Compendium/tables/250-gp-art-objects.md)
 
-![750 gp Art Objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/750-gp-art-objects.md)
+![750 gp Art Objects](Compendium/tables/750-gp-art-objects.md)
 
-![2,500 gp Art Objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/2500-gp-art-objects.md)
+![2,500 gp Art Objects](Compendium/tables/2500-gp-art-objects.md)
 
-![7,500 gp Art Objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/7500-gp-art-objects.md)
+![7,500 gp Art Objects](Compendium/tables/7500-gp-art-objects.md)
 
 ## Magic Items
 
@@ -131,7 +137,7 @@ Rarity provides a rough measure of an item's power relative to other magic items
 
 If your campaign allows for trade in magic items, rarity can also help you set prices for them. As the DM, you determine the value of an individual magic item based on its rarity. Suggested values are provided in the Magic Item Rarity table. The value of a consumable item, such as a potion or scroll, is typically half the value of a permanent item of the same rarity.
 
-![Magic Item Rarity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-rarity.md)
+![Magic Item Rarity](Compendium/tables/magic-item-rarity.md)
 
 ### Buying and Selling
 
@@ -147,11 +153,11 @@ In your campaign, magic items might be prevalent enough that adventurers can buy
 
 Some magic items are indistinguishable from their nonmagical counterparts, whereas other magic items display their magical nature conspicuously. Whatever a magic item's appearance, handling the item is enough to give a character a sense that something is extraordinary about it. Discovering a magic item's properties isn't automatic, however.
 
-The [identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md) spell is the fastest way to reveal an item's properties. Alternatively, a character can focus on one magic item during a short rest, while being in physical contact with the item. At the end of the rest, the character learns the item's properties, as well as how to use them. Potions are an exception; a little taste is enough to tell the taster what the potion does.
+The [identify](Compendium/spells/identify.md) spell is the fastest way to reveal an item's properties. Alternatively, a character can focus on one magic item during a short rest, while being in physical contact with the item. At the end of the rest, the character learns the item's properties, as well as how to use them. Potions are an exception; a little taste is enough to tell the taster what the potion does.
 
-Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched in tiny letters inside it, or a feathered design might suggest that it's a [ring of feather falling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-feather-falling.md).
+Sometimes a magic item carries a clue to its properties. The command word to activate a ring might be etched in tiny letters inside it, or a feathered design might suggest that it's a [ring of feather falling](Compendium/items/ring-of-feather-falling.md).
 
-Wearing or experimenting with an item can also offer hints about its properties. For example, if a character puts on a [ring of jumping](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-jumping.md), you could say, "Your steps feel strangely springy." Perhaps the character then jumps up and down to see what happens. You then say the character jumps unexpectedly high.
+Wearing or experimenting with an item can also offer hints about its properties. For example, if a character puts on a [ring of jumping](Compendium/items/ring-of-jumping.md), you could say, "Your steps feel strangely springy." Perhaps the character then jumps up and down to see what happens. You then say the character jumps unexpectedly high.
 
 #### Variant: More Difficult Identification
 
@@ -173,7 +179,7 @@ A creature's attunement to an item ends if the creature no longer satisfies the 
 
 Some magic items bear curses that bedevil their users, sometimes long after a user has stopped using an item. A magic item's description specifies whether the item is cursed. Most methods of identifying items, including the identify spell, fail to reveal such a curse, although lore might hint at it. A curse should be a surprise to the item's user when the curse's effects are revealed.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md) spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [remove curse](Compendium/spells/remove-curse.md) spell.
 
 ### Magic Item Categories
 
@@ -197,7 +203,7 @@ Potions are consumable magic items. Drinking a potion or administering a potion 
 > 
 > When a character mixes two potions together, you can roll on the Potion Miscibility table. If more than two are combined, roll again for each subsequent potion, combining the results. Unless the effects are immediately obvious, reveal them only when they become evident.
 > 
-> ![Variant: Mixing Potions; Potion Miscibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/variant-mixing-potions-potion-miscibility.md)
+> ![Variant: Mixing Potions; Potion Miscibility](Compendium/tables/variant-mixing-potions-potion-miscibility.md)
 ^variant-mixing-potions
 
 #### Rings
@@ -224,15 +230,15 @@ If the spell is on your class's spell list but of a higher level than you can no
 
 Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust. The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
 
-A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence ([Arcana](Rules/skills.md#Arcana)) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
 
-![Spell Scrolls; Spell Scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/spell-scrolls-spell-scroll.md)
+![Spell Scrolls; Spell Scroll](Compendium/tables/spell-scrolls-spell-scroll.md)
 
 > [!note] Variant: Scroll Mishaps
 > 
 > A creature who tries and fails to cast a spell from a spell scroll must make a DC 10 Intelligence saving throw. If the saving throw fails, roll on the Scroll Mishap table.
 > 
-> ![Variant: Scroll Mishaps; Scroll Mishap](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/variant-scroll-mishaps-scroll-mishap.md)
+> ![Variant: Scroll Mishaps; Scroll Mishap](Compendium/tables/variant-scroll-mishaps-scroll-mishap.md)
 ^variant-scroll-mishaps
 
 #### Staffs
@@ -282,7 +288,7 @@ Items that come in pairs-such as boots, bracers, gauntlets, and gloves-impart th
 
 Activating some magic items requires a user to do something in particular, such as holding the item and uttering a command word, reading the item if it is a scroll, or drinking it if it is a potion. The description of each item category or individual item details how an item is activated. Certain items use one or more of the following rules related to their activation.
 
-If an item requires an action to activate, that action isn't a function of the [Use an Object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Use%20an%20Object) action, so a feature such as the rogue's Fast Hands can't be used to activate the item.
+If an item requires an action to activate, that action isn't a function of the [Use an Object](Rules/actions.md#Use%20an%20Object) action, so a feature such as the rogue's Fast Hands can't be used to activate the item.
 
 #### Command Word
 
@@ -321,15 +327,15 @@ Most magic items are objects of extraordinary artisanship, assembled from the fi
 
 You can add distinctiveness to a magic item by thinking about its backstory, in much the same way you would for a location. Who made the item? Is anything unusual about its construction? Why was it made, and how was it originally used? What minor magical quirks set it apart from other items of its kind? Considering these questions is useful for turning a generic magic item, such as a *+1 longsword* or a suit of *+1 chain mail*, into a more remarkable discovery.
 
-The tables that follow can help you come up with answers. Roll on as many of these tables as you like. Some of the table entries make more sense for certain items than for others. Some magic items are made only by certain kinds of creatures, for instance; a [cloak of elvenkind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cloak-of-elvenkind.md) is made by elves, rather than dwarves. If you roll something that doesn't make sense, roll again, choose a more appropriate entry, or use the rolled detail as inspiration to make up your own.
+The tables that follow can help you come up with answers. Roll on as many of these tables as you like. Some of the table entries make more sense for certain items than for others. Some magic items are made only by certain kinds of creatures, for instance; a [cloak of elvenkind](Compendium/items/cloak-of-elvenkind.md) is made by elves, rather than dwarves. If you roll something that doesn't make sense, roll again, choose a more appropriate entry, or use the rolled detail as inspiration to make up your own.
 
-![Special Features; Who Created It or Was Intended to Use It?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/special-features-who-created-it-or-was-intended-to-use-it.md)
+![Special Features; Who Created It or Was Intended to Use It?](Compendium/tables/special-features-who-created-it-or-was-intended-to-use-it.md)
 
-![Special Features; What Is a Detail from Its History?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/special-features-what-is-a-detail-from-its-history.md)
+![Special Features; What Is a Detail from Its History?](Compendium/tables/special-features-what-is-a-detail-from-its-history.md)
 
-![Special Features; What Minor Property Does It Have](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/special-features-what-minor-property-does-it-have.md)
+![Special Features; What Minor Property Does It Have](Compendium/tables/special-features-what-minor-property-does-it-have.md)
 
-![Special Features; What Quirk Does It Have](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/special-features-what-quirk-does-it-have.md)
+![Special Features; What Quirk Does It Have](Compendium/tables/special-features-what-quirk-does-it-have.md)
 
 ### Random Magic Items
 
@@ -338,23 +344,31 @@ When you use a Treasure Hoard table to randomly determine the contents of a trea
 > [!note]
 > See the Loot Generator page for an automated version of the tables below.
 
-![Magic Item Table A](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-table-a.md)
+![Censer of Controlling Air Elementals](Compendium/books/dungeon-masters-guide-2014/img/7-4.webp#center)
 
-![Magic Item Table B](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-table-b.md)
+![Magic Item Table A](Compendium/tables/magic-item-table-a.md)
 
-![Magic Item Table C](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-table-c.md)
+![Magic Item Table B](Compendium/tables/magic-item-table-b.md)
 
-![Magic Item Table D](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-table-d.md)
+![Magic Item Table C](Compendium/tables/magic-item-table-c.md)
 
-![Magic Item Table E](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-table-e.md)
+![Arrow of Slaying](Compendium/books/dungeon-masters-guide-2014/img/7-7.webp#center)
 
-![Magic Item Table F](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-table-f.md)
+![Magic Item Table D](Compendium/tables/magic-item-table-d.md)
 
-![Magic Item Table G](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-table-g.md)
+![Magic Item Table E](Compendium/tables/magic-item-table-e.md)
 
-![Magic Item Table H](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-table-h.md)
+![Magic Item Table F](Compendium/tables/magic-item-table-f.md)
 
-![Magic Item Table I](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-item-table-i.md)
+![Fochlucan Bandore](Compendium/books/dungeon-masters-guide-2014/img/7-10.webp#center)
+
+![Magic Item Table G](Compendium/tables/magic-item-table-g.md)
+
+![Elven Chain](Compendium/books/dungeon-masters-guide-2014/img/7-11.webp#center)
+
+![Magic Item Table H](Compendium/tables/magic-item-table-h.md)
+
+![Magic Item Table I](Compendium/tables/magic-item-table-i.md)
 
 ### Magic Items A-Z
 
@@ -368,6 +382,8 @@ Most sentient items are weapons. Other kinds of items can manifest sentience, bu
 
 Sentient magic items function as NPCs under the DM's control. Any activated property of the item is under the item's control, not its wielder's. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/7-18.webp#center)
+
 ### Creating Sentient Magic Items
 
 When you decide to make a magic item sentient, you create the item's persona in the same way you would create an NPC, with a few exceptions described here.
@@ -380,19 +396,19 @@ A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can cho
 
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
 
-![Sentient Magic Item Communication](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/sentient-magic-item-communication.md)
+![Sentient Magic Item Communication](Compendium/tables/sentient-magic-item-communication.md)
 
 #### Senses
 
 With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
 
-![Sentient Magic Item Senses](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/sentient-magic-item-senses.md)
+![Sentient Magic Item Senses](Compendium/tables/sentient-magic-item-senses.md)
 
 #### Alignment
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
-![Sentient Magic Item Alignment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/sentient-magic-item-alignment.md)
+![Sentient Magic Item Alignment](Compendium/tables/sentient-magic-item-alignment.md)
 
 #### Characteristics
 
@@ -404,7 +420,7 @@ If you determine these characteristics randomly, ignore or adapt any result that
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table.
 
-![Sentient Special Purpose](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/sentient-special-purpose.md)
+![Sentient Special Purpose](Compendium/tables/sentient-special-purpose.md)
 
 #### Conflict
 
@@ -427,10 +443,10 @@ If a sentient item attempts to take control of its wielder, the wielder must mak
 
 The sentient weapons described here have storied histories.
 
-- [Blackrazor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/blackrazor.md)  
-- [Moonblade](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/moonblade.md)  
-- [Wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wave.md)  
-- [Whelm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whelm.md)  
+- [Blackrazor](Compendium/items/blackrazor.md)  
+- [Moonblade](Compendium/items/moonblade.md)  
+- [Wave](Compendium/items/wave.md)  
+- [Whelm](Compendium/items/whelm.md)  
 
 ## Artifacts
 
@@ -440,19 +456,21 @@ Some artifacts appear when they are needed most. For others, the reverse is true
 
 Characters don't typically find artifacts in the normal course of adventuring. In fact, artifacts only appear when you want them to, for they are as much plot devices as magic items. Tracking down and recovering an artifact is often the main goal of an adventure. Characters must chase down rumors, undergo significant trials, and venture into dangerous, half-forgotten places to find the artifact they seek. Alternatively, a major villain might already have the artifact. Obtaining and destroying the artifact could be the only way to ensure that its power can't be used for evil.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/7-19.webp#center)
+
 ### Artifact Properties
 
 Each artifact has its own magical properties, as other magic items do, and the properties are often exceptionally powerful. An artifact might have other properties that are either beneficial or detrimental. You can choose such properties from the tables in this section or determine them randomly. You can also invent new beneficial and detrimental properties. These properties typically change each time an artifact appears in the world.
 
 An artifact can have as many as four minor beneficial properties and two major beneficial properties. It can have as many as four minor detrimental properties and two major detrimental properties.
 
-![Artifact Properties; Minor Beneficial Properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-beneficial-properties.md)
+![Artifact Properties; Minor Beneficial Properties](Compendium/tables/artifact-properties-minor-beneficial-properties.md)
 
-![Artifact Properties; Major Beneficial Properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-beneficial-properties.md)
+![Artifact Properties; Major Beneficial Properties](Compendium/tables/artifact-properties-major-beneficial-properties.md)
 
-![Artifact Properties; Minor Detrimental Properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-detrimental-properties.md)
+![Artifact Properties; Minor Detrimental Properties](Compendium/tables/artifact-properties-minor-detrimental-properties.md)
 
-![Artifact Properties; Major Detrimental Properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-detrimental-properties.md)
+![Artifact Properties; Major Detrimental Properties](Compendium/tables/artifact-properties-major-detrimental-properties.md)
 
 ### Destroying Artifacts
 
@@ -470,14 +488,14 @@ An artifact must be destroyed in some special way. Otherwise, it is impervious t
 
 The artifacts presented here have appeared in one or more of D&D worlds. Use them as guides when creating your own artifacts, or modify them as you see fit.
 
-- [Axe of the Dwarvish Lords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/axe-of-the-dwarvish-lords.md)  
-- [Book of Exalted Deeds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/book-of-exalted-deeds.md)  
-- [Book of Vile Darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/book-of-vile-darkness.md)  
-- [Eye of Vecna](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eye-of-vecna.md)  
-- [Hand of Vecna](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hand-of-vecna.md)  
-- [Orb of Dragonkind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/orb-of-dragonkind.md)  
-- [Sword of Kas](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sword-of-kas.md)  
-- [Wand of Orcus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wand-of-orcus.md)  
+- [Axe of the Dwarvish Lords](Compendium/items/axe-of-the-dwarvish-lords.md)  
+- [Book of Exalted Deeds](Compendium/items/book-of-exalted-deeds.md)  
+- [Book of Vile Darkness](Compendium/items/book-of-vile-darkness.md)  
+- [Eye of Vecna](Compendium/items/eye-of-vecna.md)  
+- [Hand of Vecna](Compendium/items/hand-of-vecna.md)  
+- [Orb of Dragonkind](Compendium/items/orb-of-dragonkind.md)  
+- [Sword of Kas](Compendium/items/sword-of-kas.md)  
+- [Wand of Orcus](Compendium/items/wand-of-orcus.md)  
 
 ## Other Rewards
 
@@ -509,29 +527,29 @@ Most adventurers go their entire lives without receiving even one of these bless
 
 Example blessings are provided below. The text of a blessing addresses its user. If you decide to create more blessings, consider this: a typical blessing mimics the properties of a wondrous item.
 
-- [Blessing of Health](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/blessing-of-health.md)  
-- [Blessing of Protection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/blessing-of-protection.md)  
-- [Blessing of Magic Resistance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/blessing-of-magic-resistance.md)  
-- [Blessing of Understanding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/blessing-of-understanding.md)  
-- [Blessing of Valhalla](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/blessing-of-valhalla.md)  
-- [Blessing of Weapon Enhancement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/blessing-of-weapon-enhancement.md)  
-- [Blessing of Wound Closure](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/blessing-of-wound-closure.md)  
+- [Blessing of Health](Compendium/rewards/blessing-of-health.md)  
+- [Blessing of Protection](Compendium/rewards/blessing-of-protection.md)  
+- [Blessing of Magic Resistance](Compendium/rewards/blessing-of-magic-resistance.md)  
+- [Blessing of Understanding](Compendium/rewards/blessing-of-understanding.md)  
+- [Blessing of Valhalla](Compendium/rewards/blessing-of-valhalla.md)  
+- [Blessing of Weapon Enhancement](Compendium/rewards/blessing-of-weapon-enhancement.md)  
+- [Blessing of Wound Closure](Compendium/rewards/blessing-of-wound-closure.md)  
 
 #### Charms
 
 A charm is a minor supernatural gift, which can be received in a large variety of ways. For example, a wizard who finds an eldritch secret in a dead archmage's spellbook might be infused with the magic of a charm, as might a character who solves a sphinx's riddle or drinks from a magic fountain. Legendary creatures, such as ancient gold dragons and unicorns, sometimes grace their allies with charms, and some explorers find themselves bearing the magic of a charm after discovering a long-lost location that is drenched in primeval magic.
 
-Some charms can be used only once, and others can be used a specific number of times before vanishing. If a charm lets you cast a spell, you are able to do so without spending a spell slot or providing any components (verbal, somatic, or material). In any case, a charm can't be used in the area created by an antimagic field or a similar effect, and a charm's effects are susceptible to dispel magic and the like. But the charm itself can't be removed from a creature by anything short of divine intervention or the [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell.
+Some charms can be used only once, and others can be used a specific number of times before vanishing. If a charm lets you cast a spell, you are able to do so without spending a spell slot or providing any components (verbal, somatic, or material). In any case, a charm can't be used in the area created by an antimagic field or a similar effect, and a charm's effects are susceptible to dispel magic and the like. But the charm itself can't be removed from a creature by anything short of divine intervention or the [wish](Compendium/spells/wish.md) spell.
 
 Example charms are provided below. The text of a charm addresses its user. A typical charm mimics the effects of a potion or a spell, so it is easy to create more charms of your own, if you like.
 
-- [Charm of Animal Conjuring](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/charm-of-animal-conjuring.md)  
-- [Charm of Darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/charm-of-darkvision.md)  
-- [Charm of Feather Falling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/charm-of-feather-falling.md)  
-- [Charm of Heroism](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/charm-of-heroism.md)  
-- [Charm of Restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/charm-of-restoration.md)  
-- [Charm of the Slayer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/charm-of-the-slayer.md)  
-- [Charm of Vitality](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/rewards/charm-of-vitality.md)  
+- [Charm of Animal Conjuring](Compendium/rewards/charm-of-animal-conjuring.md)  
+- [Charm of Darkvision](Compendium/rewards/charm-of-darkvision.md)  
+- [Charm of Feather Falling](Compendium/rewards/charm-of-feather-falling.md)  
+- [Charm of Heroism](Compendium/rewards/charm-of-heroism.md)  
+- [Charm of Restoration](Compendium/rewards/charm-of-restoration.md)  
+- [Charm of the Slayer](Compendium/rewards/charm-of-the-slayer.md)  
+- [Charm of Vitality](Compendium/rewards/charm-of-vitality.md)  
 
 ### Marks of Prestige
 

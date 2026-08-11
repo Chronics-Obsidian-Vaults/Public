@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- The Outer Planes
+- "The Outer Planes"
 ---
 # The Outer Planes
 *Source: Dungeon Master's Guide p. 57* 

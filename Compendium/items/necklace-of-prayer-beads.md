@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Necklace of Prayer Beads"
 item_type: 
 item_subtype: 
@@ -15,7 +16,7 @@ attunement: required
 ---
 # Necklace of Prayer Beads
 *Wondrous item, major, rare (requires attunement by a cleric, druid, or paladin)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/necklace-of-prayer-beads.webp#right)
+![](Compendium/items/img/necklace-of-prayer-beads.webp#right)
 
 - **Weight**: 1.0 lbs.
 
@@ -25,12 +26,12 @@ Six types of magic beads exist. The DM decides the type of each bead on the neck
 
 | dice: d20 | Bead of... | Spell |
 |-----------|------------|-------|
-| 1-6 | Blessing | [Bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md) |
-| 7-12 | Curing | [Cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md) (2nd level) or [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md) |
-| 13-16 | Favor | [Greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md) |
-| 17-18 | Smiting | [Branding smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/branding-smite.md) |
-| 19 | Summons | [Planar ally](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/planar-ally.md) |
-| 20 | Wind walking | [Wind walk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wind-walk.md) |
+| 1-6 | Blessing | [Bless](Compendium/spells/bless.md) |
+| 7-12 | Curing | [Cure wounds](Compendium/spells/cure-wounds.md) (2nd level) or [lesser restoration](Compendium/spells/lesser-restoration.md) |
+| 13-16 | Favor | [Greater restoration](Compendium/spells/greater-restoration.md) |
+| 17-18 | Smiting | [Branding smite](Compendium/spells/branding-smite.md) |
+| 19 | Summons | [Planar ally](Compendium/spells/planar-ally.md) |
+| 20 | Wind walking | [Wind walk](Compendium/spells/wind-walk.md) |
 ^bead-of-spell
 
 *Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

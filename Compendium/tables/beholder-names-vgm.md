@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Beholder Names
+- "Beholder Names"
 ---
 # Beholder Names
 *Source: Volo's Guide to Monsters p. 9* 

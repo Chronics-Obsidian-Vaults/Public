@@ -8,12 +8,12 @@ tags:
 - source/domain/light
 - source/domain/twilight
 - source/domain/war
-aliases: 
-- Dol Arrah
+aliases:
+- "Dol Arrah"
 ---
 # Dol Arrah
 *Source: Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything p. 34* 
-![The Sovereign Host](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/erlw-the-sovereign-host.webp#symbol)
+![The Sovereign Host](Compendium/deities/img/erlw-the-sovereign-host.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

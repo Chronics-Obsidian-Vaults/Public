@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Dimensional Loop"
 item_type: 
 item_subtype: 
@@ -17,11 +18,11 @@ attunement: required
 
 
 
-While attuned to this device, you have a +1 bonus to Strength saving throws, and you have [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 60 feet. If you already have [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision), its range increases by 30 feet.
+While attuned to this device, you have a +1 bonus to Strength saving throws, and you have [darkvision](Rules/senses.md#Darkvision) out to a range of 60 feet. If you already have [darkvision](Rules/senses.md#Darkvision), its range increases by 30 feet.
 
 ## Dimensional Cloak
 
-As a bonus action, you send your body out of phase with the material world for 1 minute, granting you advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks made to hide, and imposing disadvantage on attack rolls against you. Once you use this feature of the dimensional loop, it cannot be used again until the next dawn.
+As a bonus action, you send your body out of phase with the material world for 1 minute, granting you advantage on Dexterity ([Stealth](Rules/skills.md#Stealth)) checks made to hide, and imposing disadvantage on attack rolls against you. Once you use this feature of the dimensional loop, it cannot be used again until the next dawn.
 
 ## Fold Space
 
@@ -29,6 +30,6 @@ Choose a space you can see within 60 feet of you (no action required). You treat
 
 ## Part of a Whole
 
-While this component is not installed in the [Orrery of the Wanderer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/orrery-of-the-wanderer-ai.md), its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+While this component is not installed in the [Orrery of the Wanderer](Compendium/items/orrery-of-the-wanderer-ai.md), its magic might function sporadically or with unpredictable side effects, as determined by the DM.
 
 *Source: Acquisitions Incorporated p. 220*

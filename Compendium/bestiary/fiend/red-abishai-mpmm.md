@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/19
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Red Abishai
+- "Red Abishai"
 ---
-# [Red Abishai](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/red-abishai-mpmm.md)
+# [Red Abishai](Compendium/bestiary/fiend/red-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 160*  
 
 Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
@@ -50,21 +51,19 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "constitution": !!int "10"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 18"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 18"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "19"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -80,7 +79,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
       \ (2d10 + 6) force damage plus 11 (2d10) fire damage."
     "name": "Claw"
   - "desc": "Each creature of the abishai's choice that is within 120 feet and aware\
-      \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ of it for 1 minute. A creature can repeat the saving throw at the end of each\
       \ of its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -88,22 +87,21 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     "name": "Frightful Presence"
   - "desc": "The abishai chooses up to four other creatures within 60 feet of it that\
       \ can see it. Until the start of the abishai's next turn, each of those creatures\
-      \ makes attack rolls with advantage and can't be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+      \ makes attack rolls with advantage and can't be [frightened](Rules/conditions.md#Frightened)."
     "name": "Incite Fanaticism"
   - "desc": "The abishai targets one Dragon it can see within 120 feet of it. The\
       \ Dragon must make a DC 18 Charisma saving throw. A chromatic dragon makes this\
       \ save with disadvantage. On a successful save, the target is immune to the\
       \ abishai's Power of the Dragon Queen for 1 hour. On a failed save, the target\
-      \ is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the abishai for 1 hour. While [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ in this way, the target regards the abishai as a trusted friend to be heeded\
-      \ and protected. This effect ends if the abishai or its companions deal damage\
-      \ to the target."
+      \ is [charmed](Rules/conditions.md#Charmed) by the abishai for 1 hour. While\
+      \ [charmed](Rules/conditions.md#Charmed) in this way, the target regards the\
+      \ abishai as a trusted friend to be heeded and protected. This effect ends if\
+      \ the abishai or its companions deal damage to the target."
     "name": "Power of the Dragon Queen"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/red-abishai-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/red-abishai-mpmm.webp"
 ```
 ^statblock
 

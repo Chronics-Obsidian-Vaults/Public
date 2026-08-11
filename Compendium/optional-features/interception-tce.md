@@ -7,9 +7,9 @@ tags:
 - source/optional-feature/fs-f
 - source/optional-feature/fs-p
 aliases:
-- Interception
+- "Interception"
 ---
 # Interception
 *Source: Tasha's Cauldron of Everything p. 41*  
 
-When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `1d10` + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md) or a simple or martial weapon to use this reaction.
+When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by `1d10` + your proficiency bonus (to a minimum of 0 damage). You must be wielding a [shield](Compendium/items/shield.md) or a simple or martial weapon to use this reaction.

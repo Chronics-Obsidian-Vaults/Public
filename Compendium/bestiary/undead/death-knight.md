@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/17
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Death Knight
+- "Death Knight"
 ---
-# [Death Knight](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/death-knight.md)
-*Source: Monster Manual p. 47, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Book of Many Things*  
+# [Death Knight](Compendium/bestiary/undead/death-knight.md)
+*Source: Monster Manual p. 47*  
 
 When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into a hateful undead creature. A death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets.
 
@@ -39,8 +40,7 @@ A death knight doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Chaotic Evil"
 "ac": !!int "20"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "180"
 "hit_dice": "19d8 + 95"
 "modifier": !!int "0"
@@ -57,32 +57,29 @@ A death knight doesn't require air, food, drink, or sleep.
   - "wisdom": !!int "9"
   - "charisma": !!int "10"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 13"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 13"
 "languages": "Abyssal, Common"
 "cr": "17"
 "traits":
   - "desc": "The death knight is a 19th-level spellcaster. Its spellcasting ability\
       \ is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the\
-      \ following paladin spells prepared:\n\n**1st level (4 slots):** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [compelled duel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compelled-duel.md),\
-      \ [searing smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/searing-smite.md)\n\
-      \n**2nd level (3 slots):** [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [magic weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-weapon.md)\n\
-      \n**3rd level (3 slots):** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [elemental weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/elemental-weapon.md)\n\
-      \n**4th level (3 slots):** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [staggering smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/staggering-smite.md)\n\
-      \n**5th level (2 slots):** [destructive wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/destructive-wave.md)\
-      \ (necrotic)"
+      \ following paladin spells prepared:\n\n**1st level (4 slots):** [command](Compendium/spells/command.md),\
+      \ [compelled duel](Compendium/spells/compelled-duel.md), [searing smite](Compendium/spells/searing-smite.md)\n\
+      \n**2nd level (3 slots):** [hold person](Compendium/spells/hold-person.md),\
+      \ [magic weapon](Compendium/spells/magic-weapon.md)\n\n**3rd level (3 slots):**\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [elemental weapon](Compendium/spells/elemental-weapon.md)\n\
+      \n**4th level (3 slots):** [banishment](Compendium/spells/banishment.md), [staggering\
+      \ smite](Compendium/spells/staggering-smite.md)\n\n**5th level (2 slots):**\
+      \ [destructive wave](Compendium/spells/destructive-wave.md) (necrotic)"
     "name": "Spellcasting"
   - "desc": "The death knight has advantage on saving throws against spells and other\
       \ magical effects."
     "name": "Magic Resistance"
-  - "desc": "Unless the death knight is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
+  - "desc": "Unless the death knight is [incapacitated](Rules/conditions.md#Incapacitated),\
       \ it and undead creatures of its choice within 60 feet of it have advantage\
       \ on saving throws against features that turn undead."
     "name": "Marshal Undead"
@@ -106,9 +103,6 @@ A death knight doesn't require air, food, drink, or sleep.
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/death-knight.webp"
+"image": "Compendium/bestiary/undead/token/death-knight.webp"
 ```
 ^statblock

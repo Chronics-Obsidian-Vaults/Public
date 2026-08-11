@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/gnome
 - source/domain/nature
-aliases: 
-- Baervan Wildwanderer
+aliases:
+- "Baervan Wildwanderer"
 ---
 # Baervan Wildwanderer
 *Source: Mordenkainen's Tome of Foes p. 111* 

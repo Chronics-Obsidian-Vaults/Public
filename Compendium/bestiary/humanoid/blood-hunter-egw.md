@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blood Hunter
+- "Blood Hunter"
 ---
-# [Blood Hunter](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/blood-hunter-egw.md)
+# [Blood Hunter](Compendium/bestiary/humanoid/blood-hunter-egw.md)
 *Source: Explorer's Guide to Wildemount p. 284*  
 
 To mortals and monsters alike, the blood hunter is a legendary figure—a humanoid stalker said to embrace monstrous power. Long years ago, a group of mortals undertook dark rituals and alchemical experiments to gain the power of the deadliest monsters, allowing them to better hunt those monsters.
@@ -25,7 +26,7 @@ Blood hunters are steely on the surface, but roiling emotion lies beneath that i
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[half plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/half-plate-armor.md)"
+"ac_class": "[half plate](Compendium/items/half-plate-armor.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "1"
@@ -41,19 +42,21 @@ Blood hunters are steely on the surface, but roiling emotion lies beneath that i
   - "strength": !!int "7"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+4"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 16"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+  - "[heavy crossbow](Compendium/items/heavy-crossbow.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 16"
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
-  - "desc": "The blood hunter can innately cast [hex](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hex.md).\
-      \ Its innate spellcasting ability is Intelligence.\n"
+  - "desc": "The blood hunter can innately cast [hex](Compendium/spells/hex.md). Its\
+      \ innate spellcasting ability is Intelligence.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "As a bonus action, the blood hunter targets one creature it can see within\
       \ 30 feet of it. The target must succeed on a DC 14 Strength saving throw or\
@@ -78,6 +81,6 @@ Blood hunters are steely on the surface, but roiling emotion lies beneath that i
     "name": "Heavy Crossbow"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/blood-hunter-egw.webp"
+"image": "Compendium/bestiary/humanoid/token/blood-hunter-egw.webp"
 ```
 ^statblock

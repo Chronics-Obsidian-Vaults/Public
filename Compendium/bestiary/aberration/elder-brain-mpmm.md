@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/14
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elder Brain
+- "Elder Brain"
 ---
-# [Elder Brain](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/elder-brain-mpmm.md)
+# [Elder Brain](Compendium/bestiary/aberration/elder-brain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173*  
 
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
@@ -56,18 +57,17 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "wisdom": !!int "9"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+10"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+12"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+14"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+12"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+12"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 120 ft., passive Perception 14"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 120 ft., passive Perception 14"
 "languages": "understands Common, Deep Speech, and Undercommon but can't speak, telepathy\
   \ 5 miles"
 "cr": "14"
@@ -75,9 +75,9 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "desc": "The elder brain is aware of creatures within 5 miles of it that have\
       \ an Intelligence score of 4 or higher. It knows the distance and direction\
       \ to each creature, as well as each one's Intelligence score, but can't sense\
-      \ anything else about it. A creature protected by a [mind blank](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mind-blank.md)\
-      \ spell, a [nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md)\
-      \ spell, or similar magic can't be perceived in this manner."
+      \ anything else about it. A creature protected by a [mind blank](Compendium/spells/mind-blank.md)\
+      \ spell, a [nondetection](Compendium/spells/nondetection.md) spell, or similar\
+      \ magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "If the elder brain fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -91,33 +91,30 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 "actions":
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 30 ft., one target. *Hit:* 20\
       \ (4d8 + 2) bludgeoning damage. If the target is a Huge or smaller creature,\
-      \ it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 15) and takes 9 (1d8 + 5) psychic damage at the start of each of\
-      \ its turns until the grapple ends. The elder brain can have up to four targets\
-      \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ it is [grappled](Rules/conditions.md#Grappled) (escape DC 15) and takes 9\
+      \ (1d8 + 5) psychic damage at the start of each of its turns until the grapple\
+      \ ends. The elder brain can have up to four targets [grappled](Rules/conditions.md#Grappled)\
       \ at a time."
     "name": "Tentacle"
   - "desc": "Creatures of the elder brain's choice within 60 feet of it must succeed\
       \ on a DC 18 Intelligence saving throw or take 32 (5d10 + 5) psychic damage\
-      \ and be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. A target can repeat the saving throw at the end of each of its\
-      \ turns, ending the effect on itself on a success."
+      \ and be [stunned](Rules/conditions.md#Stunned) for 1 minute. A target can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The elder brain casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 18):\n\n**At will:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\n\
-      \n**3/day:** [modify memory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/modify-memory.md)\n\
-      \n**1/day each:** [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ (self only)"
+      \ DC 18):\n\n**At will:** [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [levitate](Compendium/spells/levitate.md)\n\n**3/day:** [modify memory](Compendium/spells/modify-memory.md)\n\
+      \n**1/day each:** [dominate monster](Compendium/spells/dominate-monster.md),\
+      \ [plane shift](Compendium/spells/plane-shift.md) (self only)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
-  - "desc": "The elder brain targets one [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+  - "desc": "The elder brain targets one [incapacitated](Rules/conditions.md#Incapacitated)\
       \ creature it senses with its Creature Sense trait and establishes a psychic\
       \ link with the target. Until the link ends, the elder brain can perceive everything\
       \ the target senses. The target becomes aware that something is linked to its\
-      \ mind once it is no longer [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
+      \ mind once it is no longer [incapacitated](Rules/conditions.md#Incapacitated),\
       \ and the elder brain can terminate the link at any time (no action required).\
       \ The target can use an action on its turn to attempt to break the link, doing\
       \ so with a successful DC 18 Charisma saving throw. On a successful save, the\
@@ -133,16 +130,15 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "desc": "On initiative count 20 (losing initiative ties), an elder brain can take\
       \ one of the following lair actions; the elder brain can't take the same lair\
       \ action two rounds in a row:\n\n- **Force Wall.** The elder brain casts [wall\
-      \ of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md).\
-      \  \n- **Psionic Anchor.** The elder brain targets one creature it can sense\
-      \ within 120 feet of it and anchors it by sheer force of will. The target must\
-      \ make a DC 18 Charisma saving throw. On a failed save, its speed is reduced\
-      \ to 0, and it can't teleport. It can repeat the saving throw at the end of\
-      \ each of its turns, ending the effect on itself on a success.  \n- **Psychic\
-      \ Inspiration.** The elder brain targets one friendly creature it can sense\
-      \ within 120 feet of it. The target has a flash of inspiration and gains advantage\
-      \ on one attack roll, ability check, or saving throw it makes before the end\
-      \ of its next turn.  "
+      \ of force](Compendium/spells/wall-of-force.md).  \n- **Psionic Anchor.** The\
+      \ elder brain targets one creature it can sense within 120 feet of it and anchors\
+      \ it by sheer force of will. The target must make a DC 18 Charisma saving throw.\
+      \ On a failed save, its speed is reduced to 0, and it can't teleport. It can\
+      \ repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success.  \n- **Psychic Inspiration.** The elder brain targets\
+      \ one friendly creature it can sense within 120 feet of it. The target has a\
+      \ flash of inspiration and gains advantage on one attack roll, ability check,\
+      \ or saving throw it makes before the end of its next turn.  "
     "name": ""
 "regional_effects":
   - "desc": "The territory within 5 miles of an elder brain is altered by the creature's\
@@ -164,7 +160,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   \ elder brain regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The elder brain targets one creature within 120 feet of it with which\
-      \ it has a psychic link. The elder brain breaks the creature's [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
+      \ it has a psychic link. The elder brain breaks the creature's [concentration](Rules/conditions.md#Concentration)\
       \ on a spell it has cast. The creature also takes 2 (1d4) psychic damage per\
       \ level of the spell."
     "name": "Break Concentration"
@@ -182,7 +178,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/elder-brain-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/elder-brain-mpmm.webp"
 ```
 ^statblock
 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/attunement/required
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Selesnya Keyrune"
 item_type: 
 item_subtype: 
@@ -14,14 +15,14 @@ attunement: required
 ---
 # Selesnya Keyrune
 *Wondrous item, rare (requires attunement by a member of the Selesnya guild)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/selesnya-keyrune.webp#right)
+![](Compendium/items/img/selesnya-keyrune.webp#right)
 
 
-Carved from white and green marble in the shape of a wolf's head, this keyrune transforms into a [dire wolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/dire-wolf.md). The wolf persists for 8 hours. Its Intelligence is 6, and it understands Elvish and Sylvan but can't speak those languages. While it is within 1 mile of you, you can communicate with each other telepathically.
+Carved from white and green marble in the shape of a wolf's head, this keyrune transforms into a [dire wolf](Compendium/bestiary/beast/dire-wolf.md). The wolf persists for 8 hours. Its Intelligence is 6, and it understands Elvish and Sylvan but can't speak those languages. While it is within 1 mile of you, you can communicate with each other telepathically.
 
-When you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within 5 feet of you, the keyrune transforms into a [dire wolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/dire-wolf.md). If there isn't enough space for the creature, the keyrune doesn't transform.
+When you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within 5 feet of you, the keyrune transforms into a [dire wolf](Compendium/bestiary/beast/dire-wolf.md). If there isn't enough space for the creature, the keyrune doesn't transform.
 
-The creature is friendly to you, your companions, and other members of your guild (unless those guild members are hostile to you). It understands your languages and obeys your spoken commands. If you issue no commands, the creature takes the [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge) action and moves to avoid danger.
+The creature is friendly to you, your companions, and other members of your guild (unless those guild members are hostile to you). It understands your languages and obeys your spoken commands. If you issue no commands, the creature takes the [Dodge](Rules/actions.md#Dodge) action and moves to avoid danger.
 
 At the end of the duration, the creature reverts to its keyrune form. It reverts early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature reverts to its keyrune form, it can't transform again until 36 hours have passed.
 

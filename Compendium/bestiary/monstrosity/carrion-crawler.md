@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Carrion Crawler
+- "Carrion Crawler"
 ---
-# [Carrion Crawler](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/carrion-crawler.md)
-*Source: Monster Manual p. 37, The Book of Many Things*  
+# [Carrion Crawler](Compendium/bestiary/monstrosity/carrion-crawler.md)
+*Source: Monster Manual p. 37*  
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
 
@@ -44,14 +45,13 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The carrion crawler has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The carrion crawler has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The carrion crawler can climb difficult surfaces, including upside down\
@@ -63,8 +63,8 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:*\
       \ 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. Until this poison ends, the target is [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed).\
+      \ saving throw or be [poisoned](Rules/conditions.md#Poisoned) for 1 minute.\
+      \ Until this poison ends, the target is [paralyzed](Rules/conditions.md#Paralyzed).\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the poison on itself on a success."
     "name": "Tentacles"
@@ -73,8 +73,7 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
     "name": "Bite"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/carrion-crawler.webp"
+"image": "Compendium/bestiary/monstrosity/token/carrion-crawler.webp"
 ```
 ^statblock
 

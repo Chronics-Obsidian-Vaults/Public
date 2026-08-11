@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Documancer; Favorite Methods to Destroy Documents
+- "Documancer; Favorite Methods to Destroy Documents"
 ---
 # Documancer; Favorite Methods to Destroy Documents
 *Source: Acquisitions Incorporated p. 23* 

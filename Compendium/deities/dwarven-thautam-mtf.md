@@ -7,8 +7,8 @@ tags:
 - source/deity/dwarven
 - source/domain/knowledge
 - source/domain/trickery
-aliases: 
-- Thautam
+aliases:
+- "Thautam"
 ---
 # Thautam
 *Source: Mordenkainen's Tome of Foes p. 73* 

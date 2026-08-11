@@ -7,7 +7,7 @@ tags:
 - source/domain/death
 - source/subclass/cleric/death
 aliases:
-- Death Domain
+- "Death Domain"
 ---
 # Death Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,12 +44,13 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/death-cleric.webp#right)
 
-## Class Features
+The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [Chemosh](Compendium/deities/dragonlance-chemosh-phb.md), Myrkul, and [Wee Jas](Compendium/deities/greyhawk-wee-jas.md) are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([Anubis](Compendium/deities/egyptian-anubis.md), Bhaal, and Pyremius), pain ([Iuz](Compendium/deities/greyhawk-iuz.md) or Loviatar), disease or poison ([Incabulos](Compendium/deities/greyhawk-incabulos.md), Talona, or [Morgion](Compendium/deities/dragonlance-morgion-phb.md)), and the underworld ([Hades](Compendium/deities/greek-hades.md) and [Hel](Compendium/deities/norse-hel.md)).
 
-### Death Domain (Level 1)
+## Subclass Features
 
-The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [Chemosh](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-chemosh-phb.md), Myrkul, and [Wee Jas](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-wee-jas.md) are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([Anubis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/egyptian-anubis.md), Bhaal, and Pyremius), pain ([Iuz](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-iuz.md) or Loviatar), disease or poison ([Incabulos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-incabulos.md), Talona, or [Morgion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-morgion-phb.md)), and the underworld ([Hades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-hades.md) and [Hel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/norse-hel.md)).
+### Domain Spells (Level 1)
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -57,11 +58,11 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [false life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/false-life.md), [ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md) |
-| 3rd | [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md), [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md) |
-| 5th | [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md), [vampiric touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vampiric-touch.md) |
-| 7th | [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md), [death ward](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/death-ward.md) |
-| 9th | [antilife shell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antilife-shell.md), [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md) |
+| 1st | [false life](Compendium/spells/false-life.md), [ray of sickness](Compendium/spells/ray-of-sickness.md) |
+| 3rd | [blindness/deafness](Compendium/spells/blindness-deafness.md), [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement.md) |
+| 5th | [animate dead](Compendium/spells/animate-dead.md), [vampiric touch](Compendium/spells/vampiric-touch.md) |
+| 7th | [blight](Compendium/spells/blight.md), [death ward](Compendium/spells/death-ward.md) |
+| 9th | [antilife shell](Compendium/spells/antilife-shell.md), [cloudkill](Compendium/spells/cloudkill.md) |
 ^death-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -89,7 +90,7 @@ At 8th level, the cleric gains the ability to infuse his or her weapon strikes w
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

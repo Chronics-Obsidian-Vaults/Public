@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/16
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Phoenix
+- "Phoenix"
 ---
-# [Phoenix](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/phoenix-mpmm.md)
+# [Phoenix](Compendium/bestiary/elemental/phoenix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  
 
 > [!quote] A quote from Mordenkainen  
@@ -44,16 +45,11 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
   - "charisma": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained), [stunned](Rules/conditions.md#Stunned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": ""
 "cr": "16"
 "traits":
@@ -74,7 +70,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
       \ fire damage.\n\nWith a touch, the phoenix can also ignite flammable objects\
       \ that aren't worn or carried (no action required)."
     "name": "Fire Form"
-  - "desc": "The phoenix doesn't provoke [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The phoenix doesn't provoke [opportunity attacks](Rules/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "The phoenix sheds bright light in a 60-foot radius and dim light for\
@@ -106,7 +102,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/phoenix-mpmm.webp"
+"image": "Compendium/bestiary/elemental/token/phoenix-mpmm.webp"
 ```
 ^statblock
 

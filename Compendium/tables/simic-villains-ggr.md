@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Simic Villains
+- "Simic Villains"
 ---
 # Simic Villains
 *Source: Guildmasters' Guide to Ravnica p. 158* 
@@ -20,6 +20,6 @@ aliases:
 | 4 | A magic-wielding Simic hybrid is eluding capture by the authorities thanks to a combination of adaptations and spells. |
 | 5 | A researcher delves too deep into ancient lore and discovers mind-warping alien secrets. |
 | 6 | A researcher creates a moss that threatens to destroy much of the city's food production. |
-| 7 | A [biomancer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/biomancer-ggr.md) seeks revenge by creating a specialized krasis that targets a specific guild. |
+| 7 | A [biomancer](Compendium/bestiary/humanoid/biomancer-ggr.md) seeks revenge by creating a specialized krasis that targets a specific guild. |
 | 8 | A researcher turns to necromancy, exploring the combination of dead body parts with living tissue. |
 ^simic-villains

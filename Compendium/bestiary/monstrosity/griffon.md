@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -14,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Griffon
+- "Griffon"
 ---
-# [Griffon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/griffon.md)
-*Source: Monster Manual p. 174, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Griffon](Compendium/bestiary/monstrosity/griffon.md)
+*Source: Monster Manual p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
 
@@ -57,14 +58,13 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
   - !!int "8"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The griffon has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The griffon has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
@@ -78,10 +78,7 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
     "name": "Claws"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/griffon.webp"
+"image": "Compendium/bestiary/monstrosity/token/griffon.webp"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/optional-feature/mm
 aliases:
-- Seeking Spell
+- "Seeking Spell"
 ---
 # Seeking Spell
 *Source: Tasha's Cauldron of Everything p. 66*  

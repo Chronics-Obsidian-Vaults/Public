@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- NPC Appearance
+- "NPC Appearance"
 ---
 # NPC Appearance
 *Source: Dungeon Master's Guide p. 88* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wraith
+- "Wraith"
 ---
-# [Wraith](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/wraith.md)
-*Source: Monster Manual p. 302, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Wraith](Compendium/bestiary/undead/wraith.md)
+*Source: Monster Manual p. 302. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
 
@@ -57,16 +58,11 @@ A wraith doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks that aren't silvered"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
@@ -75,8 +71,8 @@ A wraith doesn't require air, food, drink, or sleep.
       \ an object."
     "name": "Incorporeal Movement"
   - "desc": "While in sunlight, the wraith has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21\
@@ -87,18 +83,14 @@ A wraith doesn't require air, food, drink, or sleep.
     "name": "Life Drain"
   - "desc": "The wraith targets a humanoid within 10 feet of it that has been dead\
       \ for no longer than 1 minute and died violently. The target's spirit rises\
-      \ as a [specter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/specter.md)\
-      \ in the space of its corpse or in the nearest unoccupied space. The [specter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/specter.md)\
+      \ as a [specter](Compendium/bestiary/undead/specter.md) in the space of its\
+      \ corpse or in the nearest unoccupied space. The [specter](Compendium/bestiary/undead/specter.md)\
       \ is under the wraith's control. The wraith can have no more than seven specters\
       \ under its control at one time."
     "name": "Create Specter"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/wraith.webp"
+"image": "Compendium/bestiary/undead/token/wraith.webp"
 ```
 ^statblock
 

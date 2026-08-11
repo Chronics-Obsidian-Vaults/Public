@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- World-Shaking Events
+- "World-Shaking Events"
 ---
 # World-Shaking Events
 *Source: Dungeon Master's Guide p. 27* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Riffler
+- "Riffler"
 ---
-# [Riffler](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/riffler-bmt.md)
+# [Riffler](Compendium/bestiary/fey/riffler-bmt.md)
 *Source: The Book of Many Things p. 181*  
 
 Rifflers are diminutive Fey reminiscent of gnomes and obsessed with destiny and fate. The oldest stories of rifflers suggest these dangerously curious spirits manifested as physical beings when the Deck of Many Things was shuffled for the first time. The rifflers were so enraptured with the soft sound made by the whispering cards that they made physical bodies for themselves in order to possess and understand this new instrument of destiny.
@@ -42,17 +43,16 @@ Both the Solar Bastion (see chapter 10) and the Grim Harrow (see chapter 19) kno
   - "dexterity": !!int "6"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+9"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic, radiant"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Common, Sylvan"
 "cr": "5"
 "traits":
@@ -74,13 +74,13 @@ Both the Solar Bastion (see chapter 10) and the Grim Harrow (see chapter 19) kno
     "name": "Spectral Card"
   - "desc": "The riffler magically unleashes a spray of spectral cards in a 30-foot\
       \ cone. Each creature in that area must make a DC 14 Dexterity saving throw.\
-      \ On a failed save, a creature takes 27 (5d10) force damage and has the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ On a failed save, a creature takes 27 (5d10) force damage and has the [restrained](Rules/conditions.md#Restrained)\
       \ condition for 1 minute as cards bind it. On a successful save, a creature\
-      \ takes half as much damage only. A [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ takes half as much damage only. A [restrained](Rules/conditions.md#Restrained)\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Card Spray (Recharge 5-6)"
-  - "desc": "The riffler casts the [Plane Shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
+  - "desc": "The riffler casts the [Plane Shift](Compendium/spells/plane-shift.md)\
       \ spell targeting only itself, requiring no material components and using Charisma\
       \ as the spellcasting ability."
     "name": "Plane Shift"
@@ -93,6 +93,6 @@ Both the Solar Bastion (see chapter 10) and the Grim Harrow (see chapter 19) kno
     "name": "Shuffle Destiny"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/riffler-bmt.webp"
+"image": "Compendium/bestiary/fey/token/riffler-bmt.webp"
 ```
 ^statblock

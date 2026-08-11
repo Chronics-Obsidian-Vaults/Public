@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/8
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Corpse Flower
+- "Corpse Flower"
 ---
-# [Corpse Flower](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/corpse-flower-mpmm.md)
+# [Corpse Flower](Compendium/bestiary/plant/corpse-flower-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127*  
 
 A corpse flower can sprout atop the grave of an evil necromancer or the remains of powerful Undead creatures. Unless it is uprooted and burned while it is still a seedling, the corpse flower grows to enormous size over several weeks, then tears itself free of the earth and begins scavenging Humanoid corpses from battlefields and graveyards. Using its fibrous tentacles, it stuffs the remains into its body to sustain and repair itself. The plant has a malevolent bent and despises the living.
@@ -38,11 +39,10 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
   - !!int "15"
   - !!int "3"
 "speed": "20 ft., climb 20 ft."
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 120 ft. (blind beyond this radius), passive Perception 12"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 120 ft. (blind beyond this radius),\
+  \ passive Perception 12"
 "languages": ""
 "cr": "8"
 "traits":
@@ -58,9 +58,9 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
   - "desc": "Each creature that starts its turn within 10 feet of the corpse flower\
       \ or one of its zombies must make a DC 14 Constitution saving throw, unless\
       \ the creature is a Construct or an Undead. On a failed save, the creature is\
-      \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ until the start of its next turn. On a successful save, the creature is immune\
-      \ to the Stench of Death of all corpse flowers for 24 hours."
+      \ [poisoned](Rules/conditions.md#Poisoned) until the start of its next turn.\
+      \ On a successful save, the creature is immune to the Stench of Death of all\
+      \ corpse flowers for 24 hours."
     "name": "Stench of Death"
 "actions":
   - "desc": "The corpse flower makes three Tentacle attacks."
@@ -77,16 +77,16 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
       \ on the corpse is expelled from the corpse flower in its space."
     "name": "Digest"
   - "desc": "The corpse flower animates one corpse in its body, turning it into a\
-      \ [zombie](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/zombie.md).\
-      \ The zombie appears in an unoccupied space within 5 feet of the corpse flower\
-      \ and acts immediately after it in the initiative order. The zombie acts as\
-      \ an ally of the corpse flower but isn't under its control, and the flower's\
-      \ stench clings to it (see Stench of Death)."
+      \ [zombie](Compendium/bestiary/undead/zombie.md). The zombie appears in an unoccupied\
+      \ space within 5 feet of the corpse flower and acts immediately after it in\
+      \ the initiative order. The zombie acts as an ally of the corpse flower but\
+      \ isn't under its control, and the flower's stench clings to it (see Stench\
+      \ of Death)."
     "name": "Reanimate"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/corpse-flower-mpmm.webp"
+"image": "Compendium/bestiary/plant/token/corpse-flower-mpmm.webp"
 ```
 ^statblock
 

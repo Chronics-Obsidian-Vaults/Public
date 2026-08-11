@@ -1,24 +1,23 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/warlock
 - source/spell/class/wizard
+- source/spell/feat/mark-of-scribing
 - source/spell/level/5th-level
 - source/spell/school/illusion
 - source/spell/subclass/circle-of-the-land/grassland
-- source/spell/subclass/moon-domain
-- source/spell/subrace/gnome-mark-of-scribing
 classes:
 - Bard (Magical Secrets)
-- Cleric (Moon Domain)
 - Druid (Circle of the Land, Grassland)
 - Warlock
 - Wizard
 aliases:
-- Dream
+- "Dream"
 level: 5
 school: illusion
 ritual: false
@@ -46,6 +45,6 @@ You can make the messenger appear monstrous and terrifying to the target. If you
 
 If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Moon Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-moon-domain-tdcsr.md "subclass=TDCSR"); [Druid (Circle of the Land, Grassland)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Grassland)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

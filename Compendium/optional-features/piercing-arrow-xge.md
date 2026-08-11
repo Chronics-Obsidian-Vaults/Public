@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/optional-feature/as
 aliases:
-- Piercing Arrow
+- "Piercing Arrow"
 ---
 # Piercing Arrow
 *Source: Xanathar's Guide to Everything p. 29*  

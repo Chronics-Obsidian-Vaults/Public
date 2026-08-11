@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Seelie Market Introductions
+- "Seelie Market Introductions"
 ---
 # Seelie Market Introductions
 *Source: The Book of Many Things p. 106* 

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/optional-feature/as
 aliases:
-- Seeking Arrow
+- "Seeking Arrow"
 ---
 # Seeking Arrow
 *Source: Xanathar's Guide to Everything p. 30*  

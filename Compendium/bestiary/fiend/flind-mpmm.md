@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/9
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flind
+- "Flind"
 ---
-# [Flind](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/flind-mpmm.md)
+# [Flind](Compendium/bestiary/fiend/flind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153*  
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
@@ -31,7 +32,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "subtype": "gnoll"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md)"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -47,16 +48,17 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
   - "constitution": !!int "8"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "Gnoll, Abyssal"
 "cr": "9"
 "traits":
-  - "desc": "If the flind isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
+  - "desc": "If the flind isn't [incapacitated](Rules/conditions.md#Incapacitated),\
       \ any creature with the Rampage trait can make a Bite attack as a bonus action\
       \ while within 10 feet of the flind."
     "name": "Aura of Blood Thirst"
@@ -76,8 +78,8 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
     "name": "Flail of Pain"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10\
       \ (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution\
-      \ saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ until the end of its next turn."
+      \ saving throw or be [paralyzed](Rules/conditions.md#Paralyzed) until the end\
+      \ of its next turn."
     "name": "Flail of Paralysis"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
@@ -85,7 +87,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/flind-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/flind-mpmm.webp"
 ```
 ^statblock
 

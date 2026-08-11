@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Slaad Tadpole
+- "Slaad Tadpole"
 ---
-# [Slaad Tadpole](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/slaad-tadpole.md)
-*Source: Monster Manual p. 276, Explorer's Guide to Wildemount*  
+# [Slaad Tadpole](Compendium/bestiary/aberration/slaad-tadpole.md)
+*Source: Monster Manual p. 276*  
 
 ## Slaadi
 
@@ -38,13 +39,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](Rules/conditions.md#Charmed) while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](Compendium/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](Compendium/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)) can remove the gem from an [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](Rules/skills.md#Medicine)) can remove the gem from an [incapacitated](Rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](Rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]  
@@ -70,11 +71,10 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - !!int "3"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 7"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 7"
 "languages": "understands Slaad but can't speak"
 "cr": "1/8"
 "traits":
@@ -87,7 +87,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/slaad-tadpole.webp"
+"image": "Compendium/bestiary/aberration/token/slaad-tadpole.webp"
 ```
 ^statblock

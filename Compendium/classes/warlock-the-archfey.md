@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/warlock/archfey
 aliases:
-- The Archfey
+- "The Archfey"
 ---
 # The Archfey
 *[Warlock](./warlock.md): Otherworldly Patron*  
@@ -43,14 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### The Archfey (Level 1)
-
 Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags.
 
-#### Expanded Spell List
+## Subclass Features
+
+### Expanded Spell List (Level 1)
 
 The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
@@ -58,32 +55,32 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md), [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md) |
-| 2nd | [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md), [phantasmal force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-force.md) |
-| 3rd | [blink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blink.md), [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md) |
-| 4th | [dominate beast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-beast.md), [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md) |
-| 5th | [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md), [seeming](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/seeming.md) |
+| 1st | [faerie fire](Compendium/spells/faerie-fire.md), [sleep](Compendium/spells/sleep.md) |
+| 2nd | [calm emotions](Compendium/spells/calm-emotions.md), [phantasmal force](Compendium/spells/phantasmal-force.md) |
+| 3rd | [blink](Compendium/spells/blink.md), [plant growth](Compendium/spells/plant-growth.md) |
+| 4th | [dominate beast](Compendium/spells/dominate-beast.md), [greater invisibility](Compendium/spells/greater-invisibility.md) |
+| 5th | [dominate person](Compendium/spells/dominate-person.md), [seeming](Compendium/spells/seeming.md) |
 ^archfey-expanded-spells
 
 ### Fey Presence (Level 1)
 
-Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) by you (your choice) until the end of your next turn.
+Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened) by you (your choice) until the end of your next turn.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Misty Escape (Level 6)
 
-Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) and teleport up to 60 feet to an unoccupied space you can see. You remain [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) until the start of your next turn or until you attack or cast a spell.
+Starting at 6th level, you can vanish in a puff of mist in response to harm. When you take damage, you can use your reaction to turn [invisible](Rules/conditions.md#Invisible) and teleport up to 60 feet to an unoccupied space you can see. You remain [invisible](Rules/conditions.md#Invisible) until the start of your next turn or until you attack or cast a spell.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Beguiling Defenses (Level 10)
 
-Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) by you for 1 minute or until the creature takes any damage.
+Beginning at 10th level, your patron teaches you how to turn the mind-affecting magic of your enemies against them. You are immune to being [charmed](Rules/conditions.md#Charmed), and when another creature attempts to charm you, you can use your reaction to attempt to turn the charm back on that creature. The creature must succeed on a Wisdom saving throw against your warlock spell save DC or be [charmed](Rules/conditions.md#Charmed) by you for 1 minute or until the creature takes any damage.
 
 ### Dark Delirium (Level 14)
 
-Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) by you (your choice) for 1 minute or until your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) is broken (as if you are [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell). This effect ends early if the creature takes any damage.
+Starting at 14th level, you can plunge a creature into an illusory realm. As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, it is [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened) by you (your choice) for 1 minute or until your [concentration](Rules/conditions.md#Concentration) is broken (as if you are [concentrating](Rules/conditions.md#Concentration) on a spell). This effect ends early if the creature takes any damage.
 
 Until this illusion ends, the creature thinks it is lost in a misty realm, the appearance of which you choose. The creature can see and hear only itself, you, and the illusion.
 

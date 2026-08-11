@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Quaal's Feather Token, Anchor"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Quaal's Feather Token, Anchor
 *Wondrous item, minor, rare*  
-
+![](Compendium/items/img/quaals-feather-token-anchor.webp#right)
 
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect.

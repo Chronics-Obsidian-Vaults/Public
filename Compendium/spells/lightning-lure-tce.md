@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/tce
 - source/spell/class/artificer
@@ -13,6 +14,7 @@ tags:
 - source/spell/feat/magic-initiate/wizard-spells
 - source/spell/level/cantrip
 - source/spell/optfeature/pact-of-the-tome
+- source/spell/race/khoravar
 - source/spell/race/kobold
 - source/spell/school/evocation
 - source/spell/subclass/arcana-domain
@@ -30,7 +32,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Lightning Lure
+- "Lightning Lure"
 level: 0
 school: evocation
 ritual: false
@@ -54,6 +56,6 @@ You create a lash of lightning energy that strikes at one creature of your choic
 
 This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Tasha's Cauldron of Everything p. 107, Sword Coast Adventurer's Guide p. 143*

@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ai
 aliases:
-- Rival Intern
+- "Rival Intern"
 ---
 # Rival Intern
 *Source: Acquisitions Incorporated p. 51*  
 
 
-- **Skill Proficiencies.** [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)  
+- **Skill Proficiencies.** [History](Rules/skills.md#History), [Investigation](Rules/skills.md#Investigation)  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** Any one of your choice  
-- **Equipment.** One set of artisan's tools, a ledger from your previous employer containing a small piece of useful information, a set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** One set of artisan's tools, a ledger from your previous employer containing a small piece of useful information, a set of [fine clothes](Compendium/items/fine-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 You were an intern at a rival of Acquisitions Incorporated, and you gained a healthy respect for not just the job and the franchising opportunities, but for the ruthless and efficient way Acquisitions Incorporated goes about its business. Why deal with the rest, when you can work for the best?
 

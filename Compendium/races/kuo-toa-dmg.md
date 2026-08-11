@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/kuo-toa
 aliases:
-- Kuo-Toa
+- "Kuo-Toa"
 ---
 # Kuo-Toa
 *Source: Dungeon Master's Guide p. 282*  
@@ -23,7 +24,7 @@ You can breathe air and water.
 
 ### Otherworldly Perception
 
-You can sense the presence of any creature within 30 feet of you that is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) or on the Ethereal Plane. You can pinpoint such a creature that is moving.
+You can sense the presence of any creature within 30 feet of you that is [invisible](Rules/conditions.md#Invisible) or on the Ethereal Plane. You can pinpoint such a creature that is moving.
 
 ### Slippery
 
@@ -31,7 +32,7 @@ You have advantage on ability checks and saving throws made to escape a grapple.
 
 ### Sunlight Sensitivity
 
-While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on sight.
+While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight.
 
 ### Superior Darkvision
 

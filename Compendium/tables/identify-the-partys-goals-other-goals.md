@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Identify the Party's Goals; Other Goals
+- "Identify the Party's Goals; Other Goals"
 ---
 # Identify the Party's Goals; Other Goals
 *Source: Dungeon Master's Guide p. 72* 

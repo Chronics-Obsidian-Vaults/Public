@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/23
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Juiblex
+- "Juiblex"
 ---
-# [Juiblex](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/juiblex-mpmm.md)
+# [Juiblex](Compendium/bestiary/npc/juiblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 160, Mordenkainen's Tome of Foes p. 151*  
 
 Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
@@ -25,7 +26,7 @@ A true horror, Juiblex is a mass of bubbling slime, swirling black and green, wi
 
 ## Juiblex's Lair
 
-Juiblex's principal lair is known as the Slime Pits, a realm that Juiblex shares with [Zuggtmoy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/zuggtmoy-mpmm.md) (who also appears in this book). This layer of the Abyss, which is also known as Shedaklah, is a bubbling morass of fetid sludge. The landscape is covered in vast expanses of caustic slimes, and strange organic forms rise from the oceans of ooze at Juiblex's command.
+Juiblex's principal lair is known as the Slime Pits, a realm that Juiblex shares with [Zuggtmoy](Compendium/bestiary/npc/zuggtmoy-mpmm.md) (who also appears in this book). This layer of the Abyss, which is also known as Shedaklah, is a bubbling morass of fetid sludge. The landscape is covered in vast expanses of caustic slimes, and strange organic forms rise from the oceans of ooze at Juiblex's command.
 
 Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
 
@@ -53,30 +54,23 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
   - "constitution": !!int "13"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+12"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid; poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 22"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained), [stunned](Rules/conditions.md#Stunned),\
+  \ [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 22"
 "languages": "all, telepathy 120 ft."
 "cr": "23"
 "traits":
   - "desc": "Any creature other than an Ooze that starts its turn within 10 feet of\
-      \ Juiblex must succeed on a DC 21 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ Juiblex must succeed on a DC 21 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned)\
       \ until the start of the creature's next turn."
     "name": "Foul"
   - "desc": "If Juiblex fails a saving throw, it can choose to succeed instead."
@@ -107,55 +101,51 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
       \ takes a permanent −1 penalty to damage rolls. The penalty worsens each time\
       \ a target is subjected to this effect. If the penalty on an object drops to\
       \ −5, the object is destroyed. The penalty on an object can be removed by the\
-      \ [mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mending.md)\
-      \ spell."
+      \ [mending](Compendium/spells/mending.md) spell."
     "name": "Eject Slime (Recharge 5-6)"
   - "desc": "Juiblex casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\n**At will:**\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md)\n\
-      \n**3/day each:** [contagion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contagion.md),\
-      \ [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md)"
+      \ [detect magic](Compendium/spells/detect-magic.md)\n\n**3/day each:** [contagion](Compendium/spells/contagion.md),\
+      \ [gaseous form](Compendium/spells/gaseous-form.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Juiblex can take one\
       \ of the following lair actions; it can't take the same lair action two rounds\
-      \ in a row:\n\n- **Green Slime.** A [green slime](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/green-slime.md)\
+      \ in a row:\n\n- **Green Slime.** A [green slime](Compendium/traps-hazards/green-slime.md)\
       \ (see the \"Dungeon Master's Guide\") appears on a spot on the ceiling that\
       \ Juiblex chooses within the lair. The slime disintegrates after 1 hour.  \n\
       - **Slippery Slime.** Juiblex slimes a square area of ground it can see within\
       \ the lair. The area can be up to 10 feet on a side. When the slime appears,\
       \ each creature on it must succeed on a DC 21 Dexterity saving throw or fall\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
-      \ and slide 10 feet in a random direction determined by a d8 roll. When a creature\
-      \ enters the area for the first time on a turn or ends its turn there, that\
-      \ creature must make the same save.  \n\n    The slime lasts for 1 hour or until\
-      \ it is burned away with fire. If the slime is set on fire, it burns away after\
-      \ 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10)\
-      \ fire damage.  \n- **Sticky Slime.** Juiblex slimes a square area of ground\
-      \ it can see within the lair. The area can be up to 10 feet on a side. When\
-      \ the slime appears, each creature in that area must succeed on a DC 21 Strength\
-      \ saving throw or become [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ [prone](Rules/conditions.md#Prone) and slide 10 feet in a random direction\
+      \ determined by a d8 roll. When a creature enters the area for the first time\
+      \ on a turn or ends its turn there, that creature must make the same save. \
+      \ \n\n    The slime lasts for 1 hour or until it is burned away with fire. If\
+      \ the slime is set on fire, it burns away after 1 round. Any creature that starts\
+      \ its turn in the burning slime takes 22 (4d10) fire damage.  \n- **Sticky Slime.**\
+      \ Juiblex slimes a square area of ground it can see within the lair. The area\
+      \ can be up to 10 feet on a side. When the slime appears, each creature in that\
+      \ area must succeed on a DC 21 Strength saving throw or become [restrained](Rules/conditions.md#Restrained).\
       \ When a creature enters the area for the first time on a turn or ends its turn\
-      \ there, that creature must make the same save.  \n\n    A [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ there, that creature must make the same save.  \n\n    A [restrained](Rules/conditions.md#Restrained)\
       \ creature is stuck as long as it remains in the slimy area or until it breaks\
-      \ free. The [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ creature, or another creature that can reach it, can use its action to try\
-      \ to break free and must succeed on a DC 21 Strength check. The slime lasts\
-      \ for 1 hour or until it is burned away with fire. If the slime is set on fire,\
-      \ it burns away after 1 round. Any creature that starts its turn in the burning\
-      \ slime takes 22 (4d10) fire damage.  "
+      \ free. The [restrained](Rules/conditions.md#Restrained) creature, or another\
+      \ creature that can reach it, can use its action to try to break free and must\
+      \ succeed on a DC 21 Strength check. The slime lasts for 1 hour or until it\
+      \ is burned away with fire. If the slime is set on fire, it burns away after\
+      \ 1 round. Any creature that starts its turn in the burning slime takes 22 (4d10)\
+      \ fire damage.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing Juiblex's lair is warped by its magic, creating\
       \ one or more of the following effects:\n\n- **Acidic Water.** Small bodies\
       \ of water, such as ponds or wells, within 1 mile of the lair turn highly acidic,\
       \ corroding any object that touches them.  \n- **Corrupted Nature.** Within\
-      \ 6 miles of the lair, all Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine))\
-      \ and Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival))\
-      \ checks have disadvantage.  \n- **Slime.** Surfaces within 6 miles of the lair\
-      \ are frequently covered by a thin film of slime, which is slick and sticks\
-      \ to anything that touches it.  \n\nIf Juiblex dies, these effects fade over\
-      \ the course of 1d10 days."
+      \ 6 miles of the lair, all Wisdom ([Medicine](Rules/skills.md#Medicine)) and\
+      \ Wisdom ([Survival](Rules/skills.md#Survival)) checks have disadvantage.  \n\
+      - **Slime.** Surfaces within 6 miles of the lair are frequently covered by a\
+      \ thin film of slime, which is slick and sticks to anything that touches it.\
+      \  \n\nIf Juiblex dies, these effects fade over the course of 1d10 days."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Juiblex can expend a use to take one of the following actions. Juiblex regains\
@@ -165,13 +155,13 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
     "name": "Attack"
   - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one creature. *Hit:*\
       \ 21 (4d6 + 7) poison damage, and the target is slimed. Until the slime is scraped\
-      \ off with an action, the target is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-      \ and any creature, other than an Ooze, is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ off with an action, the target is [poisoned](Rules/conditions.md#Poisoned),\
+      \ and any creature, other than an Ooze, is [poisoned](Rules/conditions.md#Poisoned)\
       \ while within 10 feet of the target."
     "name": "Corrupting Touch (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/juiblex-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/juiblex-mpmm.webp"
 ```
 ^statblock

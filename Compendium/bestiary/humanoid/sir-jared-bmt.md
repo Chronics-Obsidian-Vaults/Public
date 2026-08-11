@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sir Jared
+- "Sir Jared"
 ---
-# [Sir Jared](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/sir-jared-bmt.md)
+# [Sir Jared](Compendium/bestiary/humanoid/sir-jared-bmt.md)
 *Source: The Book of Many Things p. 80*  
 
 Jared is a wandering knight who makes an excellent contact for groups that have Solar Bastion patronage. A former mercenary, Jared credits Hilarion with helping him change his ways and use his skills for good instead of gold, but he feels unworthy of the organization and has grown lonely after so long away from the Solar Bastion.
@@ -22,8 +23,7 @@ Jared is a wandering knight who makes an excellent contact for groups that have 
 "type": "humanoid"
 "alignment": "Neutral Good"
 "ac": !!int "20"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "90"
 "hit_dice": "12d8 + 36"
 "modifier": !!int "1"
@@ -39,17 +39,18 @@ Jared is a wandering knight who makes an excellent contact for groups that have 
   - "strength": !!int "7"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+6"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+5"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Halfling"
 "cr": "5"
@@ -66,6 +67,6 @@ Jared is a wandering knight who makes an excellent contact for groups that have 
     "name": "Protect Ally"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/sir-jared-bmt.webp"
+"image": "Compendium/bestiary/humanoid/token/sir-jared-bmt.webp"
 ```
 ^statblock

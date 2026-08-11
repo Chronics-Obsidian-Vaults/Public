@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/12
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warlord
+- "Warlord"
 ---
-# [Warlord](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/warlord-mpmm.md)
+# [Warlord](Compendium/bestiary/humanoid/warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220*  
 
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
@@ -39,7 +40,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate](Compendium/items/plate-armor.md)"
 "hp": !!int "229"
 "hit_dice": "27d8 + 108"
 "modifier": !!int "3"
@@ -56,14 +57,17 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
   - "dexterity": !!int "7"
   - "constitution": !!int "8"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+8"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+  - "[shortbow](Compendium/items/shortbow.md)"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "12"
@@ -94,13 +98,13 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
     "name": "Weapon Attack"
   - "desc": "The warlord targets one creature it can see within 30 feet of it. If\
       \ the target can see and hear it, the target must succeed on a DC 16 Wisdom\
-      \ saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ until the end of warlord's next turn."
+      \ saving throw or be [frightened](Rules/conditions.md#Frightened) until the\
+      \ end of warlord's next turn."
     "name": "Frighten Foe (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/warlord-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/warlord-mpmm.webp"
 ```
 ^statblock
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chasme
+- "Chasme"
 ---
-# [Chasme](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/chasme.md)
+# [Chasme](Compendium/bestiary/fiend/chasme.md)
 *Source: Monster Manual p. 57*  
 
 This loathsome demon resembles an unspeakable crossing of humanoid and fly. A chasme shuffles about on four spindly legs that can find purchase on walls and ceilings. A droning sound precedes the approach of a chasme, inflicting foes with a terrible lethargy that leaves them open to attack.
@@ -158,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -208,25 +209,24 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "6"
 "traits":
   - "desc": "The chasme produces a horrid droning sound to which demons are immune.\
-      \ Any other creature that starts its turn with in 30 feet of the chasme must\
-      \ succeed on a DC 12 Constitution saving throw or fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
+      \ Any other creature that starts its turn within 30 feet of the chasme must\
+      \ succeed on a DC 12 Constitution saving throw or fall [unconscious](Rules/conditions.md#Unconscious)\
       \ for 10 minutes. A creature that can't hear the drone automatically succeeds\
       \ on the save. The effect on the creature ends if it takes damage or if another\
-      \ creature takes an action to splash it with holy water. If a creature's saving\
-      \ throw is successful or the effect ends for it, it is immune to the drone for\
-      \ the next 24 hours."
+      \ creature takes an action to splash it with [holy water](Compendium/items/holy-water-flask.md).\
+      \ If a creature's saving throw is successful or the effect ends for it, it is\
+      \ immune to the drone for the next 24 hours."
     "name": "Drone"
   - "desc": "The chasme has advantage on saving throws against spells and other magical\
       \ effects."
@@ -240,10 +240,10 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ hit point maximum is reduced by an amount equal to the necrotic damage taken.\
       \ If this effect reduces a creature's hit point maximum to 0, the creature dies.\
       \ This reduction to a creature's hit point maximum lasts until the creature\
-      \ finishes a long rest or until it is affected by a spell like  [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)."
+      \ finishes a long rest or until it is affected by a spell like [greater restoration](Compendium/spells/greater-restoration.md)."
     "name": "Proboscis"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/chasme.webp"
+"image": "Compendium/bestiary/fiend/token/chasme.webp"
 ```
 ^statblock

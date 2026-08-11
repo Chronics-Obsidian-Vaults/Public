@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Auspicia Dran
+- "Auspicia Dran"
 ---
-# [Auspicia Dran](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/auspicia-dran-ai.md)
+# [Auspicia Dran](Compendium/bestiary/npc/auspicia-dran-ai.md)
 *Source: Acquisitions Incorporated p. 208*  
 
 The youngest sister of Omin Dran, the half-elf Auspicia Dran had her life torn apart as a child when she was seized by a mysterious creature called the Wandering Crypt. Having spent long years in a kind of dark dream within the crypt, she was saved in the end by her brother Omin's tireless efforts and the valor of his handpicked "C" Team. Now returned safely to the world-and with the false Auspicia of the crypt's creation slain-she focuses on trying to discover her own identity and to work through the ongoing complications arising from her ordeal.
@@ -25,7 +26,7 @@ When Auspicia emerged from the Wandering Crypt, she carried within her a growing
 "subtype": "half-elf"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "2"
@@ -38,18 +39,20 @@ When Auspicia emerged from the Wandering Crypt, she carried within her a growing
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
+"gear":
+  - "[light crossbow](Compendium/items/light-crossbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish"
 "cr": "2"
 "traits":
   - "desc": "Auspicia's innate spellcasting ability is Intelligence. She can innately\
       \ cast the following spells, requiring no components:\n\n**At will:** [detect\
-      \ thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md)\n\
-      \n**1/day each:** [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md)"
+      \ thoughts](Compendium/spells/detect-thoughts.md)\n\n**1/day each:** [augury](Compendium/spells/augury.md)"
     "name": "Innate Spellcasting (Psionics)"
 "actions":
   - "desc": "Auspicia makes two attacks."
@@ -62,6 +65,6 @@ When Auspicia emerged from the Wandering Crypt, she carried within her a growing
     "name": "Light Crossbow"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/auspicia-dran-ai.webp"
+"image": "Compendium/bestiary/npc/token/auspicia-dran-ai.webp"
 ```
 ^statblock

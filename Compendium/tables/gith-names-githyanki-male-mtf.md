@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Gith Names – Githyanki, Male
+- "Gith Names – Githyanki, Male"
 ---
 # Gith Names – Githyanki, Male
 *Source: Mordenkainen's Tome of Foes p. 97* 

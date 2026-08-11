@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Gem Shards
+- "Gem Shards"
 ---
 # Gem Shards
 *Source: The Book of Many Things p. 147* 

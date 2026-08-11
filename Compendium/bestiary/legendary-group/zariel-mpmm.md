@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/mpmm
 - source/monster/legendary-group
 aliases:
-- Zariel
+- "Zariel"
 ---
 # Zariel
 
@@ -15,8 +15,8 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 On initiative count 20 (losing initiative ties), Zariel can take one of the following lair actions; she can't take the same lair action two rounds in a row:
 
-- **Fireball.** Zariel casts the [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) spell.  
-- **Infernal Illusions.** Zariel casts the [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md) spell four times, targeting different areas with it. Zariel prefers to create images of intruders' loved ones being burned alive. Zariel doesn't need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) of the illusion for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Fireball.** Zariel casts the [fireball](Compendium/spells/fireball.md) spell.  
+- **Infernal Illusions.** Zariel casts the [major image](Compendium/spells/major-image.md) spell four times, targeting different areas with it. Zariel prefers to create images of intruders' loved ones being burned alive. Zariel doesn't need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened) of the illusion for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
 ## Regional Effects
 _Source: Mordenkainen Presents: Monsters of the Multiverse_

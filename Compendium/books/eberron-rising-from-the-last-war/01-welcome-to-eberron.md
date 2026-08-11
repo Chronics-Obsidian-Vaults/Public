@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Welcome to Eberron
+- "Welcome to Eberron"
 ---
 # Welcome to Eberron
 *Source: Eberron: Rising from the Last War, p. 4* 
@@ -56,7 +56,7 @@ What is Eberron? Here are the key things to know:
 
 **5. A World of Magic**. The technology of Eberron has developed not through the advance of science but by the mastery of magic. The widespread use of magic pervades life in the cities and towns. Airships and rail transport make rapid travel across the continent possible. A working class of minor mages, called magewrights, uses spells to provide energy and other necessities. Advances in magic item creation have led to everything from self-propelled farming implements to sentient, free-willed beings created in artificers' forges. With the aid of rare crystals called dragonshards, dragonmarks can be made more powerful, elementals can be controlled and harnessed, and magic items can be crafted and shaped.
 
-**6. New Races**. In addition to the common player character races found in the "Player's Handbook", players can choose to play orc or goblinoid characters in Eberron. Or they can choose one of four new races: [changelings](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/changeling-mpmm.md), [kalashtar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/kalashtar-erlw.md), [shifters](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/shifter-mpmm.md), and [warforged](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/warforged-erlw.md). Changelings have minor shapechanging abilities similar to those of doppelgangers. Kalashtar are planar entities merged with human hosts, giving them telepathic abilities. Shifters developed from the mixing of humans and lycanthropes, a union that grants them limited bestial abilities and feral instincts. The warforged are a constructed race created during the Last War, seeking to find its place in a post-war world.
+**6. New Races**. In addition to the common player character races found in the "Player's Handbook", players can choose to play orc or goblinoid characters in Eberron. Or they can choose one of four new races: [changelings](Compendium/races/changeling-efa.md), [kalashtar](Compendium/races/kalashtar-efa.md), [shifters](Compendium/races/shifter-efa.md), and [warforged](Compendium/races/warforged-efa.md). Changelings have minor shapechanging abilities similar to those of doppelgangers. Kalashtar are planar entities merged with human hosts, giving them telepathic abilities. Shifters developed from the mixing of humans and lycanthropes, a union that grants them limited bestial abilities and feral instincts. The warforged are a constructed race created during the Last War, seeking to find its place in a post-war world.
 
 **7. D&D with a Twist**. Every race, monster, spell, and magic item in the "Player's Handbook", "Dungeon Master's Guide", and "Monster Manual" has a place somewhere in Eberron, but it might not be the place you expect. Eberron has a unique spot in the D&D multiverse, and many familiar elements of the game play different roles in the world. In particular, mortal creatures are products of culture and circumstances, rather than the direct influence of the gods. As a result, you can't assume that a gold dragon is good or a beholder is evil; only in the case of celestials, fiends, and certain other creatures whose identity and worldview are shaped by magic (such as the curse of lycanthropy) is alignment a given.
 
@@ -92,9 +92,9 @@ Common is the language of the Five Nations and the language of trade in Khorvair
 
 With the DM's approval, you can exchange a language granted by your race for a different language from the Standard Languages of Eberron table. If your halfling was raised in the Mror Holds, you might replace Halfling with Dwarvish to reflect that background. The DM may change the languages assigned to a monster or NPC. An ogre from Droaam likely speaks Goblin instead of Giant.
 
-![Standard Languages of Eberron](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/standard-languages-of-eberron-erlw.md)
+![Standard Languages of Eberron](Compendium/tables/standard-languages-of-eberron-erlw.md)
 
-![Exotic Languages of Eberron](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/exotic-languages-of-eberron-erlw.md)
+![Exotic Languages of Eberron](Compendium/tables/exotic-languages-of-eberron-erlw.md)
 
 ### Names and Surnames
 
@@ -114,7 +114,7 @@ The seven days of the week, in order, are Sul, Mol, Zol, Wir, Zor, Far, Sar.
 
 The common calendar of Khorvaire tracks the years since the founding of the kingdom of Galifar, using the abbreviation YK. The last king of Galifar, Jarot ir'Wynarn, died on 12 Therendor 894 YK. The Day of Mourning occurred a century later, on 20 Olarune 994 YK. By default, a new Eberron campaign begins on 1 Zarantyr 998 YK.
 
-![Calendar; Eberron Months](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/calendar-eberron-months-erlw.md)
+![Calendar; Eberron Months](Compendium/tables/calendar-eberron-months-erlw.md)
 
 ### Currency
 
@@ -140,7 +140,7 @@ Lightning rails, airships, and other forms of transportation facilitate travel t
 
 ### Remarkable Heroes
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/000-0-01.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/000-0-01.webp#center)
 
 Eberron is a world in need of heroes. Lingering tensions of war remain. From the fanatics of the Emerald Claw and the mad cults of the Dragon Below to the flesh-warping daelkyr and ancient archfiends, Eberron faces many threats, and few people besides the player characters are able to stop them. The gods are distant and don't directly intervene. The Silver Flame is a divine force of light, but it can act only through mortal champions. The few powerful benevolent NPCs have limitations: the Keeper of the Flame loses her powers if she leaves her citadel. The Great Druid, the spiritual leader of the Eldeen Reaches, is a tree. Most of the powerful people in the world focus on selfish goals. If an angry dragon attacks Sharn, there's no one else to deal with the problem: the fate of the city is in your hands.
 
@@ -155,7 +155,7 @@ Consider a dynamic backstory when developing your character and choosing your ba
 
 Eberron is rich in villains, from two-bit hoods to continental masterminds. It might be a long time before you're ready to face the sinister leader behind the Order of the Emerald Claw in battle. But part of the flavor of pulp adventure includes recurring villains who closely match the heroes—rivals who advance in power as you do.
 
-To create a compelling villain, the DM and players might develop a villain's backstory together. A DM might ask a player: *When you fought in the Last War, Halas Martain served in your unit until he betrayed you. What did he do, exactly?* Likewise, when a pulp villain appears to die, they can devise remarkable escapes from death. Perhaps Halas had a ring that cast an illusion of his death while stabilizing him or cast [feather fall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feather-fall.md) when he leapt from that tower in Sharn. A DM could engage the players in determining the answer: *It's Halas Martain, all right. How do you think he survived your last encounter?* This collaboration can produce a compelling story and a sense of investment in the world.
+To create a compelling villain, the DM and players might develop a villain's backstory together. A DM might ask a player: *When you fought in the Last War, Halas Martain served in your unit until he betrayed you. What did he do, exactly?* Likewise, when a pulp villain appears to die, they can devise remarkable escapes from death. Perhaps Halas had a ring that cast an illusion of his death while stabilizing him or cast [feather fall](Compendium/spells/feather-fall.md) when he leapt from that tower in Sharn. A DM could engage the players in determining the answer: *It's Halas Martain, all right. How do you think he survived your last encounter?* This collaboration can produce a compelling story and a sense of investment in the world.
 
 ## Noir Intrigue
 
@@ -165,7 +165,7 @@ Eberron draws inspiration from noir and hard-boiled fiction. It's a world where 
 
 Player characters are remarkable people, but they aren't perfect. As you consider a flaw for your character, you can add a little hard-boiled flavor by considering the past: Did you make a tragic mistake, and if so, is it something you can ever undo? Did you hurt or betray someone who now seeks revenge? The Regrets table provides a few examples of missteps that might haunt you.
 
-![Everyone Has Regrets; Regrets](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/everyone-has-regrets-regrets-erlw.md)
+![Everyone Has Regrets; Regrets](Compendium/tables/everyone-has-regrets-regrets-erlw.md)
 
 #### Why Do You Need 200 Gold Pieces?
 
@@ -175,7 +175,7 @@ Why would you want to take on a debt? The obligation adds depth to a character a
 
 Establishing a debt requires collaboration and approval by both player and DM. Work together to develop the details: Who's blackmailing you? Which secret society are you trying to join? What's the story behind the magic item you've pawned, and what sort of item is it? You can present ideas, but the DM has final approval.
 
-![Why Do You Need 200 Gold Pieces?; Debts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/why-do-you-need-200-gold-pieces-debts-erlw.md)
+![Why Do You Need 200 Gold Pieces?; Debts](Compendium/tables/why-do-you-need-200-gold-pieces-debts-erlw.md)
 
 ### Personal Motives
 
@@ -199,7 +199,7 @@ A DM who introduces an old buddy who served with the player characters during th
 
 The Five Nations were built on a magical foundation. To them, magic is a form of science, which can be studied and taught. Nevertheless, few people possess the skill required to become a wizard or an artificer, and high-level magic remains rare. Resurrection and teleportation aren't part of everyday life, but citizens harness lesser effects and use them for the common good.
 
-Artisans called magewrights provide much of this magic. Compared to a wizard or an artificer, a magewright's knowledge of magic is narrow: a locksmith might master the [arcane lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md) and [knock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/knock.md) spells to supplement the use of physical tools; a magewright healer could cast [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md) and [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md) in addition to using healer's kits and the [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine) skill. A magewright's casting is also slow and expensive: they typically cast their spells as rituals. They are artisans, not adventurers, and the prosperity of the Five Nations was built on their foundation.
+Artisans called magewrights provide much of this magic. Compared to a wizard or an artificer, a magewright's knowledge of magic is narrow: a locksmith might master the [arcane lock](Compendium/spells/arcane-lock.md) and [knock](Compendium/spells/knock.md) spells to supplement the use of physical tools; a magewright healer could cast [lesser restoration](Compendium/spells/lesser-restoration.md) and [cure wounds](Compendium/spells/cure-wounds.md) in addition to using healer's kits and the [Medicine](Rules/skills.md#Medicine) skill. A magewright's casting is also slow and expensive: they typically cast their spells as rituals. They are artisans, not adventurers, and the prosperity of the Five Nations was built on their foundation.
 
 Game statistics are given for magewrights in "chapter 6", including how much it costs them to cast a spell of 1st level or higher. In chapter 2, prices are given for magewright services in the city of Sharn, but those prices can be used elsewhere in the world as well.
 
@@ -215,35 +215,35 @@ Even independent businesses are typically licensed by a house and conform to the
 
 The Courier's Guild of House Orien operates a mail service, carrying messages and packages across Khorvaire by horse and the house's lightning rail. Sending a letter by mail is inexpensive; sending a package or a message by way of a courier is more secure but more expensive.
 
-If security is particularly important, House Sivis can protect written messages using magic, such as the [illusory script](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/illusory-script.md) spell, and House Kundarak can secure packages with the [glyph of warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md) spell.
+If security is particularly important, House Sivis can protect written messages using magic, such as the [illusory script](Compendium/spells/illusory-script.md) spell, and House Kundarak can secure packages with the [glyph of warding](Compendium/spells/glyph-of-warding.md) spell.
 
-The gnomes of House Sivis also maintain a network of [speaking stones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/speaking-stone-erlw.md) (described in "chapter 5") to facilitate instantaneous communication across long distances. Short messages pass from one stone to another one within a network of message stations.
+The gnomes of House Sivis also maintain a network of [speaking stones](Compendium/items/speaking-stone-erlw.md) (described in "chapter 5") to facilitate instantaneous communication across long distances. Short messages pass from one stone to another one within a network of message stations.
 
 The Communication and Security Services table shows typical prices.
 
-![Communication and Security Services](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/communication-and-security-services-erlw.md)
+![Communication and Security Services](Compendium/tables/communication-and-security-services-erlw.md)
 
 ### Convenience
 
-In the cities of Khorvaire, magic provides a host of minor conveniences. [Everbright lanterns](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/everbright-lantern-erlw.md) (described in "chapter 5") light the streets. A chef heats a pot of stew with a whispered incantation, while magic amplifies a town crier's voice. The various effects produced by [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)—heating, cooling, cleaning, and minor illusion—all enhance daily life in the cities.
+In the cities of Khorvaire, magic provides a host of minor conveniences. [Everbright lanterns](Compendium/items/everbright-lantern-erlw.md) (described in "chapter 5") light the streets. A chef heats a pot of stew with a whispered incantation, while magic amplifies a town crier's voice. The various effects produced by [prestidigitation](Compendium/spells/prestidigitation.md)—heating, cooling, cleaning, and minor illusion—all enhance daily life in the cities.
 
 ### Entertainment and Fashion
 
 Theaters employ cantrips to amplify sound and focus lighting. Grander performances incorporate illusions, creating special effects to thrill audiences, and other spells allow actors to perform amazing stunts. Dream parlors focus on entirely illusory entertainment.
 
-Those with the inclination to display their wealth wear [glamerweave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/glamerweave-erlw.md), clothing imbued with illusion (presented in chapter 5). This can involve moving images, such as a cloak lined with glittering stars or a gown with a pattern of flames; the wearer might even adjust the intensity of these flames with a word. Expensive [glamerweave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/glamerweave-erlw.md) can produce more elaborate effects, such as a gown that appears to be made of blooming flowers. [Glamerweave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/glamerweave-erlw.md) can also create abstract effects that slowly shift colors or shimmer with a subtle glow.
+Those with the inclination to display their wealth wear [glamerweave](Compendium/items/glamerweave-erlw.md), clothing imbued with illusion (presented in chapter 5). This can involve moving images, such as a cloak lined with glittering stars or a gown with a pattern of flames; the wearer might even adjust the intensity of these flames with a word. Expensive [glamerweave](Compendium/items/glamerweave-erlw.md) can produce more elaborate effects, such as a gown that appears to be made of blooming flowers. [Glamerweave](Compendium/items/glamerweave-erlw.md) can also create abstract effects that slowly shift colors or shimmer with a subtle glow.
 
 ### Medicine
 
-The dragonmarked House Jorasco maintains houses of healing across Khorvaire. The simplest service is the expert application of the [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine) skill. For those with desperate need and gold to pay, most Jorasco outposts can provide [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md); the best healers can also provide [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md). In the finest Jorasco enclaves, it's even possible to raise the dead.
+The dragonmarked House Jorasco maintains houses of healing across Khorvaire. The simplest service is the expert application of the [Medicine](Rules/skills.md#Medicine) skill. For those with desperate need and gold to pay, most Jorasco outposts can provide [lesser restoration](Compendium/spells/lesser-restoration.md); the best healers can also provide [greater restoration](Compendium/spells/greater-restoration.md). In the finest Jorasco enclaves, it's even possible to raise the dead.
 
 The Healing Services table summarizes typical prices for the services provided by House Jorasco.
 
-![Medicine; Healing Services](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/medicine-healing-services-erlw.md)
+![Medicine; Healing Services](Compendium/tables/medicine-healing-services-erlw.md)
 
 ### Transportation
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/001-0-02.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/001-0-02.webp#center)
 
 An excellent system of roads connects the central nations of Khorvaire. Travelers can always make their way by horse or coach, which might employ draft animals magebred by House Vadalis for speed or endurance. House Vadalis also supplies exotic mounts such as hippogriffs and griffons. Elemental galleons use bound air or water elementals to propel them.
 
@@ -255,11 +255,11 @@ For those with no time to spare and plenty of money to spend, House Orien also h
 
 The Travel Services table summarizes the cost of traveling by these extraordinary means.
 
-![Transportation; Travel Services](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/transportation-travel-services-erlw.md)
+![Transportation; Travel Services](Compendium/tables/transportation-travel-services-erlw.md)
 
 ### Warfare
 
-After a century of war, magic plays an ever-increasing role on the battlefield. Massive magical siege staffs fill the role of artillery. Semi-sentient warforged titans can scatter squads of infantry. Arcane sappers may spread [glyphs of warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md) to deny a region to an enemy. Wands and rods haven't replaced the swords or bows, but elite wandslingers, as military spellcasters are often known, are becoming ever more common.
+After a century of war, magic plays an ever-increasing role on the battlefield. Massive magical siege staffs fill the role of artillery. Semi-sentient warforged titans can scatter squads of infantry. Arcane sappers may spread [glyphs of warding](Compendium/spells/glyph-of-warding.md) to deny a region to an enemy. Wands and rods haven't replaced the swords or bows, but elite wandslingers, as military spellcasters are often known, are becoming ever more common.
 
 The nations of Khorvaire all employed different forms of battle magic during the war. Aundair fielded the greatest number of wizards, while Breland produced floating fortresses and other engines of war. The nation of Karrnath embraced the practice of necromancy and animated hordes of undead soldiers.
 
@@ -267,7 +267,7 @@ In the final decades of the war, House Cannith created the warforged: tireless s
 
 ## The Last War
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/002-0-03.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/002-0-03.webp#center)
 
 For hundreds of years, the continent of Khorvaire was united under the kingdom of Galifar. This peace came to an end with the death of King Jarot in 894 YK, just over a century ago. Conflict over the succession spiraled into outright war between the Five Nations.
 
@@ -346,7 +346,7 @@ A DM should consider whether the mystery of the Mourning can be solved and what 
 
 ## The Draconic Prophecy
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/003-0-04.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/003-0-04.webp#center)
 
 There are patterns hidden in the world. Secrets lie in the conjunctions of the planes and moons, in strange symbols formed by the flowing lava of a volcanic eruption or the fissures caused by an earthquake. Carved in the walls of ancient citadels and on primeval megaliths, knot patterns appear to have meaning that only the contemplative mind can hope to comprehend. To those who can read them, these myriad events and signs form a map of possible futures, a map that can be used to shape the course of history.
 

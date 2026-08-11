@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/forgotten-realms
 - source/domain/death
-aliases: 
-- Bhaal
+aliases:
+- "Bhaal"
 ---
 # Bhaal
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

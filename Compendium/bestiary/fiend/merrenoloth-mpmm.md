@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merrenoloth
+- "Merrenoloth"
 ---
-# [Merrenoloth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/merrenoloth-mpmm.md)
+# [Merrenoloth](Compendium/bestiary/fiend/merrenoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
@@ -39,20 +40,19 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
   - "dexterity": !!int "5"
   - "intelligence": !!int "5"
 "skillsaves":
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+5"
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "3"
@@ -67,19 +67,17 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
       \ + 3) fire damage."
     "name": "Oar"
   - "desc": "The merrenoloth targets one creature it can see within 60 feet of it.\
-      \ The target must succeed on a DC 13 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of the merrenoloth for 1 minute. The [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ The target must succeed on a DC 13 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
+      \ of the merrenoloth for 1 minute. The [frightened](Rules/conditions.md#Frightened)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Fear Gaze"
   - "desc": "The merrenoloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 13):\n\n**At will:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [gust of wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-of-wind.md)\n\
-      \n**3/day:** [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md)"
+      \ DC 13):\n\n**At will:** [charm person](Compendium/spells/charm-person.md),\
+      \ [darkness](Compendium/spells/darkness.md), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [gust of wind](Compendium/spells/gust-of-wind.md)\n\
+      \n**3/day:** [control water](Compendium/spells/control-water.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The merrenoloth teleports, along with any equipment it is wearing or\
@@ -92,7 +90,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
       \ feet of the vessel is filled with wind. Until initiative count 20 on the next\
       \ round, that area is difficult terrain, and when a Medium or smaller creature\
       \ flies into that area or starts its turn flying there, it must succeed on a\
-      \ DC 13 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ DC 13 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
       \  \n- **Propel.** A strong wind propels the vessel, increasing its speed by\
       \ 30 feet until initiative count 20 on the next round.  \n- **Repair.** The\
       \ vessel regains 22 (4d10) hit points.  "
@@ -107,7 +105,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/merrenoloth-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/merrenoloth-mpmm.webp"
 ```
 ^statblock
 

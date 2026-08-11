@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/erlw
 - source/monster/legendary-group
 aliases:
-- Belashyrra
+- "Belashyrra"
 ---
 # Belashyrra
 
@@ -16,7 +16,7 @@ _Source: Eberron: Rising from the Last War_
 While within the Citadel of Lidless Eyes, Belashyrra can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), Belashyrra can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:
 
 - An eye opens on a solid surface within 60 feet of Belashyrra. One random eye ray of Belashyrra's shoots from that eye at a target of Belashyrra's choice that it can see. The eye then closes and disappears.  
-- Belashyrra creates a [wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wave.md) of madness. Each creature it can see within its lair must succeed on a DC 22 Wisdom saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) for 1 minute. While [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) in this way, a creature must use its action at the start of its turn before moving to make a melee attack against another creature of Belashyrra's choice within reach. If there are no creatures within reach, the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) creature can act normally for that turn. A [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- Belashyrra creates a [wave](Compendium/items/wave.md) of madness. Each creature it can see within its lair must succeed on a DC 22 Wisdom saving throw or be [charmed](Rules/conditions.md#Charmed) for 1 minute. While [charmed](Rules/conditions.md#Charmed) in this way, a creature must use its action at the start of its turn before moving to make a melee attack against another creature of Belashyrra's choice within reach. If there are no creatures within reach, the [charmed](Rules/conditions.md#Charmed) creature can act normally for that turn. A [charmed](Rules/conditions.md#Charmed) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - Belashyrra taps into the eyesight of creatures in its lair and alters their perception. Each creature of Belashyrra's choice in the lair must make a DC 22 Wisdom saving throw. On a failure, the affected creature perceives objects and creatures a short distance from their actual locations, imposing disadvantage on the creature's attack rolls against those targets. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to this lair action for the next 24 hours.  
 
 ## Regional Effects

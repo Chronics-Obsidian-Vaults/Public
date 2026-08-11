@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/lingering soul
 - source/subclass/lingering-soul/wraith
 aliases:
-- Calling of the Wraith
+- "Calling of the Wraith"
 ---
 # Calling of the Wraith
 *[Lingering Soul](./lingering-soul-lingering-soul.md): Phantom Callings*  
@@ -43,14 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Calling of the Wraith (Level 1)
-
 The Wraith is a dangerous path for any soul to take, and few have a choice of should their life been entwined with dubious arcane pursuits or necromantic corruption. Those who take the path of the wraith embrace the desire for warmth and the hunger for the life they once had. Their energy becomes dark, enshrouded in shadow and malice... but the will remains, and there are tales of those lost souls who could master the craving and focus their hate on those who deserve it.
 
 Upon becoming a wraith, choose either your Dexterity, Intelligence, or Charisma to become your Aspect. Your Aspect modifier is equal to that of the chosen Ability Score. You gain proficiency in Intelligence saving throws.
+
+## Subclass Features
 
 ### Scything Claw (Level 1)
 

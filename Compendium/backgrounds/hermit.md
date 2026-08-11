@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Hermit
+- "Hermit"
 ---
 # Hermit
 *Source: Player's Handbook p. 134*  
 
 
-- **Skill Proficiencies.** [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)  
-- **Tool Proficiencies.** [Herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md)  
+- **Skill Proficiencies.** [Medicine](Rules/skills.md#Medicine), [Religion](Rules/skills.md#Religion)  
+- **Tool Proficiencies.** [Herbalism kit](Compendium/items/herbalism-kit.md)  
 - **Languages.** One of your choice  
-- **Equipment.** A [scroll case](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/map-or-scroll-case.md) stuffed full of notes from your studies or prayers, a winter [blanket](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/blanket.md), a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), an [herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md), and 5 gp  
+- **Equipment.** A [scroll case](Compendium/items/map-or-scroll-case.md) stuffed full of notes from your studies or prayers, a winter [blanket](Compendium/items/blanket.md), a set of [common clothes](Compendium/items/common-clothes.md), an [herbalism kit](Compendium/items/herbalism-kit.md), and 5 gp  
 
 You lived in seclusion–either in a sheltered community such as a monastery, or entirely alone–for a formative part of your life. In your time apart from the clamor of society, you found quiet, solitude, and perhaps some of the answers you were looking for.
 

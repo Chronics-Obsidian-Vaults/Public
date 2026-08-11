@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Criminal (Spy) (Variant)
+- "Criminal (Spy) (Variant)"
 ---
 # Criminal (Spy) (Variant)
 *Source: Player's Handbook p. 130. Available in the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)  
-- **Tool Proficiencies.** One type of gaming set, [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)  
-- **Equipment.** A [crowbar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crowbar.md), a set of dark [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md) including a hood, and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](Rules/skills.md#Deception), [Stealth](Rules/skills.md#Stealth)  
+- **Tool Proficiencies.** One type of gaming set, [thieves' tools](Compendium/items/thieves-tools.md)  
+- **Equipment.** A [crowbar](Compendium/items/crowbar.md), a set of dark [common clothes](Compendium/items/common-clothes.md) including a hood, and a belt [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.
 

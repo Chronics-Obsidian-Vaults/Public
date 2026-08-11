@@ -7,8 +7,8 @@ tags:
 - source/deity/eberron
 - source/domain/nature
 - source/domain/war
-aliases: 
-- The Spirits of the Past
+aliases:
+- "The Spirits of the Past"
 ---
 # The Spirits of the Past
 *Source: Eberron: Rising from the Last War p. 141* 

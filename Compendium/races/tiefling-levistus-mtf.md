@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mtf
 - source/race/tiefling/levistus
 aliases:
-- Tiefling (Levistus)
+- "Tiefling (Levistus)"
 ---
 # Tiefling (Levistus)
 *Source: Mordenkainen's Tome of Foes p. 22*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/tiefling.webp#right)
+![](Compendium/races/img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 con +1
 - **Size**: Medium
@@ -36,7 +37,7 @@ You have resistance to fire damage.
 
 ### Legacy of Stygia
 
-You know the [ray of frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md) cantrip. When you reach 3rd level, you can cast the [armor of Agathys](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/armor-of-agathys.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [ray of frost](Compendium/spells/ray-of-frost.md) cantrip. When you reach 3rd level, you can cast the [armor of Agathys](Compendium/spells/armor-of-agathys.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [darkness](Compendium/spells/darkness.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

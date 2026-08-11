@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/gnome/deep
 aliases:
-- Gnome (Deep)
+- "Gnome (Deep)"
 ---
 # Gnome (Deep)
 *Source: Dungeon Master's Guide p. 282*  
@@ -22,14 +23,14 @@ aliases:
 
 You have an innate ability to cast the following spells, requiring no material components:
 
-- **At will.** [nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md) (self only)  
-- **1/day each.** [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md), [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md), [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)  
+- **At will.** [nondetection](Compendium/spells/nondetection.md) (self only)  
+- **1/day each.** [blindness/deafness](Compendium/spells/blindness-deafness.md), [blur](Compendium/spells/blur.md), [disguise self](Compendium/spells/disguise-self.md)  
 
 Intelligence is your spellcasting ability for these spells.
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks to hide in rocky terrain.
+You have advantage on Dexterity ([Stealth](Rules/skills.md#Stealth)) checks to hide in rocky terrain.
 
 ### Gnome Cunning
 

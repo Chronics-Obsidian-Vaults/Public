@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/20
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pit Fiend
+- "Pit Fiend"
 ---
-# [Pit Fiend](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/pit-fiend.md)
-*Source: Monster Manual p. 77, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Pit Fiend](Compendium/bestiary/fiend/pit-fiend.md)
+*Source: Monster Manual p. 77. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The undisputed lords of most other devils, pit fiends attend the archdukes and archduchesses of the Nine Hells and carry out their wishes. These mighty devils are the generals of the Nine Hells, leading its infernal legions into battle.
 
@@ -120,7 +121,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -170,25 +171,25 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 14"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[mace](Compendium/items/mace.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 14"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "20"
 "traits":
   - "desc": "The pit fiend's spellcasting ability is Charisma (spell save DC 21).\
       \ The pit fiend can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)\n\
-      \n**3/day each:** [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md)"
+      \ components:\n\n**At will:** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [fireball](Compendium/spells/fireball.md)\n\n**3/day each:** [hold monster](Compendium/spells/hold-monster.md),\
+      \ [wall of fire](Compendium/spells/wall-of-fire.md)"
     "name": "Innate Spellcasting"
   - "desc": "Any creature hostile to the pit fiend that starts its turn within 20\
       \ feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit\
-      \ fiend is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
-      \ On a failed save, the creature is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ until the start of its next turn. If a creature's saving throw is successful,\
-      \ the creature is immune to the pit fiend's Fear Aura for the next 24 hours."
+      \ fiend is [incapacitated](Rules/conditions.md#Incapacitated). On a failed save,\
+      \ the creature is [frightened](Rules/conditions.md#Frightened) until the start\
+      \ of its next turn. If a creature's saving throw is successful, the creature\
+      \ is immune to the pit fiend's Fear Aura for the next 24 hours."
     "name": "Fear Aura"
   - "desc": "The pit fiend has advantage on saving throws against spells and other\
       \ magical effects."
@@ -201,10 +202,9 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22\
       \ (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution\
-      \ saving throw or become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ saving throw or become [poisoned](Rules/conditions.md#Poisoned). While [poisoned](Rules/conditions.md#Poisoned)\
       \ in this way, the target can't regain hit points, and it takes 21 (6d6) poison\
-      \ damage at the start of each of its turns. The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ damage at the start of each of its turns. The [poisoned](Rules/conditions.md#Poisoned)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Bite"
@@ -219,8 +219,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     "name": "Tail"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/pit-fiend.webp"
+"image": "Compendium/bestiary/fiend/token/pit-fiend.webp"
 ```
 ^statblock

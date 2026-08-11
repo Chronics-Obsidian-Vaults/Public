@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/20
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grim Champion of Bloodshed
+- "Grim Champion of Bloodshed"
 ---
-# [Grim Champion of Bloodshed](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/grim-champion-of-bloodshed-bmt.md)
+# [Grim Champion of Bloodshed](Compendium/bestiary/undead/grim-champion-of-bloodshed-bmt.md)
 *Source: The Book of Many Things p. 161*  
 
 Wynemar Brack was once a farmer, but mercenaries in a local war razed her fields and sacked her village. In desperation, she yielded to the clever patter of a traveling fortune teller and drew from a Deck of Many Things. The avatar of death slew her in a flash. That was many centuries ago, and Wynemar is now a powerful and bloodthirsty Undead commander of the Grim Harrow.
@@ -28,7 +29,7 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
 "type": "undead"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "280"
 "hit_dice": "33d8 + 132"
 "modifier": !!int "1"
@@ -45,25 +46,20 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
   - "dexterity": !!int "7"
   - "constitution": !!int "10"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+12"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+11"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold; necrotic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 19"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [stunned](Rules/conditions.md#Stunned), [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 19"
 "languages": "Common"
 "cr": "20"
 "traits":
@@ -96,16 +92,16 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
       \ The target must succeed on a DC 19 Wisdom saving throw or immediately make\
       \ one melee weapon attack against another creature of the champion's choice\
       \ that is within the target's reach. If no creature is within the target's reach\
-      \ or if the target has the [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ or if the target has the [incapacitated](Rules/conditions.md#Incapacitated)\
       \ condition, the target instead takes 11 (2d10) psychic damage."
     "name": "Induce Violence"
   - "desc": "The champion chooses any number of creatures it can see within 30 feet\
       \ of itself. Each target must succeed on a DC 19 Wisdom saving throw or have\
-      \ the [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ condition until the end of its next turn."
+      \ the [frightened](Rules/conditions.md#Frightened) condition until the end of\
+      \ its next turn."
     "name": "Menace (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/grim-champion-of-bloodshed-bmt.webp"
+"image": "Compendium/bestiary/undead/token/grim-champion-of-bloodshed-bmt.webp"
 ```
 ^statblock

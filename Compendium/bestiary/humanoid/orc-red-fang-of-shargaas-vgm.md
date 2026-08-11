@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/3
@@ -14,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Red Fang of Shargaas
+- "Orc Red Fang of Shargaas"
 ---
-# [Orc Red Fang of Shargaas](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/orc-red-fang-of-shargaas-vgm.md)
+# [Orc Red Fang of Shargaas](Compendium/bestiary/humanoid/orc-red-fang-of-shargaas-vgm.md)
 *Source: Volo's Guide to Monsters p. 185*  
 
 Shargaas is the orc deity of deep darkness and sneakiness, a murderous god who hates anything that lives that isn't an orc. Orcs consider Shargaas to be a divinity suited to pariahs and weaklings, all of them unfit for true roles in tribal life. These outsiders live in the most remote, deepest parts of the tribe's domain.
@@ -43,7 +44,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "3"
@@ -56,19 +57,22 @@ In addition, orcs have special relationships with two creatures that are sometim
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+1"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"gear":
+  - "[dart](Compendium/items/dart.md)"
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Common, Orc"
 "cr": "3"
 "traits":
-  - "desc": "On each of its turns, the orc can use a bonus action to take the Dash,\
-      \ Disengage, or Hide action."
+  - "desc": "On each of its turns, the orc can use a bonus action to take the [Dash](Rules/actions.md#Dash),\
+      \ [Disengage](Rules/actions.md#Disengage), or [Hide](Rules/actions.md#Hide)\
+      \ action."
     "name": "Cunning Action"
   - "desc": "The orc deals 2 extra dice of damage when it hits a target with a weapon\
       \ attack (included in its attacks)."
@@ -77,8 +81,8 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Shargaas's Sight"
   - "desc": "In the first round of a combat, the orc has advantage on attack rolls\
       \ against any creature that hasn't taken a turn yet. If the orc hits a creature\
-      \ that round who was [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised),\
-      \ the hit is automatically a critical hit."
+      \ that round who was [surprised](Rules/conditions.md#Surprised), the hit is\
+      \ automatically a critical hit."
     "name": "Slayer"
 "actions":
   - "desc": "The orc makes two scimitar or dart attacks."
@@ -89,12 +93,12 @@ In addition, orcs have special relationships with two creatures that are sometim
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:*\
       \ 10 (3d4 + 3) piercing damage."
     "name": "Dart"
-  - "desc": "The orc casts [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md)\
-      \ without any components. Wisdom is its spellcasting ability."
+  - "desc": "The orc casts [darkness](Compendium/spells/darkness.md) without any components.\
+      \ Wisdom is its spellcasting ability."
     "name": "Veil of Shargaas (Recharges after a Short or Long Rest)"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/orc-red-fang-of-shargaas-vgm.webp"
+"image": "Compendium/bestiary/humanoid/token/orc-red-fang-of-shargaas-vgm.webp"
 ```
 ^statblock
 

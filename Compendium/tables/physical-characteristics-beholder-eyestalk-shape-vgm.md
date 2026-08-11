@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Physical Characteristics; Beholder Eyestalk Shape
+- "Physical Characteristics; Beholder Eyestalk Shape"
 ---
 # Physical Characteristics; Beholder Eyestalk Shape
 *Source: Volo's Guide to Monsters p. 8* 

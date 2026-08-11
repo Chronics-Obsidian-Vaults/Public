@@ -6,15 +6,15 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/war
-aliases: 
-- Torm
-- The Loyal Fury
-- The True
-- The Hand of Righteousness
+aliases:
+- "Torm"
+- "The Loyal Fury"
+- "The True"
+- "The Hand of Righteousness"
 ---
 # Torm
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-torm.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-torm.webp#symbol)
 
 - **Alternate Names**: The Loyal Fury, The True, The Hand of Righteousness
 - **Alignment**: Lawful Good

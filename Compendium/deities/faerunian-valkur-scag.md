@@ -7,8 +7,8 @@ tags:
 - source/deity/faerunian
 - source/domain/tempest
 - source/domain/war
-aliases: 
-- Valkur
+aliases:
+- "Valkur"
 ---
 # Valkur
 *Source: Sword Coast Adventurer's Guide p. 21* 

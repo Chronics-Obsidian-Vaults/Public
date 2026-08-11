@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cackler
+- "Cackler"
 ---
-# [Cackler](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/cackler-ggr.md)
+# [Cackler](Compendium/bestiary/fiend/cackler-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 195*  
 
 Cacklers are small, jabbering jesters that spice up Rakdos performances with their chaotic antics. Their incessant cackling can inspire uncontrollable laughter by making everything—even the most horrifying spectacles—seem hilarious. Some cacklers excel at vocal mimicry and perform as impressionists; others put their sadistic bent to use by lurking in shadows and terrifying passersby. Rakdos performers enjoy dressing cacklers in a variety of masks, hats, and costumes to lampoon public figures.
@@ -24,11 +25,11 @@ Demons are agents of destruction that work their acts of terror in plain sight u
 
 ### Demonic "Devils"
 
-The creatures called "devils" in Ravnica are minor demons akin to [quasits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/quasit.md). While the larger demons embody evil qualities such as blood lust and torment, these lesser demons reflect the whimsical and chaotic side of Rakdos and his cult. Their mischievous antics cause disorder and destruction out of proportion to the demons' small size.
+The creatures called "devils" in Ravnica are minor demons akin to [quasits](Compendium/bestiary/fiend/quasit.md). While the larger demons embody evil qualities such as blood lust and torment, these lesser demons reflect the whimsical and chaotic side of Rakdos and his cult. Their mischievous antics cause disorder and destruction out of proportion to the demons' small size.
 
 ### Diabolic Demons
 
-Many of the demons of Ravnica are monstrous, winged creatures of human-like form. They are best represented by the statistics of the [nalfeshnee](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nalfeshnee.md), the [shadow demon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/shadow-demon.md), or the [vrock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/vrock.md) in the Monster Manual. Demons associated with the Cult of Rakdos often have fiery attacks that make them similar to barbed devils or horned devils, except that they are demons. (They are chaotic evil, they speak Abyssal and not Infernal, and they lack Devil's Sight.)
+Many of the demons of Ravnica are monstrous, winged creatures of human-like form. They are best represented by the statistics of the [nalfeshnee](Compendium/bestiary/fiend/nalfeshnee.md), the [shadow demon](Compendium/bestiary/fiend/shadow-demon.md), or the [vrock](Compendium/bestiary/fiend/vrock.md) in the Monster Manual. Demons associated with the Cult of Rakdos often have fiery attacks that make them similar to barbed devils or horned devils, except that they are demons. (They are chaotic evil, they speak Abyssal and not Infernal, and they lack Devil's Sight.)
 
 ```statblock
 "name": "Cackler (GGR)"
@@ -50,25 +51,24 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+0"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+3"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Abyssal, Common"
 "cr": "1/2"
 "traits":
   - "desc": "The cackler's innate spellcasting ability is Charisma (spell save DC\
       \ 11, +3 to hit with spell attacks). The cackler can innately cast the following\
-      \ spells, requiring no material components:\n\n**At will:** [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md)\n\
-      \n**1/day:** [Tasha's hideous laughter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-hideous-laughter.md)"
+      \ spells, requiring no material components:\n\n**At will:** [fire bolt](Compendium/spells/fire-bolt.md)\n\
+      \n**1/day:** [Tasha's hideous laughter](Compendium/spells/tashas-hideous-laughter.md)"
     "name": "Innate Spellcasting"
   - "desc": "When the cackler dies, it releases a dying laugh that scars the minds\
       \ of other nearby creatures. Each creature within 10 feet of the cackler must\
@@ -76,8 +76,7 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
     "name": "Last Laugh"
   - "desc": "The cackler can mimic any sounds it has heard, including voices. A creature\
       \ that hears the sounds can tell they are imitations with a successful DC 11\
-      \ Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight))\
-      \ check."
+      \ Wisdom ([Insight](Rules/skills.md#Insight)) check."
     "name": "Mimicry"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
@@ -88,6 +87,6 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
     "name": "Spiked Chain"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/cackler-ggr.webp"
+"image": "Compendium/bestiary/fiend/token/cackler-ggr.webp"
 ```
 ^statblock

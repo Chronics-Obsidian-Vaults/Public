@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/very-rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Manual of Bodily Health"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Manual of Bodily Health
 *Wondrous item, major, very rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/manual-of-bodily-health.webp#right)
+![](Compendium/items/img/manual-of-bodily-health.webp#right)
 
 - **Weight**: 5.0 lbs.
 

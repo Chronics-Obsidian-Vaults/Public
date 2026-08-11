@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/9
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hashalaq Quori
+- "Hashalaq Quori"
 ---
-# [Hashalaq Quori](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/hashalaq-quori-erlw.md)
+# [Hashalaq Quori](Compendium/bestiary/aberration/hashalaq-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 305*  
 
 Hashalaq quori are loremasters and judges, and are commonly known as dreamstealers. In their natural form, hashalaqs are composed of hundreds of translucent tendrils. They can compress and configure these tendrils to form a wide range of simple shapes. A point of blue light suspended within its tendrils serves as the hashalaq's sensory organ, which can be moved around to suit the creature's current shape.
@@ -48,38 +49,34 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+12"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+12"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+11"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+8"
 "damage_resistances": "psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common, Quori"
 "cr": "9"
 "traits":
   - "desc": "The quori's spellcasting ability is Intelligence (spell save DC 16).\
       \ It can innately cast the following spells, requiring no components:\n\n**At\
-      \ will:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md)\n\
-      \n**3/day each:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**1/day:** [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md),\
-      \ [dream](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dream.md)"
+      \ will:** [charm person](Compendium/spells/charm-person.md)\n\n**3/day each:**\
+      \ [detect thoughts](Compendium/spells/detect-thoughts.md), [disguise self](Compendium/spells/disguise-self.md),\
+      \ [suggestion](Compendium/spells/suggestion.md)\n\n**1/day:** [dominate person](Compendium/spells/dominate-person.md),\
+      \ [dream](Compendium/spells/dream.md)"
     "name": "Innate Spellcasting (Psionics)"
 "actions":
   - "desc": "The quori uses its Mind Thrust twice."
     "name": "Multiattack"
   - "desc": "*Melee Spell Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d10\
       \ + 4) force damage. If the target is a creature, it must succeed on a DC 16\
-      \ Wisdom saving throw or fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
-      \ in a fit of laughter."
+      \ Wisdom saving throw or fall [prone](Rules/conditions.md#Prone) in a fit of\
+      \ laughter."
     "name": "Idyllic Touch"
   - "desc": "The quori targets a creature it can see within 60 feet of it. The target\
       \ must make a DC 16 Wisdom saving throw, taking 18 (4d8) psychic damage on a\
@@ -87,16 +84,16 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     "name": "Mind Thrust"
   - "desc": "One humanoid that the quori can see within 5 feet of it must succeed\
       \ on a DC 16 Charisma saving throw or be possessed by the quori; the quori then\
-      \ disappears, and the target is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ disappears, and the target is [incapacitated](Rules/conditions.md#Incapacitated)\
       \ and loses control of its body. The quori now controls the body but doesn't\
       \ deprive the target of awareness. The quori can't be targeted by any attack,\
       \ spell, or other effect, and it retains its alignment, Intelligence, Wisdom,\
-      \ Charisma, and immunity to being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ and [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).\
-      \ It otherwise uses the possessed target's statistics, but doesn't gain access\
-      \ to the target's knowledge, class features, or proficiencies.\n\nThe possession\
-      \ lasts until the body drops to 0 hit points, the quori ends it as a bonus action,\
-      \ or the quori is forced out by an effect like the [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md)\
+      \ Charisma, and immunity to being [charmed](Rules/conditions.md#Charmed) and\
+      \ [frightened](Rules/conditions.md#Frightened). It otherwise uses the possessed\
+      \ target's statistics, but doesn't gain access to the target's knowledge, class\
+      \ features, or proficiencies.\n\nThe possession lasts until the body drops to\
+      \ 0 hit points, the quori ends it as a bonus action, or the quori is forced\
+      \ out by an effect like the [dispel evil and good](Compendium/spells/dispel-evil-and-good.md)\
       \ spell. When the possession ends, the quori reappears in an unoccupied space\
       \ within 5 feet of the body. The target is immune to this quori's Possession\
       \ for 24 hours after succeeding on the saving throw or after the possession\
@@ -109,6 +106,6 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     "name": "Empathic Feedback"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/hashalaq-quori-erlw.webp"
+"image": "Compendium/bestiary/aberration/token/hashalaq-quori-erlw.webp"
 ```
 ^statblock

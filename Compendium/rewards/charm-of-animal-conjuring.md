@@ -6,10 +6,10 @@ tags:
 - source/compendium/src/5e/dmg
 - source/reward/charm
 aliases:
-- Charm of Animal Conjuring
+- "Charm of Animal Conjuring"
 ---
 # Charm of Animal Conjuring
 
-This charm allows you to cast the [conjure animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-animals.md) spell (3rd-level version) as an action. Once used three times, the charm vanishes from you.
+This charm allows you to cast the [conjure animals](Compendium/spells/conjure-animals.md) spell (3rd-level version) as an action. Once used three times, the charm vanishes from you.
 
 *Source: Dungeon Master's Guide p. 228*

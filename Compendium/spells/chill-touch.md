@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -9,8 +10,10 @@ tags:
 - source/spell/class/wizard
 - source/spell/feat/aberrant-dragonmark
 - source/spell/feat/magic-initiate/wizard-spells
+- source/spell/feat/spell-sniper
 - source/spell/level/cantrip
 - source/spell/optfeature/pact-of-the-tome
+- source/spell/race/khoravar
 - source/spell/race/kobold
 - source/spell/school/necromancy
 - source/spell/subclass/arcana-domain
@@ -31,7 +34,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Chill Touch
+- "Chill Touch"
 level: 0
 school: necromancy
 ritual: false
@@ -57,6 +60,6 @@ If you hit an undead target, it also has disadvantage on attack rolls against yo
 
 This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric (Death Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Druid (Circle of Spores)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric (Death Domain)](Compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Druid (Circle of Spores)](Compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 221. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

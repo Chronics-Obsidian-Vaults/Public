@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/mpmm
 - source/monster/legendary-group
 aliases:
-- Geryon
+- "Geryon"
 ---
 # Geryon
 
@@ -17,7 +17,7 @@ On initiative count 20 (losing initiative ties), Geryon can take one of the foll
 
 - **Banish.** Geryon casts the banishment spell.  
 - **Chill Blast.** Geryon causes a blast of cold to burst from the ground at a point he can see within 120 feet of him. The cold fills a cube, 10 feet on each side, centered on that point. Each creature in that area must succeed on a DC 21 Constitution saving throw or take 28 (`8d6`) cold damage.  
-- **Hateful Restraints.** Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) for 1 minute. The target can end the effect on itself if it deals any damage to one or more of its allies.  
+- **Hateful Restraints.** Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become [restrained](Rules/conditions.md#Restrained) for 1 minute. The target can end the effect on itself if it deals any damage to one or more of its allies.  
 
 ## Regional Effects
 _Source: Mordenkainen Presents: Monsters of the Multiverse_

@@ -6,7 +6,7 @@ tags:
 - source/class/warrior-sidekick
 - source/compendium/src/5e/tce
 aliases:
-- Warrior Sidekick
+- "Warrior Sidekick"
 ---
 # Warrior Sidekick
 *Source: Tasha's Cauldron of Everything p. 146*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![Warriors, Left to Right: an Aasimar, a Firbolg, and a Wolf](Compendium/classes/img/warrior-sidekick.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: *x* = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
@@ -54,8 +56,7 @@ aliases:
 - **Armor**: All armor; and shields if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Weapons**: All simple and martial weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Tools**: none
-- **Skills**: Two skills of your choice from the following list: [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), and [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival).
-
+- **Skills**: Two skills of your choice from the following list: [Acrobatics](Rules/skills.md#Acrobatics), [Animal Handling](Rules/skills.md#Animal%20Handling), [Athletics](Rules/skills.md#Athletics), [Intimidation](Rules/skills.md#Intimidation), [Nature](Rules/skills.md#Nature), [Perception](Rules/skills.md#Perception), and [Survival](Rules/skills.md#Survival).
 
 ## Warrior Sidekick
 
@@ -66,7 +67,7 @@ A Warrior sidekick grows in martial prowess as it fights by your side. It might 
 ### Sidekick Class (Level 1)
 
 > [!note]
-> Note: this class is intended for NPC [sidekicks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/sidekicks-tce.md).
+> Note: this class is intended for NPC [sidekicks](Rules/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -74,7 +75,7 @@ A Warrior sidekick grows in martial prowess as it fights by your side. It might 
 
 The sidekick gains proficiency in one saving throw of your choice: Strength, Dexterity, or Constitution.
 
-In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), and [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival).
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Acrobatics](Rules/skills.md#Acrobatics), [Animal Handling](Rules/skills.md#Animal%20Handling), [Athletics](Rules/skills.md#Athletics), [Intimidation](Rules/skills.md#Intimidation), [Nature](Rules/skills.md#Nature), [Perception](Rules/skills.md#Perception), and [Survival](Rules/skills.md#Survival).
 
 The sidekick gains proficiency with all armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it gains proficiency with shields and all simple and martial weapons.
 
@@ -113,7 +114,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *6th-level Warrior feature*
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](Rules/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 
@@ -167,7 +168,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *15th-level Warrior feature*
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](Rules/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 
@@ -201,4 +202,4 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *20th-level Warrior feature*
 
-The sidekick can use their Second Wind feature twice between rests.
+The sidekick can use its Second Wind feature twice between rests.

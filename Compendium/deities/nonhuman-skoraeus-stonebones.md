@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/nonhuman
 - source/domain/knowledge
-aliases: 
-- Skoraeus Stonebones
+aliases:
+- "Skoraeus Stonebones"
 ---
 # Skoraeus Stonebones
 *Source: Player's Handbook p. 296* 

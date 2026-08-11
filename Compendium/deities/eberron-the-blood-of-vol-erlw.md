@@ -7,12 +7,12 @@ tags:
 - source/deity/eberron
 - source/domain/death
 - source/domain/life
-aliases: 
-- The Blood of Vol
+aliases:
+- "The Blood of Vol"
 ---
 # The Blood of Vol
 *Source: Eberron: Rising from the Last War p. 141* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/erlw-the-blood-of-vol.webp#symbol)
+![](Compendium/deities/img/erlw-the-blood-of-vol.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: Other Faiths of Eberron

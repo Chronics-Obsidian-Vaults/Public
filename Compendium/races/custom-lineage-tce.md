@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/tce
 - source/race/custom-lineage
 aliases:
-- Custom Lineage
+- "Custom Lineage"
 ---
 # Custom Lineage
 *Source: Tasha's Cauldron of Everything p. 8*  
@@ -33,7 +34,7 @@ You gain one feat of your choice for which you qualify.
 
 ### Variable Trait
 
-You gain one of the following options of your choice: (a) [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) with a range of 60 feet or (b) proficiency in one skill of your choice.
+You gain one of the following options of your choice: (a) [darkvision](Rules/senses.md#Darkvision) with a range of 60 feet or (b) proficiency in one skill of your choice.
 
 ### Languages
 

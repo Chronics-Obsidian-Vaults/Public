@@ -5,16 +5,16 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Chapter 9: Knight
+- "Chapter 9: Knight"
 ---
 # Chapter 9: Knight
 *Source: The Book of Many Things, p. 65* 
 
-A character who draws the Knight card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) gains the service of a loyal warrior. This chapter includes advice for DMs on how to introduce this helpful nonplayer character into the ongoing story of your campaign, as well as general advice about including helpful allies in a game without overshadowing the player characters. The chapter also introduces a new creature that can be the summoned knight: a Construct made of playing cards whose abilities scale with those of the characters.
+A character who draws the Knight card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md) gains the service of a loyal warrior. This chapter includes advice for DMs on how to introduce this helpful nonplayer character into the ongoing story of your campaign, as well as general advice about including helpful allies in a game without overshadowing the player characters. The chapter also introduces a new creature that can be the summoned knight: a Construct made of playing cards whose abilities scale with those of the characters.
 
-In addition to DM advice, the chapter includes material for characters who live by their skill in combat: a collection of magic items and background elements inspired by the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md).
+In addition to DM advice, the chapter includes material for characters who live by their skill in combat: a collection of magic items and background elements inspired by the [Deck of Many Things](Compendium/items/deck-of-many-things.md).
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/044-08-001-knight.webp#center)
+![](Compendium/books/the-book-of-many-things/img/044-08-001-knight.webp#center)
 
 ## Magic Items
 
@@ -24,35 +24,35 @@ This section introduces new magic items a DM can include in a campaign.
 
 The following magic items are presented in alphabetical order.
 
-- [Antimagic Armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/antimagic-armor-bmt.md)  
-- [Armor of Fungal Spores](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/armor-of-fungal-spores-bmt.md)  
-- [Armor of the Fallen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/armor-of-the-fallen-bmt.md)  
-- [Armor of Weightlessness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/armor-of-weightlessness-bmt.md)  
-- [Bloodrage Greataxe](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bloodrage-greataxe-bmt.md)  
-- [Bloodseeker Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bloodseeker-ammunition-bmt.md)  
-- [Boomerang Shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/boomerang-shield-bmt.md)  
-- [Bow of Conflagration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bow-of-conflagration-bmt.md)  
-- [Bow of Melodies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bow-of-melodies-bmt.md)  
-- [Clockwork Armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/clockwork-armor-bmt.md)  
-- [Dried Leech](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dried-leech-bmt.md)  
-- [Feywrought Armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/feywrought-armor-bmt.md)  
-- [Forcebreaker Weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/forcebreaker-weapon-bmt.md)  
-- [Gloomwrought Armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/gloomwrought-armor-bmt.md)  
-- [Grasping Whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/grasping-whip-bmt.md)  
-- [Hammer of Runic Focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hammer-of-runic-focus-bmt.md)  
-- [Shield of the Tortoise](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield-of-the-tortoise-bmt.md)  
-- [Sling of Giant Felling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sling-of-giant-felling-bmt.md)  
-- [Stonemaker War Pick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/stonemaker-war-pick-bmt.md)  
-- [Sword of the Planes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sword-of-the-planes-bmt.md)  
-- [Tidecaller Trident](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/tidecaller-trident-bmt.md)  
-- [Winged Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/winged-ammunition-bmt.md)  
-- [+1 Wraps of Unarmed Prowess](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/1-wraps-of-unarmed-prowess-bmt.md)  
-- [+2 Wraps of Unarmed Prowess](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/2-wraps-of-unarmed-prowess-bmt.md)  
-- [+3 Wraps of Unarmed Prowess](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/3-wraps-of-unarmed-prowess-bmt.md)  
+- [Antimagic Armor](Compendium/items/antimagic-armor-bmt.md)  
+- [Armor of Fungal Spores](Compendium/items/armor-of-fungal-spores-bmt.md)  
+- [Armor of the Fallen](Compendium/items/armor-of-the-fallen-bmt.md)  
+- [Armor of Weightlessness](Compendium/items/armor-of-weightlessness-bmt.md)  
+- [Bloodrage Greataxe](Compendium/items/bloodrage-greataxe-bmt.md)  
+- [Bloodseeker Ammunition](Compendium/items/bloodseeker-ammunition-bmt.md)  
+- [Boomerang Shield](Compendium/items/boomerang-shield-bmt.md)  
+- [Bow of Conflagration](Compendium/items/bow-of-conflagration-bmt.md)  
+- [Bow of Melodies](Compendium/items/bow-of-melodies-bmt.md)  
+- [Clockwork Armor](Compendium/items/clockwork-armor-bmt.md)  
+- [Dried Leech](Compendium/items/dried-leech-bmt.md)  
+- [Feywrought Armor](Compendium/items/feywrought-armor-bmt.md)  
+- [Forcebreaker Weapon](Compendium/items/forcebreaker-weapon-bmt.md)  
+- [Gloomwrought Armor](Compendium/items/gloomwrought-armor-bmt.md)  
+- [Grasping Whip](Compendium/items/grasping-whip-bmt.md)  
+- [Hammer of Runic Focus](Compendium/items/hammer-of-runic-focus-bmt.md)  
+- [Shield of the Tortoise](Compendium/items/shield-of-the-tortoise-bmt.md)  
+- [Sling of Giant Felling](Compendium/items/sling-of-giant-felling-bmt.md)  
+- [Stonemaker War Pick](Compendium/items/stonemaker-war-pick-bmt.md)  
+- [Sword of the Planes](Compendium/items/sword-of-the-planes-bmt.md)  
+- [Tidecaller Trident](Compendium/items/tidecaller-trident-bmt.md)  
+- [Winged Ammunition](Compendium/items/winged-ammunition-bmt.md)  
+- [+1 Wraps of Unarmed Prowess](Compendium/items/1-wraps-of-unarmed-prowess-bmt.md)  
+- [+2 Wraps of Unarmed Prowess](Compendium/items/2-wraps-of-unarmed-prowess-bmt.md)  
+- [+3 Wraps of Unarmed Prowess](Compendium/items/3-wraps-of-unarmed-prowess-bmt.md)  
 
 ## Heroes of Destiny
 
-The following table provides narrative ideas inspired by the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) that players can use as prompts while developing their characters. The tables' entries are geared toward warriors—particularly fighters, barbarians, and monks—but any character's story can benefit from the ideas presented here. When using this table to shape your character's story, you can either choose the entries that speak to you or randomly pull cards from [The Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) card set.
+The following table provides narrative ideas inspired by the [Deck of Many Things](Compendium/items/deck-of-many-things.md) that players can use as prompts while developing their characters. The tables' entries are geared toward warriors—particularly fighters, barbarians, and monks—but any character's story can benefit from the ideas presented here. When using this table to shape your character's story, you can either choose the entries that speak to you or randomly pull cards from [The Deck of Many Things](Compendium/items/deck-of-many-things.md) card set.
 
 > [!quote] A quote from Asteria  
 > 
@@ -60,19 +60,19 @@ The following table provides narrative ideas inspired by the [Deck of Many Thing
 > 
 > Me? I fight to protect others and to kindle hope. (And maybe, a little bit, to prove my father wrong.)
 
-![Heroes of Destiny; Knight Destinies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/heroes-of-destiny-knight-destinies-bmt.md)
+![Heroes of Destiny; Knight Destinies](Compendium/tables/heroes-of-destiny-knight-destinies-bmt.md)
 
 ## Drawing the Knight Card
 
-This section provides advice for DMs whose characters draw the Knight card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), as well as general advice about including allies who fight alongside the characters. Finally, the knight summoned by the deck is reimagined as a loyal Construct: the deck defender.
+This section provides advice for DMs whose characters draw the Knight card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md), as well as general advice about including allies who fight alongside the characters. Finally, the knight summoned by the deck is reimagined as a loyal Construct: the deck defender.
 
 ### The Knight as Narrative Device
 
-The "Dungeon Master's Guide" details how the nonplayer character summoned by the Knight card of a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) appears. But as discussed in "chapter 2", the cards of the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) can instead be interpreted as narrative directions that point the way to a future event. In this case, the Knight card could portend a friendly warrior whom the character will soon meet—and who could become a loyal ally.
+The "Dungeon Master's Guide" details how the nonplayer character summoned by the Knight card of a [Deck of Many Things](Compendium/items/deck-of-many-things.md) appears. But as discussed in "chapter 2", the cards of the [Deck of Many Things](Compendium/items/deck-of-many-things.md) can instead be interpreted as narrative directions that point the way to a future event. In this case, the Knight card could portend a friendly warrior whom the character will soon meet—and who could become a loyal ally.
 
 When the Knight card is used as a narrative device in this way, the ally it brings isn't magically summoned or compelled to obey the characters; the deck has merely foretold the ally's imminent arrival. Consider what motivates this ally to accompany the party. This ally could be new or familiar to the characters, and the ally might be repaying a favor or pursuing goals of their own.
 
-Several kinds of allies are described below, each with a different reason for accompanying the party. Guidance on when the ally might depart is also provided. An ally who befriends the characters might linger in the story long after the ally's personal goals have been accomplished (especially if the players enjoy that NPC). If you're using [The Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) card set to foretell the future, boxed text for each ally provides dialogue a fortune teller might use to tell characters of the ally's imminent arrival.
+Several kinds of allies are described below, each with a different reason for accompanying the party. Guidance on when the ally might depart is also provided. An ally who befriends the characters might linger in the story long after the ally's personal goals have been accomplished (especially if the players enjoy that NPC). If you're using [The Deck of Many Things](Compendium/items/deck-of-many-things.md) card set to foretell the future, boxed text for each ally provides dialogue a fortune teller might use to tell characters of the ally's imminent arrival.
 
 Whatever type of ally you choose, the party should encounter this ally soon after drawing the card—within a few days or even sooner.
 
@@ -105,7 +105,7 @@ The fortune teller might hint at the person or thing the ally is seeking.
 > Knowledge is power, and someone who chases knowledge shall seek you out.
 ^13f
 
-This ally wishes to study a particular dungeon, region, or creature. The ally might be a historian, planar explorer, botanist, or zoologist. Because the Knight card usually summons a warrior, a studious ally might be a bit of a surprise for the characters—someone they dismiss as unrelated to the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) until the scholar draws a weapon and ably defends themself in battle. The studious ally remains with the characters as long as there are more secrets to learn; when the characters leave the region the ally is interested in, the ally amiably parts ways with them.
+This ally wishes to study a particular dungeon, region, or creature. The ally might be a historian, planar explorer, botanist, or zoologist. Because the Knight card usually summons a warrior, a studious ally might be a bit of a surprise for the characters—someone they dismiss as unrelated to the [Deck of Many Things](Compendium/items/deck-of-many-things.md) until the scholar draws a weapon and ably defends themself in battle. The studious ally remains with the characters as long as there are more secrets to learn; when the characters leave the region the ally is interested in, the ally amiably parts ways with them.
 
 A fortune teller might divine the region or topic the studious ally is interested in, giving the characters a direction when they want to seek the ally out.
 
@@ -144,7 +144,7 @@ If you're building the ally as if it were a character, keep the ally 1 or 2 leve
 
 One way to avoid overshadowing the characters is to create an ally who has skills and abilities that complement the party's. Healing, tracking, and proficiency with thieves' tools (to disarm traps and unlock doors) are common examples of such skills. A group without magical healing isn't going to complain when an NPC cleric joins their party, so long as the cleric focuses on healing!
 
-Similarly, you can give an ally abilities that bolster or otherwise support the characters without dealing damage on their own, such as the [Bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md) spell or Bardic Inspiration. Perhaps the ally prefers to use the [Help](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Help) action, and if a character's ability check or attack succeeds with the ally's help, the ally grants an additional benefit. These tactics keep the spotlight on the characters, with the ally providing valuable support.
+Similarly, you can give an ally abilities that bolster or otherwise support the characters without dealing damage on their own, such as the [Bless](Compendium/spells/bless.md) spell or Bardic Inspiration. Perhaps the ally prefers to use the [Help](Rules/actions.md#Help) action, and if a character's ability check or attack succeeds with the ally's help, the ally grants an additional benefit. These tactics keep the spotlight on the characters, with the ally providing valuable support.
 
 #### Limit an Ally's Presence
 
@@ -154,8 +154,8 @@ Consider ways the ally could help the characters off-screen. The ally could defe
 
 ### Deck Defender
 
-[Deck defenders](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/deck-defender-bmt.md) are Constructs made of large, intricately folded playing cards. You can use a deck defender when a character draws the Knight card, substituting the defender for the friendly ally the card usually summons.
+[Deck defenders](Compendium/bestiary/construct/deck-defender-bmt.md) are Constructs made of large, intricately folded playing cards. You can use a deck defender when a character draws the Knight card, substituting the defender for the friendly ally the card usually summons.
 
-Created from the multifaceted magic of a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), a deck defender obeys the commands of the character who drew the Knight card. It can assume multiple shapes. When summoned, a deck defender first appears in its protective guardian form, bearing a folded sword and shield. The character who summoned the deck defender can fold it into the more threatening berserker form or the nimble acrobat form, as desired.
+Created from the multifaceted magic of a [Deck of Many Things](Compendium/items/deck-of-many-things.md), a deck defender obeys the commands of the character who drew the Knight card. It can assume multiple shapes. When summoned, a deck defender first appears in its protective guardian form, bearing a folded sword and shield. The character who summoned the deck defender can fold it into the more threatening berserker form or the nimble acrobat form, as desired.
 
 No matter what form a deck defender takes, its card-like nature makes it fragile. When a deck defender is defeated, it collapses into a pile of nonmagical cards.

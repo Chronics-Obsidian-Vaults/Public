@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/uncommon
 - source/item/tier/major
-aliases: 
+aliases:
 - "Periapt of Wound Closure"
 item_type: 
 item_subtype: 
@@ -15,7 +16,7 @@ attunement: required
 ---
 # Periapt of Wound Closure
 *Wondrous item, major, uncommon (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/periapt-of-wound-closure.webp#right)
+![](Compendium/items/img/periapt-of-wound-closure.webp#right)
 
 - **Weight**: 1.0 lbs.
 

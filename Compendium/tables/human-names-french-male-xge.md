@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Human Names – French, Male
+- "Human Names – French, Male"
 ---
 # Human Names – French, Male
 *Source: Xanathar's Guide to Everything p. 181* 

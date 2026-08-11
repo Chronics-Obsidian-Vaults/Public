@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/smpl
 aliases:
-- Scything Blade Trap
+- "Scything Blade Trap"
 ---
 # Scything Blade Trap
 *Generic Hazard*  

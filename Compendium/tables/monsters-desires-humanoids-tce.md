@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Humanoids
+- "Monsters' Desires; Humanoids"
 ---
 # Monsters' Desires; Humanoids
 *Source: Tasha's Cauldron of Everything p. 148* 

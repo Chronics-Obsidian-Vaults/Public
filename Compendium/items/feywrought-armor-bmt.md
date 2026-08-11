@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/armor/heavy
@@ -9,7 +10,7 @@ tags:
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Feywrought Armor"
 - "Feywrought Breastplate"
 - "Feywrought Chain Mail"
@@ -36,9 +37,9 @@ attunement: required
 
 This colorful, flowery armor was forged in the Feywild and is infused with that plane's captivating magic.
 
-While wearing this armor, you have advantage on saving throws you make to avoid or end the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) condition on yourself.
+While wearing this armor, you have advantage on saving throws you make to avoid or end the [charmed](Rules/conditions.md#Charmed) condition on yourself.
 
-This armor has 3 charges. You can use an action to expend a charge to cast the [Compulsion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compulsion.md) spell (save DC 15) from this armor. The armor regains `1d3` expended charges daily at dawn.
+This armor has 3 charges. You can use an action to expend a charge to cast the [Compulsion](Compendium/spells/compulsion.md) spell (save DC 15) from this armor. The armor regains `1d3` expended charges daily at dawn.
 
 **Variants**:
 - [Feywrought Breastplate](#Feywrought%20Breastplate)

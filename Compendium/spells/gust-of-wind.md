@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -8,6 +9,8 @@ tags:
 - source/spell/class/ranger
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
+- source/spell/feat/mark-of-storm
 - source/spell/level/2nd-level
 - source/spell/optfeature/rush-of-the-gale-spirits
 - source/spell/race/aarakocra
@@ -17,8 +20,7 @@ tags:
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/tempest-domain
 - source/spell/subclass/the-fathomless
-- source/spell/subclass/the-genie/djinni
-- source/spell/subrace/half-elf-mark-of-storm
+- source/spell/subclass/the-genie
 classes:
 - Bard (Magical Secrets)
 - Cleric (Tempest Domain)
@@ -28,10 +30,10 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock (The Fathomless)
-- Warlock (The Genie, Djinni)
+- Warlock (The Genie)
 - Wizard
 aliases:
-- Gust of Wind
+- "Gust of Wind"
 level: 2
 school: evocation
 ritual: false
@@ -59,6 +61,6 @@ The gust disperses gas or vapor, and it extinguishes candles, torches, and simil
 
 As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-tempest-domain.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Fathomless)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Warlock (The Genie, Djinni)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](Compendium/lists/list-spells-classes-tempest-domain.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Fathomless)](Compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Warlock (The Genie)](Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

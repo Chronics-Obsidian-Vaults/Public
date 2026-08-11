@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/rarity/common
 - source/item/tier/minor
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of Flowers"
 item_type: weapon
 item_subtype: simple
@@ -20,7 +21,7 @@ attunement: none
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This wooden staff has 10 charges. While holding it, you can use an action to expend 1 charge from the staff and cause a flower to sprout from a patch of earth or soil within 5 feet of you, or from the staff itself. Unless you choose a specific kind of flower, the staff creates a mild-scented daisy. The flower is harmless and nonmagical, and it grows or withers as a normal flower would. The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff turns into flower petals and is lost forever.

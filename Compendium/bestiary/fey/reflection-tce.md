@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reflection
+- "Reflection"
 ---
-# [Reflection](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/reflection-tce.md)
+# [Reflection](Compendium/bestiary/fey/reflection-tce.md)
 *Source: Tasha's Cauldron of Everything p. 158*  
 
 ```statblock
@@ -32,30 +33,25 @@ aliases:
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "bludgeoning"
 "damage_resistances": "acid; cold; fire; lightning; thunder; piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The reflection can move through a space as narrow as 1 inch wide without\
       \ squeezing."
     "name": "Amorphous"
-  - "desc": "While in dim light or darkness, the reflection can take the Hide action\
-      \ as a bonus action. Its stealth bonus is also improved to +6."
+  - "desc": "While in dim light or darkness, the reflection can take the [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action. Its stealth bonus is also improved to +6."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the reflection has disadvantage on attack rolls, ability\
       \ checks, and saving throws."
@@ -69,6 +65,6 @@ aliases:
     "name": "Strength Drain"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/reflection-tce.webp"
+"image": "Compendium/bestiary/fey/token/reflection-tce.webp"
 ```
 ^statblock

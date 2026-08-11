@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Soldier
+- "Soldier"
 ---
 # Soldier
 *Source: Player's Handbook p. 140. Available in the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)  
+- **Skill Proficiencies.** [Athletics](Rules/skills.md#Athletics), [Intimidation](Rules/skills.md#Intimidation)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  
-- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md), broken blade, or piece of a banner), a bone [dice set](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dice-set.md) or [playing card set](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/playing-card-set.md), a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [dagger](Compendium/items/dagger.md), broken blade, or piece of a banner), a bone [dice set](Compendium/items/dice-set.md) or [playing card set](Compendium/items/playing-card-set.md), a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army or a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.
 

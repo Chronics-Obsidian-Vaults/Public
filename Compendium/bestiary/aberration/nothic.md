@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nothic
+- "Nothic"
 ---
-# [Nothic](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/nothic.md)
-*Source: Monster Manual p. 236, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the Basic Rules (2014)*  
+# [Nothic](Compendium/bestiary/aberration/nothic.md)
+*Source: Monster Manual p. 236. Available in the Basic Rules (2014)*  
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
 
@@ -48,20 +49,19 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+3"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 12"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "The nothic has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The nothic has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
@@ -75,17 +75,14 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
       \ or take 10 (3d6) necrotic damage."
     "name": "Rotting Gaze"
   - "desc": "The nothic targets one creature it can see within 30 feet of it. The\
-      \ target must contest its Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception))\
-      \ check against the nothic's Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight))\
-      \ check. If the nothic wins, it magically learns one fact or secret about the\
-      \ target. The target automatically wins if it is immune to being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)."
+      \ target must contest its Charisma ([Deception](Rules/skills.md#Deception))\
+      \ check against the nothic's Wisdom ([Insight](Rules/skills.md#Insight)) check.\
+      \ If the nothic wins, it magically learns one fact or secret about the target.\
+      \ The target automatically wins if it is immune to being [charmed](Rules/conditions.md#Charmed)."
     "name": "Weird Insight"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/nothic.webp"
+"image": "Compendium/bestiary/aberration/token/nothic.webp"
 ```
 ^statblock
 

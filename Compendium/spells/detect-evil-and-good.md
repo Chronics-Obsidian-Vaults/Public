@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -8,19 +9,19 @@ tags:
 - source/spell/class/paladin
 - source/spell/feat/fey-touched
 - source/spell/feat/magic-initiate/cleric-spells
+- source/spell/feat/mark-of-detection
 - source/spell/level/1st-level
 - source/spell/school/divination
-- source/spell/subclass/divine-soul/good
-- source/spell/subclass/the-genie/dao
-- source/spell/subrace/half-elf-mark-of-detection
+- source/spell/subclass/divine-soul
+- source/spell/subclass/the-genie
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Paladin
-- Sorcerer (Divine Soul, Good)
-- Warlock (The Genie, Dao)
+- Sorcerer (Divine Soul)
+- Warlock (The Genie)
 aliases:
-- Detect Evil and Good
+- "Detect Evil and Good"
 level: 1
 school: divination
 ritual: false
@@ -44,6 +45,6 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Genie, Dao)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Genie)](Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
 
 *Source: Player's Handbook p. 231. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

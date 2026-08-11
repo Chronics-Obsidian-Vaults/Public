@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -15,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cyclops
+- "Cyclops"
 ---
-# [Cyclops](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/cyclops.md)
-*Source: Monster Manual p. 45, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the Basic Rules (2014)*  
+# [Cyclops](Compendium/bestiary/giant/cyclops.md)
+*Source: Monster Manual p. 45. Available in the Basic Rules (2014)*  
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
 
@@ -54,6 +55,8 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
   - !!int "6"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[greatclub](Compendium/items/greatclub.md)"
 "senses": "passive Perception 8"
 "languages": "Giant"
 "cr": "6"
@@ -72,9 +75,7 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
     "name": "Rock"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/cyclops.webp"
+"image": "Compendium/bestiary/giant/token/cyclops.webp"
 ```
 ^statblock
 

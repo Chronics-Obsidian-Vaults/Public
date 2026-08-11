@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wretched Sorrowsworn
+- "Wretched Sorrowsworn"
 ---
-# [Wretched Sorrowsworn](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/wretched-sorrowsworn-mpmm.md)
+# [Wretched Sorrowsworn](Compendium/bestiary/monstrosity/wretched-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
 
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
@@ -42,15 +43,14 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "5"
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/4"
 "traits":
   - "desc": "The sorrowsworn has advantage on an attack roll against a creature if\
       \ at least one of the sorrowsworn's allies is within 5 feet of the creature\
-      \ and the ally isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
-      \ The sorrowsworn otherwise has disadvantage on attack rolls."
+      \ and the ally isn't [incapacitated](Rules/conditions.md#Incapacitated). The\
+      \ sorrowsworn otherwise has disadvantage on attack rolls."
     "name": "Wretched Pack Tactics"
 "actions":
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (1d10\
@@ -65,7 +65,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/wretched-sorrowsworn-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/wretched-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

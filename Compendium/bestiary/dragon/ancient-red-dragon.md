@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/24
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Red Dragon
+- "Ancient Red Dragon"
 ---
-# [Ancient Red Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/ancient-red-dragon.md)
-*Source: Monster Manual p. 97, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Ancient Red Dragon](Compendium/bestiary/dragon/ancient-red-dragon.md)
+*Source: Monster Manual p. 97. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
 
@@ -118,13 +119,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "9"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+16"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "fire"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 26"
 "languages": "Common, Draconic"
 "cr": "24"
@@ -145,7 +145,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ (2d8 + 10) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -164,23 +164,22 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ throw, taking 21 (6d6) fire damage on a failed save, or half as much damage\
       \ on a successful one.  \n- A tremor shakes the lair in a 60-foot radius around\
       \ the dragon. Each creature other than the dragon on the ground in that area\
-      \ must succeed on a DC 15 Dexterity saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ must succeed on a DC 15 Dexterity saving throw or be knocked [prone](Rules/conditions.md#Prone).\
       \  \n- Volcanic gases form a cloud in a 20-foot-radius sphere centered on a\
       \ point the dragon can see within 120 feet of it. The sphere spreads around\
       \ corners, and its area is lightly obscured. It lasts until initiative count\
       \ 20 on the next round. Each creature that starts its turn in the cloud must\
-      \ succeed on a DC 13 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ until the end of its turn. While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way, a creature is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
-      \  \n\n**Additional Lair Actions.** At your discretion, a legendary ([adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-red-dragon.md)\
-      \ or [ancient](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-red-dragon.md))\
-      \ red dragon can use one or both of the following additional lair actions while\
-      \ in its lair:\n\n- **Noxious Smoke.** A cloud of thick, dark smoke fills a\
-      \ 20-foot-radius sphere centered on a point the dragon can see within 120 feet\
-      \ of it. The sphere spreads around corners, and its area is heavily obscured.\
-      \ A creature other than the dragon that starts its turn in the cloud or enters\
-      \ it for the first time on its turn must succeed on a DC 15 Constitution saving\
-      \ throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ succeed on a DC 13 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned)\
+      \ until the end of its turn. While [poisoned](Rules/conditions.md#Poisoned)\
+      \ in this way, a creature is [incapacitated](Rules/conditions.md#Incapacitated).\
+      \  \n\n**Additional Lair Actions.** At your discretion, a legendary ([adult](Compendium/bestiary/dragon/adult-red-dragon.md)\
+      \ or [ancient](Compendium/bestiary/dragon/ancient-red-dragon.md)) red dragon\
+      \ can use one or both of the following additional lair actions while in its\
+      \ lair:\n\n- **Noxious Smoke.** A cloud of thick, dark smoke fills a 20-foot-radius\
+      \ sphere centered on a point the dragon can see within 120 feet of it. The sphere\
+      \ spreads around corners, and its area is heavily obscured. A creature other\
+      \ than the dragon that starts its turn in the cloud or enters it for the first\
+      \ time on its turn must succeed on a DC 15 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned)\
       \ until the end of its turn. The cloud lasts until initiative count 20 on the\
       \ next round.  \n- **Searing Heat.** Searing heat spreads out in a 15-foot-radius\
       \ sphere centered on a point the dragon can see within 120 feet of it. Any creature\
@@ -211,21 +210,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
       \ must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ The dragon can then fly up to half its flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). The dragon can then\
+      \ fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-  - "MOT"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/ancient-red-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/ancient-red-dragon.webp"
 ```
 ^statblock
 

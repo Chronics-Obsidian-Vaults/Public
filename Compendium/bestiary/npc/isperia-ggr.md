@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/21
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Isperia
+- "Isperia"
 ---
-# [Isperia](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/isperia-ggr.md)
+# [Isperia](Compendium/bestiary/npc/isperia-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 227*  
 
 Isperia is the current guildmaster of the Azorius Senate. As a sphinx, she is aloof and values solitude above all. However, she has been forced to give up her privacy to deal with the increased crime and chaos on Ravnica.
@@ -44,59 +45,48 @@ If an encounter turns violent, Isperia refrains from using lethal force if possi
   - "intelligence": !!int "13"
   - "wisdom": !!int "15"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+13"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+15"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+15"
 "damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 25"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 25"
 "languages": "Common, Sphinx"
 "cr": "21"
 "traits":
   - "desc": "Isperia is a 15th-level Azorius spellcaster. Her spellcasting ability\
       \ is Wisdom (spell save DC 23, +14 to hit with spell attacks). Isperia has the\
-      \ following cleric spells prepared:\n\n**Cantrips (at will):** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [resistance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/resistance.md),\
-      \ [sacred flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sacred-flame.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md),\
-      \ [ensnaring strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ensnaring-strike.md),\
-      \ [sanctuary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sanctuary.md),\
-      \ [shield of faith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield-of-faith.md)\n\
-      \n**2nd level (3 slots):** [arcane lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md),\
-      \ [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md),\
-      \ [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [silence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silence.md),\
-      \ [zone of truth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/zone-of-truth.md)\n\
-      \n**3rd level (3 slots):** [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md),\
-      \ [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md),\
-      \ [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md)\n\
-      \n**4th level (3 slots):** [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md),\
-      \ [locate creature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-creature.md)\n\
-      \n**5th level (2 slots):** [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)\n\
-      \n**6th level (1 slots):** [word of recall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/word-of-recall.md)\n\
-      \n**7th level (1 slots):** [divine word](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divine-word.md)\n\
-      \n**8th level (1 slots):** [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md)"
+      \ following cleric spells prepared:\n\n**Cantrips (at will):** [guidance](Compendium/spells/guidance.md),\
+      \ [light](Compendium/spells/light.md), [resistance](Compendium/spells/resistance.md),\
+      \ [sacred flame](Compendium/spells/sacred-flame.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [command](Compendium/spells/command.md), [detect\
+      \ evil and good](Compendium/spells/detect-evil-and-good.md), [ensnaring strike](Compendium/spells/ensnaring-strike.md),\
+      \ [sanctuary](Compendium/spells/sanctuary.md), [shield of faith](Compendium/spells/shield-of-faith.md)\n\
+      \n**2nd level (3 slots):** [arcane lock](Compendium/spells/arcane-lock.md),\
+      \ [augury](Compendium/spells/augury.md), [calm emotions](Compendium/spells/calm-emotions.md),\
+      \ [hold person](Compendium/spells/hold-person.md), [silence](Compendium/spells/silence.md),\
+      \ [zone of truth](Compendium/spells/zone-of-truth.md)\n\n**3rd level (3 slots):**\
+      \ [bestow curse](Compendium/spells/bestow-curse.md), [clairvoyance](Compendium/spells/clairvoyance.md),\
+      \ [counterspell](Compendium/spells/counterspell.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [tongues](Compendium/spells/tongues.md)\n\n**4th level (3 slots):** [divination](Compendium/spells/divination.md),\
+      \ [locate creature](Compendium/spells/locate-creature.md)\n\n**5th level (2\
+      \ slots):** [dispel evil and good](Compendium/spells/dispel-evil-and-good.md),\
+      \ [scrying](Compendium/spells/scrying.md)\n\n**6th level (1 slots):** [word\
+      \ of recall](Compendium/spells/word-of-recall.md)\n\n**7th level (1 slots):**\
+      \ [divine word](Compendium/spells/divine-word.md)\n\n**8th level (1 slots):**\
+      \ [antimagic field](Compendium/spells/antimagic-field.md)"
     "name": "Spellcasting"
   - "desc": "Isperia's innate spellcasting ability is Wisdom (spell save DC 23). Isperia\
-      \ can innately cast [imprisonment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/imprisonment.md)\
-      \ twice per day, requiring no material components.\n"
+      \ can innately cast [imprisonment](Compendium/spells/imprisonment.md) twice\
+      \ per day, requiring no material components.\n"
     "name": "Innate Spellcasting"
   - "desc": "Isperia is immune to any effect that would sense her emotions or read\
-      \ her thoughts, as well as any divination spell that she refuses. Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight))\
+      \ her thoughts, as well as any divination spell that she refuses. Wisdom ([Insight](Rules/skills.md#Insight))\
       \ checks made to ascertain her intentions or sincerity have disadvantage."
     "name": "Inscrutable"
   - "desc": "If Isperia fails a saving throw, she can choose to succeed instead."
@@ -115,12 +105,14 @@ If an encounter turns violent, Isperia refrains from using lethal force if possi
     "name": "Claw"
   - "desc": "Isperia chooses up to three creatures she can see within 90 feet of her.\
       \ Each target must succeed on a DC 23 Intelligence saving throw or Isperia chooses\
-      \ an action for that target: Attack, Cast a Spell, Dash, Disengage, Dodge, Help,\
-      \ Hide, Ready, Search, or Use an Object. The affected target can't take that\
-      \ action for 1 minute. At the end of each of the target's turns, it can end\
-      \ the effect on itself with a successful DC 23 Intelligence saving throw. A\
-      \ target that succeeds on the saving throw becomes immune to Isperia's Supreme\
-      \ Legal Authority for 24 hours."
+      \ an action for that target: [Attack](Rules/actions.md#Attack), [Cast a Spell](Rules/actions.md#Cast%20a%20Spell),\
+      \ [Dash](Rules/actions.md#Dash), [Disengage](Rules/actions.md#Disengage), [Dodge](Rules/actions.md#Dodge),\
+      \ [Help](Rules/actions.md#Help), [Hide](Rules/actions.md#Hide), [Ready](Rules/actions.md#Ready),\
+      \ [Search](Rules/actions.md#Search), or [Use an Object](Rules/actions.md#Use%20an%20Object).\
+      \ The affected target can't take that action for 1 minute. At the end of each\
+      \ of the target's turns, it can end the effect on itself with a successful DC\
+      \ 23 Intelligence saving throw. A target that succeeds on the saving throw becomes\
+      \ immune to Isperia's Supreme Legal Authority for 24 hours."
     "name": "Supreme Legal Authority"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Isperia can expend a use to take one of the following actions. Isperia regains\
@@ -135,6 +127,6 @@ If an encounter turns violent, Isperia refrains from using lethal force if possi
     "name": "Supreme Legal Authority (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/isperia-ggr.webp"
+"image": "Compendium/bestiary/npc/token/isperia-ggr.webp"
 ```
 ^statblock

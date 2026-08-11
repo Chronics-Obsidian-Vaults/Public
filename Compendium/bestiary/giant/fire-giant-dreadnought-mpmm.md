@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/14
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Giant Dreadnought
+- "Fire Giant Dreadnought"
 ---
-# [Fire Giant Dreadnought](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/fire-giant-dreadnought-mpmm.md)
+# [Fire Giant Dreadnought](Compendium/bestiary/giant/fire-giant-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*  
 
 > [!quote] A quote from Mordenkainen  
@@ -34,8 +35,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "type": "giant"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "21"
-"ac_class": "[plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md),\
-  \ [Dual Shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[plate](Compendium/items/plate-armor.md), [Dual Shields](Compendium/items/shield.md)"
 "hp": !!int "187"
 "hit_dice": "15d12 + 90"
 "modifier": !!int "-1"
@@ -52,9 +52,9 @@ When not called on to fight, dreadnoughts maintain their strength by using their
   - "constitution": !!int "11"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+13"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "damage_immunities": "fire"
 "senses": "passive Perception 15"
@@ -78,12 +78,12 @@ When not called on to fight, dreadnoughts maintain their strength by using their
       \ the space of any creature smaller than Huge. The first time it enters a creature's\
       \ space during this move, that creature must succeed on a DC 21 Strength saving\
       \ throw or take 36 (8d6 + 8) bludgeoning damage plus 14 (4d6) fire damage and\
-      \ be pushed up to 30 feet and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ be pushed up to 30 feet and knocked [prone](Rules/conditions.md#Prone)."
     "name": "Shield Charge (Recharge 5-6)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/fire-giant-dreadnought-mpmm.webp"
+"image": "Compendium/bestiary/giant/token/fire-giant-dreadnought-mpmm.webp"
 ```
 ^statblock
 

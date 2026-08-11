@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/attunement/required
 - source/item/gear/spellcasting-focus
 - source/item/rarity/common
-aliases: 
+aliases:
 - "Imbued Wood Focus"
 item_type: 
 item_subtype: 
@@ -26,25 +27,25 @@ When you cast a damage-dealing spell using this item as your spellcasting focus,
 
 | Wood | Damage Type |
 |------|-------------|
-| [Fernian Ash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-fernian-ash-erlw.md) | Fire |
-| [Irian Rosewood](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-irian-rosewood-erlw.md) | Radiant |
-| [Kythrian Manchineel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-kythrian-manchineel-erlw.md) | Acid or poison |
-| [Lamannian Oak](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-lamannian-oak-erlw.md) | Lightning or thunder |
-| [Mabaran Ebony](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-mabaran-ebony-erlw.md) | Necrotic |
-| [Risian Pine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-risian-pine-erlw.md) | Cold |
-| [Shavarran Birch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-shavarran-birch-erlw.md) | Force |
-| [Xorian Wenge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-xorian-wenge-erlw.md) | Psychic |
+| [Fernian Ash](Compendium/items/imbued-wood-fernian-ash-erlw.md) | Fire |
+| [Irian Rosewood](Compendium/items/imbued-wood-irian-rosewood-erlw.md) | Radiant |
+| [Kythrian Manchineel](Compendium/items/imbued-wood-kythrian-manchineel-erlw.md) | Acid or poison |
+| [Lamannian Oak](Compendium/items/imbued-wood-lamannian-oak-erlw.md) | Lightning or thunder |
+| [Mabaran Ebony](Compendium/items/imbued-wood-mabaran-ebony-erlw.md) | Necrotic |
+| [Risian Pine](Compendium/items/imbued-wood-risian-pine-erlw.md) | Cold |
+| [Shavarran Birch](Compendium/items/imbued-wood-shavarran-birch-erlw.md) | Force |
+| [Xorian Wenge](Compendium/items/imbued-wood-xorian-wenge-erlw.md) | Psychic |
 ^imbued-wood-focus
 
 **Items in this group:**
 
-- [Imbued Wood (Fernian Ash)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-fernian-ash-erlw.md)
-- [Imbued Wood (Irian Rosewood)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-irian-rosewood-erlw.md)
-- [Imbued Wood (Kythrian Manchineel)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-kythrian-manchineel-erlw.md)
-- [Imbued Wood (Lamannian Oak)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-lamannian-oak-erlw.md)
-- [Imbued Wood (Mabaran Ebony)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-mabaran-ebony-erlw.md)
-- [Imbued Wood (Risian Pine)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-risian-pine-erlw.md)
-- [Imbued Wood (Shavarran Birch)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-shavarran-birch-erlw.md)
-- [Imbued Wood (Xorian Wenge)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-xorian-wenge-erlw.md)
+- [Imbued Wood (Fernian Ash)](Compendium/items/imbued-wood-fernian-ash-erlw.md)
+- [Imbued Wood (Irian Rosewood)](Compendium/items/imbued-wood-irian-rosewood-erlw.md)
+- [Imbued Wood (Kythrian Manchineel)](Compendium/items/imbued-wood-kythrian-manchineel-erlw.md)
+- [Imbued Wood (Lamannian Oak)](Compendium/items/imbued-wood-lamannian-oak-erlw.md)
+- [Imbued Wood (Mabaran Ebony)](Compendium/items/imbued-wood-mabaran-ebony-erlw.md)
+- [Imbued Wood (Risian Pine)](Compendium/items/imbued-wood-risian-pine-erlw.md)
+- [Imbued Wood (Shavarran Birch)](Compendium/items/imbued-wood-shavarran-birch-erlw.md)
+- [Imbued Wood (Xorian Wenge)](Compendium/items/imbued-wood-xorian-wenge-erlw.md)
 
 *Source: Eberron: Rising from the Last War p. 277*

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Mess Kit"
 item_type: 
 item_subtype: 

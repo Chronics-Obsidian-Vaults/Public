@@ -6,9 +6,9 @@ tags:
 - source/compendium/src/5e/phb
 - source/optional-feature/ei
 aliases:
-- Gaze of Two Minds
+- "Gaze of Two Minds"
 ---
 # Gaze of Two Minds
 *Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) and [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened) to your own surroundings.
+You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are [blinded](Rules/conditions.md#Blinded) and [deafened](Rules/conditions.md#Deafened) to your own surroundings.

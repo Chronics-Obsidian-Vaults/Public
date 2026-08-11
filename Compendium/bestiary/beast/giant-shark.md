@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Shark
+- "Giant Shark"
 ---
-# [Giant Shark](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-shark.md)
+# [Giant Shark](Compendium/bestiary/beast/giant-shark.md)
 *Source: Monster Manual p. 328. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
@@ -36,10 +37,9 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
   - !!int "5"
 "speed": "swim 50 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., passive Perception 13"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., passive Perception 13"
 "languages": ""
 "cr": "5"
 "traits":
@@ -54,7 +54,7 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
     "name": "Bite"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-shark.webp"
+"image": "Compendium/bestiary/beast/token/giant-shark.webp"
 ```
 ^statblock
 

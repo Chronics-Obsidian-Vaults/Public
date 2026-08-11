@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Portent
+- "Living Portent"
 ---
-# [Living Portent](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/living-portent-bmt.md)
+# [Living Portent](Compendium/bestiary/celestial/living-portent-bmt.md)
 *Source: The Book of Many Things p. 180*  
 
 Living portents are embodiments of prophecy sent by deities or other cosmic forces. These Celestials descend to Material Plane worlds in the form of falling stars. When the living portents impact the earth, they carve great craters, yet miraculously, none who live in the impact zone are harmed. These beings of light then assume Humanoid forms to blend in with the inhabitants of the world.
@@ -40,18 +41,17 @@ Living portents seek out beings who will play a part in the prophecies they serv
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+6"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "damage_immunities": "radiant"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 15"
 "languages": "all"
 "cr": "3"
 "traits":
@@ -75,9 +75,8 @@ Living portents seek out beings who will play a part in the prophecies they serv
     "name": "Prophetic Blessing"
   - "desc": "The living portent casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability:\n\n**2/day:** [Cure\
-      \ Wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md)\n\
-      \n**1/day each:** [Divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md),\
-      \ [Greater Restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)"
+      \ Wounds](Compendium/spells/cure-wounds.md)\n\n**1/day each:** [Divination](Compendium/spells/divination.md),\
+      \ [Greater Restoration](Compendium/spells/greater-restoration.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The living portent magically transforms into a Humanoid while retaining\
@@ -93,6 +92,6 @@ Living portents seek out beings who will play a part in the prophecies they serv
     "name": "Price of Defiance"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/living-portent-bmt.webp"
+"image": "Compendium/bestiary/celestial/token/living-portent-bmt.webp"
 ```
 ^statblock

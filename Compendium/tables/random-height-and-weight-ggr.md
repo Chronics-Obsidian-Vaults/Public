@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Random Height and Weight
+- "Random Height and Weight"
 ---
 # Random Height and Weight
 *Source: Guildmasters' Guide to Ravnica p. 12* 

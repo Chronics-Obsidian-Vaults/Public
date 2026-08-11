@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Emerald Claw Adventure Hooks
+- "Emerald Claw Adventure Hooks"
 ---
 # Emerald Claw Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 226* 

@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/norse
 - source/domain/war
-aliases: 
-- Surtur
+aliases:
+- "Surtur"
 ---
 # Surtur
 *Source: Player's Handbook p. 299* 

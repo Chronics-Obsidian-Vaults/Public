@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flying Sword
+- "Flying Sword"
 ---
-# [Flying Sword](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/flying-sword.md)
-*Source: Monster Manual p. 20, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Flying Sword](Compendium/bestiary/construct/flying-sword.md)
+*Source: Monster Manual p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A flying sword dances through the air, fighting with the confidence of a warrior that can't be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
 
@@ -49,24 +50,22 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 7"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [frightened](Rules/conditions.md#Frightened),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The sword is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md).\
-      \ If targeted by [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ the sword must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
-      \ for 1 minute."
+  - "desc": "The sword is [incapacitated](Rules/conditions.md#Incapacitated) while\
+      \ in the area of an [antimagic field](Compendium/spells/antimagic-field.md).\
+      \ If targeted by [dispel magic](Compendium/spells/dispel-magic.md), the sword\
+      \ must succeed on a Constitution saving throw against the caster's spell save\
+      \ DC or fall [unconscious](Rules/conditions.md#Unconscious) for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\
       \ from a normal sword."
@@ -77,9 +76,6 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
     "name": "Longsword"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/flying-sword.webp"
+"image": "Compendium/bestiary/construct/token/flying-sword.webp"
 ```
 ^statblock

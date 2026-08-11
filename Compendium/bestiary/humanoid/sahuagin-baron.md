@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Baron
+- "Sahuagin Baron"
 ---
-# [Sahuagin Baron](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/sahuagin-baron.md)
+# [Sahuagin Baron](Compendium/bestiary/humanoid/sahuagin-baron.md)
 *Source: Monster Manual p. 264*  
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -50,7 +51,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 "subtype": "sahuagin"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md)"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "modifier": !!int "2"
@@ -68,10 +69,11 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - "intelligence": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 17"
+"gear":
+  - "[trident](Compendium/items/trident.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 17"
 "languages": "Sahuagin"
 "cr": "5"
 "traits":
@@ -100,7 +102,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
     "name": "Trident"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/sahuagin-baron.webp"
+"image": "Compendium/bestiary/humanoid/token/sahuagin-baron.webp"
 ```
 ^statblock
 

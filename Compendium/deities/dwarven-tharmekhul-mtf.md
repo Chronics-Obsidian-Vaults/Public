@@ -7,8 +7,8 @@ tags:
 - source/deity/dwarven
 - source/domain/forge
 - source/domain/light
-aliases: 
-- Tharmekhûl
+aliases:
+- "Tharmekhûl"
 ---
 # Tharmekhûl
 *Source: Mordenkainen's Tome of Foes p. 73* 

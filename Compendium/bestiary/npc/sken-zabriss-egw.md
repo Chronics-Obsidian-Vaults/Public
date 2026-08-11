@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sken Zabriss
+- "Sken Zabriss"
 ---
-# [Sken Zabriss](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/sken-zabriss-egw.md)
+# [Sken Zabriss](Compendium/bestiary/npc/sken-zabriss-egw.md)
 *Source: Explorer's Guide to Wildemount p. 221*  
 
 ```statblock
@@ -21,8 +22,7 @@ aliases:
 "subtype": "goliath"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "0"
@@ -34,6 +34,8 @@ aliases:
   - !!int "10"
   - !!int "12"
 "speed": "30 ft."
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic, Giant"
 "cr": "1"
@@ -41,11 +43,10 @@ aliases:
   - "desc": "Sken counts as one size larger when determining her carrying capacity\
       \ and the weight she can push, drag, or lift."
     "name": "Powerful Build"
-  - "desc": "Sken wears a [ring of obscuring](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-obscuring-egw.md).\
-      \ With it, she can cast the [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md)\
-      \ spell centered on herself three times per day. The cloud lasts for 1 minute\
-      \ (no [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ required)."
+  - "desc": "Sken wears a [ring of obscuring](Compendium/items/ring-of-obscuring-egw.md).\
+      \ With it, she can cast the [fog cloud](Compendium/spells/fog-cloud.md) spell\
+      \ centered on herself three times per day. The cloud lasts for 1 minute (no\
+      \ [concentration](Rules/conditions.md#Concentration) required)."
     "name": "Special Equipment"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
@@ -57,6 +58,6 @@ aliases:
     "name": "Stone's Endurance (Recharges after a Short or Long Rest)"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/sken-zabriss-egw.webp"
+"image": "Compendium/bestiary/npc/token/sken-zabriss-egw.webp"
 ```
 ^statblock

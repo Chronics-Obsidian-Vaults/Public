@@ -7,15 +7,15 @@ tags:
 - source/deity/faerunian
 - source/domain/forge
 - source/domain/knowledge
-aliases: 
-- Gond
-- The Wonderbringer
-- The Inspiration Divine
-- The Holy Maker of All Things
+aliases:
+- "Gond"
+- "The Wonderbringer"
+- "The Inspiration Divine"
+- "The Holy Maker of All Things"
 ---
 # Gond
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 18* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-gond.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-gond.webp#symbol)
 
 - **Alternate Names**: The Wonderbringer, The Inspiration Divine, The Holy Maker of All Things
 - **Alignment**: Neutral

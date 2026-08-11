@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Battleforce Angel
+- "Battleforce Angel"
 ---
-# [Battleforce Angel](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/battleforce-angel-ggr.md)
+# [Battleforce Angel](Compendium/bestiary/celestial/battleforce-angel-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 189*  
 
 Battleforce angels are the radiant hosts that soar into combat, bathed in the light of Boros zeal. They lead companies of mortal soldiers from above or fly ahead of roc-mounted skyknights. They don't shy away from the blood, pain, and confusion of combat; rather, they immerse themselves in the shifting tides of battle. Only by wading into the battle can they fulfill their responsibility to carry out the commands of the warleaders by adapting their tactics to the shifting situation on the ground.
@@ -32,7 +33,7 @@ The wisest, most visionary angels are responsible for forming and implementing t
 "type": "celestial"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
 "modifier": !!int "1"
@@ -48,16 +49,16 @@ The wisest, most visionary angels are responsible for forming and implementing t
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)"
+  - "name": "[Investigation](Rules/skills.md#Investigation)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "fire, radiant"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., [truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., [truesight](Rules/senses.md#Truesight)\
   \ 120 ft., passive Perception 16"
 "languages": "all"
 "cr": "5"
@@ -82,6 +83,6 @@ The wisest, most visionary angels are responsible for forming and implementing t
     "name": "Battlefield Inspiration"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/battleforce-angel-ggr.webp"
+"image": "Compendium/bestiary/celestial/token/battleforce-angel-ggr.webp"
 ```
 ^statblock

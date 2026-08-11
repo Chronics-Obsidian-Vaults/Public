@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -8,20 +9,18 @@ tags:
 - source/spell/class/paladin
 - source/spell/level/5th-level
 - source/spell/school/necromancy
-- source/spell/subclass/alchemist
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/grave-domain
 - source/spell/subclass/life-domain
 classes:
-- Artificer (Alchemist)
 - Bard (Magical Secrets)
 - Cleric
 - Cleric (Grave Domain)
 - Cleric (Life Domain)
 - Paladin
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Raise Dead
+- "Raise Dead"
 level: 5
 school: necromancy
 ritual: false
@@ -49,6 +48,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
-**Classes**: [Artificer (Alchemist)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Grave Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric (Life Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-life-domain.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Grave Domain)](Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Devotee's Censer"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -15,8 +16,8 @@ rarity: rare
 attunement: required
 ---
 # Devotee's Censer
-*Weapon ([flail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/flail.md)), rare (requires attunement by a cleric or paladin)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/devotees-censer.webp#right)
+*Weapon ([flail](Compendium/items/flail.md)), rare (requires attunement by a cleric or paladin)*  
+![](Compendium/items/img/devotees-censer.webp#right)
 
 - **Damage**: 1d8 bludgeoning
 - **Weight**: 2.0 lbs.

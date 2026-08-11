@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/optional-feature/as
 aliases:
-- Bursting Arrow
+- "Bursting Arrow"
 ---
 # Bursting Arrow
 *Source: Xanathar's Guide to Everything p. 29*  

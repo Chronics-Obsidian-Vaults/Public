@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Adventure Environments
+- "Adventure Environments"
 ---
 # Adventure Environments
 *Source: Dungeon Master's Guide (2014), p. 99* 
@@ -20,6 +20,8 @@ Villages, towns, and cities are cradles of civilization in a dangerous world, bu
 
 This chapter provides an overview of these three environments plus a few unusual environments, taking you through the process of creating an adventure location, with plenty of random tables to inspire you.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/5-1.webp#center)
+
 ## Dungeons
 
 Some dungeons are old strongholds abandoned by the folk who built them. Others are natural caves or weird lairs carved out by foul monsters. They attract evil cults, monster tribes, and reclusive creatures. Dungeons are also home to ancient treasures: coins, gems, magic items, and other valuables hidden away in the darkness, often guarded by traps or jealously kept by the monsters that have collected them.
@@ -32,9 +34,9 @@ When you set out to create a dungeon, think about its distinctive qualities. For
 
 You can use the Dungeon Location table to determine the locale of your dungeon. You can roll on the table or choose an entry that inspires you.
 
-![Dungeon Location](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-location.md)
+![Dungeon Location](Compendium/tables/dungeon-location.md)
 
-![Dungeon Location; Exotic Location](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-location-exotic-location.md)
+![Dungeon Location; Exotic Location](Compendium/tables/dungeon-location-exotic-location.md)
 
 #### Dungeon Creator
 
@@ -44,19 +46,21 @@ Details bring a dungeon setting's personality to life. Great bearded faces might
 
 The Dungeon Creator table includes creatures that typically build dungeons. You can choose a creator from the table or roll randomly, or choose some other dungeon builder appropriate for your campaign.
 
-![Dungeon Creator](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-creator.md)
+![Dungeon Creator](Compendium/tables/dungeon-creator.md)
 
-![Dungeon Creator; Cults and Religions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-creator-cults-and-religions.md)
+![Dungeon Creator; Cults and Religions](Compendium/tables/dungeon-creator-cults-and-religions.md)
 
-![Dungeon Creator; NPC Alignment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-creator-npc-alignment.md)
+![Dungeon Creator; NPC Alignment](Compendium/tables/dungeon-creator-npc-alignment.md)
 
-![Dungeon Creator; NPC Class](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-creator-npc-class.md)
+![Dungeon Creator; NPC Class](Compendium/tables/dungeon-creator-npc-class.md)
 
 #### Dungeon Purpose
 
 Except in the case of a natural cavern, a dungeon is crafted and inhabited for a specific purpose that influences its design and features. You can choose a purpose from the Dungeon Purpose table, roll one at random, or use your own ideas.
 
-![Dungeon Purpose](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-purpose.md)
+![Dungeon Purpose](Compendium/tables/dungeon-purpose.md)
+
+![](Compendium/books/dungeon-masters-guide-2014/img/5-2.webp#center)
 
 ##### Death Trap
 
@@ -100,7 +104,7 @@ In most cases, the original architects of a dungeon are long gone, and the quest
 
 The Dungeon History table notes key events that can transform a site from its original purpose into a dungeon for adventurers to explore. Particularly old dungeons can have a history that consists of multiple events, each of which transformed the site in some way.
 
-![Dungeon History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-history.md)
+![Dungeon History](Compendium/tables/dungeon-history.md)
 
 ### Dungeon Inhabitants
 
@@ -153,6 +157,8 @@ If you need help creating a dungeon map from scratch, see appendix A.
 
 The atmosphere and physical characteristics of dungeons vary as widely as their origins. An old crypt might have stone walls and loose wooden doors, an odor of decay, and no light other than what adventurers bring with them. A volcanic lair might have smooth stone walls hollowed out by past eruptions, doors of magically reinforced brass, a smell of sulfur, and light provided by jets of flame in every hall and room.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/5-3.webp#center)
+
 #### Walls
 
 Some dungeons have walls of masonry. Others have walls of solid rock, hewn with tools to give them a rough, chiseled look, or worn smooth by the passage of water or lava. An aboveground dungeon might be made of wood or composite materials.
@@ -167,9 +173,11 @@ Dungeon doorways might be set within plain arches and lintels. They might be fes
 
 Dungeon doors often become stuck when not used frequently. Opening a stuck door requires a successful Strength check. Chapter 8, "Running the Game," provides guidelines for setting the DC.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/5-4.webp#center)
+
 ##### Locked Doors
 
-Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md) and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects.
+Characters who don't have the key to a locked door can pick the lock with a successful Dexterity check (doing so requires [thieves' tools](Compendium/items/thieves-tools.md) and proficiency in their use). They can also force the door with a successful Strength check, smash the door to pieces by dealing enough damage to it, or use a knock spell or similar magic. Chapter 8 provides guidelines for setting the DCs and assigning statistics to doors and other objects.
 
 ##### Barred Doors
 
@@ -181,17 +189,17 @@ A secret door is crafted to blend into the wall that surrounds it. Sometimes fai
 
 ##### Detecting a Secret Door
 
-Use the characters' passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) scores to determine whether anyone in the party notices a secret door without actively searching for it. Characters can also find a secret door by actively searching the location where the door is hidden and succeeding on a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check. To set an appropriate DC for the check, see chapter 8.
+Use the characters' passive Wisdom ([Perception](Rules/skills.md#Perception)) scores to determine whether anyone in the party notices a secret door without actively searching for it. Characters can also find a secret door by actively searching the location where the door is hidden and succeeding on a Wisdom ([Perception](Rules/skills.md#Perception)) check. To set an appropriate DC for the check, see chapter 8.
 
 ##### Opening a Secret Door
 
-Once a secret door is detected, a successful Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check might be required to determine how to open it if the opening mechanism isn't obvious. Set the DC according to the difficulty guidelines in chapter 8.
+Once a secret door is detected, a successful Intelligence ([Investigation](Rules/skills.md#Investigation)) check might be required to determine how to open it if the opening mechanism isn't obvious. Set the DC according to the difficulty guidelines in chapter 8.
 
 If adventurers can't determine how to open a secret door, breaking it down is always an option. Treat it as a locked door made of the same material as the surrounding wall, and use the guidelines in chapter 8 to determine appropriate DCs or statistics.
 
 #### Concealed Doors
 
-A concealed door is a normal door that is hidden from view. A secret door is carefully crafted to blend into its surrounding surface, whereas a concealed door is most often hidden by mundane means. It might be covered by a tapestry, covered with plaster, or (in the case of a concealed trapdoor) hidden under a rug. Normally, no ability check is required to find a concealed door. A character need only look in the right place or take the right steps to reveal the door. However, you can use the characters' passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) scores to determine whether any of them notices tracks or signs of a tapestry or rug having been recently disturbed.
+A concealed door is a normal door that is hidden from view. A secret door is carefully crafted to blend into its surrounding surface, whereas a concealed door is most often hidden by mundane means. It might be covered by a tapestry, covered with plaster, or (in the case of a concealed trapdoor) hidden under a rug. Normally, no ability check is required to find a concealed door. A character need only look in the right place or take the right steps to reveal the door. However, you can use the characters' passive Wisdom ([Perception](Rules/skills.md#Perception)) scores to determine whether any of them notices tracks or signs of a tapestry or rug having been recently disturbed.
 
 #### Portcullises
 
@@ -221,7 +229,7 @@ The hazards described here are but a few examples of the environmental dangers f
 
 #### Detecting a Hazard
 
-No ability check is required to spot a hazard unless it is hidden. A hazard that resembles something benign, such as a patch of slime or mold, can be correctly identified with a successful Intelligence ([Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)) check. Use the guidelines in chapter 8 to set an appropriate DC for any check made to spot or recognize a hazard.
+No ability check is required to spot a hazard unless it is hidden. A hazard that resembles something benign, such as a patch of slime or mold, can be correctly identified with a successful Intelligence ([Nature](Rules/skills.md#Nature)) check. Use the guidelines in chapter 8 to set an appropriate DC for any check made to spot or recognize a hazard.
 
 #### Hazard Severity
 
@@ -265,6 +273,8 @@ A good way to keep wilderness encounters from becoming stale is to make sure the
 
 Reward characters for searching while they travel by providing things for them to find. Broken statues, tracks, abandoned campsites, and other finds can add flavor to your world, foreshadow future encounters or events, or provide hooks for further adventures. A wilderness journey might take multiple sessions to play out. That said, if the wilderness journey includes long periods with no encounters, use the travel-montage approach to bridge gaps between encounters.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/5-5.webp#center)
+
 ## Mapping a Wilderness
 
 In contrast to a dungeon, an outdoor setting presents seemingly limitless options. The adventurers can move in any direction over a trackless desert or an open grassland, so how do you as the DM deal with all the possible locations and events that might make up a wilderness campaign? What if you design an encounter in a desert oasis, but the characters miss the oasis because they wander off course? How do you avoid creating a boring play session of uninterrupted slogging across a rocky wasteland?
@@ -295,7 +305,7 @@ If you expect the characters to explore a monster's lair, you'll need to find or
 
 In places where civilization rules or once ruled, adventurers might find monuments built to honor great leaders, gods, and cultures. Use the Monuments table for inspiration, or randomly roll to determine what monument the adventurers stumble upon.
 
-![Monuments](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monuments.md)
+![Monuments](Compendium/tables/monuments.md)
 
 #### Ruins
 
@@ -315,7 +325,7 @@ Strongholds provide the local population with protection in times of trouble. Th
 
 Weird locales make the fantastic and the supernatural an intrinsic part of your wilderness adventures.
 
-![Weird Locales](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/weird-locales.md)
+![Weird Locales](Compendium/tables/weird-locales.md)
 
 ## Wilderness Survival
 
@@ -325,31 +335,33 @@ Adventuring in the wilderness presents a host of perils beyond the threats of mo
 
 You can pick weather to fit your campaign or roll on the Weather table to determine the weather for a given day, adjusting for the terrain and season as appropriate.
 
-![Weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/weather.md)
+![Weather](Compendium/tables/weather.md)
 
-![Weather; Wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/weather-wind.md)
+![Weather; Wind](Compendium/tables/weather-wind.md)
 
-![Weather; Precipitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/weather-precipitation.md)
+![Weather; Precipitation](Compendium/tables/weather-precipitation.md)
+
+![](Compendium/books/dungeon-masters-guide-2014/img/5-6.webp#center)
 
 #### Extreme Cold
 
-Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
+Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of [exhaustion](Rules/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
 
 #### Extreme Heat
 
-When the temperature is at or above 100 degrees Fahrenheit, a creature exposed to the heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain one level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion). The DC is 5 for the first hour and increases by 1 for each additional hour.
+When the temperature is at or above 100 degrees Fahrenheit, a creature exposed to the heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain one level of [exhaustion](Rules/conditions.md#Exhaustion). The DC is 5 for the first hour and increases by 1 for each additional hour.
 
 Creatures wearing medium or heavy armor, or who are clad in heavy clothing, have disadvantage on the saving throw. Creatures with resistance or immunity to fire damage automatically succeed on the saving throw, as do creatures naturally adapted to hot climates.
 
 #### Strong Wind
 
-A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall.
+A strong wind imposes disadvantage on ranged weapon attack rolls and Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on hearing. A strong wind also extinguishes open flames, disperses fog, and makes flying by nonmagical means nearly impossible. A flying creature in a strong wind must land at the end of its turn or fall.
 
-A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on sight.
+A strong wind in a desert can create a sandstorm that imposes disadvantage on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight.
 
 #### Heavy Precipitation
 
-Everything within an area of heavy rain or heavy snowfall is lightly obscured, and creatures in the area have disadvantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on sight. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on hearing.
+Everything within an area of heavy rain or heavy snowfall is lightly obscured, and creatures in the area have disadvantage on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on hearing.
 
 ### High Altitude
 
@@ -357,29 +369,31 @@ Traveling at altitudes of 10,000 feet or higher above sea level is taxing for a 
 
 Breathing creatures can become acclimated to a high altitude by spending 30 days or more at this elevation. Breathing creatures can't become acclimated to elevations above 20,000 feet unless they are native to such environments.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/5-7.webp#center)
+
 ### Wilderness Hazards
 
 This section describes a few examples of hazards that adventurers might encounter in the wilderness.
 
 Some hazards, such as slippery ice and razorvine, require no ability check to spot. Others, such as defiled ground, are undetectable by normal senses.
 
-The other hazards presented here can be identified with a successful Intelligence ([Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)) check. Use the guidelines in chapter 8 to set an appropriate DC for any check made to spot or recognize a hazard.
+The other hazards presented here can be identified with a successful Intelligence ([Nature](Rules/skills.md#Nature)) check. Use the guidelines in chapter 8 to set an appropriate DC for any check made to spot or recognize a hazard.
 
 #### Desecrated Ground
 
-Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md) spell cast within range reveals its presence.
+Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [detect evil and good](Compendium/spells/detect-evil-and-good.md) spell cast within range reveals its presence.
 
 Undead standing on desecrated ground have advantage on all saving throws.
 
-A vial of [holy water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/holy-water-flask.md) purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [hallow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hallow.md) spell purifies desecrated ground within its area.
+A vial of [holy water](Compendium/items/holy-water-flask.md) purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [hallow](Compendium/spells/hallow.md) spell purifies desecrated ground within its area.
 
 #### Frigid Water
 
-A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
+A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of [exhaustion](Rules/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
 
 #### Quicksand
 
-A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `1d4+1` feet into the quicksand and becomes [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained). At the start of each of the creature's turns, it sinks another `1d4` feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
+A quicksand pit covers the ground in roughly a 10-foot square area and is usually 10 feet deep. When a creature enters the area, it sinks `1d4+1` feet into the quicksand and becomes [restrained](Rules/conditions.md#Restrained). At the start of each of the creature's turns, it sinks another `1d4` feet. As long as the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can't breathe (see the "suffocation" rules in the *Player's Handbook*).
 
 A creature can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check. The DC is 5 plus the number of feet the target creature has sunk into the quicksand.
 
@@ -391,7 +405,7 @@ When a creature comes into direct contact with razorvine for the first time on a
 
 #### Slippery Ice
 
-Slippery ice is difficult terrain. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a DC 10 Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check or fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).
+Slippery ice is difficult terrain. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a DC 10 Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check or fall [prone](Rules/conditions.md#Prone).
 
 #### Thin Ice
 
@@ -399,9 +413,9 @@ Thin ice has a weight tolerance of `3d10 × 10` pounds per 10-foot-square area. 
 
 ### Foraging
 
-Characters can gather food and water as the party travels at a normal or slow pace. A foraging character makes a Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) check whenever you call for it, with the DC determined by the abundance of food and water in the region.
+Characters can gather food and water as the party travels at a normal or slow pace. A foraging character makes a Wisdom ([Survival](Rules/skills.md#Survival)) check whenever you call for it, with the DC determined by the abundance of food and water in the region.
 
-![Foraging DCs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/foraging-dcs.md)
+![Foraging DCs](Compendium/tables/foraging-dcs.md)
 
 If multiple characters forage, each character makes a separate check. A foraging character finds nothing on a failed check. On a successful check, roll `1d6` + the character's Wisdom modifier to determine how much food (in pounds) the character finds, then repeat the roll for water (in gallons).
 
@@ -409,15 +423,15 @@ If multiple characters forage, each character makes a separate check. A foraging
 
 The food and water requirements noted in the Player's Handbook are for characters. Horses and other creatures require different quantities of food and water per day based on their size. Water needs are doubled if the weather is hot.
 
-![Food and Water Needs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/food-and-water-needs.md)
+![Food and Water Needs](Compendium/tables/food-and-water-needs.md)
 
 ### Becoming Lost
 
-Unless they are following a path, or something like it, adventurers traveling in the wilderness run the risk of becoming lost. The party's navigator makes a Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) check when you decide it's appropriate, against a DC determined by the prevailing terrain, as shown on the Wilderness Navigation table. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, and a fast pace imposes a -5 penalty. If the party has an accurate map of the region or can see the sun or stars, the navigator has advantage on the check.
+Unless they are following a path, or something like it, adventurers traveling in the wilderness run the risk of becoming lost. The party's navigator makes a Wisdom ([Survival](Rules/skills.md#Survival)) check when you decide it's appropriate, against a DC determined by the prevailing terrain, as shown on the Wilderness Navigation table. If the party is moving at a slow pace, the navigator gains a +5 bonus to the check, and a fast pace imposes a -5 penalty. If the party has an accurate map of the region or can see the sun or stars, the navigator has advantage on the check.
 
-If the Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `1d6` hours trying to get back on course.
+If the Wisdom ([Survival](Rules/skills.md#Survival)) check succeeds, the party travels in the desired direction without becoming lost. If the check fails, the party inadvertently travels in the wrong direction and becomes lost. The party's navigator can repeat the check after the party spends `1d6` hours trying to get back on course.
 
-![Becoming Lost; Wilderness Navigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/becoming-lost-wilderness-navigation.md)
+![Becoming Lost; Wilderness Navigation](Compendium/tables/becoming-lost-wilderness-navigation.md)
 
 ## Settlement
 
@@ -429,15 +443,17 @@ When creating a settlement for your campaign, focus on the locations that are mo
 
 The following tables allow you to quickly create a settlement. They assume that you've already determined its size and its basic form of government.
 
-![Random Settlements; Race Relations](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-settlements-race-relations.md)
+![](Compendium/books/dungeon-masters-guide-2014/img/5-8.webp#center)
 
-![Random Settlements; Ruler's Status](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-settlements-rulers-status.md)
+![Random Settlements; Race Relations](Compendium/tables/random-settlements-race-relations.md)
 
-![Random Settlements; Notable Traits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-settlements-notable-traits.md)
+![Random Settlements; Ruler's Status](Compendium/tables/random-settlements-rulers-status.md)
 
-![Random Settlements; Known For Its...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-settlements-known-for-its.md)
+![Random Settlements; Notable Traits](Compendium/tables/random-settlements-notable-traits.md)
 
-![Random Settlements; Current Calamity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-settlements-current-calamity.md)
+![Random Settlements; Known For Its...](Compendium/tables/random-settlements-known-for-its.md)
+
+![Random Settlements; Current Calamity](Compendium/tables/random-settlements-current-calamity.md)
 
 ## Random Buildings
 
@@ -445,19 +461,19 @@ Pulse-pounding chases and harrowing escapes within the confines of a town or cit
 
 If a roll makes no sense considering where the characters are (such as a lavish mansion in a rundown part of town), you can always roll again or simply choose another result. However, such unexpected results can prompt creativity and memorable locations that help make your urban encounters distinct.
 
-![Random Buildings; Building Type](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-buildings-building-type.md)
+![Random Buildings; Building Type](Compendium/tables/random-buildings-building-type.md)
 
-![Random Buildings; Residence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-buildings-residence.md)
+![Random Buildings; Residence](Compendium/tables/random-buildings-residence.md)
 
-![Random Buildings; Religious Building](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-buildings-religious-building.md)
+![Random Buildings; Religious Building](Compendium/tables/random-buildings-religious-building.md)
 
-![Random Buildings; Tavern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-buildings-tavern.md)
+![Random Buildings; Tavern](Compendium/tables/random-buildings-tavern.md)
 
-![Random Buildings; Tavern Name Generator](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-buildings-tavern-name-generator.md)
+![Random Buildings; Tavern Name Generator](Compendium/tables/random-buildings-tavern-name-generator.md)
 
-![Random Buildings; Warehouse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-buildings-warehouse.md)
+![Random Buildings; Warehouse](Compendium/tables/random-buildings-warehouse.md)
 
-![Random Buildings; Shop](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-buildings-shop.md)
+![Random Buildings; Shop](Compendium/tables/random-buildings-shop.md)
 
 ## Mapping a Settlement
 
@@ -466,6 +482,8 @@ When you draw a map for a settlement in your game, don't worry about the placeme
 For a village, sketch out the roads, including trade routes leading beyond the village and roads that connect outlying farms to the village center. Note the location of the village center. If the adventurers visit specific places in the village, mark those spots on your map.
 
 For towns and cities, note major roads and waterways as well as surrounding terrain. Outline the walls and mark the locations of features you know will be important: the lord's keep, significant temples, and the like. For cities, add internal walls and think about the personality of each ward. Give the wards names reflecting their personalities, which also identify the kinds of trades that dominate the neighborhood (Tannery Square, Temple Row), a geographical characteristic (Hilltop, Riverside), or a dominant site (the Lords' Quarter).
+
+![](Compendium/books/dungeon-masters-guide-2014/img/5-9.webp#center)
 
 ## Urban Encounters
 
@@ -489,7 +507,7 @@ A settlement might have a jail to hold accused criminals awaiting trial, but few
 
 The Random Urban Encounters table is useful for city—and town—based adventures. Check for a random encounter at least once per day, and once at night if the characters are out and about. Reroll the result if it doesn't make sense given the time of day.
 
-![Random Urban Encounters](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-urban-encounters.md)
+![Random Urban Encounters](Compendium/tables/random-urban-encounters.md)
 
 #### Animals on the Loose
 
@@ -535,7 +553,7 @@ A fire breaks out, and the characters have a chance to help put out the flames b
 
 The characters find a random trinket.
 
-You can determine the trinket by rolling on the [Trinkets table](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trinket.md) in the *Player's Handbook*.
+You can determine the trinket by rolling on the [Trinkets table](Compendium/items/trinket.md) in the *Player's Handbook*.
 
 #### Guard Harassment
 
@@ -545,7 +563,7 @@ The adventurers are cornered by `1d4 + 1` guards eager to throw their weight aro
 
 A thief (use the spy statistics in the Monster Manual) tries to steal from a random character.
 
-Characters whose passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) scores are equal to or greater than the thief's Dexterity ([Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)) check total catch the theft in progress.
+Characters whose passive Wisdom ([Perception](Rules/skills.md#Perception)) scores are equal to or greater than the thief's Dexterity ([Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)) check total catch the theft in progress.
 
 #### Procession
 
@@ -583,25 +601,27 @@ See chapter 9 of the Player's Handbook for rules on underwater combat.
 
 You can check for random undersea encounters as often as you would check for them on land (see chapter 3). The Random Undersea Encounters table presents several intriguing options. You can either roll on the table for a random result or choose whichever one works best.
 
-![Random Undersea Encounters](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-undersea-encounters.md)
+![Random Undersea Encounters](Compendium/tables/random-undersea-encounters.md)
+
+![](Compendium/books/dungeon-masters-guide-2014/img/5-10.webp#center)
 
 #### Swimming
 
-Unless aided by magic, a character can't swim for a full 8 hours per day. After each hour of swimming, a character must succeed on a DC 10 Constitution saving throw or gain one level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion).
+Unless aided by magic, a character can't swim for a full 8 hours per day. After each hour of swimming, a character must succeed on a DC 10 Constitution saving throw or gain one level of [exhaustion](Rules/conditions.md#Exhaustion).
 
 A creature that has a swimming speed—including a character with a ring of swimming or similar magic—can swim all day without penalty and uses the normal forced march rules in the *Player's Handbook*.
 
-Swimming through deep water is similar to traveling at high altitudes, because of the water's pressure and cold temperature. For a creature without a swimming speed, each hour spent swimming at a depth greater than 100 feet counts as 2 hours for the purpose of determining [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion). Swimming for an hour at a depth greater than 200 feet counts as 4 hours.
+Swimming through deep water is similar to traveling at high altitudes, because of the water's pressure and cold temperature. For a creature without a swimming speed, each hour spent swimming at a depth greater than 100 feet counts as 2 hours for the purpose of determining [exhaustion](Rules/conditions.md#Exhaustion). Swimming for an hour at a depth greater than 200 feet counts as 4 hours.
 
 #### Underwater Visibility
 
 Visibility underwater depends on water clarity and the available light. Unless the characters have light sources, use the Underwater Encounter Distance table to determine the distance at which characters underwater become aware of a possible encounter.
 
-![Underwater Encounter Distance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/underwater-encounter-distance.md)
+![Underwater Encounter Distance](Compendium/tables/underwater-encounter-distance.md)
 
 ### The Sea
 
-Characters can row a boat for 8 hours per day, or can row longer at the risk of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion) (as per the rules for a forced march in chapter 8 of the Player's Handbook). A fully crewed sailing vessel can sail all day, assuming its sailors work in shifts.
+Characters can row a boat for 8 hours per day, or can row longer at the risk of [exhaustion](Rules/conditions.md#Exhaustion) (as per the rules for a forced march in chapter 8 of the Player's Handbook). A fully crewed sailing vessel can sail all day, assuming its sailors work in shifts.
 
 #### Navigation
 
@@ -622,7 +642,7 @@ Use the Wilderness Navigation table below to determine whether a ship veers off 
 
 You can check for random encounters at sea as often as you would check for them on land (see chapter 3 for more information). The Random Encounters at Sea table presents a number of options and ideas
 
-![Random Encounters at Sea](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-encounters-at-sea.md)
+![Random Encounters at Sea](Compendium/tables/random-encounters-at-sea.md)
 
 #### Weather at Sea
 
@@ -631,6 +651,8 @@ Use the Weather table earlier in this chapter when checking for weather at sea.
 If weather conditions indicate both a strong wind and heavy rain, they combine to create a storm with high waves. A crew caught in a storm loses sight of all landmarks (unless there's a lighthouse or other bright feature), and ability checks made to navigate during the storm have disadvantage.
 
 In a dead calm (no wind), ships can't move under sail and must be rowed. A ship sailing against a strong wind moves at half speed.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/5-11.webp#center)
 
 #### Visibility
 
@@ -666,7 +688,7 @@ A ship has immunity to all damage unless it takes an amount of damage equal to o
 
 Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 hit point of damage requires 1 day and costs 20 gp for materials and labor.
 
-![Owning a Ship; Airborne and Waterborne Vehicles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/owning-a-ship-airborne-and-waterborne-vehicles.md)
+![Owning a Ship; Airborne and Waterborne Vehicles](Compendium/tables/owning-a-ship-airborne-and-waterborne-vehicles.md)
 
 ### The Sky
 
@@ -677,6 +699,8 @@ Flying by spell or magic item works the same as travel on foot, as described in 
 As adventurers travel through the air, check for random encounters as you normally would. Ignore any result that indicates a non-flying monster, unless the characters are flying close enough to the ground to be targeted by non-flying creatures making ranged attacks.
 
 Characters have normal chances to spot creatures on the ground and can decide whether to engage them.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/5-12.webp#center)
 
 ## Traps
 
@@ -696,9 +720,11 @@ Most traps are triggered when a creature goes somewhere or touches something tha
 
 Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
 
-A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check for a character to deduce what needs to be done, followed by a Dexterity check using [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md) to perform the necessary sabotage.
+![](Compendium/books/dungeon-masters-guide-2014/img/5-13.webp#center)
 
-Any character can attempt an Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, dispel magic has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use dispel magic.
+A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom ([Perception](Rules/skills.md#Perception)) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom ([Perception](Rules/skills.md#Perception)) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence ([Investigation](Rules/skills.md#Investigation)) check for a character to deduce what needs to be done, followed by a Dexterity check using [thieves' tools](Compendium/items/thieves-tools.md) to perform the necessary sabotage.
+
+Any character can attempt an Intelligence ([Arcana](Rules/skills.md#Arcana)) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, dispel magic has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use dispel magic.
 
 In most cases, a trap's description is clear enough that you can adjudicate whether a character's actions locate or foil the trap. As with many situations, you shouldn't allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap's description to determine what happens. No trap's design can anticipate every possible action that the characters might attempt.
 
@@ -716,9 +742,9 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A *deadly* trap is likely to kill characters of the indicated levels.
 
-![Trap Effects; Trap Save DCs and Attack Bonuses](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/trap-effects-trap-save-dcs-and-attack-bonuses.md)
+![Trap Effects; Trap Save DCs and Attack Bonuses](Compendium/tables/trap-effects-trap-save-dcs-and-attack-bonuses.md)
 
-![Trap Effects; Damage Severity by Level](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/trap-effects-damage-severity-by-level.md)
+![Trap Effects; Damage Severity by Level](Compendium/tables/trap-effects-damage-severity-by-level.md)
 
 #### Complex Traps
 
@@ -727,6 +753,8 @@ Complex traps work like standard traps, except once activated they execute a ser
 When a complex trap activates, it rolls initiative. The trap's description includes an initiative bonus. On its turn, the trap activates again, often taking an action. It might make successive attacks against intruders, create an effect that changes over time, or otherwise produce a dynamic challenge. Otherwise, the complex trap can be detected and disabled or bypassed in the usual ways.
 
 For example, a trap that causes a room to slowly flood works best as a complex trap. On the trap's turn, the water level rises. After several rounds, the room is completely flooded.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/5-14.webp#center)
 
 ### Sample Traps
 

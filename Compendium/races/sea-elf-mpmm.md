@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/sea-elf
 aliases:
-- Sea Elf
+- "Sea Elf"
 ---
 # Sea Elf
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 30*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/sea-elf.webp#right)
+![](Compendium/races/img/sea-elf.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: humanoid
@@ -36,7 +37,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](Rules/conditions.md#Charmed) condition on yourself.
 
 ### Friend of the Sea
 
@@ -44,7 +45,7 @@ Aquatic animals have an extraordinary affinity with your people. You can communi
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception) skill.
+You have proficiency in the [Perception](Rules/skills.md#Perception) skill.
 
 ### Trance
 
@@ -60,9 +61,9 @@ Like other elves, sea elves can live to be over 750 years old.
 
 > [!note] Elves of Many Realms
 > 
-> Created by the god [Corellon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/elven-corellon-larethian-mtf.md), the first elves were Fey beings who cavorted on various planes of existence, changing their physical forms at will. Outside the glory of Arvandor, their favorite place was the feywild—a realm of unbridled passion. It was to that place of splendors that elves fled after they were exiled from [Corellon's](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/elven-corellon-larethian-mtf.md) presence for plotting with their god's rival, [Lolth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-lolth-mtf.md). And it was there that they transformed from Fey creatures into Humanoids and lost their ability to shape-shift at will. Afterward, they often wept as they realized what they had lost, their sorrow made even deeper by the Feywild's influence. But in the Feywild, they also discovered the potential joys of being people of fixed forms, and they rediscovered hope once they renounced [Lolth's](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-lolth-mtf.md) treachery.
+> Created by the god [Corellon](Compendium/deities/elven-corellon-larethian-mtf.md), the first elves were Fey beings who cavorted on various planes of existence, changing their physical forms at will. Outside the glory of Arvandor, their favorite place was the feywild—a realm of unbridled passion. It was to that place of splendors that elves fled after they were exiled from [Corellon's](Compendium/deities/elven-corellon-larethian-mtf.md) presence for plotting with their god's rival, [Lolth](Compendium/deities/drow-lolth-mtf.md). And it was there that they transformed from Fey creatures into Humanoids and lost their ability to shape-shift at will. Afterward, they often wept as they realized what they had lost, their sorrow made even deeper by the Feywild's influence. But in the Feywild, they also discovered the potential joys of being people of fixed forms, and they rediscovered hope once they renounced [Lolth's](Compendium/deities/drow-lolth-mtf.md) treachery.
 > 
-> Most elves eventually spread from the Feywild to other worlds, as wanderlust and curiosity drove them to the far reaches of the multiverse. In those other worlds, elves developed the physical forms now associated with them. Because of their original mutable nature, each group of elves mystically took on characteristics of the environment with which they bonded, whether forests ([wood elves](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/elf-wood.md)), fey crossings in the Material Plane ([high elves](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/elf-high.md)), the Underdark ([drow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/elf-drow.md)), the Shadowfell ([shadar-kai](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/shadar-kai-mpmm.md)), the Feywild ([eladrin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/eladrin-mpmm.md)), or oceans ([sea elves](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/sea-elf-mpmm.md)).
+> Most elves eventually spread from the Feywild to other worlds, as wanderlust and curiosity drove them to the far reaches of the multiverse. In those other worlds, elves developed the physical forms now associated with them. Because of their original mutable nature, each group of elves mystically took on characteristics of the environment with which they bonded, whether forests ([wood elves](Compendium/races/elf-wood.md)), fey crossings in the Material Plane ([high elves](Compendium/races/elf-high.md)), the Underdark ([drow](Compendium/races/elf-drow.md)), the Shadowfell ([shadar-kai](Compendium/races/shadar-kai-mpmm.md)), the Feywild ([eladrin](Compendium/races/eladrin-mpmm.md)), or oceans ([sea elves](Compendium/races/sea-elf-mpmm.md)).
 > 
-> In some places, [Corellon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/elven-corellon-larethian-mtf.md) has passed from elves' memory, but the god's blood flows within them still, even if they know nothing of its source. That blood is what causes them to evolve after spending centuries connected to a particular environment, so it is only a matter of time before other kinds of elves emerge.
+> In some places, [Corellon](Compendium/deities/elven-corellon-larethian-mtf.md) has passed from elves' memory, but the god's blood flows within them still, even if they know nothing of its source. That blood is what causes them to evolve after spending centuries connected to a particular environment, so it is only a matter of time before other kinds of elves emerge.
 ^elves-of-many-realms

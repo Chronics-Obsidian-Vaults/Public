@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/1-4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Booyahg Whip
+- "Booyahg Whip"
 ---
-# [Booyahg Whip](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/booyahg-whip-vgm.md)
+# [Booyahg Whip](Compendium/bestiary/humanoid/booyahg-whip-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  
 
 Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `1d3` other goblins that slavishly obey its orders.
@@ -31,8 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -45,18 +45,20 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+  - "[shortbow](Compendium/items/shortbow.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "traits":
-  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The goblin can take the [Disengage](Rules/actions.md#Disengage) or [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action on each of its turns."
     "name": "Nimble Escape"
   - "desc": "Khurgorbaeyag saw fit to gift this goblin with powers that enable it\
-      \ to dominate others. The goblin has 1d3 other [goblins](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/goblin.md)\
+      \ to dominate others. The goblin has 1d3 other [goblins](Compendium/bestiary/humanoid/goblin.md)\
       \ that slavishly obey its orders."
     "name": "Khurgorbaeyag's Gift"
 "actions":
@@ -68,6 +70,6 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     "name": "Shortbow"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/booyahg-whip-vgm.webp"
+"image": "Compendium/bestiary/humanoid/token/booyahg-whip-vgm.webp"
 ```
 ^statblock

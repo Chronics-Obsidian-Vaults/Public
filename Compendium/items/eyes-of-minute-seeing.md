@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Eyes of Minute Seeing"
 item_type: 
 item_subtype: 
@@ -17,6 +18,6 @@ attunement: none
 
 
 
-These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) checks that rely on sight while searching an area or studying an object within that range.
+These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence ([Investigation](Rules/skills.md#Investigation)) checks that rely on sight while searching an area or studying an object within that range.
 
 *Source: Dungeon Master's Guide p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

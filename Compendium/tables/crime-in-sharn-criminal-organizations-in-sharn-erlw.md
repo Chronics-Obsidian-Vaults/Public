@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Crime in Sharn; Criminal Organizations in Sharn
+- "Crime in Sharn; Criminal Organizations in Sharn"
 ---
 # Crime in Sharn; Criminal Organizations in Sharn
 *Source: Eberron: Rising from the Last War p. 245* 

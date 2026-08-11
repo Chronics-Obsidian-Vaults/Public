@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Dwarves in the Clan; Clan's Status
+- "Dwarves in the Clan; Clan's Status"
 ---
 # Dwarves in the Clan; Clan's Status
 *Source: Mordenkainen's Tome of Foes p. 82* 

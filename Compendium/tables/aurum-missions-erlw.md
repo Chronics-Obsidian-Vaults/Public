@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Aurum Missions
+- "Aurum Missions"
 ---
 # Aurum Missions
 *Source: Eberron: Rising from the Last War p. 188* 

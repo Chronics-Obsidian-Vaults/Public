@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Mind Flayer; Mind Flayer Personality Traits
+- "Roleplaying a Mind Flayer; Mind Flayer Personality Traits"
 ---
 # Roleplaying a Mind Flayer; Mind Flayer Personality Traits
 *Source: Volo's Guide to Monsters p. 74* 

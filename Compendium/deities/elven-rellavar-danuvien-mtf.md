@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/elven
 - source/domain/tempest
-aliases: 
-- Rellavar Danuvien
+aliases:
+- "Rellavar Danuvien"
 ---
 # Rellavar Danuvien
 *Source: Mordenkainen's Tome of Foes p. 43* 

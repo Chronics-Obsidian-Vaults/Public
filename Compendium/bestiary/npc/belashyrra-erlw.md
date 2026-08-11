@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/22
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Belashyrra
+- "Belashyrra"
 ---
-# [Belashyrra](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/belashyrra-erlw.md)
+# [Belashyrra](Compendium/bestiary/npc/belashyrra-erlw.md)
 *Source: Eberron: Rising from the Last War p. 286*  
 
 Belashyrra is the Lord of Eyes, also known to its cultists as the All-Seer or the Glorious Eye. Stories told of Belashyrra in the Shadow Marches whisper that the Lord of Eyes can see every evil deed a person commits, and that those touched by this daelkyr suffer terrible hallucinations that inevitably drive them to violence or death.
@@ -24,7 +25,7 @@ Belashyrra sees mortals as raw materials to be exploited or insects to be exterm
 
 ## Belashyrra's Cults
 
-The Lord of Eyes has followers across Khorvaire, and its cults are typically driven by mad visions. Devoted cultists can grow eyes in unusual locations, and might have [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) or other supernatural abilities when they view the world through those eyes. Beholderkin often advise or lead Belashyrra's cults, and cultists typically treat these aberrations as divine beings.
+The Lord of Eyes has followers across Khorvaire, and its cults are typically driven by mad visions. Devoted cultists can grow eyes in unusual locations, and might have [darkvision](Rules/senses.md#Darkvision) or other supernatural abilities when they view the world through those eyes. Beholderkin often advise or lead Belashyrra's cults, and cultists typically treat these aberrations as divine beings.
 
 ## Belashyrra's Lair
 
@@ -71,26 +72,21 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
   - "wisdom": !!int "13"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+14"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+13"
 "damage_resistances": "poison, psychic"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 23"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 23"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "22"
 "traits":
   - "desc": "If a creature tries to read Belashyrra's thoughts or deals psychic damage\
       \ to it, that creature must succeed on a DC 22 Intelligence saving throw or\
-      \ be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. The [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ be [stunned](Rules/conditions.md#Stunned) for 1 minute. The [stunned](Rules/conditions.md#Stunned)\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Alien Mind"
@@ -123,22 +119,21 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
       \ If this damage reduces a creature to 0 hit points, it dies and transforms\
       \ into a spectator under Belashyrra's control and acts immediately after Belashyrra\
       \ in the initiative order. The target can't be returned to its original form\
-      \ by any means short of a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell.  \n- **2. Domination Ray.** The target must succeed on a DC 22 Wisdom\
-      \ saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by Belashyrra for 1 minute or until the target takes damage. Belashyrra can\
-      \ issue telepathic commands to the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ by any means short of a [wish](Compendium/spells/wish.md) spell.  \n- **2.\
+      \ Domination Ray.** The target must succeed on a DC 22 Wisdom saving throw or\
+      \ be [charmed](Rules/conditions.md#Charmed) by Belashyrra for 1 minute or until\
+      \ the target takes damage. Belashyrra can issue telepathic commands to the [charmed](Rules/conditions.md#Charmed)\
       \ creature (no action required), which it does its best to obey.  \n- **3. Mind-Weakening\
       \ Ray.** The target must succeed on a DC 22 Intelligence saving throw or take\
       \ 36 (8d8) psychic damage and be unable to cast spells or activate magic items\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- **4. Blinding Ray.**\
       \ The target and each creature within 10 feet of it must succeed on a DC 22\
-      \ Constitution saving throw or take 19 (3d12) radiant damage and be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ for 1 minute. Until this blindness ends, Belashyrra can see through the [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ creature's eyes. The [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success.  "
+      \ Constitution saving throw or take 19 (3d12) radiant damage and be [blinded](Rules/conditions.md#Blinded)\
+      \ for 1 minute. Until this blindness ends, Belashyrra can see through the [blinded](Rules/conditions.md#Blinded)\
+      \ creature's eyes. The [blinded](Rules/conditions.md#Blinded) creature can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success.  "
     "name": "Eye Ray"
 "lair_actions":
   - "desc": "While within the Citadel of Lidless Eyes, Belashyrra can invoke the ambient\
@@ -147,14 +142,14 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
       \ can't use the same effect two rounds in a row:\n\n- An eye opens on a solid\
       \ surface within 60 feet of Belashyrra. One random eye ray of Belashyrra's shoots\
       \ from that eye at a target of Belashyrra's choice that it can see. The eye\
-      \ then closes and disappears.  \n- Belashyrra creates a [wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wave.md)\
+      \ then closes and disappears.  \n- Belashyrra creates a [wave](Compendium/items/wave.md)\
       \ of madness. Each creature it can see within its lair must succeed on a DC\
-      \ 22 Wisdom saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ for 1 minute. While [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ in this way, a creature must use its action at the start of its turn before\
-      \ moving to make a melee attack against another creature of Belashyrra's choice\
-      \ within reach. If there are no creatures within reach, the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ creature can act normally for that turn. A [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ 22 Wisdom saving throw or be [charmed](Rules/conditions.md#Charmed) for 1\
+      \ minute. While [charmed](Rules/conditions.md#Charmed) in this way, a creature\
+      \ must use its action at the start of its turn before moving to make a melee\
+      \ attack against another creature of Belashyrra's choice within reach. If there\
+      \ are no creatures within reach, the [charmed](Rules/conditions.md#Charmed)\
+      \ creature can act normally for that turn. A [charmed](Rules/conditions.md#Charmed)\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success.  \n- Belashyrra taps into the eyesight\
       \ of creatures in its lair and alters their perception. Each creature of Belashyrra's\
@@ -192,10 +187,10 @@ If a creature goes mad in Belashyrra's lair or while it can see the daelkyr, it 
     "name": "Implant Fear (Costs 2 Actions)"
   - "desc": "Belashyrra rips at the bonds of reality in its immediate area. Each creature\
       \ within 10 feet of Belashyrra must succeed on a DC 22 Constitution saving throw\
-      \ or take 19 (3d12) force damage and gain one level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)."
+      \ or take 19 (3d12) force damage and gain one level of [exhaustion](Rules/conditions.md#Exhaustion)."
     "name": "Rend Reality (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/belashyrra-erlw.webp"
+"image": "Compendium/bestiary/npc/token/belashyrra-erlw.webp"
 ```
 ^statblock

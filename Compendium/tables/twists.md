@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Twists
+- "Twists"
 ---
 # Twists
 *Source: Dungeon Master's Guide p. 80* 

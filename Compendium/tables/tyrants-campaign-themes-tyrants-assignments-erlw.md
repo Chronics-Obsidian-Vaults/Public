@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Tyrants Campaign Themes; Tyrants Assignments
+- "Tyrants Campaign Themes; Tyrants Assignments"
 ---
 # Tyrants Campaign Themes; Tyrants Assignments
 *Source: Eberron: Rising from the Last War p. 255* 

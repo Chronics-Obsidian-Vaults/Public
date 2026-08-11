@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/9
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Master of Cruelties
+- "Master of Cruelties"
 ---
-# [Master of Cruelties](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/master-of-cruelties-ggr.md)
+# [Master of Cruelties](Compendium/bestiary/fiend/master-of-cruelties-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 196*  
 
 When a master of cruelties steps up as ringleader of a Rakdos show, the audience can be assured of a performance they will remember for the rest of their lives—however brief that might be.
@@ -24,13 +25,13 @@ Just as angels are incarnations of the ideals of justice, demons embody depraved
 
 Demons are agents of destruction that work their acts of terror in plain sight under the auspices of the Cult of Rakdos. They exhibit their cruelty in dramatic performances that leave the audience members blood-soaked but ecstatic. They incite mob riots that raze entire city blocks. The only thing demons fear is Rakdos himself, who doesn't tolerate rivals and hates to be upstaged.
 
-### Demonic "Devils."
+### Demonic "Devils"
 
-The creatures called "devils" in Ravnica are minor demons akin to [quasits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/quasit.md). While the larger demons embody evil qualities such as blood lust and torment, these lesser demons reflect the whimsical and chaotic side of Rakdos and his cult. Their mischievous antics cause disorder and destruction out of proportion to the demons' small size.
+The creatures called "devils" in Ravnica are minor demons akin to [quasits](Compendium/bestiary/fiend/quasit.md). While the larger demons embody evil qualities such as blood lust and torment, these lesser demons reflect the whimsical and chaotic side of Rakdos and his cult. Their mischievous antics cause disorder and destruction out of proportion to the demons' small size.
 
 ### Diabolic Demons
 
-Many of the demons of Ravnica are monstrous, winged creatures of human-like form. They are best represented by the statistics of the [nalfeshnee](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nalfeshnee.md), the [shadow demon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/shadow-demon.md), or the [vrock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/vrock.md) in the Monster Manual. Demons associated with the Cult of Rakdos often have fiery attacks that make them similar to barbed devils or horned devils, except that they are demons. (They are chaotic evil, they speak Abyssal and not Infernal, and they lack Devil's Sight.)
+Many of the demons of Ravnica are monstrous, winged creatures of human-like form. They are best represented by the statistics of the [nalfeshnee](Compendium/bestiary/fiend/nalfeshnee.md), the [shadow demon](Compendium/bestiary/fiend/shadow-demon.md), or the [vrock](Compendium/bestiary/fiend/vrock.md) in the Monster Manual. Demons associated with the Cult of Rakdos often have fiery attacks that make them similar to barbed devils or horned devils, except that they are demons. (They are chaotic evil, they speak Abyssal and not Infernal, and they lack Devil's Sight.)
 
 ```statblock
 "name": "Master of Cruelties (GGR)"
@@ -39,7 +40,7 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "127"
 "hit_dice": "15d10 + 45"
 "modifier": !!int "3"
@@ -57,28 +58,29 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+9"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+9"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+9"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+9"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 13"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 13"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "9"
 "traits":
   - "desc": "The master's innate spellcasting ability is Charisma (spell save DC 17).\
       \ The master can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md)\
-      \ (as a 3rd-level spell), [crown of madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md)\n\
-      \n**1/day:** [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md)"
+      \n**At will:** [charm person](Compendium/spells/charm-person.md) (as a 3rd-level\
+      \ spell), [crown of madness](Compendium/spells/crown-of-madness.md)\n\n**1/day:**\
+      \ [dominate person](Compendium/spells/dominate-person.md)"
     "name": "Innate Spellcasting"
   - "desc": "When any other creature starts its turn within 30 feet of the master,\
       \ that creature must succeed on a DC 17 Wisdom saving throw, or it must immediately\
@@ -102,15 +104,15 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
       \ damage."
     "name": "Spear"
   - "desc": "Each creature within 120 feet of the master must succeed on a DC 17 Wisdom\
-      \ saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the master for 1 hour. While [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ in this way, a creature's speed is 0. If the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ creature takes damage, it can repeat the saving throw, ending the effect on\
-      \ itself on a success. A target that succeeds on the saving throw is immune\
-      \ to the Captivating Presence of all masters of cruelties for the next 24 hours."
+      \ saving throw or be [charmed](Rules/conditions.md#Charmed) by the master for\
+      \ 1 hour. While [charmed](Rules/conditions.md#Charmed) in this way, a creature's\
+      \ speed is 0. If the [charmed](Rules/conditions.md#Charmed) creature takes damage,\
+      \ it can repeat the saving throw, ending the effect on itself on a success.\
+      \ A target that succeeds on the saving throw is immune to the Captivating Presence\
+      \ of all masters of cruelties for the next 24 hours."
     "name": "Captivating Presence (Recharge 6)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/master-of-cruelties-ggr.webp"
+"image": "Compendium/bestiary/fiend/token/master-of-cruelties-ggr.webp"
 ```
 ^statblock

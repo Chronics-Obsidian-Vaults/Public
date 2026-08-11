@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cosmotronic Blastseeker
+- "Cosmotronic Blastseeker"
 ---
-# [Cosmotronic Blastseeker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/cosmotronic-blastseeker-ggr.md)
+# [Cosmotronic Blastseeker](Compendium/bestiary/humanoid/cosmotronic-blastseeker-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 242*  
 
 While chemisters focus on inventing new tools, weapons, and other devices for the guild to use, the role of a blastseeker is to put those devices to work. Despite the name, not all such devices produce explosions, but all the most interesting ones (from the Izzet perspective) do.
@@ -23,7 +24,7 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
 "subtype": "any race"
 "alignment": "Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md)"
 "hp": !!int "37"
 "hit_dice": "5d8 + 15"
 "modifier": !!int "2"
@@ -39,12 +40,14 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
   - "dexterity": !!int "4"
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+1"
+"gear":
+  - "[warhammer](Compendium/items/warhammer.md)"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "4"
@@ -52,10 +55,9 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
   - "desc": "The blastseeker's innate spellcasting ability is Intelligence (spell\
       \ save DC 14, +6 to hit with spell attacks). The blastseeker can innately cast\
       \ the following spells, requiring no components other than its Izzet gear, which\
-      \ doesn't function for others:\n\n**3/day each:** [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md),\
-      \ [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md)\n\
-      \n**2/day:** [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)"
+      \ doesn't function for others:\n\n**3/day each:** [scorching ray](Compendium/spells/scorching-ray.md),\
+      \ [shield](Compendium/spells/shield.md), [thunderwave](Compendium/spells/thunderwave.md)\n\
+      \n**2/day:** [fireball](Compendium/spells/fireball.md)"
     "name": "Innate Spellcasting"
   - "desc": "When the blastseeker rolls damage for a spell, it can reroll up to four\
       \ dice of damage. It must use the new dice."
@@ -70,6 +72,6 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
     "name": "Warhammer"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/cosmotronic-blastseeker-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/cosmotronic-blastseeker-ggr.webp"
 ```
 ^statblock

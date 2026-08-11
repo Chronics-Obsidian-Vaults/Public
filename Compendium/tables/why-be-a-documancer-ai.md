@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Why Be a Documancer?
+- "Why Be a Documancer?"
 ---
 # Why Be a Documancer?
 *Source: Acquisitions Incorporated p. 24* 

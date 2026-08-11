@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Artifact Properties; Major Beneficial Properties
+- "Artifact Properties; Major Beneficial Properties"
 ---
 # Artifact Properties; Major Beneficial Properties
 *Source: Dungeon Master's Guide p. 219* 
@@ -22,5 +22,5 @@ aliases:
 | 61-70 | As 51-60 above, except the spell is 5th level. |
 | 71-80 | As 51-60 above, except the spell is 6th level. |
 | 81-90 | As 51-60 above, except the spell is 7th level. |
-| 91-00 | While attuned to the artifact, you can't be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened), [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified), or [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned). |
+| 91-00 | While attuned to the artifact, you can't be [blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened), [petrified](Rules/conditions.md#Petrified), or [stunned](Rules/conditions.md#Stunned). |
 ^major-beneficial-properties

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Team Building
+- "Downtime and Franchise Activity: Team Building"
 ---
 # Downtime and Franchise Activity: Team Building
 *Source: Acquisitions Incorporated p. 45* 
@@ -22,7 +22,7 @@ Team building requires the involvement of at least two characters, or a characte
 
 Each character or staff member participating in team building chooses another participant, then creates a negative story connection to a bond, ideal, or similar element of that participant's backstory. The players come up with such connections for their own characters. The DM creates connections for franchise staff, either on their own or in consultation with the players. (Characters and staff members do not need to pair up. If everyone else in the franchise has a particular problem with one character, so be it.)
 
-Each character and staff member then makes a Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check. With the DM's approval, different ability checks and skills might be allowed if they relate to the specifics of the team building exercise. A participant has advantage on their check if the DM decides the story connection was particularly clever or well roleplayed. All checks gain a +1 bonus if one of the characters taking part in the activity is a decisionist.
+Each character and staff member then makes a Wisdom ([Insight](Rules/skills.md#Insight)) check. With the DM's approval, different ability checks and skills might be allowed if they relate to the specifics of the team building exercise. A participant has advantage on their check if the DM decides the story connection was particularly clever or well roleplayed. All checks gain a +1 bonus if one of the characters taking part in the activity is a decisionist.
 
 Each check is compared to the Team Building table. The outcome of the check can help redefine the relationships between individual characters, and can establish the tone of roleplaying between characters and franchise staff. Some outcomes also involve a team building memory that provides a potent benefit (see below).
 
@@ -39,11 +39,11 @@ Each check is compared to the Team Building table. The outcome of the check can 
 
 ## Team Building Memories
 
-The most potent personal changes inspired by team building can last a lifetime. Or at least an encounter. A character who earns a team building memory gains an extraordinary ability that can be used once. As a bonus action, the character gains one effect of the [enhance ability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enhance-ability.md) spell for 10 minutes (no [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) required).
+The most potent personal changes inspired by team building can last a lifetime. Or at least an encounter. A character who earns a team building memory gains an extraordinary ability that can be used once. As a bonus action, the character gains one effect of the [enhance ability](Compendium/spells/enhance-ability.md) spell for 10 minutes (no [concentration](Rules/conditions.md#Concentration) required).
 
 A character can retain team building memories only from the most recent instance of this activity. If a character has unused team building memories and undertakes this activity again, those memories are lost.
 
-> [!quote] A quote from [Môrgæn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/morgn-ai.md)  
+> [!quote] A quote from [Môrgæn](Compendium/bestiary/npc/morgn-ai.md)  
 > 
 > Wait, we're a team? I thought we were independent entities with temporarily aligned goals.
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/7
@@ -10,12 +11,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Draegloth
+- "Draegloth"
 ---
-# [Draegloth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/draegloth-mpmm.md)
+# [Draegloth](Compendium/bestiary/fiend/draegloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*  
 
-A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [glabrezu](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/glabrezu.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
+A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [glabrezu](Compendium/bestiary/fiend/glabrezu.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 
 A draegloth is an ogre-sized, four-armed biped with purple skin and pale hair. Two of its arms are muscular, tipped with sharp claws; the other two are the size and shape of an elf's arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful like an elf. Its bestial face features glowing red eyes, a doglike snout, and a mouth full of sharp teeth.
 
@@ -43,19 +44,18 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 13"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 13"
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "7"
 "traits":
-  - "desc": "The draegloth has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The draegloth has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put it to sleep."
     "name": "Fey Ancestry"
 "actions":
@@ -69,15 +69,13 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
     "name": "Claw"
   - "desc": "The draegloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
-      \n**At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md)\n\
-      \n**1/day each:** [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md)"
+      \n**At will:** [dancing lights](Compendium/spells/dancing-lights.md), [darkness](Compendium/spells/darkness.md)\n\
+      \n**1/day each:** [confusion](Compendium/spells/confusion.md), [faerie fire](Compendium/spells/faerie-fire.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/draegloth-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/draegloth-mpmm.webp"
 ```
 ^statblock
 

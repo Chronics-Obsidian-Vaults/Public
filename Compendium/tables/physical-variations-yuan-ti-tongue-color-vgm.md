@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Yuan-ti Tongue Color
+- "Physical Variations; Yuan-ti Tongue Color"
 ---
 # Physical Variations; Yuan-ti Tongue Color
 *Source: Volo's Guide to Monsters p. 97* 

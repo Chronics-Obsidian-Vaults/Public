@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/background/izzet-engineer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/feat/aberrant-dragonmark
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/feat/magic-initiate/sorcerer-spells
 - source/spell/level/1st-level
 - source/spell/school/evocation
@@ -14,7 +16,7 @@ classes:
 - Bard (Magical Secrets)
 - Sorcerer
 aliases:
-- Chaos Bolt
+- "Chaos Bolt"
 level: 1
 school: evocation
 ritual: false
@@ -56,6 +58,6 @@ A creature can be targeted only once by each casting of this spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes `1d6` extra damage of the type rolled for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md)
 
 *Source: Xanathar's Guide to Everything p. 151, Guildmasters' Guide to Ravnica*

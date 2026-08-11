@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Moonblade"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -15,13 +16,13 @@ rarity: legendary
 attunement: required
 ---
 # Moonblade
-*Weapon ([longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md)), legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/moonblade.webp#right)
+*Weapon ([longsword](Compendium/items/longsword.md)), legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
+![Moonblade (Longsword)](Compendium/items/img/moonblade.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 Of all the magic items created by the elves, one of the most prized and jealously guarded is a moon blade. In ancient times, nearly all elven noble houses claimed one such blade. Over the centuries, some blades have faded from the world, their magic lost as family lines have become extinct. Other blades have vanished with their bearers during great quests. Thus, only a few of these weapons remain.
@@ -39,22 +40,22 @@ A moonblade has one rune on its blade for each master it has served (typically `
 | dice: d100 | Property |
 |------------|----------|
 | 01-40 | Increase the bonus to attack and damage rolls by 1, to a maximum of +3. Reroll if the moonblade already has a +3 bonus. |
-| 41-80 | The moonblade gains a randomly determined [minor property](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/special-features-what-minor-property-does-it-have.md) (see "Special Features" DMG p143). |
+| 41-80 | The moonblade gains a randomly determined [minor property](Compendium/tables/special-features-what-minor-property-does-it-have.md) (see "Special Features" DMG p143). |
 | 81-82 | The moonblade gains the finesse property. |
 | 83-84 | The moonblade gains the thrown property (range 20/60 feet). |
-| 85-86 | The moonblade functions as a [defender](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/defender.md). |
+| 85-86 | The moonblade functions as a [defender](Compendium/items/defender.md). |
 | 87-90 | The moon blade scores a critical hit on a roll of 19 or 20. |
 | 91-92 | When you hit with an attack using the moon blade, the attack deals an extra `1d6` slashing damage. |
 | 93-94 | When you hit a creature of a specific type (such as dragon, fiend, or undead) with the moonblade, the target takes an extra `1d6` damage of one of these types: acid, cold, fire, lightning, or thunder. |
-| 95-96 | You can use a bonus action to cause the moonblade to flash brightly. Each creature that can see you and is within 30 feet of you must succeed on a DC 15 Constitution saving throw or become [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until you take a short rest while attuned to the weapon. |
-| 97-98 | The moonblade functions as a [ring of spell storing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-spell-storing.md). |
-| 99 | You can use an action to call forth an elfshadow, provided that you don't already have one serving you. The elfshadow appears in an unoccupied space within 120 feet of you. It uses the statistics for a [shadow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/shadow.md), except it is neutral, immune to effects that turn undead, and doesn't create new shadows. You control this creature, deciding how it acts and moves. It remains until it drops to 0 hit points or you dismiss it as an action. |
-| 00 | The moonblade functions as a [vorpal sword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/vorpal-sword.md). |
+| 95-96 | You can use a bonus action to cause the moonblade to flash brightly. Each creature that can see you and is within 30 feet of you must succeed on a DC 15 Constitution saving throw or become [blinded](Rules/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until you take a short rest while attuned to the weapon. |
+| 97-98 | The moonblade functions as a [ring of spell storing](Compendium/items/ring-of-spell-storing.md). |
+| 99 | You can use an action to call forth an elfshadow, provided that you don't already have one serving you. The elfshadow appears in an unoccupied space within 120 feet of you. It uses the statistics for a [shadow](Compendium/bestiary/undead/shadow.md), except it is neutral, immune to effects that turn undead, and doesn't create new shadows. You control this creature, deciding how it acts and moves. It remains until it drops to 0 hit points or you dismiss it as an action. |
+| 00 | The moonblade functions as a [vorpal sword](Compendium/items/vorpal-sword.md). |
 ^moonblade-properties
 
 ## Sentience
 
-A moon blade is a sentient neutral good weapon with an Intelligence of 12, a Wisdom of 10, and a Charisma of 12. It has hearing and [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 120 feet.
+A moon blade is a sentient neutral good weapon with an Intelligence of 12, a Wisdom of 10, and a Charisma of 12. It has hearing and [darkvision](Rules/senses.md#Darkvision) out to a range of 120 feet.
 
 The weapon communicates by transmitting emotions, sending a tingling sensation through the wielder's hand when it wants to communicate something it has sensed. It can communicate more explicitly, through visions or dreams, when the wielder is either in a trance or asleep.
 

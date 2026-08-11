@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gray Ooze (Psychic)
+- "Gray Ooze (Psychic)"
 ---
-# [Gray Ooze (Psychic)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\ooze/gray-ooze-psychic.md)
+# [Gray Ooze (Psychic)](Compendium/bestiary/ooze/gray-ooze-psychic.md)
 *Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ```statblock
@@ -33,17 +34,14 @@ aliases:
   - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_resistances": "acid, cold, fire"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [prone](Rules/conditions.md#Prone)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":

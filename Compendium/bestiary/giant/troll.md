@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -15,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Troll
+- "Troll"
 ---
-# [Troll](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/troll.md)
-*Source: Monster Manual p. 291, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Troll](Compendium/bestiary/giant/troll.md)
+*Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries to orcs, ogres, ettins, hags, and giants. As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
 
@@ -49,14 +50,13 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
-  - "desc": "The troll has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The troll has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The troll regains 10 hit points at the start of its turn. If the troll\
@@ -75,8 +75,7 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
     "name": "Claw"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/troll.webp"
+"image": "Compendium/bestiary/giant/token/troll.webp"
 ```
 ^statblock
 

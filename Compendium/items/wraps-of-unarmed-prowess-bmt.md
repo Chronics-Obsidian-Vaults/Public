@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/rarity/uncommon
-aliases: 
+aliases:
 - "Wraps of Unarmed Prowess"
 item_type: 
 item_subtype: 
@@ -18,8 +19,8 @@ attunement: none
 
 **Items in this group:**
 
-- [+1 Wraps of Unarmed Prowess](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/1-wraps-of-unarmed-prowess-bmt.md)
-- [+2 Wraps of Unarmed Prowess](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/2-wraps-of-unarmed-prowess-bmt.md)
-- [+3 Wraps of Unarmed Prowess](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/3-wraps-of-unarmed-prowess-bmt.md)
+- [+1 Wraps of Unarmed Prowess](Compendium/items/1-wraps-of-unarmed-prowess-bmt.md)
+- [+2 Wraps of Unarmed Prowess](Compendium/items/2-wraps-of-unarmed-prowess-bmt.md)
+- [+3 Wraps of Unarmed Prowess](Compendium/items/3-wraps-of-unarmed-prowess-bmt.md)
 
 *Source: The Book of Many Things p. 69*

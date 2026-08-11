@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -13,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll
+- "Gnoll"
 ---
-# [Gnoll](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/gnoll.md)
-*Source: Monster Manual p. 163, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Gnoll](Compendium/bestiary/humanoid/gnoll.md)
+*Source: Monster Manual p. 163. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
 
@@ -41,8 +42,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "22"
 "hit_dice": "5d8"
 "modifier": !!int "1"
@@ -54,8 +54,10 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
   - !!int "10"
   - !!int "7"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "1/2"
 "traits":
@@ -76,10 +78,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
     "name": "Longbow"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/gnoll.webp"
+"image": "Compendium/bestiary/humanoid/token/gnoll.webp"
 ```
 ^statblock
 

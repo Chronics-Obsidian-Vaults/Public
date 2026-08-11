@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -19,7 +20,6 @@ tags:
 - source/spell/subclass/horizon-walker
 - source/spell/subclass/monster-slayer
 - source/spell/subclass/oath-of-devotion
-- source/spell/subclass/runechild
 classes:
 - Bard (Magical Secrets)
 - Cleric
@@ -32,11 +32,10 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer (Clockwork Soul)
 - Sorcerer (Divine Soul, Neutrality)
-- Sorcerer (Runechild)
 - Warlock
 - Wizard
 aliases:
-- Protection from Evil and Good
+- "Protection from Evil and Good"
 level: 1
 school: abjuration
 ritual: false
@@ -58,8 +57,8 @@ components_vsm: [V, S, M]
 
 Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.
 
-The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), or possessed by them. If the target is already [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be [charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened), or possessed by them. If the target is already [charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened), or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Devotion)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-devotion.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Ranger (Horizon Walker)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [Ranger (Monster Slayer)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Clockwork Soul)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Neutrality)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Runechild)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-runechild-tdcsr.md "subclass=TDCSR"); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger (Horizon Walker)](Compendium/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE"); [Ranger (Monster Slayer)](Compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Clockwork Soul)](Compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Neutrality)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

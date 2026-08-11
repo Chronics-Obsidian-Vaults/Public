@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Interactions with Others; NPC Interaction Traits
+- "Interactions with Others; NPC Interaction Traits"
 ---
 # Interactions with Others; NPC Interaction Traits
 *Source: Dungeon Master's Guide p. 90* 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Yuan-ti Eye Color
+- "Physical Variations; Yuan-ti Eye Color"
 ---
 # Physical Variations; Yuan-ti Eye Color
 *Source: Volo's Guide to Monsters p. 97* 

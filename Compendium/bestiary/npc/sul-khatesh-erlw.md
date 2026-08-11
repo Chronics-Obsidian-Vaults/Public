@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/28
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sul Khatesh
+- "Sul Khatesh"
 ---
-# [Sul Khatesh](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/sul-khatesh-erlw.md)
+# [Sul Khatesh](Compendium/bestiary/npc/sul-khatesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 304*  
 
 Sul Khatesh is known as the Keeper of Secrets and the Queen of Shadows. She embodies the fears and superstitions surrounding magic, from malevolent warlocks to mad wizards, from deadly curses to magical power that draws those who wield it deeper into darkness.
@@ -62,54 +63,42 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
   - "wisdom": !!int "14"
   - "charisma": !!int "15"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+18"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+18"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+14"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+18"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 16"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 16"
 "languages": "all, telepathy 150 ft."
 "cr": "28"
 "traits":
   - "desc": "Sul Khatesh's spellcasting ability is Intelligence (spell save DC 26,\
       \ +18 to hit with spell attacks). She can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [eyebite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/eyebite.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md)\n\
-      \n**3/day each:** [chain lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chain-lightning.md),\
-      \ [create undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-undead.md),\
-      \ [dream](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dream.md),\
-      \ [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md),\
-      \ [mass suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-suggestion.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)\n\
-      \n**1/day each:** [foresight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/foresight.md),\
-      \ [gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gate.md),\
-      \ [power word kill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-kill.md),\
-      \ [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md)"
+      \ requiring no material components:\n\n**At will:** [counterspell](Compendium/spells/counterspell.md),\
+      \ [detect magic](Compendium/spells/detect-magic.md), [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [eyebite](Compendium/spells/eyebite.md),\
+      \ [fireball](Compendium/spells/fireball.md), [lightning bolt](Compendium/spells/lightning-bolt.md),\
+      \ [shield](Compendium/spells/shield.md)\n\n**3/day each:** [chain lightning](Compendium/spells/chain-lightning.md),\
+      \ [create undead](Compendium/spells/create-undead.md), [dream](Compendium/spells/dream.md),\
+      \ [hold monster](Compendium/spells/hold-monster.md), [mass suggestion](Compendium/spells/mass-suggestion.md),\
+      \ [scrying](Compendium/spells/scrying.md)\n\n**1/day each:** [foresight](Compendium/spells/foresight.md),\
+      \ [gate](Compendium/spells/gate.md), [power word kill](Compendium/spells/power-word-kill.md),\
+      \ [teleport](Compendium/spells/teleport.md)"
     "name": "Innate Spellcasting"
   - "desc": "If Sul Khatesh fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
   - "desc": "Sul Khatesh has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
-  - "desc": "Sul Khatesh has advantage on Constitution saving throws to maintain [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)."
+  - "desc": "Sul Khatesh has advantage on Constitution saving throws to maintain [concentration](Rules/conditions.md#Concentration)."
     "name": "Master of Magic"
 "actions":
   - "desc": "Sul Khatesh makes four attacks with Arcane Blast."
@@ -126,8 +115,8 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
       \ saving throw, taking 71 (11d12) force damage on a failed save or half as much\
       \ damage on a successful one. A creature in the area of more than one arcane\
       \ burst is affected only once. The area of each arcane burst then acts as an\
-      \ [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md)\
-      \ for 1 hour. Sul Khatesh and spells she casts are unaffected by these fields."
+      \ [antimagic field](Compendium/spells/antimagic-field.md) for 1 hour. Sul Khatesh\
+      \ and spells she casts are unaffected by these fields."
     "name": "Arcane Cataclysm (Recharges after a Long Rest)"
   - "desc": "Sul Khatesh magically polymorphs into a humanoid, beast, or giant that\
       \ has a challenge rating no higher than her own, or back into her true form.\
@@ -146,21 +135,20 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
   - "desc": "Sul Khatesh makes two attacks with her Arcane Blast or one attack with\
       \ her magic staff."
     "name": "Attack"
-  - "desc": "Sul Khatesh targets a creature within 120 feet of her who is [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
+  - "desc": "Sul Khatesh targets a creature within 120 feet of her who is [concentrating](Rules/conditions.md#Concentration)\
       \ on a spell. The target must succeed on a DC 26 Constitution saving throw or\
-      \ its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ is broken on the spell, and Sul Khatesh gains 5 temporary hit points per level\
-      \ of that spell."
+      \ its [concentration](Rules/conditions.md#Concentration) is broken on the spell,\
+      \ and Sul Khatesh gains 5 temporary hit points per level of that spell."
     "name": "Consume Magic (Costs 2 Actions)"
   - "desc": "Sul Khatesh whispers an arcane secret into the mind of a creature she\
       \ can see within 60 feet of her. The target must succeed on a DC 26 Wisdom saving\
       \ throw or expend one of its spell slots of 3rd level or lower and deal 26 (4d12)\
       \ force damage to each creature within 30 feet of it. A creature that fails\
-      \ the saving throw but can't expend a spell slot is instead [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ the saving throw but can't expend a spell slot is instead [stunned](Rules/conditions.md#Stunned)\
       \ until the end of its next turn."
     "name": "Maddening Secrets (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/sul-khatesh-erlw.webp"
+"image": "Compendium/bestiary/npc/token/sul-khatesh-erlw.webp"
 ```
 ^statblock

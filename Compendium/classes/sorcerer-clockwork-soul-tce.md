@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/sorcerer/clockwork-soul
 aliases:
-- Clockwork Soul
+- "Clockwork Soul"
 ---
 # Clockwork Soul
 *[Sorcerer](./sorcerer.md): Sorcerous Origin*  
@@ -43,12 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Clockwork Soul (Level 1)
+![](Compendium/classes/img/clockwork-soul-sorcerer.webp#right)
 
 The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it-a plane of existence shaped entirely by clockwork efficiency. You, or someone from your lineage, might have become entangled in the machinations of the modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it is part of a vast and glorious system.
+
+## Subclass Features
 
 ### Clockwork Magic (Level 1)
 
@@ -62,11 +61,11 @@ Whenever you gain a sorcerer level, you can replace one spell you gained from th
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 1st | [alarm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alarm.md), [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md) |
-| 3rd | [aid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aid.md), [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md) |
-| 5th | [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md), [protection from energy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-energy.md) |
-| 7th | [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md), [summon construct](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-construct-tce.md) |
-| 9th | [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md), [wall of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md) |
+| 1st | [alarm](Compendium/spells/alarm.md), [protection from evil and good](Compendium/spells/protection-from-evil-and-good.md) |
+| 3rd | [aid](Compendium/spells/aid.md), [lesser restoration](Compendium/spells/lesser-restoration.md) |
+| 5th | [dispel magic](Compendium/spells/dispel-magic.md), [protection from energy](Compendium/spells/protection-from-energy.md) |
+| 7th | [freedom of movement](Compendium/spells/freedom-of-movement.md), [summon construct](Compendium/spells/summon-construct-tce.md) |
+| 9th | [greater restoration](Compendium/spells/greater-restoration.md), [wall of force](Compendium/spells/wall-of-force.md) |
 ^clockwork-spells
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.

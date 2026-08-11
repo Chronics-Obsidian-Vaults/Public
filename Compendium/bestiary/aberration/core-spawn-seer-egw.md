@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/13
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Seer
+- "Core Spawn Seer"
 ---
-# [Core Spawn Seer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/core-spawn-seer-egw.md)
+# [Core Spawn Seer](Compendium/bestiary/aberration/core-spawn-seer-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  
 
 Core spawn seers are humanoid arcanists corrupted by the eldritch power of the Elder Evils through blasphemous rites or accursed encounters. Ravaged by otherworldly radiation and disease, their bodies are covered in horrible protrusions of fluorescent crystals, which emit a psychedelic glow from beneath the tattered folds of their robes.
@@ -48,13 +49,12 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
   - "wisdom": !!int "9"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., tremorsense 60 ft., passive Perception 19"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., tremorsense 60 ft., passive\
+  \ Perception 19"
 "languages": "Common, Deep Speech, telepathy 120 ft., Undercommon"
 "cr": "13"
 "traits":
@@ -70,14 +70,13 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 9\
       \ (1d6 + 6) bludgeoning damage plus 18 (4d8) radiant damage, and the target\
-      \ is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ is knocked [prone](Rules/conditions.md#Prone)."
     "name": "Fission Staff"
   - "desc": "The seer hurls a glimmering orb at one creature it can see within 120\
       \ of it. The target must succeed on a DC 19 Wisdom saving throw or take 27 (5d10)\
       \ psychic damage and suffer a random condition until the start of the seer's\
-      \ next turn. Roll a d6 for the condition: (1-2) [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ (3-4) [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ or (5-6) [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)."
+      \ next turn. Roll a d6 for the condition: (1-2) [blinded](Rules/conditions.md#Blinded),\
+      \ (3-4) [frightened](Rules/conditions.md#Frightened), or (5-6) [stunned](Rules/conditions.md#Stunned)."
     "name": "Psychedelic Orb"
 "reactions":
   - "desc": "When the seer is hit by an attack, it takes only half of the triggering\
@@ -86,6 +85,6 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
     "name": "Fuse Damage"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/core-spawn-seer-egw.webp"
+"image": "Compendium/bestiary/aberration/token/core-spawn-seer-egw.webp"
 ```
 ^statblock

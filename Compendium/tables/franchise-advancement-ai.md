@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Franchise Advancement
+- "Franchise Advancement"
 ---
 # Franchise Advancement
 *Source: Acquisitions Incorporated p. 10* 

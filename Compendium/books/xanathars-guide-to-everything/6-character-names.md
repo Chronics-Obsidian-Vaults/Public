@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Character Names
+- "Character Names"
 ---
 # Character Names
 *Source: Xanathar's Guide to Everything, p. 173* 
@@ -18,4 +18,4 @@ Even though names are associated with races in this  appendix, a character might
 
 See the names page for the full collection of name tables.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/xanathars-guide-to-everything/img/ab001.webp#center)
+![](Compendium/books/xanathars-guide-to-everything/img/ab001.webp#center)

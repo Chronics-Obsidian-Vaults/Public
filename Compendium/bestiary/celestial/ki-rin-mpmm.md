@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/12
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ki-rin
+- "Ki-rin"
 ---
-# [Ki-rin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/ki-rin-mpmm.md)
+# [Ki-rin](Compendium/bestiary/celestial/ki-rin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
@@ -53,16 +54,15 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
   - !!int "20"
 "speed": "60 ft., fly 120 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+8"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., [truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., [truesight](Rules/senses.md#Truesight)\
   \ 30 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
@@ -87,21 +87,15 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
     "name": "Sacred Fire"
   - "desc": "The ki-rin casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 17):\n\n**At will:**\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md)\
-      \ (6th-level version), [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**3/day each:** [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md),\
-      \ [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md)\n\
-      \n**1/day each:** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md),\
-      \ [create food and water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-food-and-water.md),\
-      \ [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md),\
-      \ [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md),\
-      \ [revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md),\
-      \ [wind walk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wind-walk.md)"
+      \ [light](Compendium/spells/light.md), [major image](Compendium/spells/major-image.md)\
+      \ (6th-level version), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\n**3/day\
+      \ each:** [cure wounds](Compendium/spells/cure-wounds.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [lesser restoration](Compendium/spells/lesser-restoration.md), [sending](Compendium/spells/sending.md)\n\
+      \n**1/day each:** [banishment](Compendium/spells/banishment.md), [calm emotions](Compendium/spells/calm-emotions.md),\
+      \ [create food and water](Compendium/spells/create-food-and-water.md), [greater\
+      \ restoration](Compendium/spells/greater-restoration.md), [plane shift](Compendium/spells/plane-shift.md),\
+      \ [protection from evil and good](Compendium/spells/protection-from-evil-and-good.md),\
+      \ [revivify](Compendium/spells/revivify.md), [wind walk](Compendium/spells/wind-walk.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), a kirin can take one\
@@ -126,7 +120,7 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
       \ the vicinity:\n\n- **Blessed Nature.** Beasts, Plants, and Celestials within\
       \ 3 miles of the ki-rin's lair grow more vigorous as they evolve toward an idealized\
       \ form. Such creatures are rarely aggressive toward others that aren't normally\
-      \ prey.  \n- **Controlled Weather.** A ki-rin can cast [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md)\
+      \ prey.  \n- **Controlled Weather.** A ki-rin can cast [control weather](Compendium/spells/control-weather.md)\
       \ while it is within 3 miles of its lair. The spell's point of origin is always\
       \ the point outdoors closest to the center of its lair. The ki-rin doesn't need\
       \ to maintain a clear path to the sky or to concentrate for the change in weather\
@@ -147,14 +141,14 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The ki-rin moves up to half its speed without provoking [opportunity\
-      \ attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)."
+      \ attacks](Rules/actions.md#Opportunity%20Attack)."
     "name": "Move"
   - "desc": "The ki-rin makes one Hoof, Horn, or Sacred Fire attack."
     "name": "Smite"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/ki-rin-mpmm.webp"
+"image": "Compendium/bestiary/celestial/token/ki-rin-mpmm.webp"
 ```
 ^statblock
 

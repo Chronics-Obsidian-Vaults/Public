@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/scag
 - source/race/tiefling/devils-tongue
 aliases:
-- Tiefling (Devil's Tongue)
+- "Tiefling (Devil's Tongue)"
 ---
 # Tiefling (Devil's Tongue)
 *Source: Sword Coast Adventurer's Guide p. 118*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/feral-tiefling.webp#right)
+![](Compendium/races/img/feral-tiefling.webp#right)
 
 - **Ability Scores**: Apply +1 to one of Dexterity or Charisma.
 - **Size**: Medium
@@ -36,7 +37,7 @@ You have resistance to fire damage.
 
 ### Devil's Tongue
 
-You know the [vicious mockery](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vicious-mockery.md) cantrip. When you reach 3rd level, you can cast the [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md) spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the [enthrall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enthrall.md) spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.
+You know the [vicious mockery](Compendium/spells/vicious-mockery.md) cantrip. When you reach 3rd level, you can cast the [charm person](Compendium/spells/charm-person.md) spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the [enthrall](Compendium/spells/enthrall.md) spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.
 
 ### Languages
 
@@ -74,4 +75,4 @@ Tiefling names fall into three broad categories. Tieflings born into another cul
 ^mutual-mistrust
 
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/tiefling.webp#center)
+![](Compendium/races/img/tiefling.webp#center)

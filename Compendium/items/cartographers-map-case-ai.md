@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/rarity/common
-aliases: 
+aliases:
 - "Cartographer's Map Case"
 item_type: 
 item_subtype: 
@@ -13,17 +14,17 @@ attunement: none
 ---
 # Cartographer's Map Case
 *Wondrous item, common*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/cartographers-map-case.webp#right)
+![](Compendium/items/img/cartographers-map-case.webp#right)
 
 
 ## Map of Shortcuts
 
-At rank 3, your map case becomes a common magic item. In addition to storing normal maps, your cartographer's map case can be used to generate a special map identifying a shortcut. You can use your action to make a DC 15 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check, with a success revealing a map buried in your cartographer's map case noting a relevant shortcut. Your travel time is reduced by half while you follow that route. If you succeed at the check by 5 or more, the map includes notes on the terrain, granting you advantage on the next ability check you make to travel through the mapped area in the next hour. Once you use this feature, you cannot use it again until you finish a long rest.
+At rank 3, your map case becomes a common magic item. In addition to storing normal maps, your cartographer's map case can be used to generate a special map identifying a shortcut. You can use your action to make a DC 15 Wisdom ([Perception](Rules/skills.md#Perception)) check, with a success revealing a map buried in your cartographer's map case noting a relevant shortcut. Your travel time is reduced by half while you follow that route. If you succeed at the check by 5 or more, the map includes notes on the terrain, granting you advantage on the next ability check you make to travel through the mapped area in the next hour. Once you use this feature, you cannot use it again until you finish a long rest.
 
 ## Map of the Moment
 
-Starting at rank 3, you can use an action to make a DC 15 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check and search your cartographer's map case to find a map either related to your current mission or inspiring a new one. On a success, you find a map with a prominent landmark. The map has information on the natural terrain within one mile of the landmark. Once you use this feature, you cannot use it again until dawn seven days later.
+Starting at rank 3, you can use an action to make a DC 15 Wisdom ([Perception](Rules/skills.md#Perception)) check and search your cartographer's map case to find a map either related to your current mission or inspiring a new one. On a success, you find a map with a prominent landmark. The map has information on the natural terrain within one mile of the landmark. Once you use this feature, you cannot use it again until dawn seven days later.
 
-![Map of the Moment; Possible Map Mission Landmarks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/map-of-the-moment-possible-map-mission-landmarks-ai.md)
+![Map of the Moment; Possible Map Mission Landmarks](Compendium/tables/map-of-the-moment-possible-map-mission-landmarks-ai.md)
 
 *Source: Acquisitions Incorporated p. 20*

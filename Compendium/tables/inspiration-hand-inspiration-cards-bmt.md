@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Inspiration Hand; Inspiration Cards
+- "Inspiration Hand; Inspiration Cards"
 ---
 # Inspiration Hand; Inspiration Cards
 *Source: The Book of Many Things p. 18* 
@@ -20,20 +20,20 @@ aliases:
 | Euryale (or Q ♠) | When a creature makes a saving throw, it has disadvantage on that saving throw. |
 | Fates (or A ♥) | Reroll a single `d20` roll you've just made. You must use the second roll. |
 | Flames (or Q ♣) | When you deal damage to a creature, that creature takes an extra `1d6` fire damage. |
-| Fool (or Joker with ™) | As a reaction, when you take damage, you cause the creature that dealt it to have the [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) condition. |
+| Fool (or Joker with ™) | As a reaction, when you take damage, you cause the creature that dealt it to have the [prone](Rules/conditions.md#Prone) condition. |
 | Gem (or 2 ♥) | Take an additional action on your turn. |
-| Jester (or Joker without ™) | Take the [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage) action as a bonus action. |
+| Jester (or Joker without ™) | Take the [Disengage](Rules/actions.md#Disengage) action as a bonus action. |
 | Key (or Q ♥) | As a bonus action, teleport, with anything you are wearing or carrying, up to 30 feet to a space you can see. |
 | Knight (or J ♥) | As a reaction, impose disadvantage on the attack roll of a creature you can see. |
 | Moon (or Q ♦) | As a bonus action, regain one expended 1st-level spell slot or a single use of an ability that can be used a certain number of times per day. |
 | Puzzle (or 2 ♣) | Gain advantage on a saving throw. |
 | Rogue (or J ♠) | Gain advantage on an attack roll. |
 | Ruin (or K ♠) | As a bonus action, impose disadvantage on all ability checks of a creature you can see until the end of its next turn. |
-| Sage (or A ♦) | Take the [Help](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Help) or [Search](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Search) action as a bonus action. |
+| Sage (or A ♦) | Take the [Help](Rules/actions.md#Help) or [Search](Rules/actions.md#Search) action as a bonus action. |
 | Skull (or J ♣) | As an action, surround yourself with a shroud of death. Until the start of your next turn, any creature that ends its turn within 5 feet of you takes `1d6` necrotic damage. |
 | Star (or J ♦) | Gain advantage on an ability check. |
-| Sun (or K ♦) | As a reaction, when a creature makes a melee attack that hits you, that creature has the [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) condition until the end of your next turn. |
+| Sun (or K ♦) | As a reaction, when a creature makes a melee attack that hits you, that creature has the [blinded](Rules/conditions.md#Blinded) condition until the end of your next turn. |
 | Talons (or A ♣) | As a bonus action, reduce the speed of one creature within 5 feet of you to 0 until the start of your next turn. |
-| Throne (or K ♥) | As a reaction, when you take damage, the creature that dealt the damage has the [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) condition until the end of its next turn. You are the source of its fear. |
+| Throne (or K ♥) | As a reaction, when you take damage, the creature that dealt the damage has the [frightened](Rules/conditions.md#Frightened) condition until the end of its next turn. You are the source of its fear. |
 | Void (or K ♣) | As a reaction, when you take damage, gain resistance to that damage until the start of your next turn. |
 ^inspiration-cards

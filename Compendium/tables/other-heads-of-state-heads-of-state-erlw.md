@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Other Heads of State; Heads of State
+- "Other Heads of State; Heads of State"
 ---
 # Other Heads of State; Heads of State
 *Source: Eberron: Rising from the Last War p. 82* 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon Purpose
+- "Dungeon Purpose"
 ---
 # Dungeon Purpose
 *Source: Dungeon Master's Guide p. 101* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/6
@@ -9,24 +10,24 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Category 2 Krasis
+- "Category 2 Krasis"
 ---
-# [Category 2 Krasis](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/category-2-krasis-ggr.md)
+# [Category 2 Krasis](Compendium/bestiary/monstrosity/category-2-krasis-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 211*  
 
 ## Krasis
 
 In the deep sinkholes that serve as laboratories and guildhalls for the Simic Combine, biomancers employ a combination of magic and scientific method to create novel life forms. They coax new morphologies from existing creatures or combine traits from multiple organisms into one, producing the creatures known as krasis. Some krasis are unique creatures that can't reproduce. A few multiply and become part of the guild's standard menagerie.
 
-## Creating a Krasis
+### Creating a Krasis
 
 To create a krasis, choose the appropriate stat block: category 1 (Medium), category 2 (Large), or category 3 (Huge). Then roll once on the Major Adaptations table and once on the Minor Adaptations table (or choose an option from each table) to determine its additional characteristics. The potency of some adaptations varies based on the category of the krasis, as indicated in the descriptions of those adaptations.
 
 Just a few examples of krasis are the battering krasis (a fusion of hammerhead shark and a powerfully built beast), the crocanura (a crocodile-frog), the drakewing krasis (a lizard-drake), the teratosuchus (a crocodile-crab), the shambleshark (a shark-crab), and the sharktocrab (an improved shambleshark that includes octopus elements as well).
 
-![Major Adaptations](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/major-adaptations-ggr.md)
+![Major Adaptations](Compendium/tables/major-adaptations-ggr.md)
 
-![Minor Adaptations](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/minor-adaptations-ggr.md)
+![Minor Adaptations](Compendium/tables/minor-adaptations-ggr.md)
 
 ```statblock
 "name": "Category 2 Krasis (GGR)"
@@ -63,6 +64,6 @@ Just a few examples of krasis are the battering krasis (a fusion of hammerhead s
     "name": "Claws"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/category-2-krasis-ggr.webp"
+"image": "Compendium/bestiary/monstrosity/token/category-2-krasis-ggr.webp"
 ```
 ^statblock

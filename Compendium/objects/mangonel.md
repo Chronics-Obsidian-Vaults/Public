@@ -7,23 +7,21 @@ tags:
 - source/object/size/large
 - source/object/type/siege-weapon
 aliases:
-- Mangonel
+- "Mangonel"
 ---
 # Mangonel
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide p. 255*  
+*Source: Dungeon Master's Guide p. 255* 
 
 A mangonel is a type of catapult that hurls heavy projectiles in a high arc. This payload can hit targets behind cover. Before the mangonel can be fired, it must be loaded and aimed. It takes two actions to load the weapon, two actions to aim it, and one action to fire it.
 
 A mangonel typically hurls a heavy stone, although it can hurl other kinds of projectiles, with different effects.
-
 ```ad-statblock
 title: Mangonel
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/objects/token/mangonel.webp#token)
+![](Compendium/objects/token/mangonel.webp#token)
 *Large Siege weapon*
 
-- **Armor Class** 15
-- **Hit Points** 100
+- **Armor Class** 15 
+- **Hit Points** 100 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

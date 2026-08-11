@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
+- source/item/gear/instrument
 - source/item/rarity/rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Horn of Blasting"
 item_type: 
 item_subtype: 
@@ -13,12 +15,12 @@ rarity: rare
 attunement: none
 ---
 # Horn of Blasting
-*Wondrous item, major, rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/horn-of-blasting.webp#right)
+*Wondrous item, instrument ([horn](Compendium/items/horn.md)), major, rare*  
+![](Compendium/items/img/horn-of-blasting.webp#right)
 
 - **Weight**: 2.0 lbs.
 
-You can use an action to speak the horn's command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each creature in the cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes `5d6` thunder damage and is [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened) for 1 minute. On a successful save, a creature takes half as much damage and isn't [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened). Creatures and objects made of glass or crystal have disadvantage on the saving throw and take `10d6` thunder damage instead of `5d6`.
+You can use an action to speak the horn's command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away. Each creature in the cone must make a DC 15 Constitution saving throw. On a failed save, a creature takes `5d6` thunder damage and is [deafened](Rules/conditions.md#Deafened) for 1 minute. On a successful save, a creature takes half as much damage and isn't [deafened](Rules/conditions.md#Deafened). Creatures and objects made of glass or crystal have disadvantage on the saving throw and take `10d6` thunder damage instead of `5d6`.
 
 Each use of the horn's magic has a 20 percent chance of causing the horn to explode. The explosion deals `10d6` fire damage to the blower and destroys the horn.
 

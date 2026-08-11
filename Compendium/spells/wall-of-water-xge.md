@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/3rd-level
+- source/spell/race/triton
 - source/spell/school/evocation
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/eldritch-knight
@@ -19,7 +22,7 @@ classes:
 - Sorcerer
 - Wizard
 aliases:
-- Wall of Water
+- "Wall of Water"
 level: 3
 school: evocation
 ritual: false
@@ -43,6 +46,6 @@ You create a wall of water on the ground at a point you can see within range. Yo
 
 Any ranged weapon attack that enters the wall's space has disadvantage on the attack roll, and fire damage is halved if the fire effect passes through the wall to reach its target. Spells that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot-square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall's water doesn't fill it.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 170, Volo's Guide to Monsters p. 116, Mythic Odysseys of Theros*
+*Source: Xanathar's Guide to Everything p. 170, Volo's Guide to Monsters p. 116*

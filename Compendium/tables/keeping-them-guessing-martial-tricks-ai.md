@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Keeping them Guessing; Martial Tricks
+- "Keeping them Guessing; Martial Tricks"
 ---
 # Keeping them Guessing; Martial Tricks
 *Source: Acquisitions Incorporated p. 59* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/orzhov-representative
@@ -8,7 +9,7 @@ tags:
 - source/spell/class/cleric
 - source/spell/level/3rd-level
 - source/spell/school/conjuration
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/oath-of-the-crown
 - source/spell/subclass/war-domain
 classes:
@@ -16,9 +17,9 @@ classes:
 - Cleric
 - Cleric (War Domain)
 - Paladin (Oath of the Crown)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Spirit Guardians
+- "Spirit Guardians"
 level: 3
 school: conjuration
 ritual: false
@@ -44,6 +45,6 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `1d8` for each slot level above 3rd.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-war-domain.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of the Crown)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-crown-scag.md "subclass=SCAG"); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of the Crown)](Compendium/lists/list-spells-classes-oath-of-the-crown-scag.md "subclass=SCAG"); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

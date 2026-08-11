@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Sharn Watch Adventure Hooks
+- "Sharn Watch Adventure Hooks"
 ---
 # Sharn Watch Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 259* 

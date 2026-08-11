@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Alchemy Jug"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Alchemy Jug
 *Wondrous item, minor, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/alchemy-jug.webp#right)
+![](Compendium/items/img/alchemy-jug.webp#right)
 
 - **Weight**: 12.0 lbs.
 

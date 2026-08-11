@@ -1,27 +1,26 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/simic-scientist
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/ranger
+- source/spell/feat/mark-of-storm
 - source/spell/level/3rd-level
 - source/spell/school/evocation
-- source/spell/subclass/artillerist
 - source/spell/subclass/nature-domain
-- source/spell/subclass/the-genie/djinni
-- source/spell/subrace/half-elf-mark-of-storm
+- source/spell/subclass/the-genie
 classes:
-- Artificer (Artillerist)
 - Bard (Magical Secrets)
 - Cleric (Nature Domain)
 - Druid
 - Ranger
-- Warlock (The Genie, Djinni)
+- Warlock (The Genie)
 aliases:
-- Wind Wall
+- "Wind Wall"
 level: 3
 school: evocation
 ritual: false
@@ -45,8 +44,8 @@ A wall of strong wind rises from the ground at a point you choose within range. 
 
 When the wall appears, each creature within its area must make a Strength saving throw. A creature takes `3d8` bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md) can't pass through it.
+The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and automatically miss. (Boulders hurled by giants or siege engines, and similar projectiles, are unaffected.) Creatures in [gaseous form](Compendium/spells/gaseous-form.md) can't pass through it.
 
-**Classes**: [Artificer (Artillerist)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-nature-domain.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md); [Warlock (The Genie, Djinni)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](Compendium/lists/list-spells-classes-nature-domain.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Warlock (The Genie)](Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
 
 *Source: Player's Handbook p. 288. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

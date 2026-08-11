@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/23
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zuggtmoy
+- "Zuggtmoy"
 ---
-# [Zuggtmoy](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/zuggtmoy-mpmm.md)
+# [Zuggtmoy](Compendium/bestiary/npc/zuggtmoy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 281, Mordenkainen's Tome of Foes p. 157*  
 
 The Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.
@@ -55,16 +56,13 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
   - "constitution": !!int "11"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 21"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "23"
 "traits":
@@ -81,13 +79,11 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
     "name": "Pseudopod"
   - "desc": "Zuggtmoy casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [locate animals or plants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-animals-or-plants.md)\n\
-      \n**3/day each:** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md),\
-      \ [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md)\n\
-      \n**1/day each:** [etherealness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/etherealness.md),\
-      \ [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md)"
+      \ will:** [detect magic](Compendium/spells/detect-magic.md), [locate animals\
+      \ or plants](Compendium/spells/locate-animals-or-plants.md)\n\n**3/day each:**\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [entangle](Compendium/spells/entangle.md),\
+      \ [plant growth](Compendium/spells/plant-growth.md)\n\n**1/day each:** [etherealness](Compendium/spells/etherealness.md),\
+      \ [teleport](Compendium/spells/teleport.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
@@ -100,7 +96,7 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
       \ it must repeat the saving throw at the end of every 24 hours, ending the infection\
       \ on a success. On a failure, the infected creature's body is slowly taken over\
       \ by fungal growth, and after three such failed saves, the creature dies and\
-      \ is reanimated as a [spore servant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/quaggoth-spore-servant.md)\
+      \ is reanimated as a [spore servant](Compendium/bestiary/plant/quaggoth-spore-servant.md)\
       \ if it's a type of creature that can be."
     "name": "Infestation Spores (3/Day)"
   - "desc": "Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius\
@@ -109,13 +105,13 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
       \ saving throw. On a successful save, a creature can't be infected by these\
       \ spores for 24 hours. On a failed save, the creature is infected with a disease\
       \ called the influence of Zuggtmoy for 24 hours. While infected in this way,\
-      \ the creature is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by her and can't be reinfected by these spores."
+      \ the creature is [charmed](Rules/conditions.md#Charmed) by her and can't be\
+      \ reinfected by these spores."
     "name": "Mind Control Spores (Recharge 5-6)"
 "reactions":
   - "desc": "When Zuggtmoy is hit by an attack roll, one creature within 10 feet of\
-      \ her that is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by her is hit by the attack instead."
+      \ her that is [charmed](Rules/conditions.md#Charmed) by her is hit by the attack\
+      \ instead."
     "name": "Protective Thrall"
 "lair_actions":
   - "desc": "On Initiative count 20 (losing initiative ties), Zuggtmoy can take a\
@@ -123,23 +119,23 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
       \ effect two rounds in a row:\n\n- **Rally Plants.** Up to four plant creatures\
       \ that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions\
       \ to move up to their speed and make one weapon attack.  \n- **Summon Fungi.**\
-      \ Zuggtmoy causes four [gas spores](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/gas-spore.md)\
-      \ or [violet fungi](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/violet-fungus.md)\
-      \ to appear in unoccupied spaces that she chooses within the lair. They vanish\
-      \ after 1 hour.  \n- **Unleash Spores.** Zuggtmoy uses either her Infestation\
-      \ Spores or her Mind Control Spores, centered on a mushroom or other fungus\
-      \ within her lair, instead of on herself.  "
+      \ Zuggtmoy causes four [gas spores](Compendium/bestiary/plant/gas-spore.md)\
+      \ or [violet fungi](Compendium/bestiary/plant/violet-fungus.md) to appear in\
+      \ unoccupied spaces that she chooses within the lair. They vanish after 1 hour.\
+      \  \n- **Unleash Spores.** Zuggtmoy uses either her Infestation Spores or her\
+      \ Mind Control Spores, centered on a mushroom or other fungus within her lair,\
+      \ instead of on herself.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing Zuggtmoy's lair is warped by his magic, creating\
       \ one or more of the following effects:\n\n- **Corrupted Nature.** Within 6\
-      \ miles of the lair, all Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine))\
-      \ and Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival))\
-      \ checks have disadvantage.  \n- **Fungal Infestation.** Molds and fungi grow\
-      \ on surfaces within 6 miles of the lair, even where they would normally find\
-      \ no purchase.  \n- **Mutating Vegetation.** Vegetation within 1 mile of the\
-      \ lair becomes infested with parasitic fungi, slowly mutating as it is overwhelmed.\
-      \  \n- If Zuggtmoy dies, these effects fade over the course of 1d10 days.  "
+      \ miles of the lair, all Wisdom ([Medicine](Rules/skills.md#Medicine)) and Wisdom\
+      \ ([Survival](Rules/skills.md#Survival)) checks have disadvantage.  \n- **Fungal\
+      \ Infestation.** Molds and fungi grow on surfaces within 6 miles of the lair,\
+      \ even where they would normally find no purchase.  \n- **Mutating Vegetation.**\
+      \ Vegetation within 1 mile of the lair becomes infested with parasitic fungi,\
+      \ slowly mutating as it is overwhelmed.  \n- If Zuggtmoy dies, these effects\
+      \ fade over the course of 1d10 days.  "
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Zuggtmoy can expend a use to take one of the following actions. Zuggtmoy\
@@ -147,14 +143,13 @@ Zuggtmoy's principal lair is her palace on Shedaklah. It consists of two dozen m
 "legendary_actions":
   - "desc": "Zuggtmoy makes one Pseudopod attack."
     "name": "Attack"
-  - "desc": "One creature [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by Zuggtmoy that she can see must use its reaction, if a available, to move\
-      \ up to its speed as she directs or to make one weapon attack against a target\
-      \ that she designates."
+  - "desc": "One creature [charmed](Rules/conditions.md#Charmed) by Zuggtmoy that\
+      \ she can see must use its reaction, if a available, to move up to its speed\
+      \ as she directs or to make one weapon attack against a target that she designates."
     "name": "Exert Will"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/zuggtmoy-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/zuggtmoy-mpmm.webp"
 ```
 ^statblock

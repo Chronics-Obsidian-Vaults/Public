@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/attunement/required
@@ -9,7 +10,7 @@ tags:
 - source/item/weapon/ranged
 - source/item/weapon/simple
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Glimmering Moonbow"
 - "Glimmering Moon Longbow"
 - "Glimmering Moon Shortbow"
@@ -37,14 +38,14 @@ While wielding this magic bow, you can use a bonus action to enter a semi-incorp
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Glimmering Moon Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 

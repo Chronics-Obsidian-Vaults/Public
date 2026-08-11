@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/12
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gray Render
+- "Gray Render"
 ---
-# [Gray Render](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/gray-render-mpmm.md)
+# [Gray Render](Compendium/bestiary/monstrosity/gray-render-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*  
 
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
@@ -64,10 +65,9 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
   - "strength": !!int "8"
   - "constitution": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": ""
 "cr": "12"
 "actions":
@@ -75,11 +75,11 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 17\
       \ (2d12 + 4) piercing damage. If the target is Medium or smaller, the target\
-      \ must succeed on a DC 16 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ must succeed on a DC 16 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage, plus 10 (3d6) bludgeoning damage if the target\
-      \ is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ is [prone](Rules/conditions.md#Prone)."
     "name": "Claw"
 "reactions":
   - "desc": "When the gray render takes damage, it makes one Claw attack against a\
@@ -88,7 +88,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/gray-render-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/gray-render-mpmm.webp"
 ```
 ^statblock
 

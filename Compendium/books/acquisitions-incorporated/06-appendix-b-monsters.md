@@ -5,19 +5,19 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Appendix B: Monsters
+- "Appendix B: Monsters"
 ---
 # Appendix B: Monsters
 *Source: Acquisitions Incorporated, p. 209* 
 
 This appendix details a few creatures that have roles to play in this adventure, and which can play an ongoing part in an Acquisitions Incorporated campaign.
 
-- [Chaos Quadrapod](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/chaos-quadrapod-ai.md)  
-- [Clockwork Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/clockwork-dragon-ai.md)  
-- [Deep Crow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/deep-crow-ai.md)  
-- [Ancient Deep Crow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/ancient-deep-crow-ai.md)  
-- [Keg Robot](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/keg-robot-ai.md)  
-- [Splugoth the Returned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/splugoth-the-returned-ai.md)  
+- [Chaos Quadrapod](Compendium/bestiary/aberration/chaos-quadrapod-ai.md)  
+- [Clockwork Dragon](Compendium/bestiary/construct/clockwork-dragon-ai.md)  
+- [Deep Crow](Compendium/bestiary/monstrosity/deep-crow-ai.md)  
+- [Ancient Deep Crow](Compendium/bestiary/monstrosity/ancient-deep-crow-ai.md)  
+- [Keg Robot](Compendium/bestiary/construct/keg-robot-ai.md)  
+- [Splugoth the Returned](Compendium/bestiary/npc/splugoth-the-returned-ai.md)  
 
 ## Iconic Faction Features
 
@@ -31,15 +31,15 @@ Many faction features increase the relative challenge of a creature, and thus ca
 
 The iconic employee of Dran Enterprises has two goals over and above all others: serve Dran Enterprises loyally, and prove the superiority of Dran Enterprises over Acquisitions Incorporated. Enemy franchises are to be undermined, defeated, and acquired at any cost.
 
-**Recommended NPCs**: [Bandit captain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bandit-captain.md), [guard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/guard.md), [veteran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/veteran.md) ("Monster Manual"); [bard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bard-mpmm.md), [swashbuckler](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/swashbuckler-mpmm.md), [transmuter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/transmuter-wizard-mpmm.md), [warlock of the archfey](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/warlock-of-the-archfey-mpmm.md) ("Volo's Guide to Monsters")
+**Recommended NPCs**: [Bandit captain](Compendium/bestiary/humanoid/bandit-captain.md), [guard](Compendium/bestiary/humanoid/guard.md), [veteran](Compendium/bestiary/humanoid/veteran.md) ("Monster Manual"); [bard](Compendium/bestiary/humanoid/bard-mpmm.md), [swashbuckler](Compendium/bestiary/humanoid/swashbuckler-mpmm.md), [transmuter](Compendium/bestiary/humanoid/transmuter-wizard-mpmm.md), [warlock of the archfey](Compendium/bestiary/humanoid/warlock-of-the-archfey-mpmm.md) ("Volo's Guide to Monsters")
 
 #### Corporate Focus
 
-The creature has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and has advantage on Wisdom or Charisma checks made as part of a contest.
+The creature has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed), and has advantage on Wisdom or Charisma checks made as part of a contest.
 
 #### Freeze Assets (1/Day)
 
-The next time this creature hits with an attack, it can use a bonus action to cause the target of the attack to make a DC 13 Constitution saving throw. On a failed save, the target is [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed) until the start of its next turn.
+The next time this creature hits with an attack, it can use a bonus action to cause the target of the attack to make a DC 13 Constitution saving throw. On a failed save, the target is [paralyzed](Rules/conditions.md#Paralyzed) until the start of its next turn.
 
 #### Hostile Takeover (1/Day)
 
@@ -47,19 +47,19 @@ When a visible attacker within 15 feet of this creature makes an attack roll, th
 
 ### Iconic Noble Knife Agent
 
-![Agent Of The Noble Knife](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/113-appendix-b-04.webp#center)
+![Agent Of The Noble Knife](Compendium/books/acquisitions-incorporated/img/113-appendix-b-04.webp#center)
 
 The iconic Noble Knife agent sees Acquisitions Incorporated as just another power-hungry group inevitably getting in the way of their own order's principled stand against tyranny. And maybe a few of the higher-ups in Acq Inc need to be looked at a little more closely in that regard.
 
-- **Recommended NPCs**: [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/acolyte.md), [mage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/mage.md), [spy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/spy.md), [thug](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/thug.md) ("Monster Manual"); [archer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/archer-mpmm.md), [enchanter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/enchanter-wizard-mpmm.md), [swashbuckler](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/swashbuckler-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Acolyte](Compendium/bestiary/humanoid/acolyte.md), [mage](Compendium/bestiary/humanoid/mage.md), [spy](Compendium/bestiary/humanoid/spy.md), [thug](Compendium/bestiary/humanoid/thug.md) ("Monster Manual"); [archer](Compendium/bestiary/humanoid/archer-mpmm.md), [enchanter](Compendium/bestiary/humanoid/enchanter-wizard-mpmm.md), [swashbuckler](Compendium/bestiary/humanoid/swashbuckler-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Noble Strike (1/Day)
 
-The next time this creature hits with an attack, it can use a bonus action to cause the target of the attack to become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened). An affected target can make a DC 13 Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
+The next time this creature hits with an attack, it can use a bonus action to cause the target of the attack to become [frightened](Rules/conditions.md#Frightened). An affected target can make a DC 13 Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Ready to Fight
 
-This creature has advantage on attack rolls against any creature that is [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised).
+This creature has advantage on attack rolls against any creature that is [surprised](Rules/conditions.md#Surprised).
 
 #### Reality Slip (1/Day)
 
@@ -67,33 +67,33 @@ As a reaction when this creature is hit by an attack, it can move up to its spee
 
 ### Iconic Zealot of the Silver Sliver
 
-![Silver Sliver Zealot](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/114-appendix-b-05.webp#center)
+![Silver Sliver Zealot](Compendium/books/acquisitions-incorporated/img/114-appendix-b-05.webp#center)
 
 The iconic zealot of the Silver Sliver is guided by a desire for justice and good, but appears to have no grasp of business or market forces. Zealots hide behind their masks as they carry out their pro bono heroics, and chastise other hard-working adventurers at every opportunity.
 
-- **Recommended NPCs**: [Berserker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/berserker.md), [knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/knight.md), [priest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/priest.md) ("Monster Manual"); [diviner](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/diviner-wizard-mpmm.md), [war priest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/war-priest-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Berserker](Compendium/bestiary/humanoid/berserker.md), [knight](Compendium/bestiary/humanoid/knight.md), [priest](Compendium/bestiary/humanoid/priest.md) ("Monster Manual"); [diviner](Compendium/bestiary/humanoid/diviner-wizard-mpmm.md), [war priest](Compendium/bestiary/humanoid/war-priest-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Touch of the Mask (1/Day)
 
-As an action, this creature thrusts a mask into the face of another creature within 5 feet of it, forcing that creature to make a DC 13 Dexterity saving throw. On a failure, the target is [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned) until the end of its next turn. A creature that has no face, or whose face is fully covered by a mask or helmet, is immune to this effect.
+As an action, this creature thrusts a mask into the face of another creature within 5 feet of it, forcing that creature to make a DC 13 Dexterity saving throw. On a failure, the target is [stunned](Rules/conditions.md#Stunned) until the end of its next turn. A creature that has no face, or whose face is fully covered by a mask or helmet, is immune to this effect.
 
 #### True Believer (1/Day)
 
-As a reaction when this creature fails a saving throw against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), it can reroll the saving throw.
+As a reaction when this creature fails a saving throw against being [charmed](Rules/conditions.md#Charmed), it can reroll the saving throw.
 
 #### Zealot's Justice (1/Day)
 
-As an action, this creature unleashes a cacophony of platitudes that can leave others reeling. Each creature of its choice within 30 feet of it that can hear it must succeed on a DC 13 Wisdom saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained). An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+As an action, this creature unleashes a cacophony of platitudes that can leave others reeling. Each creature of its choice within 30 feet of it that can hear it must succeed on a DC 13 Wisdom saving throw or be [restrained](Rules/conditions.md#Restrained). An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
 ### Iconic Affiliate of the Six
 
 The iconic affiliate of the Six aims not to acquire rival franchises, but to destroy them completely. Affiliates of the Six love to toy with their foes, revealing the full extent of their evil only as they prepare to eradicate those foes.
 
-- **Recommended NPCs**: [Bandit captain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bandit-captain.md), [berserker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/berserker.md), [cultist](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/cultist.md), [cult fanatic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/cult-fanatic.md) ("Monster Manual"); [blackguard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/blackguard-mpmm.md), [conjurer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/conjurer-wizard-mpmm.md), [illusionist](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/illusionist-wizard-mpmm.md), [warlock of the great old one](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/warlock-of-the-great-old-one-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Bandit captain](Compendium/bestiary/humanoid/bandit-captain.md), [berserker](Compendium/bestiary/humanoid/berserker.md), [cultist](Compendium/bestiary/humanoid/cultist.md), [cult fanatic](Compendium/bestiary/humanoid/cult-fanatic.md) ("Monster Manual"); [blackguard](Compendium/bestiary/humanoid/blackguard-mpmm.md), [conjurer](Compendium/bestiary/humanoid/conjurer-wizard-mpmm.md), [illusionist](Compendium/bestiary/humanoid/illusionist-wizard-mpmm.md), [warlock of the great old one](Compendium/bestiary/humanoid/warlock-of-the-great-old-one-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Glimpse of the Beyond (1/Day)
 
-As an action, this creature provides a glimpse into its true nature by extolling the madness of the Far Realm. Each creature within 30 feet of this creature that can see and hear it must succeed on a DC 13 Intelligence saving throw or be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded). An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+As an action, this creature provides a glimpse into its true nature by extolling the madness of the Far Realm. Each creature within 30 feet of this creature that can see and hear it must succeed on a DC 13 Intelligence saving throw or be [blinded](Rules/conditions.md#Blinded). An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Something Feels Off (1/Day)
 
@@ -101,7 +101,7 @@ When a visible attacker within 5 feet of this creature makes an attack roll agai
 
 #### Touch of Madness
 
-This creature has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).
+This creature has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened).
 
 ## Iconic Franchise Features
 
@@ -111,53 +111,53 @@ The following iconic features can be added to NPC or monster stat blocks to repr
 
 Other factions such as the Six or Dran Enterprises have employees that take on company positions similar to those adopted by members of Acq Inc. These features can be used for members of those factions as well, either on their own or added to the faction features from the previous section.
 
-A monster or NPC that has a company position always carries the special items granted by that position (a cartographer's [spyglass of clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spyglass-of-clairvoyance-ai.md) and [cartographer's map case](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cartographers-map-case-ai.md), a hoardsperson's [living loot satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-loot-satchel-ai.md), and so forth). As normal, these items do not function for anyone else, and will be actively sought out by the organization that owns them if they are lost or stolen.
+A monster or NPC that has a company position always carries the special items granted by that position (a cartographer's [spyglass of clairvoyance](Compendium/items/spyglass-of-clairvoyance-ai.md) and [cartographer's map case](Compendium/items/cartographers-map-case-ai.md), a hoardsperson's [living loot satchel](Compendium/items/living-loot-satchel-ai.md), and so forth). As normal, these items do not function for anyone else, and will be actively sought out by the organization that owns them if they are lost or stolen.
 
 ### Iconic Cartographer
 
 The iconic cartographer makes a point of knowing the position of every member of their team, understanding the layout of their immediate area and the location of any exits or escape routes.
 
-- **Recommended NPCs**: [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/acolyte.md), [druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/druid.md), [guard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/guard.md), [scout](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/scout.md), [spy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/spy.md) ("Monster Manual"); [archer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/archer-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Acolyte](Compendium/bestiary/humanoid/acolyte.md), [druid](Compendium/bestiary/humanoid/druid.md), [guard](Compendium/bestiary/humanoid/guard.md), [scout](Compendium/bestiary/humanoid/scout.md), [spy](Compendium/bestiary/humanoid/spy.md) ("Monster Manual"); [archer](Compendium/bestiary/humanoid/archer-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Map of Shortcuts (1/Day)
 
-As an action, the cartographer produces a map from its [cartographer's map case](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cartographers-map-case-ai.md) that shows useful shortcuts in the immediate area and then vanishes. Each creature of the cartographer's choice that can see the map can take the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash) or [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage) action as a bonus action on its next turn.
+As an action, the cartographer produces a map from its [cartographer's map case](Compendium/items/cartographers-map-case-ai.md) that shows useful shortcuts in the immediate area and then vanishes. Each creature of the cartographer's choice that can see the map can take the [Dash](Rules/actions.md#Dash) or [Disengage](Rules/actions.md#Disengage) action as a bonus action on its next turn.
 
 ### Iconic Decisionist
 
 The iconic decisionist constantly polls allies and foes during the ongoing battle, getting a read on what everyone thinks, and then explaining how they're all completely wrong.
 
-- **Recommended NPCs**: [Bandit captain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bandit-captain.md), [knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/knight.md), [scout](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/scout.md) ("Monster Manual"); [archer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/archer-mpmm.md), [enchanter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/enchanter-wizard-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Bandit captain](Compendium/bestiary/humanoid/bandit-captain.md), [knight](Compendium/bestiary/humanoid/knight.md), [scout](Compendium/bestiary/humanoid/scout.md) ("Monster Manual"); [archer](Compendium/bestiary/humanoid/archer-mpmm.md), [enchanter](Compendium/bestiary/humanoid/enchanter-wizard-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Better Odds (1/Day)
 
-As an action, this creature flips its [coin of decisionry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/coin-of-decisionry-ai.md) to determine the best course of action, choosing a number of creatures that can see and hear it. Each of the target creatures (in addition to this creature) rolls a `d4` and adds the number rolled to the next ability check, saving throw, or attack roll it makes.
+As an action, this creature flips its [coin of decisionry](Compendium/items/coin-of-decisionry-ai.md) to determine the best course of action, choosing a number of creatures that can see and hear it. Each of the target creatures (in addition to this creature) rolls a `d4` and adds the number rolled to the next ability check, saving throw, or attack roll it makes.
 
 ### Iconic Documancer
 
 An iconic documancer acts with the authority of their organization. Documancers constantly speak in legalese, referencing obscure reasons why opponents will fail or should surrender.
 
-- **Recommended NPCs**: [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/acolyte.md), [mage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/mage.md), [priest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/priest.md), [veteran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/veteran.md) ("Monster Manual"); [bard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bard-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Acolyte](Compendium/bestiary/humanoid/acolyte.md), [mage](Compendium/bestiary/humanoid/mage.md), [priest](Compendium/bestiary/humanoid/priest.md), [veteran](Compendium/bestiary/humanoid/veteran.md) ("Monster Manual"); [bard](Compendium/bestiary/humanoid/bard-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Scroll Service (1/Day)
 
-As an action, the documancer draws a [spell scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-scroll.md) from its [documancy satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/documancy-satchel-ai.md). The scroll contains a spell of up to 3rd level of the documancer's choice. Only the documancer can use the scroll, which vanishes after 1 minute.
+As an action, the documancer draws a [spell scroll](Compendium/items/spell-scroll.md) from its [documancy satchel](Compendium/items/documancy-satchel-ai.md). The scroll contains a spell of up to 3rd level of the documancer's choice. Only the documancer can use the scroll, which vanishes after 1 minute.
 
 ### Iconic Hoardsperson
 
 The iconic hoardsperson flaunts their wealth, knowing that foes are daunted by that which they have failed to earn.
 
-- **Recommended NPCs**: [Bandit captain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bandit-captain.md), [gladiator](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/gladiator.md) ("Monster Manual"); [master thief](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/master-thief-mpmm.md), [swashbuckler](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/swashbuckler-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Bandit captain](Compendium/bestiary/humanoid/bandit-captain.md), [gladiator](Compendium/bestiary/humanoid/gladiator.md) ("Monster Manual"); [master thief](Compendium/bestiary/humanoid/master-thief-mpmm.md), [swashbuckler](Compendium/bestiary/humanoid/swashbuckler-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### That Thing You Need (3/Day)
 
-The hoardsperson pulls one item of its choice from the [living loot satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-loot-satchel-ai.md). This can be any item found on the "Adventuring Gear table" in chapter 5, ""Equipment"," of the "Player's Handbook". The item must be worth no more than 15 gp.
+The hoardsperson pulls one item of its choice from the [living loot satchel](Compendium/items/living-loot-satchel-ai.md). This can be any item found on the "Adventuring Gear table" in chapter 5, ""Equipment"," of the "Player's Handbook". The item must be worth no more than 15 gp.
 
 ### Iconic Loremonger
 
 The iconic loremonger trades in information, even when locked down in battle. A loremonger constantly tries to goad foes into revealing plans and secrets.
 
-- **Recommended NPCs**: [Cult fanatic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/cult-fanatic.md), [druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/druid.md), [mage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/mage.md), [priest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/priest.md) ("Monster Manual"); [bard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bard-mpmm.md), [enchanter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/enchanter-wizard-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Cult fanatic](Compendium/bestiary/humanoid/cult-fanatic.md), [druid](Compendium/bestiary/humanoid/druid.md), [mage](Compendium/bestiary/humanoid/mage.md), [priest](Compendium/bestiary/humanoid/priest.md) ("Monster Manual"); [bard](Compendium/bestiary/humanoid/bard-mpmm.md), [enchanter](Compendium/bestiary/humanoid/enchanter-wizard-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Whispered Encyclopedia (1/Day)
 
@@ -167,7 +167,7 @@ When a visible creature within 20 feet of the loremonger makes an attack roll, a
 
 The iconic obviator sees foes as obstacles worthy of respect. Obviators engage in repartee, testing the minds and skills of their opponents as their own strategy is deployed.
 
-- **Recommended NPCs**: [Assassin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/assassin.md), [gladiator](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/gladiator.md), [priest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/priest.md) ("Monster Manual"); [martial arts adept](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/martial-arts-adept-mpmm.md), [swashbuckler](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/swashbuckler-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Assassin](Compendium/bestiary/humanoid/assassin.md), [gladiator](Compendium/bestiary/humanoid/gladiator.md), [priest](Compendium/bestiary/humanoid/priest.md) ("Monster Manual"); [martial arts adept](Compendium/bestiary/humanoid/martial-arts-adept-mpmm.md), [swashbuckler](Compendium/bestiary/humanoid/swashbuckler-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Read the Opposition (1/Day)
 
@@ -177,7 +177,7 @@ As a bonus action, the obviator chooses one other creature it can see, then rela
 
 The iconic occultant believes that every action changes the world around them, requiring a proper reaction. Occultants attempt to inspire fear in their foes with dire prognostications and mysterious portents.
 
-- **Recommended NPCs**: [Berserker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/berserker.md), [druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/druid.md), [gladiator](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/gladiator.md), [knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/knight.md), and [tribal warrior](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/tribal-warrior.md) ("Monster Manual"); [diviner](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/diviner-wizard-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Berserker](Compendium/bestiary/humanoid/berserker.md), [druid](Compendium/bestiary/humanoid/druid.md), [gladiator](Compendium/bestiary/humanoid/gladiator.md), [knight](Compendium/bestiary/humanoid/knight.md), and [tribal warrior](Compendium/bestiary/humanoid/tribal-warrior.md) ("Monster Manual"); [diviner](Compendium/bestiary/humanoid/diviner-wizard-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Bead of Instant Karma (1/Day)
 
@@ -187,8 +187,8 @@ When a creature the occultant can see makes an attack roll, a saving throw, or a
 
 The iconic secretarian treats their foes like customers, offering deals they shouldn't refuse and inviting them to switch allegiances for greater profit and security.
 
-- **Recommended NPCs**: [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/acolyte.md), [berserker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/berserker.md), [knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/knight.md), [noble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/noble.md), and [priest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/priest.md) ("Monster Manual"); [bard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bard-mpmm.md), [warlock of the archfey](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/warlock-of-the-archfey-mpmm.md) ("Volo's Guide to Monsters")  
+- **Recommended NPCs**: [Acolyte](Compendium/bestiary/humanoid/acolyte.md), [berserker](Compendium/bestiary/humanoid/berserker.md), [knight](Compendium/bestiary/humanoid/knight.md), [noble](Compendium/bestiary/humanoid/noble.md), and [priest](Compendium/bestiary/humanoid/priest.md) ("Monster Manual"); [bard](Compendium/bestiary/humanoid/bard-mpmm.md), [warlock of the archfey](Compendium/bestiary/humanoid/warlock-of-the-archfey-mpmm.md) ("Volo's Guide to Monsters")  
 
 #### Charming Introduction (1/Day)
 
-As an action, the secretarian hands a business card from its [portfolio keeper](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portfolio-keeper-ai.md) to a creature within 5 feet of it. The target must succeed on a DC 13 Charisma saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) by the secretarian, as if under the effect of the [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md) spell.
+As an action, the secretarian hands a business card from its [portfolio keeper](Compendium/items/portfolio-keeper-ai.md) to a creature within 5 feet of it. The target must succeed on a DC 13 Charisma saving throw or be [charmed](Rules/conditions.md#Charmed) by the secretarian, as if under the effect of the [charm person](Compendium/spells/charm-person.md) spell.

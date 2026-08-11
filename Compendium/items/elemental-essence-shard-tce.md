@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Elemental Essence Shard"
 item_type: 
 item_subtype: 
@@ -26,10 +27,10 @@ Roll a `d4` and consult the Elemental Essence Shards table to determine the shar
 
 | dice: d4 | Element | Shard |
 |----------|---------|-------|
-| 1 | Air | [Elemental Essence Shard (Air)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/elemental-essence-shard-air-tce.md) |
-| 2 | Earth | [Elemental Essence Shard (Earth)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/elemental-essence-shard-earth-tce.md) |
-| 3 | Fire | [Elemental Essence Shard (Fire)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/elemental-essence-shard-fire-tce.md) |
-| 4 | Water | [Elemental Essence Shard (Water)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/elemental-essence-shard-water-tce.md) |
+| 1 | Air | [Elemental Essence Shard (Air)](Compendium/items/elemental-essence-shard-air-tce.md) |
+| 2 | Earth | [Elemental Essence Shard (Earth)](Compendium/items/elemental-essence-shard-earth-tce.md) |
+| 3 | Fire | [Elemental Essence Shard (Fire)](Compendium/items/elemental-essence-shard-fire-tce.md) |
+| 4 | Water | [Elemental Essence Shard (Water)](Compendium/items/elemental-essence-shard-water-tce.md) |
 ^elemental-essence-shards
 
 *Source: Tasha's Cauldron of Everything p. 127*

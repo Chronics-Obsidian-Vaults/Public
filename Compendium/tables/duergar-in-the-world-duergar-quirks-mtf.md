@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Duergar in the World; Duergar Quirks
+- "Duergar in the World; Duergar Quirks"
 ---
 # Duergar in the World; Duergar Quirks
 *Source: Mordenkainen's Tome of Foes p. 84* 

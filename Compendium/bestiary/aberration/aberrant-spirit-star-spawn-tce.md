@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aberrant Spirit (Star Spawn)
+- "Aberrant Spirit (Star Spawn)"
 ---
-# [Aberrant Spirit (Star Spawn)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/aberrant-spirit-star-spawn-tce.md)
+# [Aberrant Spirit (Star Spawn)](Compendium/bestiary/aberration/aberrant-spirit-star-spawn-tce.md)
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "aberration"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "40 + 10 for each spell level above 4th"
 "modifier": !!int "0"
 "stats":
   - !!int "16"
@@ -30,14 +32,13 @@ aliases:
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Deep Speech, understands the languages you speak"
 "traits":
   - "desc": "At the start of each of the aberration's turns, each creature within\
       \ 5 feet of the aberration must succeed on a Wisdom saving throw against your\
       \ spell save DC or take 2d6 psychic damage, provided that the aberration isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Whispering Aura"
 "actions":
   - "desc": "The aberration makes a number of attacks equal to half this spell's level\

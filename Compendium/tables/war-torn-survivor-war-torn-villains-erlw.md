@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- War-Torn Survivor; War-Torn Villains
+- "War-Torn Survivor; War-Torn Villains"
 ---
 # War-Torn Survivor; War-Torn Villains
 *Source: Eberron: Rising from the Last War p. 209* 

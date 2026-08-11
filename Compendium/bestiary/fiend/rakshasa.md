@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/13
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rakshasa
+- "Rakshasa"
 ---
-# [Rakshasa](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/rakshasa.md)
-*Source: Monster Manual p. 257, Eberron: Rising from the Last War, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Rakshasa](Compendium/bestiary/fiend/rakshasa.md)
+*Source: Monster Manual p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The rakshasa employs delicacy and misdirection in its pursuit of dominion over others. Few creatures ever see the fiend in its true form, for it can take on any guise it wants, although it prefers to masquerade as someone powerful or influential: a noble, cardinal, or rich merchant, for example. A rakshasa's true form combines the features of a human and a tiger, with one noteworthy deformity: its palms are where the backs of the hands would be on a human.
 
@@ -55,32 +56,26 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
   - !!int "20"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+10"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+8"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common, Infernal"
 "cr": "13"
 "traits":
   - "desc": "The rakshasa's innate spellcasting ability is Charisma (spell save DC\
       \ 18, +10 to hit with spell attacks). The rakshasa can innately cast the following\
-      \ spells, requiring no material components:\n\n**At will:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md)\n\
-      \n**3/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**1/day each:** [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md),\
-      \ [true seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-seeing.md)"
+      \ spells, requiring no material components:\n\n**At will:** [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [disguise self](Compendium/spells/disguise-self.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md)\n\n**3/day each:** [charm\
+      \ person](Compendium/spells/charm-person.md), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [invisibility](Compendium/spells/invisibility.md), [major image](Compendium/spells/major-image.md),\
+      \ [suggestion](Compendium/spells/suggestion.md)\n\n**1/day each:** [dominate\
+      \ person](Compendium/spells/dominate-person.md), [fly](Compendium/spells/fly.md),\
+      \ [plane shift](Compendium/spells/plane-shift.md), [true seeing](Compendium/spells/true-seeing.md)"
     "name": "Innate Spellcasting"
   - "desc": "The rakshasa can't be affected or detected by spells of 6th level or\
       \ lower unless it wishes to be. It has advantage on saving throws against all\
@@ -94,14 +89,12 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
       \ curse takes effect whenever the target takes a short or long rest, filling\
       \ the target's thoughts with horrible images and dreams. The cursed target gains\
       \ no benefit from finishing a short or long rest. The curse lasts until it is\
-      \ lifted by a [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md)\
-      \ spell or similar magic."
+      \ lifted by a [remove curse](Compendium/spells/remove-curse.md) spell or similar\
+      \ magic."
     "name": "Claw"
 "source":
   - "MM"
-  - "ERLW"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/rakshasa.webp"
+"image": "Compendium/bestiary/fiend/token/rakshasa.webp"
 ```
 ^statblock
 

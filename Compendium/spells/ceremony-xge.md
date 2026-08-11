@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -12,14 +13,14 @@ tags:
 - source/spell/optfeature/book-of-ancient-secrets
 - source/spell/ritual
 - source/spell/school/abjuration
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Paladin
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Ceremony
+- "Ceremony"
 level: 1
 ritual: true
 school: abjuration
@@ -43,11 +44,11 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 ## Atonement
 
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check. On a successful check, you restore the target to its original alignment.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([Insight](Rules/skills.md#Insight)) check. On a successful check, you restore the target to its original alignment.
 
 ## Bless Water
 
-You touch one [vial](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/vial.md) of water and cause it to become [holy water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/holy-water-flask.md).
+You touch one [vial](Compendium/items/vial.md) of water and cause it to become [holy water](Compendium/items/holy-water-flask.md).
 
 ## Coming of Age
 
@@ -59,7 +60,7 @@ You touch one humanoid who wishes to be dedicated to your god's service. For the
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [wish](Compendium/spells/wish.md) spell.
 
 ## Wedding
 
@@ -67,6 +68,6 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Xanathar's Guide to Everything p. 151*

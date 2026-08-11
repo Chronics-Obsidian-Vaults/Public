@@ -8,7 +8,7 @@ tags:
 - source/optional-feature/fs-f
 - source/optional-feature/fs-r
 aliases:
-- Two-Weapon Fighting
+- "Two-Weapon Fighting"
 ---
 # Two-Weapon Fighting
 *Source: Player's Handbook, Xanathar's Guide to Everything p. 15. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

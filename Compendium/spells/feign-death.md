@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -11,7 +12,7 @@ tags:
 - source/spell/ritual
 - source/spell/school/necromancy
 - source/spell/subclass/arcane-trickster
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/the-undying
 classes:
@@ -20,11 +21,11 @@ classes:
 - Druid
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Warlock (The Undying)
 - Wizard
 aliases:
-- Feign Death
+- "Feign Death"
 level: 3
 ritual: true
 school: necromancy
@@ -46,8 +47,8 @@ components_vsm: [V, S, M]
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
 
-For the spell's duration, or until you use an action to touch the target and dismiss the spell, the target appears dead to all outward inspection and to spells used to determine the target's status. The target is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) and [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), and its speed drops to 0. The target has resistance to all damage except psychic damage. If the target is diseased or [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) when you cast the spell, or becomes diseased or [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) while under the spell's effect, the disease and poison have no effect until the spell ends.
+For the spell's duration, or until you use an action to touch the target and dismiss the spell, the target appears dead to all outward inspection and to spells used to determine the target's status. The target is [blinded](Rules/conditions.md#Blinded) and [incapacitated](Rules/conditions.md#Incapacitated), and its speed drops to 0. The target has resistance to all damage except psychic damage. If the target is diseased or [poisoned](Rules/conditions.md#Poisoned) when you cast the spell, or becomes diseased or [poisoned](Rules/conditions.md#Poisoned) while under the spell's effect, the disease and poison have no effect until the spell ends.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Undying)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Undying)](Compendium/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 240*

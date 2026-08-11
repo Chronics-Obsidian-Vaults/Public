@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clawfoot
+- "Clawfoot"
 ---
-# [Clawfoot](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/clawfoot-erlw.md)
+# [Clawfoot](Compendium/bestiary/beast/clawfoot-erlw.md)
 *Source: Eberron: Rising from the Last War p. 289*  
 
 Clawfoot dinosaurs are two-legged saurians with sharp teeth and toe claws that resemble deadly sickles. They are imposing creatures, about the size of a tall human, and are fierce enough to take down even larger prey.
@@ -38,9 +39,9 @@ Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "senses": "passive Perception 13"
 "languages": ""
@@ -48,13 +49,13 @@ Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains
 "traits":
   - "desc": "The clawfoot has advantage on an attack roll against a creature if at\
       \ least one of the clawfoot's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ ally isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "If the clawfoot moves at least 20 feet straight toward a creature and\
       \ then hits it with a claw attack on the same turn, that target must succeed\
-      \ on a DC 11 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ If the target is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ the clawfoot can make one bite attack against it as a bonus action."
+      \ on a DC 11 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
+      \ If the target is [prone](Rules/conditions.md#Prone), the clawfoot can make\
+      \ one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
   - "desc": "The clawfoot makes two attacks: one with its bite and one with its claws."
@@ -67,6 +68,6 @@ Dinosaurs are widespread on Eberron, particularly in Q'barra, the Talenta Plains
     "name": "Claws"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/clawfoot-erlw.webp"
+"image": "Compendium/bestiary/beast/token/clawfoot-erlw.webp"
 ```
 ^statblock

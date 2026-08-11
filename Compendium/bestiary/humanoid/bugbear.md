@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bugbear
+- "Bugbear"
 ---
-# [Bugbear](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/bugbear.md)
-*Source: Monster Manual p. 33, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Bugbear](Compendium/bestiary/humanoid/bugbear.md)
+*Source: Monster Manual p. 33. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
 
@@ -38,8 +39,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "subtype": "goblinoid"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "2"
@@ -52,12 +52,14 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+2"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
+  - "[morningstar](Compendium/items/morningstar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
@@ -78,10 +80,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     "name": "Javelin"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/bugbear.webp"
+"image": "Compendium/bestiary/humanoid/token/bugbear.webp"
 ```
 ^statblock
 

@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/rarity/varies
-aliases: 
+aliases:
 - "Living Loot Satchel"
 item_type: 
 item_subtype: 
@@ -13,26 +14,26 @@ attunement: none
 ---
 # Living Loot Satchel
 *Wondrous item*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/living-loot-satchel.webp#right)
+![](Compendium/items/img/living-loot-satchel.webp#right)
 
 
-As a rank 2 hoardsperson, you are granted the use of a living loot satchel, which is an uncommon magic item. It functions as a [bag of holding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bag-of-holding.md) and is available in a variety of colors and styles.
+As a rank 2 hoardsperson, you are granted the use of a living loot satchel, which is an uncommon magic item. It functions as a [bag of holding](Compendium/items/bag-of-holding.md) and is available in a variety of colors and styles.
 
-![Class-Based Living Loot Satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/class-based-living-loot-satchel-ai.md)
+![Class-Based Living Loot Satchel](Compendium/tables/class-based-living-loot-satchel-ai.md)
 
-The living loot satchel is a kind of magical being that safeguards the franchise's funds and valuables. Its innards are connected to a secure coffer within Head Office's vault in Waterdeep, to which the satchel periodically transfers the franchise's wealth. As an action, you can transfer any amount of your franchise funds back to your satchel with a successful DC 15 Dexterity ([Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)) check.
+The living loot satchel is a kind of magical being that safeguards the franchise's funds and valuables. Its innards are connected to a secure coffer within Head Office's vault in Waterdeep, to which the satchel periodically transfers the franchise's wealth. As an action, you can transfer any amount of your franchise funds back to your satchel with a successful DC 15 Dexterity ([Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)) check.
 
 ## Secret Satchel
 
-As a rank 3 hoardsperson, your living loot satchel gets an upgrade to function as the replica chest used for the [Leomund's secret chest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/leomunds-secret-chest.md) spell, becoming a rare magic item. You can open the secret chest through your living loot satchel to deposit or withdraw items—even items that wouldn't normally fit in your satchel, but which fit within the chest. Thanks to Head Office striking deals you don't want to know about with extraplanar creatures you really don't want to know about, there is no chance for the spell to end.
+As a rank 3 hoardsperson, your living loot satchel gets an upgrade to function as the replica chest used for the [Leomund's secret chest](Compendium/spells/leomunds-secret-chest.md) spell, becoming a rare magic item. You can open the secret chest through your living loot satchel to deposit or withdraw items—even items that wouldn't normally fit in your satchel, but which fit within the chest. Thanks to Head Office striking deals you don't want to know about with extraplanar creatures you really don't want to know about, there is no chance for the spell to end.
 
 ## That Thing You Need
 
-At rank 3, you can use a bonus action to reach into your living loot satchel and make a DC 15 Dexterity ([Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)) check. On a success, you draw forth an item of your choice on the Adventuring Gear table in chapter 5 of the Player's Handbook. The item must be of a size that can fit into your secret chest and be worth no more than 15 gp. Once you attempt to draw five items from your satchel, you cannot draw forth any more items until the next dawn.
+At rank 3, you can use a bonus action to reach into your living loot satchel and make a DC 15 Dexterity ([Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)) check. On a success, you draw forth an item of your choice on the Adventuring Gear table in chapter 5 of the Player's Handbook. The item must be of a size that can fit into your secret chest and be worth no more than 15 gp. Once you attempt to draw five items from your satchel, you cannot draw forth any more items until the next dawn.
 
 ## Portable Hole Satchel
 
-At rank 4, your living loot satchel receives another upgrade, becoming a very rare magic item. The secret chest accessed by your satchel now has the storage capacity of a [portable hole](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portable-hole.md)—6 feet in diameter and 10 feet deep. As before, you can place any appropriately sized object into the portable-hole-sized chest, even if it wouldn't normally fit into your satchel.
+At rank 4, your living loot satchel receives another upgrade, becoming a very rare magic item. The secret chest accessed by your satchel now has the storage capacity of a [portable hole](Compendium/items/portable-hole.md)—6 feet in diameter and 10 feet deep. As before, you can place any appropriately sized object into the portable-hole-sized chest, even if it wouldn't normally fit into your satchel.
 
 ## That Expensive Thing You Need
 

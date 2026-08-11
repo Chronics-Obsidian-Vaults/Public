@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: The Book of Many Things, p. 2* 
@@ -43,11 +43,11 @@ aliases:
 - **D&D Beyond.**     - **Product Managers.** Patrick Backmann, Jeff Turriff    
         - **Digital Design Team.** Jay Jani, Sean Stoves, Adam Walton, Joseph Keen, Cameron Powell    
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/credits.webp#center)
+![](Compendium/books/the-book-of-many-things/img/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Asteria pond...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/credits2.webp#gallery "On the Cover: Asteria ponders the magic, mystery, and mayhem of the Deck of Many Things in this menagerie of moments by Ekaterina Burmak.")
-> ![On the Alt-Cover: Asteria ...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/credits3.webp#gallery "On the Alt-Cover: Asteria wields the cards that rewrote her fate in this art nouveau–inspired illustration by CoupleofKooks.")
+> ![On the Cover: Asteria ponders the magic, mystery, and mayhem of the Deck of Many Things in this menagerie of moments by Ekaterina Burmak.](Compendium/books/the-book-of-many-things/img/credits2.webp#gallery)
+> ![On the Alt-Cover: Asteria wields the cards that rewrote her fate in this art nouveau–inspired illustration by CoupleofKooks.](Compendium/books/the-book-of-many-things/img/credits3.webp#gallery)
 
 > [!note]
 > Disclaimer: The gods of fate take no responsibility for any alignment changes, deaths, debilitating curses, fiendish enmities, imprisonments, or sudden betrayals, nor for the loss of ability scores, experience points, magic items, physical property, or wealth, resulting from the use of this book. Look, it's the Deck of Many Things—what did you expect?

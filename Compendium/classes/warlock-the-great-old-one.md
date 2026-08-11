@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/warlock/great-old-one
 aliases:
-- The Great Old One
+- "The Great Old One"
 ---
 # The Great Old One
 *[Warlock](./warlock.md): Otherworldly Patron*  
@@ -43,14 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### The Great Old One (Level 1)
-
 Your patron is a mysterious entity whose nature is utterly foreign to the fabric of reality. It might come from the Far Realm, the space beyond reality, or it could be one of the elder gods known only in legends. Its motives are incomprehensible to mortals, and its knowledge so immense and ancient that even the greatest libraries pale in comparison to the vast secrets it holds. The Great Old One might be unaware of your existence or entirely indifferent to you, but the secrets you have learned allow you to draw your magic from it. Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfathomable beings.
 
-#### Expanded Spell List
+## Subclass Features
+
+### Expanded Spell List (Level 1)
 
 The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
@@ -58,11 +55,11 @@ The Great Old One lets you choose from an expanded list of spells when you learn
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [dissonant whispers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dissonant-whispers.md), [Tasha's hideous laughter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-hideous-laughter.md) |
-| 2nd | [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md), [phantasmal force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-force.md) |
-| 3rd | [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md), [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md) |
-| 4th | [dominate beast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-beast.md), [Evard's black tentacles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/evards-black-tentacles.md) |
-| 5th | [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md), [telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md) |
+| 1st | [dissonant whispers](Compendium/spells/dissonant-whispers.md), [Tasha's hideous laughter](Compendium/spells/tashas-hideous-laughter.md) |
+| 2nd | [detect thoughts](Compendium/spells/detect-thoughts.md), [phantasmal force](Compendium/spells/phantasmal-force.md) |
+| 3rd | [clairvoyance](Compendium/spells/clairvoyance.md), [sending](Compendium/spells/sending.md) |
+| 4th | [dominate beast](Compendium/spells/dominate-beast.md), [Evard's black tentacles](Compendium/spells/evards-black-tentacles.md) |
+| 5th | [dominate person](Compendium/spells/dominate-person.md), [telekinesis](Compendium/spells/telekinesis.md) |
 ^great-old-one-expanded-spells
 
 ### Awakened Mind (Level 1)
@@ -81,6 +78,6 @@ Starting at 10th level, your thoughts can't be read by telepathy or other means 
 
 ### Create Thrall (Level 14)
 
-At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) humanoid. That creature is then [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) by you until a [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md) spell is cast on it, the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) condition is removed from it, or you use this feature again.
+At 14th level, you gain the ability to infect a humanoid's mind with the alien magic of your patron. You can use your action to touch an [incapacitated](Rules/conditions.md#Incapacitated) humanoid. That creature is then [charmed](Rules/conditions.md#Charmed) by you until a [remove curse](Compendium/spells/remove-curse.md) spell is cast on it, the [charmed](Rules/conditions.md#Charmed) condition is removed from it, or you use this feature again.
 
-You can communicate telepathically with the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) creature as long as the two of you are on the same plane of existence.
+You can communicate telepathically with the [charmed](Rules/conditions.md#Charmed) creature as long as the two of you are on the same plane of existence.

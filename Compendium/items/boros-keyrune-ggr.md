@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/attunement/required
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Boros Keyrune"
 item_type: 
 item_subtype: 
@@ -14,14 +15,14 @@ attunement: required
 ---
 # Boros Keyrune
 *Wondrous item, rare (requires attunement by a member of the Boros guild)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/boros-keyrune.webp#right)
+![](Compendium/items/img/boros-keyrune.webp#right)
 
 
-Carved from red sandstone with white granite elements to resemble a member of the Boros Legion, this keyrune can become a [veteran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/veteran.md) (human) for up to 8 hours. In addition to fighting on your behalf, this [veteran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/veteran.md) cheerfully offers tactical advice, which is usually sound. Anyone who talks with the transformed keyrune or examines it closely can easily recognize that it is an artificial human.
+Carved from red sandstone with white granite elements to resemble a member of the Boros Legion, this keyrune can become a [veteran](Compendium/bestiary/humanoid/veteran.md) (human) for up to 8 hours. In addition to fighting on your behalf, this [veteran](Compendium/bestiary/humanoid/veteran.md) cheerfully offers tactical advice, which is usually sound. Anyone who talks with the transformed keyrune or examines it closely can easily recognize that it is an artificial human.
 
-When you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within 5 feet of you, the keyrune transforms into a [veteran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/veteran.md) (human). If there isn't enough space for the [veteran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/veteran.md), the keyrune doesn't transform.
+When you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within 5 feet of you, the keyrune transforms into a [veteran](Compendium/bestiary/humanoid/veteran.md) (human). If there isn't enough space for the [veteran](Compendium/bestiary/humanoid/veteran.md), the keyrune doesn't transform.
 
-The creature is friendly to you, your companions, and other members of your guild (unless those guild members are hostile to you). It understands your languages and obeys your spoken commands. If you issue no commands, the creature takes the [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge) action and moves to avoid danger.
+The creature is friendly to you, your companions, and other members of your guild (unless those guild members are hostile to you). It understands your languages and obeys your spoken commands. If you issue no commands, the creature takes the [Dodge](Rules/actions.md#Dodge) action and moves to avoid danger.
 
 At the end of the duration, the creature reverts to its keyrune form. It reverts early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature reverts to its keyrune form, it can't transform again until 36 hours have passed.
 

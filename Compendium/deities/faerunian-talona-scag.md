@@ -6,15 +6,15 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/death
-aliases: 
-- Talona
-- Lady of Poison
-- Mistress of Disease
-- The Plague-crone
+aliases:
+- "Talona"
+- "Lady of Poison"
+- "Mistress of Disease"
+- "The Plague-crone"
 ---
 # Talona
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-talona.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-talona.webp#symbol)
 
 - **Alternate Names**: Lady of Poison, Mistress of Disease, The Plague-crone
 - **Alignment**: Chaotic Evil

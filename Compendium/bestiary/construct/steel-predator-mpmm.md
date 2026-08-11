@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/16
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Steel Predator
+- "Steel Predator"
 ---
-# [Steel Predator](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/steel-predator-mpmm.md)
+# [Steel Predator](Compendium/bestiary/construct/steel-predator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -44,24 +45,20 @@ If all goes according to plan, a steel predator slays its target and then volunt
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+7"
 "damage_resistances": "cold, lightning, necrotic, thunder"
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [stunned](Rules/conditions.md#Stunned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 17"
 "languages": "understands Modron and the language of its owner but can't speak"
 "cr": "16"
@@ -82,22 +79,21 @@ If all goes according to plan, a steel predator slays its target and then volunt
     "name": "Claw"
   - "desc": "The steel predator emits a roar in a 60-foot cone. Each creature in that\
       \ area must make a DC 19 Constitution saving throw. On a failed save, a creature\
-      \ takes 33 (6d10) thunder damage, drops everything it's holding, and is [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. The [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. On a successful save, a creature takes\
-      \ half as much damage and isn't [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)."
+      \ takes 33 (6d10) thunder damage, drops everything it's holding, and is [stunned](Rules/conditions.md#Stunned)\
+      \ for 1 minute. The [stunned](Rules/conditions.md#Stunned) creature can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success. On a successful save, a creature takes half as much damage and\
+      \ isn't [stunned](Rules/conditions.md#Stunned)."
     "name": "Stunning Roar (Recharge 5-6)"
   - "desc": "The steel predator casts one of the following spells, requiring no spell\
       \ components and using Wisdom as the spellcasting ability:\n\n**3/day each:**\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md)\
-      \ (self only), [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ (self only)"
+      \ [dimension door](Compendium/spells/dimension-door.md) (self only), [plane\
+      \ shift](Compendium/spells/plane-shift.md) (self only)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/steel-predator-mpmm.webp"
+"image": "Compendium/bestiary/construct/token/steel-predator-mpmm.webp"
 ```
 ^statblock
 

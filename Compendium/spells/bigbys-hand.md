@@ -1,24 +1,24 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
+- source/spell/feat/mark-of-sentinel
 - source/spell/level/5th-level
 - source/spell/school/evocation
 - source/spell/subclass/the-fathomless
-- source/spell/subrace/human-mark-of-sentinel
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Sorcerer
 - Warlock (The Fathomless)
 - Wizard
 aliases:
-- Bigby's Hand
+- "Bigby's Hand"
 level: 5
 school: evocation
 ritual: false
@@ -50,7 +50,7 @@ The hand strikes one creature or object within 5 feet of it. Make a melee spell 
 
 ## Forceful Hand
 
-The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.
+The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength ([Athletics](Rules/skills.md#Athletics)) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.
 
 ## Grasping Hand
 
@@ -66,6 +66,6 @@ When you cast this spell using a spell slot of 6th level or higher, the damage f
 
 ## Summary
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Fathomless)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Fathomless)](Compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Arcane Hand")*

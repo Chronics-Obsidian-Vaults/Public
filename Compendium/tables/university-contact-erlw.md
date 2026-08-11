@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- University Contact
+- "University Contact"
 ---
 # University Contact
 *Source: Eberron: Rising from the Last War p. 101* 

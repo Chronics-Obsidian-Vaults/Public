@@ -6,7 +6,7 @@ tags:
 - source/class/warlock
 - source/compendium/src/5e/phb
 aliases:
-- Warlock
+- "Warlock"
 ---
 # Warlock
 *Source: Player's Handbook p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -16,7 +16,7 @@ aliases:
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='8'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="value">Spell Slots</th><th class="value">Slot Level</th><th class="value"><a href="/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-ei.md">Invocations Known</a></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Cantrips Known</th><th class="value">Spells Known</th><th class="value">Spell Slots</th><th class="value">Slot Level</th><th class="value"><a href="Compendium/lists/list-optfeaturetype-ei.md">Invocations Known</a></th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Pact Magic (Level 1)' class='internal-link'>Pact Magic</a>, <a href='#Otherworldly Patron (Level 1)' class='internal-link'>Otherworldly Patron</a></td><td class="value">2</td><td class="value">2</td><td class="value">1</td><td class="value">1st</td><td class="value">⏤</td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Eldritch Invocations (Level 2)' class='internal-link'>Eldritch Invocations</a></td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">1st</td><td class="value">2</td></tr>
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/warlock.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Warlock level
@@ -51,17 +53,17 @@ aliases:
 ## Starting Warlock
 
 - **Saving Throws**: Charisma, Wisdom
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor)
 - **Weapons**: simple weapons
 - **Tools**: none
-- **Skills**: choose 2 from [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)
+- **Skills**: choose 2 from [Arcana](Rules/skills.md#Arcana), [Deception](Rules/skills.md#Deception), [History](Rules/skills.md#History), [Intimidation](Rules/skills.md#Intimidation), [Investigation](Rules/skills.md#Investigation), [Nature](Rules/skills.md#Nature), and [Religion](Rules/skills.md#Religion)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [light crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/light-crossbow.md) and [20 bolts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crossbow-bolts-20.md) or (b) any simple weapon
-- (a) a [component pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/component-pouch.md) or (b) an [arcane focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arcane-focus.md)
-- (a) a [scholar's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scholars-pack.md) or (b) a [dungeoneer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dungeoneers-pack.md)
-- [Leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md), any simple weapon, and two [daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)
+- (a) a [light crossbow](Compendium/items/light-crossbow.md) and [20 bolts](Compendium/items/crossbow-bolts-20.md) or (b) any simple weapon
+- (a) a [component pouch](Compendium/items/component-pouch.md) or (b) an [arcane focus](Compendium/items/arcane-focus.md)
+- (a) a [scholar's pack](Compendium/items/scholars-pack.md) or (b) a [dungeoneer's pack](Compendium/items/dungeoneers-pack.md)
+- [Leather armor](Compendium/items/leather-armor.md), any simple weapon, and two [daggers](Compendium/items/dagger.md)
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
@@ -71,9 +73,8 @@ Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor)
 - **Weapons**: simple weapons
-
 ## Warlock
 
 With a pseudodragon curled on his shoulder, a young elf in golden robes smiles warmly, weaving a magical charm into his honeyed words and bending the palace sentinel to his will.
@@ -110,7 +111,7 @@ How does your patron communicate with you? If you have a familiar, it might occa
 
 #### Quick Build
 
-You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [charlatan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/charlatan.md) background. Third, choose the [eldritch blast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/eldritch-blast.md) and [chill touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chill-touch.md) cantrips, along with the 1st-level spells [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md) and [witch bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/witch-bolt.md).
+You can make a warlock quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the [charlatan](Compendium/backgrounds/charlatan.md) background. Third, choose the [eldritch blast](Compendium/spells/eldritch-blast.md) and [chill touch](Compendium/spells/chill-touch.md) cantrips, along with the 1st-level spells [charm person](Compendium/spells/charm-person.md) and [witch bolt](Compendium/spells/witch-bolt.md).
 
 > [!quote] A quote from Xarren, herald of Acamar  
 > 
@@ -189,35 +190,25 @@ If your warlock's pact comes with a binding mark, how you feel about displaying 
 
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the warlock spell list.
 
-#### Cantrips
+**Cantrips.** You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
-You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+**Spell Slots.** The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-#### Spell Slots
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [witch bolt](Compendium/spells/witch-bolt.md), you must spend one of those slots, and you cast it as a 3rd-level spell.
 
-The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
-
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [witch bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/witch-bolt.md), you must spend one of those slots, and you cast it as a 3rd-level spell.
-
-#### Spells Known of 1st Level and Higher
-
-At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
+**Spells Known of 1st Level and Higher.** At 1st level, you know two 1st-level spells of your choice from the warlock spell list.
 
 The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
 
 Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
 
-#### Spellcasting Ability
-
-Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Charisma</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-#### Spellcasting Focus
-
-You can use an [arcane focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arcane-focus.md) as a spellcasting focus for your warlock spells.
+**Spellcasting Focus.** You can use an [arcane focus](Compendium/items/arcane-focus.md) as a spellcasting focus for your warlock spells.
 
 ### Otherworldly Patron (Level 1)
 
@@ -227,7 +218,7 @@ At 1st level, you have struck a bargain with an otherworldly being chosen from t
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
-At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [Optional Features](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-ei.md) page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
+At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the [Optional Features](Compendium/lists/list-optfeaturetype-ei.md) page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
@@ -237,9 +228,12 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 
-- [Pact of the Chain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/pact-of-the-chain.md)  
-- [Pact of the Blade](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/pact-of-the-blade.md)  
-- [Pact of the Tome](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/pact-of-the-tome.md)  
+Options (choose 1):
+
+- [Pact of the Chain](Compendium/optional-features/pact-of-the-chain.md)  
+- [Pact of the Blade](Compendium/optional-features/pact-of-the-blade.md)  
+- [Pact of the Tome](Compendium/optional-features/pact-of-the-tome.md)  
+- [Pact of the Talisman](Compendium/optional-features/pact-of-the-talisman-tce.md)  
 
 ### Ability Score Improvement (Level 4)
 
@@ -250,7 +244,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Eldritch Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 70_
 
-*4th-level warlock [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*4th-level warlock [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change of focus in your occult studies:
 
@@ -329,9 +323,9 @@ At 20th level, you can draw on your inner reserve of mystical power while entrea
 ## Optional Features
 
 > [!example]- Optional Features: Eldritch Invocation
-> ![Eldritch Invocation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-ei.md#Eldritch%20Invocation)
+> ![Eldritch Invocation](Compendium/lists/list-optfeaturetype-ei.md#Eldritch%20Invocation)
 ^list-optfeature-ei
 
 > [!example]- Optional Features: Pact Boon
-> ![Pact Boon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-pb.md#Pact%20Boon)
+> ![Pact Boon](Compendium/lists/list-optfeaturetype-pb.md#Pact%20Boon)
 ^list-optfeature-pb

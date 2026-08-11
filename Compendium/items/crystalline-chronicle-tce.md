@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Crystalline Chronicle"
 item_type: 
 item_subtype: 
@@ -13,14 +15,14 @@ rarity: very-rare
 attunement: required
 ---
 # Crystalline Chronicle
-*Wondrous item, very rare (requires attunement by a wizard)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/crystalline-chronicle.webp#right)
+*Wondrous item, spellcasting focus, very rare (requires attunement by a wizard)*  
+![](Compendium/items/img/crystalline-chronicle.webp#right)
 
 - **Weight**: 3.0 lbs.
 
-An etched crystal sphere the size of a grapefruit hums faintly and pulses with irregular flares of inner light. While you are touching the crystal, you can retrieve and store information and spells within the crystal at the same rate as reading and writing. When found, the crystal contains the following spells: [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md), [intellect fortress](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/intellect-fortress-tce.md), [Rary's telepathic bond](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/rarys-telepathic-bond.md), [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md), [telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md), [Tasha's mind whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-mind-whip-tce.md), and [Tenser's floating disk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tensers-floating-disk.md). It functions as a spellbook for you, with its spells and other writing psychically encoded within it.
+An etched crystal sphere the size of a grapefruit hums faintly and pulses with irregular flares of inner light. While you are touching the crystal, you can retrieve and store information and spells within the crystal at the same rate as reading and writing. When found, the crystal contains the following spells: [detect thoughts](Compendium/spells/detect-thoughts.md), [intellect fortress](Compendium/spells/intellect-fortress-tce.md), [Rary's telepathic bond](Compendium/spells/rarys-telepathic-bond.md), [sending](Compendium/spells/sending.md), [telekinesis](Compendium/spells/telekinesis.md), [Tasha's mind whip](Compendium/spells/tashas-mind-whip-tce.md), and [Tenser's floating disk](Compendium/spells/tensers-floating-disk.md). It functions as a spellbook for you, with its spells and other writing psychically encoded within it.
 
-While you are holding the crystal, you can use it as a spellcasting focus for your wizard spells, and you know the [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md), [mind sliver](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mind-sliver-tce.md) (appears in this book), and [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md) cantrips if you don't already know them.
+While you are holding the crystal, you can use it as a spellcasting focus for your wizard spells, and you know the [mage hand](Compendium/spells/mage-hand.md), [mind sliver](Compendium/spells/mind-sliver-tce.md) (appears in this book), and [message](Compendium/spells/message.md) cantrips if you don't already know them.
 
 The crystal has 3 charges, and it regains `1d3` expended charges daily at dawn. You can use the charges in the following ways while holding it:
 

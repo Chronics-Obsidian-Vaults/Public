@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/age/futuristic
@@ -11,20 +12,13 @@ tags:
 - source/item/rarity/very-rare
 - source/item/tier/minor
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+3 Ammunition"
 - "+3 Arrow"
-- "+3 Bad News Bullet"
 - "+3 Blowgun Needle"
-- "+3 Blunderbuss Bullet"
 - "+3 Crossbow Bolt"
 - "+3 Energy Cell"
-- "+3 Hand Mortar Shell"
 - "+3 Modern Bullet"
-- "+3 Musket Bullet"
-- "+3 Palm Pistol Bullet"
-- "+3 Pepperbox Bullet"
-- "+3 Pistol Bullet"
 - "+3 Renaissance Bullet"
 - "+3 Sling Bullet"
 item_type: wondrous
@@ -41,17 +35,10 @@ You have a +3 bonus to attack and damage rolls made with this piece of magic amm
 
 **Variants**:
 - [+3 Arrow](#+3%20Arrow)
-- [+3 Bad News Bullet](#+3%20Bad%20News%20Bullet)
 - [+3 Blowgun Needle](#+3%20Blowgun%20Needle)
-- [+3 Blunderbuss Bullet](#+3%20Blunderbuss%20Bullet)
 - [+3 Crossbow Bolt](#+3%20Crossbow%20Bolt)
 - [+3 Energy Cell](#+3%20Energy%20Cell)
-- [+3 Hand Mortar Shell](#+3%20Hand%20Mortar%20Shell)
 - [+3 Modern Bullet](#+3%20Modern%20Bullet)
-- [+3 Musket Bullet](#+3%20Musket%20Bullet)
-- [+3 Palm Pistol Bullet](#+3%20Palm%20Pistol%20Bullet)
-- [+3 Pepperbox Bullet](#+3%20Pepperbox%20Bullet)
-- [+3 Pistol Bullet](#+3%20Pistol%20Bullet)
 - [+3 Renaissance Bullet](#+3%20Renaissance%20Bullet)
 - [+3 Sling Bullet](#+3%20Sling%20Bullet)
 
@@ -59,17 +46,9 @@ You have a +3 bonus to attack and damage rolls made with this piece of magic amm
 
 - **Weight**: 0.05 lbs.
 
-### +3 Bad News Bullet
-
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition)
-
 ### +3 Blowgun Needle
 
 - **Weight**: 0.02 lbs.
-
-### +3 Blunderbuss Bullet
-
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition)
 
 ### +3 Crossbow Bolt
 
@@ -79,29 +58,9 @@ You have a +3 bonus to attack and damage rolls made with this piece of magic amm
 
 - **Weight**: 0.3125 lbs.
 
-### +3 Hand Mortar Shell
-
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition)
-
 ### +3 Modern Bullet
 
 - **Weight**: 0.1 lbs.
-
-### +3 Musket Bullet
-
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition)
-
-### +3 Palm Pistol Bullet
-
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition)
-
-### +3 Pepperbox Bullet
-
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition)
-
-### +3 Pistol Bullet
-
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition)
 
 ### +3 Renaissance Bullet
 

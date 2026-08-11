@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Adventures in Sharn; Life in the City
+- "Adventures in Sharn; Life in the City"
 ---
 # Adventures in Sharn; Life in the City
 *Source: Eberron: Rising from the Last War p. 239* 
@@ -19,5 +19,5 @@ aliases:
 | 3 | A Karrnathi undead soldier troubled by sporadic memories of his former life is trying to locate his wife and family, who have fled Karrnath and now live somewhere in the lower districts of Sharn. |
 | 4 | A shifter shopkeeper in Lower Northedge is being harassed by ruffians who believe that she and her family are lycanthropes. |
 | 5 | A dragonmarked baron is found dead in her Upper Central mansion, seemingly a victim of some sort of ritual slaying. Outside help is needed to solve this delicate matter. |
-| 6 | A [radiant idol](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/radiant-idol-erlw.md) (see "chapter 6") has formed a cult that attracts professors and staff of Morgrave University, promising them knowledge beyond imagining in exchange for their worship. |
+| 6 | A [radiant idol](Compendium/bestiary/celestial/radiant-idol-erlw.md) (see "chapter 6") has formed a cult that attracts professors and staff of Morgrave University, promising them knowledge beyond imagining in exchange for their worship. |
 ^life-in-the-city

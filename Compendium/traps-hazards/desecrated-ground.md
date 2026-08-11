@@ -6,15 +6,15 @@ tags:
 - source/compendium/src/5e/dmg
 - source/hazard/wld
 aliases:
-- Desecrated Ground
+- "Desecrated Ground"
 ---
 # Desecrated Ground
 *Wilderness Hazard*  
 
-Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md) spell cast within range reveals its presence.
+Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [detect evil and good](Compendium/spells/detect-evil-and-good.md) spell cast within range reveals its presence.
 
 Undead standing on desecrated ground have advantage on all saving throws.
 
-A vial of [holy water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/holy-water-flask.md) purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [hallow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hallow.md) spell purifies desecrated ground within its area.
+A vial of [holy water](Compendium/items/holy-water-flask.md) purifies a 10-foot-square area of desecrated ground when sprinkled on it, and a [hallow](Compendium/spells/hallow.md) spell purifies desecrated ground within its area.
 
 *Source: Dungeon Master's Guide p. 110*

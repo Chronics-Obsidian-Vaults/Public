@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/22
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lady Illmarrow
+- "Lady Illmarrow"
 ---
-# [Lady Illmarrow](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/lady-illmarrow-erlw.md)
+# [Lady Illmarrow](Compendium/bestiary/npc/lady-illmarrow-erlw.md)
 *Source: Eberron: Rising from the Last War p. 296*  
 
 Lady Illmarrow is a legend—an ancient lich said to dwell in a castle of bone and ice in the coldest regions of the Lhazaar Principalities. Some stories say that she is served by a legion of undead and that she maintains a court of vampires and ghosts in her palace of ice. Other tales claim that when anyone dies in Lhazaar, Illmarrow chooses whether to take their soul before it passes on to the Keeper and Dolurrh.
@@ -68,66 +69,49 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
   - "intelligence": !!int "15"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+15"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+15"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+12"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+12"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 22"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [stunned](Rules/conditions.md#Stunned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 22"
 "languages": "Common, Draconic, Elvish"
 "cr": "22"
 "traits":
   - "desc": "Illmarrow is a 20th-level spellcaster. Her spellcasting ability is Intelligence\
       \ (spell save DC 23, +15 to hit with spell attacks). Illmarrow has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [chill touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chill-touch.md)\
-      \ (see \"Actions\" below), [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md),\
-      \ [ray of frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md)\n\
-      \n**1st level (4 slots):** [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md)\n\
-      \n**2nd level (3 slots):** [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md)\n\
-      \n**3rd level (3 slots):** [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md),\
-      \ [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md)\n\
-      \n**4th level (3 slots):** [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md),\
-      \ [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md)\n\
-      \n**5th level (3 slots):** [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md),\
-      \ [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md),\
-      \ [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)\n\
-      \n**6th level (2 slots):** [chain lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chain-lightning.md),\
-      \ [circle of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-death.md),\
-      \ [create undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-undead.md)\n\
-      \n**7th level (2 slots):** [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md),\
-      \ [forcecage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/forcecage.md),\
-      \ [prismatic spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prismatic-spray.md)\n\
-      \n**8th level (1 slots):** [incendiary cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/incendiary-cloud.md),\
-      \ [maze](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/maze.md)\n\
-      \n**9th level (1 slots):** [power word kill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-kill.md),\
-      \ [time stop](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/time-stop.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [chill touch](Compendium/spells/chill-touch.md)\
+      \ (see \"Actions\" below), [fire bolt](Compendium/spells/fire-bolt.md), [mage\
+      \ hand](Compendium/spells/mage-hand.md), [prestidigitation](Compendium/spells/prestidigitation.md),\
+      \ [ray of frost](Compendium/spells/ray-of-frost.md)\n\n**1st level (4 slots):**\
+      \ [magic missile](Compendium/spells/magic-missile.md), [shield](Compendium/spells/shield.md),\
+      \ [sleep](Compendium/spells/sleep.md)\n\n**2nd level (3 slots):** [blur](Compendium/spells/blur.md),\
+      \ [detect thoughts](Compendium/spells/detect-thoughts.md), [mirror image](Compendium/spells/mirror-image.md)\n\
+      \n**3rd level (3 slots):** [animate dead](Compendium/spells/animate-dead.md),\
+      \ [counterspell](Compendium/spells/counterspell.md), [fireball](Compendium/spells/fireball.md),\
+      \ [fly](Compendium/spells/fly.md), [lightning bolt](Compendium/spells/lightning-bolt.md)\n\
+      \n**4th level (3 slots):** [blight](Compendium/spells/blight.md), [confusion](Compendium/spells/confusion.md),\
+      \ [polymorph](Compendium/spells/polymorph.md)\n\n**5th level (3 slots):** [cloudkill](Compendium/spells/cloudkill.md),\
+      \ [cone of cold](Compendium/spells/cone-of-cold.md), [hold monster](Compendium/spells/hold-monster.md),\
+      \ [scrying](Compendium/spells/scrying.md)\n\n**6th level (2 slots):** [chain\
+      \ lightning](Compendium/spells/chain-lightning.md), [circle of death](Compendium/spells/circle-of-death.md),\
+      \ [create undead](Compendium/spells/create-undead.md)\n\n**7th level (2 slots):**\
+      \ [finger of death](Compendium/spells/finger-of-death.md), [forcecage](Compendium/spells/forcecage.md),\
+      \ [prismatic spray](Compendium/spells/prismatic-spray.md)\n\n**8th level (1\
+      \ slots):** [incendiary cloud](Compendium/spells/incendiary-cloud.md), [maze](Compendium/spells/maze.md)\n\
+      \n**9th level (1 slots):** [power word kill](Compendium/spells/power-word-kill.md),\
+      \ [time stop](Compendium/spells/time-stop.md)"
     "name": "Spellcasting"
   - "desc": "If Illmarrow fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -147,17 +131,17 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
     "name": "Chill Touch (Cantrip)"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one creature. *Hit:*\
       \ 13 (3d6 + 3) slashing damage plus 10 (3d6) cold damage, and the target must\
-      \ succeed on a DC 20 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ succeed on a DC 20 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Paralyzing Claw"
   - "desc": "Illmarrow exhales poisonous gas in a 30-foot cone. Each creature in that\
       \ area must make a DC 20 Constitution saving throw. On a failed save, a creature\
-      \ takes 35 (10d6) poison damage and is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way, the creature can't regain hit points. On a successful save, the\
-      \ creature takes half as much damage and isn't [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\n\
-      \nA humanoid reduced to 0 hit points by this damage dies and rises at the start\
+      \ takes 35 (10d6) poison damage and is [poisoned](Rules/conditions.md#Poisoned)\
+      \ for 1 minute. While [poisoned](Rules/conditions.md#Poisoned) in this way,\
+      \ the creature can't regain hit points. On a successful save, the creature takes\
+      \ half as much damage and isn't [poisoned](Rules/conditions.md#Poisoned).\n\n\
+      A humanoid reduced to 0 hit points by this damage dies and rises at the start\
       \ of Illmarrow's next turn as a zombie. The zombie acts immediately after Illmarrow\
       \ in the initiative count and is permanently under her command, following her\
       \ verbal orders."
@@ -171,17 +155,17 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
   - "desc": "Illmarrow uses her Paralyzing Claw."
     "name": "Paralyzing Claw"
   - "desc": "Illmarrow targets up to three creatures she can see within 30 feet of\
-      \ her. Each target must succeed on a DC 20 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ for 1 minute. A [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. If a target's saving throw is successful\
-      \ or the effect ends for it, the target is immune to Illmarrow's Frightening\
-      \ Presence for the next 24 hours."
+      \ her. Each target must succeed on a DC 20 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
+      \ for 1 minute. A [frightened](Rules/conditions.md#Frightened) target can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success. If a target's saving throw is successful or the effect ends\
+      \ for it, the target is immune to Illmarrow's Frightening Presence for the next\
+      \ 24 hours."
     "name": "Frightening Presence (Costs 2 Actions)"
   - "desc": "Illmarrow recharges her Poison Breath and uses it."
     "name": "Poison Breath (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/lady-illmarrow-erlw.webp"
+"image": "Compendium/bestiary/npc/token/lady-illmarrow-erlw.webp"
 ```
 ^statblock

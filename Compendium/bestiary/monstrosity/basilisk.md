@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Basilisk
+- "Basilisk"
 ---
-# [Basilisk](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/basilisk.md)
-*Source: Monster Manual p. 24, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Basilisk](Compendium/bestiary/monstrosity/basilisk.md)
+*Source: Monster Manual p. 24. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.
 
@@ -27,7 +28,7 @@ A basilisk born and raised in captivity can be domesticated and trained. Such a 
 
 Basilisks are ponderous for hunting creatures, but they needn't chase prey. Meeting a basilisk's supernatural gaze can be enough to affect a rapid transformation, transforming a victim into porous stone. Basilisks, with their strong jaws, are able to consume the stone. The stone returns to organic form in the basilisk's gullet.
 
-Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified) creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified) creature, such as its head, is detached.
+Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [petrified](Rules/conditions.md#Petrified) creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [petrified](Rules/conditions.md#Petrified) creature, such as its head, is detached.
 
 > [!quote] A quote from X the Mystic's 4th rule of dungeon survival  
 > 
@@ -52,19 +53,18 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
   - !!int "8"
   - !!int "7"
 "speed": "20 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": ""
 "cr": "3"
 "traits":
   - "desc": "If a creature starts its turn within 30 feet of the basilisk and the\
       \ two of them can see each other, the basilisk can force the creature to make\
-      \ a DC 12 Constitution saving throw if the basilisk isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
-      \ On a failed save, the creature magically begins to turn to stone and is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ a DC 12 Constitution saving throw if the basilisk isn't [incapacitated](Rules/conditions.md#Incapacitated).\
+      \ On a failed save, the creature magically begins to turn to stone and is [restrained](Rules/conditions.md#Restrained).\
       \ It must repeat the saving throw at the end of its next turn. On a success,\
-      \ the effect ends. On a failure, the creature is [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified)\
-      \ until freed by the  [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
-      \ spell or other magic.\n\nA creature that isn't [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised)\
+      \ the effect ends. On a failure, the creature is [petrified](Rules/conditions.md#Petrified)\
+      \ until freed by the [greater restoration](Compendium/spells/greater-restoration.md)\
+      \ spell or other magic.\n\nA creature that isn't [surprised](Rules/conditions.md#Surprised)\
       \ can avert its eyes to avoid the saving throw at the start of its turn. If\
       \ it does so, it can't see the basilisk until the start of its next turn, when\
       \ it can avert its eyes again. If it looks at the basilisk in the meantime,\
@@ -78,8 +78,7 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
     "name": "Bite"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/basilisk.webp"
+"image": "Compendium/bestiary/monstrosity/token/basilisk.webp"
 ```
 ^statblock
 

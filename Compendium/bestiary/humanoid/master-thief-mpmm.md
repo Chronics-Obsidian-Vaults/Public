@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Master Thief
+- "Master Thief"
 ---
-# [Master Thief](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/master-thief-mpmm.md)
+# [Master Thief](Compendium/bestiary/humanoid/master-thief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*  
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
@@ -41,7 +42,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"
@@ -57,16 +58,19 @@ When a master thief completes a challenging heist, they often leave behind a cal
   - "dexterity": !!int "7"
   - "intelligence": !!int "3"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+7"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+7"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
+"gear":
+  - "[shortbow](Compendium/items/shortbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common) plus thieves' cant"
 "cr": "5"
@@ -74,7 +78,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
   - "desc": "If the thief is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, the thief instead takes no damage if\
       \ it succeeds on the saving throw and only half damage if it fails, provided\
-      \ the thief isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ the thief isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Evasion"
 "actions":
   - "desc": "The thief makes three Shortsword or Shortbow attacks."
@@ -86,10 +90,8 @@ When a master thief completes a challenging heist, they often leave behind a cal
       \ 7 (1d6 + 4) piercing damage plus 3 (1d6) poison damage."
     "name": "Shortbow"
 "bonus_actions":
-  - "desc": "The thief takes the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash),\
-      \ [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage),\
-      \ or [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide)\
-      \ action."
+  - "desc": "The thief takes the [Dash](Rules/actions.md#Dash), [Disengage](Rules/actions.md#Disengage),\
+      \ or [Hide](Rules/actions.md#Hide) action."
     "name": "Cunning Action"
 "reactions":
   - "desc": "The thief halves the damage that it takes from an attack that hits it.\
@@ -98,7 +100,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/master-thief-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/master-thief-mpmm.webp"
 ```
 ^statblock
 

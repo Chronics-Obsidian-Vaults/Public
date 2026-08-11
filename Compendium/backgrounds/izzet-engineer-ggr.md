@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Izzet Engineer
+- "Izzet Engineer"
 ---
 # Izzet Engineer
 *Source: Guildmasters' Guide to Ravnica p. 66*  
 
 
-- **Skill Proficiencies.** [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)  
+- **Skill Proficiencies.** [Arcana](Rules/skills.md#Arcana), [Investigation](Rules/skills.md#Investigation)  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** Choose one of Draconic, Goblin, or Vedalken  
-- **Equipment.** An Izzet insignia, one set of artisan's tools, the charred and twisted remains of a failed experiment, a [hammer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hammer.md), a [block and tackle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/block-and-tackle.md), a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 5 gp (Azorius 1-zino coins)  
+- **Equipment.** An Izzet insignia, one set of artisan's tools, the charred and twisted remains of a failed experiment, a [hammer](Compendium/items/hammer.md), a [block and tackle](Compendium/items/block-and-tackle.md), a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 5 gp (Azorius 1-zino coins)  
 
 Armed with an inventive intellect, a love of magical technology, and an unquenchable energy, you are an enthusiastic participant in the research work of the Izzet League. Though you're likely to begin your career as a mere attendant, you can aspire to become a skilled mage or alchemist, a laboratory supervisor, or even a flamethrower-wielding scorchbringer tasked with defending Izzet laboratories. The Izzet are obsessive, brilliant, inspired, and an unpredictable force of chaos in Ravnica, and you epitomize all of those qualities.
 
@@ -34,19 +35,19 @@ For you, the spells on the Izzet Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [produce flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/produce-flame.md), [shocking grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md) |
-| 1st | [chaos bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chaos-bolt-xge.md), [create or destroy water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-or-destroy-water.md), [unseen servant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/unseen-servant.md) |
-| 2nd | [heat metal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heat-metal.md), [rope trick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/rope-trick.md) |
-| 3rd | [call lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/call-lightning.md), [elemental weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/elemental-weapon.md), [glyph of warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md) |
-| 4th | [conjure minor elementals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-minor-elementals.md), [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md), [Otiluke's resilient sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/otilukes-resilient-sphere.md) |
-| 5th | [animate objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-objects.md), [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md) |
+| Cantrip | [produce flame](Compendium/spells/produce-flame.md), [shocking grasp](Compendium/spells/shocking-grasp.md) |
+| 1st | [chaos bolt](Compendium/spells/chaos-bolt-xge.md), [create or destroy water](Compendium/spells/create-or-destroy-water.md), [unseen servant](Compendium/spells/unseen-servant.md) |
+| 2nd | [heat metal](Compendium/spells/heat-metal.md), [rope trick](Compendium/spells/rope-trick.md) |
+| 3rd | [call lightning](Compendium/spells/call-lightning.md), [elemental weapon](Compendium/spells/elemental-weapon.md), [glyph of warding](Compendium/spells/glyph-of-warding.md) |
+| 4th | [conjure minor elementals](Compendium/spells/conjure-minor-elementals.md), [divination](Compendium/spells/divination.md), [Otiluke's resilient sphere](Compendium/spells/otilukes-resilient-sphere.md) |
+| 5th | [animate objects](Compendium/spells/animate-objects.md), [conjure elemental](Compendium/spells/conjure-elemental.md) |
 ^izzet-guild-spells
 
-Your spells tend to be loud, flashy, or explosive, even when the effect is unremarkable. For example, when you open the portal of a [rope trick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/rope-trick.md) spell, the portal might be outlined by harmless, showy sparkles.
+Your spells tend to be loud, flashy, or explosive, even when the effect is unremarkable. For example, when you open the portal of a [rope trick](Compendium/spells/rope-trick.md) spell, the portal might be outlined by harmless, showy sparkles.
 
-If you use an arcane focus, it probably takes the form of an intricate device that could include metal gauntlets, glass canisters, copper tubing, and leather straps attaching it to your body. The [mizzium apparatus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mizzium-apparatus-ggr.md) described in "chapter 5" is a magical version of this gear.
+If you use an arcane focus, it probably takes the form of an intricate device that could include metal gauntlets, glass canisters, copper tubing, and leather straps attaching it to your body. The [mizzium apparatus](Compendium/items/mizzium-apparatus-ggr.md) described in "chapter 5" is a magical version of this gear.
 
-The [chaos bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chaos-bolt-xge.md) spell is a favorite of Izzet spellcasters because of its unpredictable nature.
+The [chaos bolt](Compendium/spells/chaos-bolt-xge.md) spell is a favorite of Izzet spellcasters because of its unpredictable nature.
 
 ## Suggested Characteristics
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Building a Party; Party Makeup
+- "Building a Party; Party Makeup"
 ---
 # Building a Party; Party Makeup
 *Source: Guildmasters' Guide to Ravnica p. 11* 
@@ -19,7 +19,7 @@ aliases:
 | 3 | **Law and Order Party**. Boros cleric, Azorius fighter, Azorius wizard, Boros ranger |
 | 4 | **Mad Science Party**. Simic druid, Izzet fighter, Izzet wizard, Simic monk |
 | 5 | **Skulkers Party**. Golgari druid, Golgari fighter or ranger, Dimir rogue or monk, Dimir wizard |
-| 6 | **Chaos Party**. Gruul druid, Gruul barbarian, [Rakdos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rakdos-ggr.md) warlock, [Rakdos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rakdos-ggr.md) rogue |
+| 6 | **Chaos Party**. Gruul druid, Gruul barbarian, [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md) warlock, [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md) rogue |
 | 7 | **Nature Party**. Selesnya druid, Gruul barbarian, Simic wizard or Selesnya bard, Golgari rogue |
 | 8 | **Benevolent Party**. Selesnya cleric, Boros paladin, Azorius wizard, Selesnya bard |
 ^party-makeup

@@ -7,8 +7,8 @@ tags:
 - source/deity/greek
 - source/domain/forge
 - source/domain/knowledge
-aliases: 
-- Hephaestus
+aliases:
+- "Hephaestus"
 ---
 # Hephaestus
 *Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/dragonlance
 - source/domain/nature
-aliases: 
-- Sirrion
+aliases:
+- "Sirrion"
 ---
 # Sirrion
 *Source: Player's Handbook p. 295* 

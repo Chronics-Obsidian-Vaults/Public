@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/age/futuristic
@@ -14,7 +15,7 @@ tags:
 - source/item/weapon/ranged
 - source/item/weapon/simple
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Weapon of Warning"
 - "Antimatter Rifle of Warning"
 - "Automatic Pistol of Warning"
@@ -75,10 +76,10 @@ attunement: required
 ---
 # Weapon of Warning
 *Major, uncommon (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/weapon-of-warning.webp#right)
+![Weapon of Warning (Trident)](Compendium/items/img/weapon-of-warning.webp#right)
 
 
-This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised), except when [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
+This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be [surprised](Rules/conditions.md#Surprised), except when [incapacitated](Rules/conditions.md#Incapacitated) by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
 
 **Variants**:
 - [Antimatter Rifle of Warning](#Antimatter%20Rifle%20of%20Warning)
@@ -138,21 +139,21 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Automatic Pistol of Warning
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Automatic Rifle of Warning
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Burst Fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Burst%20Fire), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Burst Fire](Rules/item-properties.md#Burst%20Fire), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Battleaxe of Warning
@@ -160,40 +161,40 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Blowgun of Warning
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading)
 - **Weight**: 1.0 lbs.
 
 ### Club of Warning
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Dagger of Warning
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light), [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Dart of Warning
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### Double-Bladed Scimitar of Warning
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Flail of Warning
@@ -204,127 +205,127 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
 ### Glaive of Warning
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Greataxe of Warning
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Greatclub of Warning
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Greatsword of Warning
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Halberd of Warning
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Hand Crossbow of Warning
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Light](Rules/item-properties.md#Light), [Loading](Rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Handaxe of Warning
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Light](Rules/item-properties.md#Light), [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Heavy Crossbow of Warning
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Loading](Rules/item-properties.md#Loading), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Hooked Shortspear of Warning
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Hoopak of Warning
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Finesse](Rules/item-properties.md#Finesse), [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Weight**: 2.0 lbs.
 
 ### Hunting Rifle of Warning
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Javelin of Warning
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Lance of Warning
 
 - **Damage**: 1d12 piercing
-- **Properties**: [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Reach](Rules/item-properties.md#Reach), [special](Rules/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Laser Pistol of Warning
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Laser Rifle of Warning
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Light Crossbow of Warning
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Light Hammer of Warning
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Light](Rules/item-properties.md#Light), [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Light Repeating Crossbow of Warning
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Longbow of Warning
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Longsword of Warning
@@ -332,7 +333,7 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Mace of Warning
@@ -343,7 +344,7 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
 ### Maul of Warning
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Morningstar of Warning
@@ -355,25 +356,25 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Net of Warning
 
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown), [special](Rules/item-properties.md#Special%20Weapons)
 - **Weight**: 3.0 lbs.
 
 ### Pike of Warning
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Pistol of Warning
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Quarterstaff of Warning
@@ -381,59 +382,59 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Rapier of Warning
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Revolver of Warning
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Scimitar of Warning
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Shortbow of Warning
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Shortsword of Warning
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Shotgun of Warning
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Sickle of Warning
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Sling of Warning
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition)
 
 ### Spear of Warning
 
@@ -441,7 +442,7 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown), [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Trident of Warning
@@ -450,7 +451,7 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown), [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### War Pick of Warning
@@ -463,20 +464,20 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Whip of Warning
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Reach](Rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 ### Yklwa of Warning
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
 

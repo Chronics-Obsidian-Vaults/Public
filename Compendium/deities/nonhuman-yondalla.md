@@ -7,8 +7,8 @@ tags:
 - source/deity/nonhuman
 - source/domain/life
 - source/domain/twilight
-aliases: 
-- Yondalla
+aliases:
+- "Yondalla"
 ---
 # Yondalla
 *Source: Player's Handbook p. 296, Tasha's Cauldron of Everything p. 34* 

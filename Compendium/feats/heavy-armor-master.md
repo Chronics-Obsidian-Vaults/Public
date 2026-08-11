@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Heavy Armor Master
+- "Heavy Armor Master"
 ---
 # Heavy Armor Master
 *Source: Player's Handbook p. 167*  

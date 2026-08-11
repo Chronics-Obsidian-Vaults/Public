@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/23
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Karkethzerethzerus, the Sable Despoiler
+- "Karkethzerethzerus, the Sable Despoiler"
 ---
-# [Karkethzerethzerus, the Sable Despoiler](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/karkethzerethzerus-the-sable-despoiler-egw.md)
+# [Karkethzerethzerus, the Sable Despoiler](Compendium/bestiary/npc/karkethzerethzerus-the-sable-despoiler-egw.md)
 *Source: Explorer's Guide to Wildemount p. 158*  
 
 ```statblock
@@ -38,18 +39,17 @@ aliases:
   - "wisdom": !!int "9"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+11"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+11"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+16"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "necrotic"
 "damage_immunities": "cold"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 26"
 "languages": "Common, Draconic"
 "cr": "23"
@@ -59,12 +59,12 @@ aliases:
   - "desc": "While in dim light or darkness, the dragon has resistance to damage that\
       \ isn't force, psychic, or radiant."
     "name": "Living Shadow"
-  - "desc": "While in dim light or darkness, the dragon can take the [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide)\
+  - "desc": "While in dim light or darkness, the dragon can take the [Hide](Rules/actions.md#Hide)\
       \ action as a bonus action."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the dragon has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
@@ -80,19 +80,18 @@ aliases:
       \ (2d8 + 10) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
       \ dragon's Frightful Presence for the next 24 hours."
     "name": "Frightful Presence"
-  - "desc": "The dragon uses one of the following breath weapons.\n\n- **Necrotic\
-      \ Breath.** The dragon exhales an icy blast in a 90-foot cone. Each creature\
-      \ in that area must make a DC 24 Constitution saving throw, taking 67 (15d8)\
-      \ necrotic damage on a failed save, or half as much damage on a successful one.\
-      \  \n- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot\
-      \ cone. Each creature in that area must succeed on a DC 24 Constitution saving\
-      \ throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+  - "desc": "The dragon uses one of the following breath weapons.\n\n- **Shadow Breath.**\
+      \ The dragon exhales an icy blast in a 90-foot cone. Each creature in that area\
+      \ must make a DC 24 Constitution saving throw, taking 67 (15d8) necrotic damage\
+      \ on a failed save, or half as much damage on a successful one.  \n- **Paralyzing\
+      \ Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature\
+      \ in that area must succeed on a DC 24 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  "
     "name": "Breath Weapons (Recharge 5-6)"
@@ -110,18 +109,18 @@ aliases:
   \ turn, Karkethzerethzerus can expend a use to take one of the following actions.\
   \ Karkethzerethzerus regains all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
       \ must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ The dragon can then fly up to half its flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). The dragon can then\
+      \ fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/karkethzerethzerus-the-sable-despoiler-egw.webp"
+"image": "Compendium/bestiary/npc/token/karkethzerethzerus-the-sable-despoiler-egw.webp"
 ```
 ^statblock

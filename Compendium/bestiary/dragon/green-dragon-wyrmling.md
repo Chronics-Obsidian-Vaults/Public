@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Green Dragon Wyrmling
+- "Green Dragon Wyrmling"
 ---
-# [Green Dragon Wyrmling](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/green-dragon-wyrmling.md)
+# [Green Dragon Wyrmling](Compendium/bestiary/dragon/green-dragon-wyrmling.md)
 *Source: Monster Manual p. 95. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -128,14 +129,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "2"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -152,6 +152,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Poison Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/green-dragon-wyrmling.webp"
+"image": "Compendium/bestiary/dragon/token/green-dragon-wyrmling.webp"
 ```
 ^statblock

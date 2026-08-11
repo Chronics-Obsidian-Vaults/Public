@@ -7,15 +7,15 @@ tags:
 - source/deity/faerunian
 - source/domain/arcana
 - source/domain/knowledge
-aliases: 
-- Mystra
-- The Lady of Mysteries
-- Our Lady of Spells
-- The Mother of All Magic
+aliases:
+- "Mystra"
+- "The Lady of Mysteries"
+- "Our Lady of Spells"
+- "The Mother of All Magic"
 ---
 # Mystra
 *Source: Sword Coast Adventurer's Guide* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-mystra.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-mystra.webp#symbol)
 
 - **Alternate Names**: The Lady of Mysteries, Our Lady of Spells, The Mother of All Magic
 - **Alignment**: Neutral Good

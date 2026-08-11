@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Why Be a Secretarian?
+- "Why Be a Secretarian?"
 ---
 # Why Be a Secretarian?
 *Source: Acquisitions Incorporated p. 34* 

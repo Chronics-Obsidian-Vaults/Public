@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon Creator; Cults and Religions
+- "Dungeon Creator; Cults and Religions"
 ---
 # Dungeon Creator; Cults and Religions
 *Source: Dungeon Master's Guide p. 99* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/rakdos-cultist
@@ -8,16 +9,15 @@ tags:
 - source/spell/class/druid
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/2nd-level
 - source/spell/school/conjuration
-- source/spell/subclass/alchemist
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/circle-of-wildfire
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/light-domain
 - source/spell/subclass/the-celestial
 classes:
-- Artificer (Alchemist)
 - Bard (Magical Secrets)
 - Cleric (Light Domain)
 - Druid
@@ -28,7 +28,7 @@ classes:
 - Warlock (The Celestial)
 - Wizard
 aliases:
-- Flaming Sphere
+- "Flaming Sphere"
 level: 2
 school: conjuration
 ritual: false
@@ -56,6 +56,6 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `1d6` for each slot level above 2nd.
 
-**Classes**: [Artificer (Alchemist)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-light-domain.md); [Druid (Circle of Wildfire)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Celestial)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain.md); [Druid (Circle of Wildfire)](Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Celestial)](Compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

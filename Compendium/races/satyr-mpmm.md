@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/satyr
 aliases:
-- Satyr
+- "Satyr"
 ---
 # Satyr
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 29*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/satyr.webp#right)
+![](Compendium/races/img/satyr.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: fey
@@ -36,7 +37,7 @@ Whenever you make a long jump or a high jump, you can roll a `d8` and add the nu
 
 ### Reveler
 
-As an embodiment of revelry, you have proficiency in the [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance) and [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) skills, and you have proficiency with one [musical instrument](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/musical-instrument.md) of your choice.
+As an embodiment of revelry, you have proficiency in the [Performance](Rules/skills.md#Performance) and [Persuasion](Rules/skills.md#Persuasion) skills, and you have proficiency with one [musical instrument](Compendium/items/musical-instrument.md) of your choice.
 
 ## Description
 

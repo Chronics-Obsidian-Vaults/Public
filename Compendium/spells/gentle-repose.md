@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -8,12 +9,11 @@ tags:
 - source/spell/class/paladin
 - source/spell/class/wizard
 - source/spell/level/2nd-level
-- source/spell/reward/athreoss-devotee
 - source/spell/ritual
 - source/spell/school/necromancy
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/circle-of-spores
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/grave-domain
 classes:
@@ -24,10 +24,10 @@ classes:
 - Fighter (Eldritch Knight)
 - Paladin
 - Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Wizard
 aliases:
-- Gentle Repose
+- "Gentle Repose"
 level: 2
 ritual: true
 school: necromancy
@@ -49,8 +49,8 @@ components_vsm: [V, S, M]
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.
 
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md).
+The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as [raise dead](Compendium/spells/raise-dead.md).
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Grave Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of Spores)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Grave Domain)](Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of Spores)](Compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 245. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

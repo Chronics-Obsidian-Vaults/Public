@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
@@ -9,7 +10,7 @@ tags:
 - source/item/weapon/martial
 - source/item/weapon/melee
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Sword of Sharpness"
 - "Double-Bladed Scimitar of Sharpness"
 - "Greatsword of Sharpness"
@@ -22,7 +23,7 @@ attunement: required
 ---
 # Sword of Sharpness
 *Major, very rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/sword-of-sharpness.webp#right)
+![Sword of Sharpness (Greatsword)](Compendium/items/img/sword-of-sharpness.webp#right)
 
 
 When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
@@ -43,13 +44,13 @@ In addition, you can speak the sword's command to cause the blade to shed bright
 ### Double-Bladed Scimitar of Sharpness
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Sharpness
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Sharpness
@@ -57,13 +58,13 @@ In addition, you can speak the sword's command to cause the blade to shed bright
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Scimitar of Sharpness
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 

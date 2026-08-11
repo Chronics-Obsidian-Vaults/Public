@@ -6,11 +6,11 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/bard/eloquence
 aliases:
-- College of Eloquence
+- "College of Eloquence"
 ---
 # College of Eloquence
 *[Bard](./bard.md): Bard College*  
-*Source: Tasha's Cauldron of Everything p. 29, Mythic Odysseys of Theros p. 28*  
+*Source: Tasha's Cauldron of Everything p. 29*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -43,18 +43,17 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### College of Eloquence (Level 3)
+![](Compendium/classes/img/eloquence-bard.webp#right)
 
 Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more persuasive than facts. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments and plucking at heartstrings to appeal to the emotions of audiences.
+
+## Subclass Features
 
 ### Silver Tongue (Level 3)
 
 *3rd-level College of Eloquence feature*
 
-You are a master at saying the right thing at the right time. When you make a Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) or Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)) check, you can treat a `d20` roll of 9 or lower as a 10.
+You are a master at saying the right thing at the right time. When you make a Charisma ([Persuasion](Rules/skills.md#Persuasion)) or Charisma ([Deception](Rules/skills.md#Deception)) check, you can treat a `d20` roll of 9 or lower as a 10.
 
 ### Unsettling Words (Level 3)
 

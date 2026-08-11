@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/armor/medium
 - source/item/rarity/uncommon
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Fungal Spores"
 - "Breastplate of Fungal Spores"
 - "Chain Shirt of Fungal Spores"
@@ -21,7 +22,7 @@ attunement: none
 ---
 # Armor of Fungal Spores
 *Uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/armor-of-fungal-spores.webp#right)
+![](Compendium/items/img/armor-of-fungal-spores.webp#right)
 
 
 While wearing this armor, you can take a bonus action to make the armor emit poisonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the poisoned condition until the end of your next turn. Once this property is used, it can't be used again until the next dawn.

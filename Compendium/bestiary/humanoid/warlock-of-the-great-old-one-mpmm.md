@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/6
@@ -14,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warlock of the Great Old One
+- "Warlock of the Great Old One"
 ---
-# [Warlock of the Great Old One](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/warlock-of-the-great-old-one-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220, The Book of Many Things*  
+# [Warlock of the Great Old One](Compendium/bestiary/humanoid/warlock-of-the-great-old-one-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220*  
 
 Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars.
 
@@ -31,7 +32,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "16 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "16 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "modifier": !!int "3"
@@ -47,19 +48,20 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
   - "wisdom": !!int "4"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+4"
 "damage_resistances": "psychic"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "any two languages, telepathy 30 ft."
 "cr": "6"
 "traits":
   - "desc": "At the start of each of the warlock's turns, each creature of its choice\
       \ within 10 feet of it must succeed on a DC 15 Wisdom saving throw or take 10\
-      \ (3d6) psychic damage, provided that the warlock isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ (3d6) psychic damage, provided that the warlock isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Whispering Aura"
 "actions":
   - "desc": "The warlock makes two Dagger attacks."
@@ -71,27 +73,22 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
   - "desc": "The warlock opens a momentary extraplanar rift within 60 feet of it.\
       \ The rift is a scream-filled, 20-foot cube. Each creature in that area must\
       \ make a DC 15 Wisdom saving throw. On a failed save, a creature takes 9 (2d8)\
-      \ psychic damage and is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of the warlock until the start of the warlock's next turn. On a successful\
-      \ save, a creature takes half as much damage and isn't [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+      \ psychic damage and is [frightened](Rules/conditions.md#Frightened) of the\
+      \ warlock until the start of the warlock's next turn. On a successful save,\
+      \ a creature takes half as much damage and isn't [frightened](Rules/conditions.md#Frightened)."
     "name": "Howling Void"
   - "desc": "The warlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 15): \n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\
-      \ (self only), [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1/day each:** [arcane gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-gate.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [true seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-seeing.md)"
+      \ spellcasting ability (spell save DC 15): \n\n**At will:** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [guidance](Compendium/spells/guidance.md), [levitate](Compendium/spells/levitate.md),\
+      \ [mage armor](Compendium/spells/mage-armor.md) (self only), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**1/day each:** [arcane gate](Compendium/spells/arcane-gate.md), [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [true seeing](Compendium/spells/true-seeing.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/warlock-of-the-great-old-one-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/warlock-of-the-great-old-one-mpmm.webp"
 ```
 ^statblock
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Silver Dragon Wyrmling
+- "Silver Dragon Wyrmling"
 ---
-# [Silver Dragon Wyrmling](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/silver-dragon-wyrmling.md)
+# [Silver Dragon Wyrmling](Compendium/bestiary/dragon/silver-dragon-wyrmling.md)
 *Source: Monster Manual p. 118. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -110,13 +111,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "2"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_immunities": "cold"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -129,12 +129,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on\
       \ a failed save, or half as much damage on a successful one.  \n- **Paralyzing\
       \ Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature\
-      \ in that area must succeed on a DC 13 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ in that area must succeed on a DC 13 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  "
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/silver-dragon-wyrmling.webp"
+"image": "Compendium/bestiary/dragon/token/silver-dragon-wyrmling.webp"
 ```
 ^statblock

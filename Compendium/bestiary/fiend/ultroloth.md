@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/13
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ultroloth
+- "Ultroloth"
 ---
-# [Ultroloth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/ultroloth.md)
-*Source: Monster Manual p. 314, Explorer's Guide to Wildemount*  
+# [Ultroloth](Compendium/bestiary/fiend/ultroloth.md)
+*Source: Monster Manual p. 314*  
 
 Ultroloths command the yugoloth armies of the Blood War. An ultroloth looks like a slender gray-skinned humanoid with an elongated head. Its face bears no features except for two ovoid eyes. These eyes can become sparkling pools of light that can transfix other creatures and leave them reeling and helpless.
 
@@ -91,38 +92,33 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - !!int "19"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 17"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 17"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "13"
 "traits":
   - "desc": "The ultroloth's innate spellcasting ability is Charisma (spell save DC\
       \ 17). The ultroloth can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md),\
-      \ [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md),\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only), [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**3/day each:** [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md)\n\
-      \n**1/day each:** [fire storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-storm.md),\
-      \ [mass suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-suggestion.md)"
+      \ components:\n\n**At will:** [alter self](Compendium/spells/alter-self.md),\
+      \ [clairvoyance](Compendium/spells/clairvoyance.md), [darkness](Compendium/spells/darkness.md),\
+      \ [detect magic](Compendium/spells/detect-magic.md), [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [invisibility](Compendium/spells/invisibility.md)\
+      \ (self only), [suggestion](Compendium/spells/suggestion.md)\n\n**3/day each:**\
+      \ [dimension door](Compendium/spells/dimension-door.md), [fear](Compendium/spells/fear.md),\
+      \ [wall of fire](Compendium/spells/wall-of-fire.md)\n\n**1/day each:** [fire\
+      \ storm](Compendium/spells/fire-storm.md), [mass suggestion](Compendium/spells/mass-suggestion.md)"
     "name": "Innate Spellcasting"
   - "desc": "The ultroloth has advantage on saving throws against spells and other\
       \ magical effects."
@@ -138,9 +134,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - "desc": "The ultroloth's eyes sparkle with opalescent light as it targets one\
       \ creature it can see within 30 feet of it. If the target can see the ultroloth,\
       \ the target must succeed on a DC 17 Wisdom saving throw against this magic\
-      \ or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ until the end of the ultroloth's next turn. The [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ target is [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned).\
+      \ or be [charmed](Rules/conditions.md#Charmed) until the end of the ultroloth's\
+      \ next turn. The [charmed](Rules/conditions.md#Charmed) target is [stunned](Rules/conditions.md#Stunned).\
       \ If the target's saving throw is successful, the target is immune to the ultroloth's\
       \ gaze for the next 24 hours."
     "name": "Hypnotic Gaze"
@@ -149,7 +144,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     "name": "Teleport"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/ultroloth.webp"
+"image": "Compendium/bestiary/fiend/token/ultroloth.webp"
 ```
 ^statblock

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Goggles of Night"
 item_type: 
 item_subtype: 
@@ -14,9 +15,9 @@ attunement: none
 ---
 # Goggles of Night
 *Wondrous item, minor, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/goggles-of-night.webp#right)
+![](Compendium/items/img/goggles-of-night.webp#right)
 
 
-While wearing these dark lenses, you have [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 60 feet. If you already have [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision), wearing the goggles increases its range by 60 feet.
+While wearing these dark lenses, you have [darkvision](Rules/senses.md#Darkvision) out to a range of 60 feet. If you already have [darkvision](Rules/senses.md#Darkvision), wearing the goggles increases its range by 60 feet.
 
 *Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Patron Benefits; Contacts
+- "Patron Benefits; Contacts"
 ---
 # Patron Benefits; Contacts
 *Source: Eberron: Rising from the Last War p. 86* 

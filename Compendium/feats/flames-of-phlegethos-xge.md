@@ -6,12 +6,12 @@ tags:
 - source/compendium/src/5e/xge
 - source/feat
 aliases:
-- Flames of Phlegethos
+- "Flames of Phlegethos"
 ---
 # Flames of Phlegethos
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [Tiefling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/tiefling.md)
+**Prerequisite**: [Tiefling](Compendium/races/tiefling.md)
 
 You learn to call on hellfire to serve your commands. You gain the following benefits:
 

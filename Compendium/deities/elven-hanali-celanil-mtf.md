@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/elven
 - source/domain/life
-aliases: 
-- Hanali Celanil
+aliases:
+- "Hanali Celanil"
 ---
 # Hanali Celanil
 *Source: Mordenkainen's Tome of Foes p. 45* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Umber Hulk
+- "Umber Hulk"
 ---
-# [Umber Hulk](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/umber-hulk.md)
-*Source: Monster Manual p. 292, The Book of Many Things*  
+# [Umber Hulk](Compendium/bestiary/monstrosity/umber-hulk.md)
+*Source: Monster Manual p. 292*  
 
 An abominable horror from deep beneath the earth, an umber hulk burrows into cave complexes, dungeons, or Underdark settlements in search of food. Those lucky enough to survive an umber hulk attack often remember precious little of the incident, thanks to the umber hulk's mind-scrambling gaze.
 
@@ -50,20 +51,20 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
   - !!int "10"
   - !!int "10"
 "speed": "30 ft., burrow 20 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., tremorsense 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., tremorsense 60 ft., passive\
+  \ Perception 10"
 "languages": "Umber Hulk"
 "cr": "5"
 "traits":
   - "desc": "When a creature starts its turn within 30 feet of the umber hulk and\
       \ is able to see the umber hulk's eyes, the umber hulk can magically force it\
-      \ to make a DC 15 Charisma saving throw, unless the umber hulk is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\n\
+      \ to make a DC 15 Charisma saving throw, unless the umber hulk is [incapacitated](Rules/conditions.md#Incapacitated).\n\
       \nOn a failed saving throw, the creature can't take reactions until the start\
       \ of its next turn and rolls a d8 to determine what it does during that turn.\
       \ On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no\
       \ action but uses all its movement to move in a random direction. On a 7 or\
       \ 8, the creature makes one melee attack against a random creature, or it does\
-      \ nothing if no creature is within reach.\n\nUnless [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised),\
+      \ nothing if no creature is within reach.\n\nUnless [surprised](Rules/conditions.md#Surprised),\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see the umber hulk until the start\
       \ of its next turn, when it can avert its eyes again. If the creature looks\
@@ -84,8 +85,7 @@ Many survivors of an umber hulk encounter recollect little about the attack, bec
     "name": "Mandibles"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/umber-hulk.webp"
+"image": "Compendium/bestiary/monstrosity/token/umber-hulk.webp"
 ```
 ^statblock
 

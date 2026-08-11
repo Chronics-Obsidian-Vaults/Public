@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Flail"
 item_type: weapon
 item_subtype: "martial, melee"

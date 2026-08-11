@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/mtf
 - source/item/gear/
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Elven Trinket"
 item_type: 
 item_subtype: 

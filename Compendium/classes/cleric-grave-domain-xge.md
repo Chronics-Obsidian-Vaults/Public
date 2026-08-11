@@ -7,7 +7,7 @@ tags:
 - source/domain/grave
 - source/subclass/cleric/grave
 aliases:
-- Grave Domain
+- "Grave Domain"
 ---
 # Grave Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,33 +44,34 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/grave-cleric.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
 > I guess if you can't disintegrate them or eat them, burying dead bodies makes as much sense as anything else.
 
-## Class Features
+Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, [Wee Jas](Compendium/deities/greyhawk-wee-jas.md), the ancestral spirits of the Undying Court, [Hades](Compendium/deities/greek-hades.md), [Anubis](Compendium/deities/egyptian-anubis.md), and [Osiris](Compendium/deities/egyptian-osiris.md). Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
 
-### Grave Domain (Level 1)
+## Subclass Features
 
-Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, [Wee Jas](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-wee-jas.md), the ancestral spirits of the Undying Court, [Hades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-hades.md), [Anubis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/egyptian-anubis.md), and [Osiris](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/egyptian-osiris.md). Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
+### Domain Spells (Level 1)
 
 **Grave Domain Spells**
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [bane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bane.md), [false life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/false-life.md) |
-| 3rd | [gentle repose](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gentle-repose.md), [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md) |
-| 5th | [revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md), [vampiric touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vampiric-touch.md) |
-| 7th | [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md), [death ward](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/death-ward.md) |
-| 9th | [antilife shell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antilife-shell.md), [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md) |
+| 1st | [bane](Compendium/spells/bane.md), [false life](Compendium/spells/false-life.md) |
+| 3rd | [gentle repose](Compendium/spells/gentle-repose.md), [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement.md) |
+| 5th | [revivify](Compendium/spells/revivify.md), [vampiric touch](Compendium/spells/vampiric-touch.md) |
+| 7th | [blight](Compendium/spells/blight.md), [death ward](Compendium/spells/death-ward.md) |
+| 9th | [antilife shell](Compendium/spells/antilife-shell.md), [raise dead](Compendium/spells/raise-dead.md) |
 ^grave-domain-spells
 
 ### Circle of Mortality (Level 1)
 
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 
-In addition, you learn the [spare the dying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spare-the-dying.md) cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+In addition, you learn the [spare the dying](Compendium/spells/spare-the-dying.md) cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
 ### Eyes of the Grave (Level 1)
 
@@ -97,10 +98,10 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Keeper of Souls (Level 17)
 
-Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated). Once you use it, you can't do so again until the start of your next turn.
+Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [incapacitated](Rules/conditions.md#Incapacitated). Once you use it, you can't do so again until the start of your next turn.

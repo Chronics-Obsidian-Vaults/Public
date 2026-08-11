@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Firenewt Warlock of Imix
+- "Firenewt Warlock of Imix"
 ---
-# [Firenewt Warlock of Imix](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/firenewt-warlock-of-imix-mpmm.md)
+# [Firenewt Warlock of Imix](Compendium/bestiary/elemental/firenewt-warlock-of-imix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
@@ -41,14 +42,15 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
   - !!int "14"
 "speed": "30 ft."
 "damage_immunities": "fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"gear":
+  - "[morningstar](Compendium/items/morningstar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Draconic, Ignan"
 "cr": "1"
 "traits":
   - "desc": "The firenewt can breathe air and water."
     "name": "Amphibious"
-  - "desc": "Magical darkness doesn't impede the firenewt's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the firenewt's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "When the firenewt reduces an enemy to 0 hit points, the firenewt gains\
       \ 5 temporary hit points."
@@ -63,16 +65,14 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
       \ (1d6 + 2) fire damage."
     "name": "Fire Ray"
   - "desc": "The firenewt casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)"
+      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](Compendium/spells/guidance.md),\
+      \ [light](Compendium/spells/light.md), [mage armor](Compendium/spells/mage-armor.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [prestidigitation](Compendium/spells/prestidigitation.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/firenewt-warlock-of-imix-mpmm.webp"
+"image": "Compendium/bestiary/elemental/token/firenewt-warlock-of-imix-mpmm.webp"
 ```
 ^statblock
 

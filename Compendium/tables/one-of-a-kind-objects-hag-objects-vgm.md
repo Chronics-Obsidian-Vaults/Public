@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- One-of-a-Kind Objects; Hag Objects
+- "One-of-a-Kind Objects; Hag Objects"
 ---
 # One-of-a-Kind Objects; Hag Objects
 *Source: Volo's Guide to Monsters p. 62* 

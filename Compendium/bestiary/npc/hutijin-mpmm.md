@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/21
@@ -9,14 +10,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hutijin
+- "Hutijin"
 ---
-# [Hutijin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/hutijin-mpmm.md)
+# [Hutijin](Compendium/bestiary/npc/hutijin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 157, Mordenkainen's Tome of Foes p. 175*  
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
 
-Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/pit-fiend.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
+Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](Compendium/bestiary/fiend/pit-fiend.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
 
 Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to the most learned infernal scholars. He has no cults of his own, and his servants are few in number. The reason is simple: Hutijin hates mortals. When summoned from the Hells, he repays the instigator with a long and agonizing death.
 
@@ -46,19 +47,18 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
   - "constitution": !!int "14"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+14"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 21"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[mace](Compendium/items/mace.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
@@ -80,10 +80,9 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d6 + 8) fire damage. The target must succeed on a DC 22 Constitution saving\
-      \ throw or become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ throw or become [poisoned](Rules/conditions.md#Poisoned). While [poisoned](Rules/conditions.md#Poisoned)\
       \ in this way, the target can't regain hit points, and it takes 10 (3d6) poison\
-      \ damage at the start of each of its turns. The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ damage at the start of each of its turns. The [poisoned](Rules/conditions.md#Poisoned)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Bite"
@@ -101,19 +100,16 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
     "name": "Teleport"
   - "desc": "Hutijin casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md)\
-      \ (can become Medium when changing his appearance), [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only), [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md)\n\
-      \n**3/day:** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)"
+      \ will:** [alter self](Compendium/spells/alter-self.md) (can become Medium when\
+      \ changing his appearance), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [hold monster](Compendium/spells/hold-monster.md), [invisibility](Compendium/spells/invisibility.md)\
+      \ (self only), [lightning bolt](Compendium/spells/lightning-bolt.md), [suggestion](Compendium/spells/suggestion.md),\
+      \ [wall of fire](Compendium/spells/wall-of-fire.md)\n\n**3/day:** [dispel magic](Compendium/spells/dispel-magic.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "In response to taking damage, Hutijin utters a dreadful word of power.\
       \ Each creature within 30 feet of him that isn't a devil must succeed on a DC\
-      \ 22 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ 22 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ of him for 1 minute. A creature can repeat the saving throw at the end of\
       \ each of its turns, ending the effect on itself on a success. A creature that\
       \ saves against this effect is immune to his Fearful Voice for 24 hours."
@@ -134,6 +130,6 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/hutijin-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/hutijin-mpmm.webp"
 ```
 ^statblock

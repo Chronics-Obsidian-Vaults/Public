@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Map of the Moment; Possible Map Mission Landmarks
+- "Map of the Moment; Possible Map Mission Landmarks"
 ---
 # Map of the Moment; Possible Map Mission Landmarks
 *Source: Acquisitions Incorporated p. 20* 

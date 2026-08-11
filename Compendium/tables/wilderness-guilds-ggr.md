@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Wilderness Guilds
+- "Wilderness Guilds"
 ---
 # Wilderness Guilds
 *Source: Guildmasters' Guide to Ravnica p. 124* 

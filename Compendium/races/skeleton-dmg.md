@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/skeleton
 aliases:
-- Skeleton
+- "Skeleton"
 ---
 # Skeleton
 *Source: Dungeon Master's Guide p. 282*  
@@ -28,7 +29,7 @@ You are vulnerable to bludgeoning damage.
 
 ### Undead Nature
 
-You are immune to poison damage and [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion), and you can't be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned). You don't require air, food, drink, or sleep.
+You are immune to poison damage and [exhaustion](Rules/conditions.md#Exhaustion), and you can't be [poisoned](Rules/conditions.md#Poisoned). You don't require air, food, drink, or sleep.
 
 ### Darkvision
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/17
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Otherworldly Corrupter
+- "Otherworldly Corrupter"
 ---
-# [Otherworldly Corrupter](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/otherworldly-corrupter-bmt.md)
+# [Otherworldly Corrupter](Compendium/bestiary/aberration/otherworldly-corrupter-bmt.md)
 *Source: The Book of Many Things p. 47*  
 
 A challenge for tier 3 play (levels 11 to 16), the otherworldly corrupter is a horrific Aberration that infects or impersonates a host.
@@ -46,24 +47,22 @@ The villain's challenge rating increases while the villain is in this lair:
   - "dexterity": !!int "12"
   - "intelligence": !!int "12"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+18"
 "damage_resistances": "psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., passive Perception 20"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., passive Perception 20"
 "languages": "Common, telepathy 120 ft., Thieves' cant"
 "cr": "17"
 "traits":
   - "desc": "Magic and other features can't determine the corrupter's creature type.\
       \ If a creature tries to read the corrupter's thoughts, that creature must succeed\
-      \ on a DC 20 Intelligence saving throw or have the [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ condition for 1 minute. The [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
+      \ on a DC 20 Intelligence saving throw or have the [stunned](Rules/conditions.md#Stunned)\
+      \ condition for 1 minute. The [stunned](Rules/conditions.md#Stunned) creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Alien Mind"
   - "desc": "If the corrupter fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -81,9 +80,9 @@ The villain's challenge rating increases while the villain is in this lair:
     "name": "Whispering Blade"
   - "desc": "The corrupter's squirming tentacle lashes out at a creature the corrupter\
       \ can see within 30 feet of itself. The target must succeed on a DC 20 Constitution\
-      \ saving throw or have the [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ condition until the end of its next turn, after which the target is immune\
-      \ to this Debilitating Touch for 24 hours."
+      \ saving throw or have the [paralyzed](Rules/conditions.md#Paralyzed) condition\
+      \ until the end of its next turn, after which the target is immune to this Debilitating\
+      \ Touch for 24 hours."
     "name": "Debilitating Touch"
 "bonus_actions":
   - "desc": "The corrupter magically transforms into any creature that is Small or\
@@ -127,10 +126,9 @@ The villain's challenge rating increases while the villain is in this lair:
   \ actions. The otherworldly corrupter regains all expended uses at the start of\
   \ each of its turns."
 "legendary_actions":
-  - "desc": "The corrupter escapes nonmagical restraints and ends the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ conditions on itself, then moves up to its speed without provoking opportunity\
-      \ attacks."
+  - "desc": "The corrupter escapes nonmagical restraints and ends the [grappled](Rules/conditions.md#Grappled)\
+      \ and [restrained](Rules/conditions.md#Restrained) conditions on itself, then\
+      \ moves up to its speed without provoking opportunity attacks."
     "name": "Cunning"
   - "desc": "The corrupter makes one Whispering Blade attack."
     "name": "Stab (Costs 2 Actions)"
@@ -145,6 +143,6 @@ The villain's challenge rating increases while the villain is in this lair:
     "name": "Amorphous Escape (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/otherworldly-corrupter-bmt.webp"
+"image": "Compendium/bestiary/aberration/token/otherworldly-corrupter-bmt.webp"
 ```
 ^statblock

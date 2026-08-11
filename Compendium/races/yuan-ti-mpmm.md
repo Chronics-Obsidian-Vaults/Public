@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/yuan-ti
 aliases:
-- Yuan-Ti
+- "Yuan-Ti"
 ---
 # Yuan-Ti
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 36*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/yuan-ti.webp#right)
+![](Compendium/races/img/yuan-ti.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -32,11 +33,11 @@ You have advantage on saving throws against spells.
 
 ### Poison Resilience
 
-You have advantage on saving throws you make to avoid or end the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) condition on yourself. You also have resistance to poison damage.
+You have advantage on saving throws you make to avoid or end the [poisoned](Rules/conditions.md#Poisoned) condition on yourself. You also have resistance to poison damage.
 
 ### Serpentine Spellcasting
 
-You know the [poison spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md) cantrip. You can cast [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md) an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md) with this trait. Once you cast it, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
+You know the [poison spray](Compendium/spells/poison-spray.md) cantrip. You can cast [animal friendship](Compendium/spells/animal-friendship.md) an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [suggestion](Compendium/spells/suggestion.md) with this trait. Once you cast it, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

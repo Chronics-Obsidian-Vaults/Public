@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Melora
+aliases:
+- "Melora"
 ---
 # Melora
 *Source: Dungeon Master's Guide p. 10* 

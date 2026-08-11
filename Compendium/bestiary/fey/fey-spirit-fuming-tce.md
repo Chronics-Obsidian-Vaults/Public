@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fey Spirit (Fuming)
+- "Fey Spirit (Fuming)"
 ---
-# [Fey Spirit (Fuming)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/fey-spirit-fuming-tce.md)
+# [Fey Spirit (Fuming)](Compendium/bestiary/fey/fey-spirit-fuming-tce.md)
 *Source: Tasha's Cauldron of Everything p. 112*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "fey"
 "alignment": "Unaligned"
 "ac_class": "12 + the level of the spell (natural armor)"
+"hp": "30 + 10 for each spell level above 3rd"
 "modifier": !!int "3"
 "stats":
   - !!int "13"
@@ -29,9 +31,10 @@ aliases:
   - !!int "11"
   - !!int "16"
 "speed": "40 ft."
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed)"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Sylvan, understands the languages you speak"
 "actions":
   - "desc": "The fey makes a number of attacks equal to half this spell's level (rounded\

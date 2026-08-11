@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/izzet-engineer
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/wizard
 - source/spell/level/2nd-level
@@ -13,14 +13,13 @@ tags:
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/gloom-stalker
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Fighter (Eldritch Knight)
 - Ranger (Gloom Stalker)
 - Rogue (Arcane Trickster)
 - Wizard
 aliases:
-- Rope Trick
+- "Rope Trick"
 level: 2
 school: transmutation
 ritual: false
@@ -48,6 +47,6 @@ Attacks and spells can't cross through the entrance into or out of the extradime
 
 Anything inside the extradimensional space drops out when the spell ends.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger (Gloom Stalker)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger (Gloom Stalker)](Compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 272. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Secondary Tables; Punishment
+- "Secondary Tables; Punishment"
 ---
 # Secondary Tables; Punishment
 *Source: Xanathar's Guide to Everything p. 70* 

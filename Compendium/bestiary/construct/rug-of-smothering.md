@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -9,16 +10,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rug of Smothering
+- "Rug of Smothering"
 ---
-# [Rug of Smothering](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/rug-of-smothering.md)
-*Source: Monster Manual p. 20, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Rug of Smothering](Compendium/bestiary/construct/rug-of-smothering.md)
+*Source: Monster Manual p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.
 
 A rug of smothering can be made in many different forms, from a finely woven carpet fit for a queen to a coarse mat in a peasant's hovel. Creatures with the ability to sense magic detect the rug's false magical aura.
 
-In some cases, a rug of smothering is disguised as a [carpet of flying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/carpet-of-flying.md) or another beneficial magic item. However, a character who stands or sits on the rug, or who attempts to utter a word of command, is quickly trapped as the rug of smothering rolls itself tightly around its victim.
+In some cases, a rug of smothering is disguised as a [carpet of flying](Compendium/items/carpet-of-flying.md) or another beneficial magic item. However, a character who stands or sits on the rug, or who attempts to utter a word of command, is quickly trapped as the rug of smothering rolls itself tightly around its victim.
 
 ## Animated Objects
 
@@ -46,44 +47,38 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
   - !!int "1"
 "speed": "10 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 6"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [frightened](Rules/conditions.md#Frightened),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 6"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The rug is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md).\
-      \ If targeted by [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ the rug must succeed on a Constitution saving throw against the caster's spell\
-      \ save DC or fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
-      \ for 1 minute."
+  - "desc": "The rug is [incapacitated](Rules/conditions.md#Incapacitated) while in\
+      \ the area of an [antimagic field](Compendium/spells/antimagic-field.md). If\
+      \ targeted by [dispel magic](Compendium/spells/dispel-magic.md), the rug must\
+      \ succeed on a Constitution saving throw against the caster's spell save DC\
+      \ or fall [unconscious](Rules/conditions.md#Unconscious) for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While it is grappling a creature, the rug takes only half the damage\
-      \ dealt to it, and the creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by the rug takes the other half."
+      \ dealt to it, and the creature [grappled](Rules/conditions.md#Grappled) by\
+      \ the rug takes the other half."
     "name": "Damage Transfer"
   - "desc": "While the rug remains motionless, it is indistinguishable from a normal\
       \ rug."
     "name": "False Appearance"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller\
-      \ creature. *Hit:* The creature is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 13). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-      \ [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ and at risk of suffocating, and the rug can't smother another target. In addition,\
-      \ at the start of each of the target's turns, the target takes 10 (2d6 + 3)\
-      \ bludgeoning damage."
+      \ creature. *Hit:* The creature is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 13). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
+      \ [blinded](Rules/conditions.md#Blinded), and at risk of suffocating, and the\
+      \ rug can't smother another target. In addition, at the start of each of the\
+      \ target's turns, the target takes 10 (2d6 + 3) bludgeoning damage."
     "name": "Smother"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/rug-of-smothering.webp"
+"image": "Compendium/bestiary/construct/token/rug-of-smothering.webp"
 ```
 ^statblock

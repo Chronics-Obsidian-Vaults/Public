@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/10
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightveil Specter
+- "Nightveil Specter"
 ---
-# [Nightveil Specter](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/nightveil-specter-ggr.md)
+# [Nightveil Specter](Compendium/bestiary/undead/nightveil-specter-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 215*  
 
 The Nightveil specters of Ravnica are hooded, undead guardians that ride flying creatures called gloamwings. They are fearsome agents of House Dimir, protecting the territory and interests of that guild-particularly the neighborhood of Nightveil, from which the specters get their name. Their work can include driving off people who accidentally wander too close to a secret rooftop meeting, killing those who knowingly infiltrate Dimir property, and tracking those who have stolen guild secrets, then wiping those secrets from their victims' minds to ensure that they are never shared.
@@ -22,7 +23,7 @@ A Nightveil specter is created when the mind magic of House Dimir erases a perso
 
 ## Gloamwing Mount
 
-If a gloamwing is killed, its specter becomes fixated on destroying those responsible. If the specter survives, it can create a new gloamwing over the course of a month, during which time the specter is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).
+If a gloamwing is killed, its specter becomes fixated on destroying those responsible. If the specter survives, it can create a new gloamwing over the course of a month, during which time the specter is [incapacitated](Rules/conditions.md#Incapacitated).
 
 A gloamwing's head is almost ratlike, with prominent teeth, and its leathery skin is stretched tight over its skull, where its eyes are empty sockets. Its body is mottled with bony plates, and great wings stretch from its shoulders.
 
@@ -52,20 +53,17 @@ A Nightveil specter and its gloamwing mount don't require air, food, drink, or s
   - "dexterity": !!int "8"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 17"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 17"
 "languages": "understands Common but can't speak"
 "cr": "10"
 "traits":
@@ -73,9 +71,9 @@ A Nightveil specter and its gloamwing mount don't require air, food, drink, or s
       \ teleport onto its gloamwing mount, provided the specter and the gloamwing\
       \ are on the same plane of existence. When it teleports, the specter appears\
       \ astride the gloamwing along with any equipment it is wearing or carrying.\
-      \ While mounted and not [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
-      \ the specter can't be [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised),\
-      \ and both it and its mount gain advantage on Dexterity saving throws."
+      \ While mounted and not [incapacitated](Rules/conditions.md#Incapacitated),\
+      \ the specter can't be [surprised](Rules/conditions.md#Surprised), and both\
+      \ it and its mount gain advantage on Dexterity saving throws."
     "name": "Mount"
 "actions":
   - "desc": "The specter makes two scythe attacks."
@@ -85,12 +83,11 @@ A Nightveil specter and its gloamwing mount don't require air, food, drink, or s
     "name": "Scythe"
   - "desc": "The specter magically emits psychic energy in a 60-foot cone. Each creature\
       \ in that area must succeed on a DC 15 Wisdom saving throw or take 22 (5d8)\
-      \ psychic damage and be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. The [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
+      \ psychic damage and be [stunned](Rules/conditions.md#Stunned) for 1 minute.\
+      \ The [stunned](Rules/conditions.md#Stunned) creature can repeat the saving\
+      \ throw at the end of each of its turns, ending the effect on itself on a success."
     "name": "Mind Twist (Recharge 5-6)"
-  - "desc": "The specter touches one [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+  - "desc": "The specter touches one [incapacitated](Rules/conditions.md#Incapacitated)\
       \ creature and chooses 1 hour from among the past 24. Unless the creature succeeds\
       \ on a DC 15 Intelligence saving throw, the creature loses all memory of that\
       \ hour. The creature regains the memory only if the specter dies within the\
@@ -98,6 +95,6 @@ A Nightveil specter and its gloamwing mount don't require air, food, drink, or s
     "name": "Reap Memory (3/Day)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/nightveil-specter-ggr.webp"
+"image": "Compendium/bestiary/undead/token/nightveil-specter-ggr.webp"
 ```
 ^statblock

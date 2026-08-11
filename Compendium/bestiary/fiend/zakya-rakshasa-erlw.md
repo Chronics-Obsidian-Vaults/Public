@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zakya Rakshasa
+- "Zakya Rakshasa"
 ---
-# [Zakya Rakshasa](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/zakya-rakshasa-erlw.md)
+# [Zakya Rakshasa](Compendium/bestiary/fiend/zakya-rakshasa-erlw.md)
 *Source: Eberron: Rising from the Last War p. 309*  
 
 Millions of years before the rise of the humanoid races, the rakshasas of Eberron ruled a civilization that spanned Khorvaire. Masters of combat, the rakshasas of Eberron wield their weapons with demonic fury, rushing into battle seeking vengeance against those who bound their fiendish masters.
@@ -26,8 +27,7 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
 "type": "fiend"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[scale mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scale-mail.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[scale mail](Compendium/items/scale-mail.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "59"
 "hit_dice": "7d8 + 28"
 "modifier": !!int "2"
@@ -40,22 +40,23 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Common, Infernal"
 "cr": "5"
 "traits":
   - "desc": "The rakshasa's innate spellcasting ability is Charisma (spell save DC\
       \ 11). The rakshasa can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)\n\
-      \n**1/day:** [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md)"
+      \ components:\n\n**At will:** [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [disguise self](Compendium/spells/disguise-self.md)\n\n**1/day:** [shield](Compendium/spells/shield.md)"
     "name": "Innate Spellcasting"
   - "desc": "The rakshasa can't be affected or detected by spells of 1st level or\
       \ lower unless it wishes to be. It has advantage on saving throws against all\
@@ -66,7 +67,7 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
   - "desc": "When the rakshasa hits a creature with a melee weapon attack, the attack\
       \ deals an extra 11 (2d10) damage of the weapon's type, and the creature must\
       \ make a DC 15 Strength saving throw. On a failure, the rakshasa can push the\
-      \ creature up to 10 feet away from it, knock the creature [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
+      \ creature up to 10 feet away from it, knock the creature [prone](Rules/conditions.md#Prone),\
       \ or make the creature drop one item it is holding of the rakshasa's choice."
     "name": "Martial Prowess (1/Turn)"
 "actions":
@@ -81,6 +82,6 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
     "name": "Javelin"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/zakya-rakshasa-erlw.webp"
+"image": "Compendium/bestiary/fiend/token/zakya-rakshasa-erlw.webp"
 ```
 ^statblock

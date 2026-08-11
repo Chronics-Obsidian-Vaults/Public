@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Unusual Locations
+- "Unusual Locations"
 ---
 # Unusual Locations
 *Source: Eberron: Rising from the Last War p. 219* 

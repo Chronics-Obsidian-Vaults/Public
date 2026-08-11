@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/smpl
 aliases:
-- Falling Portcullis
+- "Falling Portcullis"
 ---
 # Falling Portcullis
 *Generic Hazard*  

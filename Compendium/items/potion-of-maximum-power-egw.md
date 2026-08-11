@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/rarity/rare
 - source/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Maximum Power"
 item_type: wondrous
 item_subtype: potion

@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Golgari Agent
+- "Golgari Agent"
 ---
 # Golgari Agent
 *Source: Guildmasters' Guide to Ravnica p. 53*  
 
 
-- **Skill Proficiencies.** [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)  
-- **Tool Proficiencies.** [Poisoner's kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/poisoners-kit.md)  
+- **Skill Proficiencies.** [Nature](Rules/skills.md#Nature), [Survival](Rules/skills.md#Survival)  
+- **Tool Proficiencies.** [Poisoner's kit](Compendium/items/poisoners-kit.md)  
 - **Languages.** Choose one of Elvish, Giant, or Kraul  
-- **Equipment.** A Golgari insignia, a [poisoner's kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/poisoners-kit.md), a pet beetle or spider, a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp worth of mixed coins  
+- **Equipment.** A Golgari insignia, a [poisoner's kit](Compendium/items/poisoners-kit.md), a pet beetle or spider, a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp worth of mixed coins  
 
 You are a member of a teeming horde—one small part of a sprawling organism. Just as you are part of the swarm, the swarm is part of a larger ecosystem, a never-ending cycle of life, death, rot, and rebirth. You have spent your life in the slow churn of that ecosystem, in the dark places of the city where the messy parts of existence are on display. There is little squeamishness among the Golgari, no fear of death or taboo about the dead, just a fierce affirmation of the cycle.
 
@@ -32,12 +33,12 @@ For you, the spells on the Golgari Guild Spells table are added to the spell lis
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md), [spare the dying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spare-the-dying.md) |
-| 1st | [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md), [ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md) |
-| 2nd | [protection from poison](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-poison.md), [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md), [spider climb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spider-climb.md) |
-| 3rd | [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md), [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md) |
-| 4th | [giant insect](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/giant-insect.md), [grasping vine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/grasping-vine.md) |
-| 5th | [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md), [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md) |
+| Cantrip | [dancing lights](Compendium/spells/dancing-lights.md), [spare the dying](Compendium/spells/spare-the-dying.md) |
+| 1st | [entangle](Compendium/spells/entangle.md), [ray of sickness](Compendium/spells/ray-of-sickness.md) |
+| 2nd | [protection from poison](Compendium/spells/protection-from-poison.md), [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement.md), [spider climb](Compendium/spells/spider-climb.md) |
+| 3rd | [animate dead](Compendium/spells/animate-dead.md), [plant growth](Compendium/spells/plant-growth.md) |
+| 4th | [giant insect](Compendium/spells/giant-insect.md), [grasping vine](Compendium/spells/grasping-vine.md) |
+| 5th | [cloudkill](Compendium/spells/cloudkill.md), [insect plague](Compendium/spells/insect-plague.md) |
 ^golgari-guild-spells
 
 Golgari magic is often accompanied by a sickly green glow and a rotting stench.
@@ -76,7 +77,7 @@ Members of the Golgari Swarm are unmistakably products of the undercity, ill at 
 
 | dice: d6 | Bond |
 |----------|------|
-| 1 | I cherish the finger of a family member who was [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified) by a medusa. |
+| 1 | I cherish the finger of a family member who was [petrified](Rules/conditions.md#Petrified) by a medusa. |
 | 2 | I have an identical twin who is as different from me as any person could be. |
 | 3 | I want to lead one faction of the guild to a new position of dominance. |
 | 4 | I love spending time in the moss-covered building where I took part in my first reclamation mission. |

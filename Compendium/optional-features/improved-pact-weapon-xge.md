@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/optional-feature/ei
 aliases:
-- Improved Pact Weapon
+- "Improved Pact Weapon"
 ---
 # Improved Pact Weapon
 *Source: Xanathar's Guide to Everything p. 57*  
@@ -17,4 +17,4 @@ You can use any weapon you summon with your Pact of the Blade feature as a spell
 
 In addition, the weapon gains a +1 bonus to its attack and damage rolls, unless it is a magic weapon that already has a bonus to those rolls.
 
-Finally, the weapon you conjure can be a [shortbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortbow.md), [longbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longbow.md), [light crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/light-crossbow.md), or [heavy crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/heavy-crossbow.md).
+Finally, the weapon you conjure can be a [shortbow](Compendium/items/shortbow.md), [longbow](Compendium/items/longbow.md), [light crossbow](Compendium/items/light-crossbow.md), or [heavy crossbow](Compendium/items/heavy-crossbow.md).

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/izzet-engineer
@@ -10,19 +11,17 @@ tags:
 - source/spell/feat/magic-initiate/druid-spells
 - source/spell/level/1st-level
 - source/spell/school/transmutation
-- source/spell/subclass/divine-soul/good
-- source/spell/subclass/oath-of-the-open-sea
+- source/spell/subclass/divine-soul
 - source/spell/subclass/the-fathomless
 - source/spell/subrace/genasi-water
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Druid
-- Paladin (Oath of the Open Sea)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Warlock (The Fathomless)
 aliases:
-- Create or Destroy Water
+- "Create or Destroy Water"
 level: 1
 school: transmutation
 ritual: false
@@ -58,6 +57,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you create o
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Open Sea)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR"); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Fathomless)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Fathomless)](Compendium/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE")
 
 *Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

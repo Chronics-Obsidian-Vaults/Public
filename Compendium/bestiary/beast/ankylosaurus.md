@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ankylosaurus
+- "Ankylosaurus"
 ---
-# [Ankylosaurus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/ankylosaurus.md)
+# [Ankylosaurus](Compendium/bestiary/beast/ankylosaurus.md)
 *Source: Monster Manual p. 79. Available in the Basic Rules (2014)*  
 
 Thick armor plating covers the body of the plant-eating ankylosaurus, which defends itself against predators with a knobbed tail that delivers a devastating strike. Some varieties of ankylosaurus have spiked tails that deal piercing damage instead of bludgeoning damage.
@@ -47,11 +48,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "actions":
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 18\
       \ (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 14 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ on a DC 14 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Tail"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/ankylosaurus.webp"
+"image": "Compendium/bestiary/beast/token/ankylosaurus.webp"
 ```
 ^statblock
 

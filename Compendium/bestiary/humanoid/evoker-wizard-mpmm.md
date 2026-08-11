@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/9
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Evoker Wizard
+- "Evoker Wizard"
 ---
-# [Evoker Wizard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/evoker-wizard-mpmm.md)
+# [Evoker Wizard](Compendium/bestiary/humanoid/evoker-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*  
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
@@ -27,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "121"
 "hit_dice": "22d8 + 22"
 "modifier": !!int "2"
@@ -43,9 +44,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - "intelligence": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+7"
 "senses": "passive Perception 11"
 "languages": "any four languages"
@@ -62,24 +63,22 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ must make a DC 15 Dexterity saving throw. The evoker can select up to three\
       \ creatures it can see in the area to ignore the spell, as the evoker sculpts\
       \ the spell's energy around them. On a failed save, a creature takes 40 (9d8)\
-      \ damage of the chosen type and is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ damage of the chosen type and is knocked [prone](Rules/conditions.md#Prone).\
       \ On a successful save, a creature takes half as much damage and isn't knocked\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ [prone](Rules/conditions.md#Prone)."
     "name": "Sculpted Explosion (Recharge 4-6)"
   - "desc": "The evoker casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 15):\n\n**At will:** [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**2/day each:** [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\n\
-      \n**1/day each:** [wall of ice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-ice.md)"
+      \ spellcasting ability (spell save DC 15):\n\n**At will:** [light](Compendium/spells/light.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [message](Compendium/spells/message.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**2/day each:**\
+      \ [ice storm](Compendium/spells/ice-storm.md), [lightning bolt](Compendium/spells/lightning-bolt.md),\
+      \ [mage armor](Compendium/spells/mage-armor.md)\n\n**1/day each:** [wall of\
+      \ ice](Compendium/spells/wall-of-ice.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/evoker-wizard-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/evoker-wizard-mpmm.webp"
 ```
 ^statblock
 

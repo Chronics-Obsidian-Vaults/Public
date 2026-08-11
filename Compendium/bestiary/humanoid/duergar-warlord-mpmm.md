@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/6
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Warlord
+- "Duergar Warlord"
 ---
-# [Duergar Warlord](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/duergar-warlord-mpmm.md)
+# [Duergar Warlord](Compendium/bestiary/humanoid/duergar-warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 192*  
 
 A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader in battle, the warlord can use spikes of psionic energy to compel the warriors they command to fight harder.
@@ -45,8 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "20"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "0"
@@ -59,19 +59,19 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "14"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Dwarvish, Undercommon"
 "cr": "6"
 "traits":
-  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-      \ and [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](Rules/conditions.md#Charmed),\
+      \ [paralyzed](Rules/conditions.md#Paralyzed), and [poisoned](Rules/conditions.md#Poisoned)\
       \ conditions."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The duergar makes three Psychic-Attuned Hammer or Javelin attacks and\
@@ -88,11 +88,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - "desc": "Up to three allies within 120 feet of this duergar that can hear it can\
       \ each use their reaction to make one weapon attack."
     "name": "Call to Attack"
-  - "desc": "The duergar magically turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The duergar magically turns [invisible](Rules/conditions.md#Invisible)\
       \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-      \ throw, or its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ is broken (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). Any equipment the duergar wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+      \ throw, or its [concentration](Rules/conditions.md#Concentration) is broken\
+      \ (as if [concentrating](Rules/conditions.md#Concentration) on a spell). Any\
+      \ equipment the duergar wears or carries is [invisible](Rules/conditions.md#Invisible)\
       \ with it."
     "name": "Invisibility (Recharge 4-6)"
 "bonus_actions":
@@ -111,7 +111,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/duergar-warlord-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/duergar-warlord-mpmm.webp"
 ```
 ^statblock
 

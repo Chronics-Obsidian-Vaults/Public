@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Character Races
+- "Character Races"
 ---
 # Character Races
 *Source: Volo's Guide to Monsters, p. 103* 
@@ -22,24 +22,24 @@ At the end of the chapter is a section that you can use to determine the height 
 
 If you're the DM, including any of these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. You might decide that a race in this chapter is common in your world, that only a few members of it still live, or that it doesn't exist at all. Whatever you decide about the races, consider how they can enhance your stories.
 
-- [Aasimar (Fallen)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/aasimar-mpmm.md)  
-- [Aasimar (Protector)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/aasimar-mpmm.md)  
-- [Aasimar (Scourge)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/aasimar-mpmm.md)  
-- [Bugbear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/bugbear-mpmm.md)  
-- [Firbolg](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/firbolg-mpmm.md)  
-- [Goblin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/goblin-mpmm.md)  
-- [Goliath](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/goliath-mpmm.md)  
-- [Hobgoblin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/hobgoblin-mpmm.md)  
-- [Kenku](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/kenku-mpmm.md)  
-- [Kobold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/kobold-mpmm.md)  
-- [Lizardfolk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/lizardfolk-mpmm.md)  
-- [Orc](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/orc-mpmm.md)  
-- [Tabaxi](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/tabaxi-mpmm.md)  
-- [Triton](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/triton-mpmm.md)  
-- [Yuan-ti Pureblood](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/yuan-ti-mpmm.md)  
+- [Aasimar (Fallen)](Compendium/races/aasimar-mpmm.md)  
+- [Aasimar (Protector)](Compendium/races/aasimar-mpmm.md)  
+- [Aasimar (Scourge)](Compendium/races/aasimar-mpmm.md)  
+- [Bugbear](Compendium/races/bugbear-mpmm.md)  
+- [Firbolg](Compendium/races/firbolg-mpmm.md)  
+- [Goblin](Compendium/races/goblin-mpmm.md)  
+- [Goliath](Compendium/races/goliath-mpmm.md)  
+- [Hobgoblin](Compendium/races/hobgoblin-mpmm.md)  
+- [Kenku](Compendium/races/kenku-mpmm.md)  
+- [Kobold](Compendium/races/kobold-mpmm.md)  
+- [Lizardfolk](Compendium/races/lizardfolk-mpmm.md)  
+- [Orc](Compendium/races/orc-mpmm.md)  
+- [Tabaxi](Compendium/races/tabaxi-mpmm.md)  
+- [Triton](Compendium/races/triton-mpmm.md)  
+- [Yuan-ti Pureblood](Compendium/races/yuan-ti-mpmm.md)  
 
 ## Height and Weight
 
 You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight.
 
-![Height and Weight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/height-and-weight-vgm.md)
+![Height and Weight](Compendium/tables/height-and-weight-vgm.md)

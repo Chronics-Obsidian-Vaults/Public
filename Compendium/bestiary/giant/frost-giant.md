@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant
+- "Frost Giant"
 ---
-# [Frost Giant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/frost-giant.md)
-*Source: Monster Manual p. 155, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Frost Giant](Compendium/bestiary/giant/frost-giant.md)
+*Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging. They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
 
@@ -101,11 +102,13 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
 "damage_immunities": "cold"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
 "senses": "passive Perception 13"
 "languages": "Giant"
 "cr": "8"
@@ -120,8 +123,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "name": "Rock"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/frost-giant.webp"
+"image": "Compendium/bestiary/giant/token/frost-giant.webp"
 ```
 ^statblock
 

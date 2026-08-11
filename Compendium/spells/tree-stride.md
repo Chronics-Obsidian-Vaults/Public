@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -19,7 +20,7 @@ classes:
 - Paladin (Oath of the Ancients)
 - Ranger
 aliases:
-- Tree Stride
+- "Tree Stride"
 level: 5
 school: conjuration
 ritual: false
@@ -43,6 +44,6 @@ You gain the ability to enter a tree and move from inside it to inside another t
 
 You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Forest)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Forest)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rat
+- "Rat"
 ---
-# [Rat](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/rat.md)
-*Source: Monster Manual p. 335, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Rat](Compendium/bestiary/beast/rat.md)
+*Source: Monster Manual p. 335. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Rat"
@@ -33,12 +34,11 @@ aliases:
   - !!int "10"
   - !!int "4"
 "speed": "20 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The rat has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The rat has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
@@ -47,9 +47,7 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/rat.webp"
+"image": "Compendium/bestiary/beast/token/rat.webp"
 ```
 ^statblock
 

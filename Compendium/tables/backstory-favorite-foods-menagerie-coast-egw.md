@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Backstory; Favorite Foods (Menagerie Coast)
+- "Backstory; Favorite Foods (Menagerie Coast)"
 ---
 # Backstory; Favorite Foods (Menagerie Coast)
 *Source: Explorer's Guide to Wildemount p. 191* 

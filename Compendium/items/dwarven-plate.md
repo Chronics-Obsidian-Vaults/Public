@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/armor/heavy
 - source/item/rarity/very-rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Dwarven Plate"
 item_type: armor
 item_subtype: heavy
@@ -14,8 +15,8 @@ rarity: very-rare
 attunement: none
 ---
 # Dwarven Plate
-*Heavy armor ([plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)), major, very rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/dwarven-plate.webp#right)
+*Heavy armor ([plate armor](Compendium/items/plate-armor.md)), major, very rare*  
+![](Compendium/items/img/dwarven-plate.webp#right)
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

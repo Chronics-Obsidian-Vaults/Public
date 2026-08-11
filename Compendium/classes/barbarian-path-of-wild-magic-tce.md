@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/barbarian/wild-magic
 aliases:
-- Path of Wild Magic
+- "Path of Wild Magic"
 ---
 # Path of Wild Magic
 *[Barbarian](./barbarian.md): Primal Path*  
@@ -43,12 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Path of Wild Magic (Level 3)
+![](Compendium/classes/img/wild-magic-barbarian.webp#right)
 
 Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.
+
+## Subclass Features
 
 ### Magic Awareness (Level 3)
 
@@ -66,7 +65,7 @@ The magical energy roiling inside you sometimes erupts from you. When you enter 
 
 If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
 
-![Wild Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/wild-magic-tce.md)
+![Wild Magic](Compendium/tables/wild-magic-tce.md)
 
 ### Bolstering Magic (Level 6)
 

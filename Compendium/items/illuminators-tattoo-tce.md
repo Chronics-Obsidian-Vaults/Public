@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/common
 - source/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Illuminator's Tattoo"
 item_type: wondrous
 item_subtype: tattoo
@@ -30,6 +31,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 While this tattoo is on your skin, you can write with your fingertip as if it were an ink pen that never runs out of ink.
 
-As an action, you can touch a piece of writing up to one page in length and speak a creature's name. The writing becomes [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can't be used again until the next dawn.
+As an action, you can touch a piece of writing up to one page in length and speak a creature's name. The writing becomes [invisible](Rules/conditions.md#Invisible) to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can't be used again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 129*

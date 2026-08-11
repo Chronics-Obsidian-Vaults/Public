@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Undercity Mansion Adventures
+- "Undercity Mansion Adventures"
 ---
 # Undercity Mansion Adventures
 *Source: Guildmasters' Guide to Ravnica p. 138* 
@@ -17,7 +17,7 @@ aliases:
 | 1 | Find the source of a noxious fog rising from the undercity and poisoning a surface neighborhood. |
 | 2 | Rescue several citizens being held hostage by Ochran agents. |
 | 3 | Find the daytime lair of an elusive monster that hunts on the surface at night. |
-| 4 | Rescue a guild member [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified) by an [undercity medusa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/undercity-medusa-ggr.md) that uses the mansion as its lair. |
+| 4 | Rescue a guild member [petrified](Rules/conditions.md#Petrified) by an [undercity medusa](Compendium/bestiary/monstrosity/undercity-medusa-ggr.md) that uses the mansion as its lair. |
 | 5 | Take shelter in the mansion to escape a horrible monster prowling the undercity. |
 | 6 | Win a bet by surviving a night inside. |
 | 7 | Escape from captivity here. |

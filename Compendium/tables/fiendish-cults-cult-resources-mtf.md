@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Fiendish Cults; Cult Resources
+- "Fiendish Cults; Cult Resources"
 ---
 # Fiendish Cults; Cult Resources
 *Source: Mordenkainen's Tome of Foes p. 34* 

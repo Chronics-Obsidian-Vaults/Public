@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/10
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deva
+- "Deva"
 ---
-# [Deva](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/deva.md)
-*Source: Monster Manual p. 16, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Deva](Compendium/bestiary/celestial/deva.md)
+*Source: Monster Manual p. 16. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
@@ -60,24 +61,23 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 19"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"gear":
+  - "[mace](Compendium/items/mace.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "The deva's spellcasting ability is Charisma (spell save DC 17). The deva\
       \ can innately cast the following spells, requiring only verbal components:\n\
-      \n**At will:** [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md)\n\
-      \n**1/day each:** [commune](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune.md),\
-      \ [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md)"
+      \n**At will:** [detect evil and good](Compendium/spells/detect-evil-and-good.md)\n\
+      \n**1/day each:** [commune](Compendium/spells/commune.md), [raise dead](Compendium/spells/raise-dead.md)"
     "name": "Innate Spellcasting"
   - "desc": "The deva's weapon attacks are magical. When the deva hits with any weapon,\
       \ the weapon deals an extra 4d8 radiant damage (included in the attack)."
@@ -106,7 +106,6 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
     "name": "Change Shape"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/deva.webp"
+"image": "Compendium/bestiary/celestial/token/deva.webp"
 ```
 ^statblock

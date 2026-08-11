@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/artificer
@@ -11,6 +12,7 @@ tags:
 - source/spell/class/wizard
 - source/spell/feat/aberrant-dragonmark
 - source/spell/feat/artificer-initiate
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/feat/magic-initiate/wizard-spells
 - source/spell/level/1st-level
 - source/spell/school/abjuration
@@ -26,12 +28,12 @@ classes:
 - Sorcerer
 - Wizard
 aliases:
-- Absorb Elements
+- "Absorb Elements"
 level: 1
 school: abjuration
 ritual: false
 concentration: false
-casting_time: "1 Reaction"
+casting_time: "1 Reaction, which you take when you take acid, cold, fire, lightning, or thunder damage"
 range: Self
 components: S
 duration: "1 round"
@@ -41,7 +43,7 @@ components_vsm: [S]
 *1st-level, Abjuration*  
 
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you take acid, cold, fire, lightning, or thunder damage
 - **Range:** Self
 - **Components:** S
 - **Duration:** 1 round
@@ -50,6 +52,6 @@ The spell captures some of the incoming energy, lessening its effect on you and 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by `1d6` for each slot level above 1st.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 150*

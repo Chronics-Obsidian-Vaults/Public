@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Servitor Thrull
+- "Servitor Thrull"
 ---
-# [Servitor Thrull](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/servitor-thrull-ggr.md)
+# [Servitor Thrull](Compendium/bestiary/construct/servitor-thrull-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 221*  
 
 The most wretched of thrulls are the servitors, small and slender, that serve as playthings for their Orzhov masters. They run trivial errands, transport small items, caper and dance, and keep their masters' expensive robes from trailing on the dirty street. They are utterly loyal, lacking any concept of thinking for themselves.
@@ -42,10 +43,8 @@ A thrull doesn't require air, food, drink, or sleep.
   - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "actions":
@@ -58,6 +57,6 @@ A thrull doesn't require air, food, drink, or sleep.
     "name": "Self-Sacrifice"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/servitor-thrull-ggr.webp"
+"image": "Compendium/bestiary/construct/token/servitor-thrull-ggr.webp"
 ```
 ^statblock

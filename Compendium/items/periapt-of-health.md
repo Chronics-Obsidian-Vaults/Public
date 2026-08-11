@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Periapt of Health"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Periapt of Health
 *Wondrous item, minor, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/periapt-of-health.webp#right)
+![](Compendium/items/img/periapt-of-health.webp#right)
 
 - **Weight**: 1.0 lbs.
 

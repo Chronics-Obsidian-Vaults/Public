@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/monk/mercy
 aliases:
-- Way of Mercy
+- "Way of Mercy"
 ---
 # Way of Mercy
 *[Monk](./monk.md): Monastic Tradition*  
@@ -43,10 +43,7 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Way of Mercy (Level 3)
+![](Compendium/classes/img/mercy-monk.webp#right)
 
 Monks of the Way of Mercy learn to manipulate the life force of others to bring aid to those in need. They are wandering physicians to the poor and hurt. However, to those beyond their help, they bring a swift end as an act of mercy.
 
@@ -54,11 +51,13 @@ Those who follow the Way of Mercy might be members of a religious order, adminis
 
 The walkers of this way usually don robes with deep cowls, and they often conceal their faces with masks, presenting themselves as the faceless bringers of life and death.
 
+## Subclass Features
+
 ### Implements of Mercy (Level 3)
 
 *3rd-level Way of Mercy feature*
 
-You gain proficiency in the [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight) and [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine) skills, and you gain proficiency with the [herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md).
+You gain proficiency in the [Insight](Rules/skills.md#Insight) and [Medicine](Rules/skills.md#Medicine) skills, and you gain proficiency with the [herbalism kit](Compendium/items/herbalism-kit.md).
 
 You also gain a special mask, which you often wear when using the features of this subclass. You determine its appearance, or generate it randomly by rolling on the Merciful Mask table.
 
@@ -94,9 +93,9 @@ You use your ki to inflict wounds. When you hit a creature with an unarmed strik
 
 You can administer even greater cures with a touch, and if you feel it's necessary, you can use your knowledge to cause harm.
 
-When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened), [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed), [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned), or [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned).
+When you use Hand of Healing on a creature, you can also end one disease or one of the following conditions affecting the creature: [blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened), [paralyzed](Rules/conditions.md#Paralyzed), [poisoned](Rules/conditions.md#Poisoned), or [stunned](Rules/conditions.md#Stunned).
 
-When you use Hand of Harm on a creature, you can subject that creature to the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) condition until the end of your next turn.
+When you use Hand of Harm on a creature, you can subject that creature to the [poisoned](Rules/conditions.md#Poisoned) condition until the end of your next turn.
 
 ### Flurry of Healing and Harm (Level 11)
 
@@ -110,6 +109,6 @@ In addition, when you make an unarmed strike with Flurry of Blows, you can use H
 
 *17th-level Way of Mercy feature*
 
-Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to `4d10` + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened), [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed), [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned), and [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned).
+Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to `4d10` + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: [blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened), [paralyzed](Rules/conditions.md#Paralyzed), [poisoned](Rules/conditions.md#Poisoned), and [stunned](Rules/conditions.md#Stunned).
 
 Once you use this feature, you can't use it again until you finish a long rest.

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bh2020
 - source/optional-feature/mutagen
 aliases:
-- Cruelty
+- "Cruelty"
 ---
 # Cruelty
 *Source: Blood Hunter 2020*  

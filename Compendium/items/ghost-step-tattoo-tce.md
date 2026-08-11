@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Ghost Step Tattoo"
 item_type: wondrous
 item_subtype: tattoo
@@ -31,7 +32,7 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 The tattoo has 3 charges, and it regains all expended charges daily at dawn. As a bonus action while the tattoo is on your skin, you can expend 1 of the tattoo's charges to become incorporeal until the end of your next turn. For the duration, you gain the following benefits:
 
 - You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.  
-- You can't be [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) or [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).  
+- You can't be [grappled](Rules/conditions.md#Grappled) or [restrained](Rules/conditions.md#Restrained).  
 - You can move through creatures and solid objects as if they were difficult terrain. If you end your turn in a solid object, you take `1d10` force damage. If the effect ends while you are inside a solid object, you instead are shunted to the nearest unoccupied space, and you take `1d10` force damage for every 5 feet traveled.  
 
 *Source: Tasha's Cauldron of Everything p. 128*

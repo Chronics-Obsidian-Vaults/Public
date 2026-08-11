@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -8,6 +9,7 @@ tags:
 - source/spell/class/warlock
 - source/spell/class/wizard
 - source/spell/feat/aberrant-dragonmark
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/feat/magic-initiate/wizard-spells
 - source/spell/level/1st-level
 - source/spell/school/evocation
@@ -21,7 +23,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Witch Bolt
+- "Witch Bolt"
 level: 1
 school: evocation
 ritual: false
@@ -45,6 +47,6 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by `1d12` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 289*

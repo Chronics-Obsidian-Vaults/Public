@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/7
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Water Elemental Myrmidon
+- "Water Elemental Myrmidon"
 ---
-# [Water Elemental Myrmidon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/water-elemental-myrmidon-mpmm.md)
+# [Water Elemental Myrmidon](Compendium/bestiary/elemental/water-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 
 ## Elemental Myrmidons
@@ -24,7 +25,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate](Compendium/items/plate-armor.md)"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "2"
@@ -38,12 +39,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "40 ft., swim 40 ft."
 "damage_resistances": "acid; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone)"
+"gear":
+  - "[trident](Compendium/items/trident.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Aquan, one language of its creator's choice"
 "cr": "7"
 "actions":
@@ -60,6 +60,6 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/water-elemental-myrmidon-mpmm.webp"
+"image": "Compendium/bestiary/elemental/token/water-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock

@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/ai
 - source/spell/class/bard/magical-secrets
 - source/spell/class/cleric
 - source/spell/level/3rd-level
 - source/spell/school/enchantment
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 classes:
 - Bard (Magical Secrets)
 - Cleric
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Motivational Speech
+- "Motivational Speech"
 level: 3
 school: enchantment
 ritual: false
@@ -41,6 +42,6 @@ You address allies, staff, or innocent bystanders to exhort and inspire them to 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the temporary hit points increase by 5 for each slot level above 3rd.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Acquisitions Incorporated p. 77*

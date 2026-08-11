@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Guilds and Magic Items; General Items
+- "Guilds and Magic Items; General Items"
 ---
 # Guilds and Magic Items; General Items
 *Source: Guildmasters' Guide to Ravnica p. 174* 
@@ -14,9 +14,9 @@ aliases:
 
 | Rarity | Item | Source |
 |--------|------|--------|
-| Uncommon | [Skyblinder staff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/skyblinder-staff-ggr.md) | *GGR* |
-| Very rare | [Illusionist's bracers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/illusionists-bracers-ggr.md) | *GGR* |
-| Very rare | [Peregrine mask](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/peregrine-mask-ggr.md) | *GGR* |
-| Very rare | [Sword of the paruns](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sword-of-the-paruns-ggr.md) | *GGR* |
-| Very rare | [Voyager staff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/voyager-staff-ggr.md) | *GGR* |
+| Uncommon | [Skyblinder staff](Compendium/items/skyblinder-staff-ggr.md) | *GGR* |
+| Very rare | [Illusionist's bracers](Compendium/items/illusionists-bracers-ggr.md) | *GGR* |
+| Very rare | [Peregrine mask](Compendium/items/peregrine-mask-ggr.md) | *GGR* |
+| Very rare | [Sword of the paruns](Compendium/items/sword-of-the-paruns-ggr.md) | *GGR* |
+| Very rare | [Voyager staff](Compendium/items/voyager-staff-ggr.md) | *GGR* |
 ^general-items

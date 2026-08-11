@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Savage Attacker
+- "Savage Attacker"
 ---
 # Savage Attacker
 *Source: Player's Handbook p. 169*  

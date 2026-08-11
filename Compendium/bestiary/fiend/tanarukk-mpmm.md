@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tanarukk
+- "Tanarukk"
 ---
-# [Tanarukk](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/tanarukk-mpmm.md)
+# [Tanarukk](Compendium/bestiary/fiend/tanarukk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  
 
 > [!quote] A quote from Tasha  
@@ -23,7 +24,7 @@ aliases:
 
 When demonic influence corrupts the leadership of a people or an organization, the leaders might embrace abyssal magic to make tanarukks, using these ferocious warriors to bolster their followers' strength.
 
-The demon lord [Baphomet](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/baphomet-mpmm.md) gladly shares the secret of creating tanarukks with those who entreat him for power; the cult of Gruumsh has also mastered a ritual for this purpose, and bestows it on those deemed worthy. Whatever process is used corrupts the subject, transforming them into a vicious Fiend.
+The demon lord [Baphomet](Compendium/bestiary/npc/baphomet-mpmm.md) gladly shares the secret of creating tanarukks with those who entreat him for power; the cult of Gruumsh has also mastered a ritual for this purpose, and bestows it on those deemed worthy. Whatever process is used corrupts the subject, transforming them into a vicious Fiend.
 
 Although tanarukks are valued as fearsome fighters, they are a threat to their allies off the battlefield. When not in combat, a tanarukk is destructive and volatile and is usually kept imprisoned by its allies. If unrestrained, a free tanarukk embarks on a rampage, attempting to take over by force. Most such coups fail but are costly nonetheless. If a tanarukk does seize the leadership of a group, reckless raiding or even war is the course they inevitably choose.
 
@@ -47,13 +48,14 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
 "damage_resistances": "fire, poison"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Abyssal, Common, plus any one language"
 "cr": "5"
 "traits":
@@ -79,7 +81,7 @@ Although tanarukks are valued as fearsome fighters, they are a threat to their a
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/tanarukk-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/tanarukk-mpmm.webp"
 ```
 ^statblock
 

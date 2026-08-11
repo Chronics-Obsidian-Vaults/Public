@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Pit Master
+- "Yuan-ti Pit Master"
 ---
-# [Yuan-ti Pit Master](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/yuan-ti-pit-master-mpmm.md)
+# [Yuan-ti Pit Master](Compendium/bestiary/monstrosity/yuan-ti-pit-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206*  
 
 With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
@@ -44,18 +45,17 @@ Pit masters are deeply involved in yuan-ti's long-term plan to take over Humanoi
   - "wisdom": !!int "4"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "5"
 "traits":
-  - "desc": "Magical darkness doesn't impede the yuan-ti's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the yuan-ti's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
       \ effects."
@@ -71,20 +71,17 @@ Pit masters are deeply involved in yuan-ti's long-term plan to take over Humanoi
     "name": "Spectral Fangs"
   - "desc": "The yuan-ti targets up to five creatures that it can see within 60 feet\
       \ of it. Each target must succeed on a DC 13 Constitution saving throw or fall\
-      \ into a magical sleep and be [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
+      \ into a magical sleep and be [unconscious](Rules/conditions.md#Unconscious)\
       \ for 10 minutes. A sleeping target awakens if it takes damage or if someone\
       \ uses an action to shake or slap it awake. This magical sleep has no effect\
-      \ on a creature immune to being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)."
+      \ on a creature immune to being [charmed](Rules/conditions.md#Charmed)."
     "name": "Merrshaulk's Slumber (1/Day)"
   - "desc": "The yuan-ti casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n**At will:** [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md)\
-      \ (snakes only), [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md)\n\
-      \n**3/day:** [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**2/day each:** [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)"
+      \n**At will:** [animal friendship](Compendium/spells/animal-friendship.md) (snakes\
+      \ only), [guidance](Compendium/spells/guidance.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [message](Compendium/spells/message.md)\n\n**3/day:** [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**2/day each:** [hold person](Compendium/spells/hold-person.md), [invisibility](Compendium/spells/invisibility.md)"
     "name": "Spellcasting (Yuan-ti Form Only)"
 "bonus_actions":
   - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
@@ -94,7 +91,7 @@ Pit masters are deeply involved in yuan-ti's long-term plan to take over Humanoi
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/yuan-ti-pit-master-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/yuan-ti-pit-master-mpmm.webp"
 ```
 ^statblock
 

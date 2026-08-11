@@ -7,7 +7,7 @@ tags:
 - source/domain/war
 - source/subclass/cleric/war
 aliases:
-- War Domain
+- "War Domain"
 ---
 # War Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,12 +44,11 @@ aliases:
 
 ^class-progression
 
+War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as Torm, [Heironeous](Compendium/deities/greyhawk-heironeous.md), and [Kiri-Jolith](Compendium/deities/dragonlance-kiri-jolith-phb.md)) as well as gods of destruction and pillage (such as [Erythnul](Compendium/deities/greyhawk-erythnul.md), the Fury, [Gruumsh](Compendium/deities/nonhuman-gruumsh.md), and [Ares](Compendium/deities/greek-ares.md)) and gods of conquest and domination (such as Bane, [Hextor](Compendium/deities/greyhawk-hextor.md), and [Maglubiyet](Compendium/deities/nonhuman-maglubiyet.md)). Other war gods (such as Tempus, [Nike](Compendium/deities/greek-nike.md), and [Nuada](Compendium/deities/celtic-nuada.md)) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
 
-## Class Features
+## Subclass Features
 
-### War Domain (Level 1)
-
-War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war watch over warriors and reward them for their great deeds. The clerics of such gods excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. Gods of war include champions of honor and chivalry (such as Torm, [Heironeous](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-heironeous.md), and [Kiri-Jolith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-kiri-jolith-phb.md)) as well as gods of destruction and pillage (such as [Erythnul](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-erythnul.md), the Fury, [Gruumsh](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/nonhuman-gruumsh.md), and [Ares](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-ares.md)) and gods of conquest and domination (such as Bane, [Hextor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-hextor.md), and [Maglubiyet](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/nonhuman-maglubiyet.md)). Other war gods (such as Tempus, [Nike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-nike.md), and [Nuada](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/celtic-nuada.md)) take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
+### Domain Spells (Level 1)
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -57,11 +56,11 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [divine favor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divine-favor.md), [shield of faith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield-of-faith.md) |
-| 3rd | [magic weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-weapon.md), [spiritual weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spiritual-weapon.md) |
-| 5th | [crusader's mantle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crusaders-mantle.md), [spirit guardians](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spirit-guardians.md) |
-| 7th | [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md), [stoneskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stoneskin.md) |
-| 9th | [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md), [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md) |
+| 1st | [divine favor](Compendium/spells/divine-favor.md), [shield of faith](Compendium/spells/shield-of-faith.md) |
+| 3rd | [magic weapon](Compendium/spells/magic-weapon.md), [spiritual weapon](Compendium/spells/spiritual-weapon.md) |
+| 5th | [crusader's mantle](Compendium/spells/crusaders-mantle.md), [spirit guardians](Compendium/spells/spirit-guardians.md) |
+| 7th | [freedom of movement](Compendium/spells/freedom-of-movement.md), [stoneskin](Compendium/spells/stoneskin.md) |
+| 9th | [flame strike](Compendium/spells/flame-strike.md), [hold monster](Compendium/spells/hold-monster.md) |
 ^war-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -70,7 +69,7 @@ At 1st level, you gain proficiency with martial weapons and heavy armor.
 
 ### War Priest (Level 1)
 
-From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+From 1st level, your god delivers bolts of inspiration to you while you are engaged in battle. When you use the [Attack](Rules/actions.md#Attack) action, you can make one weapon attack as a bonus action. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Channel Divinity: Guided Strike (Level 2)
 
@@ -87,7 +86,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Nightmare Magic; Lingering Nightmares
+- "Nightmare Magic; Lingering Nightmares"
 ---
 # Nightmare Magic; Lingering Nightmares
 *Source: Acquisitions Incorporated p. 70* 

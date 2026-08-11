@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/9
@@ -9,12 +10,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nycaloth
+- "Nycaloth"
 ---
-# [Nycaloth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/nycaloth.md)
-*Source: Monster Manual p. 314, Tasha's Cauldron of Everything*  
+# [Nycaloth](Compendium/bestiary/fiend/nycaloth.md)
+*Source: Monster Manual p. 314*  
 
-The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razor-sharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) or create illusory doubles of itself, further confounding its enemies.
+The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razor-sharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [invisible](Rules/conditions.md#Invisible) or create illusory doubles of itself, further confounding its enemies.
 
 Nycaloths are the most loyal of the yugoloths. When they find an evil master that treats them well, they are unlikely to break their agreement unless the reward for doing so is extreme.
 
@@ -89,29 +90,28 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - !!int "15"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "9"
 "traits":
   - "desc": "The nycaloth's innate spellcasting ability is Charisma. The nycaloth\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only), [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md)"
+      \n**At will:** [darkness](Compendium/spells/darkness.md), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [invisibility](Compendium/spells/invisibility.md)\
+      \ (self only), [mirror image](Compendium/spells/mirror-image.md)"
     "name": "Innate Spellcasting"
   - "desc": "The nycaloth has advantage on saving throws against spells and other\
       \ magical effects."
@@ -128,8 +128,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
       \ of each of its turns due to a fiendish wound. Each time the nycaloth hits\
       \ the wounded target with this attack, the damage dealt by the wound increases\
       \ by 5 (2d4). Any creature can take an action to stanch the wound with a successful\
-      \ DC 13 Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine))\
-      \ check. The wound also closes if the target receives magical healing."
+      \ DC 13 Wisdom ([Medicine](Rules/skills.md#Medicine)) check. The wound also\
+      \ closes if the target receives magical healing."
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 18\
       \ (2d12 + 5) slashing damage."
@@ -139,7 +139,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     "name": "Teleport"
 "source":
   - "MM"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/nycaloth.webp"
+"image": "Compendium/bestiary/fiend/token/nycaloth.webp"
 ```
 ^statblock

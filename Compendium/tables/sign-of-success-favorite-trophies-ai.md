@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Sign of Success; Favorite Trophies
+- "Sign of Success; Favorite Trophies"
 ---
 # Sign of Success; Favorite Trophies
 *Source: Acquisitions Incorporated p. 65* 

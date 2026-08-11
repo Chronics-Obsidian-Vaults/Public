@@ -5,16 +5,18 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- A World of Your Own
+- "A World of Your Own"
 ---
 # A World of Your Own
 *Source: Dungeon Master's Guide (2014), p. 9* 
 
 Your world is the setting for your campaign, the place where adventures happen. Even if you use an existing setting, such as the Forgotten Realms, it becomes yours as you set your adventures there, create characters to inhabit it, and make changes to it over the course of your campaign. This chapter is all about building your world and then creating a campaign to take place in it.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/ch1splash.webp#center)
+
 ## The Big Picture
 
-This book, the *Player's Handbook*, and the *Monster Manual* present the default assumptions for how the worlds of D&D work. Among the established settings of D&D, the Forgotten Realms, Greyhawk, Dragonlance, and Mystara don't stray very far from those assumptions. Settings such as Dark Sun, Eberron, Ravenloft, Spelljammer, and Planescape venture further away from that baseline. As you create your own world, it's up to you to decide where on the spectrum you want your world to fall.
+This book, the "Player's Handbook", and the "Monster Manual" present the default assumptions for how the worlds of D&D work. Among the established settings of D&D, the Forgotten Realms, Greyhawk, Dragonlance, and Mystara don't stray very far from those assumptions. Settings such as Dark Sun, Eberron, Ravenloft, Spelljammer, and Planescape venture further away from that baseline. As you create your own world, it's up to you to decide where on the spectrum you want your world to fall.
 
 ### Core Assumptions
 
@@ -92,7 +94,7 @@ This pantheon draws in several nonhuman deities and establishes them as universa
 
 Several of the gods are drawn from other pantheons, sometimes with new names for the gods. Bane comes from the Forgotten Realms. From Greyhawk come Kord, Pelor, Tharizdun, and Vecna. From the Greek pantheon come Athena (renamed Erathis) and Tyche (renamed Avandra), though both are altered. Set (renamed Zehir) comes from the Egyptian pantheon. The Raven Queen is akin to the Norse pantheon's Hel and Greyhawk's Wee Jas. That leaves three gods created from scratch: Ioun, Melora, and Torog.
 
-![A Sample Pantheon; Dawn War Deities](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/a-sample-pantheon-dawn-war-deities.md)
+![A Sample Pantheon; Dawn War Deities](Compendium/tables/a-sample-pantheon-dawn-war-deities.md)
 
 ### Other Religious Systems
 
@@ -185,7 +187,11 @@ With that in mind, consider the role of the gods in your world and their ties to
 
 Finally, consider the difference between gods who are tied to specific humanoid races and gods with more diverse followers. Do the races with their own pantheons enjoy a place of privilege in your world, with their gods taking an active role in their affairs? Are the other races ignored by the gods, or are those races the deciding factor that can tilt the balance of power in favor of one god or another?
 
+![](Compendium/books/dungeon-masters-guide-2014/img/1-1.webp#center)
+
 ## Mapping Your Campaign
+
+![](Compendium/books/dungeon-masters-guide-2014/img/1-2.webp#center)
 
 When creating the world where your campaign takes place, you'll want a map. You can take one of two approaches with it: top-down or bottom-up. Some DMs like to start at the top, creating the big picture of the world at the start of the campaign by having a map that shows whole continents, and then zooming in on smaller areas. Other DMs prefer to go the opposite direction, starting with a small campaign area that is mapped at a province or kingdom scale, then zooming out as adventures take the characters into new territory. Whichever approach you take, hexes work well for mapping outdoor environments where travel can go in any direction and calculating distance might be important. A single sheet of hex paper with 5 hexes to the inch is ideal for most maps. Use a scale for your map that's best suited to the level of detail you want. Chapter 7 offers more information about creating and mapping wilderness areas.
 
@@ -237,6 +243,8 @@ The guidelines in this section are here to help you build the settlement you wan
 
 A settlement exists primarily to facilitate the story and fun of your campaign. Other than that point, the settlement's purpose determines the amount of detail you put into it. Create only the features of a settlement that you know you'll need, along with notes on general features. Then allow the place to grow organically as the adventurers interact with more and more of it, keeping notes on new places you invent.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/1-3.webp#center)
+
 #### Local Color
 
 A settlement might serve as a place where the characters stop to rest and to buy supplies. A settlement of this sort needs no more than a brief description. Include the settlement's name, decide how big it is, add a dash of flavor ("The smell of the local tanneries never lifts from this town"), and let the adventurers get on with their business. The history of the inn where the characters spend the night, the mannerisms of the shopkeeper they buy supplies from-you can add this level of detail, but you don't have to. If the characters return to the same settlement, start adding these local features so that it begins to feel a little more like a home base, albeit a temporary one. Let the settlement develop as the need arises.
@@ -258,6 +266,8 @@ A village harboring a secret cult of devil worshipers. A town controlled by a gu
 ### Size
 
 Most settlements in a D&D world are villages clustered around a larger town or city. Farming villages supply the town or city population with food in exchange for goods the farmers can't produce themselves. Towns and cities are the seats of the nobles who govern the surrounding area, and who carry the responsibility for defending the villages from attack. Occasionally, a local lord or lady lives in a keep or fortress with no nearby town or city.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/1-4.webp#center)
 
 #### Village
 
@@ -325,7 +335,7 @@ The larger a settlement, the more likely that other individuals or organizations
 
 A settlement rarely stands alone. A given town or city might be a theocratic city-state or a prosperous free city governed by a merchant council. More likely, it's part of a feudal kingdom, a bureaucratic empire, or a remote realm ruled by an iron-fisted tyrant. Consider how your settlement fits into the bigger picture of your world or region-who rules its ruler, and what other settlements might also lie under its control.
 
-![Forms of Government](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/forms-of-government.md)
+![Forms of Government](Compendium/tables/forms-of-government.md)
 
 Typical and fantastical forms of government are described below. Choose one or randomly determine a form of government for a nation or city from the Forms of Government table.
 
@@ -405,7 +415,7 @@ Conquerors and representatives of another government wield power, ruling the set
 
 Rulership falls to a direct representative or a collection of agents of a deity. The centers of power in a theocracy are usually located on sacred sites. In the Eberron campaign setting, the nation of Thrane is a theocracy devoted to the Silver Flame, a divine spirit that resides in Thrane's capital of Flamekeep.
 
-![Government; Sample Hierarchy of Noble Titles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/government-sample-hierarchy-of-noble-titles.md)
+![Government; Sample Hierarchy of Noble Titles](Compendium/tables/government-sample-hierarchy-of-noble-titles.md)
 
 ### Commerce
 
@@ -418,6 +428,8 @@ These merchants can't provide the services normally found in a city. For instanc
 ### Currency
 
 The straightforward terms "gold piece" (gp), "silver piece" (sp), "copper piece" (cp), "electrum piece" (ep), and "platinum piece" (pp) are used throughout the game rules for clarity. You can imbue these denominations with more interesting descriptions in your game world. People give coins specific names, whether as plain as "dime" or lively as "gold double-eagle." A country typically mints its own currency, which might correspond to the basic rules terms. In most worlds, few currencies achieve widespread distribution, but nearly all coins are accepted worldwide-except by those looking to pick a fight with a foreigner.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/1-5.webp#center)
 
 **Example: The Forgotten Realms**
 
@@ -474,6 +486,8 @@ In a region where one race has subjugated another, the language of the conqueror
 ## Factions and Organizations
 
 Temples, guilds, orders, secret societies, and colleges are important forces in the social order of any civilization. Their influence might stretch across multiple towns and cities, with or without a similarly wide-ranging political authority. Organizations can play an important part in the lives of player characters, becoming their patrons, allies, or enemies just like individual nonplayer characters. When characters join these organizations, they become part of something larger than themselves, which can give their adventures a context in the wider world.
+
+![From left to right: Harpers, Order of the Gauntlet, Emerald Enclave, Lords' Alliance, Zhentarim](Compendium/books/dungeon-masters-guide-2014/img/1-6.webp#center)
 
 ### Adventurers and Organizations
 
@@ -561,7 +575,7 @@ You can add rank prerequisites. For example, a character affiliated with the Lor
 
 You can set these thresholds of renown to any numbers that work for your game, creating appropriate ranks and titles for the organizations in your campaign.
 
-![Examples of Faction Ranks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/examples-of-faction-ranks.md)
+![Examples of Faction Ranks](Compendium/tables/examples-of-faction-ranks.md)
 
 ##### Attitudes of Organization Members
 
@@ -648,6 +662,8 @@ The start of a campaign resembles the start of an adventure. You want to jump qu
 
 When you first start building your campaign, start small. The characters need to know only about the city, town, or village where they start the game, and perhaps the nearby dungeon. You might decide that the barony is at war with a nearby duchy, or that a distant forest is crawling with ettercaps and giant spiders, and you should note these things. But at the start of the game, the local area is enough to get the campaign off the ground. Follow these steps to create that local area:
 
+![](Compendium/books/dungeon-masters-guide-2014/img/1-7.webp#center)
+
 #### 1. Create a Home Base
 
 See the "Settlements" section earlier in this chapter for guidance on building this settlement. A small town or village at the edge of the wilderness serves as a fine home base in most D&D campaigns. Use a larger town or city if you want a campaign with urban adventuring.
@@ -720,7 +736,7 @@ You can use this section for ideas and inspiration to expand on world-shaking ev
 
 To get started, select a world-shaking event category or roll on the World-Shaking Events table.
 
-![World-Shaking Events](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/world-shaking-events.md)
+![World-Shaking Events](Compendium/tables/world-shaking-events.md)
 
 #### 1-2. Rise or Fall of a Leader or an Era
 
@@ -728,7 +744,7 @@ Eras are often defined by the prominent leaders, innovators, and tyrants of the 
 
 Determine the kind of leader that influences the new or passing era. You can choose the type of leader or determine one randomly using the Leader Types table.
 
-![Rise or Fall of a Leader or an Era; Leader Types](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/rise-or-fall-of-a-leader-or-an-era-leader-types.md)
+![Rise or Fall of a Leader or an Era; Leader Types](Compendium/tables/rise-or-fall-of-a-leader-or-an-era-leader-types.md)
 
 Political leaders are monarchs, nobles, and chiefs. Religious leaders include deities' avatars, high priests, and messiahs, as well as those in charge of monasteries and leaders of influential religious sects. Major military leaders control the armed forces of countries. They include military dictators, warlords, and the heads of a ruler's war council. Minor military leaders include the heads of local militias, gangs, and other martial organizations. At the broadest scale, a criminal or underworld leader wields power through a network of spies, bribes, and black-market trade. On the smallest scale, these are local gang bosses, pirate captains, and brigands. A leader in art or culture is a virtuoso whose work reflects the spirit of the age and changes the way people think: a prominent playwright, bard, or court fool in whose words, art, or performance the people perceive universal truth. On a smaller scale, this might be an influential local poet, minstrel, satirist, or sculptor.
 
@@ -761,7 +777,7 @@ Earthquake, famine, fire, plague, flood-disasters on a grand scale can eradicate
 
 You can choose the cataclysm or determine one randomly using the Cataclysmic Disasters table.
 
-![Cataclysmic Disasters](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/cataclysmic-disasters.md)
+![Cataclysmic Disasters](Compendium/tables/cataclysmic-disasters.md)
 
 Some of the disasters on the table might not make immediate sense in the context of your campaign world. A flood in the desert? A volcanic eruption on grassy plains? If you randomly determine a disaster that conflicts with your setting, you can reroll, but the challenge of justifying the catastrophe can produce interesting results.
 
@@ -789,7 +805,9 @@ Imagine that part of your campaign world is attacked or invaded. Depending on th
 
 Define the aggressor and whether it represents a known enemy or a previously unknown adversary. Select a threat that already poses a danger to the area you've chosen, or use the Invading Forces table to determine the aggressor.
 
-![Assault or Invasion; Invading Forces](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/assault-or-invasion-invading-forces.md)
+![Assault or Invasion; Invading Forces](Compendium/tables/assault-or-invasion-invading-forces.md)
+
+![](Compendium/books/dungeon-masters-guide-2014/img/1-8.webp#center)
 
 Now consider these other aspects of the conflict:
 
@@ -812,6 +830,8 @@ Imagine that part of your campaign world erupts in revolution. Pick a power grou
 - One of the rebellion's prominent leaders-in some respects the face of the revolution-was driven by a personal reason for his or her part in events. Describe this person and state the true reason he or she led the rebellion.  
 - What problem existed before the revolution that persists in spite of it?  
 
+![](Compendium/books/dungeon-masters-guide-2014/img/1-9.webp#center)
+
 #### 6. Extinction or Depletion
 
 Something that once existed in the campaign world is gone. The lost resource might be a precious metal, a species of plant or animal that held an important place in the local ecology, or an entire race or culture of people. Its absence causes a chain reaction that affects every creature that uses or relies on it.
@@ -820,7 +840,7 @@ You can eliminate a people, place, or thing that previously existed in a certain
 
 What is gone from the world-or the region of the world you've chosen-that once existed there? If the answer isn't immediately evident, consult the Extinction or Depletion table for ideas.
 
-![Extinction or Depletion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/extinction-or-depletion.md)
+![Extinction or Depletion](Compendium/tables/extinction-or-depletion.md)
 
 Then consider these additional questions:
 
@@ -834,7 +854,7 @@ The foundation of a new order, kingdom, religion, society, cabal, or cult can sh
 
 Perhaps an important new organization arises in one part of your world. It could have humble or auspicious beginnings, but one thing is certain: it is destined to change the world as long as it progresses along its present course. Sometimes an organization's alignment is apparent from inception, but its morality can remain ambiguous until its doctrines, policies, and traditions are revealed over time. Choose the type of organization, or use the New Organizations table to generate ideas.
 
-![New Organizations](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/new-organizations.md)
+![New Organizations](Compendium/tables/new-organizations.md)
 
 Then consider some or all of the following options:
 
@@ -853,7 +873,7 @@ A discovery is particularly impressive when the adventurers in your campaign are
 
 Decide on the type of discovery that is made or use the Discoveries table to generate ideas.
 
-![Discovery, Expansion, Invention; Discoveries](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/discovery-expansion-invention-discoveries.md)
+![Discovery, Expansion, Invention; Discoveries](Compendium/tables/discovery-expansion-invention-discoveries.md)
 
 Once you have determined the type of discovery, flesh it out by deciding exactly what it is, who discovered it, and what potential effect it could have on the world. Ideally, previous adventures in your campaign will help you fill in the blanks, but also keep the following in mind:
 
@@ -906,6 +926,8 @@ Certain holy days are civic events, observed by every citizen of a town where a 
 
 Give some thought to how priests and common folk celebrate holy days. Going into a temple, sitting in a pew, and listening to a sermon is a mode of worship foreign to most fantasy religions. More commonly, celebrants offer sacrifices to their gods. The faithful bring animals to the temple to be slaughtered or burn incense as an offering. The wealthiest citizens bring the largest animals, to flaunt their wealth and demonstrate their piety. People pour out libations at the graves of their ancestors. They spend all-night vigils in darkened shrines or enjoy splendid feasts celebrating a god's bounty.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/1-10.webp#center)
+
 #### Civic Observances
 
 Holy days provide the majority of the special celebrations in most calendars, but local or national festivals account for many others. The birthday of a monarch, the anniversary of a great victory in a war, craft festivals, market days, and similar events all provide excuses for local celebrations.
@@ -920,7 +942,7 @@ Extraordinary events, such as the approach of a comet or a lunar eclipse, make g
 > 
 > The world of the Forgotten Realms uses the Calendar of Harptos, named after the long-dead wizard who invented it. Each year of 365 days is divided into twelve months of thirty days each, which roughly correspond to months in the real-world Gregorian calendar. Each month is divided into three tendays. Five special holidays fall between the months and mark the seasons. Another special holiday, Shieldmeet, is inserted into the calendar after Midsummer every four years, much like leap years in the modern Gregorian calendar.
 > 
-> ![The Calendar of Harptos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-calendar-of-harptos.md)
+> ![The Calendar of Harptos](Compendium/tables/the-calendar-of-harptos.md)
 ^the-calendar-of-harptos
 
 ### Ending a Campaign
@@ -934,6 +956,8 @@ Once the campaign has ended, a new one can begin. If you intend to run a new cam
 By building a new world (or adopting an existing one) and creating the key events that launch your campaign, you determined what your campaign is about. Next, you have to decide how you want to run your campaign.
 
 What's the right way to run a campaign? That depends on your play style and the motivations of your players. Consider your players' tastes, your strengths as a DM, table rules (discussed in part 3), and the type of game you want to run. Describe to the players how you envision the game experience and let them give you input. The game is theirs, too. Lay that groundwork early, so your players can make informed choices and help you maintain the type of game you want to run. Consider the following two exaggerated examples of play style.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/1-11.webp#center)
 
 ### Hack and Slash
 
@@ -1019,7 +1043,7 @@ The fate of a village might hang on the success or failure of low-level adventur
 
 By the time they reach this tier, adventurers have mastered the basics of their class features, though they continue to improve throughout these levels. They have found their place in the world and have begun to involve themselves in the dangers that surround them.
 
-Dedicated spellcasters learn 3rd-level spells at the start of this tier. Suddenly characters can fly, damage large numbers of foes with [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) and [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md) spells, and even breathe underwater. They master 5th-level spells by the end of the tier, and spells such as [teleportation circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleportation-circle.md), [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md), [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md), [legend lore](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/legend-lore.md), and [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md) can have a significant impact on their adventures. They start acquiring more permanent magic items (uncommon and rare ones) as well, which will serve them for the rest of their careers.
+Dedicated spellcasters learn 3rd-level spells at the start of this tier. Suddenly characters can fly, damage large numbers of foes with [fireball](Compendium/spells/fireball.md) and [lightning bolt](Compendium/spells/lightning-bolt.md) spells, and even breathe underwater. They master 5th-level spells by the end of the tier, and spells such as [teleportation circle](Compendium/spells/teleportation-circle.md), [scrying](Compendium/spells/scrying.md), [flame strike](Compendium/spells/flame-strike.md), [legend lore](Compendium/spells/legend-lore.md), and [raise dead](Compendium/spells/raise-dead.md) can have a significant impact on their adventures. They start acquiring more permanent magic items (uncommon and rare ones) as well, which will serve them for the rest of their careers.
 
 The fate of a region might depend on the adventures that characters of levels 5 to 10 undertake. These adventurers venture into fearsome wilds and ancient ruins, where they confront savage giants, ferocious hydras, fearless golems, evil yuan-ti, scheming devils, bloodthirsty demons, crafty mind flayers, and drow assassins. They might have a chance of defeating a young dragon that has established a lair but not yet extended its reach far into the surrounding territory.
 
@@ -1027,7 +1051,7 @@ The fate of a region might depend on the adventures that characters of levels 5 
 
 By 11th level, characters are shining examples of courage and determination-true paragons in the world, set well apart from the masses. At this tier, adventurers are far more versatile than they were at lower levels, and they can usually find the right tool for a given challenge.
 
-Dedicated spellcasters gain access to 6th-level spells at 11th level, including spells that completely change the way adventurers interact with the world. Their big, flashy spells are significant in combat-[disintegrate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disintegrate.md), [blade barrier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blade-barrier.md), and [heal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heal.md), for example-but behind-the-scenes spells such as [word of recall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/word-of-recall.md), [find the path](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/find-the-path.md), [contingency](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contingency.md), [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md), and [true seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-seeing.md) alter the way players approach their adventures. Each spell level after that point introduces new effects with an equally large impact. The adventurers find rare magic items (and very rare ones) that bestow similarly powerful abilities.
+Dedicated spellcasters gain access to 6th-level spells at 11th level, including spells that completely change the way adventurers interact with the world. Their big, flashy spells are significant in combat-[disintegrate](Compendium/spells/disintegrate.md), [blade barrier](Compendium/spells/blade-barrier.md), and [heal](Compendium/spells/heal.md), for example-but behind-the-scenes spells such as [word of recall](Compendium/spells/word-of-recall.md), [find the path](Compendium/spells/find-the-path.md), [contingency](Compendium/spells/contingency.md), [teleport](Compendium/spells/teleport.md), and [true seeing](Compendium/spells/true-seeing.md) alter the way players approach their adventures. Each spell level after that point introduces new effects with an equally large impact. The adventurers find rare magic items (and very rare ones) that bestow similarly powerful abilities.
 
 The fate of a nation or even the world depends on momentous quests that such characters undertake. Adventurers explore uncharted regions and delve into long-forgotten dungeons, where they confront terrible masterminds of the lower planes, cunning rakshasas and beholders, and hungry purple worms. They might encounter and even defeat a powerful adult dragon that has established a lair and a significant presence in the world.
 
@@ -1037,7 +1061,7 @@ At this tier, adventurers make their mark on the world in a variety of ways, fro
 
 By 17th level, characters have super heroic capabilities, and their deeds and adventures are the stuff of legend. Ordinary people can hardly dream of such heights of power-or such terrible dangers.
 
-Dedicated spellcasters at this tier wield earthshaking 9th-level spells such as [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md), [gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gate.md), [storm of vengeance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/storm-of-vengeance.md), and [astral projection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/astral-projection.md). Characters have several rare and very rare magic items at their disposal, and begin discovering legendary items such as a [vorpal sword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/vorpal-sword.md) or a [staff of the magi](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/staff-of-the-magi.md).
+Dedicated spellcasters at this tier wield earthshaking 9th-level spells such as [wish](Compendium/spells/wish.md), [gate](Compendium/spells/gate.md), [storm of vengeance](Compendium/spells/storm-of-vengeance.md), and [astral projection](Compendium/spells/astral-projection.md). Characters have several rare and very rare magic items at their disposal, and begin discovering legendary items such as a [vorpal sword](Compendium/items/vorpal-sword.md) or a [staff of the magi](Compendium/items/staff-of-the-magi.md).
 
 Adventures at these levels have far-reaching consequences, possibly determining the fate of millions in the Material Plane and even places beyond. Characters traverse otherworldly realms and explore demiplanes and other extraplanar locales, where they fight savage balor demons, titans, archdevils, lich archmages, and even avatars of the gods themselves. The dragons they encounter are wyrms of tremendous power, whose sleep troubles kingdoms and whose waking threatens existence itself.
 
@@ -1051,11 +1075,13 @@ Experienced players familiar with the capabilities of the character classes and 
 
 Starting equipment for characters above 1st level is entirely at your discretion, since you give out treasure at your own pace. That said, you can use the Starting Equipment table as a guide.
 
-![Starting at Higher Level; Starting Equipment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/starting-at-higher-level-starting-equipment.md)
+![Starting at Higher Level; Starting Equipment](Compendium/tables/starting-at-higher-level-starting-equipment.md)
 
 ## Flavors of Fantasy
 
 Dungeons & Dragons is a fantasy game, but that broad category encompasses a lot of variety. Many different flavors of fantasy exist in fiction and film. Do you want a horrific campaign inspired by the works of H. P. Lovecraft or Clark Ashton Smith? Or do you envision a world of muscled barbarians and nimble thieves, along the lines of the classic sword-and-sorcery books by Robert E. Howard and Fritz Leiber? Your choice can have a impact on the flavor of your campaign.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/1-12.webp#center)
 
 ### Heroic Fantasy
 
@@ -1107,6 +1133,8 @@ Again, make sure your players know ahead of time that you want to run this kind 
 
 The Brimstone Angels novels by Erin M. Evans focus on intrigue in the Forgotten Realms setting, from the backstabbing politics of the Nine Hells to the contested succession of Cormyrean royalty.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/1-13.webp#center)
+
 ### Mystery
 
 Who stole three legendary magic weapons and hid them away in a remote dungeon, leaving a cryptic clue to their location? Who placed the duke into a magical slumber, and what can be done to awaken him? Who murdered the guildmaster, and how did the killer get into the guild's locked vault?
@@ -1141,7 +1169,7 @@ A campaign that draws on elements of Asian martial-arts movies is a perfect matc
 
 Similarly, a class doesn't need new rules to reflect a cultural influence; a new name can do the trick. A traditional Chinese wuxia hero might be a paladin who has a sword called the Oath of Vengeance, while a Japanese samurai might be a paladin with a particular Oath of Devotion (bushido) that includes fealty to a lord (daimyo) among its tenets. A ninja is a monk who pursues the Way of Shadow. Whether called a wu jen, a tsukai, or a swami, a wizard, sorcerer, or warlock character works just fine in a game inspired by medieval Asian cultures.
 
-![Wuxia Weapon Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/wuxia-weapon-names.md)
+![Wuxia Weapon Names](Compendium/tables/wuxia-weapon-names.md)
 
 Having players refer to a tetsubo or a katana rather than a greatclub or a longsword can enhance the flavor of a wuxia campaign. The Wuxia Weapon Names table lists alternative names for common weapons from the Player's Handbook and identifies their real-world cultural origins. An alternative name changes none of the weapon's properties as they are described in the Player's Handbook.
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Constrictor Snake
+- "Constrictor Snake"
 ---
-# [Constrictor Snake](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/constrictor-snake.md)
+# [Constrictor Snake](Compendium/bestiary/beast/constrictor-snake.md)
 *Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -35,8 +36,7 @@ aliases:
   - !!int "10"
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., passive Perception 10"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
@@ -44,13 +44,13 @@ aliases:
       \ (1d6 + 2) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6\
-      \ (1d8 + 2) bludgeoning damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 14). Until this grapple ends, the creature is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ (1d8 + 2) bludgeoning damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 14). Until this grapple ends, the creature is [restrained](Rules/conditions.md#Restrained),\
       \ and the snake can't constrict another target."
     "name": "Constrict"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/constrictor-snake.webp"
+"image": "Compendium/bestiary/beast/token/constrictor-snake.webp"
 ```
 ^statblock
 

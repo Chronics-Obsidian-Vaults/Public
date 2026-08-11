@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Mournland Villains
+- "Mournland Villains"
 ---
 # Mournland Villains
 *Source: Eberron: Rising from the Last War p. 222* 
@@ -14,10 +14,10 @@ aliases:
 
 | dice: d6 | Villain |
 |----------|---------|
-| 1 | [The Lord of Blades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/the-lord-of-blades-erlw.md) maintains a detention center where experiments are performed on adventurers and scavengers that his forces capture in the Mournland. |
-| 2 | The leader of a cult devoted to [Belashyrra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/belashyrra-erlw.md), the Lord of Eyes, uses daelkyr-made tentacles to tear out the eyes of victims and attaches them to members of the cult. |
+| 1 | [The Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md) maintains a detention center where experiments are performed on adventurers and scavengers that his forces capture in the Mournland. |
+| 2 | The leader of a cult devoted to [Belashyrra](Compendium/bestiary/npc/belashyrra-erlw.md), the Lord of Eyes, uses daelkyr-made tentacles to tear out the eyes of victims and attaches them to members of the cult. |
 | 3 | A powerful member of House Cannith hopes to find something in the Mournland that will guarantee the ascendancy of her branch of the house. |
-| 4 | A Karrnathi [bone knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bone-knight-erlw.md) (see "chapter 6") wants to raise up an undead army from the corpses in the Mournland. |
-| 5 | A [rakshasa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/rakshasa.md) works to free a fiendish overlord trapped in a whirlwind of stone and sand somewhere in the Mournland. |
+| 4 | A Karrnathi [bone knight](Compendium/bestiary/humanoid/bone-knight-erlw.md) (see "chapter 6") wants to raise up an undead army from the corpses in the Mournland. |
+| 5 | A [rakshasa](Compendium/bestiary/fiend/rakshasa.md) works to free a fiendish overlord trapped in a whirlwind of stone and sand somewhere in the Mournland. |
 | 6 | A servant of the Lords of Dust maintains an extensive collection of severed heads and continues to draw on the knowledge in their brains. |
 ^mournland-villains

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/aarakocra
 aliases:
-- Aarakocra
+- "Aarakocra"
 ---
 # Aarakocra
 *Source: Dungeon Master's Guide p. 282*  

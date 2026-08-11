@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Between Adventures
+- "Between Adventures"
 ---
 # Between Adventures
 *Source: Dungeon Master's Guide (2014), p. 125* 
@@ -15,6 +15,8 @@ A campaign is much more than a series of adventures. It also includes the moment
 The natural pace of a campaign offers lulls between adventures, time for the characters to spend their treasure and pursue their goals. This downtime gives the characters an opportunity to sink their roots a little deeper into the world, building a personal investment in what happens to the people and places around them, which can, in turn, draw them into further adventures.
 
 Chapter 5, "Equipment," of the *Player's Handbook* details the expenses that a character incurs for basic necessities, depending on the lifestyle the character chooses, from poverty to luxury. Chapter 8, "Adventuring," of that book describes some of the downtime activities they can pursue between adventures. This chapter fills in the gaps, describing the expenses of owning property and hiring NPCs, and a variety of additional downtime activities characters can pursue. The beginning of the chapter also offers suggestions for linking adventures together and keeping track of events in your campaign.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/6-1.webp#center)
 
 ## Linking Adventures
 
@@ -113,9 +115,11 @@ Keep notes whenever you create or significantly alter a monster, magic item, or 
 
 ## Recurring Expenses
 
+![](Compendium/books/dungeon-masters-guide-2014/img/6-2.webp#center)
+
 Besides the expenses associated with maintaining a particular lifestyle, adventurers might have additional drains on their adventuring income. Player characters who come into possession of property, own businesses, and employ hirelings must cover the expenses that accompany these ventures.
 
-![Recurring Expenses; Maintenance Costs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/recurring-expenses-maintenance-costs.md)
+![Recurring Expenses; Maintenance Costs](Compendium/tables/recurring-expenses-maintenance-costs.md)
 
 It's not unusual for adventurers-especially after 10th level-to gain possession of a castle, a tavern, or another piece of property. They might buy it with their hard-won loot, take it by force, obtain it in a lucky draw from a *deck of many things*, or acquire it by other means.
 
@@ -147,17 +151,21 @@ As your campaign progresses, your players' characters will not only become more 
 
 ### More Downtime Activities
 
+![](Compendium/books/dungeon-masters-guide-2014/img/6-3.webp#center)
+
 Chapter 8, ""Adventuring"," of the *Player's Handbook* describes a few downtime activities to fill the void between adventures. Depending on the style of your campaign and the particular backgrounds and interests of the adventurers, you can make some or all of the following additional activities available as options.
 
-- [Building a Stronghold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-building-a-stronghold.md)  
-- [Carousing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-carousing-xge.md)  
-- [Crafting a Magic Item](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-crafting-a-magic-item.md)  
-- [Gaining Renown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-gaining-renown.md)  
-- [Performing Sacred Rites](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-performing-sacred-rites.md)  
-- [Running a Business](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-running-a-business.md)  
-- [Selling Magic Items](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-selling-magic-items.md)  
-- [Sowing Rumors](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-sowing-rumors.md)  
-- [Training to Gain Levels](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-training-to-gain-levels.md)  
+![](Compendium/books/dungeon-masters-guide-2014/img/6-4.webp#center)
+
+- [Building a Stronghold](Rules/variant-rules/downtime-activity-building-a-stronghold.md)  
+- [Carousing](Rules/variant-rules/downtime-activity-carousing-xge.md)  
+- [Crafting a Magic Item](Rules/variant-rules/downtime-activity-crafting-a-magic-item.md)  
+- [Gaining Renown](Rules/variant-rules/downtime-activity-gaining-renown.md)  
+- [Performing Sacred Rites](Rules/variant-rules/downtime-activity-performing-sacred-rites.md)  
+- [Running a Business](Rules/variant-rules/downtime-activity-running-a-business.md)  
+- [Selling Magic Items](Rules/variant-rules/downtime-activity-selling-magic-items.md)  
+- [Sowing Rumors](Rules/variant-rules/downtime-activity-sowing-rumors.md)  
+- [Training to Gain Levels](Rules/variant-rules/downtime-activity-training-to-gain-levels.md)  
 
 ### Creating Downtime Activities
 
@@ -167,4 +175,6 @@ Your players might be interested in pursuing downtime activities that aren't cov
 - Activities that have a monetary cost associated with them provide opportunities for player characters to spend their hard-won treasure.  
 - Activities that reveal new adventure hooks and previously unknown facts about your campaign can help you foreshadow future events and conflicts.  
 - For an activity you expect a character to repeat with variable degrees of success, consider creating a random outcome table, modeled on the ones in this chapter.  
-- If a character belongs to a class or has a proficiency or background that would make him or her well suited to a particular activity, consider granting a bonus to ability checks made by the character to complete that activity successfully.
+- If a character belongs to a class or has a proficiency or background that would make him or her well suited to a particular activity, consider granting a bonus to ability checks made by the character to complete that activity successfully.  
+
+![](Compendium/books/dungeon-masters-guide-2014/img/6-5.webp#center)

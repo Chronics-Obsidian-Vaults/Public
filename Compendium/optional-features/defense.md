@@ -8,7 +8,7 @@ tags:
 - source/optional-feature/fs-p
 - source/optional-feature/fs-r
 aliases:
-- Defense
+- "Defense"
 ---
 # Defense
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

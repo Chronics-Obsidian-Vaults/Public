@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloaker
+- "Cloaker"
 ---
-# [Cloaker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/cloaker.md)
-*Source: Monster Manual p. 41, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Cloaker](Compendium/bestiary/aberration/cloaker.md)
+*Source: Monster Manual p. 41. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.
 
@@ -56,22 +57,20 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
   - !!int "14"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Deep Speech, Undercommon"
 "cr": "8"
 "traits":
   - "desc": "While attached to a creature, the cloaker takes only half the damage\
-      \ dealt to it (rounded down). and that creature takes the other half."
+      \ dealt to it (rounded down), and that creature takes the other half."
     "name": "Damage Transfer"
   - "desc": "While the cloaker remains motionless without its underside exposed, it\
       \ is indistinguishable from a dark leather cloak."
     "name": "False Appearance"
   - "desc": "While in bright light, the cloaker has disadvantage on attack rolls and\
-      \ Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight."
     "name": "Light Sensitivity"
 "actions":
   - "desc": "The cloaker makes two attacks: one with its bite and one with its tail."
@@ -79,7 +78,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 10\
       \ (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker\
       \ attaches to it. If the cloaker has advantage against the target, the cloaker\
-      \ attaches to the target's head, and the target is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ attaches to the target's head, and the target is [blinded](Rules/conditions.md#Blinded)\
       \ and unable to breathe while the cloaker is attached. While attached, the cloaker\
       \ can make this attack only against the target and has advantage on the attack\
       \ roll. The cloaker can detach itself by spending 5 feet of its movement. A\
@@ -91,9 +90,9 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
     "name": "Tail"
   - "desc": "Each creature within 60 feet of the cloaker that can hear its moan and\
       \ that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ until the end of the cloaker's next turn. If a creature's saving throw is\
-      \ successful, the creature is immune to the cloaker's moan for the next 24 hours."
+      \ [frightened](Rules/conditions.md#Frightened) until the end of the cloaker's\
+      \ next turn. If a creature's saving throw is successful, the creature is immune\
+      \ to the cloaker's moan for the next 24 hours."
     "name": "Moan"
   - "desc": "The cloaker magically creates three illusory duplicates of itself if\
       \ it isn't in bright light. The duplicates move with it and mimic its actions,\
@@ -109,8 +108,7 @@ Cloakers prefer isolation, but they sometimes convene with other cloakers for de
     "name": "Phantasms (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/cloaker.webp"
+"image": "Compendium/bestiary/aberration/token/cloaker.webp"
 ```
 ^statblock
 

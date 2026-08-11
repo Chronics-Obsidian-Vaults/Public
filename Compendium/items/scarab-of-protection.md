@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/tier/major
-aliases: 
+aliases:
 - "Scarab of Protection"
 item_type: 
 item_subtype: 
@@ -15,7 +16,7 @@ attunement: required
 ---
 # Scarab of Protection
 *Wondrous item, major, legendary (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/scarab-of-protection.webp#right)
+![](Compendium/items/img/scarab-of-protection.webp#right)
 
 
 If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:

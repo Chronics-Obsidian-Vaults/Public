@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/21
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Solar
+- "Solar"
 ---
-# [Solar](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/solar.md)
-*Source: Monster Manual p. 18, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Solar](Compendium/bestiary/celestial/solar.md)
+*Source: Monster Manual p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
@@ -63,28 +64,25 @@ It is said that only twenty-four solars exist. The few solars that are known are
   - "wisdom": !!int "14"
   - "charisma": !!int "17"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+14"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 24"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
   - "desc": "The solar's spellcasting ability is Charisma (spell save DC 25). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only)\n\n**3/day each:** [blade barrier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blade-barrier.md),\
-      \ [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md),\
-      \ [resurrection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/resurrection.md)\n\
-      \n**1/day each:** [commune](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune.md),\
-      \ [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md)"
+      **At will:** [detect evil and good](Compendium/spells/detect-evil-and-good.md),\
+      \ [invisibility](Compendium/spells/invisibility.md) (self only)\n\n**3/day each:**\
+      \ [blade barrier](Compendium/spells/blade-barrier.md), [dispel evil and good](Compendium/spells/dispel-evil-and-good.md),\
+      \ [resurrection](Compendium/spells/resurrection.md)\n\n**1/day each:** [commune](Compendium/spells/commune.md),\
+      \ [control weather](Compendium/spells/control-weather.md)"
     "name": "Innate Spellcasting"
   - "desc": "The solar's weapon attacks are magical. When the solar hits with any\
       \ weapon, the weapon deals an extra 6d8 radiant damage (included in the attack)."
@@ -130,13 +128,12 @@ It is said that only twenty-four solars exist. The few solars that are known are
     "name": "Searing Burst (Costs 2 Actions)"
   - "desc": "The solar targets one creature it can see within 30 feet of it. If the\
       \ target can see it, the target must succeed on a DC 15 Constitution saving\
-      \ throw or be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ until magic such as the [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md)\
-      \ spell removes the blindness."
+      \ throw or be [blinded](Rules/conditions.md#Blinded) until magic such as the\
+      \ [lesser restoration](Compendium/spells/lesser-restoration.md) spell removes\
+      \ the blindness."
     "name": "Blinding Gaze (Costs 3 Actions)"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/solar.webp"
+"image": "Compendium/bestiary/celestial/token/solar.webp"
 ```
 ^statblock

@@ -1,31 +1,30 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/cleric
 - source/spell/class/druid
 - source/spell/class/paladin
 - source/spell/feat/artificer-initiate
 - source/spell/feat/magic-initiate/druid-spells
+- source/spell/feat/mark-of-hospitality
 - source/spell/feat/ritual-caster/druid-spells
 - source/spell/level/1st-level
 - source/spell/optfeature/book-of-ancient-secrets
 - source/spell/ritual
 - source/spell/school/transmutation
-- source/spell/subclass/divine-soul/good
-- source/spell/subrace/halfling-mark-of-hospitality
+- source/spell/subclass/divine-soul
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Cleric
 - Druid
 - Paladin
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Purify Food and Drink
+- "Purify Food and Drink"
 level: 1
 ritual: true
 school: transmutation
@@ -47,6 +46,6 @@ components_vsm: [V, S]
 
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

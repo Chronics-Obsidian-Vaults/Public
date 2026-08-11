@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- The Boromar Clan; Boromar Contacts
+- "The Boromar Clan; Boromar Contacts"
 ---
 # The Boromar Clan; Boromar Contacts
 *Source: Eberron: Rising from the Last War p. 179* 

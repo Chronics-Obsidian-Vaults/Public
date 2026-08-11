@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Undead Snakes
+- "Swarm of Undead Snakes"
 ---
-# [Swarm of Undead Snakes](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/swarm-of-undead-snakes-egw.md)
+# [Swarm of Undead Snakes](Compendium/bestiary/undead/swarm-of-undead-snakes-egw.md)
 *Source: Explorer's Guide to Wildemount p. 247*  
 
 ```statblock
@@ -33,17 +34,12 @@ aliases:
 "speed": "30 ft., swim 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained), [stunned](Rules/conditions.md#Stunned),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
@@ -60,6 +56,6 @@ aliases:
     "name": "Bites"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/swarm-of-undead-snakes-egw.webp"
+"image": "Compendium/bestiary/undead/token/swarm-of-undead-snakes-egw.webp"
 ```
 ^statblock

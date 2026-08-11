@@ -1,24 +1,26 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/simic-scientist
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/cleric
 - source/spell/class/druid
 - source/spell/class/ranger
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/2nd-level
+- source/spell/reward/charm-of-the-star
+- source/spell/reward/simic-charm
 - source/spell/school/transmutation
 - source/spell/subclass/arcane-trickster
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/oath-of-glory
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Cleric
 - Druid
@@ -27,10 +29,10 @@ classes:
 - Ranger
 - Rogue (Arcane Trickster)
 - Sorcerer
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Wizard
 aliases:
-- Enhance Ability
+- "Enhance Ability"
 level: 2
 school: transmutation
 ritual: false
@@ -62,7 +64,7 @@ The target has advantage on Strength checks, and his or her carrying capacity do
 
 ## Cat's Grace
 
-The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).
+The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [incapacitated](Rules/conditions.md#Incapacitated).
 
 ## Eagle's Splendor
 
@@ -82,6 +84,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ## Summary
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Glory)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

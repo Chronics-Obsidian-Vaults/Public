@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Horncaller
+- "Horncaller"
 ---
-# [Horncaller](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/horncaller-ggr.md)
+# [Horncaller](Compendium/bestiary/humanoid/horncaller-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 253*  
 
 Specialized shamans called horncallers use their magic to call wild beasts to fight alongside Selesnya troops. In quieter times, they tend the animals associated with Selesnya enclaves and parks.
@@ -23,7 +24,7 @@ Specialized shamans called horncallers use their magic to call wild beasts to fi
 "subtype": "any race"
 "alignment": "Lawful Good"
 "ac": !!int "13"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "1"
@@ -36,11 +37,11 @@ Specialized shamans called horncallers use their magic to call wild beasts to fi
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling)"
+  - "name": "[Animal Handling](Rules/skills.md#Animal%20Handling)"
     "desc": "+4"
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Common plus any one language"
@@ -48,8 +49,8 @@ Specialized shamans called horncallers use their magic to call wild beasts to fi
 "traits":
   - "desc": "The horncaller's innate spellcasting ability is Wisdom (spell save DC\
       \ 14). The horncaller can innately cast the following spells, requiring no material\
-      \ components:\n\n**1/day each:** [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md),\
-      \ [conjure animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-animals.md)"
+      \ components:\n\n**1/day each:** [bless](Compendium/spells/bless.md), [conjure\
+      \ animals](Compendium/spells/conjure-animals.md)"
     "name": "Innate Spellcasting"
   - "desc": "The horncaller can communicate with beasts as if they shared a language."
     "name": "Speak with Beasts"
@@ -66,6 +67,6 @@ Specialized shamans called horncallers use their magic to call wild beasts to fi
     "name": "One with the Worldsoul"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/horncaller-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/horncaller-ggr.webp"
 ```
 ^statblock

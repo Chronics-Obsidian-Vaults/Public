@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/14
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Retriever
+- "Retriever"
 ---
-# [Retriever](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/retriever-mpmm.md)
+# [Retriever](Compendium/bestiary/construct/retriever-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*  
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -44,19 +45,16 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
   - "constitution": !!int "10"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 15"
 "languages": "understands Abyssal, Elvish, and Undercommon but can't speak"
 "cr": "14"
@@ -80,23 +78,23 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
       \ on a failed save, or half as much damage on a successful one."
     "name": "Force Beam"
   - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
-      \ target must succeed on a DC 18 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ for 1 minute. The [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success.\n\nIf the [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ creature is Medium or smaller, the retriever can pick it up as part of the\
-      \ retriever's move and walk or climb with it at full speed."
+      \ target must succeed on a DC 18 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
+      \ for 1 minute. The [paralyzed](Rules/conditions.md#Paralyzed) target can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success.\n\nIf the [paralyzed](Rules/conditions.md#Paralyzed) creature\
+      \ is Medium or smaller, the retriever can pick it up as part of the retriever's\
+      \ move and walk or climb with it at full speed."
     "name": "Paralyzing Beam (Recharge 5-6)"
   - "desc": "The retriever casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n**3/day each:** [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ (only self and up to one incapacitated creature, which is considered willing\
-      \ for the spell), [web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md)"
+      \n**3/day each:** [plane shift](Compendium/spells/plane-shift.md) (only self\
+      \ and up to one incapacitated creature, which is considered willing for the\
+      \ spell), [web](Compendium/spells/web.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/retriever-mpmm.webp"
+"image": "Compendium/bestiary/construct/token/retriever-mpmm.webp"
 ```
 ^statblock
 

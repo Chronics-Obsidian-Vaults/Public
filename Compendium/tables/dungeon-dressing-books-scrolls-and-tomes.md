@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; Books, Scrolls, and Tomes
+- "Dungeon Dressing; Books, Scrolls, and Tomes"
 ---
 # Dungeon Dressing; Books, Scrolls, and Tomes
 *Source: Dungeon Master's Guide p. 298* 

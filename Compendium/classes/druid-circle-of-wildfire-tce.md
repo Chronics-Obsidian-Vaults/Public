@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/druid/wildfire
 aliases:
-- Circle of Wildfire
+- "Circle of Wildfire"
 ---
 # Circle of Wildfire
 *[Druid](./druid.md): Druid Circle*  
@@ -43,12 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Circle of Wildfire (Level 2)
+![](Compendium/classes/img/wildfire-druid.webp#right)
 
 Druids within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbors both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another.
+
+## Subclass Features
 
 ### Circle Spells (Level 2)
 
@@ -62,11 +61,11 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 2nd | [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md), [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md) |
-| 3rd | [flaming sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flaming-sphere.md), [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md) |
-| 5th | [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md), [revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md) |
-| 7th | [aura of life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-life.md), [fire shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-shield.md) |
-| 9th | [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md), [mass cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-cure-wounds.md) |
+| 2nd | [burning hands](Compendium/spells/burning-hands.md), [cure wounds](Compendium/spells/cure-wounds.md) |
+| 3rd | [flaming sphere](Compendium/spells/flaming-sphere.md), [scorching ray](Compendium/spells/scorching-ray.md) |
+| 5th | [plant growth](Compendium/spells/plant-growth.md), [revivify](Compendium/spells/revivify.md) |
+| 7th | [aura of life](Compendium/spells/aura-of-life.md), [fire shield](Compendium/spells/fire-shield.md) |
+| 9th | [flame strike](Compendium/spells/flame-strike.md), [mass cure wounds](Compendium/spells/mass-cure-wounds.md) |
 ^circle-of-wildfire-spells
 
 ### Summon Wildfire Spirit (Level 2)
@@ -77,9 +76,9 @@ You can summon the primal spirit bound to your soul. As an action, you can expen
 
 The spirit appears in an unoccupied space of your choice that you can see within 30 feet of you. Each creature within 10 feet of the spirit (other than you) when it appears must succeed on a Dexterity saving throw against your spell save DC or take `2d6` fire damage.
 
-The spirit is friendly to you and your companions and obeys your commands. See this creature's game statistics in the [Wildfire Spirit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/wildfire-spirit-tce.md) stat block, which uses your proficiency bonus (PB) in several places. You determine the spirit's appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.
+The spirit is friendly to you and your companions and obeys your commands. See this creature's game statistics in the [Wildfire Spirit](Compendium/bestiary/elemental/wildfire-spirit-tce.md) stat block, which uses your proficiency bonus (PB) in several places. You determine the spirit's appearance. Some spirits take the form of a humanoid figure made of gnarled branches covered in flame, while others look like beasts wreathed in fire.
 
-In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), the spirit can take any action of its choice, not just [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge).
+In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. The only action it takes on its turn is the [Dodge](Rules/actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](Rules/conditions.md#Incapacitated), the spirit can take any action of its choice, not just [Dodge](Rules/actions.md#Dodge).
 
 The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you use this feature to summon the spirit again, or until you die.
 
@@ -103,6 +102,6 @@ You can use this reaction a number of times equal to your proficiency bonus, and
 
 *14th-level Circle of Wildfire feature*
 
-The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 hit points and thereby fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious), you can cause the spirit to drop to 0 hit points. You then regain half your hit points and immediately rise to your feet.
+The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 hit points and thereby fall [unconscious](Rules/conditions.md#Unconscious), you can cause the spirit to drop to 0 hit points. You then regain half your hit points and immediately rise to your feet.
 
 Once you use this feature, you can't use it again until you finish a long rest.

@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/drow
 - source/domain/war
-aliases: 
-- Selvetarm
+aliases:
+- "Selvetarm"
 ---
 # Selvetarm
 *Source: Mordenkainen's Tome of Foes p. 54* 

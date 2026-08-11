@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hippogriff
+- "Hippogriff"
 ---
-# [Hippogriff](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/hippogriff.md)
-*Source: Monster Manual p. 184, Eberron: Rising from the Last War, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Hippogriff](Compendium/bestiary/monstrosity/hippogriff.md)
+*Source: Monster Manual p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A beast whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.
 
@@ -45,13 +46,13 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
   - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The hippogriff has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The hippogriff has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
@@ -66,9 +67,7 @@ A hippogriff raised in captivity can be trained to be a faithful companion and m
     "name": "Claws"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/hippogriff.webp"
+"image": "Compendium/bestiary/monstrosity/token/hippogriff.webp"
 ```
 ^statblock
 

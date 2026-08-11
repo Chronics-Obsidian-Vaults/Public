@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bullywug
+- "Bullywug"
 ---
-# [Bullywug](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/bullywug.md)
-*Source: Monster Manual p. 35, Explorer's Guide to Wildemount*  
+# [Bullywug](Compendium/bestiary/humanoid/bullywug.md)
+*Source: Monster Manual p. 35*  
 
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
 
@@ -44,8 +45,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 "subtype": "bullywug"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -58,8 +58,10 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
   - !!int "7"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
 "senses": "passive Perception 10"
 "languages": "Bullywug"
 "cr": "1/4"
@@ -69,7 +71,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
   - "desc": "The bullywug can communicate simple concepts to frogs and toads when\
       \ it speaks in Bullywug."
     "name": "Speak with Frogs and Toads"
-  - "desc": "The bullywug has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The bullywug has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide in swampy terrain."
     "name": "Swamp Camouflage"
   - "desc": "The bullywug's long jump is up to 20 feet and its high jump is up to\
@@ -88,8 +90,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
     "name": "Spear"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/bullywug.webp"
+"image": "Compendium/bestiary/humanoid/token/bullywug.webp"
 ```
 ^statblock
 

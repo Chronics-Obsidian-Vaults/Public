@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grung Wildling
+- "Grung Wildling"
 ---
-# [Grung Wildling](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/grung-wildling-mpmm.md)
+# [Grung Wildling](Compendium/bestiary/humanoid/grung-wildling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
 
 Gifted with druidic magic, a grung wildling typically serves as an advisor, a healer, and a nurturer of crops.
@@ -44,16 +45,19 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "saves":
   - "dexterity": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+  - "[shortbow](Compendium/items/shortbow.md)"
 "senses": "passive Perception 14"
 "languages": "Grung"
 "cr": "1"
@@ -62,8 +66,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
     "name": "Amphibious"
   - "desc": "Any creature that grapples the grung or otherwise comes into direct contact\
       \ with the grung's skin must succeed on a DC 12 Constitution saving throw or\
-      \ become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. A [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ become [poisoned](Rules/conditions.md#Poisoned) for 1 minute. A [poisoned](Rules/conditions.md#Poisoned)\
       \ creature no longer in direct contact with the grung can repeat the saving\
       \ throw at the end of each of its turns, ending the effect on itself on a success."
     "name": "Poisonous Skin"
@@ -71,8 +74,8 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
       \ feet, with or without a running start."
     "name": "Standing Leap"
   - "desc": "If the grung isn't immersed in water for at least 1 hour during a day,\
-      \ it suffers 1 level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
-      \ at the end of that day. The grung can recover from this [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
+      \ it suffers 1 level of [exhaustion](Rules/conditions.md#Exhaustion) at the\
+      \ end of that day. The grung can recover from this [exhaustion](Rules/conditions.md#Exhaustion)\
       \ only through magic or by immersing itself in water for at least 1 hour."
     "name": "Water Dependency"
 "actions":
@@ -83,15 +86,14 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
       \ 6 (1d6 + 3) piercing damage plus 5 (2d4) poison damage."
     "name": "Shortbow"
   - "desc": "The grung casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md)\n\
-      \n**3/day each:** [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md)\n\
-      \n**2/day:** [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](Compendium/spells/druidcraft.md)\n\
+      \n**3/day each:** [cure wounds](Compendium/spells/cure-wounds.md), [spike growth](Compendium/spells/spike-growth.md)\n\
+      \n**2/day:** [plant growth](Compendium/spells/plant-growth.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/grung-wildling-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/grung-wildling-mpmm.webp"
 ```
 ^statblock
 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/hobgoblin
 aliases:
-- Hobgoblin
+- "Hobgoblin"
 ---
 # Hobgoblin
 *Source: Dungeon Master's Guide p. 282*  
@@ -19,7 +20,7 @@ aliases:
 
 ### Martial Advantage
 
-Once per turn, you can deal an extra `2d6` damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).
+Once per turn, you can deal an extra `2d6` damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [incapacitated](Rules/conditions.md#Incapacitated).
 
 ### Darkvision
 

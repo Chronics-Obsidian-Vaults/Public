@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quetzalcoatlus
+- "Quetzalcoatlus"
 ---
-# [Quetzalcoatlus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/quetzalcoatlus-mpmm.md)
+# [Quetzalcoatlus](Compendium/bestiary/beast/quetzalcoatlus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
@@ -39,13 +40,13 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
   - !!int "5"
 "speed": "10 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The quetzalcoatlus doesn't provoke an [opportunity attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The quetzalcoatlus doesn't provoke an [opportunity attack](Rules/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
 "actions":
@@ -57,7 +58,7 @@ This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/quetzalcoatlus-mpmm.webp"
+"image": "Compendium/bestiary/beast/token/quetzalcoatlus-mpmm.webp"
 ```
 ^statblock
 

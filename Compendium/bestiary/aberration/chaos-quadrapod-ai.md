@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chaos Quadrapod
+- "Chaos Quadrapod"
 ---
-# [Chaos Quadrapod](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/chaos-quadrapod-ai.md)
+# [Chaos Quadrapod](Compendium/bestiary/aberration/chaos-quadrapod-ai.md)
 *Source: Acquisitions Incorporated p. 209*  
 
 A cluster of four suckered tentacles with a pulsing mass of ethereal light as its central body, the chaos quadrapod is a creature of the Far Realm, and it channels the anarchic power of that plane as it destroys all in its path. The quadrapod ambulates by flinging its mucus-covered tentacles out and dragging itself along, creating a horrid slurping sound as it advances relentlessly toward its prey.
@@ -35,12 +36,12 @@ A cluster of four suckered tentacles with a pulsing mass of ethereal light as it
   - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 120 ft. (blind beyond this radius), passive Perception 14"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 120 ft. (blind beyond this radius),\
+  \ passive Perception 14"
 "languages": ""
 "cr": "4"
 "traits":
@@ -51,18 +52,17 @@ A cluster of four suckered tentacles with a pulsing mass of ethereal light as it
   - "desc": "The chaos quadrapod makes up to two tentacle attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) bludgeoning damage. If the target is a creature, it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 14). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ (2d6 + 4) bludgeoning damage. If the target is a creature, it is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 14). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained).\
       \ The chaos quadrapod can grapple no more than two targets at a time."
     "name": "Tentacle"
   - "desc": "The chaos quadrapod shoots forth a knot of roiling ethereal light that\
       \ explodes at a point it can see within 60 feet of it. Each creature in a 20-foot-radius\
       \ sphere centered on that point must succeed on a DC 14 Charisma saving throw\
-      \ or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the end of its next turn."
+      \ or be [stunned](Rules/conditions.md#Stunned) until the end of its next turn."
     "name": "Chaos Cloud (Recharges after a Short or Long Rest)"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/chaos-quadrapod-ai.webp"
+"image": "Compendium/bestiary/aberration/token/chaos-quadrapod-ai.webp"
 ```
 ^statblock

@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/orzhov-representative
 - source/spell/class/bard/magical-secrets
 - source/spell/class/cleric
 - source/spell/class/paladin
+- source/spell/feat/mark-of-sentinel
 - source/spell/level/2nd-level
 - source/spell/school/enchantment
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/monster-slayer
 - source/spell/subclass/oath-of-devotion
 - source/spell/subclass/oath-of-the-crown
 - source/spell/subclass/order-domain
-- source/spell/subrace/human-mark-of-sentinel
 classes:
 - Bard (Magical Secrets)
 - Cleric
@@ -23,9 +24,9 @@ classes:
 - Paladin (Oath of Devotion)
 - Paladin (Oath of the Crown)
 - Ranger (Monster Slayer)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Zone of Truth
+- "Zone of Truth"
 level: 2
 school: enchantment
 ritual: false
@@ -49,6 +50,6 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such creatures can be evasive in its answers as long as it remains within the boundaries of the truth.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Order Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-devotion.md); [Paladin (Oath of the Crown)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-crown-scag.md "subclass=SCAG"); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Ranger (Monster Slayer)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Order Domain)](Compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion.md); [Paladin (Oath of the Crown)](Compendium/lists/list-spells-classes-oath-of-the-crown-scag.md "subclass=SCAG"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger (Monster Slayer)](Compendium/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE"); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 289. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/17
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Blue Dracolich
+- "Adult Blue Dracolich"
 ---
-# [Adult Blue Dracolich](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/adult-blue-dracolich.md)
+# [Adult Blue Dracolich](Compendium/bestiary/undead/adult-blue-dracolich.md)
 *Source: Monster Manual p. 84*  
 
 Even as long-lived as they are, all dragons must eventually die. This thought doesn't sit well with many dragons, some of which allow themselves to be transformed by necromantic energy and ancient rituals into powerful undead dracoliches. Only the most narcissistic dragons choose this path, knowing that by doing so, they sever all ties to their kin and the dragon gods.
@@ -49,7 +50,7 @@ The dracolich has immunity to poison. It also retains any immunities it had prio
 
 ### Condition Immunities
 
-The dracolich can't be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed), or [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned). It also doesn't suffer from [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion).
+The dracolich can't be [charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed), or [poisoned](Rules/conditions.md#Poisoned). It also doesn't suffer from [exhaustion](Rules/conditions.md#Exhaustion).
 
 ### Magic Resistance
 
@@ -79,19 +80,16 @@ The dracolich has advantage on saving throws against spells and other magical ef
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+14"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "17"
@@ -116,11 +114,11 @@ The dracolich has advantage on saving throws against spells and other magical ef
     "name": "Tail"
   - "desc": "Each creature of the dracolich's choice that is within 120 feet of the\
       \ dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success. If a creature's saving\
-      \ throw is successful or the effect ends for it, the creature is immune to the\
-      \ dracolich's Frightful Presence for the next 24 hours."
+      \ [frightened](Rules/conditions.md#Frightened) for 1 minute. A creature can\
+      \ repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. If a creature's saving throw is successful or the\
+      \ effect ends for it, the creature is immune to the dracolich's Frightful Presence\
+      \ for the next 24 hours."
     "name": "Frightful Presence"
   - "desc": "The dracolich exhales lightning in a 90-foot line that is 5 feet wide.\
       \ Each creature in that line must make a DC 20 Dexterity saving throw, taking\
@@ -133,33 +131,32 @@ The dracolich has advantage on saving throws against spells and other magical ef
       \ effect two rounds in a row:\n\n- Part of the ceiling collapses above one creature\
       \ that the dragon can see within 120 feet of it. The creature must succeed on\
       \ a DC 15 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be\
-      \ knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
-      \ and buried. The buried target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ and unable to breathe or stand up. A creature can take an action to make a\
-      \ DC 10 Strength check, ending the buried state on a success.  \n- A cloud of\
-      \ sand swirls about in a 20-foot-radius sphere centered on a point the dragon\
-      \ can see within 120 feet of it. The cloud spreads around corners. Each creature\
-      \ in the cloud must succeed on a DC 15 Constitution saving throw or be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success.  \n- Lightning arcs,\
-      \ forming a 5-foot-wide line between two of the lair's solid surfaces that the\
-      \ dragon can see. They must be within 120 feet of the dragon and 120 feet of\
-      \ each other. Each creature in that line must succeed on a DC 15 Dexterity saving\
-      \ throw or take 10 (3d6) lightning damage.  \n\n**Additional Lair Actions.**\
-      \ At your discretion, a legendary ([adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-blue-dragon.md)\
-      \ or [ancient](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-blue-dragon.md))\
-      \ blue dragon can use one or both of the following additional lair actions while\
-      \ in its lair:\n\n- **Misleading Mirage.** Until initiative count 20 on the\
-      \ next round, at each intersection or branching passage in the lair, a creature\
-      \ other than the dragon has a 50 percent chance of going in a different direction\
-      \ from the direction it intends.  \n- **Sudden Sinkhole.** The dragon chooses\
-      \ a point on the ground that it can see within 120 feet of it. A 5-foot-radius,\
-      \ 20-foot-deep pit forms centered on that point. A creature on the ground above\
-      \ where the pit formed must make a DC 15 Dexterity saving throw. On a failed\
-      \ save, a creature falls to the bottom of the pit, taking 7 (2d6) bludgeoning\
-      \ damage and landing [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ On a successful save, a creature moves to the nearest unoccupied space instead\
-      \ of falling in the pit.  "
+      \ knocked [prone](Rules/conditions.md#Prone) and buried. The buried target is\
+      \ [restrained](Rules/conditions.md#Restrained) and unable to breathe or stand\
+      \ up. A creature can take an action to make a DC 10 Strength check, ending the\
+      \ buried state on a success.  \n- A cloud of sand swirls about in a 20-foot-radius\
+      \ sphere centered on a point the dragon can see within 120 feet of it. The cloud\
+      \ spreads around corners. Each creature in the cloud must succeed on a DC 15\
+      \ Constitution saving throw or be [blinded](Rules/conditions.md#Blinded) for\
+      \ 1 minute. A creature can repeat the saving throw at the end of each of its\
+      \ turns, ending the effect on itself on a success.  \n- Lightning arcs, forming\
+      \ a 5-foot-wide line between two of the lair's solid surfaces that the dragon\
+      \ can see. They must be within 120 feet of the dragon and 120 feet of each other.\
+      \ Each creature in that line must succeed on a DC 15 Dexterity saving throw\
+      \ or take 10 (3d6) lightning damage.  \n\n**Additional Lair Actions.** At your\
+      \ discretion, a legendary ([adult](Compendium/bestiary/dragon/adult-blue-dragon.md)\
+      \ or [ancient](Compendium/bestiary/dragon/ancient-blue-dragon.md)) blue dragon\
+      \ can use one or both of the following additional lair actions while in its\
+      \ lair:\n\n- **Misleading Mirage.** Until initiative count 20 on the next round,\
+      \ at each intersection or branching passage in the lair, a creature other than\
+      \ the dragon has a 50 percent chance of going in a different direction from\
+      \ the direction it intends.  \n- **Sudden Sinkhole.** The dragon chooses a point\
+      \ on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep\
+      \ pit forms centered on that point. A creature on the ground above where the\
+      \ pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature\
+      \ falls to the bottom of the pit, taking 7 (2d6) bludgeoning damage and landing\
+      \ [prone](Rules/conditions.md#Prone). On a successful save, a creature moves\
+      \ to the nearest unoccupied space instead of falling in the pit.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing a legendary blue dragon's lair is warped by the\
@@ -168,7 +165,7 @@ The dracolich has advantage on saving throws against spells and other magical ef
       \ miles of the lair. A dust devil has the statistics of an air elemental, but\
       \ it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma\
       \ of 1 (-5).  \n- Hidden sinkholes form in and around the dragon's lair. A sinkhole\
-      \ can be spotted from a safe distance with a successful DC 20 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+      \ can be spotted from a safe distance with a successful DC 20 Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check. Otherwise, the first creature to step on the thin crust covering the\
       \ sinkhole must succeed on a DC 15 Dexterity saving throw or fall 1d6 × 10 feet\
       \ into the sinkhole.  \n\nIf the dragon dies, the dust devils disappear immediately,\
@@ -179,7 +176,7 @@ The dracolich has advantage on saving throws against spells and other magical ef
       \ that spend a year within 1 mile of the dragon's lair find blue objects fascinating\
       \ and feel compelled to acquire them at every opportunity.  \n- **Mirage Terrain.**\
       \ The area immediately surrounding the lair appears to be a lush oasis. A creature\
-      \ carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation))\
+      \ carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](Rules/skills.md#Investigation))\
       \ check to disbelieve it. A creature who disbelieves the illusion sees it as\
       \ a vague image superimposed on the underlying terrain.  \n- **Sandstorm.**\
       \ A sandstorm blows constantly within 1 mile of the dragon's lair.  "
@@ -188,20 +185,20 @@ The dracolich has advantage on saving throws against spells and other magical ef
   \ turn, the dracolich can expend a use to take one of the following actions. The\
   \ dracolich regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dracolich makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dracolich makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dracolich makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dracolich beats its tattered wings. Each creature within 10 feet\
       \ of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14\
-      \ (2d6 + 7) bludgeoning damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ (2d6 + 7) bludgeoning damage and be knocked [prone](Rules/conditions.md#Prone).\
       \ After beating its wings this way, the dracolich can fly up to half its flying\
       \ speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/adult-blue-dracolich.webp"
+"image": "Compendium/bestiary/undead/token/adult-blue-dracolich.webp"
 ```
 ^statblock
 

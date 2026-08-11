@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/artifact
 - source/item/weapon/melee
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Baba Yaga's Pestle"
 item_type: weapon
 item_subtype: "melee, simple"
@@ -15,13 +16,13 @@ rarity: artifact
 attunement: required
 ---
 # Baba Yaga's Pestle
-*Weapon ([quarterstaff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/quarterstaff.md)), artifact (requires attunement)*  
+*Weapon ([quarterstaff](Compendium/items/quarterstaff.md)), artifact (requires attunement)*  
 
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 The pestle is a 6-inch-long, worn wooden tool. Once during your turn while you are holding the pestle, you can extend it into a quarterstaff or shrink it back into a pestle (no action required). As a quarterstaff, the pestle is a magic weapon that grants a +3 bonus to attack and damage rolls made with it.

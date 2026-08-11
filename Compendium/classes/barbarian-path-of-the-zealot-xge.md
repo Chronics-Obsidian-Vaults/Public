@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/barbarian/zealot
 aliases:
-- Path of the Zealot
+- "Path of the Zealot"
 ---
 # Path of the Zealot
 *[Barbarian](./barbarian.md): Primal Path*  
@@ -43,14 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Path of the Zealot (Level 3)
+![](Compendium/classes/img/barbarian.webp#right)
 
 Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots—warriors who channel their rage into powerful displays of divine power.
 
 A variety of gods across the worlds of D&D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good.
+
+## Subclass Features
 
 ### Divine Fury (Level 3)
 
@@ -58,7 +57,7 @@ Starting when you choose this path at 3rd level, you can channel divine fury int
 
 ### Warrior of the Gods (Level 3)
 
-At 3rd level, your soul is marked for endless battle. If a spell, such as [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md), has the sole effect of restoring you to life (but not undeath), the caster doesn't need material components to cast the spell on you.
+At 3rd level, your soul is marked for endless battle. If a spell, such as [raise dead](Compendium/spells/raise-dead.md), has the sole effect of restoring you to life (but not undeath), the caster doesn't need material components to cast the spell on you.
 
 ### Fanatical Focus (Level 6)
 
@@ -74,4 +73,4 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows.
 
-While you're raging, having 0 hit points doesn't knock you [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious). You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don't die until your rage ends, and you die then only if you still have 0 hit points.
+While you're raging, having 0 hit points doesn't knock you [unconscious](Rules/conditions.md#Unconscious). You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to failing death saving throws, you don't die until your rage ends, and you die then only if you still have 0 hit points.

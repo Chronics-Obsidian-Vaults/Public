@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/armor/heavy
@@ -9,7 +10,7 @@ tags:
 - source/item/rarity/legendary
 - source/item/tier/major
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+3 Armor"
 - "+3 Breastplate"
 - "+3 Chain Mail"

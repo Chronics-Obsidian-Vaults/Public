@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Quirks of Your Sending Stone
+- "Quirks of Your Sending Stone"
 ---
 # Quirks of Your Sending Stone
 *Source: Acquisitions Incorporated p. 33* 

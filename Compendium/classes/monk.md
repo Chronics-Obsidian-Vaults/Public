@@ -6,7 +6,7 @@ tags:
 - source/class/monk
 - source/compendium/src/5e/phb
 aliases:
-- Monk
+- "Monk"
 ---
 # Monk
 *Source: Player's Handbook p. 76. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/monk.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Monk level
@@ -52,15 +54,15 @@ aliases:
 
 - **Saving Throws**: Dexterity, Strength
 - **Armor**: none
-- **Weapons**: simple weapons, [shortswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md)
-- **Tools**: any one type of [artisan's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/artisans-tools.md) or any one [musical instrument](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/musical-instrument.md) of your choice
-- **Skills**: choose 2 from [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion), and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)
+- **Weapons**: simple weapons, [shortswords](Compendium/items/shortsword.md)
+- **Tools**: any one type of [artisan's tools](Compendium/items/artisans-tools.md) or any one [musical instrument](Compendium/items/musical-instrument.md) of your choice
+- **Skills**: choose 2 from [Acrobatics](Rules/skills.md#Acrobatics), [Athletics](Rules/skills.md#Athletics), [History](Rules/skills.md#History), [Insight](Rules/skills.md#Insight), [Religion](Rules/skills.md#Religion), and [Stealth](Rules/skills.md#Stealth)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [shortsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md) or (b) any simple weapon
-- (a) a [dungeoneer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md)
-- 10 [darts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dart.md)
+- (a) a [shortsword](Compendium/items/shortsword.md) or (b) any simple weapon
+- (a) a [dungeoneer's pack](Compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](Compendium/items/explorers-pack.md)
+- 10 [darts](Compendium/items/dart.md)
 
 Alternatively, you may start with 5d4 (`5d4`) gp to buy your own equipment.
 
@@ -70,8 +72,7 @@ Alternatively, you may start with 5d4 (`5d4`) gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Weapons**: simple weapons, [shortswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md)
-
+- **Weapons**: simple weapons, [shortswords](Compendium/items/shortsword.md)
 ## Monk
 
 Her fists a blur as they deflect an incoming hail of arrows, a half-elf springs over a barricade and throws herself into the massed ranks of hobgoblins on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.
@@ -106,7 +107,7 @@ As a result of the structured life of a monastic community and the discipline re
 
 #### Quick Build
 
-You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the [hermit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/hermit.md) background.
+You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the [hermit](Compendium/backgrounds/hermit.md) background.
 
 > [!quote] A quote from Ember, grand master of flowers  
 > 
@@ -187,13 +188,13 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 
 ### Martial Arts (Level 1)
 
-Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [shortswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md) and any simple melee weapons that don't have the two-handed or heavy property.
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [shortswords](Compendium/items/shortsword.md) and any simple melee weapons that don't have the two-handed or heavy property.
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md).
+You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [shield](Compendium/items/shield.md).
 
 - You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.  
 - You can roll a `d4` in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.  
-- When you use the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
+- When you use the [Attack](Rules/actions.md#Attack) action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [Attack](Rules/actions.md#Attack) action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.  
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
 
@@ -211,20 +212,20 @@ Some of your ki features require your target to make a saving throw to resist th
 
 ### Flurry of Blows (Level 2)
 
-Immediately after you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
+Immediately after you take the [Attack](Rules/actions.md#Attack) action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.
 
 ### Patient Defense (Level 2)
 
-You can spend 1 ki point to take the [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge) action as a bonus action on your turn.
+You can spend 1 ki point to take the [Dodge](Rules/actions.md#Dodge) action as a bonus action on your turn.
 
 ### Step of the Wind (Level 2)
 
-You can spend 1 ki point to take the [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage) or [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
+You can spend 1 ki point to take the [Disengage](Rules/actions.md#Disengage) or [Dash](Rules/actions.md#Dash) action as a bonus action on your turn, and your jump distance is doubled for the turn.
 
 ### Dedicated Weapon (Level 2)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*2nd-level monk [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*2nd-level monk [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 You train yourself to use a variety of weapons as monk weapons, not just simple melee weapons and shortswords. Whenever you finish a short or long rest, you can touch one weapon, focus your ki on it, and then count that weapon as a monk weapon until you use this feature again.
 
@@ -253,7 +254,7 @@ When you reach 3rd level, you commit yourself to a monastic tradition, chosen fr
 ### Ki-Fueled Attack (Level 3)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*3rd-level monk [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level monk [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 If you spend 1 ki point or more as part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
 
@@ -270,22 +271,22 @@ Beginning at 4th level, you can use your reaction when you fall to reduce any fa
 ### Quickened Healing (Level 4)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*4th-level monk [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*4th-level monk [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 As an action, you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](Rules/actions.md#Attack) action on your turn.
 
 ### Stunning Strike (Level 5)
 
-Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned) until the end of your next turn.
+Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [stunned](Rules/conditions.md#Stunned) until the end of your next turn.
 
 ### Focused Aim (Level 5)
 _Source: Tasha's Cauldron of Everything p. 48_
 
-*5th-level monk [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*5th-level monk [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 When you miss with an attack roll, you can spend 1 to 3 ki points to increase your attack roll by 2 for each of these ki points you spend, potentially turning the miss into a hit.
 
@@ -299,11 +300,11 @@ At 6th level, you gain one feature granted by your Monastic Tradition.
 
 ### Evasion (Level 7)
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [fireball](Compendium/spells/fireball.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Stillness of Mind (Level 7)
 
-Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened).
 
 ### Ability Score Improvement (Level 8)
 
@@ -355,9 +356,9 @@ At 17th level, you gain one feature granted by your Monastic Tradition.
 
 ### Empty Body (Level 18)
 
-Beginning at 18th level, you can use your action to spend 4 ki points to become [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) for 1 minute. During that time, you also have resistance to all damage but force damage.
+Beginning at 18th level, you can use your action to spend 4 ki points to become [invisible](Rules/conditions.md#Invisible) for 1 minute. During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the [astral projection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/astral-projection.md) spell, without needing material components. When you do so, you can't take any other creatures with you.
+Additionally, you can spend 8 ki points to cast the [astral projection](Compendium/spells/astral-projection.md) spell, without needing material components. When you do so, you can't take any other creatures with you.
 
 ### Ability Score Improvement (Level 19)
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/7
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fluxcharger
+- "Fluxcharger"
 ---
-# [Fluxcharger](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/fluxcharger-ggr.md)
+# [Fluxcharger](Compendium/bestiary/elemental/fluxcharger-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 208*  
 
 In an effort to create a weird that could be more easily controlled, Izzet mages tried binding elemental lightning, fire, and smoke into a framework made of the magical alloy mizzium. The experiment was partly successful: the resulting weird, a fluxcharger, doesn't explode like some other weirds do, but it is more intelligent and more headstrong than other weirds.
@@ -46,16 +47,11 @@ An Izzet weird doesn't require air, food, drink, or sleep.
 "speed": "0 ft., fly 60 ft."
 "damage_resistances": "thunder; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained), [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Draconic"
 "cr": "7"
 "traits":
@@ -77,6 +73,6 @@ An Izzet weird doesn't require air, food, drink, or sleep.
     "name": "Arc Lightning"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/fluxcharger-ggr.webp"
+"image": "Compendium/bestiary/elemental/token/fluxcharger-ggr.webp"
 ```
 ^statblock

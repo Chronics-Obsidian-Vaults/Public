@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/9
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant Zombie
+- "Frost Giant Zombie"
 ---
-# [Frost Giant Zombie](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/frost-giant-zombie-egw.md)
+# [Frost Giant Zombie](Compendium/bestiary/undead/frost-giant-zombie-egw.md)
 *Source: Explorer's Guide to Wildemount p. 288*  
 
 An unknown Aeorian object of immense power and mystery was uncovered and brought to the Fortress of the Dead Jarl in Eiselcross to please the ruling frost giant, Conessa Berg. The object's unstable nature unleashed a burst of corroding arcane power, ravaging the denizens of the stronghold with twisting necromantic energies, transforming them into monstrous, rime-infused undead. These hulking brutes now wander the ruined landscape surrounding their cursed home, hunting and destroying all living things with a frightening ferocity.
@@ -39,9 +40,10 @@ The battered, butchered, and frozen remains of would-be heroes litter battle sit
 "saves":
   - "wisdom": !!int "2"
 "damage_immunities": "cold, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": "understands Giant but can't speak"
 "cr": "9"
 "traits":
@@ -65,11 +67,11 @@ The battered, butchered, and frozen remains of would-be heroes litter battle sit
     "name": "Hurl Rock"
   - "desc": "The zombie targets one creature it can see within 60 feet of it. The\
       \ target must succeed on a DC 17 Constitution saving throw or take 35 (10d6)\
-      \ cold damage and be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ until the end of its next turn."
+      \ cold damage and be [paralyzed](Rules/conditions.md#Paralyzed) until the end\
+      \ of its next turn."
     "name": "Freezing Stare"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/frost-giant-zombie-egw.webp"
+"image": "Compendium/bestiary/undead/token/frost-giant-zombie-egw.webp"
 ```
 ^statblock

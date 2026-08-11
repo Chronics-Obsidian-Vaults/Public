@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/rarity/common
@@ -8,7 +9,7 @@ tags:
 - source/item/weapon/martial
 - source/item/weapon/melee
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Moon-Touched Sword"
 - "Moon-Touched Double-Bladed Scimitar"
 - "Moon-Touched Greatsword"
@@ -39,13 +40,13 @@ In darkness, the unsheathed blade of this sword sheds moonlight, creating bright
 ### Moon-Touched Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Moon-Touched Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Moon-Touched Longsword
@@ -53,25 +54,25 @@ In darkness, the unsheathed blade of this sword sheds moonlight, creating bright
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Moon-Touched Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Moon-Touched Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Moon-Touched Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 

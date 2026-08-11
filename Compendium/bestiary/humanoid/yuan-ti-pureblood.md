@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Pureblood
+- "Yuan-ti Pureblood"
 ---
-# [Yuan-ti Pureblood](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/yuan-ti-pureblood.md)
+# [Yuan-ti Pureblood](Compendium/bestiary/humanoid/yuan-ti-pureblood.md)
 *Source: Monster Manual p. 310*  
 
 Purebloods form the lowest caste of yuan-ti society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
@@ -50,11 +51,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > 
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 > 
-> **Dendar, the Night Serpent.** [Dendar's](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
+> **Dendar, the Night Serpent.** [Dendar's](Compendium/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
 > 
-> **Merrshaulk, Master of the Pit.** [Merrshaulk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
+> **Merrshaulk, Master of the Pit.** [Merrshaulk](Compendium/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
 > 
-> **Sseth, the Sibilant Death.** [Sseth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
+> **Sseth, the Sibilant Death.** [Sseth](Compendium/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
 ^serpent-gods
 
 > [!quote] A quote from From Masters of the Forbidden City by Codo Vidak  
@@ -81,24 +82,26 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+  - "[shortbow](Compendium/items/shortbow.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"
 "traits":
   - "desc": "The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The\
       \ yuan-ti can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md)\
-      \ (snakes only)\n\n**3/day each:** [poison spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)"
+      \n**At will:** [animal friendship](Compendium/spells/animal-friendship.md) (snakes\
+      \ only)\n\n**3/day each:** [poison spray](Compendium/spells/poison-spray.md),\
+      \ [suggestion](Compendium/spells/suggestion.md)"
     "name": "Innate Spellcasting"
   - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
       \ effects."
@@ -114,7 +117,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     "name": "Shortbow"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/yuan-ti-pureblood.webp"
+"image": "Compendium/bestiary/humanoid/token/yuan-ti-pureblood.webp"
 ```
 ^statblock
 

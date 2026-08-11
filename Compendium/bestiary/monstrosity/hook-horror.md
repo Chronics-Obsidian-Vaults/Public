@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hook Horror
+- "Hook Horror"
 ---
-# [Hook Horror](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/hook-horror.md)
+# [Hook Horror](Compendium/bestiary/monstrosity/hook-horror.md)
 *Source: Monster Manual p. 189*  
 
 A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls. The monstrous hook horror has a head resembling a vulture's and the torso of an enormous beetle, with an exoskeleton studded by sharp, bony protuberances. It gains its name from its long, powerfully built arms and legs, which end in wickedly curved hooked claws.
@@ -48,17 +49,16 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 13"
 "languages": "Hook Horror"
 "cr": "3"
 "traits":
-  - "desc": "The hook horror can't use its blindsight while [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened)."
+  - "desc": "The hook horror can't use its blindsight while [deafened](Rules/conditions.md#Deafened)."
     "name": "Echolocation"
-  - "desc": "The hook horror has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The hook horror has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing."
     "name": "Keen Hearing"
 "actions":
@@ -69,7 +69,7 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
     "name": "Hook"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/hook-horror.webp"
+"image": "Compendium/bestiary/monstrosity/token/hook-horror.webp"
 ```
 ^statblock
 

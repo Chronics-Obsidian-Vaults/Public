@@ -5,30 +5,30 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Chapter 17: Donjon
+- "Chapter 17: Donjon"
 ---
 # Chapter 17: Donjon
 *Source: The Book of Many Things, p. 132* 
 
-This chapter, intended for DMs, details a dungeon called the Donjon Sphere. You can use this dungeon to describe the fate of a character who draws the Donjon card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md). This chapter also includes suggestions for other ways adventurers might end up in the Donjon Sphere, as well as advice for how to continue a campaign or keep it on track if the party gets split up.
+This chapter, intended for DMs, details a dungeon called the Donjon Sphere. You can use this dungeon to describe the fate of a character who draws the Donjon card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md). This chapter also includes suggestions for other ways adventurers might end up in the Donjon Sphere, as well as advice for how to continue a campaign or keep it on track if the party gets split up.
 
 ## The Donjon Sphere
 
-The Donjon Sphere is a metal sphere that drifts through the Astral Sea. Centuries ago, an unknown species of intelligent beings built the sphere to capture and contain specimens from across the cosmos. They used strange magic to peer into the minds of their captives and observe them in simulated environments, curious to understand the minds of these alien creatures. When the first [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) was created, the Donjon card was linked to the sphere, sending prisoners there.
+The Donjon Sphere is a metal sphere that drifts through the Astral Sea. Centuries ago, an unknown species of intelligent beings built the sphere to capture and contain specimens from across the cosmos. They used strange magic to peer into the minds of their captives and observe them in simulated environments, curious to understand the minds of these alien creatures. When the first [Deck of Many Things](Compendium/items/deck-of-many-things.md) was created, the Donjon card was linked to the sphere, sending prisoners there.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/094-16-001-donjon.webp#center)
+![](Compendium/books/the-book-of-many-things/img/094-16-001-donjon.webp#center)
 
-The collective distress of the sphere's prisoners ultimately attracted the attention of a group of [feyrs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/feyr-bam.md): Astral Sea monsters that feed on creatures' nightmares. The feyrs infiltrated the Donjon Sphere and wrought havoc, forcing the sphere's stewards to abandon it. After devouring the nightmares of everyone left inside the sphere, the feyrs moved on.
+The collective distress of the sphere's prisoners ultimately attracted the attention of a group of feyrs: Astral Sea monsters that feed on creatures' nightmares. The feyrs infiltrated the Donjon Sphere and wrought havoc, forcing the sphere's stewards to abandon it. After devouring the nightmares of everyone left inside the sphere, the feyrs moved on.
 
-Since then, the Donjon Sphere has drifted through the Astral Sea. Automated systems keep the vessel working and on course, and Constructs called detention drones bring in a steady supply of fresh specimens. However, swaths of the sphere have fallen into disrepair or outright mayhem. For new arrivals, many brought by a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), the anarchy means it's never been easier to wriggle free of the dungeon's crumbling wards and traps. However, this same chaos still makes banishment to the sphere extremely perilous.
+Since then, the Donjon Sphere has drifted through the Astral Sea. Automated systems keep the vessel working and on course, and Constructs called detention drones bring in a steady supply of fresh specimens. However, swaths of the sphere have fallen into disrepair or outright mayhem. For new arrivals, many brought by a [Deck of Many Things](Compendium/items/deck-of-many-things.md), the anarchy means it's never been easier to wriggle free of the dungeon's crumbling wards and traps. However, this same chaos still makes banishment to the sphere extremely perilous.
 
 ### Finding the Sphere
 
 The Donjon Sphere is too small to be observed from any planet's surface without a telescope or magical aid, but clues to the sphere's whereabouts can still be found among the stars.
 
-![Map 17.1: Donjon Sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/095-map-16-01-donjon-sphere.webp#center)
+![Map 17.1: Donjon Sphere](Compendium/books/the-book-of-many-things/img/095-map-16-01-donjon-sphere.webp#center)
 
-A character with a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) can deduce the Donjon Sphere's location by spending 8 hours studying the night sky and using the cards as a divination tool. Afterward, the character must succeed on a DC 22 Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check to determine the sphere's coordinates in the Astral Sea. On a failed check, the character fails to calculate the sphere's location but can try again the next day, reducing the DC of the check by 1 for each consecutive attempt. Other methods of finding the sphere are detailed in the "Adventure Hooks" section below.
+A character with a [Deck of Many Things](Compendium/items/deck-of-many-things.md) can deduce the Donjon Sphere's location by spending 8 hours studying the night sky and using the cards as a divination tool. Afterward, the character must succeed on a DC 22 Intelligence ([Arcana](Rules/skills.md#Arcana)) check to determine the sphere's coordinates in the Astral Sea. On a failed check, the character fails to calculate the sphere's location but can try again the next day, reducing the DC of the check by 1 for each consecutive attempt. Other methods of finding the sphere are detailed in the "Adventure Hooks" section below.
 
 Once the sphere is located in the Astral Sea, the characters must reach it, probably using teleportation magic or a spelljamming vessel.
 
@@ -36,9 +36,9 @@ Once the sphere is located in the Astral Sea, the characters must reach it, prob
 
 Certain powerful organizations know the Donjon Sphere's location:
 
-- **Asteria's Aid.** The famous paladin [Asteria](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/asteria-bmt.md), detailed in "chapter 22", keeps track of each [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) and those who've suffered from their many hazards. She approaches the party after a character draws the Donjon card and disappears. [Asteria](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/asteria-bmt.md) knows the pain of losing a friend to unjust imprisonment and offers to help. She draws a replica of the teleportation circle inside the sphere. If the party can find someone able to cast the [Teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md) spell, they can safely teleport into the sphere.  
+- **Asteria's Aid.** The famous paladin [Asteria](Compendium/bestiary/npc/asteria-bmt.md), detailed in "chapter 22", keeps track of each [Deck of Many Things](Compendium/items/deck-of-many-things.md) and those who've suffered from their many hazards. She approaches the party after a character draws the Donjon card and disappears. [Asteria](Compendium/bestiary/npc/asteria-bmt.md) knows the pain of losing a friend to unjust imprisonment and offers to help. She draws a replica of the teleportation circle inside the sphere. If the party can find someone able to cast the [Teleport](Compendium/spells/teleport.md) spell, they can safely teleport into the sphere.  
 - **Observatory Assistance.** Scholars at a nearby observatory—such as the one described in "chapter 13"—spot an unidentified celestial object drifting across the night sky with their telescope. The observatory calls for brave adventurers to use its teleportation device to investigate.  
-- **Solar Bastion Rescue.** Hilarion, the angelic leader of the Solar Bastion (see "chapter 10"), recently sent a trio of knights to investigate the Donjon Sphere, but the knights failed to return. After learning that one of the characters recently drew the Donjon card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), Hilarion offers to transport the party to the sphere to save their friend—and, hopefully, the missing knights.  
+- **Solar Bastion Rescue.** Hilarion, the angelic leader of the Solar Bastion (see "chapter 10"), recently sent a trio of knights to investigate the Donjon Sphere, but the knights failed to return. After learning that one of the characters recently drew the Donjon card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md), Hilarion offers to transport the party to the sphere to save their friend—and, hopefully, the missing knights.  
 
 ### Layers
 
@@ -70,7 +70,7 @@ As a DM, your first challenge is getting all the characters to the Donjon Sphere
 
 ### Splitting the Party
 
-One way to get sent to the Donjon Sphere is to draw the Donjon card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md). When this happens, only the character who drew the card is banished to the sphere. But splitting the party can be challenging for your table, since it's difficult to keep all players engaged when one or more characters aren't present for a scene. How can the DM make this work?
+One way to get sent to the Donjon Sphere is to draw the Donjon card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md). When this happens, only the character who drew the card is banished to the sphere. But splitting the party can be challenging for your table, since it's difficult to keep all players engaged when one or more characters aren't present for a scene. How can the DM make this work?
 
 Here are some ideas for keeping the entire table engaged if the party splits up, whether you're using the sphere or some other adventure location:
 
@@ -88,9 +88,9 @@ If it would better fit your group, a trapped character can mysteriously reappear
 
 #### Mark of the Donjon
 
-A character who inexplicably reappears after spending time in the Donjon Sphere gains a lingering curse called a Mark of the Donjon. Determine the character's mark by rolling on the Marks of the Donjon table. A Mark of the Donjon lasts until removed by a [Remove Curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md) spell or similar magic.
+A character who inexplicably reappears after spending time in the Donjon Sphere gains a lingering curse called a Mark of the Donjon. Determine the character's mark by rolling on the Marks of the Donjon table. A Mark of the Donjon lasts until removed by a [Remove Curse](Compendium/spells/remove-curse.md) spell or similar magic.
 
-![Mark of the Donjon; Marks of the Donjon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/mark-of-the-donjon-marks-of-the-donjon-bmt.md)
+![Mark of the Donjon; Marks of the Donjon](Compendium/tables/mark-of-the-donjon-marks-of-the-donjon-bmt.md)
 
 ## Donjon Sphere Features
 
@@ -104,7 +104,7 @@ The walls, which contain most of the sphere's machinery, are covered in panels o
 
 ### Detention Drones
 
-![Detention Drone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/096-16-002-detention-drone.webp#center)
+![Detention Drone](Compendium/books/the-book-of-many-things/img/096-16-002-detention-drone.webp#center)
 
 As the Donjon Sphere drifts about the Astral Sea, its systems send mechanical scouts called detention drones to nearby worlds to acquire new captives. Detention drones are Constructs that follow their ancient programming mindlessly and unerringly.
 
@@ -114,14 +114,14 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
 
 > [!note] 
 > 
-> **Detention Orb.** The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a DC 15 Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the [Dispel Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md) spell on the orb (DC 15) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside.
+> **Detention Orb.** The drone launches a tiny orb of magical force at a creature it can see within 30 feet of itself. The creature must succeed on a DC 15 Constitution saving throw or be encased in the orb, which expands to a size just large enough to contain the creature. While encased, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb, nor can any creature teleport or use planar travel to enter or exit the orb. As a bonus action, the drone can move the orb and its contents up to 30 feet in any direction. A successful casting of the [Dispel Magic](Compendium/spells/dispel-magic.md) spell on the orb (DC 15) destroys it. The orb otherwise remains intact until the drone spends an action to end the effect or the drone is destroyed. A drone can have only one detention orb active at a time; if the drone creates a detention orb when it already has one active, the first orb disappears, freeing the creature inside.
 ^23b
 
 #### Drone Patrols
 
 Small groups of detention drones patrol the Donjon Sphere looking for escapees or intruders. When the text indicates that a drone patrol can be encountered in a location, roll on the Drone Patrols table to determine the number and types of the drones in the patrol, or choose an encounter you like.
 
-![Drone Patrols](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/drone-patrols-bmt.md)
+![Drone Patrols](Compendium/tables/drone-patrols-bmt.md)
 
 ### Doors and Key Cards
 
@@ -133,11 +133,11 @@ Some doors are color coded and require a key card to open. A creature carrying t
 - **Blue Key Cards.** High-ranking stewards and technicians carried blue key cards to access delicate machinery or important research data. A blue key card unlocks blue and red doors.  
 - **Yellow Key Cards.** Only the chief engineers carried yellow key cards, which grant access to the observatory, damselfly bay, and inner core. A yellow key card unlocks yellow, blue, and red doors.  
 
-Casting a [Knock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/knock.md) spell on a red door's lock suppresses the lock for 10 minutes, casting a [Knock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/knock.md) spell on a blue door's lock suppresses the lock for 1 minute, and casting a [Knock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/knock.md) spell on a yellow door's lock suppresses the lock until the start of the caster's next turn.
+Casting a [Knock](Compendium/spells/knock.md) spell on a red door's lock suppresses the lock for 10 minutes, casting a [Knock](Compendium/spells/knock.md) spell on a blue door's lock suppresses the lock for 1 minute, and casting a [Knock](Compendium/spells/knock.md) spell on a yellow door's lock suppresses the lock until the start of the caster's next turn.
 
 ### Secret Doors
 
-A number of secret doors are hidden in the Donjon Core. A character who searches a wall where a secret door is located and succeeds on a DC 20 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check finds minuscule bumps along the wall's surface. Pressing these bumps causes the door to slide open.
+A number of secret doors are hidden in the Donjon Core. A character who searches a wall where a secret door is located and succeeds on a DC 20 Wisdom ([Perception](Rules/skills.md#Perception)) check finds minuscule bumps along the wall's surface. Pressing these bumps causes the door to slide open.
 
 ### Language
 
@@ -145,7 +145,7 @@ The Donjon Sphere's creators spoke and wrote Infernal. All instructions, labels,
 
 ### Magic in the Sphere
 
-No spell other than [Wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) can be used to leave the Donjon Sphere or transport a character from one part of it to another. Effects that banish creatures to other planes of existence don't work inside the sphere. A creature that attempts to cast a spell or use a magic item or artifact to teleport from the sphere hears a dull fizzing in its head as the effect fails. The exception to this rule is magic that allows transit to the Border Ethereal, such as the [Etherealness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/etherealness.md) spell. A creature that enters the Border Ethereal from the Donjon Sphere is returned to the sphere upon leaving that plane.
+No spell other than [Wish](Compendium/spells/wish.md) can be used to leave the Donjon Sphere or transport a character from one part of it to another. Effects that banish creatures to other planes of existence don't work inside the sphere. A creature that attempts to cast a spell or use a magic item or artifact to teleport from the sphere hears a dull fizzing in its head as the effect fails. The exception to this rule is magic that allows transit to the Border Ethereal, such as the [Etherealness](Compendium/spells/etherealness.md) spell. A creature that enters the Border Ethereal from the Donjon Sphere is returned to the sphere upon leaving that plane.
 
 Magic that summons creatures or objects from other planes, or that allows contact with beings from other planes, functions normally inside the Donjon Sphere, as does magic that involves an extradimensional space. Any spells cast within such an extradimensional space are subject to the same restrictions as magic cast in the Donjon Sphere. While characters are in the sphere, those who receive spells from deities or otherworldly patrons continue to do so.
 
@@ -153,19 +153,19 @@ Magic that summons creatures or objects from other planes, or that allows contac
 
 Rectangular shafts, labeled "area 9" on map 17.2, allow detention drones to move throughout the sphere. Each shaft is protected by an iron grate, which has AC 19, 15 hit points, and immunity to poison and psychic damage. A detention drone within 10 feet of a grate can use an action to transmit a signal that shifts the grate aside. A drone that enters an open shaft can travel to any other shaft entrance in the Donjon core in `1d4` minutes.
 
-Any creature other than a detention drone that attempts to travel from one shaft entrance to another must make a DC 20 Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) check. On a failed check, the creature gets lost in the shafts for `2d4` hours before reemerging at a random shaft entrance in the Donjon core.
+Any creature other than a detention drone that attempts to travel from one shaft entrance to another must make a DC 20 Wisdom ([Survival](Rules/skills.md#Survival)) check. On a failed check, the creature gets lost in the shafts for `2d4` hours before reemerging at a random shaft entrance in the Donjon core.
 
 ## Donjon Core Locations
 
 Prisoners are kept in the Donjon core. The following locations are keyed to map 17.2. The area described in this map is spherical; hallways leading off one edge of the map connect to other hallways on the opposite side.
 
 > [!gallery]
-> ![Map 17.2: Donjon Core](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/097-map-16-02-sphere-of-the-donjon.webp#gallery)
-> ![Player Version](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/098-map-16-02-sphere-of-the-donjon-player.webp#gallery)
+> ![Map 17.2: Donjon Core](Compendium/books/the-book-of-many-things/img/097-map-16-02-sphere-of-the-donjon.webp#gallery)
+> ![Player Version](Compendium/books/the-book-of-many-things/img/098-map-16-02-sphere-of-the-donjon-player.webp#gallery)
 
 ### 1: Intake Circle
 
-At the center of this octagonal chamber's floor is a permanent teleportation circle etched in stone. Many newcomers to the sphere arrive via this circle, including creatures that draw the Donjon card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md). The teleportation circle can be used only to enter the sphere, not to leave it.
+At the center of this octagonal chamber's floor is a permanent teleportation circle etched in stone. Many newcomers to the sphere arrive via this circle, including creatures that draw the Donjon card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md). The teleportation circle can be used only to enter the sphere, not to leave it.
 
 The door to the south has been punctured with a jagged hole big enough for Medium characters to squeeze through. Metallic rubble blocks the tunnel that leads north.
 
@@ -173,9 +173,9 @@ One round after the circle is activated, a drone patrol arrives from "area 7" to
 
 ### 2: Pool
 
-A young [aboleth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/aboleth.md) named Th'kogga is contained in the 80-foot-deep pool of water here. Aware of the room's controls but unsure how they operate, Th'kogga attempts to charm any creature that comes within 30 feet of the pool, then urges that thrall to help it escape.
+A young [aboleth](Compendium/bestiary/aberration/aboleth.md) named Th'kogga is contained in the 80-foot-deep pool of water here. Aware of the room's controls but unsure how they operate, Th'kogga attempts to charm any creature that comes within 30 feet of the pool, then urges that thrall to help it escape.
 
-An invisible seal, like that created by the [Wall of Force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md) spell, covers the pool. A detention drone or a creature with a blue or yellow key card can use an action to flip the lever on the south wall to disable or reenable the seal. Buttons around the lever control the pool's salinity, temperature, and automatic cleaning systems. If these controls are tampered with, Th'kogga's pool becomes unlivable; if forced to remain there, the aboleth dies in `2d4` days.
+An invisible seal, like that created by the [Wall of Force](Compendium/spells/wall-of-force.md) spell, covers the pool. A detention drone or a creature with a blue or yellow key card can use an action to flip the lever on the south wall to disable or reenable the seal. Buttons around the lever control the pool's salinity, temperature, and automatic cleaning systems. If these controls are tampered with, Th'kogga's pool becomes unlivable; if forced to remain there, the aboleth dies in `2d4` days.
 
 ### 3: Engineer's Quarters
 
@@ -185,7 +185,7 @@ The metal drawers along the south wall contain books inscribed with complex diag
 
 #### Treasure
 
-Scattered among the equipment are a blue key card, a set of [tinker's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/tinkers-tools.md), and five [star rose quartzes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/star-rose-quartz.md) worth 50 gp each.
+Scattered among the equipment are a blue key card, a set of [tinker's tools](Compendium/items/tinkers-tools.md), and five [star rose quartzes](Compendium/items/star-rose-quartz.md) worth 50 gp each.
 
 ### 4: Stasis Controls
 
@@ -195,9 +195,9 @@ On the north wall of this room are three levers in the upright position. Each le
 
 The doors to this chamber are red.
 
-Nine massive metal containers fill this sterile chamber. Each contains ten coffin-like, crystalline stasis pods, which slide in or out of their container. Each stasis pod contains an [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) Humanoid prisoner in a state of magical suspended animation. Most of these prisoners are [commoners](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/commoner.md), but if you want to introduce a particular NPC to help the party or serve as an antagonist, that individual could be trapped in one of these pods. A character who drew the Donjon card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) could also be trapped here.
+Nine massive metal containers fill this sterile chamber. Each contains ten coffin-like, crystalline stasis pods, which slide in or out of their container. Each stasis pod contains an [unconscious](Rules/conditions.md#Unconscious) Humanoid prisoner in a state of magical suspended animation. Most of these prisoners are [commoners](Compendium/bestiary/humanoid/commoner.md), but if you want to introduce a particular NPC to help the party or serve as an antagonist, that individual could be trapped in one of these pods. A character who drew the Donjon card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md) could also be trapped here.
 
-A stasis pod can be unlatched only from the outside. Each stasis pod is big enough to hold a Large creature and has AC 11, 15 hit points, and immunity to poison and psychic damage. If a living creature is placed in a powered, closed stasis pod for 1 minute, the creature has the [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) condition and is in stasis. While in stasis, the creature doesn't require air, food, or drink, and it doesn't age. If the creature is removed from the stasis pod or the stasis pod's power is shut off, the creature regains consciousness after 1 minute or once it takes damage.
+A stasis pod can be unlatched only from the outside. Each stasis pod is big enough to hold a Large creature and has AC 11, 15 hit points, and immunity to poison and psychic damage. If a living creature is placed in a powered, closed stasis pod for 1 minute, the creature has the [unconscious](Rules/conditions.md#Unconscious) condition and is in stasis. While in stasis, the creature doesn't require air, food, or drink, and it doesn't age. If the creature is removed from the stasis pod or the stasis pod's power is shut off, the creature regains consciousness after 1 minute or once it takes damage.
 
 The pods in the southwest corner were ruined when an umber hulk burst from its malfunctioning stasis pod. It smashed the pods around it in a rage, then burrowed through the wall, creating "area 10".
 
@@ -211,13 +211,13 @@ A locked yellow hatch in the floor in an alcove off this hallway covers a ladder
 
 This chamber houses inactive detention drones. Repair bays called rewinding stations line the walls. Each rewinding station, which can hold one detention drone at a time, is a Large object with AC 11, 40 hit points, and immunity to poison and psychic damage.
 
-Once per day, a drone patrol whose service time is almost expired comes here for rewinding. If engaged in combat, these drones have the [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) condition after `1d4 + 1` rounds.
+Once per day, a drone patrol whose service time is almost expired comes here for rewinding. If engaged in combat, these drones have the [unconscious](Rules/conditions.md#Unconscious) condition after `1d4 + 1` rounds.
 
 ### 8: Prototype Lab
 
 Metal plates, chains, cogs, and pipes are strewn about the oversized bays in this chamber. Each bay contains a prototype detention drone in a different state of assembly.
 
-Only one prototype drone is functional, though it is inactive. A character with tinker's tools can spend 10 minutes repairing the drone and make a DC 15 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check. On a successful check, the drone's gears start winding, and it jerks to life. The drone, which calls itself Prototype WX-401 and resembles a human-size pitcher plant (use the [tridrone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/tridrone.md) stat block), is friendly toward the character who repaired it and follows that character's instructions to the best of its ability. It lacks the Detention Orb action of other detention drones.
+Only one prototype drone is functional, though it is inactive. A character with tinker's tools can spend 10 minutes repairing the drone and make a DC 15 Intelligence ([Investigation](Rules/skills.md#Investigation)) check. On a successful check, the drone's gears start winding, and it jerks to life. The drone, which calls itself Prototype WX-401 and resembles a human-size pitcher plant (use the [tridrone](Compendium/bestiary/construct/tridrone.md) stat block), is friendly toward the character who repaired it and follows that character's instructions to the best of its ability. It lacks the Detention Orb action of other detention drones.
 
 ### 9: Maintenance Shaft
 
@@ -229,13 +229,13 @@ An umber hulk created this tunnel after freeing itself from a malfunctioning sta
 
 ### 11: Archive Antechamber
 
-The fine chairs, desks, and shelves that once furnished this spacious antechamber have all been torn to shreds. A character who searches for tracks and succeeds on a DC 10 Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) check finds large scrapes along the walls from the umber hulk that escaped "area 5". The door in this chamber's north wall is red.
+The fine chairs, desks, and shelves that once furnished this spacious antechamber have all been torn to shreds. A character who searches for tracks and succeeds on a DC 10 Wisdom ([Survival](Rules/skills.md#Survival)) check finds large scrapes along the walls from the umber hulk that escaped "area 5". The door in this chamber's north wall is red.
 
 ### 12: Archive
 
 Shelves full of massive logbooks line the walls of this two-story archive. A spiral staircase in the room's center connects to the archive's upper level. The books contain records on all prisoners inducted into the facility before the sphere's stewards fled.
 
-The archive is occupied by Ganakki, a [green slaad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/green-slaad.md) that appears as a pallid halfling scholar. Ganakki yearns to transform into a [gray slaad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/gray-slaad.md) and believes it can find the key to its metamorphosis somewhere in the Donjon Sphere. The party can learn much about the sphere from the slaad—including, possibly, a means of escape. However, Ganakki won't leave the archive. Ganakki has a red key card.
+The archive is occupied by Ganakki, a [green slaad](Compendium/bestiary/aberration/green-slaad.md) that appears as a pallid halfling scholar. Ganakki yearns to transform into a [gray slaad](Compendium/bestiary/aberration/gray-slaad.md) and believes it can find the key to its metamorphosis somewhere in the Donjon Sphere. The party can learn much about the sphere from the slaad—including, possibly, a means of escape. However, Ganakki won't leave the archive. Ganakki has a red key card.
 
 ### 13: Ruined Trap Room
 
@@ -257,12 +257,12 @@ Pieces of a destroyed spelljamming ship lie scattered about the crash site. Abou
 
 #### 14b: Survivor Camp
 
-Two [Solar Bastion knights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/solar-bastion-knight-bmt.md) (see "chapter 10") set up camp here after losing a companion to a large drone patrol. These knights came to explore the Donjon Sphere and its connection to the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md). The knights are as follows:
+Two [Solar Bastion knights](Compendium/bestiary/humanoid/solar-bastion-knight-bmt.md) (see "chapter 10") set up camp here after losing a companion to a large drone patrol. These knights came to explore the Donjon Sphere and its connection to the [Deck of Many Things](Compendium/items/deck-of-many-things.md). The knights are as follows:
 
 - **Knight Emerist Verigo.** Emerist is the leader of this mission and is a lawful neutral human. Emerist blames herself for the failure of the mission, and the death of the third member of her party, Baerj, weighs heavily on Emerist's conscience.  
 - **Knight Hielyo Anguld.** Hielyo is a new member of the Solar Bastion, and this is their first official mission on the order's behalf. They are a lawful good dragonborn of blue dragon ancestry. Despite the quest's many hardships, Hielyo remains brave and optimistic. Hielyo wants to destroy the sphere, which has caused so much grief for so many.  
 
-The knights are initially indifferent to the characters. If made friendly, they are willing to work with the party to escape the sphere. Emerist and Hielyo can tell the party about the secret doors between "areas 19" and "22a", though the knights don't know how to operate the elevator in area 19. They also offer the party a [Spell Scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-scroll-1st-level.md) of [Comprehend Languages](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/comprehend-languages.md) and a [Chime of Opening](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chime-of-opening.md) with 4 charges remaining. The [Chime of Opening](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chime-of-opening.md) can be used to open key card–locked doors like the [Knock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/knock.md) spell, as described in the ""Doors and Key Cards"" section; when used this way, one use of the chime is equivalent to one casting of the [Knock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/knock.md) spell.
+The knights are initially indifferent to the characters. If made friendly, they are willing to work with the party to escape the sphere. Emerist and Hielyo can tell the party about the secret doors between "areas 19" and "22a", though the knights don't know how to operate the elevator in area 19. They also offer the party a [Spell Scroll](Compendium/items/spell-scroll-1st-level.md) of [Comprehend Languages](Compendium/spells/comprehend-languages.md) and a [Chime of Opening](Compendium/items/chime-of-opening.md) with 4 charges remaining. The [Chime of Opening](Compendium/items/chime-of-opening.md) can be used to open key card–locked doors like the [Knock](Compendium/spells/knock.md) spell, as described in the ""Doors and Key Cards"" section; when used this way, one use of the chime is equivalent to one casting of the [Knock](Compendium/spells/knock.md) spell.
 
 #### 14c: Labyrinth Entrance
 
@@ -272,15 +272,15 @@ This rough tunnel connects to the Gilded Labyrinth above.
 
 The doors leading into the northeast and southwest ends of this chamber are both red.
 
-![Some of the creatures impr...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/099-16-003-imprisoned.webp#center "Some of the creatures imprisoned in the Donjon Sphere aren't content to remain there")
+![Some of the creatures imprisoned in the Donjon Sphere aren't content to remain there](Compendium/books/the-book-of-many-things/img/099-16-003-imprisoned.webp#center)
 
-Alien minerals and samples of rare ores line the shelves of this metallurgist's laboratory. An [advanced detention drone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/advanced-detention-drone-bmt.md) (use the [shield guardian](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/shield-guardian.md) stat block) stands in the room's corner. This Construct doesn't have a control amulet and can't be controlled like other shield guardians; it attacks any creature that enters the room without displaying a key card. It has the [Confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md) spell stored.
+Alien minerals and samples of rare ores line the shelves of this metallurgist's laboratory. An [advanced detention drone](Compendium/bestiary/construct/advanced-detention-drone-bmt.md) (use the [shield guardian](Compendium/bestiary/construct/shield-guardian.md) stat block) stands in the room's corner. This Construct doesn't have a control amulet and can't be controlled like other shield guardians; it attacks any creature that enters the room without displaying a key card. It has the [Confusion](Compendium/spells/confusion.md) spell stored.
 
 A secret door in an alcove in this room's northeast corner leads to "area 17".
 
 #### Treasure
 
-A set of [smith's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/smiths-tools.md) can be assembled from the lab equipment. On the shelves is a total of 30 pounds of rare space metals (worth 300 gp) and a fully charged [Cube of Force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cube-of-force.md).
+A set of [smith's tools](Compendium/items/smiths-tools.md) can be assembled from the lab equipment. On the shelves is a total of 30 pounds of rare space metals (worth 300 gp) and a fully charged [Cube of Force](Compendium/items/cube-of-force.md).
 
 ### 16: Observation Room
 
@@ -292,7 +292,7 @@ The eastern door to this chamber is blue.
 
 Wide chutes along the edges of this room's floor connect to the crusher ("area 28"), allowing for easy disposal of waste materials.
 
-A [flumph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/flumph.md) named Bimbi hovers uncertainly, steeling itself to go down a chute to the crusher. It clutches a blue key card in its tentacles. Upon seeing the characters, Bimbi sighs with relief and explains it's searching for fresh brains to feed its friend, a mind flayer imprisoned in an isolation chamber ("area 20b"). "I used to find brains in the brain room," Bimbi burbles. "But I knocked over some jars there, and the brains came to life!" If the characters agree to clear the "brain monsters" out of "area 21", the flumph gives them its key card.
+A [flumph](Compendium/bestiary/aberration/flumph.md) named Bimbi hovers uncertainly, steeling itself to go down a chute to the crusher. It clutches a blue key card in its tentacles. Upon seeing the characters, Bimbi sighs with relief and explains it's searching for fresh brains to feed its friend, a mind flayer imprisoned in an isolation chamber ("area 20b"). "I used to find brains in the brain room," Bimbi burbles. "But I knocked over some jars there, and the brains came to life!" If the characters agree to clear the "brain monsters" out of "area 21", the flumph gives them its key card.
 
 ### 18: Massive Stasis Pods
 
@@ -300,7 +300,7 @@ These large halls provide access to stasis pods built into the walls, each one l
 
 #### 18a: Western Pods
 
-This room's western door has been destroyed. The corpse of an unarmed frost giant lies in a heap next to a smashed stasis pod. A character who succeeds on a DC 10 Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) check finds deep claw marks in the walls leading to area 18b, just like those in "area 11".
+This room's western door has been destroyed. The corpse of an unarmed frost giant lies in a heap next to a smashed stasis pod. A character who succeeds on a DC 10 Wisdom ([Survival](Rules/skills.md#Survival)) check finds deep claw marks in the walls leading to area 18b, just like those in "area 11".
 
 A blue door is in the northeast corner.
 
@@ -310,13 +310,13 @@ A half-eaten chuul corpse lies near a broken stasis pod in this room. Claw marks
 
 #### 18c: Southern Pods
 
-Two monstrous corpses lie on the floor of this room: an especially large owlbear and the umber hulk that broke the pods and killed the frost giant, chuul, and owlbear in the other rooms. After breaking a second pod in this room, the umber hulk met its match. The umber hulk's slayer, a [remorhaz](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/remorhaz.md) with 113 hit points remaining, stands in the center of this room, gathering its wits after its long stasis. When it sees the party, it attacks viciously, assuming the characters to be its imprisoners. The remorhaz relentlessly chases its opponents throughout the sphere.
+Two monstrous corpses lie on the floor of this room: an especially large owlbear and the umber hulk that broke the pods and killed the frost giant, chuul, and owlbear in the other rooms. After breaking a second pod in this room, the umber hulk met its match. The umber hulk's slayer, a [remorhaz](Compendium/bestiary/monstrosity/remorhaz.md) with 113 hit points remaining, stands in the center of this room, gathering its wits after its long stasis. When it sees the party, it attacks viciously, assuming the characters to be its imprisoners. The remorhaz relentlessly chases its opponents throughout the sphere.
 
 ### 19: Elevator Room
 
 The northern door to this chamber is yellow.
 
-The round platform in the center of this room is a mechanical elevator, which connects to "area 27" above and "area 32" below. A character who succeeds on a DC 20 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check spots a panel on the east wall that, when pushed, reveals a secret door.
+The round platform in the center of this room is a mechanical elevator, which connects to "area 27" above and "area 32" below. A character who succeeds on a DC 20 Wisdom ([Perception](Rules/skills.md#Perception)) check spots a panel on the east wall that, when pushed, reveals a secret door.
 
 A lever on the wall controls the elevator's operation. On the wall to the lever's right is a card slot. On the lever's opposite side protrudes a circular mechanism with three interlocking dials, each with a set of alien glyphs around the circumference. The lever won't budge unless a yellow key card is inserted into the card slot or the three dials are set to the correct sequence of glyphs. The sequence can be found in the tome *Elevator Manual* in "area 3".
 
@@ -330,11 +330,11 @@ Each of these metal chambers has a blue door. A slot for food delivery near the 
 
 #### 20a: Dead Naga
 
-The desiccated remains of a spirit naga lie in this chamber. If the remains are disturbed, they rise as a [bone naga](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/bone-naga-spirit.md) and attack.
+The desiccated remains of a spirit naga lie in this chamber. If the remains are disturbed, they rise as a [bone naga](Compendium/bestiary/undead/bone-naga-spirit.md) and attack.
 
 #### 20b: Q'zar'ktan
 
-The [mind flayer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/mind-flayer.md) in this room, named Q'zar'ktan, recently established a symbiotic relationship with Bimbi, the flumph in "area 17". Bimbi brings Q'zar'ktan preserved brains to eat. In exchange, Q'zar'ktan allows the flumph to harmlessly siphon some of the mind flayer's mental energy. Q'zar'ktan, morose and resigned to its fate in this dungeon, is initially indifferent to characters. It tells them about its predicament and mentions that the flumph hasn't stopped by in a while.
+The [mind flayer](Compendium/bestiary/aberration/mind-flayer.md) in this room, named Q'zar'ktan, recently established a symbiotic relationship with Bimbi, the flumph in "area 17". Bimbi brings Q'zar'ktan preserved brains to eat. In exchange, Q'zar'ktan allows the flumph to harmlessly siphon some of the mind flayer's mental energy. Q'zar'ktan, morose and resigned to its fate in this dungeon, is initially indifferent to characters. It tells them about its predicament and mentions that the flumph hasn't stopped by in a while.
 
 #### 20c–e: Empty Chambers
 
@@ -342,9 +342,9 @@ These chambers are empty.
 
 #### 20f: Myconids
 
-A [myconid adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/myconid-adult.md) named Cluzong and two [myconid sprouts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/myconid-sprout.md) have sprung up from the corpse of a svirfneblin prisoner in the corner of this damp cell. Having known nothing else, the myconids regard this cell as their home and have no desire to leave. They are indifferent to visitors.
+A [myconid adult](Compendium/bestiary/plant/myconid-adult.md) named Cluzong and two [myconid sprouts](Compendium/bestiary/plant/myconid-sprout.md) have sprung up from the corpse of a svirfneblin prisoner in the corner of this damp cell. Having known nothing else, the myconids regard this cell as their home and have no desire to leave. They are indifferent to visitors.
 
-![Drones ceaselessly patrol the gilded labyrinth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/100-16-004-patrol.webp#center)
+![Drones ceaselessly patrol the gilded labyrinth](Compendium/books/the-book-of-many-things/img/100-16-004-patrol.webp#center)
 
 ### 21: Brain Chamber
 
@@ -352,13 +352,13 @@ The door to this chamber is red.
 
 A strange, silver machine rests between a pair of metal chairs in the center of this room. Shelves lining the walls hold potion bottles and glass jars, many of which contain brains suspended in colorful liquid. Glassware on one shelf has been knocked over, covering the floor in broken glass.
 
-Bimbi the flumph ("area 17") accidentally spilled many of the jars here; the resulting alchemical stew mutated three of the brains in this room. The now-floating brains (use the [grell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/grell.md) stat block) attack any creatures that enter the area.
+Bimbi the flumph ("area 17") accidentally spilled many of the jars here; the resulting alchemical stew mutated three of the brains in this room. The now-floating brains (use the [grell](Compendium/bestiary/aberration/grell.md) stat block) attack any creatures that enter the area.
 
-Two helmet-like contraptions, one per chair, dangle from silver cords attached to the machine in this room's center. When the machine is activated as an action while two creatures wear the helmets, the creatures instantly switch bodies (an unwilling creature can make a DC 18 Wisdom saving throw, causing the machine to fail on a successful saving throw). Each creature retains its personality and memories but exchanges all game statistics (its stat block or character sheet) with the other creature. Both creatures have the [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned) condition for 1 minute as they adjust to their new bodies.
+Two helmet-like contraptions, one per chair, dangle from silver cords attached to the machine in this room's center. When the machine is activated as an action while two creatures wear the helmets, the creatures instantly switch bodies (an unwilling creature can make a DC 18 Wisdom saving throw, causing the machine to fail on a successful saving throw). Each creature retains its personality and memories but exchanges all game statistics (its stat block or character sheet) with the other creature. Both creatures have the [stunned](Rules/conditions.md#Stunned) condition for 1 minute as they adjust to their new bodies.
 
 #### Treasure
 
-Among the bottles and jars on the shelves are a [Potion of Greater Healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-greater-healing.md) and a [Potion of Vitality](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-vitality.md).
+Among the bottles and jars on the shelves are a [Potion of Greater Healing](Compendium/items/potion-of-greater-healing.md) and a [Potion of Vitality](Compendium/items/potion-of-vitality.md).
 
 ### 22: Workers' Chambers
 
@@ -366,7 +366,7 @@ These sparse living quarters contain desks, beds, and shelves. Red doors connect
 
 #### 22a: Communal Room
 
-A long metal table fills the center of this meeting room. Skeletal remains of three escaped prisoners are slumped on the table. The remains rise as three [skeletons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/skeleton.md) that attack anyone who enters the room.
+A long metal table fills the center of this meeting room. Skeletal remains of three escaped prisoners are slumped on the table. The remains rise as three [skeletons](Compendium/bestiary/undead/skeleton.md) that attack anyone who enters the room.
 
 A secret door is hidden in the northeast corner.
 
@@ -376,15 +376,15 @@ Spilled, flammable oil makes a 10-foot square of this room's floor "difficult te
 
 #### 22c: Glowing Orb
 
-A glass orb wrapped in tattered oilcloth lies in one corner of this room. When uncovered, the orb shines light as if affected by the [Continual Flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/continual-flame.md) spell.
+A glass orb wrapped in tattered oilcloth lies in one corner of this room. When uncovered, the orb shines light as if affected by the [Continual Flame](Compendium/spells/continual-flame.md) spell.
 
 #### 22d: Prisoner's Remains
 
-Skeletal remains of an escaped prisoner lie in a corner of this chamber. Among the prisoner's gear are a suit of [leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md), a [morningstar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/morningstar.md), a red key card, and a journal. The journal describes how the prisoner escaped "area 13" via a secret door and found some equipment in "area 16" before coming here.
+Skeletal remains of an escaped prisoner lie in a corner of this chamber. Among the prisoner's gear are a suit of [leather armor](Compendium/items/leather-armor.md), a [morningstar](Compendium/items/morningstar.md), a red key card, and a journal. The journal describes how the prisoner escaped "area 13" via a secret door and found some equipment in "area 16" before coming here.
 
 #### 22e: Head Steward's Office
 
-A [stone golem](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/stone-golem.md) stands in one corner of this room. Still loyal to the steward who acquired it before the sphere's abandonment, the golem attacks any creature that enters the room.
+A [stone golem](Compendium/bestiary/construct/stone-golem.md) stands in one corner of this room. Still loyal to the steward who acquired it before the sphere's abandonment, the golem attacks any creature that enters the room.
 
 The top drawer of the desk in this room contains a yellow key card.
 
@@ -406,15 +406,15 @@ The sphere's creators used these rooms to create simulations of the natural envi
 
 #### 25a: Western Simulator
 
-This simulation chamber contains four [mimics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/mimic.md) trained to play along with whatever illusion magic is cast on the room from "area 26". As long as the mimics have a scene to take part in, they cooperate peacefully, taking on the roles of whatever furniture, fixtures, or other domestic trappings best suit the illusion. If the room isn't affected by an illusion, the mimics assume the forms of two metal chairs, a table, and a bed.
+This simulation chamber contains four [mimics](Compendium/bestiary/monstrosity/mimic.md) trained to play along with whatever illusion magic is cast on the room from "area 26". As long as the mimics have a scene to take part in, they cooperate peacefully, taking on the roles of whatever furniture, fixtures, or other domestic trappings best suit the illusion. If the room isn't affected by an illusion, the mimics assume the forms of two metal chairs, a table, and a bed.
 
 #### 25b: Eastern Simulator
 
-Two lawful evil [doppelgangers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/doppelganger.md) occupy this room. The doppelgangers take on a variety of disguises to match whatever illusion magic is cast on the room from area 26. If the room isn't affected by an illusion, the doppelgangers assume the forms of nondescript Humanoids cloaked in silvery robes.
+Two lawful evil [doppelgangers](Compendium/bestiary/monstrosity/doppelganger.md) occupy this room. The doppelgangers take on a variety of disguises to match whatever illusion magic is cast on the room from area 26. If the room isn't affected by an illusion, the doppelgangers assume the forms of nondescript Humanoids cloaked in silvery robes.
 
 ### 26: Observation Room
 
-Wide windows along the east and west walls of this elevated room overlook the adjacent simulation chambers; the windows aren't visible from the chambers below. A chaotic evil [riffler](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/riffler-bmt.md) (see "chapter 21") named Turner is in the room, trying to figure out the controls; Turner has a blue key card.
+Wide windows along the east and west walls of this elevated room overlook the adjacent simulation chambers; the windows aren't visible from the chambers below. A chaotic evil [riffler](Compendium/bestiary/fey/riffler-bmt.md) (see "chapter 21") named Turner is in the room, trying to figure out the controls; Turner has a blue key card.
 
 #### Simulation Controls
 
@@ -422,16 +422,16 @@ Beneath each window is a magical console that resembles a wide desk with a slant
 
 A creature with a blue or yellow key card can use an action at the console to activate one of the following spells, targeting the simulation chamber to which the console is closest. The spell's area is restricted to the dimensions of the simulation chamber in which it is cast. Each spell can be cast once per simulation chamber per day:
 
-- [Create Food and Water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-food-and-water.md)  
-- [Major Image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md)  
-- [Mirage Arcane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirage-arcane.md)  
-- [Sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md) (cast as a 4th-level spell)  
+- [Create Food and Water](Compendium/spells/create-food-and-water.md)  
+- [Major Image](Compendium/spells/major-image.md)  
+- [Mirage Arcane](Compendium/spells/mirage-arcane.md)  
+- [Sleep](Compendium/spells/sleep.md) (cast as a 4th-level spell)  
 
 ### 27: Observatory
 
 An alcove at one edge of this chamber holds a platform for the elevator to "area 19".
 
-A massive telescope protrudes from the center of this room, its lens aimed through a hole in the ceiling that extends all the way through the Donjon Sphere. A complex array of levers that lines the telescope can rotate the Donjon Sphere to allow the telescope to change its field of view. This telescope is a [Telescopic Transporter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/telescopic-transporter-bmt.md) (see "chapter 13"). One or more characters could use it to escape the Donjon Sphere.
+A massive telescope protrudes from the center of this room, its lens aimed through a hole in the ceiling that extends all the way through the Donjon Sphere. A complex array of levers that lines the telescope can rotate the Donjon Sphere to allow the telescope to change its field of view. This telescope is a [Telescopic Transporter](Compendium/items/telescopic-transporter-bmt.md) (see "chapter 13"). One or more characters could use it to escape the Donjon Sphere.
 
 ### 28: Crusher
 
@@ -448,7 +448,7 @@ A creature that enters a space of crushing gears for the first time on a turn or
 
 ### 29: Forge
 
-Crushed waste and scrap metal are transferred to this forge to be melted down and poured into molds. Two [fire elementals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/fire-elemental.md) tend the forge. They're friendly to anyone with a yellow key card, indifferent to those with a blue or red key card, and hostile to anyone without a key card.
+Crushed waste and scrap metal are transferred to this forge to be melted down and poured into molds. Two [fire elementals](Compendium/bestiary/elemental/fire-elemental.md) tend the forge. They're friendly to anyone with a yellow key card, indifferent to those with a blue or red key card, and hostile to anyone without a key card.
 
 The vat of molten metal here is 20 feet deep. A creature that enters the vat for the first time on a turn or starts its turn there takes 27 (`5d10`) fire damage.
 
@@ -458,7 +458,7 @@ A drone patrol monitors this area at all times.
 
 Conveyors transport glowing-hot metal plates from the forge to this large sorting area, where machinery rotates, flips, and folds them into smaller forms before they're sent on to area 31.
 
-The machinery forms a shifting maze of hazards. Any creature other than a detention drone that ends its turn anywhere in this area must make a DC 14 Dexterity saving throw. On a failed save, the creature takes 11 (`2d10`) bludgeoning damage plus 5 (`1d10`) fire damage, is lifted above the conveyor by the machinery, and has the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) condition (escape DC 13).
+The machinery forms a shifting maze of hazards. Any creature other than a detention drone that ends its turn anywhere in this area must make a DC 14 Dexterity saving throw. On a failed save, the creature takes 11 (`2d10`) bludgeoning damage plus 5 (`1d10`) fire damage, is lifted above the conveyor by the machinery, and has the [grappled](Rules/conditions.md#Grappled) condition (escape DC 13).
 
 ### 31: Reconstructory
 
@@ -470,7 +470,7 @@ A creature that ends its turn in this area must make a DC 15 Dexterity saving th
 
 At each corner of this rectangular set of corridors is a circular room that contains a slaad control gem mounted in a filigreed contraption atop a metal pedestal. The gems control the planar portal in "area 33", which in turn generates the Donjon Sphere's fiery power core. Opening off one of the corridors is a circular chamber that holds a platform for the elevator in "area 19".
 
-As an action, a character with thieves' tools can try to remove a control gem, doing so with a successful DC 17 Dexterity ([Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)) check. Alternatively, a character can remove a gem by force, taking an action and making a DC 15 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check. On a failed check, the pedestal unleashes an arc of lightning that deals 14 (`4d6`) lightning damage to the character who attempted to remove the gem.
+As an action, a character with thieves' tools can try to remove a control gem, doing so with a successful DC 17 Dexterity ([Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)) check. Alternatively, a character can remove a gem by force, taking an action and making a DC 15 Strength ([Athletics](Rules/skills.md#Athletics)) check. On a failed check, the pedestal unleashes an arc of lightning that deals 14 (`4d6`) lightning damage to the character who attempted to remove the gem.
 
 For each control gem removed, the portal in area 33 becomes less stable, which in turn affects the sphere's power core. The lights throughout the facility start blinking, and the sphere fills with the sounds of hissing steam and groaning metal. These effects intensify with each control gem removed.
 

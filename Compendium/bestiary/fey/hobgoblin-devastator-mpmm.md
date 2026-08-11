@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/4
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hobgoblin Devastator
+- "Hobgoblin Devastator"
 ---
-# [Hobgoblin Devastator](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/hobgoblin-devastator-mpmm.md)
+# [Hobgoblin Devastator](Compendium/bestiary/fey/hobgoblin-devastator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
 
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
@@ -35,7 +36,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "subtype": "goblinoid"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "13"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "1"
@@ -48,10 +49,11 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[quarterstaff](Compendium/items/quarterstaff.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common, Goblin"
 "cr": "4"
 "traits":
@@ -68,21 +70,19 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
       \ hands, plus 13 (3d8) force damage."
     "name": "Quarterstaff"
   - "desc": "*Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 21\
-      \ (4d8 + 3) force damage, and the target is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ (4d8 + 3) force damage, and the target is knocked [prone](Rules/conditions.md#Prone)."
     "name": "Devastating Bolt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 13):\n\n**At will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**2/day each:** [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md),\
-      \ [gust of wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-of-wind.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md)"
+      \ the spellcasting ability (spell save DC 13):\n\n**At will:** [mage hand](Compendium/spells/mage-hand.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**2/day each:**\
+      \ [fireball](Compendium/spells/fireball.md), [fly](Compendium/spells/fly.md),\
+      \ [fog cloud](Compendium/spells/fog-cloud.md), [gust of wind](Compendium/spells/gust-of-wind.md),\
+      \ [lightning bolt](Compendium/spells/lightning-bolt.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/hobgoblin-devastator-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/hobgoblin-devastator-mpmm.webp"
 ```
 ^statblock
 

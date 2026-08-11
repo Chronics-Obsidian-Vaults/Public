@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/kobold
 aliases:
-- Kobold
+- "Kobold"
 ---
 # Kobold
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 25*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/kobold.webp#right)
+![](Compendium/races/img/kobold.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small
@@ -30,8 +31,8 @@ As a bonus action, you let out a cry at your enemies within 10 feet of you. Unti
 
 Kobold's connections to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options for your kobold.
 
-- **Craftiness.** You have proficiency in one of the following skills of your choice: [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand), or [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival).  
-- **Defiance.** You have advantage on saving throws to avoid or end the [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) condition on yourself.  
+- **Craftiness.** You have proficiency in one of the following skills of your choice: [Arcana](Rules/skills.md#Arcana), [Investigation](Rules/skills.md#Investigation), [Medicine](Rules/skills.md#Medicine), [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand), or [Survival](Rules/skills.md#Survival).  
+- **Defiance.** You have advantage on saving throws to avoid or end the [frightened](Rules/conditions.md#Frightened) condition on yourself.  
 - **Draconic Sorcery.** You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race).  
 
 ## Description

@@ -7,8 +7,8 @@ tags:
 - source/deity/dwarven
 - source/domain/arcana
 - source/domain/death
-aliases: 
-- Laduguer
+aliases:
+- "Laduguer"
 ---
 # Laduguer
 *Source: Sword Coast Adventurer's Guide p. 22* 

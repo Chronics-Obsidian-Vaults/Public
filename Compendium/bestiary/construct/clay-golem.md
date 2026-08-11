@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/9
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clay Golem
+- "Clay Golem"
 ---
-# [Clay Golem](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/clay-golem.md)
-*Source: Monster Manual p. 168, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Clay Golem](Compendium/bestiary/construct/clay-golem.md)
+*Source: Monster Manual p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
 
@@ -26,7 +27,7 @@ Clay golems are often divinely endowed with purpose by priests of great faith. H
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [manual of golems](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/manual-of-golems.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [manual of golems](Compendium/items/manual-of-golems.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -44,7 +45,7 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](Rules/conditions.md#Incapacitated), it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
@@ -70,14 +71,10 @@ A golem doesn't require air, food, drink, or sleep.
 "speed": "20 ft."
 "damage_immunities": "acid; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "9"
 "traits":
@@ -105,9 +102,8 @@ A golem doesn't require air, food, drink, or sleep.
       \ (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 15 Constitution saving throw or have its hit point maximum reduced\
       \ by an amount equal to the damage taken. The target dies if this attack reduces\
-      \ its hit point maximum to 0. The reduction lasts until removed by the  [greater\
-      \ restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
-      \ spell or other magic."
+      \ its hit point maximum to 0. The reduction lasts until removed by the [greater\
+      \ restoration](Compendium/spells/greater-restoration.md) spell or other magic."
     "name": "Slam"
   - "desc": "Until the end of its next turn, the golem magically gains a +2 bonus\
       \ to its AC, has advantage on Dexterity saving throws, and can use its slam\
@@ -115,7 +111,6 @@ A golem doesn't require air, food, drink, or sleep.
     "name": "Haste (Recharge 5-6)"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/clay-golem.webp"
+"image": "Compendium/bestiary/construct/token/clay-golem.webp"
 ```
 ^statblock

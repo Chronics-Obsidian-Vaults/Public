@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -16,10 +17,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Eye of Gruumsh
+- "Orc Eye of Gruumsh"
 ---
-# [Orc Eye of Gruumsh](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/orc-eye-of-gruumsh.md)
-*Source: Monster Manual p. 247, Explorer's Guide to Wildemount*  
+# [Orc Eye of Gruumsh](Compendium/bestiary/humanoid/orc-eye-of-gruumsh.md)
+*Source: Monster Manual p. 247*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -64,8 +65,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[ring mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-mail.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[ring mail](Compendium/items/ring-mail.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "1"
@@ -78,25 +78,23 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+3"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+1"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
   - "desc": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 11, +3 to hit with spell attacks). The orc has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [resistance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/resistance.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md),\
-      \ [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md)\n\
-      \n**2nd level (2 slots):** [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md),\
-      \ [spiritual weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spiritual-weapon.md)\
-      \ (spear)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](Compendium/spells/guidance.md),\
+      \ [resistance](Compendium/spells/resistance.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [bless](Compendium/spells/bless.md), [command](Compendium/spells/command.md)\n\
+      \n**2nd level (2 slots):** [augury](Compendium/spells/augury.md), [spiritual\
+      \ weapon](Compendium/spells/spiritual-weapon.md) (spear)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature that it can see."
@@ -111,8 +109,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
     "name": "Spear"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/orc-eye-of-gruumsh.webp"
+"image": "Compendium/bestiary/humanoid/token/orc-eye-of-gruumsh.webp"
 ```
 ^statblock
 

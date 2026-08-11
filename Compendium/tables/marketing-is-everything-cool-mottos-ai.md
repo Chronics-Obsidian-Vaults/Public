@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Marketing Is Everything; Cool Mottos
+- "Marketing Is Everything; Cool Mottos"
 ---
 # Marketing Is Everything; Cool Mottos
 *Source: Acquisitions Incorporated p. 69* 

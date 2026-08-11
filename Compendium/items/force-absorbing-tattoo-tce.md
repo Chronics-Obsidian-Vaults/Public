@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Force Absorbing Tattoo"
 item_type: wondrous
 item_subtype: tattoo

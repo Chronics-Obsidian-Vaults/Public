@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/22
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aurnozci
+- "Aurnozci"
 ---
-# [Aurnozci](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/aurnozci-bmt.md)
+# [Aurnozci](Compendium/bestiary/npc/aurnozci-bmt.md)
 *Source: The Book of Many Things p. 167*  
 
 The demon lord Aurnozci is a wormlike horror of fiery flesh and toxic seepage. In its present form, Aurnozci can't leave Xulregg, the Abyssal layer that's both its fiefdom and its prison. It lairs within a grotesque hive dangling from a mountain-size tree of tar and flame called Gorewood.
@@ -57,12 +58,9 @@ The challenge rating of Aurnozci is 23 (50,000 XP) when it's encountered in its 
 "damage_resistances": "cold, lightning"
 "damage_immunities": "acid; fire; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 15"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "22"
 "traits":
@@ -91,11 +89,9 @@ The challenge rating of Aurnozci is 23 (50,000 XP) when it's encountered in its 
     "name": "Mucus Spray (Recharge 5-6)"
   - "desc": "Aurnozci casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\n**At will:**\
-      \ [Detect Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [Heat Metal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heat-metal.md)\
-      \ (7th-level version)\n\n**2/day each:** [Darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [Dispel Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [Hold Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md)"
+      \ [Detect Magic](Compendium/spells/detect-magic.md), [Heat Metal](Compendium/spells/heat-metal.md)\
+      \ (7th-level version)\n\n**2/day each:** [Darkness](Compendium/spells/darkness.md),\
+      \ [Dispel Magic](Compendium/spells/dispel-magic.md), [Hold Person](Compendium/spells/hold-person.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Aurnozci can take one\
@@ -143,6 +139,6 @@ The challenge rating of Aurnozci is 23 (50,000 XP) when it's encountered in its 
     "name": "Conflagration (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/aurnozci-bmt.webp"
+"image": "Compendium/bestiary/npc/token/aurnozci-bmt.webp"
 ```
 ^statblock

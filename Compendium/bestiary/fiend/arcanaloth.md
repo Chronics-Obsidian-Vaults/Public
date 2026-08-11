@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/12
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Arcanaloth
+- "Arcanaloth"
 ---
-# [Arcanaloth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/arcanaloth.md)
-*Source: Monster Manual p. 313, Tasha's Cauldron of Everything*  
+# [Arcanaloth](Compendium/bestiary/fiend/arcanaloth.md)
+*Source: Monster Manual p. 313*  
 
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
 
@@ -94,57 +95,46 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+11"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 17"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 17"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
 "traits":
   - "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth\
       \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [fire\
-      \ bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md),\
-      \ [Tenser's floating disk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tensers-floating-disk.md)\n\
-      \n**2nd level (3 slots):** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md),\
-      \ [phantasmal force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-force.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**3rd level (3 slots):** [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)\n\
-      \n**4th level (3 slots):** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md)\n\
-      \n**5th level (2 slots):** [contact other plane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contact-other-plane.md),\
-      \ [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md)\n\
-      \n**6th level (1 slots):** [chain lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chain-lightning.md)\n\
-      \n**7th level (1 slots):** [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md)\n\
-      \n**8th level (1 slots):** [mind blank](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mind-blank.md)"
+      \ bolt](Compendium/spells/fire-bolt.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**1st level (4 slots):** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [identify](Compendium/spells/identify.md), [shield](Compendium/spells/shield.md),\
+      \ [Tenser's floating disk](Compendium/spells/tensers-floating-disk.md)\n\n**2nd\
+      \ level (3 slots):** [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [mirror image](Compendium/spells/mirror-image.md), [phantasmal force](Compendium/spells/phantasmal-force.md),\
+      \ [suggestion](Compendium/spells/suggestion.md)\n\n**3rd level (3 slots):**\
+      \ [counterspell](Compendium/spells/counterspell.md), [fear](Compendium/spells/fear.md),\
+      \ [fireball](Compendium/spells/fireball.md)\n\n**4th level (3 slots):** [banishment](Compendium/spells/banishment.md),\
+      \ [dimension door](Compendium/spells/dimension-door.md)\n\n**5th level (2 slots):**\
+      \ [contact other plane](Compendium/spells/contact-other-plane.md), [hold monster](Compendium/spells/hold-monster.md)\n\
+      \n**6th level (1 slots):** [chain lightning](Compendium/spells/chain-lightning.md)\n\
+      \n**7th level (1 slots):** [finger of death](Compendium/spells/finger-of-death.md)\n\
+      \n**8th level (1 slots):** [mind blank](Compendium/spells/mind-blank.md)"
     "name": "Spellcasting"
   - "desc": "The arcanaloth's innate spellcasting ability is Charisma (spell save\
       \ DC 15). The arcanaloth can innately cast the following spells, requiring no\
-      \ material components:\n\n**At will:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md),\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [heat metal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heat-metal.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only), [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md)"
+      \ material components:\n\n**At will:** [alter self](Compendium/spells/alter-self.md),\
+      \ [darkness](Compendium/spells/darkness.md), [heat metal](Compendium/spells/heat-metal.md),\
+      \ [invisibility](Compendium/spells/invisibility.md) (self only), [magic missile](Compendium/spells/magic-missile.md)"
     "name": "Innate Spellcasting"
   - "desc": "The arcanaloth has advantage on saving throws against spells and other\
       \ magical effects."
@@ -162,7 +152,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     "name": "Teleport"
 "source":
   - "MM"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/arcanaloth.webp"
+"image": "Compendium/bestiary/fiend/token/arcanaloth.webp"
 ```
 ^statblock

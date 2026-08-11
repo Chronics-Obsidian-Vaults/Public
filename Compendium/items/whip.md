@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Whip"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -18,7 +19,7 @@ attunement: none
 
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Reach](Rules/item-properties.md#Reach)
 - **Cost**: 2 gp
 - **Weight**: 3.0 lbs.
 

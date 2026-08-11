@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/scag
 - source/race/half-elf/aquatic-elf-descent
 aliases:
-- Half-Elf (Aquatic Elf Descent)
+- "Half-Elf (Aquatic Elf Descent)"
 ---
 # Half-Elf (Aquatic Elf Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  
@@ -31,7 +32,7 @@ Thanks to your elf blood, you have superior vision in dark and dim conditions. Y
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](Rules/conditions.md#Charmed), and magic can't put you to sleep.
 
 > [!note] Variant Feature (Choose 1)
 > 

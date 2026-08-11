@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Ink (1-ounce bottle)"
 item_type: 
 item_subtype: 

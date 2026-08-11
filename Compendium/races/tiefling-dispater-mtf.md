@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mtf
 - source/race/tiefling/dispater
 aliases:
-- Tiefling (Dispater)
+- "Tiefling (Dispater)"
 ---
 # Tiefling (Dispater)
 *Source: Mordenkainen's Tome of Foes p. 21*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/tiefling.webp#right)
+![](Compendium/races/img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 dex +1
 - **Size**: Medium
@@ -36,7 +37,7 @@ You have resistance to fire damage.
 
 ### Legacy of Dis
 
-You know the [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md) cantrip. When you reach 3rd level, you can cast the [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [thaumaturgy](Compendium/spells/thaumaturgy.md) cantrip. When you reach 3rd level, you can cast the [disguise self](Compendium/spells/disguise-self.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [detect thoughts](Compendium/spells/detect-thoughts.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

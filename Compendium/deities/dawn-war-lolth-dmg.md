@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/dmg
 - source/deity/dawn-war
 - source/domain/trickery
-aliases: 
-- Lolth
+aliases:
+- "Lolth"
 ---
 # Lolth
 *Source: Dungeon Master's Guide p. 10* 

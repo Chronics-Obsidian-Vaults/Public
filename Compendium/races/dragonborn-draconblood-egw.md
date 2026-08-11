@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/egw
 - source/race/dragonborn/draconblood
 aliases:
-- Dragonborn (Draconblood)
+- "Dragonborn (Draconblood)"
 ---
 # Dragonborn (Draconblood)
 *Source: Explorer's Guide to Wildemount p. 168*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/dragonborn-draconblood.webp#right)
+![](Compendium/races/img/dragonborn-draconblood.webp#right)
 
 - **Ability Scores**: int +2 cha +1
 - **Size**: Medium
@@ -55,7 +56,7 @@ After you use your breath weapon, you can't use it again until you complete a sh
 
 ### Forceful Presence
 
-You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma ([Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation) or [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest.
+You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma ([Intimidation](Rules/skills.md#Intimidation) or [Persuasion](Rules/skills.md#Persuasion)) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest.
 
 ### Languages
 
@@ -91,7 +92,7 @@ Dragonborn have personal names given at birth, but they put their clan names fir
 
 - **Male Names.** Arjhan, Balasar, Bharash, Donaar, Ghesh, Hesken, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn  
 - **Female Names.** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit  
-- **Childhood Names.** Climber, Earbenden Leaper, Pious, Shieldbiter, Zealous  
+- **Childhood Names.** Climber, Earbenden, Leaper, Pious, Shieldbiter, Zealous  
 - **Clan Names.** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit  
 
 > [!note] Draconians

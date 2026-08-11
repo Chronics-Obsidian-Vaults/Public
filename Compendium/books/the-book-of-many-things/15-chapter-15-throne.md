@@ -5,26 +5,26 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Chapter 15: Throne
+- "Chapter 15: Throne"
 ---
 # Chapter 15: Throne
 *Source: The Book of Many Things, p. 114* 
 
-A character who draws the Throne card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) gains ownership of a keep. But how big is the keep, and what are its defenses and layout? What lives in the keep now, and what must the characters do to secure it? This chapter, intended for DMs, presents Harrowhall, a castle plagued by an evil necromancer, as an example of such a keep. The Throne card doesn't need to appear in your game for Harrowhall to be useful; exploring the haunted castle makes an excellent single-session adventure, especially for characters in need of a place to recuperate between adventures.
+A character who draws the Throne card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md) gains ownership of a keep. But how big is the keep, and what are its defenses and layout? What lives in the keep now, and what must the characters do to secure it? This chapter, intended for DMs, presents Harrowhall, a castle plagued by an evil necromancer, as an example of such a keep. The Throne card doesn't need to appear in your game for Harrowhall to be useful; exploring the haunted castle makes an excellent single-session adventure, especially for characters in need of a place to recuperate between adventures.
 
 ## Introducing Harrowhall
 
-A character who draws the Throne card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) has a fleeting vision of a keep surrounded by a dry moat. Fog swirls across the grounds, and the castle appears abandoned by its owners. Instead of courtiers and guards, spectral figures appear behind narrow windows, and a huge serpentine creature slithers through its courtyard. Nevertheless, the stone walls are tall and undamaged, and an astronomical observatory boasting several telescopes surmounts the second floor of the inner structure. Harrowhall would make a fine stronghold for a group of adventurers, but it won't be easy to claim.
+A character who draws the Throne card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md) has a fleeting vision of a keep surrounded by a dry moat. Fog swirls across the grounds, and the castle appears abandoned by its owners. Instead of courtiers and guards, spectral figures appear behind narrow windows, and a huge serpentine creature slithers through its courtyard. Nevertheless, the stone walls are tall and undamaged, and an astronomical observatory boasting several telescopes surmounts the second floor of the inner structure. Harrowhall would make a fine stronghold for a group of adventurers, but it won't be easy to claim.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/082-14-001-throne.webp#center)
+![](Compendium/books/the-book-of-many-things/img/082-14-001-throne.webp#center)
 
-Place Harrowhall in a location appealing to the characters but also useful to your ongoing campaign. For example, the keep might be near a big city the characters like to visit, but also close to a crossroads that ensures travelers could appear at the castle's gate at any time. The keep might have always been in this location, avoided by locals thanks to the spirits that lurk there, or it might have been summoned by the magic of a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md). Regardless, the character who draws the Throne card knows where the keep is located and feels it tugging on their consciousness when their mind is quiet.
+Place Harrowhall in a location appealing to the characters but also useful to your ongoing campaign. For example, the keep might be near a big city the characters like to visit, but also close to a crossroads that ensures travelers could appear at the castle's gate at any time. The keep might have always been in this location, avoided by locals thanks to the spirits that lurk there, or it might have been summoned by the magic of a [Deck of Many Things](Compendium/items/deck-of-many-things.md). Regardless, the character who draws the Throne card knows where the keep is located and feels it tugging on their consciousness when their mind is quiet.
 
-If you aren't using the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), the characters can discover Harrowhall another way. Introduce the keep when your players are ready for their characters to have a stronghold they can call their own. The castle's fearsome reputation provides plenty of incentive for altruistic heroes to explore the site and put an end to the schemes of a ghostly necromancer, but if the characters have been talking about building a headquarters, they can drive off the ghosts that haunt Harrowhall and claim it for their own.
+If you aren't using the [Deck of Many Things](Compendium/items/deck-of-many-things.md), the characters can discover Harrowhall another way. Introduce the keep when your players are ready for their characters to have a stronghold they can call their own. The castle's fearsome reputation provides plenty of incentive for altruistic heroes to explore the site and put an end to the schemes of a ghostly necromancer, but if the characters have been talking about building a headquarters, they can drive off the ghosts that haunt Harrowhall and claim it for their own.
 
 ### Harrowhall's Story
 
-Years ago, a wizard named Gremorly drew the Throne card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), gaining ownership of a small castle called Sovereign's Keep. Gremorly was a necromancer and misanthrope who had little patience for the living; he resolved to use the keep to create and house a ghostly army he would use to seize power. Gremorly performed a ritual that turned Sovereign Keep into a ghost trap: anyone who dies within the castle walls rises as an incorporeal spirit, trapped within the castle. Then, he waited. When adventurers came to investigate the seemingly abandoned keep, Gremorly murdered them and trapped their ghosts. But fortune recently turned against Gremorly when a behir entered the keep seeking a nest. It slew Gremorly, who became a victim of his own ritual.
+Years ago, a wizard named Gremorly drew the Throne card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md), gaining ownership of a small castle called Sovereign's Keep. Gremorly was a necromancer and misanthrope who had little patience for the living; he resolved to use the keep to create and house a ghostly army he would use to seize power. Gremorly performed a ritual that turned Sovereign Keep into a ghost trap: anyone who dies within the castle walls rises as an incorporeal spirit, trapped within the castle. Then, he waited. When adventurers came to investigate the seemingly abandoned keep, Gremorly murdered them and trapped their ghosts. But fortune recently turned against Gremorly when a behir entered the keep seeking a nest. It slew Gremorly, who became a victim of his own ritual.
 
 Gremorly is now one of the many ghosts that haunt the keep. Locals have renamed the keep Harrowhall, as they dread the spectral figures moving through the fog there and the fierce lightning storms that erupt without warning. (The behir is the source of this lightning, but the locals don't know that.)
 
@@ -36,10 +36,10 @@ Harrowhall is designed to be a challenge for four 8th-level characters who explo
 
 If Harrowhall is too challenging for your group, but you want the characters to have a keep, you can use these strategies to decrease the difficulty:
 
-- **Temporary Hit Points.** When the characters agree to aid a group of ghosts, those ghosts grant each character `1d4 + 19` "temporary hit points", in a manner similar to a 4th-level casting of the [False Life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/false-life.md) spell.  
-- **Fewer Monsters.** Reduce the number of [shadow demons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/shadow-demon.md) and [phase spiders](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/phase-spider.md) in the keep, using the rules for "encounter building" in the "Dungeon Master's Guide" to create an appropriate challenge.  
-- **Weaker Construct.** The [stone golem](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/stone-golem.md) in "area 4" can be replaced with a [clay golem](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/clay-golem.md), a [shield guardian](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/shield-guardian.md), or another weaker Construct.  
-- **Ghostly Allies.** When the characters battle the [behir](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/behir.md), their ghostly allies harry and distract the creature, giving it disadvantage on attack rolls and giving the characters advantage on their attack rolls.  
+- **Temporary Hit Points.** When the characters agree to aid a group of ghosts, those ghosts grant each character `1d4 + 19` "temporary hit points", in a manner similar to a 4th-level casting of the [False Life](Compendium/spells/false-life.md) spell.  
+- **Fewer Monsters.** Reduce the number of [shadow demons](Compendium/bestiary/fiend/shadow-demon.md) and [phase spiders](Compendium/bestiary/monstrosity/phase-spider.md) in the keep, using the rules for "encounter building" in the "Dungeon Master's Guide" to create an appropriate challenge.  
+- **Weaker Construct.** The [stone golem](Compendium/bestiary/construct/stone-golem.md) in "area 4" can be replaced with a [clay golem](Compendium/bestiary/construct/clay-golem.md), a [shield guardian](Compendium/bestiary/construct/shield-guardian.md), or another weaker Construct.  
+- **Ghostly Allies.** When the characters battle the [behir](Compendium/bestiary/monstrosity/behir.md), their ghostly allies harry and distract the creature, giving it disadvantage on attack rolls and giving the characters advantage on their attack rolls.  
 - **Gremorly at Rest.** If the characters end Gremorly's ghost trap ritual, he immediately departs for his eternal rest, along with most of the other ghosts.  
 
 #### Increasing the Challenge
@@ -51,7 +51,7 @@ If Harrowhall isn't sufficiently challenging for your group, here are ways to ma
 - **More Behirs.** The behir has attracted a mate to its nest. Alternatively, you can supplement the behir with its spawn: less powerful versions of the creature that are Large instead of Huge.  
 - **More Actions for Gremorly.** Give Gremorly legendary actions and lair actions.  
 
-![The haunted castle of Harr...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/083-14-002-harrowhall.webp#center "The haunted castle of Harrowhall awaits adventurers brave enough to claim it")
+![The haunted castle of Harrowhall awaits adventurers brave enough to claim it](Compendium/books/the-book-of-many-things/img/083-14-002-harrowhall.webp#center)
 
 ## Exploring Harrowhall
 
@@ -59,7 +59,7 @@ Keep the following information in mind while the characters explore the haunted 
 
 ### Ghost Trap
 
-Gremorly's ritual forces any Humanoid who dies within the keep to return as a ghost that's unable to pass beyond the keep's walls. The ritual can be broken by disassembling, moving, or destroying all three ritual rods, which the necromancer placed in the armory ("area 3"), the kitchen ("area 7"), and the observatory ("area 15"). Each rod is protected by a [Glyph of Warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md). Once the ghost trap is broken, all the ghosts in the keep can leave except Gremorly, who remains to haunt the observatory.
+Gremorly's ritual forces any Humanoid who dies within the keep to return as a ghost that's unable to pass beyond the keep's walls. The ritual can be broken by disassembling, moving, or destroying all three ritual rods, which the necromancer placed in the armory ("area 3"), the kitchen ("area 7"), and the observatory ("area 15"). Each rod is protected by a [Glyph of Warding](Compendium/spells/glyph-of-warding.md). Once the ghost trap is broken, all the ghosts in the keep can leave except Gremorly, who remains to haunt the observatory.
 
 #### Side Effects
 
@@ -73,7 +73,7 @@ The ghosts all hide from Gremorly. Although they know of the necromancer and the
 
 ### Behir
 
-A [behir](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/behir.md) has made its nest in the keep's watchtower ("area 2"), but the monster hunts throughout the keep. Characters might spot it at any time, and it might test their strength in a brief encounter before retreating to attack again later. If the characters take their time and the adventure needs more excitement, the behir could attack and fight to the death.
+A [behir](Compendium/bestiary/monstrosity/behir.md) has made its nest in the keep's watchtower ("area 2"), but the monster hunts throughout the keep. Characters might spot it at any time, and it might test their strength in a brief encounter before retreating to attack again later. If the characters take their time and the adventure needs more excitement, the behir could attack and fight to the death.
 
 The behir knows the corridors of the keep so well that it can move through a 10-foot-wide space, as well as any door in the keep, without squeezing.
 
@@ -82,7 +82,7 @@ The behir knows the corridors of the keep so well that it can move through a 10-
 Unless otherwise stated, Harrowhall has the following features:
 
 - **Ceilings.** Rooms in the keep have 10-foot ceilings.  
-- **Light.** Most rooms in the keep have windows, so they are brightly lit during the day and dimly lit at night. [Torches](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/torch.md) are mounted along the keep's interior walls, but they aren't lit.  
+- **Light.** Most rooms in the keep have windows, so they are brightly lit during the day and dimly lit at night. [Torches](Compendium/items/torch.md) are mounted along the keep's interior walls, but they aren't lit.  
 - **Scrying Barrier.** Before putting his necromantic plans in motion, Gremorly placed runes around the keep's outer walls that block certain kinds of divination magic. Creatures outside the keep's exterior walls can't scry into the keep. However, creatures inside the keep can scry inside it or beyond the walls. This effect lingers even if Gremorly's ritual ghost trap is dismantled.  
 
 ### Harrowhall Locations
@@ -92,8 +92,8 @@ Harrowhall has held up well in the centuries since its creation, apart from a fe
 The following areas in Harrowhall are keyed to map 15.1.
 
 > [!gallery]
-> ![Map 15.1: Harrowhall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/084-map-14-01-harrowhall.webp#gallery)
-> ![Player Version](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/085-map-14-01-harrowhall-player.webp#gallery)
+> ![Map 15.1: Harrowhall](Compendium/books/the-book-of-many-things/img/084-map-14-01-harrowhall.webp#gallery)
+> ![Player Version](Compendium/books/the-book-of-many-things/img/085-map-14-01-harrowhall-player.webp#gallery)
 
 #### 1: Moat and Walls
 
@@ -104,7 +104,7 @@ A 30-foot-high wall borders Harrowhall, surrounded by a 20-foot-wide, 15-foot-de
 > The bottom of the dry moat is littered with bones as well as complete skeletons, many still wearing rusted armor or tattered robes.
 ^1fe
 
-Gremorly dumped the corpses of those he killed into the moat. A character who examines these remains and succeeds on a DC 15 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check notices some skeletons have matching emblems on their clothing or gear, perhaps indicating the bearers belonged to the same organization. If you have decided the dead adventurers belonged to well-known organizations like the Harpers or Red Wizards of Thay, the symbols of those groups can be found among the corpses.
+Gremorly dumped the corpses of those he killed into the moat. A character who examines these remains and succeeds on a DC 15 Wisdom ([Perception](Rules/skills.md#Perception)) check notices some skeletons have matching emblems on their clothing or gear, perhaps indicating the bearers belonged to the same organization. If you have decided the dead adventurers belonged to well-known organizations like the Harpers or Red Wizards of Thay, the symbols of those groups can be found among the corpses.
 
 ##### Treasure
 
@@ -116,11 +116,11 @@ The characters can use the drawbridge to cross the moat. They can instead clambe
 
 ##### Portcullis
 
-The portcullis is up, and nothing prevents entry to the keep. The mechanism to lower the portcullis is in area 2. Were the portcullis to be dropped, lifting it manually would require a successful DC 22 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check.
+The portcullis is up, and nothing prevents entry to the keep. The mechanism to lower the portcullis is in area 2. Were the portcullis to be dropped, lifting it manually would require a successful DC 22 Strength ([Athletics](Rules/skills.md#Athletics)) check.
 
 ##### Scaling the Walls
 
-The castle's walls are high and difficult to climb. Creatures trying to climb the walls must succeed on a DC 15 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check or fall.
+The castle's walls are high and difficult to climb. Creatures trying to climb the walls must succeed on a DC 15 Strength ([Athletics](Rules/skills.md#Athletics)) check or fall.
 
 #### 2: Watchtower
 
@@ -130,13 +130,13 @@ Stairs ascend 30 feet to a second floor that is even with the keep's battlements
 
 #### 3: Armory
 
-This room is filled with [shortswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md), crossbows, [shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md), and [maces](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md) placed here by the folk who owned the keep before Gremorly.
+This room is filled with [shortswords](Compendium/items/shortsword.md), crossbows, [shields](Compendium/items/shield.md), and [maces](Compendium/items/mace.md) placed here by the folk who owned the keep before Gremorly.
 
 ##### Ritual Rod
 
 Set into a metal tripod in the center of the room is a 3-foot-long metal rod decorated with runes and glowing with necromantic magic. The entire assembly weighs 8 pounds. This is one of three rods Gremorly set up to turn Harrowhall into a ghost trap. If the rod is removed from its tripod or destroyed, the necromantic energy fades and the rod becomes nonmagical. The rod and tripod assembly has AC 19, 5 hit points, and immunity to poison and psychic damage.
 
-The rod is protected with a [Glyph of Warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md); if anyone comes within 5 feet of the rod or anything touches it, explosive runes on the rod fill the room with acid. All creatures in the room must make a DC 15 Dexterity saving throw, taking `5d8` acid damage on a failed save, or half as much damage on a successful one. Once the glyph has gone off, or if it is dispelled, the ritual rod can be safely moved, destroyed, or disassembled. The glyph doesn't activate if the rod is moved without anyone touching it or approaching it, such as by using the [Mage Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md) cantrip. Knocking the rod over by throwing an object at it triggers the explosive runes.
+The rod is protected with a [Glyph of Warding](Compendium/spells/glyph-of-warding.md); if anyone comes within 5 feet of the rod or anything touches it, explosive runes on the rod fill the room with acid. All creatures in the room must make a DC 15 Dexterity saving throw, taking `5d8` acid damage on a failed save, or half as much damage on a successful one. Once the glyph has gone off, or if it is dispelled, the ritual rod can be safely moved, destroyed, or disassembled. The glyph doesn't activate if the rod is moved without anyone touching it or approaching it, such as by using the [Mage Hand](Compendium/spells/mage-hand.md) cantrip. Knocking the rod over by throwing an object at it triggers the explosive runes.
 
 #### 4: Courtyard
 
@@ -148,7 +148,7 @@ These stables contain saddles and other equipment hanging on the walls, but no a
 
 ##### Statue
 
-A Large statue of Istus, a god of fate and the creator of the first [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), stands in the center of the courtyard. She's depicted as a solemn-faced woman holding a spread of cards. The statue is a [stone golem](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/stone-golem.md) intended to protect the keep for its rightful owners—who might be the characters, thanks to the magic of the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md). But Gremorly's ghostly presence has confused the golem, and it doesn't recognize the characters as the keep's new owners. If the characters approach the golem, it frees itself from its plinth with a deep cracking sound and attacks until destroyed. However, if the characters destroy Gremorly's ghost and this golem is still intact, it becomes their ally and defends this courtyard on their behalf.
+A Large statue of Istus, a god of fate and the creator of the first [Deck of Many Things](Compendium/items/deck-of-many-things.md), stands in the center of the courtyard. She's depicted as a solemn-faced woman holding a spread of cards. The statue is a [stone golem](Compendium/bestiary/construct/stone-golem.md) intended to protect the keep for its rightful owners—who might be the characters, thanks to the magic of the [Deck of Many Things](Compendium/items/deck-of-many-things.md). But Gremorly's ghostly presence has confused the golem, and it doesn't recognize the characters as the keep's new owners. If the characters approach the golem, it frees itself from its plinth with a deep cracking sound and attacks until destroyed. However, if the characters destroy Gremorly's ghost and this golem is still intact, it becomes their ally and defends this courtyard on their behalf.
 
 #### 5: Crypt Entrance
 
@@ -163,7 +163,7 @@ Read or paraphrase the following when the characters reach this room:
 > A long, oaken dining table spans this room, and an empty fireplace sits in one corner. Cobwebs stretch across the room's large window. Floating above the dining table are the ghostly figures of three dwarves: one wearing vestments and two in sturdy armor. They murmur to each other in somber tones.
 ^20b
 
-In life, the three [ghosts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghost.md) were an adventuring party known as Fate's Devout. Wielding divine magic, they traveled across the realm to carry out Istus's will. They came to this keep because they heard it was holy to Istus, but Gremorly killed them.
+In life, the three [ghosts](Compendium/bestiary/undead/ghost.md) were an adventuring party known as Fate's Devout. Wielding divine magic, they traveled across the realm to carry out Istus's will. They came to this keep because they heard it was holy to Istus, but Gremorly killed them.
 
 The ghosts are alarmed by the unholy magic gathering in the keep's chapel ("area 11"), a side effect of Gremorly's ghost trap ritual being unsupervised for so long. They want to purify the chapel and escape the keep, but they're afraid of Gremorly. When the characters arrive, the ghosts are debating their next course of action, which is made difficult by the fact that the ghosts remember only the most recent events clearly.
 
@@ -179,33 +179,33 @@ This room has several ovens and cupboards full of old pots, pans, and utensils. 
 
 ##### Ritual Rod
 
-A second ritual rod, identical to the one in the armory ("area 3"), stands in the center of the kitchen. This rod is also protected by a [Glyph of Warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md), but if triggered, the explosive runes deal cold damage instead of acid damage.
+A second ritual rod, identical to the one in the armory ("area 3"), stands in the center of the kitchen. This rod is also protected by a [Glyph of Warding](Compendium/spells/glyph-of-warding.md), but if triggered, the explosive runes deal cold damage instead of acid damage.
 
 ##### Treasure
 
-A character who succeeds on a DC 15 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check or spends half an hour searching the pantry finds an [Alchemy Jug](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/alchemy-jug.md) among a few bags of spoiled flour on the floor.
+A character who succeeds on a DC 15 Wisdom ([Perception](Rules/skills.md#Perception)) check or spends half an hour searching the pantry finds an [Alchemy Jug](Compendium/items/alchemy-jug.md) among a few bags of spoiled flour on the floor.
 
 #### 8: Western Bedrooms
 
-These bedrooms are mostly empty, save for bedside tables and musty beds. The sole inhabitant of these rooms is Gus, Gremorly's old black cat, who was killed by the behir and now is a Tiny [ghost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghost.md). Gus is friendly to anyone who offers him food, even if he can't eat it, and he follows the characters as they explore the keep, meowing whenever doing so won't alert an enemy. (Gus might be old, but he still knows how to hunt.)
+These bedrooms are mostly empty, save for bedside tables and musty beds. The sole inhabitant of these rooms is Gus, Gremorly's old black cat, who was killed by the behir and now is a Tiny [ghost](Compendium/bestiary/undead/ghost.md). Gus is friendly to anyone who offers him food, even if he can't eat it, and he follows the characters as they explore the keep, meowing whenever doing so won't alert an enemy. (Gus might be old, but he still knows how to hunt.)
 
 ##### Treasure
 
-Gremorly slept in the southernmost bedroom. A diary on the bedside table details his life and wicked agenda. Several references to a book titled Exploring Arcanum make it clear the ghost trap ritual can be found in that book. In one passage, Gremorly gloats over attuning himself to a [Staff of Withering](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/staff-of-withering.md).
+Gremorly slept in the southernmost bedroom. A diary on the bedside table details his life and wicked agenda. Several references to a book titled Exploring Arcanum make it clear the ghost trap ritual can be found in that book. In one passage, Gremorly gloats over attuning himself to a [Staff of Withering](Compendium/items/staff-of-withering.md).
 
-A food bowl on the floor is inscribed with Gus's name. In addition, a [Potion of Growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-growth.md) has rolled under the bed.
+A food bowl on the floor is inscribed with Gus's name. In addition, a [Potion of Growth](Compendium/items/potion-of-growth.md) has rolled under the bed.
 
-![Harrowhall hides more than one deadly secret](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/086-14-003-harrowhall-hides.webp#center)
+![Harrowhall hides more than one deadly secret](Compendium/books/the-book-of-many-things/img/086-14-003-harrowhall-hides.webp#center)
 
 #### 9: Throne Room and Study
 
 Huge stained-glass windows grace the walls of this room. Its vaulted ceiling is 20 feet tall. Thrones, each inscribed with a character's name, sit at the far end of the room in a semicircle. A small room to the west is for private meetings and is furnished with a couch, chairs, and cabinets.
 
-Two [helmed horrors](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/helmed-horror.md)—one in the southeast corner and one in the southwest—stand guard in the throne room. While motionless, they look like ordinary suits of armor, but when the characters enter the room, the horrors animate and attack. Like the golem in the courtyard, these constructs guard the keep on behalf of its rightful owners but the presence of Gremorly's spirit confuses them. If the characters defeat Gremorly and these helmed horrors have not yet been destroyed, they become allies to the characters and defend this room on their behalf.
+Two [helmed horrors](Compendium/bestiary/construct/helmed-horror.md)—one in the southeast corner and one in the southwest—stand guard in the throne room. While motionless, they look like ordinary suits of armor, but when the characters enter the room, the horrors animate and attack. Like the golem in the courtyard, these constructs guard the keep on behalf of its rightful owners but the presence of Gremorly's spirit confuses them. If the characters defeat Gremorly and these helmed horrors have not yet been destroyed, they become allies to the characters and defend this room on their behalf.
 
 ##### Treasure
 
-If a character drew the Throne card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), a golden circlet rests on that character's throne. This circlet has the powers of a [Helm of Telepathy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/helm-of-telepathy.md). One of the cabinets in the study includes twelve bottles of rare wine, each worth 25 gp.
+If a character drew the Throne card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md), a golden circlet rests on that character's throne. This circlet has the powers of a [Helm of Telepathy](Compendium/items/helm-of-telepathy.md). One of the cabinets in the study includes twelve bottles of rare wine, each worth 25 gp.
 
 #### 10: Eastern Bedrooms
 
@@ -216,39 +216,39 @@ Read or paraphrase the following when a character opens the door to one of the b
 > A sparse bedroom contains a bed with a moth-eaten blanket and a side table. Levitating a few inches off the bed is a cross-legged ghost wearing light robes, seemingly meditating. The ghost's eyes snap open. "We have visitors," the ghost calls out. "And they are alive." Before long, five other ghosts pass through the walls of the room, dressed in similar attire. They look at you curiously.
 ^214
 
-In life, the six [ghosts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghost.md) were a group of traveling scholars called the Spellseekers. Two of the Spellseekers were human, one was a dwarf, one was an elf, and two were dragonborn. Their leader, a dragonborn ghost named Patrin Umbyrphrax, calmly asks the characters what brings them to the keep. Patrin explains that he and his colleagues sought a book called *Exploring Arcanum*, known to be in the possession of a necromancer named Gremorly. Rather than granting their request and letting them read the book, Gremorly killed them and trapped them as ghosts with a ritual. Patrin remembers little—his memory is fading due to his Undead status—but he is certain the details of the ghost trap ritual could be found in *Exploring Arcanum*, which he last saw in the keep's library. The Spellseekers don't know any other details of the ghost trap ritual, nor do they know that Gremorly is dead.
+In life, the six [ghosts](Compendium/bestiary/undead/ghost.md) were a group of traveling scholars called the Spellseekers. Two of the Spellseekers were human, one was a dwarf, one was an elf, and two were dragonborn. Their leader, a dragonborn ghost named Patrin Umbyrphrax, calmly asks the characters what brings them to the keep. Patrin explains that he and his colleagues sought a book called *Exploring Arcanum*, known to be in the possession of a necromancer named Gremorly. Rather than granting their request and letting them read the book, Gremorly killed them and trapped them as ghosts with a ritual. Patrin remembers little—his memory is fading due to his Undead status—but he is certain the details of the ghost trap ritual could be found in *Exploring Arcanum*, which he last saw in the keep's library. The Spellseekers don't know any other details of the ghost trap ritual, nor do they know that Gremorly is dead.
 
 Patrin knows where the library is and offers to guide the characters to it. He warns them it's home to a nest of phase spiders, which travel the Ethereal Plane and can destroy ghosts. Patrin tells the characters that if they defeat the phase spiders, they can get the book and use it to break Gremorly's ritual, releasing the ghosts trapped in Harrowhall.
 
 #### 11: Chapel
 
-This chapel is dedicated to Istus, the god of fate who created the first [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md). Gremorly's ghost trap ritual has persisted so long without his supervision that necromantic energies have begun to gather in the chapel, corrupting it.
+This chapel is dedicated to Istus, the god of fate who created the first [Deck of Many Things](Compendium/items/deck-of-many-things.md). Gremorly's ghost trap ritual has persisted so long without his supervision that necromantic energies have begun to gather in the chapel, corrupting it.
 
-A statue of Istus, surrounded by a web of multicolored threads, stands behind an altar in the southern part of the room. The altar emits a pulsating dark haze; anyone who touches the altar takes 17 (`5d6`) necrotic damage and must succeed on a DC 15 Constitution saving throw or gain 1 level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion). Shadows fill the corners of the room; a light source that usually provides bright light provides only dim light within the chapel, and a light source that normally provides dim light is useless.
+A statue of Istus, surrounded by a web of multicolored threads, stands behind an altar in the southern part of the room. The altar emits a pulsating dark haze; anyone who touches the altar takes 17 (`5d6`) necrotic damage and must succeed on a DC 15 Constitution saving throw or gain 1 level of [exhaustion](Rules/conditions.md#Exhaustion). Shadows fill the corners of the room; a light source that usually provides bright light provides only dim light within the chapel, and a light source that normally provides dim light is useless.
 
 ##### Reconsecrating the Altar
 
 The corruption of this chapel persists even if Gremorly's ritual is broken. But the members of Fate's Devout—the ghostly adventurers in the dining hall ("area 6")—know a ritual to purify the place. They tried it once but were attacked by "unholy beings" and fled. If the characters bring Fate's Devout back to the chapel, they'll try this ritual again, asking the characters to protect them from harm.
 
-The three ghosts gather around the altar, chanting an ancient prayer in Dwarvish. They must stay on the Material Plane for the duration of the ritual. Shortly after the ghosts begin praying, three [shadow demons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/shadow-demon.md) seep from the corners of the room. The demons attack the ghosts, but a demon that's attacked by a character shifts its focus to that character. When two shadow demons are killed, the remaining one flees. After 3 rounds, if all the ritual's participants are still chanting, the ritual succeeds, and the necromancy suffusing the chapel vanishes. If a ghost is reduced to 0 hit points, a character trained in the ritual can replace the fallen ghost, but the character must stand adjacent to the altar and use their action each round for the remainder of the ritual to chant the necessary incantations. If the ritual fails, surviving members of Fate's Devout can try again, but they might need further help from the characters, as three participants are required.
+The three ghosts gather around the altar, chanting an ancient prayer in Dwarvish. They must stay on the Material Plane for the duration of the ritual. Shortly after the ghosts begin praying, three [shadow demons](Compendium/bestiary/fiend/shadow-demon.md) seep from the corners of the room. The demons attack the ghosts, but a demon that's attacked by a character shifts its focus to that character. When two shadow demons are killed, the remaining one flees. After 3 rounds, if all the ritual's participants are still chanting, the ritual succeeds, and the necromancy suffusing the chapel vanishes. If a ghost is reduced to 0 hit points, a character trained in the ritual can replace the fallen ghost, but the character must stand adjacent to the altar and use their action each round for the remainder of the ritual to chant the necessary incantations. If the ritual fails, surviving members of Fate's Devout can try again, but they might need further help from the characters, as three participants are required.
 
 #### 12: Balcony
 
-This balcony overlooks the keep's rear courtyard. If the characters have not yet encountered the [behir](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/behir.md), it is lurking between the kitchen and throne room when they emerge. Characters must succeed on a DC 17 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check to avoid being surprised by the behir when it attacks. The behir fights to the death, defending its hunting grounds.
+This balcony overlooks the keep's rear courtyard. If the characters have not yet encountered the [behir](Compendium/bestiary/monstrosity/behir.md), it is lurking between the kitchen and throne room when they emerge. Characters must succeed on a DC 17 Wisdom ([Perception](Rules/skills.md#Perception)) check to avoid being surprised by the behir when it attacks. The behir fights to the death, defending its hunting grounds.
 
 #### 13: Library
 
-Three [phase spiders](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/phase-spider.md) lair in this room and attack any creature that enters.
+Three [phase spiders](Compendium/bestiary/monstrosity/phase-spider.md) lair in this room and attack any creature that enters.
 
 This spiderweb-covered library contains hundreds of books in genres ranging from history and religion to speculative fiction. Gremorly added his impressive personal collection to the library, including many rare tomes on necromancy, but most of the books were here when he arrived. The patches of webbing on the floor are "difficult terrain". These webs burn up instantly when touched by flame, but flames could also set the library on fire.
 
 ##### Exploring Arcanum
 
-Once the characters deal with the phase spiders, they—or the Spellseekers from "area 10"—can search for Exploring Arcanum, a book from Gremorly's collection that includes the ritual he used to make his ghost trap. Characters can find the tome with 10 minutes of careful searching. The book explains how the ritual rods must be placed and how to safely move them; any character who reads this ritual can move or dismantle the ritual rods without triggering their [Glyphs of Warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md).
+Once the characters deal with the phase spiders, they—or the Spellseekers from "area 10"—can search for Exploring Arcanum, a book from Gremorly's collection that includes the ritual he used to make his ghost trap. Characters can find the tome with 10 minutes of careful searching. The book explains how the ritual rods must be placed and how to safely move them; any character who reads this ritual can move or dismantle the ritual rods without triggering their [Glyphs of Warding](Compendium/spells/glyph-of-warding.md).
 
 #### 14: Crypt
 
-Three [ghosts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghost.md) bicker in this small crypt. Read or paraphrase the following when the characters enter the crypt:
+Three [ghosts](Compendium/bestiary/undead/ghost.md) bicker in this small crypt. Read or paraphrase the following when the characters enter the crypt:
 
 > [!note] 
 > 
@@ -265,13 +265,13 @@ This room has a domed glass ceiling and contains three large standing telescopes
 
 ##### Ritual Rod
 
-A third ritual rod, identical to the one in the armory (see "area 3"), stands in the northwest corner of the room. This rod is also protected by a [Glyph of Warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md), but if triggered, the explosive runes deal fire damage instead of acid damage.
+A third ritual rod, identical to the one in the armory (see "area 3"), stands in the northwest corner of the room. This rod is also protected by a [Glyph of Warding](Compendium/spells/glyph-of-warding.md), but if triggered, the explosive runes deal fire damage instead of acid damage.
 
-[Gremorly's ghost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/gremorlys-ghost-bmt.md) (see the accompanying stat block) haunts the observatory. He appears as a translucent human figure wearing trousers, shoes, a long coat with wide sleeves, and a wizard's hat. He has a long beard and bushy eyebrows, and he carries a ghostly staff. Gremorly has forgotten the circumstances of his death and goes about his business as if he were still alive. He moves from one telescope to another, occasionally consulting the astronomical charts on the table or checking the ritual rod. He doesn't notice the characters unless they interact with him or the ritual rod. If the characters draw his attention, he snickers with glee. "More fodder for my ghost army," he says, raising his staff. "I hope you've made peace with your gods." Gremorly fights until he is destroyed.
+[Gremorly's ghost](Compendium/bestiary/undead/gremorlys-ghost-bmt.md) (see the accompanying stat block) haunts the observatory. He appears as a translucent human figure wearing trousers, shoes, a long coat with wide sleeves, and a wizard's hat. He has a long beard and bushy eyebrows, and he carries a ghostly staff. Gremorly has forgotten the circumstances of his death and goes about his business as if he were still alive. He moves from one telescope to another, occasionally consulting the astronomical charts on the table or checking the ritual rod. He doesn't notice the characters unless they interact with him or the ritual rod. If the characters draw his attention, he snickers with glee. "More fodder for my ghost army," he says, raising his staff. "I hope you've made peace with your gods." Gremorly fights until he is destroyed.
 
 ##### Treasure
 
-The staff [Gremorly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/gremorlys-ghost-bmt.md) holds is a spectral reflection of his real [Staff of Withering](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/staff-of-withering.md), which leans against the table. Gremorly's [spellbook](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spellbook.md) lies on the table with the maps. It contains numerous spells, about half of which are necromancy spells, including all the spells in his stat block.
+The staff [Gremorly](Compendium/bestiary/undead/gremorlys-ghost-bmt.md) holds is a spectral reflection of his real [Staff of Withering](Compendium/items/staff-of-withering.md), which leans against the table. Gremorly's [spellbook](Compendium/items/spellbook.md) lies on the table with the maps. It contains numerous spells, about half of which are necromancy spells, including all the spells in his stat block.
 
 ## Escaping the Ghost Trap
 

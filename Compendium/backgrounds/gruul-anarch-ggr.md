@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Gruul Anarch
+- "Gruul Anarch"
 ---
 # Gruul Anarch
 *Source: Guildmasters' Guide to Ravnica p. 60*  
 
 
-- **Skill Proficiencies.** [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)  
-- **Tool Proficiencies.** [Herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md)  
+- **Skill Proficiencies.** [Animal Handling](Rules/skills.md#Animal%20Handling), [Athletics](Rules/skills.md#Athletics)  
+- **Tool Proficiencies.** [Herbalism kit](Compendium/items/herbalism-kit.md)  
 - **Languages.** Choose one of Draconic, Giant, Goblin, or Sylvan  
-- **Equipment.** A Gruul insignia, a [hunting trap](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hunting-trap.md), an [herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md), the skull of a boar, a beast-hide cloak, a set of [traveler's clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/travelers-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp (Azorius 1-zino coins)  
+- **Equipment.** A Gruul insignia, a [hunting trap](Compendium/items/hunting-trap.md), an [herbalism kit](Compendium/items/herbalism-kit.md), the skull of a boar, a beast-hide cloak, a set of [traveler's clothes](Compendium/items/travelers-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp (Azorius 1-zino coins)  
 
 The entire world of Ravnica is a sprawling metropolis, but you are a native of the wild areas that still exist—the abandoned districts, the rubblebelts, the overgrown parks, and the crumbling ruins. You are part of a savage society that clings desperately to the Old Ways—attuned to nature, full of primal rage, and given short shrift by a world consumed with continuing civilization's march of progress.
 
@@ -32,12 +33,12 @@ For you, the spells on the Gruul Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md), [produce flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/produce-flame.md) |
-| 1st | [compelled duel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compelled-duel.md), [speak with animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-animals.md), [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md) |
-| 2nd | [beast sense](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/beast-sense.md), [shatter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shatter.md) |
-| 3rd | [conjure animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-animals.md), [conjure barrage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-barrage.md) |
-| 4th | [dominate beast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-beast.md), [stoneskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stoneskin.md) |
-| 5th | [destructive wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/destructive-wave.md) |
+| Cantrip | [fire bolt](Compendium/spells/fire-bolt.md), [produce flame](Compendium/spells/produce-flame.md) |
+| 1st | [compelled duel](Compendium/spells/compelled-duel.md), [speak with animals](Compendium/spells/speak-with-animals.md), [thunderwave](Compendium/spells/thunderwave.md) |
+| 2nd | [beast sense](Compendium/spells/beast-sense.md), [shatter](Compendium/spells/shatter.md) |
+| 3rd | [conjure animals](Compendium/spells/conjure-animals.md), [conjure barrage](Compendium/spells/conjure-barrage.md) |
+| 4th | [dominate beast](Compendium/spells/dominate-beast.md), [stoneskin](Compendium/spells/stoneskin.md) |
+| 5th | [destructive wave](Compendium/spells/destructive-wave.md) |
 ^gruul-guild-spells
 
 Fueled by the fire of rage burning in your heart, your magic is almost always accompanied by fiery effects, such as flames smoldering behind your eyes or dancing over your hands.

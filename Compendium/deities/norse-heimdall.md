@@ -7,8 +7,8 @@ tags:
 - source/deity/norse
 - source/domain/light
 - source/domain/war
-aliases: 
-- Heimdall
+aliases:
+- "Heimdall"
 ---
 # Heimdall
 *Source: Player's Handbook p. 299* 

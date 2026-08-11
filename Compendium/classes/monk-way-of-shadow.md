@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/monk/shadow
 aliases:
-- Way of Shadow
+- "Way of Shadow"
 ---
 # Way of Shadow
 *[Monk](./monk.md): Monastic Tradition*  
@@ -43,16 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Way of Shadow (Level 3)
-
 Monks of the Way of Shadow follow a tradition that values stealth and subterfuge. These monks might be called ninjas or shadow dancers, and they serve as spies and assassins. Sometimes the members of a ninja monastery are family members, forming a clan sworn to secrecy about their arts and missions. Other monasteries are more like thieves' guilds, hiring out their services to nobles, rich merchants, or anyone else who can pay their fees. Regardless of their methods, the heads of these monasteries expect the unquestioning obedience of their students.
+
+## Subclass Features
 
 ### Shadow Arts (Level 3)
 
-You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md), [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkvision.md), [pass without trace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pass-without-trace.md), or [silence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silence.md), without providing material components. Additionally, you gain the [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md) cantrip if you don't already know it.
+You can use your ki to duplicate the effects of certain spells. As an action, you can spend 2 ki points to cast [darkness](Compendium/spells/darkness.md), [darkvision](Compendium/spells/darkvision.md), [pass without trace](Compendium/spells/pass-without-trace.md), or [silence](Compendium/spells/silence.md), without providing material components. Additionally, you gain the [minor illusion](Compendium/spells/minor-illusion.md) cantrip if you don't already know it.
 
 ### Shadow Step (Level 6)
 
@@ -60,7 +57,7 @@ You gain the ability to step from one shadow into another. When you are in dim l
 
 ### Cloak of Shadows (Level 11)
 
-By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible). You remain [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) until you make an attack, cast a spell, or are in an area of bright light.
+By 11th level, you have learned to become one with the shadows. When you are in an area of dim light or darkness, you can use your action to become [invisible](Rules/conditions.md#Invisible). You remain [invisible](Rules/conditions.md#Invisible) until you make an attack, cast a spell, or are in an area of bright light.
 
 ### Opportunist (Level 17)
 

@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/major
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Water Walking"
 item_type: wondrous
 item_subtype: ring
@@ -15,7 +16,7 @@ attunement: none
 ---
 # Ring of Water Walking
 *Ring, major, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/ring-of-water-walking.webp#right)
+![](Compendium/items/img/ring-of-water-walking.webp#right)
 
 
 While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.

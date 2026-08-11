@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Learning from the Best; Arcane Masters
+- "Learning from the Best; Arcane Masters"
 ---
 # Learning from the Best; Arcane Masters
 *Source: Acquisitions Incorporated p. 71* 

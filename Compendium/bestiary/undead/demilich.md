@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/18
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Demilich
+- "Demilich"
 ---
-# [Demilich](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/demilich.md)
-*Source: Monster Manual p. 48, Explorer's Guide to Wildemount*  
+# [Demilich](Compendium/bestiary/undead/demilich.md)
+*Source: Monster Manual p. 48*  
 
 The immortality granted to a lich lasts only as long as it feeds mortal souls to its phylactery. If it falters or fails in that task, its bones turn to dust until only its skull remains. This "demilich" contains only a fragment of the lich's malevolent life force-just enough so that if it is disturbed, these remains rise into the air and assume a wraith-like form. The skull then emits a terrifying howl that can slay the weak-hearted and leave others trembling with fear. Left alone, it sinks back down and returns to the empty peace of its existence.
 
@@ -77,17 +78,12 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 "damage_resistances": "bludgeoning, piercing, slashing from magic weapons"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 13"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened),\
+  \ [exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone),\
+  \ [stunned](Rules/conditions.md#Stunned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 13"
 "languages": ""
 "cr": "18"
 "traits":
@@ -103,8 +99,7 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
   - "desc": "The demilich emits a bloodcurdling howl. Each creature within 30 feet\
       \ of the demilich that can hear the howl must succeed on a DC 15 Constitution\
       \ saving throw or drop to 0 hit points. On a successful save, the creature is\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ until the end of its next turn."
+      \ [frightened](Rules/conditions.md#Frightened) until the end of its next turn."
     "name": "Howl (Recharge 5-6)"
   - "desc": "The demilich targets up to three creatures that it can see within 10\
       \ feet of it. Each target must succeed on a DC 19 Constitution saving throw\
@@ -116,20 +111,19 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
       \ d20. On a result of 11 or higher, the demilich takes a lair action to cause\
       \ one of the following effects. It can't use the same effect two rounds in a\
       \ row.\n\n- The tomb trembles violently for a moment. Each creature on the floor\
-      \ of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [prone](Rules/conditions.md#Prone).\
       \  \n- The demilich targets one creature it can see within 60 feet of it. An\
-      \ [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md)\
-      \ fills the space of the target, moving with it until initiative count 20 on\
-      \ the next round.  \n- The demilich targets any number of creatures it can see\
-      \ within 30 feet of it. No target can regain hit points until initiative count\
-      \ 20 on the next round.  "
+      \ [antimagic field](Compendium/spells/antimagic-field.md) fills the space of\
+      \ the target, moving with it until initiative count 20 on the next round.  \n\
+      - The demilich targets any number of creatures it can see within 30 feet of\
+      \ it. No target can regain hit points until initiative count 20 on the next\
+      \ round.  "
     "name": ""
 "regional_effects":
   - "desc": "A demilich's tomb might have any or all of the following effects in place:\n\
       \n- The first time a non-evil creature enters the tomb's area, the creature\
       \ takes 16 (3d10) necrotic damage.  \n- Monsters in the tomb have advantage\
-      \ on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
+      \ on saving throws against being [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened),\
       \ and against features that turn undead.  \n- The tomb is warded against the\
       \ magical travel of creatures the demilich hasn't authorized. Such creatures\
       \ can't teleport into or out of the tomb's area or use planar travel to enter\
@@ -145,17 +139,16 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
     "name": "Flight"
   - "desc": "The demilich magically swirls its dusty remains. Each creature within\
       \ 10 feet of the demilich, including around a corner, must succeed on a DC 15\
-      \ Constitution saving throw or be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ until the end of the demilich's next turn. A creature that succeeds on the\
-      \ saving throw is immune to this effect until the end of the demilich's next\
-      \ turn."
+      \ Constitution saving throw or be [blinded](Rules/conditions.md#Blinded) until\
+      \ the end of the demilich's next turn. A creature that succeeds on the saving\
+      \ throw is immune to this effect until the end of the demilich's next turn."
     "name": "Cloud of Dust"
-  - "desc": "Each creature with in 30 feet of the demilich must make a DC 15 Constitution\
+  - "desc": "Each creature within 30 feet of the demilich must make a DC 15 Constitution\
       \ saving throw. On a failed save, the creature's hit point maximum is magically\
       \ reduced by 10 (3d6). If a creature's hit point maximum is reduced to 0 by\
       \ this effect, the creature dies. A creature's hit point maximum can be restored\
-      \ with the  [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
-      \ spell or similar magic."
+      \ with the [greater restoration](Compendium/spells/greater-restoration.md) spell\
+      \ or similar magic."
     "name": "Energy Drain (Costs 2 Actions)"
   - "desc": "The demilich targets one creature it can see within 30 feet of it. The\
       \ target must succeed on a DC 15 Wisdom saving throw or be magically cursed.\
@@ -165,7 +158,6 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
     "name": "Vile Curse (Costs 3 Actions)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/demilich.webp"
+"image": "Compendium/bestiary/undead/token/demilich.webp"
 ```
 ^statblock

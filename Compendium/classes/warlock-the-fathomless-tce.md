@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/warlock/fathomless
 aliases:
-- The Fathomless
+- "The Fathomless"
 ---
 # The Fathomless
 *[Warlock](./warlock.md): Otherworldly Patron*  
@@ -43,10 +43,7 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### The Fathomless (Level 1)
+![](Compendium/classes/img/fathomless-warlock.webp#right)
 
 You have plunged into a pact with the deeps. An entity of the ocean, the Elemental Plane of Water, or another otherworldly sea now allows you to draw on its thalassic power. Is it merely using you to learn about terrestrial realms, or does it want you to open cosmic floodgates and drown the world?
 
@@ -54,8 +51,9 @@ Perhaps you were born into a generational cult that venerates the Fathomless and
 
 Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods, and sea hag covens.
 
-#### Expanded Spell List
-_Source: Tasha's Cauldron of Everything_
+## Subclass Features
+
+### Expanded Spell List (Level 1)
 
 *1st-level Fathomless feature*
 
@@ -65,11 +63,11 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [create or destroy water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-or-destroy-water.md), [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md) |
-| 2nd | [gust of wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-of-wind.md), [silence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silence.md) |
-| 3rd | [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md), [sleet storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleet-storm.md) |
-| 4th | [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md), [summon elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-elemental-tce.md) (water only) |
-| 5th | [Bigby's hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bigbys-hand.md) (appears as a tentacle), [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md) |
+| 1st | [create or destroy water](Compendium/spells/create-or-destroy-water.md), [thunderwave](Compendium/spells/thunderwave.md) |
+| 2nd | [gust of wind](Compendium/spells/gust-of-wind.md), [silence](Compendium/spells/silence.md) |
+| 3rd | [lightning bolt](Compendium/spells/lightning-bolt.md), [sleet storm](Compendium/spells/sleet-storm.md) |
+| 4th | [control water](Compendium/spells/control-water.md), [summon elemental](Compendium/spells/summon-elemental-tce.md) (water only) |
+| 5th | [Bigby's hand](Compendium/spells/bigbys-hand.md) (appears as a tentacle), [cone of cold](Compendium/spells/cone-of-cold.md) |
 ^fathomless-expanded-spells
 
 ### Tentacle of the Deeps (Level 1)
@@ -106,9 +104,9 @@ Your Tentacle of the Deeps can defend you and others, interposing itself between
 
 *10th-level Fathomless feature*
 
-You learn the spell [Evard's black tentacles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/evards-black-tentacles.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
+You learn the spell [Evard's black tentacles](Compendium/spells/evards-black-tentacles.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
-Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on this spell.
+Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](Rules/conditions.md#Concentration) on this spell.
 
 ### Fathomless Plunge (Level 14)
 

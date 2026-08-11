@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Nature in Unlikely Places; Urban Sanctuaries
+- "Nature in Unlikely Places; Urban Sanctuaries"
 ---
 # Nature in Unlikely Places; Urban Sanctuaries
 *Source: Acquisitions Incorporated p. 58* 

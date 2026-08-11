@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/7
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Air Elemental Myrmidon
+- "Air Elemental Myrmidon"
 ---
-# [Air Elemental Myrmidon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/air-elemental-myrmidon-mpmm.md)
+# [Air Elemental Myrmidon](Compendium/bestiary/elemental/air-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
 
 ## Elemental Myrmidons
@@ -24,7 +25,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate](Compendium/items/plate-armor.md)"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
 "modifier": !!int "2"
@@ -39,12 +40,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "damage_resistances": "lightning; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone)"
+"gear":
+  - "[flail](Compendium/items/flail.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Auran, one language of its creator's choice"
 "cr": "7"
 "actions":
@@ -55,12 +55,12 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
     "name": "Flail"
   - "desc": "The myrmidon makes one Flail attack. On a hit, the target takes an extra\
       \ 18 (4d8) lightning damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the end of the myrmidon's next turn."
+      \ saving throw or be [stunned](Rules/conditions.md#Stunned) until the end of\
+      \ the myrmidon's next turn."
     "name": "Lightning Strike (Recharge 6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/air-elemental-myrmidon-mpmm.webp"
+"image": "Compendium/bestiary/elemental/token/air-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock

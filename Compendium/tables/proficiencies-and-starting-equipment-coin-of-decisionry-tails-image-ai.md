@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Proficiencies and Starting Equipment; Coin of Decisionry "Tails" Image
+- "Proficiencies and Starting Equipment; Coin of Decisionry \"Tails\" Image"
 ---
 # Proficiencies and Starting Equipment; Coin of Decisionry "Tails" Image
 *Source: Acquisitions Incorporated p. 22* 
@@ -14,7 +14,7 @@ aliases:
 
 | dice: d8 | Tails |
 |----------|-------|
-| 1 | [Omin Dran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/omin-dran-ai.md) |
+| 1 | [Omin Dran](Compendium/bestiary/npc/omin-dran-ai.md) |
 | 2 | Yourself |
 | 3 | A pumpkin |
 | 4 | A fourteen-headed hydra (it's a big coin) |

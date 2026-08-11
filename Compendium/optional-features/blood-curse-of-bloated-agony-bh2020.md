@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bh2020
 - source/optional-feature/blood-curse
 aliases:
-- Blood Curse of Bloated Agony
+- "Blood Curse of Bloated Agony"
 ---
 # Blood Curse of Bloated Agony
 *Source: Blood Hunter 2020*  

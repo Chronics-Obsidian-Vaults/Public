@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Actor
+- "Actor"
 ---
 # Actor
 *Source: Player's Handbook p. 165*  
@@ -14,5 +14,5 @@ aliases:
 Skilled at mimicry and dramatics, you gain the following benefits:
 
 - Increase your Charisma score by 1, to a maximum of 20.  
-- You have advantage on Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)) and Charisma ([Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)) checks when trying to pass yourself off as a different person.  
-- You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check contested by your Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)) check allows a listener to determine that the effect is faked.
+- You have advantage on Charisma ([Deception](Rules/skills.md#Deception)) and Charisma ([Performance](Rules/skills.md#Performance)) checks when trying to pass yourself off as a different person.  
+- You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom ([Insight](Rules/skills.md#Insight)) check contested by your Charisma ([Deception](Rules/skills.md#Deception)) check allows a listener to determine that the effect is faked.

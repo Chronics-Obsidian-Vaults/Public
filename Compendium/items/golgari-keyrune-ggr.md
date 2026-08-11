@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Golgari Keyrune"
 item_type: 
 item_subtype: 
@@ -14,14 +15,14 @@ attunement: required
 ---
 # Golgari Keyrune
 *Wondrous item, very rare (requires attunement by a member of the Golgari guild)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/golgari-keyrune.webp#right)
+![](Compendium/items/img/golgari-keyrune.webp#right)
 
 
-Made from deep green jade with black veins, this keyrune has an insectile shape. It can transform into a [giant scorpion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-scorpion.md) for up to 6 hours. The scorpion has an Intelligence of 4 and can communicate with you telepathically while it is within 60 feet of you, though its messages are largely limited to describing the passage of potential prey.
+Made from deep green jade with black veins, this keyrune has an insectile shape. It can transform into a [giant scorpion](Compendium/bestiary/beast/giant-scorpion.md) for up to 6 hours. The scorpion has an Intelligence of 4 and can communicate with you telepathically while it is within 60 feet of you, though its messages are largely limited to describing the passage of potential prey.
 
-When you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within 5 feet of you, the keyrune transforms into a [giant scorpion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-scorpion.md). If there isn't enough space for the creature, the keyrune doesn't transform.
+When you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within 5 feet of you, the keyrune transforms into a [giant scorpion](Compendium/bestiary/beast/giant-scorpion.md). If there isn't enough space for the creature, the keyrune doesn't transform.
 
-The creature is friendly to you, your companions, and other members of your guild (unless those guild members are hostile to you). It understands your languages and obeys your spoken commands. If you issue no commands, the creature takes the [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge) action and moves to avoid danger.
+The creature is friendly to you, your companions, and other members of your guild (unless those guild members are hostile to you). It understands your languages and obeys your spoken commands. If you issue no commands, the creature takes the [Dodge](Rules/actions.md#Dodge) action and moves to avoid danger.
 
 At the end of the duration, the creature reverts to its keyrune form. It reverts early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature reverts to its keyrune form, it can't transform again until 36 hours have passed.
 

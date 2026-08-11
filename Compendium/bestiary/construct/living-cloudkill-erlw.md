@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/7
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Cloudkill
+- "Living Cloudkill"
 ---
-# [Living Cloudkill](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/living-cloudkill-erlw.md)
+# [Living Cloudkill](Compendium/bestiary/construct/living-cloudkill-erlw.md)
 *Source: Eberron: Rising from the Last War p. 299*  
 
 ## Constructed Nature
@@ -43,7 +44,7 @@ Now make the following changes to that stat block:
 
 **Spell Mimicry**. Replace the effect of Spell Mimicry with the effect of the chosen spell. If that spell requires a saving throw, use spell save DC from the replaced spell, and if the spell involves an attack roll, use the attack bonus from the living spell's Magical Strike.
 
-For example, if you turn [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) (a 3rd-level spell) into a living spell, customize the [living lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) with Spell Mimicry.
+For example, if you turn [fireball](Compendium/spells/fireball.md) (a 3rd-level spell) into a living spell, customize the [living lightning bolt](Compendium/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates [fireball](Compendium/spells/fireball.md) with Spell Mimicry.
 
 ```statblock
 "name": "Living Cloudkill (ERLW)"
@@ -65,16 +66,11 @@ For example, if you turn [fireball](/Campaigns/Chronics%20of%20the%20Times%20Bef
 "speed": "25 ft., fly 25 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [grappled](Rules/conditions.md#Grappled),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "7"
 "traits":
@@ -96,12 +92,11 @@ For example, if you turn [fireball](/Campaigns/Chronics%20of%20the%20Times%20Bef
       \ saving throw, taking 22 (5d8) poison damage on a failed save, or half as much\
       \ damage on a successful one.\n\nThe fog moves 10 feet away from the living\
       \ spell at the start of each of its turns, rolling along the ground and through\
-      \ openings. The fog lasts for 10 minutes or until the living spell's [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ ends (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell)."
+      \ openings. The fog lasts for 10 minutes or until the living spell's [concentration](Rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](Rules/conditions.md#Concentration) on a spell)."
     "name": "Spell Mimicry (Recharge 5-6)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/living-cloudkill-erlw.webp"
+"image": "Compendium/bestiary/construct/token/living-cloudkill-erlw.webp"
 ```
 ^statblock

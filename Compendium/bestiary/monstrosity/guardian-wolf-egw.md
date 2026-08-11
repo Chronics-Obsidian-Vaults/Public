@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guardian Wolf
+- "Guardian Wolf"
 ---
-# [Guardian Wolf](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/guardian-wolf-egw.md)
+# [Guardian Wolf](Compendium/bestiary/monstrosity/guardian-wolf-egw.md)
 *Source: Explorer's Guide to Wildemount p. 272*  
 
 ```statblock
@@ -33,33 +34,33 @@ aliases:
   - !!int "8"
 "speed": "60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "senses": "passive Perception 15"
 "languages": "Common, Elvish"
 "cr": "4"
 "traits":
-  - "desc": "The wolf has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The wolf has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The wolf has advantage on attack rolls against a creature if at least\
       \ one of the wolf's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The wolf makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (1d10 + 6) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 16 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ a DC 16 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d8 + 6) piercing damage."
     "name": "Claws"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/guardian-wolf-egw.webp"
+"image": "Compendium/bestiary/monstrosity/token/guardian-wolf-egw.webp"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/18
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- The Lord of Blades
+- "The Lord of Blades"
 ---
-# [The Lord of Blades](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/the-lord-of-blades-erlw.md)
+# [The Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md)
 *Source: Eberron: Rising from the Last War p. 300*  
 
 The Lord of Blades is a warforged warlord who has broken all ties with his former masters. He has established a nation for his people deep in the Mournland, centered in a great fortress where warforged from all over Khorvaire can come and feel a sense of belonging. No one knows what the Lord of Blades plans for his followers, but many fear that he intends to build a legion of warforged zealots, primed to march from the Mournland to unleash destruction on their former masters.
@@ -47,19 +48,17 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
   - "intelligence": !!int "10"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+10"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+11"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "necrotic, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ disease"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), disease"
 "senses": "passive Perception 19"
 "languages": "Common, Draconic, Dwarvish, Elvish"
 "cr": "18"
@@ -67,39 +66,33 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
   - "desc": "The Lord of Blades is a 20th-level spellcaster. His spellcasting ability\
       \ is Intelligence (spell save DC 18, +10 to hit with spell attacks). He has\
       \ the following artificer spells prepared:\n\n**Cantrips (at will):** [fire\
-      \ bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md)\
-      \ (see \"Actions\" below), [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mending.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [expeditious retreat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/expeditious-retreat.md),\
-      \ [sanctuary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sanctuary.md),\
-      \ [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md)\n\
-      \n**2nd level (3 slots):** [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md),\
-      \ [heat metal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heat-metal.md),\
-      \ [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md),\
-      \ [see invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/see-invisibility.md)\n\
-      \n**3rd level (3 slots):** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [haste](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/haste.md)\n\
-      \n**4th level (3 slots):** [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md),\
-      \ [Mordenkainen's faithful hound](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mordenkainens-faithful-hound.md)\n\
-      \n**5th level (2 slots):** [animate objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-objects.md),\
-      \ [wall of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md)"
+      \ bolt](Compendium/spells/fire-bolt.md) (see \"Actions\" below), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [mending](Compendium/spells/mending.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**1st level (4 slots):** [expeditious retreat](Compendium/spells/expeditious-retreat.md),\
+      \ [sanctuary](Compendium/spells/sanctuary.md), [thunderwave](Compendium/spells/thunderwave.md)\n\
+      \n**2nd level (3 slots):** [blur](Compendium/spells/blur.md), [heat metal](Compendium/spells/heat-metal.md),\
+      \ [scorching ray](Compendium/spells/scorching-ray.md), [see invisibility](Compendium/spells/see-invisibility.md)\n\
+      \n**3rd level (3 slots):** [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [fly](Compendium/spells/fly.md), [haste](Compendium/spells/haste.md)\n\n**4th\
+      \ level (3 slots):** [freedom of movement](Compendium/spells/freedom-of-movement.md),\
+      \ [Mordenkainen's faithful hound](Compendium/spells/mordenkainens-faithful-hound.md)\n\
+      \n**5th level (2 slots):** [animate objects](Compendium/spells/animate-objects.md),\
+      \ [wall of force](Compendium/spells/wall-of-force.md)"
     "name": "Spellcasting"
   - "desc": "Any critical hit against the Lord of Blades becomes a normal hit."
     "name": "Adamantine Plating"
-  - "desc": "A creature that grapples the Lord of Blades or is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+  - "desc": "A creature that grapples the Lord of Blades or is [grappled](Rules/conditions.md#Grappled)\
       \ by him takes 13 (3d8) slashing damage. A creature takes 13 (3d8) slashing\
-      \ damage if it starts its turn grappling or being [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ damage if it starts its turn grappling or being [grappled](Rules/conditions.md#Grappled)\
       \ by the Lord of Blades."
     "name": "Bladed Armor"
   - "desc": "If the Lord of Blades moves at least 10 feet straight toward a target\
       \ and then hits it with his adamantine sixblade on the same turn, the target\
       \ takes an extra 11 (2d10) slashing damage. If the target is a creature, it\
       \ must succeed on a DC 19 Strength saving throw or be pushed up to 10 feet away\
-      \ and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ and knocked [prone](Rules/conditions.md#Prone)."
     "name": "Charge"
-  - "desc": "The Lord of Blades has advantage on saving throws against being [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
+  - "desc": "The Lord of Blades has advantage on saving throws against being [poisoned](Rules/conditions.md#Poisoned),\
       \ is immune to disease, and magic can't put him to sleep."
     "name": "Warforged Resilience"
 "actions":
@@ -132,6 +125,6 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
     "name": "Blade Dash (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/the-lord-of-blades-erlw.webp"
+"image": "Compendium/bestiary/npc/token/the-lord-of-blades-erlw.webp"
 ```
 ^statblock

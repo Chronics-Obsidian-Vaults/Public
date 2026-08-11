@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/10
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Autumn Eladrin
+- "Autumn Eladrin"
 ---
-# [Autumn Eladrin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/autumn-eladrin-mpmm.md)
+# [Autumn Eladrin](Compendium/bestiary/fey/autumn-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195*  
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
@@ -33,7 +34,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](Rules/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Autumn Eladrin (MPMM)"
@@ -55,24 +56,25 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)"
+  - "name": "[Medicine](Rules/skills.md#Medicine)"
     "desc": "+7"
 "damage_resistances": "psychic"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"
 "traits":
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the eladrin for 1 minute. On a successful save, the creature becomes immune\
-      \ to any eladrin's Enchanting Presence for 24 hours.\n\nWhenever the eladrin\
-      \ deals damage to the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ creature, the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ creature can repeat the saving throw, ending the effect on itself on a success."
+      \ [charmed](Rules/conditions.md#Charmed) by the eladrin for 1 minute. On a successful\
+      \ save, the creature becomes immune to any eladrin's Enchanting Presence for\
+      \ 24 hours.\n\nWhenever the eladrin deals damage to the [charmed](Rules/conditions.md#Charmed)\
+      \ creature, the [charmed](Rules/conditions.md#Charmed) creature can repeat the\
+      \ saving throw, ending the effect on itself on a success."
     "name": "Enchanting Presence"
   - "desc": "The eladrin has advantage on saving throws against spells and other magical\
       \ effects."
@@ -90,26 +92,24 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md)\n\
-      \n**2/day each:** [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md)\
-      \ (as a 5th-level spell), [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md)\n\
-      \n**1/day each:** [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md),\
-      \ [revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md)"
+      \n**At will:** [hold person](Compendium/spells/hold-person.md)\n\n**2/day each:**\
+      \ [cure wounds](Compendium/spells/cure-wounds.md) (as a 5th-level spell), [lesser\
+      \ restoration](Compendium/spells/lesser-restoration.md)\n\n**1/day each:** [greater\
+      \ restoration](Compendium/spells/greater-restoration.md), [revivify](Compendium/spells/revivify.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
       \ up to 30 feet to an unoccupied space it can see."
     "name": "Fey Step (Recharge 4-6)"
 "reactions":
-  - "desc": "If a creature [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the eladrin hits with an attack roll while within 60 feet of the eladrin,\
-      \ the eladrin magically causes the attack to miss, provided the eladrin can\
-      \ see the attacker."
+  - "desc": "If a creature [charmed](Rules/conditions.md#Charmed) by the eladrin hits\
+      \ with an attack roll while within 60 feet of the eladrin, the eladrin magically\
+      \ causes the attack to miss, provided the eladrin can see the attacker."
     "name": "Foster Peace"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/autumn-eladrin-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/autumn-eladrin-mpmm.webp"
 ```
 ^statblock
 

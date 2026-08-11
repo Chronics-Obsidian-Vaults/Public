@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/warlock
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/6th-level
 - source/spell/school/necromancy
 - source/spell/subclass/arcana-domain
@@ -17,7 +19,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Eyebite
+- "Eyebite"
 level: 6
 school: necromancy
 ritual: false
@@ -41,11 +43,11 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 ## Asleep
 
-The target falls [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious). It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
+The target falls [unconscious](Rules/conditions.md#Unconscious). It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
 ## Panicked
 
-The target is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) of you. On each of its turns, the [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) creature must take the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash) action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
+The target is [frightened](Rules/conditions.md#Frightened) of you. On each of its turns, the [frightened](Rules/conditions.md#Frightened) creature must take the [Dash](Rules/actions.md#Dash) action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 ## Sickened
 
@@ -53,6 +55,6 @@ The target has disadvantage on attack rolls and ability checks. At the end of ea
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

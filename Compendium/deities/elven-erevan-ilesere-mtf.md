@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/elven
 - source/domain/trickery
-aliases: 
-- Erevan Ilesere
+aliases:
+- "Erevan Ilesere"
 ---
 # Erevan Ilesere
 *Source: Mordenkainen's Tome of Foes p. 43* 

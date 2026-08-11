@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Supplemental Tables; Alignment
+- "Supplemental Tables; Alignment"
 ---
 # Supplemental Tables; Alignment
 *Source: Xanathar's Guide to Everything p. 72* 

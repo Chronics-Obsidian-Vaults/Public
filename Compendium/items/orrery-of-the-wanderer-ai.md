@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/attunement/required
 - source/item/rarity/artifact
 - source/item/wondrous/other
-aliases: 
+aliases:
 - "Orrery of the Wanderer"
 item_type: wondrous
 item_subtype: other
@@ -15,7 +16,7 @@ attunement: required
 ---
 # Orrery of the Wanderer
 *Wondrous item, other, artifact (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/orrery-of-the-wanderer.webp#right)
+![](Compendium/items/img/orrery-of-the-wanderer.webp#right)
 
 
 This delicate and exquisitely crafted clockwork orrery features multiple geared components whose sweeping hands and dials represent the complex interplay of planar and magical realms. Standing two feet high, the orrery housing is a wondrous device imbued with magic of its own, but the power of its six clockwork components makes the artifact even more potent.
@@ -26,9 +27,9 @@ To prevent the orrery from ever being so used, Lottie scattered the components t
 
 Random Properties. The orrery has the following randomly determined properties:
 
-- 2 [minor beneficial properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-beneficial-properties.md)  
-- 1 [major detrimental properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-detrimental-properties.md)  
+- 2 [minor beneficial properties](Compendium/tables/artifact-properties-minor-beneficial-properties.md)  
+- 1 [major beneficial property](Compendium/tables/artifact-properties-major-beneficial-properties.md)  
+- 1 [major detrimental properties](Compendium/tables/artifact-properties-major-detrimental-properties.md)  
 
 The random properties of the orrery might function only when all its components are installed, or might function sporadically if any components are missing.
 
@@ -36,12 +37,12 @@ The random properties of the orrery might function only when all its components 
 
 Each of the six components that powers the Orrery of the Wanderer is a powerful magic relic in its own right:
 
-The [chronolometer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chronolometer-ai.md)  
-The [dimensional loop](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dimensional-loop-ai.md)  
-The [far gear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/far-gear-ai.md)  
-The [rotor of return](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rotor-of-return-ai.md)  
-The [timepiece of travel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/timepiece-of-travel-ai.md)  
-The [wheel of stars](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wheel-of-stars-ai.md)  
+The [chronolometer](Compendium/items/chronolometer-ai.md)  
+The [dimensional loop](Compendium/items/dimensional-loop-ai.md)  
+The [far gear](Compendium/items/far-gear-ai.md)  
+The [rotor of return](Compendium/items/rotor-of-return-ai.md)  
+The [timepiece of travel](Compendium/items/timepiece-of-travel-ai.md)  
+The [wheel of stars](Compendium/items/wheel-of-stars-ai.md)  
 
 Creatures can attune to the orrery's components individually. If attuned to an individual component, a creature must hold the component to make use of its features. A creature can also attune to the orrery and all the components installed in it. Attuning to an installed component doesn't count against the number of magic items you can normally attune to.
 
@@ -57,6 +58,6 @@ With or without its components, the attuned orrery infuses your spirit with the 
 
 ## Master of Travel
 
-While all six components of the Orrery of the Wanderer are installed, the artifact has 7 charges. While touching the orrery, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 17): [contact other plane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contact-other-plane.md) (3 charges), [demiplane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/demiplane.md) (6 charges), [gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gate.md) (7 charges), [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md) (5 charges), or [teleportation circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleportation-circle.md) (3 charges). The orrery regains `1d4 + 4` expended charges daily at dawn.
+While all six components of the Orrery of the Wanderer are installed, the artifact has 7 charges. While touching the orrery, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 17): [contact other plane](Compendium/spells/contact-other-plane.md) (3 charges), [demiplane](Compendium/spells/demiplane.md) (6 charges), [gate](Compendium/spells/gate.md) (7 charges), [plane shift](Compendium/spells/plane-shift.md) (5 charges), or [teleportation circle](Compendium/spells/teleportation-circle.md) (3 charges). The orrery regains `1d4 + 4` expended charges daily at dawn.
 
 *Source: Acquisitions Incorporated p. 220*

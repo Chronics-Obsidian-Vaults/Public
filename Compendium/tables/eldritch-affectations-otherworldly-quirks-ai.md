@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Eldritch Affectations; Otherworldly Quirks
+- "Eldritch Affectations; Otherworldly Quirks"
 ---
 # Eldritch Affectations; Otherworldly Quirks
 *Source: Acquisitions Incorporated p. 69* 

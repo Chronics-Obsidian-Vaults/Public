@@ -7,23 +7,21 @@ tags:
 - source/object/size/large
 - source/object/type/siege-weapon
 aliases:
-- Suspended Cauldron
+- "Suspended Cauldron"
 ---
 # Suspended Cauldron
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide p. 255*  
+*Source: Dungeon Master's Guide p. 255* 
 
 A cauldron is an iron pot suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled-and its contents must usually be reheated-before it can be used again. It takes three actions to fill a cauldron and one action to tip it.
 
-Cauldrons can be filled with other liquids, such as acid or [green slime](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/green-slime.md), with different effects.
-
+Cauldrons can be filled with other liquids, such as acid or [green slime](Compendium/traps-hazards/green-slime.md), with different effects.
 ```ad-statblock
 title: Suspended Cauldron
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/objects/token/suspended-cauldron.webp#token)
+![](Compendium/objects/token/suspended-cauldron.webp#token)
 *Large Siege weapon*
 
-- **Armor Class** 19
-- **Hit Points** 20
+- **Armor Class** 19 
+- **Hit Points** 20 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

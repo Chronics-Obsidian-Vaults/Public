@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Libram of Souls and Flesh"
 item_type: 
 item_subtype: 
@@ -13,12 +15,12 @@ rarity: rare
 attunement: required
 ---
 # Libram of Souls and Flesh
-*Wondrous item, rare (requires attunement by a wizard)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 
 - **Weight**: 3.0 lbs.
 
-With covers made of skin and fittings of bone, this tome is cold to the touch, and it whispers faintly. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md), [circle of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-death.md), [false life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/false-life.md), [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md), [speak with dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md), [summon undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-undead-tce.md), and [vampiric touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vampiric-touch.md). It functions as a spellbook for you.
+With covers made of skin and fittings of bone, this tome is cold to the touch, and it whispers faintly. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [animate dead](Compendium/spells/animate-dead.md), [circle of death](Compendium/spells/circle-of-death.md), [false life](Compendium/spells/false-life.md), [finger of death](Compendium/spells/finger-of-death.md), [speak with dead](Compendium/spells/speak-with-dead.md), [summon undead](Compendium/spells/summon-undead-tce.md), and [vampiric touch](Compendium/spells/vampiric-touch.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

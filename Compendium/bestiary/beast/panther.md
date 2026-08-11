@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Panther
+- "Panther"
 ---
-# [Panther](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/panther.md)
+# [Panther](Compendium/bestiary/beast/panther.md)
 *Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -35,22 +36,22 @@ aliases:
   - !!int "7"
 "speed": "50 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The panther has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The panther has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "If the panther moves at least 20 feet straight toward a creature and\
       \ then hits it with a claw attack on the same turn, that target must succeed\
-      \ on a DC 12 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ If the target is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ the panther can make one bite attack against it as a bonus action."
+      \ on a DC 12 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
+      \ If the target is [prone](Rules/conditions.md#Prone), the panther can make\
+      \ one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
@@ -61,7 +62,7 @@ aliases:
     "name": "Claw"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/panther.webp"
+"image": "Compendium/bestiary/beast/token/panther.webp"
 ```
 ^statblock
 

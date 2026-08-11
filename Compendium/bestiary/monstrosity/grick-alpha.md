@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/7
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grick Alpha
+- "Grick Alpha"
 ---
-# [Grick Alpha](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/grick-alpha.md)
+# [Grick Alpha](Compendium/bestiary/monstrosity/grick-alpha.md)
 *Source: Monster Manual p. 173*  
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -49,12 +50,11 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
   - !!int "9"
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": ""
 "cr": "7"
 "traits":
-  - "desc": "The grick has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The grick has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
@@ -73,7 +73,7 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
     "name": "Beak"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/grick-alpha.webp"
+"image": "Compendium/bestiary/monstrosity/token/grick-alpha.webp"
 ```
 ^statblock
 

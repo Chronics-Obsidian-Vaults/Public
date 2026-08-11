@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Chamber Purpose; Dungeon: Lair
+- "Chamber Purpose; Dungeon: Lair"
 ---
 # Chamber Purpose; Dungeon: Lair
 *Source: Dungeon Master's Guide p. 292* 

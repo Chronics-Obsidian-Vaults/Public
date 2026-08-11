@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -15,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Berserker
+- "Berserker"
 ---
-# [Berserker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/berserker.md)
-*Source: Monster Manual p. 344, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Berserker](Compendium/bestiary/humanoid/berserker.md)
+*Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
 
@@ -29,7 +30,7 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 "subtype": "any race"
 "alignment": "Any Chaotic alignment"
 "ac": !!int "13"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -41,6 +42,8 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
   - !!int "11"
   - !!int "9"
 "speed": "30 ft."
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "2"
@@ -55,10 +58,7 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
     "name": "Greataxe"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/berserker.webp"
+"image": "Compendium/bestiary/humanoid/token/berserker.webp"
 ```
 ^statblock
 

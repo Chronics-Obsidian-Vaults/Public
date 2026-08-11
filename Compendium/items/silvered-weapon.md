@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/age/futuristic
@@ -13,7 +14,7 @@ tags:
 - source/item/weapon/ranged
 - source/item/weapon/simple
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Silvered Weapon"
 - "Silvered Antimatter Rifle"
 - "Silvered Automatic Pistol"
@@ -135,7 +136,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 100 gp
 - **Weight**: 10.0 lbs.
 
@@ -143,7 +144,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 100 gp
 - **Weight**: 3.0 lbs.
 
@@ -151,7 +152,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Burst Fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Burst%20Fire), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Burst Fire](Rules/item-properties.md#Burst%20Fire), [Reload](Rules/item-properties.md#Reload), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 100 gp
 - **Weight**: 8.0 lbs.
 
@@ -160,7 +161,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Versatile](Rules/item-properties.md#Versatile)
 - **Cost**: 110 gp
 - **Weight**: 4.0 lbs.
 
@@ -168,14 +169,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 110 gp
 - **Weight**: 1.0 lbs.
 
 ### Silvered Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Light](Rules/item-properties.md#Light), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 100 gp, 1 sp
 - **Weight**: 2.0 lbs.
 
@@ -183,7 +184,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Thrown](Rules/item-properties.md#Thrown)
 - **Cost**: 102 gp
 - **Weight**: 1.0 lbs.
 
@@ -191,56 +192,56 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Thrown](Rules/item-properties.md#Thrown)
 - **Cost**: 100 gp, 5 cp
 - **Weight**: 0.25 lbs.
 
 ### Silvered Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Cost**: 200 gp
 - **Weight**: 6.0 lbs.
 
 ### Silvered Flail
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 110 gp
 - **Weight**: 2.0 lbs.
 
 ### Silvered Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 120 gp
 - **Weight**: 6.0 lbs.
 
 ### Silvered Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 130 gp
 - **Weight**: 7.0 lbs.
 
 ### Silvered Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 100 gp, 2 sp
 - **Weight**: 10.0 lbs.
 
 ### Silvered Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 150 gp
 - **Weight**: 6.0 lbs.
 
 ### Silvered Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 120 gp
 - **Weight**: 6.0 lbs.
 
@@ -248,7 +249,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Light](Rules/item-properties.md#Light), [Loading](Rules/item-properties.md#Loading), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 175 gp
 - **Weight**: 3.0 lbs.
 
@@ -256,7 +257,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Light](Rules/item-properties.md#Light), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Thrown](Rules/item-properties.md#Thrown)
 - **Cost**: 105 gp
 - **Weight**: 2.0 lbs.
 
@@ -264,14 +265,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Loading](Rules/item-properties.md#Loading), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 150 gp
 - **Weight**: 18.0 lbs.
 
 ### Silvered Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Light](Rules/item-properties.md#Light), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 100 gp
 - **Weight**: 2.0 lbs.
 
@@ -279,7 +280,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Finesse](Rules/item-properties.md#Finesse), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Cost**: 100 gp, 1 sp
 - **Weight**: 2.0 lbs.
 
@@ -287,7 +288,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 100 gp
 - **Weight**: 8.0 lbs.
 
@@ -295,14 +296,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Thrown](Rules/item-properties.md#Thrown)
 - **Cost**: 100 gp, 5 sp
 - **Weight**: 2.0 lbs.
 
 ### Silvered Lance
 
 - **Damage**: 1d12 piercing
-- **Properties**: [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Reach](Rules/item-properties.md#Reach), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [special](Rules/item-properties.md#Special%20Weapons)
 - **Cost**: 110 gp
 - **Weight**: 6.0 lbs.
 
@@ -310,7 +311,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 100 gp
 - **Weight**: 2.0 lbs.
 
@@ -318,7 +319,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 100 gp
 - **Weight**: 7.0 lbs.
 
@@ -326,7 +327,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 125 gp
 - **Weight**: 5.0 lbs.
 
@@ -334,7 +335,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Light](Rules/item-properties.md#Light), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Thrown](Rules/item-properties.md#Thrown)
 - **Cost**: 102 gp
 - **Weight**: 2.0 lbs.
 
@@ -342,7 +343,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 100 gp
 - **Weight**: 5.0 lbs.
 
@@ -350,7 +351,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 150 gp
 - **Weight**: 2.0 lbs.
 
@@ -359,28 +360,28 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Versatile](Rules/item-properties.md#Versatile)
 - **Cost**: 115 gp
 - **Weight**: 3.0 lbs.
 
 ### Silvered Mace
 
 - **Damage**: 1d6 bludgeoning
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 105 gp
 - **Weight**: 4.0 lbs.
 
 ### Silvered Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 110 gp
 - **Weight**: 10.0 lbs.
 
 ### Silvered Morningstar
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 115 gp
 - **Weight**: 4.0 lbs.
 
@@ -388,14 +389,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 600 gp
 - **Weight**: 10.0 lbs.
 
 ### Silvered Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 105 gp
 - **Weight**: 18.0 lbs.
 
@@ -403,7 +404,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 350 gp
 - **Weight**: 3.0 lbs.
 
@@ -412,14 +413,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Versatile](Rules/item-properties.md#Versatile)
 - **Cost**: 100 gp, 2 sp
 - **Weight**: 4.0 lbs.
 
 ### Silvered Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 125 gp
 - **Weight**: 2.0 lbs.
 
@@ -427,14 +428,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 100 gp
 - **Weight**: 3.0 lbs.
 
 ### Silvered Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 125 gp
 - **Weight**: 3.0 lbs.
 
@@ -442,14 +443,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 125 gp
 - **Weight**: 2.0 lbs.
 
 ### Silvered Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 110 gp
 - **Weight**: 2.0 lbs.
 
@@ -457,14 +458,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 100 gp
 - **Weight**: 7.0 lbs.
 
 ### Silvered Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Light](Rules/item-properties.md#Light), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 101 gp
 - **Weight**: 2.0 lbs.
 
@@ -472,7 +473,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 100 gp, 1 sp
 
 ### Silvered Spear
@@ -481,7 +482,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Thrown](Rules/item-properties.md#Thrown), [Versatile](Rules/item-properties.md#Versatile)
 - **Cost**: 101 gp
 - **Weight**: 3.0 lbs.
 
@@ -491,14 +492,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Thrown](Rules/item-properties.md#Thrown), [Versatile](Rules/item-properties.md#Versatile)
 - **Cost**: 105 gp
 - **Weight**: 4.0 lbs.
 
 ### Silvered War Pick
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 105 gp
 - **Weight**: 2.0 lbs.
 
@@ -507,14 +508,14 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Versatile](Rules/item-properties.md#Versatile)
 - **Cost**: 115 gp
 - **Weight**: 2.0 lbs.
 
 ### Silvered Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Reach](Rules/item-properties.md#Reach), [Silvered](Rules/item-properties.md#Silvered%20Weapons)
 - **Cost**: 102 gp
 - **Weight**: 3.0 lbs.
 
@@ -522,7 +523,7 @@ Some monsters that have immunity or resistance to nonmagical weapons are suscept
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Silvered](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Silvered%20Weapons), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Silvered](Rules/item-properties.md#Silvered%20Weapons), [Thrown](Rules/item-properties.md#Thrown)
 - **Cost**: 101 gp
 - **Weight**: 3.0 lbs.
 

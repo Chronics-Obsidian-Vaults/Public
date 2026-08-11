@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Joining the Gruul Clans; Gruul Clan Options
+- "Joining the Gruul Clans; Gruul Clan Options"
 ---
 # Joining the Gruul Clans; Gruul Clan Options
 *Source: Guildmasters' Guide to Ravnica p. 59* 

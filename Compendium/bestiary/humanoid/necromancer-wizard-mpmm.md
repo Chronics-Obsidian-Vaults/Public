@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/9
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Necromancer Wizard
+- "Necromancer Wizard"
 ---
-# [Necromancer Wizard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/necromancer-wizard-mpmm.md)
+# [Necromancer Wizard](Compendium/bestiary/humanoid/necromancer-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217*  
 
 Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
@@ -28,7 +29,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "110"
 "hit_dice": "20d8 + 20"
 "modifier": !!int "2"
@@ -44,9 +45,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - "intelligence": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+7"
 "damage_resistances": "necrotic"
 "senses": "passive Perception 11"
@@ -59,22 +60,19 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ ft., one target. *Hit:* 25 (4d10 + 3) necrotic damage."
     "name": "Arcane Burst"
   - "desc": "The necromancer casts one of the following spells, using Intelligence\
-      \ as the spellcasting ability (spell save DC 15):\n\n**At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**2/day each:** [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md),\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md)\n\
-      \n**1/day each:** [circle of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-death.md)"
+      \ as the spellcasting ability (spell save DC 15):\n\n**At will:** [dancing lights](Compendium/spells/dancing-lights.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**2/day each:** [bestow curse](Compendium/spells/bestow-curse.md), [dimension\
+      \ door](Compendium/spells/dimension-door.md), [mage armor](Compendium/spells/mage-armor.md),\
+      \ [web](Compendium/spells/web.md)\n\n**1/day each:** [circle of death](Compendium/spells/circle-of-death.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The necromancer magically summons five [skeletons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/skeleton.md)\
-      \ or [zombies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/zombie.md).\
-      \ The summoned creatures appear in unoccupied spaces within 60 feet of the necromancer,\
-      \ whom they obey. They take their turns immediately after the necromancer. Each\
-      \ lasts for 1 hour, until it or the necromancer dies, or until the necromancer\
-      \ dismisses it as a bonus action."
+  - "desc": "The necromancer magically summons five [skeletons](Compendium/bestiary/undead/skeleton.md)\
+      \ or [zombies](Compendium/bestiary/undead/zombie.md). The summoned creatures\
+      \ appear in unoccupied spaces within 60 feet of the necromancer, whom they obey.\
+      \ They take their turns immediately after the necromancer. Each lasts for 1\
+      \ hour, until it or the necromancer dies, or until the necromancer dismisses\
+      \ it as a bonus action."
     "name": "Summon Undead (1/Day)"
 "reactions":
   - "desc": "When the necromancer kills a creature with necrotic damage, the necromancer\
@@ -83,7 +81,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/necromancer-wizard-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/necromancer-wizard-mpmm.webp"
 ```
 ^statblock
 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/rarity/uncommon
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Puzzler's Wit"
 item_type: wondrous
 item_subtype: ring

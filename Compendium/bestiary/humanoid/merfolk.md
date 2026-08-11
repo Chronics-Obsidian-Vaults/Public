@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merfolk
+- "Merfolk"
 ---
-# [Merfolk](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/merfolk.md)
+# [Merfolk](Compendium/bestiary/humanoid/merfolk.md)
 *Source: Monster Manual p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
@@ -47,8 +48,10 @@ Merfolk defend their communities with spears crafted from whatever materials the
   - !!int "12"
 "speed": "10 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
 "cr": "1/8"
@@ -62,7 +65,7 @@ Merfolk defend their communities with spears crafted from whatever materials the
     "name": "Spear"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/merfolk.webp"
+"image": "Compendium/bestiary/humanoid/token/merfolk.webp"
 ```
 ^statblock
 

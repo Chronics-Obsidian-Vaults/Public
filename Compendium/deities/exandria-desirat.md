@@ -7,8 +7,8 @@ tags:
 - source/deity/exandria
 - source/domain/light
 - source/domain/trickery
-aliases: 
-- Desirat
+aliases:
+- "Desirat"
 ---
 # Desirat
 *Source: Explorer's Guide to Wildemount p. 31* 

@@ -5,31 +5,31 @@ cssclasses:
 tags:
 - source/spell/list/subclass/twilight-domain
 aliases:
-- Spells for Twilight Domain
+- "Spells for Twilight Domain"
 ---
 # Spells for Twilight Domain
 
 ## 1st Level
 
-- [Faerie Fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md "PHB") at class level 7
-- [Sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md "PHB") at class level 7
+- [Faerie Fire](Compendium/spells/faerie-fire.md "PHB")
+- [Sleep](Compendium/spells/sleep.md "PHB")
 
 ## 2nd Level
 
-- [Moonbeam](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/moonbeam.md "PHB") at class level 7
-- [See Invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/see-invisibility.md "PHB") at class level 7
+- [Moonbeam](Compendium/spells/moonbeam.md "PHB") at class level 3
+- [See Invisibility](Compendium/spells/see-invisibility.md "PHB") at class level 3
 
 ## 3rd Level
 
-- [Aura of Vitality](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-vitality.md "PHB") at class level 7
-- [Leomund's Tiny Hut](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/leomunds-tiny-hut.md "PHB") at class level 7
+- [Aura of Vitality](Compendium/spells/aura-of-vitality.md "PHB") at class level 5
+- [Leomund's Tiny Hut](Compendium/spells/leomunds-tiny-hut.md "PHB") at class level 5
 
 ## 4th Level
 
-- [Aura of Life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-life.md "PHB") at class level 7
-- [Greater Invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md "PHB") at class level 7
+- [Aura of Life](Compendium/spells/aura-of-life.md "PHB") at class level 7
+- [Greater Invisibility](Compendium/spells/greater-invisibility.md "PHB") at class level 7
 
 ## 5th Level
 
-- [Circle of Power](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-power.md "PHB") at class level 7
-- [Mislead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mislead.md "PHB") at class level 7
+- [Circle of Power](Compendium/spells/circle-of-power.md "PHB") at class level 9
+- [Mislead](Compendium/spells/mislead.md "PHB") at class level 9

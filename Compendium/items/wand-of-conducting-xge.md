@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/rarity/common
 - source/item/tier/minor
 - source/item/wondrous/wand
-aliases: 
+aliases:
 - "Wand of Conducting"
 item_type: wondrous
 item_subtype: wand

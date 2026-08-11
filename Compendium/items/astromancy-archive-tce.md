@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Astromancy Archive"
 item_type: 
 item_subtype: 
@@ -13,12 +15,12 @@ rarity: rare
 attunement: required
 ---
 # Astromancy Archive
-*Wondrous item, rare (requires attunement by a wizard)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 
 - **Weight**: 3.0 lbs.
 
-This brass disc of articulated, concentric rings unfolds into an armillary sphere. As a bonus action, you can unfold it into the sphere or back into a disc. When found, it contains the following spells, which are wizard spells for you while you are attuned to it: [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md), [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md), [find the path](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/find-the-path.md), [foresight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/foresight.md), [locate creature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-creature.md), and [locate object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md). It functions as a spellbook for you, with spells encoded on the rings.
+This brass disc of articulated, concentric rings unfolds into an armillary sphere. As a bonus action, you can unfold it into the sphere or back into a disc. When found, it contains the following spells, which are wizard spells for you while you are attuned to it: [augury](Compendium/spells/augury.md), [divination](Compendium/spells/divination.md), [find the path](Compendium/spells/find-the-path.md), [foresight](Compendium/spells/foresight.md), [locate creature](Compendium/spells/locate-creature.md), and [locate object](Compendium/spells/locate-object.md). It functions as a spellbook for you, with spells encoded on the rings.
 
 While you are holding the archive, you can use it as a spellcasting focus for your wizard spells.
 

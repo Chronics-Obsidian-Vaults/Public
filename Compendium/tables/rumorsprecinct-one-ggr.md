@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Rumors—Precinct One
+- "Rumors—Precinct One"
 ---
 # Rumors—Precinct One
 *Source: Guildmasters' Guide to Ravnica p. 105* 

@@ -7,14 +7,14 @@ tags:
 - source/deity/faerunian
 - source/domain/death
 - source/domain/grave
-aliases: 
-- Kelemvor
-- The Lord of the Dead
-- The Judge of the Damned
+aliases:
+- "Kelemvor"
+- "The Lord of the Dead"
+- "The Judge of the Damned"
 ---
 # Kelemvor
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 19* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-kelemvor.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-kelemvor.webp#symbol)
 
 - **Alternate Names**: The Lord of the Dead, The Judge of the Damned
 - **Alignment**: Lawful Neutral

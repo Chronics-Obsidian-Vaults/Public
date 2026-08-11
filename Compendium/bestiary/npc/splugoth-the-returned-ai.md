@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Splugoth the Returned
+- "Splugoth the Returned"
 ---
-# [Splugoth the Returned](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/splugoth-the-returned-ai.md)
+# [Splugoth the Returned](Compendium/bestiary/npc/splugoth-the-returned-ai.md)
 *Source: Acquisitions Incorporated p. 213*  
 
 > [!quote]  
@@ -45,22 +46,23 @@ Every once in a while, the (accidentally) capricious and (totally unintentionall
   - "intelligence": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Draconic, Elvish, Goblin"
 "cr": "2"
 "traits":
   - "desc": "As long as two or more of Splugoth's allies are within 5 feet of him\
-      \ and are not [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
-      \ attack rolls against him are made with disadvantage."
+      \ and are not [incapacitated](Rules/conditions.md#Incapacitated), attack rolls\
+      \ against him are made with disadvantage."
     "name": "Defensive Advantage"
-  - "desc": "Splugoth can take the Disengage or Hide action as a bonus action on each\
-      \ of his turns."
+  - "desc": "Splugoth can take the [Disengage](Rules/actions.md#Disengage) or [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action on each of his turns."
     "name": "Nimble Escape"
-  - "desc": "Splugoth has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+  - "desc": "Splugoth has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed)\
+      \ or [frightened](Rules/conditions.md#Frightened)."
     "name": "Touch of Madness"
 "actions":
   - "desc": "Splugoth makes two attacks with his dagger."
@@ -71,20 +73,20 @@ Every once in a while, the (accidentally) capricious and (totally unintentionall
   - "desc": "Splugoth remembers and repeats aloud a few words from a place he entered\
       \ while walking back from the next world to this one. Each creature of his choice\
       \ within 30 feet of him that can hear him must succeed on a DC 12 Wisdom saving\
-      \ throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the end of its next turn."
+      \ throw or be [stunned](Rules/conditions.md#Stunned) until the end of its next\
+      \ turn."
     "name": "Word From Beyond (1/Day)"
 "reactions":
   - "desc": "When a creature Splugoth can see hits him with a melee weapon attack,\
       \ the weapon snags on a pocket of residual resurrectional energy and is caught\
       \ fast. The attack is negated and the weapon cannot be used until the creature\
-      \ succeeds on a DC 12 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics))\
-      \ check as an action to pull it out of Splugoth. Natural weapons can have their\
-      \ attacks negated by this feature, but can then be retracted automatically at\
-      \ the end of the attacking creature's turn."
+      \ succeeds on a DC 12 Strength ([Athletics](Rules/skills.md#Athletics)) check\
+      \ as an action to pull it out of Splugoth. Natural weapons can have their attacks\
+      \ negated by this feature, but can then be retracted automatically at the end\
+      \ of the attacking creature's turn."
     "name": "Absorb Attack"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/splugoth-the-returned-ai.webp"
+"image": "Compendium/bestiary/npc/token/splugoth-the-returned-ai.webp"
 ```
 ^statblock

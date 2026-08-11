@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/phb
 - source/race/dragonborn
 aliases:
-- Dragonborn
+- "Dragonborn"
 ---
 # Dragonborn
 *Source: Player's Handbook p. 32. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/dragonborn.webp#right)
+![](Compendium/races/img/dragonborn.webp#right)
 
 - **Ability Scores**: str +2 cha +1
 - **Size**: Medium
@@ -85,7 +86,7 @@ Dragonborn have personal names given at birth, but they put their clan names fir
 
 - **Male Names.** Arjhan, Balasar, Bharash, Donaar, Ghesh, Hesken, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn  
 - **Female Names.** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit  
-- **Childhood Names.** Climber, Earbenden Leaper, Pious, Shieldbiter, Zealous  
+- **Childhood Names.** Climber, Earbenden, Leaper, Pious, Shieldbiter, Zealous  
 - **Clan Names.** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit  
 
 > [!note] Draconians

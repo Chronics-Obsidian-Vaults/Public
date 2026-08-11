@@ -1,15 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/egw
 - source/spell/class/bard/magical-secrets
 - source/spell/level/2nd-level
 - source/spell/school/divination
+- source/spell/subclass/chronurgy-magic
+- source/spell/subclass/graviturgy-magic
 classes:
 - Bard (Magical Secrets)
+- Wizard (Chronurgy Magic)
+- Wizard (Graviturgy Magic)
 aliases:
-- Fortune's Favor
+- "Fortune's Favor"
 level: 2
 school: divination
 ritual: false
@@ -35,6 +40,6 @@ If the original `d20` roll has advantage or disadvantage, the creature rolls the
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Wizard (Chronurgy Magic)](Compendium/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW"); [Wizard (Graviturgy Magic)](Compendium/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW")
 
 *Source: Explorer's Guide to Wildemount p. 186*

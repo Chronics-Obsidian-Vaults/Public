@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/rogue/mastermind
 aliases:
-- Mastermind
+- "Mastermind"
 ---
 # Mastermind
 *[Rogue](./rogue.md): Roguish Archetype*  
@@ -43,26 +43,25 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/rogue.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
 > Oh, please. If anyone is a mastermind around here, it's me. You're like a master doofus or a master dummy. No, you are!
 
-## Class Features
-
-### Mastermind (Level 3)
-
 Your focus is on people and on the influence and secrets they have. Many spies, courtiers, and schemers follow this archetype, leading lives of intrigue. Words are your weapons as often as knives or poison, and secrets and favors are some of your favorite treasures.
+
+## Subclass Features
 
 ### Master of Intrigue (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency with the [disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md), the [forgery kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/forgery-kit.md), and one [gaming set](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/gaming-set.md) of your choice. You also learn two languages of your choice.
+When you choose this archetype at 3rd level, you gain proficiency with the [disguise kit](Compendium/items/disguise-kit.md), the [forgery kit](Compendium/items/forgery-kit.md), and one [gaming set](Compendium/items/gaming-set.md) of your choice. You also learn two languages of your choice.
 
 Additionally, you can unerringly mimic the speech patterns and accent of a creature that you hear speak for at least 1 minute, enabling you to pass yourself off as a native speaker of a particular land, provided that you know the language.
 
 ### Master of Tactics (Level 3)
 
-Starting at 3rd level, you can use the [Help](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Help) action as a bonus action. Additionally, when you use the [Help](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Help) action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if the target can see or hear you.
+Starting at 3rd level, you can use the [Help](Rules/actions.md#Help) action as a bonus action. Additionally, when you use the [Help](Rules/actions.md#Help) action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you, if the target can see or hear you.
 
 ### Insightful Manipulator (Level 9)
 
@@ -81,6 +80,6 @@ Beginning at 13th level, you can sometimes cause another creature to suffer an a
 
 ### Soul of Deceit (Level 17)
 
-Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)) check contested by the mind reader's Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check.
+Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma ([Deception](Rules/skills.md#Deception)) check contested by the mind reader's Wisdom ([Insight](Rules/skills.md#Insight)) check.
 
 Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.

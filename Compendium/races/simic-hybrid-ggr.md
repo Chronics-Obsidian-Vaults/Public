@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/ggr
 - source/race/simic-hybrid
 aliases:
-- Simic Hybrid
+- "Simic Hybrid"
 ---
 # Simic Hybrid
 *Source: Guildmasters' Guide to Ravnica p. 20*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/simic-hybrid.webp#right)
+![](Compendium/races/img/simic-hybrid.webp#right)
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Intelligence, Wisdom, or Charisma.
 - **Size**: Medium
@@ -43,7 +44,7 @@ Your body has been altered to incorporate certain animal characteristics. You ch
 
 At 1st level, choose one of the following options:
 
-- **Manta Glide.** You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.  
+- **Manta Glide.** You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't [incapacitated](Rules/conditions.md#Incapacitated), you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.  
 - **Nimble Climber.** You have a climbing speed equal to your walking speed.  
 - **Underwater Adaptation.** You can breathe air and water, and you have a swimming speed equal to your walking speed.  
 

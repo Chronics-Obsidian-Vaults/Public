@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Secondary Tables; Crime
+- "Secondary Tables; Crime"
 ---
 # Secondary Tables; Crime
 *Source: Xanathar's Guide to Everything p. 70* 

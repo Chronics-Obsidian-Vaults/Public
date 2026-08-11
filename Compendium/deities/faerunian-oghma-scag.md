@@ -6,14 +6,14 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/knowledge
-aliases: 
-- Oghma
-- The Binder
-- The Lord of Knowledge
+aliases:
+- "Oghma"
+- "The Binder"
+- "The Lord of Knowledge"
 ---
 # Oghma
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-oghma.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-oghma.webp#symbol)
 
 - **Alternate Names**: The Binder, The Lord of Knowledge
 - **Alignment**: Neutral

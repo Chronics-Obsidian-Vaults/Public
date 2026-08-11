@@ -7,8 +7,8 @@ tags:
 - source/deity/norse
 - source/domain/knowledge
 - source/domain/war
-aliases: 
-- Odin
+aliases:
+- "Odin"
 ---
 # Odin
 *Source: Player's Handbook p. 299* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/6
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Annis Hag
+- "Annis Hag"
 ---
-# [Annis Hag](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/annis-hag-mpmm.md)
+# [Annis Hag](Compendium/bestiary/fey/annis-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159*  
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
@@ -22,7 +23,7 @@ Annis hags leave tokens of their cruelty at the edges of forests and other areas
 
 When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds—starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
-Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([ogres](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/ogre.md) and [trolls](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/troll.md)), ruling them through brute strength, insults, and superstition.
+Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([ogres](Compendium/bestiary/giant/ogre.md) and [trolls](Compendium/bestiary/giant/troll.md)), ruling them through brute strength, insults, and superstition.
 
 ## Iron Token
 
@@ -53,13 +54,12 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 "saves":
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "cold"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "Common, Giant, Sylvan"
 "cr": "6"
 "actions":
@@ -72,20 +72,20 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
       \ (3d6 + 5) slashing damage."
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 36\
-      \ (9d6 + 5) bludgeoning damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ (9d6 + 5) bludgeoning damage, and the target is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 15) if it is a Large or smaller creature. Until the grapple ends,\
       \ the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the\
       \ hag's turns. The hag can't make attacks while grappling a creature in this\
       \ way."
     "name": "Crushing Hug"
   - "desc": "The hag casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 13):\n\n**3/day each:** [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)\
-      \ (including the form of a Medium Humanoid), [Fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md)"
+      \ ability (spell save DC 13):\n\n**3/day each:** [disguise self](Compendium/spells/disguise-self.md)\
+      \ (including the form of a Medium Humanoid), [Fog cloud](Compendium/spells/fog-cloud.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/annis-hag-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/annis-hag-mpmm.webp"
 ```
 ^statblock
 

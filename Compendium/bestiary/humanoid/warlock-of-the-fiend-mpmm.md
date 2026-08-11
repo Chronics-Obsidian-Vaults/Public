@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/7
@@ -13,12 +14,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warlock of the Fiend
+- "Warlock of the Fiend"
 ---
-# [Warlock of the Fiend](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/warlock-of-the-fiend-mpmm.md)
+# [Warlock of the Fiend](Compendium/bestiary/humanoid/warlock-of-the-fiend-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
 
-Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [imps](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/imp.md) or [quasits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/quasit.md) as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
+Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [imps](Compendium/bestiary/fiend/imp.md) or [quasits](Compendium/bestiary/fiend/quasit.md) as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
 
 ## Warlocks
 
@@ -30,7 +31,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "16 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "16 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -46,16 +47,17 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
   - "wisdom": !!int "4"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+7"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+7"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "any two languages (usually Abyssal or Infernal)"
 "cr": "7"
 "traits":
@@ -75,14 +77,11 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
       \ a failed save, or half as much damage on a successful one."
     "name": "Hellfire"
   - "desc": "The warlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 15): \n\n**At will:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\
-      \ (self only), [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1/day each:** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)"
+      \ spellcasting ability (spell save DC 15): \n\n**At will:** [alter self](Compendium/spells/alter-self.md),\
+      \ [mage armor](Compendium/spells/mage-armor.md) (self only), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**1/day each:** [banishment](Compendium/spells/banishment.md), [plane shift](Compendium/spells/plane-shift.md),\
+      \ [suggestion](Compendium/spells/suggestion.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "In response to being damaged by a visible creature within 60 feet of\
@@ -93,7 +92,7 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/warlock-of-the-fiend-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/warlock-of-the-fiend-mpmm.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Duergar Raiding Parties; Duergar Purpose of Raid
+- "Duergar Raiding Parties; Duergar Purpose of Raid"
 ---
 # Duergar Raiding Parties; Duergar Purpose of Raid
 *Source: Mordenkainen's Tome of Foes p. 83* 

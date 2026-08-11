@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/13
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Red Shadow Dragon
+- "Young Red Shadow Dragon"
 ---
-# [Young Red Shadow Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/young-red-shadow-dragon.md)
+# [Young Red Shadow Dragon](Compendium/bestiary/dragon/young-red-shadow-dragon.md)
 *Source: Monster Manual p. 85*  
 
 Shadow dragons are true dragons that were either born in the Shadowfell or transformed by years spent within its dismal confines. Some shadow dragons embrace the Shadowfell for its bleak landscapes and desolation. Others seek to return to the Material Plane, hungry to spread the darkness and evil of the Plane of Shadow.
@@ -41,7 +42,7 @@ The dragon has resistance to necrotic damage.
 
 ### Skill Proficiency: Stealth
 
-The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks.
+The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](Rules/skills.md#Stealth)) checks.
 
 ### Living Shadow
 
@@ -49,11 +50,11 @@ While in dim light or darkness, the dragon has resistance to damage that isn't f
 
 ### Shadow Stealth
 
-While in dim light or darkness, the dragon can take the [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide) action as a bonus action.
+While in dim light or darkness, the dragon can take the [Hide](Rules/actions.md#Hide) action as a bonus action.
 
 ### Sunlight Sensitivity
 
-While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on sight.
+While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight.
 
 ### New Action: Bite
 
@@ -87,14 +88,13 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
   - "wisdom": !!int "5"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+10"
 "damage_resistances": "necrotic"
 "damage_immunities": "fire"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "13"
@@ -102,12 +102,12 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
   - "desc": "While in dim light or darkness, the dragon has resistance to damage that\
       \ isn't force, psychic, or radiant."
     "name": "Living Shadow"
-  - "desc": "While in dim light or darkness, the dragon can take the Hide action as\
-      \ a bonus action."
+  - "desc": "While in dim light or darkness, the dragon can take the [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the dragon has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
@@ -121,13 +121,13 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
   - "desc": "The dragon exhales shadowy fire in a 30-foot cone. Each creature in that\
       \ area must make a DC 18 Dexterity saving throw, taking 56 (16d6) necrotic damage\
       \ on a failed save, or half as much damage on a successful one. A humanoid reduced\
-      \ to 0 hit points by this damage dies, and an undead [shadow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/shadow.md)\
+      \ to 0 hit points by this damage dies, and an undead [shadow](Compendium/bestiary/undead/shadow.md)\
       \ rises from its corpse and acts immediately after the dragon in the initiative\
       \ count. The shadow is under the dragon's control."
     "name": "Shadow Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/young-red-shadow-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/young-red-shadow-dragon.webp"
 ```
 ^statblock
 

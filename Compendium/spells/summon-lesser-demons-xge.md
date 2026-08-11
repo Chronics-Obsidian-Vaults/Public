@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -17,7 +18,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Summon Lesser Demons
+- "Summon Lesser Demons"
 level: 3
 school: conjuration
 ritual: false
@@ -46,7 +47,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 | 5-6 | Eight demons of challenge rating 1/4 or lower |
 ^demons-summoned
 
-The DM chooses the demons, such as [manes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/manes.md) or [dretches](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/dretch.md), and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
+The DM chooses the demons, such as [manes](Compendium/bestiary/fiend/manes.md) or [dretches](Compendium/bestiary/fiend/dretch.md), and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
 
 The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.
 
@@ -54,6 +55,6 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 167*

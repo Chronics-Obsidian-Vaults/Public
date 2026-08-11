@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Philanthropic Enterprise
+- "Downtime and Franchise Activity: Philanthropic Enterprise"
 ---
 # Downtime and Franchise Activity: Philanthropic Enterprise
 *Source: Acquisitions Incorporated p. 41* 
@@ -37,7 +37,7 @@ One character or staff member involved in the philanthropic enterprise makes an 
 
 A result of 1–5 on the Philanthropic Enterprise table automatically generates a complication. But the DM can decide that even success might have drawbacks, either choosing or rolling for a complication on the Philanthropic Enterprise Complications table.
 
-> [!quote] A quote from [Môrgæn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/morgn-ai.md)  
+> [!quote] A quote from [Môrgæn](Compendium/bestiary/npc/morgn-ai.md)  
 > 
 > People give away their money? For no reason? But how will they buy ale and arrows?
 

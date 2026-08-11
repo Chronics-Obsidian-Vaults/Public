@@ -8,8 +8,8 @@ tags:
 - source/domain/forge
 - source/domain/knowledge
 - source/domain/trickery
-aliases: 
-- Nebelun
+aliases:
+- "Nebelun"
 ---
 # Nebelun
 *Source: Mordenkainen's Tome of Foes p. 112* 

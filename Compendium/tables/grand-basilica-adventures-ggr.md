@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Grand Basilica Adventures
+- "Grand Basilica Adventures"
 ---
 # Grand Basilica Adventures
 *Source: Guildmasters' Guide to Ravnica p. 147* 

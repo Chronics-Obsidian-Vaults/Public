@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/very-rare
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Nolzur's Marvelous Pigments"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous item, minor, very rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/nolzurs-marvelous-pigments.webp#right)
+![](Compendium/items/img/nolzurs-marvelous-pigments.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/18
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sibriex
+- "Sibriex"
 ---
-# [Sibriex](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/sibriex-mpmm.md)
+# [Sibriex](Compendium/bestiary/fiend/sibriex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -44,18 +45,17 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   - "intelligence": !!int "13"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+13"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+13"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 23"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "18"
 "traits":
@@ -84,26 +84,22 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   - "desc": "The sibriex targets up to three creatures it can see within 120 feet\
       \ of it. Each target must make a DC 20 Constitution saving throw. On a successful\
       \ save, a creature becomes immune to this sibriex's Warp Creature. On a failed\
-      \ save, the target is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-      \ which causes it to also gain 1 level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion).\
-      \ While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way, the target must repeat the saving throw at the start of each\
-      \ of its turns. Three successful saves against the poison end it, and ending\
-      \ the poison removes any levels of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
+      \ save, the target is [poisoned](Rules/conditions.md#Poisoned), which causes\
+      \ it to also gain 1 level of [exhaustion](Rules/conditions.md#Exhaustion). While\
+      \ [poisoned](Rules/conditions.md#Poisoned) in this way, the target must repeat\
+      \ the saving throw at the start of each of its turns. Three successful saves\
+      \ against the poison end it, and ending the poison removes any levels of [exhaustion](Rules/conditions.md#Exhaustion)\
       \ caused by it. Each failed save causes the target to gain another level of\
-      \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion).\
-      \ Once the target reaches 6 levels of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-      \ it dies and instantly transforms into a living [manes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/manes.md)\
-      \ under the sibriex's control. The transformation of the body can be undone\
-      \ only by a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
+      \ [exhaustion](Rules/conditions.md#Exhaustion). Once the target reaches 6 levels\
+      \ of [exhaustion](Rules/conditions.md#Exhaustion), it dies and instantly transforms\
+      \ into a living [manes](Compendium/bestiary/fiend/manes.md) under the sibriex's\
+      \ control. The transformation of the body can be undone only by a [wish](Compendium/spells/wish.md)\
       \ spell."
     "name": "Warp Creature"
   - "desc": "The sibriex casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 21):\n\
-      \n**At will:** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md)\n\
-      \n**1/day:** [feeblemind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feeblemind.md)"
+      \n**At will:** [command](Compendium/spells/command.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [hold monster](Compendium/spells/hold-monster.md)\n\n**1/day:** [feeblemind](Compendium/spells/feeblemind.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the sibriex can expend a use to take one of the following actions. The sibriex\
@@ -118,7 +114,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/sibriex-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/sibriex-mpmm.webp"
 ```
 ^statblock
 

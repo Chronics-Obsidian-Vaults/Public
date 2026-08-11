@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Dungeon Delve Guilds
+- "Dungeon Delve Guilds"
 ---
 # Dungeon Delve Guilds
 *Source: Guildmasters' Guide to Ravnica p. 124* 

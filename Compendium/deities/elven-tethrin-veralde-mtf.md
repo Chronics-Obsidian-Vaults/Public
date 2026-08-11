@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/elven
 - source/domain/war
-aliases: 
-- Tethrin Veraldé
+aliases:
+- "Tethrin Veraldé"
 ---
 # Tethrin Veraldé
 *Source: Mordenkainen's Tome of Foes p. 43* 

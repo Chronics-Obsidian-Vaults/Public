@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/varies
 - source/item/wondrous/potion
-aliases: 
+aliases:
 - "Potions of Healing"
 item_type: wondrous
 item_subtype: potion
@@ -19,9 +20,9 @@ attunement: none
 
 **Items in this group:**
 
-- [Potion of Healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-healing.md)
-- [Potion of Greater Healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-greater-healing.md)
-- [Potion of Superior Healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-superior-healing.md)
-- [Potion of Supreme Healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-supreme-healing.md)
+- [Potion of Healing](Compendium/items/potion-of-healing.md)
+- [Potion of Greater Healing](Compendium/items/potion-of-greater-healing.md)
+- [Potion of Superior Healing](Compendium/items/potion-of-superior-healing.md)
+- [Potion of Supreme Healing](Compendium/items/potion-of-supreme-healing.md)
 
 *Source: Dungeon Master's Guide p. 187*

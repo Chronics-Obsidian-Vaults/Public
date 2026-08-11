@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/armor/medium
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Copper Dragon Scale Mail"
 item_type: armor
 item_subtype: medium

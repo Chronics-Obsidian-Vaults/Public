@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/very-rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Tome of Clear Thought"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Tome of Clear Thought
 *Wondrous item, major, very rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/tome-of-clear-thought.webp#right)
+![](Compendium/items/img/tome-of-clear-thought.webp#right)
 
 - **Weight**: 5.0 lbs.
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/0
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cranium Rat
+- "Cranium Rat"
 ---
-# [Cranium Rat](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/cranium-rat-mpmm.md)
+# [Cranium Rat](Compendium/bestiary/aberration/cranium-rat-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
 
 ## Cranium Rat
@@ -39,8 +40,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   - !!int "11"
   - !!int "8"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 10"
 "languages": "telepathy 30 ft."
 "cr": "0"
 "traits":
@@ -58,7 +58,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/cranium-rat-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/cranium-rat-mpmm.webp"
 ```
 ^statblock
 

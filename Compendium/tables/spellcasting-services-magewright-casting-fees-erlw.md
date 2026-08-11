@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Spellcasting Services; Magewright Casting Fees
+- "Spellcasting Services; Magewright Casting Fees"
 ---
 # Spellcasting Services; Magewright Casting Fees
 *Source: Eberron: Rising from the Last War p. 153* 

@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/uncommon
 - source/item/tier/major
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Jumping"
 item_type: wondrous
 item_subtype: ring
@@ -19,6 +20,6 @@ attunement: required
 
 
 
-While wearing this ring, you can cast the [jump](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/jump.md) spell from it as a bonus action at will, but can target only yourself when you do so.
+While wearing this ring, you can cast the [jump](Compendium/spells/jump.md) spell from it as a bonus action at will, but can target only yourself when you do so.
 
 *Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

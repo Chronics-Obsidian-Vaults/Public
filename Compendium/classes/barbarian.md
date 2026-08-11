@@ -6,7 +6,7 @@ tags:
 - source/class/barbarian
 - source/compendium/src/5e/phb
 aliases:
-- Barbarian
+- "Barbarian"
 ---
 # Barbarian
 *Source: Player's Handbook p. 46. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/barbarian.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d12 per Barbarian level
@@ -51,16 +53,16 @@ aliases:
 ## Starting Barbarian
 
 - **Saving Throws**: Constitution, Strength
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor), [medium armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Medium%20Armor), [shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor), [medium armor](Rules/item-types.md#Medium%20Armor), [shields](Compendium/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
 - **Tools**: none
-- **Skills**: choose 2 from [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), and [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)
+- **Skills**: choose 2 from [Animal Handling](Rules/skills.md#Animal%20Handling), [Athletics](Rules/skills.md#Athletics), [Intimidation](Rules/skills.md#Intimidation), [Nature](Rules/skills.md#Nature), [Perception](Rules/skills.md#Perception), and [Survival](Rules/skills.md#Survival)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [greataxe](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/greataxe.md) or (b) any martial melee weapon
-- (a) two [handaxes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/handaxe.md) or (b) any simple weapon
-- An [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md), and four [javelins](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/javelin.md)
+- (a) a [greataxe](Compendium/items/greataxe.md) or (b) any martial melee weapon
+- (a) two [handaxes](Compendium/items/handaxe.md) or (b) any simple weapon
+- An [explorer's pack](Compendium/items/explorers-pack.md), and four [javelins](Compendium/items/javelin.md)
 
 Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
@@ -70,9 +72,8 @@ Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)
+- **Armor**: [shields](Compendium/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
-
 ## Barbarian
 
 A tall human tribesman strides through a blizzard, draped in fur and hefting his axe. He laughs as he charges toward the frost giant who dared poach his people's elk herd.
@@ -105,7 +106,7 @@ What led you to take up the adventuring life? Were you lured to settled lands by
 
 #### Quick Build
 
-You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the [outlander](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/outlander.md) background.
+You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the [outlander](Compendium/backgrounds/outlander.md) background.
 
 > [!quote] A quote from Seret, archwizard  
 > 
@@ -196,7 +197,7 @@ While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 If you are able to cast spells, you can't cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](Rules/conditions.md#Unconscious) or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
 Once you have raged the maximum number of times for your barbarian level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th.
 
@@ -206,7 +207,7 @@ While you are not wearing any armor, your Armor Class equals 10 + your Dexterity
 
 ### Danger Sense (Level 2)
 
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened), or [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).
+At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened), or [incapacitated](Rules/conditions.md#Incapacitated).
 
 ### Reckless Attack (Level 2)
 
@@ -219,7 +220,7 @@ At 3rd level, you choose a path that shapes the nature of your rage from the lis
 ### Primal Knowledge (Level 3)
 _Source: Tasha's Cauldron of Everything p. 24_
 
-*3rd-level barbarian [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level barbarian [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.
 
@@ -231,7 +232,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](Rules/actions.md#Attack) action on your turn.
 
 ### Fast Movement (Level 5)
 
@@ -245,12 +246,12 @@ At 6th level, you gain a feature from your Primal Path.
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
-Additionally, if you are [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised) at the beginning of combat and aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are [surprised](Rules/conditions.md#Surprised) at the beginning of combat and aren't [incapacitated](Rules/conditions.md#Incapacitated), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Instinctive Pounce (Level 7)
 _Source: Tasha's Cauldron of Everything p. 24_
 
-*7th-level barbarian [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*7th-level barbarian [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 As part of the bonus action you take to enter your rage, you can move up to half your speed.
 
@@ -294,7 +295,7 @@ At 14th level, you gain a feature from your Primal Path.
 
 ### Persistent Rage (Level 15)
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) or if you choose to end it.
+Beginning at 15th level, your rage is so fierce that it ends early only if you fall [unconscious](Rules/conditions.md#Unconscious) or if you choose to end it.
 
 ### Ability Score Improvement (Level 16)
 

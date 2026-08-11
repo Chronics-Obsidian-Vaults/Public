@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/ggr
 - source/race/vedalken
 aliases:
-- Vedalken
+- "Vedalken"
 ---
 # Vedalken
 *Source: Guildmasters' Guide to Ravnica p. 21*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/vedalken.webp#right)
+![](Compendium/races/img/vedalken.webp#right)
 
 - **Ability Scores**: int +2 wis +1
 - **Size**: Medium
@@ -35,7 +36,7 @@ You have advantage on all Intelligence, Wisdom, and Charisma saving throws.
 
 ### Tireless Precision
 
-You are proficient in one of the following skills of your choice: [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance), or [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand). You are also proficient with one "tool" of your choice.
+You are proficient in one of the following skills of your choice: [Arcana](Rules/skills.md#Arcana), [History](Rules/skills.md#History), [Investigation](Rules/skills.md#Investigation), [Medicine](Rules/skills.md#Medicine), [Performance](Rules/skills.md#Performance), or [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand). You are also proficient with one "tool" of your choice.
 
 Whenever you make an ability check with the chosen skill or tool, roll a `d4` and add the number rolled to the check's total.
 

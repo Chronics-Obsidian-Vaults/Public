@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Headquarters Modification
+- "Downtime and Franchise Activity: Headquarters Modification"
 ---
 # Downtime and Franchise Activity: Headquarters Modification
 *Source: Acquisitions Incorporated p. 39* 
@@ -20,7 +20,7 @@ Once a modification is approved, this activity requires the involvement of the f
 
 ## Resolution
 
-One character or the majordomo acts as the lead for this activity, making an Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana) or [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)) check to draft the modifications. A character or the majordomo must then make two ability checks to complete the modifications, using either Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or an Intelligence check using appropriate tools. With DM approval, a different ability and skill appropriate for the modification can be substituted for any of the checks.
+One character or the majordomo acts as the lead for this activity, making an Intelligence ([Arcana](Rules/skills.md#Arcana) or [History](Rules/skills.md#History)) check to draft the modifications. A character or the majordomo must then make two ability checks to complete the modifications, using either Strength ([Athletics](Rules/skills.md#Athletics)) or an Intelligence check using appropriate tools. With DM approval, a different ability and skill appropriate for the modification can be substituted for any of the checks.
 
 Each check receives a +1 bonus for every two staff participating who are skilled hirelings, and a +1 bonus if any participant has the cartographer, loremonger, or hoardsperson position. The number of successes is compared to the Headquarters Modification table.
 

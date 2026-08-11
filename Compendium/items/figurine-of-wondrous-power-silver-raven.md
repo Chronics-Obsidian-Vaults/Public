@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/major
-aliases: 
+aliases:
 - "Figurine of Wondrous Power, Silver Raven"
 item_type: 
 item_subtype: 
@@ -25,6 +26,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Silver Raven
 
-This silver statuette of a raven can become a raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the [animal messenger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-messenger.md) spell on it at will.
+This silver statuette of a raven can become a raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the [animal messenger](Compendium/spells/animal-messenger.md) spell on it at will.
 
 *Source: Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

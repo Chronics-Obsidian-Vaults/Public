@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/lingering soul
 - source/subclass/lingering-soul/spirit
 aliases:
-- Calling of the Spirit Guardian
+- "Calling of the Spirit Guardian"
 ---
 # Calling of the Spirit Guardian
 *[Lingering Soul](./lingering-soul-lingering-soul.md): Phantom Callings*  
@@ -43,14 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Calling of the Spirit Guardian (Level 1)
-
 Some souls that persist in the mortal realm seek a greater purpose. Whether they remain to see to some divine duty, or wish to entice and corrupt the souls of others in the name of a dark patron, it's these spirits who invite deictic guidance into their fate that begin to resemble the celestial beings or twisted fiends they worship. Relying on physical vessels to channel their fury, these guardians use their gifts to protect, harm, or influence all they encounter.
 
 Upon becoming a spirit guardian, choose either your Wisdom or Charisma to become your Aspect. Your Aspect modifier is equal to that of the chosen Ability Score. You gain proficiency in Charisma saving throws.
+
+## Subclass Features
 
 ### Invoke Smite (Level 1)
 

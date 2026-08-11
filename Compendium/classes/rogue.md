@@ -6,7 +6,7 @@ tags:
 - source/class/rogue
 - source/compendium/src/5e/phb
 aliases:
-- Rogue
+- "Rogue"
 ---
 # Rogue
 *Source: Player's Handbook p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/rogue.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Rogue level
@@ -51,17 +53,17 @@ aliases:
 ## Starting Rogue
 
 - **Saving Throws**: Dexterity, Intelligence
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor)
-- **Weapons**: simple weapons, [hand crossbows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hand-crossbow.md), [longswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md), [rapiers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rapier.md), [shortswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md)
-- **Tools**: [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)
-- **Skills**: choose 4 from [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion), [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand), and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor)
+- **Weapons**: simple weapons, [hand crossbows](Compendium/items/hand-crossbow.md), [longswords](Compendium/items/longsword.md), [rapiers](Compendium/items/rapier.md), [shortswords](Compendium/items/shortsword.md)
+- **Tools**: [thieves' tools](Compendium/items/thieves-tools.md)
+- **Skills**: choose 4 from [Acrobatics](Rules/skills.md#Acrobatics), [Athletics](Rules/skills.md#Athletics), [Deception](Rules/skills.md#Deception), [Insight](Rules/skills.md#Insight), [Intimidation](Rules/skills.md#Intimidation), [Investigation](Rules/skills.md#Investigation), [Perception](Rules/skills.md#Perception), [Performance](Rules/skills.md#Performance), [Persuasion](Rules/skills.md#Persuasion), [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand), and [Stealth](Rules/skills.md#Stealth)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [rapier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rapier.md) or (b) a [shortsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md)
-- (a) a [shortbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortbow.md) and [quiver](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/quiver.md) of [20 arrows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arrows-20.md) or (b) a [shortsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md)
-- (a) a [burglar's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/burglars-pack.md), (b) a [dungeoneer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dungeoneers-pack.md), or (c) an [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md)
-- [Leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md), two [daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md), and [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)
+- (a) a [rapier](Compendium/items/rapier.md) or (b) a [shortsword](Compendium/items/shortsword.md)
+- (a) a [shortbow](Compendium/items/shortbow.md) and [quiver](Compendium/items/quiver.md) of [20 arrows](Compendium/items/arrows-20.md) or (b) a [shortsword](Compendium/items/shortsword.md)
+- (a) a [burglar's pack](Compendium/items/burglars-pack.md), (b) a [dungeoneer's pack](Compendium/items/dungeoneers-pack.md), or (c) an [explorer's pack](Compendium/items/explorers-pack.md)
+- [Leather armor](Compendium/items/leather-armor.md), two [daggers](Compendium/items/dagger.md), and [thieves' tools](Compendium/items/thieves-tools.md)
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
@@ -71,10 +73,9 @@ Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor)
-- **Tools**: [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)
-- **Skills**: choose 1 from [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion), [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand), and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)
-
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor)
+- **Tools**: [thieves' tools](Compendium/items/thieves-tools.md)
+- **Skills**: choose 1 from [Acrobatics](Rules/skills.md#Acrobatics), [Athletics](Rules/skills.md#Athletics), [Deception](Rules/skills.md#Deception), [Insight](Rules/skills.md#Insight), [Intimidation](Rules/skills.md#Intimidation), [Investigation](Rules/skills.md#Investigation), [Perception](Rules/skills.md#Perception), [Performance](Rules/skills.md#Performance), [Persuasion](Rules/skills.md#Persuasion), [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand), and [Stealth](Rules/skills.md#Stealth)
 ## Rogue
 
 Signaling for her companions to wait, a halfling creeps forward through the dungeon hall. She presses an ear to the door, then pulls out a set of tools and picks the lock in the blink of an eye. Then she disappears into the shadows as her fighter friend moves forward to kick the door open.
@@ -105,7 +106,7 @@ What was the trigger that led you away from your previous life? Did a great con 
 
 #### Quick Build
 
-You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the [charlatan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/charlatan.md) background.
+You can make a rogue quickly by following these suggestions. First, Dexterity should be your highest ability score. Make Intelligence your next-highest if you want to excel at Investigation or plan to take up the Arcane Trickster archetype. Choose Charisma instead if you plan to emphasize deception and social interaction. Second, choose the [charlatan](Compendium/backgrounds/charlatan.md) background.
 
 > [!quote] A quote from Barnabas Bladecutter  
 > 
@@ -188,15 +189,15 @@ If your character's backstory doesn't already include a personage of this sort, 
 
 ### Expertise (Level 1)
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md). Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with [thieves' tools](Compendium/items/thieves-tools.md). Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)) to gain this benefit.
+At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](Compendium/items/thieves-tools.md)) to gain this benefit.
 
 ### Sneak Attack (Level 1)
 
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra `1d6` damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), and you don't have disadvantage on the attack roll.
+You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't [incapacitated](Rules/conditions.md#Incapacitated), and you don't have disadvantage on the attack roll.
 
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.
 
@@ -208,7 +209,7 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ### Cunning Action (Level 2)
 
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash), [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage), or [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide) action.
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the [Dash](Rules/actions.md#Dash), [Disengage](Rules/actions.md#Disengage), or [Hide](Rules/actions.md#Hide) action.
 
 ### Roguish Archetype (Level 3)
 
@@ -217,7 +218,7 @@ At 3rd level, you choose an archetype that you emulate in the exercise of your r
 ### Steady Aim (Level 3)
 _Source: Tasha's Cauldron of Everything p. 62_
 
-*3rd-level rogue [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level rogue [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 
@@ -233,11 +234,11 @@ Starting at 5th level, when an attacker that you can see hits you with an attack
 
 ### Expertise (Level 6)
 
-At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)) to gain the benefit of Expertise.
+At 6th level, you can choose two more of your proficiencies (in skills or with [thieves' tools](Compendium/items/thieves-tools.md)) to gain the benefit of Expertise.
 
 ### Evasion (Level 7)
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an [ice storm](Compendium/spells/ice-storm.md) spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Ability Score Improvement (Level 8)
 
@@ -271,7 +272,7 @@ At 13th level, you gain a feature granted by your Roguish Archetype.
 
 ### Blindsense (Level 14)
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) creature within 10 feet of you.
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or [invisible](Rules/conditions.md#Invisible) creature within 10 feet of you.
 
 ### Slippery Mind (Level 15)
 
@@ -289,7 +290,7 @@ At 17th level, you gain a feature granted by your Roguish Archetype.
 
 ### Elusive (Level 18)
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).
+Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't [incapacitated](Rules/conditions.md#Incapacitated).
 
 ### Ability Score Improvement (Level 19)
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Explosives
+- "Explosives"
 ---
 # Explosives
 *Source: Dungeon Master's Guide p. 267* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/14
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Archon of the Triumvirate
+- "Archon of the Triumvirate"
 ---
-# [Archon of the Triumvirate](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/archon-of-the-triumvirate-ggr.md)
+# [Archon of the Triumvirate](Compendium/bestiary/celestial/archon-of-the-triumvirate-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 192*  
 
 Archons are enigmatic, supernatural embodiments of the harshest aspects of law and order. They espouse a rigid sense of justice and deal ruthless punishment to those who break the law. This nature often aligns them with the Azorius Senate, and they are commonly seen circling above the Azorius guildhall astride their winged felidar mounts, soaring alongside griffon-mounted hussars.
@@ -32,7 +33,7 @@ An archon doesn't require food, drink, or sleep.
 "type": "celestial"
 "alignment": "Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "144"
 "hit_dice": "17d8 + 68"
 "modifier": !!int "2"
@@ -49,24 +50,21 @@ An archon doesn't require food, drink, or sleep.
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 20"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 20"
 "languages": "all"
 "cr": "14"
 "traits":
   - "desc": "The archon's innate spellcasting ability is Wisdom (spell save DC 18,\
       \ +10 to hit with spell attacks). The archon can innately cast the following\
-      \ spells, requiring no material components:\n\n**At will:** [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md),\
-      \ [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [compelled duel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compelled-duel.md)"
+      \ spells, requiring no material components:\n\n**At will:** [calm emotions](Compendium/spells/calm-emotions.md),\
+      \ [command](Compendium/spells/command.md), [compelled duel](Compendium/spells/compelled-duel.md)"
     "name": "Innate Spellcasting"
   - "desc": "As a bonus action, the archon can target a creature it can see within\
       \ 120 feet of it and determine which laws that creature has broken in the last\
@@ -76,11 +74,10 @@ An archon doesn't require food, drink, or sleep.
       \ onto the creature serving as its mount, provided the archon and its mount\
       \ are on the same plane of existence. When it teleports, the archon appears\
       \ astride the mount along with any equipment it is wearing or carrying. While\
-      \ mounted and not [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
-      \ the archon can't be [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised),\
-      \ and both it and its mount gain advantage on Dexterity saving throws. If the\
-      \ archon is reduced to 0 hit points while riding its mount, the mount is reduced\
-      \ to 0 hit points as well."
+      \ mounted and not [incapacitated](Rules/conditions.md#Incapacitated), the archon\
+      \ can't be [surprised](Rules/conditions.md#Surprised), and both it and its mount\
+      \ gain advantage on Dexterity saving throws. If the archon is reduced to 0 hit\
+      \ points while riding its mount, the mount is reduced to 0 hit points as well."
     "name": "Mount"
 "actions":
   - "desc": "The archon makes two Hammer of Justice attacks."
@@ -88,17 +85,17 @@ An archon doesn't require food, drink, or sleep.
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) bludgeoning damage plus 18 (4d8) force damage. If the target is\
       \ a creature, it must succeed on a DC 18 Strength saving throw or be knocked\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ [prone](Rules/conditions.md#Prone)."
     "name": "Hammer of Justice"
   - "desc": "Each creature of the archon's choice that the archon can see within 120\
       \ feet of it must succeed on a DC 18 Wisdom saving throw, or else the target\
-      \ drops any weapons it is holding, ends its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on any spells or other effects, and becomes [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the archon for 1 minute. The [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. If a creature's saving throw is successful\
-      \ or the effect ends for it, the creature is immune to the archon's Pacifying\
-      \ Presence for the next 24 hours."
+      \ drops any weapons it is holding, ends its [concentration](Rules/conditions.md#Concentration)\
+      \ on any spells or other effects, and becomes [charmed](Rules/conditions.md#Charmed)\
+      \ by the archon for 1 minute. The [charmed](Rules/conditions.md#Charmed) creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. If a creature's saving throw is successful or the\
+      \ effect ends for it, the creature is immune to the archon's Pacifying Presence\
+      \ for the next 24 hours."
     "name": "Pacifying Presence"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the archon of the triumvirate can expend a use to take one of the following\
@@ -119,6 +116,6 @@ An archon doesn't require food, drink, or sleep.
     "name": "Detention (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/archon-of-the-triumvirate-ggr.webp"
+"image": "Compendium/bestiary/celestial/token/archon-of-the-triumvirate-ggr.webp"
 ```
 ^statblock

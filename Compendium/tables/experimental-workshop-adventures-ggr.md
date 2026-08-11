@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Experimental Workshop Adventures
+- "Experimental Workshop Adventures"
 ---
 # Experimental Workshop Adventures
 *Source: Guildmasters' Guide to Ravnica p. 144* 
@@ -19,7 +19,7 @@ aliases:
 | 3 | Capture an inventor for interrogation. |
 | 4 | Stop the spread of toxic gas or molten mizzium from inside the workshop. |
 | 5 | Shut down the operation of a dangerous device. |
-| 6 | Capture or kill an elemental or an Izzet weird (a [blistercoil weird](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/blistercoil-weird-ggr.md) or [galvanice weird](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/galvanice-weird-ggr.md)) that is running amok in the workshop, and make sure it doesn't escape out into the city. |
+| 6 | Capture or kill an elemental or an Izzet weird (a [blistercoil weird](Compendium/bestiary/elemental/blistercoil-weird-ggr.md) or [galvanice weird](Compendium/bestiary/elemental/galvanice-weird-ggr.md)) that is running amok in the workshop, and make sure it doesn't escape out into the city. |
 | 7 | Get out of the workshop before it is destroyed by a spreading catastrophe. |
 | 8 | Destroy the workshop in order to obliterate the research being done there. |
 | 9 | Destroy the workshop in order to bring down a different building nearby. |

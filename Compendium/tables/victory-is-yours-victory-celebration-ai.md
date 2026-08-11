@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Victory Is Yours; Victory Celebration
+- "Victory Is Yours; Victory Celebration"
 ---
 # Victory Is Yours; Victory Celebration
 *Source: Acquisitions Incorporated p. 60* 

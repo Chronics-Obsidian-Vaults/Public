@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -16,10 +17,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc
+- "Orc"
 ---
-# [Orc](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/orc.md)
-*Source: Monster Manual p. 246, Eberron: Rising from the Last War, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Orc](Compendium/bestiary/humanoid/orc.md)
+*Source: Monster Manual p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -58,7 +59,7 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "15"
 "hit_dice": "2d8 + 6"
 "modifier": !!int "1"
@@ -71,10 +72,12 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+2"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "1/2"
 "traits":
@@ -90,9 +93,7 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
     "name": "Javelin"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/orc.webp"
+"image": "Compendium/bestiary/humanoid/token/orc.webp"
 ```
 ^statblock
 

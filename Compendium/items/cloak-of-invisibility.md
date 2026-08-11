@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/tier/major
-aliases: 
+aliases:
 - "Cloak of Invisibility"
 item_type: 
 item_subtype: 
@@ -15,10 +16,10 @@ attunement: required
 ---
 # Cloak of Invisibility
 *Wondrous item, major, legendary (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/cloak-of-invisibility.webp#right)
+![](Compendium/items/img/cloak-of-invisibility.webp#right)
 
 
-While wearing this cloak, you can pull its hood over your head to cause yourself to become [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible). While you are [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible), anything you are carrying or wearing is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) with you. You become visible when you cease wearing the hood. Pulling the hood up or down requires an action.
+While wearing this cloak, you can pull its hood over your head to cause yourself to become [invisible](Rules/conditions.md#Invisible). While you are [invisible](Rules/conditions.md#Invisible), anything you are carrying or wearing is [invisible](Rules/conditions.md#Invisible) with you. You become visible when you cease wearing the hood. Pulling the hood up or down requires an action.
 
 Deduct the time you are invisible, in increments of 1 minute, from the cloak's maximum duration of 2 hours. After 2 hours of use, the cloak ceases to function. For every uninterrupted period of 12 hours the cloak goes unused, it regains 1 hour of duration.
 

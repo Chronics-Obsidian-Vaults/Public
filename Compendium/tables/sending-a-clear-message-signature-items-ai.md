@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Sending a Clear Message; Signature Items
+- "Sending a Clear Message; Signature Items"
 ---
 # Sending a Clear Message; Signature Items
 *Source: Acquisitions Incorporated p. 53* 

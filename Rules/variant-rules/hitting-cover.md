@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Hitting Cover
+- "Hitting Cover"
 ---
 # Hitting Cover
 *Source: Dungeon Master's Guide p. 272* 

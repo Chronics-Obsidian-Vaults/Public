@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Shady Nightclub Adventures
+- "Shady Nightclub Adventures"
 ---
 # Shady Nightclub Adventures
 *Source: Eberron: Rising from the Last War p. 247* 

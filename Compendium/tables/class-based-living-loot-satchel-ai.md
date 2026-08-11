@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Class-Based Living Loot Satchel
+- "Class-Based Living Loot Satchel"
 ---
 # Class-Based Living Loot Satchel
 *Source: Acquisitions Incorporated p. 25* 

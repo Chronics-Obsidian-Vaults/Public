@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/scag
 - source/race/half-elf/drow-descent
 aliases:
-- Half-Elf (Drow Descent)
+- "Half-Elf (Drow Descent)"
 ---
 # Half-Elf (Drow Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  
@@ -32,13 +33,13 @@ Thanks to your elf blood, you have superior vision in dark and dim conditions. Y
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](Rules/conditions.md#Charmed), and magic can't put you to sleep.
 
 > [!note] Variant Feature (Choose 1)
 > 
 > **Skill Versatility.** You gain proficiency in two skills of your choice.
 > 
-> **Drow Magic.** You know the [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md) spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md) spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.
+> **Drow Magic.** You know the [dancing lights](Compendium/spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](Compendium/spells/faerie-fire.md) spell once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the [darkness](Compendium/spells/darkness.md) spell once per day; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells.
 ^variant-feature-choose-1
 
 ### Languages

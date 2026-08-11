@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Sending Stones"
 item_type: 
 item_subtype: 
@@ -14,11 +15,11 @@ attunement: none
 ---
 # Sending Stones
 *Wondrous item, minor, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/sending-stones.webp#right)
+![](Compendium/items/img/sending-stones.webp#right)
 
 
-Sending stones come in pairs, with each smooth stone carved to match the other so the pairing is easily recognized. While you touch one stone, you can use an action to cast the [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md) spell from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone and don't cast the spell.
+Sending stones come in pairs, with each smooth stone carved to match the other so the pairing is easily recognized. While you touch one stone, you can use an action to cast the [sending](Compendium/spells/sending.md) spell from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone and don't cast the spell.
 
-Once [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md) is cast through the stones, they can't be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.
+Once [sending](Compendium/spells/sending.md) is cast through the stones, they can't be used again until the next dawn. If one of the stones in a pair is destroyed, the other one becomes nonmagical.
 
 *Source: Dungeon Master's Guide p. 199*

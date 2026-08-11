@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ice Mephit
+- "Ice Mephit"
 ---
-# [Ice Mephit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/ice-mephit.md)
-*Source: Monster Manual p. 215, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Ice Mephit](Compendium/bestiary/elemental/ice-mephit.md)
+*Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ## Mephits
 
@@ -47,19 +48,18 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
   - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_vulnerabilities": "bludgeoning, fire"
 "damage_immunities": "cold, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Aquan, Auran"
 "cr": "1/2"
 "traits":
-  - "desc": "The mephit can innately cast [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md),\
+  - "desc": "The mephit can innately cast [fog cloud](Compendium/spells/fog-cloud.md),\
       \ requiring no material components. Its innate spellcasting ability is Charisma.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "When the mephit dies, it explodes in a burst of jagged ice. Each creature\
@@ -79,8 +79,7 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
     "name": "Frost Breath (Recharge 6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/ice-mephit.webp"
+"image": "Compendium/bestiary/elemental/token/ice-mephit.webp"
 ```
 ^statblock
 

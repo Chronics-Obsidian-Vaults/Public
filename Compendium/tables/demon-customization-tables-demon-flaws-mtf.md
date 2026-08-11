@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Demon Customization Tables; Demon Flaws
+- "Demon Customization Tables; Demon Flaws"
 ---
 # Demon Customization Tables; Demon Flaws
 *Source: Mordenkainen's Tome of Foes p. 33* 

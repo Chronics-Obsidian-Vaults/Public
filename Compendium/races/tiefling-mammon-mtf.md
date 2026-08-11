@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mtf
 - source/race/tiefling/mammon
 aliases:
-- Tiefling (Mammon)
+- "Tiefling (Mammon)"
 ---
 # Tiefling (Mammon)
 *Source: Mordenkainen's Tome of Foes p. 22*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/tiefling.webp#right)
+![](Compendium/races/img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 int +1
 - **Size**: Medium
@@ -36,7 +37,7 @@ You have resistance to fire damage.
 
 ### Legacy of Minauros
 
-You know the [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md) cantrip. When you reach 3rd level, you can cast the [Tenser's floating disk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tensers-floating-disk.md) spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the [arcane lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md) spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [mage hand](Compendium/spells/mage-hand.md) cantrip. When you reach 3rd level, you can cast the [Tenser's floating disk](Compendium/spells/tensers-floating-disk.md) spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the [arcane lock](Compendium/spells/arcane-lock.md) spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

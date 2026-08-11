@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elemental Spirit (Earth)
+- "Elemental Spirit (Earth)"
 ---
-# [Elemental Spirit (Earth)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/elemental-spirit-earth-tce.md)
+# [Elemental Spirit (Earth)](Compendium/bestiary/elemental/elemental-spirit-earth-tce.md)
 *Source: Tasha's Cauldron of Everything p. 111*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "elemental"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "50 + 10 for each spell level above 4th"
 "modifier": !!int "2"
 "stats":
   - !!int "18"
@@ -31,13 +33,10 @@ aliases:
 "speed": "40 ft., burrow 40 ft."
 "damage_resistances": "piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Primordial, understands the languages you speak"
 "actions":
   - "desc": "The elemental makes a number of attacks equal to half this spell's level\

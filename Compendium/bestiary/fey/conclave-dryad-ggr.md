@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/9
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Conclave Dryad
+- "Conclave Dryad"
 ---
-# [Conclave Dryad](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/conclave-dryad-ggr.md)
+# [Conclave Dryad](Compendium/bestiary/fey/conclave-dryad-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 194*  
 
 The lush forests that once grew on Ravnica are gone, but the dryads remain, striving to bring the sprawling city and the verdant green of nature into harmony. Dryads believe that their efforts are the will of Mat'Selesnya, the soul of the world, and they spread their teachings through every Selesnya enclave.
@@ -45,27 +46,25 @@ When leading its guild into battle, a dryad rides a magically summoned creature 
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 19"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 19"
 "languages": "Common, Elvish, Sylvan"
 "cr": "9"
 "traits":
   - "desc": "The dryad's innate spellcasting ability is Charisma (spell save DC 17).\
       \ The dryad can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md)\n\
-      \n**3/day each:** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md),\
-      \ [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md),\
-      \ [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md)\n\
-      \n**1/day each:** [moonbeam](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/moonbeam.md),\
-      \ [grasping vine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/grasping-vine.md),\
-      \ [wall of thorns](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-thorns.md)"
+      \n**At will:** [druidcraft](Compendium/spells/druidcraft.md)\n\n**3/day each:**\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [entangle](Compendium/spells/entangle.md),\
+      \ [plant growth](Compendium/spells/plant-growth.md), [spike growth](Compendium/spells/spike-growth.md)\n\
+      \n**1/day each:** [moonbeam](Compendium/spells/moonbeam.md), [grasping vine](Compendium/spells/grasping-vine.md),\
+      \ [wall of thorns](Compendium/spells/wall-of-thorns.md)"
     "name": "Innate Spellcasting"
   - "desc": "The dryad has advantage on saving throws against spells and other magical\
       \ effects."
@@ -79,11 +78,11 @@ When leading its guild into battle, a dryad rides a magically summoned creature 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 17 Dexterity saving throw or become [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by twisting vines for 1 minute. A target [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ in this way can use an action to make a DC 17 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics))\
-      \ or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics))\
-      \ check, ending the effect on itself on a success."
+      \ on a DC 17 Dexterity saving throw or become [restrained](Rules/conditions.md#Restrained)\
+      \ by twisting vines for 1 minute. A target [restrained](Rules/conditions.md#Restrained)\
+      \ in this way can use an action to make a DC 17 Strength ([Athletics](Rules/skills.md#Athletics))\
+      \ or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check, ending the\
+      \ effect on itself on a success."
     "name": "Vine Staff"
   - "desc": "*Ranged Weapon Attack:* +8 to hit, range 150/600 ft., one target. *Hit:*\
       \ 8 (1d8 + 4) piercing damage."
@@ -91,18 +90,18 @@ When leading its guild into battle, a dryad rides a magically summoned creature 
   - "desc": "The dryad magically summons a mount, which appears in an unoccupied space\
       \ within 60 feet of the dryad. The mount remains for 8 hours, until it or the\
       \ dryad dies, or until the dryad dismisses it as an action. The mount uses the\
-      \ stat block of an [elk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/elk.md)\
-      \ (see the Monster Manual) with these changes: it is a plant instead of a beast,\
-      \ it has an Intelligence of 6, and it understands Sylvan but can't speak. While\
-      \ within 1 mile of the mount, the dryad can communicate with it telepathically."
+      \ stat block of an [elk](Compendium/bestiary/beast/elk.md) (see the Monster\
+      \ Manual) with these changes: it is a plant instead of a beast, it has an Intelligence\
+      \ of 6, and it understands Sylvan but can't speak. While within 1 mile of the\
+      \ mount, the dryad can communicate with it telepathically."
     "name": "Summon Mount (1/Day)"
   - "desc": "The dryad targets one magic item it can see within 120 feet of it. If\
       \ the magic item isn't an artifact, its magical properties are suppressed for\
-      \ 10 minutes, until the dryad is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ 10 minutes, until the dryad is [incapacitated](Rules/conditions.md#Incapacitated)\
       \ or dies, or until the dryad uses a bonus action to end the effect."
     "name": "Suppress Magic (Recharge 5-6)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/conclave-dryad-ggr.webp"
+"image": "Compendium/bestiary/fey/token/conclave-dryad-ggr.webp"
 ```
 ^statblock

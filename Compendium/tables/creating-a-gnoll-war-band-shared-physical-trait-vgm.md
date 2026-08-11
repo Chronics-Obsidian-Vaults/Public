@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Creating a Gnoll War Band; Shared Physical Trait
+- "Creating a Gnoll War Band; Shared Physical Trait"
 ---
 # Creating a Gnoll War Band; Shared Physical Trait
 *Source: Volo's Guide to Monsters p. 39* 

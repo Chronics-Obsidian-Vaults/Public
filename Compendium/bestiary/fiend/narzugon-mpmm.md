@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/13
@@ -9,16 +10,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Narzugon
+- "Narzugon"
 ---
-# [Narzugon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/narzugon-mpmm.md)
+# [Narzugon](Compendium/bestiary/fiend/narzugon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*  
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
 
-Narzugons wield hell-forged lances that shunt the souls of any they killed to the River Styx for rebirth as [lemures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/lemure.md). Every lance bears the marks of both a narzugon and its master.
+Narzugons wield hell-forged lances that shunt the souls of any they killed to the River Styx for rebirth as [lemures](Compendium/bestiary/fiend/lemure.md). Every lance bears the marks of both a narzugon and its master.
 
-Each narzugon claims a [nightmare](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nightmare.md) as its mount. These steeds are bound by [infernal tack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/infernal-tack-mtf.md) and must respond to the summons and commands of the spurs' wearer.
+Each narzugon claims a [nightmare](Compendium/bestiary/fiend/nightmare.md) as its mount. These steeds are bound by [infernal tack](Compendium/items/infernal-tack-mtf.md) and must respond to the summons and commands of the spurs' wearer.
 
 ```statblock
 "name": "Narzugon (MPMM)"
@@ -27,8 +28,7 @@ Each narzugon claims a [nightmare](/Campaigns/Chronics%20of%20the%20Times%20Befo
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "20"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "0"
@@ -45,21 +45,19 @@ Each narzugon claims a [nightmare](/Campaigns/Chronics%20of%20the%20Times%20Befo
   - "constitution": !!int "8"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+12"
 "damage_resistances": "acid; cold; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 22"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 22"
 "languages": "Common, Infernal, telepathy 120 ft."
 "cr": "13"
 "traits":
-  - "desc": "The narzugon wears spurs that are part of [infernal tack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/infernal-tack-mtf.md),\
-      \ which allow it to summon its [nightmare](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nightmare.md)\
+  - "desc": "The narzugon wears spurs that are part of [infernal tack](Compendium/items/infernal-tack-mtf.md),\
+      \ which allow it to summon its [nightmare](Compendium/bestiary/fiend/nightmare.md)\
       \ companion as an action."
     "name": "Infernal Tack"
   - "desc": "The narzugon has advantage on saving throws against spells and other\
@@ -71,19 +69,18 @@ Each narzugon claims a [nightmare](/Campaigns/Chronics%20of%20the%20Times%20Befo
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 11\
       \ (1d12 + 5) piercing damage plus 16 (3d10) fire damage. If this damage kills\
-      \ a creature with a soul, the soul rises from the River Styx as a [lemure](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/lemure.md)\
+      \ a creature with a soul, the soul rises from the River Styx as a [lemure](Compendium/bestiary/fiend/lemure.md)\
       \ in Avernus in 1d4 hours. If the creature isn't revived before then, only a\
-      \ [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell or killing the lemure and casting true resurrection on the creature's\
-      \ original body can restore it to life. Constructs and devils are immune to\
-      \ this effect."
+      \ [wish](Compendium/spells/wish.md) spell or killing the lemure and casting\
+      \ true resurrection on the creature's original body can restore it to life.\
+      \ Constructs and devils are immune to this effect."
     "name": "Hellfire Lance"
-  - "desc": "Each ally of the narzugon within 60 feet of it can't be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ until the end of the narzugon's next turn."
+  - "desc": "Each ally of the narzugon within 60 feet of it can't be [charmed](Rules/conditions.md#Charmed)\
+      \ or [frightened](Rules/conditions.md#Frightened) until the end of the narzugon's\
+      \ next turn."
     "name": "Infernal Command"
   - "desc": "Each creature within 60 feet of the narzugon that isn't a Fiend must\
-      \ succeed on a DC 17 Charisma saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ succeed on a DC 17 Charisma saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ of the narzugon for 1 minute. A creature can repeat the saving throw at the\
       \ end of each of its turns, ending the effect on itself on a success. A creature\
       \ that makes a successful saving throw is immune to this narzugon's Terrifying\
@@ -94,6 +91,6 @@ Each narzugon claims a [nightmare](/Campaigns/Chronics%20of%20the%20Times%20Befo
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/narzugon-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/narzugon-mpmm.webp"
 ```
 ^statblock

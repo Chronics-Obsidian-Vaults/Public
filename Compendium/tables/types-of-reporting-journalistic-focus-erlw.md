@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Types of Reporting; Journalistic Focus
+- "Types of Reporting; Journalistic Focus"
 ---
 # Types of Reporting; Journalistic Focus
 *Source: Eberron: Rising from the Last War p. 94* 

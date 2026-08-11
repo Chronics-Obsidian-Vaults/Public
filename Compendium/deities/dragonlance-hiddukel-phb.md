@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/dragonlance
 - source/domain/trickery
-aliases: 
-- Hiddukel
+aliases:
+- "Hiddukel"
 ---
 # Hiddukel
 *Source: Player's Handbook p. 295* 

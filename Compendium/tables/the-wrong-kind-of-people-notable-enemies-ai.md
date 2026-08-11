@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- The Wrong Kind of People; Notable Enemies
+- "The Wrong Kind of People; Notable Enemies"
 ---
 # The Wrong Kind of People; Notable Enemies
 *Source: Acquisitions Incorporated p. 55* 

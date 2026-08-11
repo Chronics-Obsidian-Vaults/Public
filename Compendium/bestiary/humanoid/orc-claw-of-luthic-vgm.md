@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/2
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Claw of Luthic
+- "Orc Claw of Luthic"
 ---
-# [Orc Claw of Luthic](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/orc-claw-of-luthic-vgm.md)
+# [Orc Claw of Luthic](Compendium/bestiary/humanoid/orc-claw-of-luthic-vgm.md)
 *Source: Volo's Guide to Monsters p. 183*  
 
 Luthic is Gruumsh's wife and the paragon of maternity to all orcs. She is the Cave Mother, a fierce dweller in the darkness who raises new broods of orcs to be vicious and strong. Her symbol is the cave bear, and orc females raise such bears alongside orc whelps. Females particularly attracted to Luthic grow long nails and lacquer them, learning to use these claws as weapons much as Luthic uses her own.
@@ -38,7 +39,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "2"
@@ -51,30 +52,26 @@ In addition, orcs have special relationships with two creatures that are sometim
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+2"
-  - "name": "[Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)"
+  - "name": "[Medicine](Rules/skills.md#Medicine)"
     "desc": "+4"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
   - "desc": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). The orc has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mending.md),\
-      \ [resistance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/resistance.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [bane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bane.md),\
-      \ [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [guiding bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guiding-bolt.md)\n\
-      \n**2nd level (3 slots):** [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md),\
-      \ [warding bond](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/warding-bond.md)\n\
-      \n**3rd level (2 slots):** [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md),\
-      \ [create food and water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-food-and-water.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](Compendium/spells/guidance.md),\
+      \ [mending](Compendium/spells/mending.md), [resistance](Compendium/spells/resistance.md),\
+      \ [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\n**1st level (4 slots):**\
+      \ [bane](Compendium/spells/bane.md), [cure wounds](Compendium/spells/cure-wounds.md),\
+      \ [guiding bolt](Compendium/spells/guiding-bolt.md)\n\n**2nd level (3 slots):**\
+      \ [augury](Compendium/spells/augury.md), [warding bond](Compendium/spells/warding-bond.md)\n\
+      \n**3rd level (2 slots):** [bestow curse](Compendium/spells/bestow-curse.md),\
+      \ [create food and water](Compendium/spells/create-food-and-water.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature that it can see."
@@ -88,7 +85,7 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Claw"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/orc-claw-of-luthic-vgm.webp"
+"image": "Compendium/bestiary/humanoid/token/orc-claw-of-luthic-vgm.webp"
 ```
 ^statblock
 

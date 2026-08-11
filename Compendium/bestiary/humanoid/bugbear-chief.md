@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bugbear Chief
+- "Bugbear Chief"
 ---
-# [Bugbear Chief](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/bugbear-chief.md)
+# [Bugbear Chief](Compendium/bestiary/humanoid/bugbear-chief.md)
 *Source: Monster Manual p. 33*  
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -38,8 +39,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "subtype": "goblinoid"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "2"
@@ -52,14 +52,16 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
+  - "[morningstar](Compendium/items/morningstar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
@@ -70,11 +72,9 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
       \ the first round of combat, the target takes an extra 7 (2d6) damage from the\
       \ attack."
     "name": "Surprise Attack"
-  - "desc": "The bugbear has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-      \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
+  - "desc": "The bugbear has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
+      \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+      \ [poisoned](Rules/conditions.md#Poisoned), [stunned](Rules/conditions.md#Stunned),\
       \ or put to sleep."
     "name": "Heart of Hruggek"
 "actions":
@@ -89,7 +89,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     "name": "Javelin"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/bugbear-chief.webp"
+"image": "Compendium/bestiary/humanoid/token/bugbear-chief.webp"
 ```
 ^statblock
 

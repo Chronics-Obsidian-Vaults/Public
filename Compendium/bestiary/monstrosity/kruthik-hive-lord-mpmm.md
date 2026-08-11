@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kruthik Hive Lord
+- "Kruthik Hive Lord"
 ---
-# [Kruthik Hive Lord](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/kruthik-hive-lord-mpmm.md)
+# [Kruthik Hive Lord](Compendium/bestiary/monstrosity/kruthik-hive-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
@@ -58,16 +59,16 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
   - !!int "10"
 "speed": "40 ft., burrow 20 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., tremorsense 60 ft., passive Perception 18"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive\
+  \ Perception 18"
 "languages": "Kruthik"
 "cr": "5"
 "traits":
   - "desc": "The kruthik has advantage on an attack roll against a creature if at\
       \ least one of the kruthik's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ ally isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The kruthik can burrow through solid rock at half its burrowing speed\
       \ and leaves a 10-foot-diameter tunnel in its wake."
@@ -88,7 +89,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/kruthik-hive-lord-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/kruthik-hive-lord-mpmm.webp"
 ```
 ^statblock
 

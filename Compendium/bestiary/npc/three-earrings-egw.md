@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Three Earrings
+- "Three Earrings"
 ---
-# [Three Earrings](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/three-earrings-egw.md)
+# [Three Earrings](Compendium/bestiary/npc/three-earrings-egw.md)
 *Source: Explorer's Guide to Wildemount p. 211*  
 
 This pale, spotted, Tabaxi bandit captain is a low-ranking member of the Revelry pirates. She brought her vessel to the village of Palma Flora because she was informed that a local sahuagin tribe had uncovered an unusual treasure. Three Earrings rightly assumed that they were going to attack the village, and she intended to be there to plunder the ruins after the attack. She didn't anticipate Flora Isle sinking.
@@ -23,7 +24,7 @@ This pale, spotted, Tabaxi bandit captain is a low-ranking member of the Revelry
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -40,12 +41,14 @@ This pale, spotted, Tabaxi bandit captain is a low-ranking member of the Revelry
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "any two languages"
 "cr": "2"
 "traits":
@@ -70,6 +73,6 @@ This pale, spotted, Tabaxi bandit captain is a low-ranking member of the Revelry
     "name": "Parry"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/three-earrings-egw.webp"
+"image": "Compendium/bestiary/npc/token/three-earrings-egw.webp"
 ```
 ^statblock

@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
 - source/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Water Breathing"
 item_type: wondrous
 item_subtype: potion
@@ -15,7 +16,7 @@ attunement: none
 ---
 # Potion of Water Breathing
 *Potion, minor, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/potion-of-water-breathing.webp#right)
+![](Compendium/items/img/potion-of-water-breathing.webp#right)
 
 
 You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.

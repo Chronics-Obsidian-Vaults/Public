@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/9
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Champion
+- "Champion"
 ---
-# [Champion](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/champion-mpmm.md)
+# [Champion](Compendium/bestiary/humanoid/champion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*  
 
 > [!quote] A quote from Mordenkainen  
@@ -48,7 +49,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate](Compendium/items/plate-armor.md)"
 "hp": !!int "143"
 "hit_dice": "22d8 + 44"
 "modifier": !!int "2"
@@ -64,12 +65,15 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
   - "strength": !!int "9"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+  - "[shortbow](Compendium/items/shortbow.md)"
 "senses": "passive Perception 16"
 "languages": "any one language (usually Common)"
 "cr": "9"
@@ -93,7 +97,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/champion-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/champion-mpmm.webp"
 ```
 ^statblock
 

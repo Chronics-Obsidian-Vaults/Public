@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Dwarves on the Move; Special Allies
+- "Dwarves on the Move; Special Allies"
 ---
 # Dwarves on the Move; Special Allies
 *Source: Mordenkainen's Tome of Foes p. 81* 

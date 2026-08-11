@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/egw
 - source/subclass/wizard/graviturgy
 aliases:
-- Graviturgy Magic
+- "Graviturgy Magic"
 ---
 # Graviturgy Magic
 *[Wizard](./wizard.md): Arcane Tradition*  
@@ -43,21 +43,20 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Graviturgy Magic (Level 2)
+![](Compendium/classes/img/graviturgy-wizard.webp#right)
 
 Understanding and mastering the forces that draw bodies of matter together or drive them apart, the students of the Graviturgy arcane tradition learn to further bend and manipulate the violent energy of gravity to their benefit, and the terrible detriment of their enemies.
 
 > [!note]
 > Note: This subclass has access to "Dunamancy Spells".
 
+## Subclass Features
+
 ### Adjust Density (Level 2)
 
 *2nd-level Graviturgy Magic feature*
 
-As an action, you can magically alter the weight of one object or creature you can see within 30 feet of you. The object or creature must be Large or smaller. The target's weight is halved or doubled for up to 1 minute or until your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) ends (as if you were [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell).
+As an action, you can magically alter the weight of one object or creature you can see within 30 feet of you. The object or creature must be Large or smaller. The target's weight is halved or doubled for up to 1 minute or until your [concentration](Rules/conditions.md#Concentration) ends (as if you were [concentrating](Rules/conditions.md#Concentration) on a spell).
 
 While the weight of a creature is halved by this effect, the creature's speed increases by 10 feet, it can jump twice as far as normal, and it has disadvantage on Strength checks and Strength saving throws. While the weight of a creature is doubled by this effect, the creature's speed is reduced by 10 feet, and it has advantage on Strength checks and Strength saving throws.
 
@@ -83,6 +82,6 @@ You can use this feature a number of times equal to your Intelligence modifier (
 
 *14th-level Graviturgy Magic feature*
 
-As an action, you can magically emit a powerful field of gravitational energy that tugs at other creatures for up to 1 minute or until your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) ends (as if you were [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell). For the duration, whenever a creature hostile to you starts its turn within 30 feet of you, it must make a Strength saving throw against your spell save DC. On a failed save, it takes `2d10` force damage, and its speed is reduced to 0 until the start of its next turn. On a successful save, it takes half as much damage, and every foot it moves this turn costs 2 extra feet of movement.
+As an action, you can magically emit a powerful field of gravitational energy that tugs at other creatures for up to 1 minute or until your [concentration](Rules/conditions.md#Concentration) ends (as if you were [concentrating](Rules/conditions.md#Concentration) on a spell). For the duration, whenever a creature hostile to you starts its turn within 30 feet of you, it must make a Strength saving throw against your spell save DC. On a failed save, it takes `2d10` force damage, and its speed is reduced to 0 until the start of its next turn. On a successful save, it takes half as much damage, and every foot it moves this turn costs 2 extra feet of movement.
 
 Once you use this feature, you can't do so again until you finish a long rest or until you expend a spell slot of 3rd level or higher on it.

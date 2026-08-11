@@ -7,7 +7,7 @@ tags:
 - source/domain/twilight
 - source/subclass/cleric/twilight
 aliases:
-- Twilight Domain
+- "Twilight Domain"
 ---
 # Twilight Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,10 +44,7 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Twilight Domain (Level 1)
+![](Compendium/classes/img/twilight-cleric.webp#right)
 
 The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.
 
@@ -58,17 +55,18 @@ Clerics who serve these deities-examples of which appear on the Twilight Deities
 | Example Deity | Pantheon |
 |---------------|----------|
 | Boldrei | Eberron |
-| [Celestian](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-celestian.md) | Greyhawk |
+| [Celestian](Compendium/deities/greyhawk-celestian.md) | Greyhawk |
 | Dol Arrah | Eberron |
 | Helm | Forgotten Realms |
 | Ilmater | Forgotten Realms |
-| [Mishakal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-mishakal-phb.md) | Dragonlance |
+| [Mishakal](Compendium/deities/dragonlance-mishakal-phb.md) | Dragonlance |
 | Selûne | Forgotten Realms |
-| [Yondalla](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/nonhuman-yondalla.md) | Halfling |
+| [Yondalla](Compendium/deities/nonhuman-yondalla.md) | Halfling |
 ^twilight-deities
 
-#### Domain Spells
-_Source: Tasha's Cauldron of Everything_
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 *1st-level Twilight Domain feature*
 
@@ -78,11 +76,11 @@ You gain domain spells at the cleric levels listed in the Twilight Domain Spells
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md), [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md) |
-| 3rd | [moonbeam](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/moonbeam.md), [see invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/see-invisibility.md) |
-| 5th | [aura of vitality](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-vitality.md), [Leomund's tiny hut](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/leomunds-tiny-hut.md) |
-| 7th | [aura of life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-life.md), [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md) |
-| 9th | [circle of power](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-power.md), [mislead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mislead.md) |
+| 1st | [faerie fire](Compendium/spells/faerie-fire.md), [sleep](Compendium/spells/sleep.md) |
+| 3rd | [moonbeam](Compendium/spells/moonbeam.md), [see invisibility](Compendium/spells/see-invisibility.md) |
+| 5th | [aura of vitality](Compendium/spells/aura-of-vitality.md), [Leomund's tiny hut](Compendium/spells/leomunds-tiny-hut.md) |
+| 7th | [aura of life](Compendium/spells/aura-of-life.md), [greater invisibility](Compendium/spells/greater-invisibility.md) |
+| 9th | [circle of power](Compendium/spells/circle-of-power.md), [mislead](Compendium/spells/mislead.md) |
 ^twilight-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -95,9 +93,9 @@ You gain proficiency with martial weapons and heavy armor.
 
 *1st-level Twilight Domain feature*
 
-You can see through the deepest gloom. You have [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
+You can see through the deepest gloom. You have [darkvision](Rules/senses.md#Darkvision) out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
 
-As an action, you can magically share the [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
+As an action, you can magically share the [darkvision](Rules/senses.md#Darkvision) of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [darkvision](Rules/senses.md#Darkvision) lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
 
 ### Vigilant Blessing (Level 1)
 
@@ -111,10 +109,10 @@ The night has taught you to be vigilant. As an action, you give one creature you
 
 You can use your Channel Divinity to refresh your allies with soothing twilight.
 
-As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
+As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [incapacitated](Rules/conditions.md#Incapacitated) or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
 - You grant it temporary hit points equal to `1d6` plus your cleric level.  
-- You end one effect on it causing it to be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).  
+- You end one effect on it causing it to be [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened).  
 
 ### Steps of Night (Level 6)
 
@@ -130,7 +128,7 @@ You gain the ability to infuse your weapon strikes with divine energy. Once on e
 
 ### Blessed Strikes (Level 8)
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

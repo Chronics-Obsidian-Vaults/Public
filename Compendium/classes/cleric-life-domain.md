@@ -7,7 +7,7 @@ tags:
 - source/domain/life
 - source/subclass/cleric/life
 aliases:
-- Life Domain
+- "Life Domain"
 ---
 # Life Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,12 +44,11 @@ aliases:
 
 ^class-progression
 
+The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and [Demeter](Compendium/deities/greek-demeter.md)), sun gods (such as Lathander, [Pelor](Compendium/deities/greyhawk-pelor.md), and [Re-Horakhty](Compendium/deities/egyptian-re-horakhty.md)), gods of healing or endurance (such as Ilmater, [Mishakal](Compendium/deities/dragonlance-mishakal-phb.md), [Apollo](Compendium/deities/greek-apollo.md), and [Diancecht](Compendium/deities/celtic-diancecht.md)), and gods of home and community (such as [Hestia](Compendium/deities/greek-hestia.md), [Hathor](Compendium/deities/egyptian-hathor.md), and Boldrei).
 
-## Class Features
+## Subclass Features
 
-### Life Domain (Level 1)
-
-The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and [Demeter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-demeter.md)), sun gods (such as Lathander, [Pelor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-pelor.md), and [Re-Horakhty](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/egyptian-re-horakhty.md)), gods of healing or endurance (such as Ilmater, [Mishakal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-mishakal-phb.md), [Apollo](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-apollo.md), and [Diancecht](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/celtic-diancecht.md)), and gods of home and community (such as [Hestia](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-hestia.md), [Hathor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/egyptian-hathor.md), and Boldrei).
+### Domain Spells (Level 1)
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -57,11 +56,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md), [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md) |
-| 3rd | [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md), [spiritual weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spiritual-weapon.md) |
-| 5th | [beacon of hope](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/beacon-of-hope.md), [revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md) |
-| 7th | [death ward](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/death-ward.md), [guardian of faith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guardian-of-faith.md) |
-| 9th | [mass cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-cure-wounds.md), [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md) |
+| 1st | [bless](Compendium/spells/bless.md), [cure wounds](Compendium/spells/cure-wounds.md) |
+| 3rd | [lesser restoration](Compendium/spells/lesser-restoration.md), [spiritual weapon](Compendium/spells/spiritual-weapon.md) |
+| 5th | [beacon of hope](Compendium/spells/beacon-of-hope.md), [revivify](Compendium/spells/revivify.md) |
+| 7th | [death ward](Compendium/spells/death-ward.md), [guardian of faith](Compendium/spells/guardian-of-faith.md) |
+| 9th | [mass cure wounds](Compendium/spells/mass-cure-wounds.md), [raise dead](Compendium/spells/raise-dead.md) |
 ^life-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -89,7 +88,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

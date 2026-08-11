@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/phb
 aliases:
-- Feats
+- "Feats"
 ---
 # Feats
 *Source: Player's Handbook p. 165* 

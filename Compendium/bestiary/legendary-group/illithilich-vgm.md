@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/vgm
 - source/monster/legendary-group
 aliases:
-- Illithilich
+- "Illithilich"
 ---
 # Illithilich
 

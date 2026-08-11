@@ -1,32 +1,31 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/boros-legionnaire
 - source/spell/background/selesnya-initiate
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/cleric
 - source/spell/class/paladin
 - source/spell/class/ranger
+- source/spell/feat/mark-of-hospitality
 - source/spell/level/2nd-level
 - source/spell/school/abjuration
 - source/spell/subclass/clockwork-soul
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/peace-domain
-- source/spell/subrace/halfling-mark-of-hospitality
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Cleric
 - Cleric (Peace Domain)
 - Paladin
 - Ranger
 - Sorcerer (Clockwork Soul)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Aid
+- "Aid"
 level: 2
 school: abjuration
 ritual: false
@@ -50,6 +49,6 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Peace Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md); [Sorcerer (Clockwork Soul)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Peace Domain)](Compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Sorcerer (Clockwork Soul)](Compendium/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

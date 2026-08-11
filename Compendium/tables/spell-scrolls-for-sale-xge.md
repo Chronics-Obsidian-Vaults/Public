@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Spell Scrolls for Sale
+- "Spell Scrolls for Sale"
 ---
 # Spell Scrolls for Sale
 *Source: Xanathar's Guide to Everything* 

@@ -7,7 +7,7 @@ tags:
 - source/optional-feature/fs-f
 - source/optional-feature/fs-r
 aliases:
-- Archery
+- "Archery"
 ---
 # Archery
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

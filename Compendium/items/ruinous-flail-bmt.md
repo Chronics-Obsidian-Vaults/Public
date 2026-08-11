@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Ruinous Flail"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -15,7 +16,7 @@ rarity: rare
 attunement: required
 ---
 # Ruinous Flail
-*Weapon ([flail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/flail.md)), rare (requires attunement)*  
+*Weapon ([flail](Compendium/items/flail.md)), rare (requires attunement)*  
 
 
 - **Damage**: 1d8 bludgeoning

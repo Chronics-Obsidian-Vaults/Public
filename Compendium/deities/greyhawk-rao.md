@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/knowledge
 - source/domain/peace
-aliases: 
-- Rao
+aliases:
+- "Rao"
 ---
 # Rao
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 33* 

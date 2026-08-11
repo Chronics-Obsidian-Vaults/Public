@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Trapper
+- "Trapper"
 ---
-# [Trapper](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/trapper-mpmm.md)
+# [Trapper](Compendium/bestiary/monstrosity/trapper-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245, Volo's Guide to Monsters p. 194*  
 
 A trapper is a manta-like creature that usually lurks in subterranean environments. It can change the color and texture of its tough, outward-facing side to help it blend in with its surroundings, while its soft, inward-facing side clings to the floor, wall, or ceiling in its hunting territory. It remains motionless as it waits for prey to come close. When a target is within its reach, it peels itself away from the surface and wraps around its prey, crushing, smothering, and then digesting it. Only a scattering of bones, metal, treasure, and other indigestible bits is left behind.
@@ -21,7 +22,7 @@ A trapper's ability to alter the color and texture of its outer side enables it 
 
 A trapper that lurks on the floor of its hunting grounds can cover any remains there with its body, making them look like irregularities in the surface. The creature might instead attach itself to a nearby wall or a ceiling, using the remnants as bait; any creature that stops to investigate the bones for valuables becomes the trapper's next meal.
 
-A trapper needs to eat a [halfling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/halfling.md)-sized meal once per week to remain sated. Given a steady supply of food, trappers are content to stay in one place, making them a threat along well-traveled dungeon corridor and on routes through the wilderness that see a lot of traffic. When prey is scarce, a trapper enters a state of hibernation that can last for months, though it is still aware when prey comes near. A trapper on the verge of starvation might defy its instincts and abandon its old territory in search of better hunting.
+A trapper needs to eat a [halfling](Compendium/races/halfling.md)-sized meal once per week to remain sated. Given a steady supply of food, trappers are content to stay in one place, making them a threat along well-traveled dungeon corridor and on routes through the wilderness that see a lot of traffic. When prey is scarce, a trapper enters a state of hibernation that can last for months, though it is still aware when prey comes near. A trapper on the verge of starvation might defy its instincts and abandon its old territory in search of better hunting.
 
 ```statblock
 "name": "Trapper (MPMM)"
@@ -42,10 +43,9 @@ A trapper needs to eat a [halfling](/Campaigns/Chronics%20of%20the%20Times%20Bef
   - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 11"
 "languages": ""
 "cr": "3"
@@ -53,25 +53,24 @@ A trapper needs to eat a [halfling](/Campaigns/Chronics%20of%20the%20Times%20Bef
   - "desc": "If the trapper is motionless on a floor, wall, or ceiling at the start\
       \ of combat, it has advantage on its initiative roll. Moreover, if a creature\
       \ hasn't observed the trapper move or act, that creature must succeed on a DC\
-      \ 18 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation))\
-      \ check to discern that the trapper isn't part of the floor, wall, or ceiling."
+      \ 18 Intelligence ([Investigation](Rules/skills.md#Investigation)) check to\
+      \ discern that the trapper isn't part of the floor, wall, or ceiling."
     "name": "False Appearance"
   - "desc": "The trapper can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
   - "desc": "One Large or smaller creature within 10 feet of the trapper must succeed\
-      \ on a DC 13 Dexterity saving throw or be [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ on a DC 13 Dexterity saving throw or be [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 14). Until the grapple ends, the target takes 13 (3d6 + 3) bludgeoning\
-      \ damage plus 3 (1d6) acid damage at the start of each of its turns. While [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ in this way, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-      \ [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
+      \ damage plus 3 (1d6) acid damage at the start of each of its turns. While [grappled](Rules/conditions.md#Grappled)\
+      \ in this way, the target is [restrained](Rules/conditions.md#Restrained), [blinded](Rules/conditions.md#Blinded),\
       \ and deprived of air. The trapper can smother only one creature at a time."
     "name": "Smother"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/trapper-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/trapper-mpmm.webp"
 ```
 ^statblock
 

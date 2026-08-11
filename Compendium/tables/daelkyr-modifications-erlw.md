@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Daelkyr Modifications
+- "Daelkyr Modifications"
 ---
 # Daelkyr Modifications
 *Source: Eberron: Rising from the Last War p. 284* 

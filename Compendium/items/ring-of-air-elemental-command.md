@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/tier/major
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Air Elemental Command"
 item_type: wondrous
 item_subtype: ring
@@ -16,19 +17,19 @@ attunement: required
 ---
 # Ring of Air Elemental Command
 *Ring, major, legendary (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/ring-of-air-elemental-command.webp#right)
+![](Compendium/items/img/ring-of-air-elemental-command.webp#right)
 
 
 While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Air, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Air.
 
 The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
 
-You can expend 2 of the ring's charges to cast [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md) on an [air elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/air-elemental.md). In addition, when you fall, you descend 60 feet per round and take no damage from falling. You can also speak and understand Auran.
+You can expend 2 of the ring's charges to cast [dominate monster](Compendium/spells/dominate-monster.md) on an [air elemental](Compendium/bestiary/elemental/air-elemental.md). In addition, when you fall, you descend 60 feet per round and take no damage from falling. You can also speak and understand Auran.
 
-If you help slay an [air elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/air-elemental.md) while attuned to the ring, you gain access to the following additional properties:
+If you help slay an [air elemental](Compendium/bestiary/elemental/air-elemental.md) while attuned to the ring, you gain access to the following additional properties:
 
 - You have resistance to lightning damage.  
 - You have a flying speed equal to your walking speed and can hover.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [chain lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chain-lightning.md) (3 charges), [gust of wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-of-wind.md) (2 charges), or [wind wall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wind-wall.md) (1 charge).  
+- You can cast the following spells from the ring, expending the necessary number of charges: [chain lightning](Compendium/spells/chain-lightning.md) (3 charges), [gust of wind](Compendium/spells/gust-of-wind.md) (2 charges), or [wind wall](Compendium/spells/wind-wall.md) (1 charge).  
 
 *Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

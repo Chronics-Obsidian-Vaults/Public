@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Chambers; Chamber
+- "Chambers; Chamber"
 ---
 # Chambers; Chamber
 *Source: Dungeon Master's Guide p. 291* 

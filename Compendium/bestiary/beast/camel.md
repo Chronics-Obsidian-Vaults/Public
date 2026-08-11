@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Camel
+- "Camel"
 ---
-# [Camel](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/camel.md)
+# [Camel](Compendium/bestiary/beast/camel.md)
 *Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -41,7 +42,7 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/camel.webp"
+"image": "Compendium/bestiary/beast/token/camel.webp"
 ```
 ^statblock
 

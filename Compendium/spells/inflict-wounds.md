@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -17,7 +18,7 @@ classes:
 - Paladin (Oathbreaker)
 - Sorcerer (Divine Soul, Evil)
 aliases:
-- Inflict Wounds
+- "Inflict Wounds"
 level: 1
 school: necromancy
 ritual: false
@@ -41,6 +42,6 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d10` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oathbreaker)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Sorcerer (Divine Soul, Evil)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oathbreaker)](Compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Sorcerer (Divine Soul, Evil)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 253. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

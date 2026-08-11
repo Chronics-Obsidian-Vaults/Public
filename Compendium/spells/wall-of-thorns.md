@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -11,7 +12,7 @@ classes:
 - Bard (Magical Secrets)
 - Druid
 aliases:
-- Wall of Thorns
+- "Wall of Thorns"
 level: 6
 school: conjuration
 ritual: false
@@ -39,6 +40,6 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by `1d8` for each slot level above 6th.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

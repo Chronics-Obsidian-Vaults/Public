@@ -6,12 +6,12 @@ tags:
 - source/compendium/src/5e/erlw
 - source/deity/eberron
 - source/domain/trickery
-aliases: 
-- Kol Korran
+aliases:
+- "Kol Korran"
 ---
 # Kol Korran
 *Source: Eberron: Rising from the Last War p. 141* 
-![The Sovereign Host](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/erlw-the-sovereign-host.webp#symbol)
+![The Sovereign Host](Compendium/deities/img/erlw-the-sovereign-host.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

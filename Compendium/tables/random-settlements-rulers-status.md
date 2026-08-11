@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Random Settlements; Ruler's Status
+- "Random Settlements; Ruler's Status"
 ---
 # Random Settlements; Ruler's Status
 *Source: Dungeon Master's Guide p. 112* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -16,10 +17,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guard
+- "Guard"
 ---
-# [Guard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/guard.md)
-*Source: Monster Manual p. 347, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Guard](Compendium/bestiary/humanoid/guard.md)
+*Source: Monster Manual p. 347. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 
@@ -30,8 +31,7 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -44,8 +44,10 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
@@ -56,10 +58,7 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
     "name": "Spear"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/guard.webp"
+"image": "Compendium/bestiary/humanoid/token/guard.webp"
 ```
 ^statblock
 

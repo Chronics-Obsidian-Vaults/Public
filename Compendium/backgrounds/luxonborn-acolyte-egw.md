@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/egw
 aliases:
-- Luxonborn (Acolyte)
+- "Luxonborn (Acolyte)"
 ---
 # Luxonborn (Acolyte)
 *Source: Explorer's Guide to Wildemount p. 203*  
 
 
-- **Skill Proficiencies.** [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)  
+- **Skill Proficiencies.** [Insight](Rules/skills.md#Insight), [Religion](Rules/skills.md#Religion)  
 - **Languages.** Two of your choice  
-- **Equipment.** A [holy symbol](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/holy-symbol.md) (a gift to you when you entered the priesthood), a prayer [book](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/book.md) or prayer wheel, 5 sticks of incense, vestments, a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Equipment.** A [holy symbol](Compendium/items/holy-symbol.md) (a gift to you when you entered the priesthood), a prayer [book](Compendium/items/book.md) or prayer wheel, 5 sticks of incense, vestments, a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 Every acolyte is a servant of some god. But you serve the Luxon, a being that you believe transcends godhood and created the cosmos. No mere priest, you are a student of potential, for the Luxon is potentiality incarnate. Your Shelter of the Faithful feature applies to all who venerate the Luxon, and to all who practice the art of dunamancy that the Luxon bestowed upon the world.
 

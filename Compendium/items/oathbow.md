@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
@@ -8,7 +9,7 @@ tags:
 - source/item/tier/major
 - source/item/weapon/martial
 - source/item/weapon/ranged
-aliases: 
+aliases:
 - "Oathbow"
 item_type: weapon
 item_subtype: "martial, ranged"
@@ -16,12 +17,12 @@ rarity: very-rare
 attunement: required
 ---
 # Oathbow
-*Weapon ([longbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longbow.md)), major, very rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/oathbow.webp#right)
+*Weapon ([longbow](Compendium/items/longbow.md)), major, very rare (requires attunement)*  
+![](Compendium/items/img/oathbow.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 When you nock an arrow on this bow, it whispers in Elvish, "Swift defeat to my enemies." When you use this weapon to make a ranged attack, you can, as a command phrase, say, "Swift death to you who have wronged me." The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.

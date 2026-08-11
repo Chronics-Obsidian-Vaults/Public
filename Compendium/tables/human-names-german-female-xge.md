@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Human Names – German, Female
+- "Human Names – German, Female"
 ---
 # Human Names – German, Female
 *Source: Xanathar's Guide to Everything p. 181* 

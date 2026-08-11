@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Selesnya Character Goals; Selesnya Assignments
+- "Selesnya Character Goals; Selesnya Assignments"
 ---
 # Selesnya Character Goals; Selesnya Assignments
 *Source: Guildmasters' Guide to Ravnica p. 156* 

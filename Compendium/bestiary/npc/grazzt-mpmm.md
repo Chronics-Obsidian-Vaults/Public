@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/24
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Graz'zt
+- "Graz'zt"
 ---
-# [Graz'zt](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/grazzt-mpmm.md)
+# [Graz'zt](Compendium/bestiary/npc/grazzt-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 148, Mordenkainen's Tome of Foes p. 149*  
 
 The appearance of this demon lord is a warning that not all that is beautiful is good. Every plane and curve of his nine-foot-tall body, every glance of his burning eyes, promises a mixture of pleasure and pain. Graz'zt can transform himself at will, appearing in any humanlike form that pleases him or his onlookers, all equally tempting in their own ways. In every form, though, a subtle wrongness pervades his beauty, from the cruel cast of his features to the six fingers on each hand and six toes on each foot.
@@ -57,20 +58,17 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
   - "constitution": !!int "12"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+15"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+15"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 22"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 22"
 "languages": "all, telepathy 120 ft."
 "cr": "24"
 "traits":
@@ -91,15 +89,11 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
     "name": "Teleport"
   - "desc": "Graz'zt casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 23):\n\n**At\
-      \ will:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\n\
-      \n**3/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md),\
-      \ [telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md),\
-      \ [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md)\n\
-      \n**1/day each:** [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md),\
-      \ [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md)"
+      \ will:** [charm person](Compendium/spells/charm-person.md), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [dispel magic](Compendium/spells/dispel-magic.md)\n\n**3/day each:** [darkness](Compendium/spells/darkness.md),\
+      \ [dominate person](Compendium/spells/dominate-person.md), [telekinesis](Compendium/spells/telekinesis.md),\
+      \ [teleport](Compendium/spells/teleport.md)\n\n**1/day each:** [dominate monster](Compendium/spells/dominate-monster.md),\
+      \ [greater invisibility](Compendium/spells/greater-invisibility.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Graz'zt transforms into a form that resembles a Medium Humanoid or back\
@@ -121,7 +115,7 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
       \ an individual is in the lair to target that creature. He issues the same command\
       \ to all the targets.  \n- **Conjure Mirrors.** Smooth surfaces within the lair\
       \ become as reflective as a polished mirror. Until a different lair action is\
-      \ used, creatures within the lair have disadvantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+      \ used, creatures within the lair have disadvantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide.  "
     "name": ""
 "regional_effects":
@@ -129,13 +123,13 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
       \ one or more of the following effects:\n\n- **Agitated Beasts.** Wild beasts\
       \ within 6 miles of the lair break into frequent conflicts and coupling, mirroring\
       \ the behavior that occurs during their mating seasons.  \n- **Beguiling Realm.**\
-      \ Within 6 miles of the lair, all Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight))\
-      \ checks have disadvantage, and all Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception))\
-      \ and Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion))\
-      \ checks have advantage.  \n- **Mirrors Everywhere.** Flat surfaces within 1\
-      \ mile of the lair that are made of stone or metal become highly reflective,\
-      \ as though polished to a shine. These surfaces become supernaturally mirrorlike.\
-      \  \n\nIf Graz'zt dies, these effects fade over the course of 1d10 days."
+      \ Within 6 miles of the lair, all Wisdom ([Insight](Rules/skills.md#Insight))\
+      \ checks have disadvantage, and all Charisma ([Deception](Rules/skills.md#Deception))\
+      \ and Charisma ([Persuasion](Rules/skills.md#Persuasion)) checks have advantage.\
+      \  \n- **Mirrors Everywhere.** Flat surfaces within 1 mile of the lair that\
+      \ are made of stone or metal become highly reflective, as though polished to\
+      \ a shine. These surfaces become supernaturally mirrorlike.  \n\nIf Graz'zt\
+      \ dies, these effects fade over the course of 1d10 days."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Graz'zt can expend a use to take one of the following actions. Graz'zt regains\
@@ -145,13 +139,12 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
     "name": "Abyssal Magic"
   - "desc": "Graz'zt makes one Wave of Sorrow attack."
     "name": "Attack"
-  - "desc": "One creature [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by Graz'zt that Graz'zt can see must use its reaction to move up to its speed\
-      \ as Graz'zt directs."
+  - "desc": "One creature [charmed](Rules/conditions.md#Charmed) by Graz'zt that Graz'zt\
+      \ can see must use its reaction to move up to its speed as Graz'zt directs."
     "name": "Dance, My Puppet!"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/grazzt-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/grazzt-mpmm.webp"
 ```
 ^statblock

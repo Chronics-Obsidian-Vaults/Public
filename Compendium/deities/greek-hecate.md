@@ -8,8 +8,8 @@ tags:
 - source/domain/arcana
 - source/domain/knowledge
 - source/domain/trickery
-aliases: 
-- Hecate
+aliases:
+- "Hecate"
 ---
 # Hecate
 *Source: Player's Handbook p. 298, Sword Coast Adventurer's Guide p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/artisans-tools
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Artisan's Tools"
 item_type: 
 item_subtype: 
@@ -19,22 +20,22 @@ attunement: none
 
 **Items in this group:**
 
-- [Alchemist's Supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/alchemists-supplies.md)
-- [Brewer's Supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/brewers-supplies.md)
-- [Calligrapher's Supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/calligraphers-supplies.md)
-- [Carpenter's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/carpenters-tools.md)
-- [Cartographer's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cartographers-tools.md)
-- [Cobbler's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cobblers-tools.md)
-- [Cook's Utensils](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cooks-utensils.md)
-- [Glassblower's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/glassblowers-tools.md)
-- [Jeweler's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/jewelers-tools.md)
-- [Leatherworker's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leatherworkers-tools.md)
-- [Mason's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/masons-tools.md)
-- [Painter's Supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/painters-supplies.md)
-- [Potter's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potters-tools.md)
-- [Smith's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/smiths-tools.md)
-- [Tinker's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/tinkers-tools.md)
-- [Weaver's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/weavers-tools.md)
-- [Woodcarver's Tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/woodcarvers-tools.md)
+- [Alchemist's Supplies](Compendium/items/alchemists-supplies.md)
+- [Brewer's Supplies](Compendium/items/brewers-supplies.md)
+- [Calligrapher's Supplies](Compendium/items/calligraphers-supplies.md)
+- [Carpenter's Tools](Compendium/items/carpenters-tools.md)
+- [Cartographer's Tools](Compendium/items/cartographers-tools.md)
+- [Cobbler's Tools](Compendium/items/cobblers-tools.md)
+- [Cook's Utensils](Compendium/items/cooks-utensils.md)
+- [Glassblower's Tools](Compendium/items/glassblowers-tools.md)
+- [Jeweler's Tools](Compendium/items/jewelers-tools.md)
+- [Leatherworker's Tools](Compendium/items/leatherworkers-tools.md)
+- [Mason's Tools](Compendium/items/masons-tools.md)
+- [Painter's Supplies](Compendium/items/painters-supplies.md)
+- [Potter's Tools](Compendium/items/potters-tools.md)
+- [Smith's Tools](Compendium/items/smiths-tools.md)
+- [Tinker's Tools](Compendium/items/tinkers-tools.md)
+- [Weaver's Tools](Compendium/items/weavers-tools.md)
+- [Woodcarver's Tools](Compendium/items/woodcarvers-tools.md)
 
 *Source: Player's Handbook p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

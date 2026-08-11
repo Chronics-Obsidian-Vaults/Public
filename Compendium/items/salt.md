@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/trade-good
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Salt"
 item_type: 
 item_subtype: 

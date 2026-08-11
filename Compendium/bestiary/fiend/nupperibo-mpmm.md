@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nupperibo
+- "Nupperibo"
 ---
-# [Nupperibo](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/nupperibo-mpmm.md)
+# [Nupperibo](Compendium/bestiary/fiend/nupperibo-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  
 
 > [!quote] A quote from Mordenkainen  
@@ -24,7 +25,7 @@ aliases:
 
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
 
-Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [stirges](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md), and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
+Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [stirges](Compendium/bestiary/beast/stirge.md), and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
 
 A nupperibo knows nothing but the desire to destroy non-Fiends. Once a nupperibo's vermin cloud senses a potential meal, any nearby nupperibos pursue that prey tirelessly until it or the nupperibos are slain, or some other potential victim crosses the devils' path and distracts them.
 
@@ -50,16 +51,14 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
   - !!int "1"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+1"
 "damage_resistances": "acid, cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 20 ft. (blind beyond this radius), passive Perception 11"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 20 ft. (blind beyond this radius),\
+  \ passive Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "1/2"
 "traits":
@@ -79,6 +78,6 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/nupperibo-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/nupperibo-mpmm.webp"
 ```
 ^statblock

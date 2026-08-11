@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greyhawk
 - source/domain/knowledge
-aliases: 
-- Istus
+aliases:
+- "Istus"
 ---
 # Istus
 *Source: Player's Handbook p. 295* 

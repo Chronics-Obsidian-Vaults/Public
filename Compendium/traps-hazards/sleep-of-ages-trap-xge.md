@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/smpl
 aliases:
-- Sleep of Ages Trap
+- "Sleep of Ages Trap"
 ---
 # Sleep of Ages Trap
 *Generic Hazard*  

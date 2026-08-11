@@ -6,12 +6,12 @@ tags:
 - source/compendium/src/5e/xge
 - source/feat
 aliases:
-- Dragon Hide
+- "Dragon Hide"
 ---
 # Dragon Hide
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [Dragonborn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/dragonborn.md)
+**Prerequisite**: [Dragonborn](Compendium/races/dragonborn.md)
 
 You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
 

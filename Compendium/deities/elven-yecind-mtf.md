@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/life
 - source/domain/trickery
-aliases: 
-- Ye'Cind
+aliases:
+- "Ye'Cind"
 ---
 # Ye'Cind
 *Source: Mordenkainen's Tome of Foes p. 43* 

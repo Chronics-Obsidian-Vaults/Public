@@ -1,10 +1,10 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/dimir-operative
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/warlock
@@ -17,9 +17,8 @@ tags:
 - source/spell/optfeature/pact-of-the-tome
 - source/spell/race/githyanki
 - source/spell/race/githzerai
+- source/spell/race/khoravar
 - source/spell/race/kobold
-- source/spell/reward/kruphixs-devotee
-- source/spell/reward/kruphixs-disciple
 - source/spell/school/conjuration
 - source/spell/subclass/arcana-domain
 - source/spell/subclass/arcane-trickster
@@ -30,7 +29,6 @@ tags:
 - source/spell/subrace/tiefling-mammon
 - source/spell/subrace/tiefling-mephistopheles
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Cleric (Arcana Domain)
 - Fighter (Eldritch Knight)
@@ -40,7 +38,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Mage Hand
+- "Mage Hand"
 level: 0
 school: conjuration
 ritual: false
@@ -66,6 +64,6 @@ You can use your action to control the hand. You can use the hand to manipulate 
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger (Swarmkeeper)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger (Swarmkeeper)](Compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Winged Thrull
+- "Winged Thrull"
 ---
-# [Winged Thrull](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/winged-thrull-ggr.md)
+# [Winged Thrull](Compendium/bestiary/construct/winged-thrull-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 221*  
 
 Winged thrulls are at once the most intelligent of Orzhov thrulls (which isn't saying much), as well as the smallest, most unobtrusive, and most mobile. They act as messengers and spies for their Orzhov masters and tend to mimic the mannerisms and movements of the oligarchs they serve.
@@ -44,10 +45,8 @@ A thrull doesn't require air, food, drink, or sleep.
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/2"
 "actions":
@@ -63,6 +62,6 @@ A thrull doesn't require air, food, drink, or sleep.
     "name": "Self-Sacrifice"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/winged-thrull-ggr.webp"
+"image": "Compendium/bestiary/construct/token/winged-thrull-ggr.webp"
 ```
 ^statblock

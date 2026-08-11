@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Garra
+- "Garra"
 ---
-# [Garra](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/garra-erlw.md)
+# [Garra](Compendium/bestiary/npc/garra-erlw.md)
 *Source: Eberron: Rising from the Last War p. 272*  
 
 ```statblock
@@ -20,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "30"
 "hit_dice": "4d10 + 8"
 "modifier": !!int "0"
@@ -32,8 +33,10 @@ aliases:
   - !!int "9"
   - !!int "10"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"gear":
+  - "[battleaxe](Compendium/items/battleaxe.md)"
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "Common, Giant"
 "cr": "1"
 "actions":
@@ -46,6 +49,6 @@ aliases:
     "name": "Javelin"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/garra-erlw.webp"
+"image": "Compendium/bestiary/npc/token/garra-erlw.webp"
 ```
 ^statblock

@@ -7,15 +7,15 @@ tags:
 - source/deity/faerunian
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Auril
-- The Frostmaiden
-- Lady Frostkiss
-- Icedawn
+aliases:
+- "Auril"
+- "The Frostmaiden"
+- "Lady Frostkiss"
+- "Icedawn"
 ---
 # Auril
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-auril.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-auril.webp#symbol)
 
 - **Alternate Names**: The Frostmaiden, Lady Frostkiss, Icedawn
 - **Alignment**: Neutral Evil

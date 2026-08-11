@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases:
-- Wall of Ice
+- "Wall of Ice"
 level: 6
 school: evocation
 ritual: false
@@ -41,6 +42,6 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage the wall deals when it appears increases by `2d6`, and the damage from passing through the sheet of frigid air increases by `1d6`, for each slot level above 6th.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

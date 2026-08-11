@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wyvern
+- "Wyvern"
 ---
-# [Wyvern](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/wyvern.md)
-*Source: Monster Manual p. 303, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Wyvern](Compendium/bestiary/dragon/wyvern.md)
+*Source: Monster Manual p. 303. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Travelers in the wild sometimes look to the skies to see the dark-winged shape of a wyvern carrying its prey. These cousins to the great dragons hunt the same tangled forests and caverns as their kin. Their appearance sends ripples of alarm through the borderlands of civilization.
 
@@ -53,10 +54,9 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
   - !!int "6"
 "speed": "20 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": ""
 "cr": "6"
 "actions":
@@ -76,8 +76,7 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
     "name": "Stinger"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/wyvern.webp"
+"image": "Compendium/bestiary/dragon/token/wyvern.webp"
 ```
 ^statblock
 

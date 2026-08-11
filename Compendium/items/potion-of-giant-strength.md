@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/varies
 - source/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Giant Strength"
 item_type: wondrous
 item_subtype: potion
@@ -19,11 +20,11 @@ attunement: none
 
 **Items in this group:**
 
-- [Potion of Cloud Giant Strength](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-cloud-giant-strength.md)
-- [Potion of Fire Giant Strength](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-fire-giant-strength.md)
-- [Potion of Frost Giant Strength](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-frost-giant-strength.md)
-- [Potion of Hill Giant Strength](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-hill-giant-strength.md)
-- [Potion of Stone Giant Strength](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-stone-giant-strength.md)
-- [Potion of Storm Giant Strength](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-storm-giant-strength.md)
+- [Potion of Cloud Giant Strength](Compendium/items/potion-of-cloud-giant-strength.md)
+- [Potion of Fire Giant Strength](Compendium/items/potion-of-fire-giant-strength.md)
+- [Potion of Frost Giant Strength](Compendium/items/potion-of-frost-giant-strength.md)
+- [Potion of Hill Giant Strength](Compendium/items/potion-of-hill-giant-strength.md)
+- [Potion of Stone Giant Strength](Compendium/items/potion-of-stone-giant-strength.md)
+- [Potion of Storm Giant Strength](Compendium/items/potion-of-storm-giant-strength.md)
 
 *Source: Dungeon Master's Guide p. 187*

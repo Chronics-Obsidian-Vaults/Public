@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Chapter 6: Friends and Foes
+- "Chapter 6: Friends and Foes"
 ---
 # Chapter 6: Friends and Foes
 *Source: Guildmasters' Guide to Ravnica, p. 183* 
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/guildmasters-guide-to-ravnica/img/122-601.webp#center)
+![](Compendium/books/guildmasters-guide-to-ravnica/img/122-601.webp#center)
 
 Ravnica is home to a great variety of creatures, including some that are unknown on other worlds in Dungeons & Dragons. This chapter provides stat blocks for many of these creatures, and it concludes with a collection of nonplayer characters who fill the ranks of Ravnica's guilds.
 
@@ -30,16 +30,16 @@ Azorius lawmages craft one-eyed homunculi to perform menial tasks in Azorius bui
 
 #### Sphinxes of Judgment
 
-Azorius sphinxes, known as sphinxes of judgment, wield hieromancy—the power of law magic—with the force of a judge's gavel to imprison criminals and compel truth from them. A [sphinx of judgment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/sphinx-of-judgment-ggr.md) is a gynosphinx, as described in the "Monster Manual", but it is an Azorius spellcaster with the following wizard spells prepared:
+Azorius sphinxes, known as sphinxes of judgment, wield hieromancy—the power of law magic—with the force of a judge's gavel to imprison criminals and compel truth from them. A [sphinx of judgment](Compendium/bestiary/monstrosity/sphinx-of-judgment-ggr.md) is a gynosphinx, as described in the "Monster Manual", but it is an Azorius spellcaster with the following wizard spells prepared:
 
-- Cantrips (at will): [friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md), [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md), [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md)  
-- 1st level (4 slots): [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md), [ensnaring strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ensnaring-strike.md), [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md)  
-- 2nd level (3 slots): [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md), [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md), [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)  
-- 3rd level (3 slots): [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md), [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md), [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)  
-- 4th level (3 slots): [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md), [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md)  
-- 5th level (1 slot): [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md)  
+- Cantrips (at will): [friends](Compendium/spells/friends.md), [mage hand](Compendium/spells/mage-hand.md), [message](Compendium/spells/message.md)  
+- 1st level (4 slots): [command](Compendium/spells/command.md), [ensnaring strike](Compendium/spells/ensnaring-strike.md), [shield](Compendium/spells/shield.md)  
+- 2nd level (3 slots): [calm emotions](Compendium/spells/calm-emotions.md), [hold person](Compendium/spells/hold-person.md), [suggestion](Compendium/spells/suggestion.md)  
+- 3rd level (3 slots): [clairvoyance](Compendium/spells/clairvoyance.md), [counterspell](Compendium/spells/counterspell.md), [dispel magic](Compendium/spells/dispel-magic.md)  
+- 4th level (3 slots): [banishment](Compendium/spells/banishment.md), [divination](Compendium/spells/divination.md)  
+- 5th level (1 slot): [dominate person](Compendium/spells/dominate-person.md)  
 
-![Azorius Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/azorius-creatures-ggr.md)
+![Azorius Creatures](Compendium/tables/azorius-creatures-ggr.md)
 
 ### Boros Creatures
 
@@ -49,13 +49,13 @@ The Boros Legion employs many different creatures to swell the ranks of its sold
 
 Flame-kin (which use the azer stat block in the "Monster Manual") are elemental soldiers magically created and animated to serve the legion as scouts and shock troops. Fanatical and inflexible, they are relics of a time when the guild was more concerned with zealotry than justice. They take the field for large military engagements.
 
-![Boros Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/boros-creatures-ggr.md)
+![Boros Creatures](Compendium/tables/boros-creatures-ggr.md)
 
 ### Dimir Creatures
 
 Alongside human and vampire spies and assassins, a variety of stealthy and shadowy monsters contribute to the work of House Dimir. Doppelgangers and invisible stalkers move unseen among the populace. Horrors—as well as gricks, intellect devourers, and similar monsters—are thought to be the fears of Ravnica's populace given form by Dimir magic. And undead such as shadows, wraiths, and Nightveil specters keep watch over secret Dimir territories.
 
-![Dimir Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dimir-creatures-ggr.md)
+![Dimir Creatures](Compendium/tables/dimir-creatures-ggr.md)
 
 ### Golgari Creatures
 
@@ -77,13 +77,13 @@ Some Golgari creatures are symbiotic fusions of fungus and living creatures. Gol
 
 Beetles, centipedes, spiders, and countless other insects and arachnids infest Golgari warrens. These creatures, often associated with decay and rebirth, are prized by the guild. Giant bugs serve as beasts of burden, companions, steeds, and guardians. Among the largest of these is the Deadbridge goliath beetle (equivalent to the triceratops in the *Monster Manual*).
 
-Piranha beetles (best represented as a [swarm of insects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/swarm-of-insects.md), from the "Monster Manual") burrow through the soft earth and gather into swarms to overtake their victims and strip the flesh from them. Skein spiders (as giant spiders, from the "Monster Manual") are an important part of Golgari reclamation work: fungus grows rapidly along the silken spiderwebs, expanding to engulf architecture and hasten the Golgari annexation process.
+Piranha beetles (best represented as a [swarm of insects](Compendium/bestiary/beast/swarm-of-insects.md), from the "Monster Manual") burrow through the soft earth and gather into swarms to overtake their victims and strip the flesh from them. Skein spiders (as giant spiders, from the "Monster Manual") are an important part of Golgari reclamation work: fungus grows rapidly along the silken spiderwebs, expanding to engulf architecture and hasten the Golgari annexation process.
 
 #### Zombies
 
 The guild encourages the use and exploration of necromancy. Fungus covers the bodies of most of the undead that serve the guild, the majority of which are fungus drudges (equivalent to zombies in the "Monster Manual")—mindless servants animated by the fungus that infests their bodies.
 
-![Golgari Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/golgari-creatures-ggr.md)
+![Golgari Creatures](Compendium/tables/golgari-creatures-ggr.md)
 
 ### Gruul Creatures
 
@@ -115,7 +115,7 @@ Nearly all the Gruul Clans include hill giants, stone giants, cyclopes, ogres, e
 
 Once a hydra chooses a lair and declares the surrounding land its territory, it's almost impossible to drive the creature out. The Gruul revere these multiheaded predators as vestiges of the ancient times before the guilds took over the world. They don't kill hydras for trophies, but pulling a spine from a hydra's neck is a mark of great bravery among the Gruul.
 
-![Gruul Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/gruul-creatures-ggr.md)
+![Gruul Creatures](Compendium/tables/gruul-creatures-ggr.md)
 
 ### Izzet Creatures
 
@@ -123,21 +123,21 @@ Izzet laboratories are staffed with attendants (commoners) and chemisters (mages
 
 The Izzet League employs elementals formed from the combination of two or more elemental forces, including mephits of the smoke, steam, ice, and magma varieties.
 
-![Izzet Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/izzet-creatures-ggr.md)
+![Izzet Creatures](Compendium/tables/izzet-creatures-ggr.md)
 
 ### Orzhov Creatures
 
 The Orzhov Syndicate attracts and entraps beings of all kinds, from lowly bats and manufactured thrulls to brutal giants and exalted angels. Orzhov gargoyles, animated by magic that manifests as a green, smoky glow in their eyes and gaping mouths, keep watch over banks and basilicas, and bloodthirsty vampires lurk in the vaults and crypts below.
 
-![Orzhov Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/orzhov-creatures-ggr.md)
+![Orzhov Creatures](Compendium/tables/orzhov-creatures-ggr.md)
 
 ### Rakdos Creatures
 
-All sorts of savage, howling beasts accompany [Rakdos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rakdos-ggr.md) cultists. Hell hounds, nightmares, and magmins might perform alongside the other entertainers or accompany notable members of the cult as guardians and companions. [Rakdos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rakdos-ggr.md) giants, along with ogres draped in hooked chains and spikes, carry and set up tents and stages—and cause utter mayhem when blood lust seizes them.
+All sorts of savage, howling beasts accompany [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md) cultists. Hell hounds, nightmares, and magmins might perform alongside the other entertainers or accompany notable members of the cult as guardians and companions. [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md) giants, along with ogres draped in hooked chains and spikes, carry and set up tents and stages—and cause utter mayhem when blood lust seizes them.
 
-![Rakdos Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/rakdos-creatures-ggr.md)
+![Rakdos Creatures](Compendium/tables/rakdos-creatures-ggr.md)
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/guildmasters-guide-to-ravnica/img/123-602.webp#center)
+![](Compendium/books/guildmasters-guide-to-ravnica/img/123-602.webp#center)
 
 ### Selesnya Creatures
 
@@ -155,7 +155,7 @@ Many Selesnya buildings, temples, and paths are protected by treants or carnivor
 
 Most often found carrying equenauts in battle, pegasi are ready allies who share the guild's goals and virtues. Members of the guild raise them from infancy, carefully protecting the foals from griffons, drakes, and other aerial predators.
 
-![Selesnya Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/selesnya-creatures-ggr.md)
+![Selesnya Creatures](Compendium/tables/selesnya-creatures-ggr.md)
 
 ### Simic Creatures
 
@@ -169,7 +169,7 @@ Simic scientists use the term "benthid" to refer to the leviathans of the deep. 
 
 Ravnica's merfolk are unique to the Simic. They emerged from the depths of the plane's long-buried oceans less than a century ago and immediately took on leadership positions in the guild. They claim a deep connection to Ravnica's primal oceans, which are almost untouched by civilization. They have the statistics of the merfolk in the "Monster Manual", except that they speak Common and Merfolk, and their legs give them a walking speed of 30 feet.
 
-![Simic Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/simic-creatures-ggr.md)
+![Simic Creatures](Compendium/tables/simic-creatures-ggr.md)
 
 ### Guildless Creatures
 
@@ -185,11 +185,11 @@ A monster that doesn't appear on the tables in this section can show up in Ravni
 
 #### Drakes
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/guildmasters-guide-to-ravnica/img/124-603.webp#center)
+![](Compendium/books/guildmasters-guide-to-ravnica/img/124-603.webp#center)
 
 The winged reptiles known as drakes are a common sight in the skies of Ravnica. They soar above the spires and rooftops hunting for aerial prey. Highly trainable, they are favored as pets, servants, and mounts.
 
-The most common drakes, called wind drakes, are about the size of a human and use the statistics of a [pteranodon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/pteranodon.md). The smallest drakes are the size of a bird of prey and use the statistics of an [eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/eagle.md); larger ones have the statistics of a [giant eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-eagle.md).
+The most common drakes, called wind drakes, are about the size of a human and use the statistics of a [pteranodon](Compendium/bestiary/beast/pteranodon.md). The smallest drakes are the size of a bird of prey and use the statistics of an [eagle](Compendium/bestiary/beast/eagle.md); larger ones have the statistics of a [giant eagle](Compendium/bestiary/beast/giant-eagle.md).
 
 #### Pack Beasts
 
@@ -219,4 +219,4 @@ A krovod is a slow-witted, ox-like animal.
 
 A raktusk is a bison-like creature, about 10 feet tall at the shoulder.
 
-![Pack Beasts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/pack-beasts-ggr.md)
+![Pack Beasts](Compendium/tables/pack-beasts-ggr.md)

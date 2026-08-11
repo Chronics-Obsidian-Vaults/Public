@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Automatic Success
+- "Automatic Success"
 ---
 # Automatic Success
 *Source: Dungeon Master's Guide p. 239* 

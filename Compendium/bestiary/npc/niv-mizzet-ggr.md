@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/26
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Niv-Mizzet
+- "Niv-Mizzet"
 ---
-# [Niv-Mizzet](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/niv-mizzet-ggr.md)
+# [Niv-Mizzet](Compendium/bestiary/npc/niv-mizzet-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 241*  
 
 Possessed of arrogance and vanity that matches his vast intellect and tremendous power, Niv-Mizzet is the ancient dragon who founded and continues to control the Izzet League. From his private laboratory at the top of the Izzet guildhall, Niv-Mizzet directs the research and experiments of his countless underlings. He coordinates a tremendous number of apparently unrelated projects, working toward some mysterious end.
@@ -41,65 +42,51 @@ There can be little doubt that this ancient dragon is one of the most intelligen
   - "intelligence": !!int "18"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+18"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+11"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "cold, psychic, thunder"
 "damage_immunities": "fire, lightning"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "26"
 "traits":
   - "desc": "Niv-Mizzet is a 20th-level Izzet spellcaster. His spellcasting ability\
       \ is Intelligence (spell save DC 26, +18 to hit with spell attacks). He has\
-      \ the following wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md),\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md),\
-      \ [ray of frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md),\
-      \ [shocking grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md)\n\
-      \n**1st level (4 slots):** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md),\
-      \ [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md),\
-      \ [unseen servant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/unseen-servant.md)\n\
-      \n**2nd level (3 slots):** [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md),\
-      \ [enlarge/reduce](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enlarge-reduce.md),\
-      \ [flaming sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flaming-sphere.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md)\n\
-      \n**3rd level (3 slots):** [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md),\
-      \ [slow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/slow.md)\n\
-      \n**4th level (3 slots):** [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [fabricate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fabricate.md)\n\
-      \n**5th level (2 slots):** [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md),\
-      \ [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md),\
-      \ [wall of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md)\n\
-      \n**6th level (1 slots):** [chain lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chain-lightning.md),\
-      \ [disintegrate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disintegrate.md),\
-      \ [true seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-seeing.md)\n\
-      \n**7th level (1 slots):** [project image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/project-image.md),\
-      \ [reverse gravity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/reverse-gravity.md),\
-      \ [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md)\n\
-      \n**8th level (1 slots):** [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md),\
-      \ [maze](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/maze.md),\
-      \ [power word stun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-stun.md)\n\
-      \n**9th level (1 slots):** [prismatic wall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prismatic-wall.md)"
+      \ the following wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](Compendium/spells/fire-bolt.md),\
+      \ [light](Compendium/spells/light.md), [prestidigitation](Compendium/spells/prestidigitation.md),\
+      \ [ray of frost](Compendium/spells/ray-of-frost.md), [shocking grasp](Compendium/spells/shocking-grasp.md)\n\
+      \n**1st level (4 slots):** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [magic missile](Compendium/spells/magic-missile.md), [shield](Compendium/spells/shield.md),\
+      \ [thunderwave](Compendium/spells/thunderwave.md), [unseen servant](Compendium/spells/unseen-servant.md)\n\
+      \n**2nd level (3 slots):** [blur](Compendium/spells/blur.md), [enlarge/reduce](Compendium/spells/enlarge-reduce.md),\
+      \ [flaming sphere](Compendium/spells/flaming-sphere.md), [hold person](Compendium/spells/hold-person.md),\
+      \ [scorching ray](Compendium/spells/scorching-ray.md)\n\n**3rd level (3 slots):**\
+      \ [counterspell](Compendium/spells/counterspell.md), [fireball](Compendium/spells/fireball.md),\
+      \ [lightning bolt](Compendium/spells/lightning-bolt.md), [slow](Compendium/spells/slow.md)\n\
+      \n**4th level (3 slots):** [confusion](Compendium/spells/confusion.md), [dimension\
+      \ door](Compendium/spells/dimension-door.md), [fabricate](Compendium/spells/fabricate.md)\n\
+      \n**5th level (2 slots):** [conjure elemental](Compendium/spells/conjure-elemental.md),\
+      \ [polymorph](Compendium/spells/polymorph.md), [wall of fire](Compendium/spells/wall-of-fire.md),\
+      \ [wall of force](Compendium/spells/wall-of-force.md)\n\n**6th level (1 slots):**\
+      \ [chain lightning](Compendium/spells/chain-lightning.md), [disintegrate](Compendium/spells/disintegrate.md),\
+      \ [true seeing](Compendium/spells/true-seeing.md)\n\n**7th level (1 slots):**\
+      \ [project image](Compendium/spells/project-image.md), [reverse gravity](Compendium/spells/reverse-gravity.md),\
+      \ [teleport](Compendium/spells/teleport.md)\n\n**8th level (1 slots):** [control\
+      \ weather](Compendium/spells/control-weather.md), [maze](Compendium/spells/maze.md),\
+      \ [power word stun](Compendium/spells/power-word-stun.md)\n\n**9th level (1\
+      \ slots):** [prismatic wall](Compendium/spells/prismatic-wall.md)"
     "name": "Spellcasting"
   - "desc": "If Niv-Mizzet fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "Niv-Mizzet can maintain [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
+  - "desc": "Niv-Mizzet can maintain [concentration](Rules/conditions.md#Concentration)\
       \ on two different spells at the same time. In addition, he has advantage on\
-      \ saving throws to maintain [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
+      \ saving throws to maintain [concentration](Rules/conditions.md#Concentration)\
       \ on spells."
     "name": "Locus of the Firemind"
   - "desc": "Niv-Mizzet has advantage on saving throws against spells and other magical\
@@ -134,13 +121,13 @@ There can be little doubt that this ancient dragon is one of the most intelligen
     "name": "Tail Attack"
   - "desc": "Niv-Mizzet beats his wings. Each creature within 15 feet of him must\
       \ succeed on a DC 25 Dexterity saving throw or take 14 (2d4 + 9) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ Niv-Mizzet can then fly up to half his flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). Niv-Mizzet can then\
+      \ fly up to half his flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
   - "desc": "Niv-Mizzet regains a spell slot of 3rd level or lower."
     "name": "Dracogenius (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/niv-mizzet-ggr.webp"
+"image": "Compendium/bestiary/npc/token/niv-mizzet-ggr.webp"
 ```
 ^statblock

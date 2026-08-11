@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Guild Representative Roles
+- "Guild Representative Roles"
 ---
 # Guild Representative Roles
 *Source: Tasha's Cauldron of Everything p. 95* 
@@ -14,10 +14,10 @@ aliases:
 
 | Role | Backgrounds |
 |------|-------------|
-| Researcher | [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/acolyte.md), [Entertainer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/entertainer.md), [Guild Artisan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/guild-artisan.md), [Sage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sage.md) |
-| Negotiator | [Charlatan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/charlatan.md), [Entertainer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/entertainer.md), [Guild Artisan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/guild-artisan.md), [Noble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/noble.md), [Sailor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sailor.md) |
-| Saboteur | [Charlatan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/charlatan.md), [Criminal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/criminal.md), [Guild Artisan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/guild-artisan.md), [Soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/soldier.md), [Urchin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/urchin.md) |
-| Guard | [Criminal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/criminal.md), [Folk Hero](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/folk-hero.md), [Outlander](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/outlander.md), [Sailor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sailor.md), [Soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/soldier.md) |
-| Explorer | [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/acolyte.md), [Folk Hero](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/folk-hero.md), [Guild Artisan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/guild-artisan.md), [Outlander](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/outlander.md), [Sailor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sailor.md) |
+| Researcher | [Acolyte](Compendium/backgrounds/acolyte.md), [Entertainer](Compendium/backgrounds/entertainer.md), [Guild Artisan](Compendium/backgrounds/guild-artisan.md), [Sage](Compendium/backgrounds/sage.md) |
+| Negotiator | [Charlatan](Compendium/backgrounds/charlatan.md), [Entertainer](Compendium/backgrounds/entertainer.md), [Guild Artisan](Compendium/backgrounds/guild-artisan.md), [Noble](Compendium/backgrounds/noble.md), [Sailor](Compendium/backgrounds/sailor.md) |
+| Saboteur | [Charlatan](Compendium/backgrounds/charlatan.md), [Criminal](Compendium/backgrounds/criminal.md), [Guild Artisan](Compendium/backgrounds/guild-artisan.md), [Soldier](Compendium/backgrounds/soldier.md), [Urchin](Compendium/backgrounds/urchin.md) |
+| Guard | [Criminal](Compendium/backgrounds/criminal.md), [Folk Hero](Compendium/backgrounds/folk-hero.md), [Outlander](Compendium/backgrounds/outlander.md), [Sailor](Compendium/backgrounds/sailor.md), [Soldier](Compendium/backgrounds/soldier.md) |
+| Explorer | [Acolyte](Compendium/backgrounds/acolyte.md), [Folk Hero](Compendium/backgrounds/folk-hero.md), [Guild Artisan](Compendium/backgrounds/guild-artisan.md), [Outlander](Compendium/backgrounds/outlander.md), [Sailor](Compendium/backgrounds/sailor.md) |
 | Expert | Any |
 ^guild-representative-roles

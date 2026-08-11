@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/mtf
 - source/reward/other
 aliases:
-- The Blessed of Corellon
+- "The Blessed of Corellon"
 ---
 # The Blessed of Corellon
 *Other*  

@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/gnome
 - source/domain/trickery
-aliases: 
-- Garl Glittergold
+aliases:
+- "Garl Glittergold"
 ---
 # Garl Glittergold
 *Source: Mordenkainen's Tome of Foes p. 111* 

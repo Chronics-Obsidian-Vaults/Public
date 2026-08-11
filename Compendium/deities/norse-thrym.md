@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/norse
 - source/domain/war
-aliases: 
-- Thrym
+aliases:
+- "Thrym"
 ---
 # Thrym
 *Source: Player's Handbook p. 299* 

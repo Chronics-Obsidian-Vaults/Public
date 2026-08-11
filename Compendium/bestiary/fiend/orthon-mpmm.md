@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/10
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orthon
+- "Orthon"
 ---
-# [Orthon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/orthon-mpmm.md)
+# [Orthon](Compendium/bestiary/fiend/orthon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 205, Mordenkainen's Tome of Foes p. 169*  
 
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
@@ -30,7 +31,7 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[half plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/half-plate-armor.md)"
+"ac_class": "[half plate](Compendium/items/half-plate-armor.md)"
 "hp": !!int "105"
 "hit_dice": "10d10 + 50"
 "modifier": !!int "3"
@@ -47,20 +48,18 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
   - "constitution": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+11"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+10"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., [truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., [truesight](Rules/senses.md#Truesight)\
   \ 30 ft., passive Perception 20"
 "languages": "Common, Infernal, telepathy 120 ft."
 "cr": "10"
@@ -72,10 +71,10 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d4 + 6) force damage, and the target must make a DC 17 Constitution saving\
       \ throw, taking 22 (4d10) poison damage on a failed save, or half as much damage\
-      \ on a successful one. On a failure, the target is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
+      \ on a successful one. On a failure, the target is [poisoned](Rules/conditions.md#Poisoned)\
+      \ for 1 minute. The [poisoned](Rules/conditions.md#Poisoned) target can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success."
     "name": "Infernal Dagger"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 100/400 ft., one target. *Hit:*\
       \ 14 (2d10 + 3) force damage. The target also suffers one of the following effects\
@@ -85,27 +84,26 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
       \ damage on a successful one.  \n- **Blindness.** The target takes 5 (1d10)\
       \ radiant damage. In addition, the target and all other creatures within 20\
       \ feet of it must each make a successful DC 17 Dexterity saving throw or be\
-      \ [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ until the end of the orthon's next turn.  \n- **Concussion.** The target and\
-      \ each creature within 20 feet of it must make a DC 17 Constitution saving throw,\
-      \ taking 13 (2d12) thunder damage on a failed save, or half as much damage on\
-      \ a successful one.  \n- **Entanglement.** The target must make a successful\
-      \ DC 17 Dexterity saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ [blinded](Rules/conditions.md#Blinded) until the end of the orthon's next\
+      \ turn.  \n- **Concussion.** The target and each creature within 20 feet of\
+      \ it must make a DC 17 Constitution saving throw, taking 13 (2d12) thunder damage\
+      \ on a failed save, or half as much damage on a successful one.  \n- **Entanglement.**\
+      \ The target must make a successful DC 17 Dexterity saving throw or be [restrained](Rules/conditions.md#Restrained)\
       \ for 1 hour by strands of sticky webbing. The target can escape by taking an\
       \ action to make a DC 17 Strength or Dexterity check and succeeding.  \n- **Paralysis.**\
       \ The target takes 22 (4d10) lightning damage and must make a successful DC\
-      \ 17 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ for 1 minute. The [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success.  \n- **Tracking.** For the next 24 hours,\
-      \ the orthon knows the direction and distance to the target, as long as it's\
-      \ on the same plane of existence. If the target is on a different plane, the\
-      \ orthon knows which one, but not the exact location there.  "
+      \ 17 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
+      \ for 1 minute. The [paralyzed](Rules/conditions.md#Paralyzed) target can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success.  \n- **Tracking.** For the next 24 hours, the orthon knows the\
+      \ direction and distance to the target, as long as it's on the same plane of\
+      \ existence. If the target is on a different plane, the orthon knows which one,\
+      \ but not the exact location there.  "
     "name": "Brass Crossbow"
 "bonus_actions":
-  - "desc": "The orthon becomes [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible).\
-      \ Any equipment it wears or carries is also [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ as long as the equipment is on its person. This invisibility ends immediately\
+  - "desc": "The orthon becomes [invisible](Rules/conditions.md#Invisible). Any equipment\
+      \ it wears or carries is also [invisible](Rules/conditions.md#Invisible) as\
+      \ long as the equipment is on its person. This invisibility ends immediately\
       \ after it makes an attack roll or is hit by an attack roll."
     "name": "Invisibility Field (Recharge 4-6)"
 "reactions":
@@ -118,7 +116,7 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/orthon-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/orthon-mpmm.webp"
 ```
 ^statblock
 

@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Azorius Functionary
+- "Azorius Functionary"
 ---
 # Azorius Functionary
 *Source: Guildmasters' Guide to Ravnica p. 33*  
 
 
-- **Skill Proficiencies.** [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)  
+- **Skill Proficiencies.** [Insight](Rules/skills.md#Insight), [Intimidation](Rules/skills.md#Intimidation)  
 - **Languages.** Two of your choice  
-- **Equipment.** An Azorius insignia, a scroll containing the text of a law important to you, a [bottle of blue ink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ink-1-ounce-bottle.md), a [pen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ink-pen.md), a set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp (Azorius-minted 1-zino coins)  
+- **Equipment.** An Azorius insignia, a scroll containing the text of a law important to you, a [bottle of blue ink](Compendium/items/ink-1-ounce-bottle.md), a [pen](Compendium/items/ink-pen.md), a set of [fine clothes](Compendium/items/fine-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp (Azorius-minted 1-zino coins)  
 
 The brutes are at the gate, chaos is looming, and the only thing standing in the way of disaster is the foundation of law and order—as embodied in the Azorius Senate. You're a proud member of the Azorius guild, which both enacts and enforces the laws that make Ravnican society function smoothly and safely.
 
@@ -31,15 +32,15 @@ For you, the spells on the Azorius Guild Spells table are added to the spell lis
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md), [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md) |
-| 1st | [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md), [ensnaring strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ensnaring-strike.md) |
-| 2nd | [arcane lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md), [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md), [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md) |
-| 3rd | [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md), [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md) |
-| 4th | [compulsion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compulsion.md), [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md) |
-| 5th | [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md) |
+| Cantrip | [friends](Compendium/spells/friends.md), [message](Compendium/spells/message.md) |
+| 1st | [command](Compendium/spells/command.md), [ensnaring strike](Compendium/spells/ensnaring-strike.md) |
+| 2nd | [arcane lock](Compendium/spells/arcane-lock.md), [calm emotions](Compendium/spells/calm-emotions.md), [hold person](Compendium/spells/hold-person.md) |
+| 3rd | [clairvoyance](Compendium/spells/clairvoyance.md), [counterspell](Compendium/spells/counterspell.md) |
+| 4th | [compulsion](Compendium/spells/compulsion.md), [divination](Compendium/spells/divination.md) |
+| 5th | [dominate person](Compendium/spells/dominate-person.md) |
 ^azorius-guild-spells
 
-Your magic often takes the form of blue or golden runes floating and glowing in the air in circular patterns or of shimmering azure barriers of magical energy. If you cast [ensnaring strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ensnaring-strike.md), for example, the vines created by the spell might appear as rune-inscribed glowing bands that wrap around the target and hold it in place.
+Your magic often takes the form of blue or golden runes floating and glowing in the air in circular patterns or of shimmering azure barriers of magical energy. If you cast [ensnaring strike](Compendium/spells/ensnaring-strike.md), for example, the vines created by the spell might appear as rune-inscribed glowing bands that wrap around the target and hold it in place.
 
 ## Suggested Characteristics
 

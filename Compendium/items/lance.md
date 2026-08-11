@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Lance"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -18,7 +19,7 @@ attunement: none
 
 
 - **Damage**: 1d12 piercing
-- **Properties**: [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Reach](Rules/item-properties.md#Reach), [special](Rules/item-properties.md#Special%20Weapons)
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.
 

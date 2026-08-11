@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/artificer
@@ -9,6 +10,7 @@ tags:
 - source/spell/class/wizard
 - source/spell/feat/aberrant-dragonmark
 - source/spell/feat/artificer-initiate
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/feat/magic-initiate/wizard-spells
 - source/spell/level/1st-level
 - source/spell/school/transmutation
@@ -22,7 +24,7 @@ classes:
 - Sorcerer
 - Wizard
 aliases:
-- Catapult
+- "Catapult"
 level: 1
 school: transmutation
 ritual: false
@@ -46,6 +48,6 @@ Choose one object weighing 1 to 5 pounds within range that isn't being worn or c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by `1d8`, for each slot level above 1st.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 150*

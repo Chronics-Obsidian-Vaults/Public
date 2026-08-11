@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ai
 aliases:
-- Gambler
+- "Gambler"
 ---
 # Gambler
 *Source: Acquisitions Incorporated p. 49*  
 
 
-- **Skill Proficiencies.** [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)  
+- **Skill Proficiencies.** [Deception](Rules/skills.md#Deception), [Insight](Rules/skills.md#Insight)  
 - **Tool Proficiencies.** One gaming set  
 - **Languages.** Any one of your choice  
-- **Equipment.** One gaming set, a lucky charm, a set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Equipment.** One gaming set, a lucky charm, a set of [fine clothes](Compendium/items/fine-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 All you need to make a lot of gold is a little gold. Except at those times when all you need to have no gold at all is a little gold. Whether you're a good gambler or a bad one rarely matters, because no one can divine the whims of Lady Luck. Sometimes you're up, sometimes you're down. But the thing about gambling is that someone is always willing to take a bet.
 

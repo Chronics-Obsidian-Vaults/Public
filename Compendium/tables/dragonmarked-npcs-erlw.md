@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Dragonmarked NPCs
+- "Dragonmarked NPCs"
 ---
 # Dragonmarked NPCs
 *Source: Eberron: Rising from the Last War p. 190* 

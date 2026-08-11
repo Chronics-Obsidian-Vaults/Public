@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -15,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orog
+- "Orog"
 ---
-# [Orog](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/orog.md)
-*Source: Monster Manual p. 247, Explorer's Guide to Wildemount*  
+# [Orog](Compendium/bestiary/humanoid/orog.md)
+*Source: Monster Manual p. 247*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -77,7 +78,7 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "42"
 "hit_dice": "5d8 + 20"
 "modifier": !!int "1"
@@ -90,12 +91,14 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+2"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
@@ -113,8 +116,7 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
     "name": "Javelin"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/orog.webp"
+"image": "Compendium/bestiary/humanoid/token/orog.webp"
 ```
 ^statblock
 

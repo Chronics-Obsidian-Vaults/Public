@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- House Tarkanan Villains
+- "House Tarkanan Villains"
 ---
 # House Tarkanan Villains
 *Source: Eberron: Rising from the Last War p. 253* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizardfolk Shaman
+- "Lizardfolk Shaman"
 ---
-# [Lizardfolk Shaman](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/lizardfolk-shaman.md)
-*Source: Monster Manual p. 205, Explorer's Guide to Wildemount*  
+# [Lizardfolk Shaman](Compendium/bestiary/humanoid/lizardfolk-shaman.md)
+*Source: Monster Manual p. 205*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
@@ -73,11 +74,11 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+6"
 "senses": "passive Perception 14"
 "languages": "Draconic"
@@ -85,15 +86,12 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "traits":
   - "desc": "The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is\
       \ Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has\
-      \ the following druid spells prepared:\n\n**Cantrips (at will):** [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md),\
-      \ [produce flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/produce-flame.md),\
-      \ [thorn whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thorn-whip.md)\n\
-      \n**1st level (4 slots):** [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md),\
-      \ [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md)\n\
-      \n**2nd level (3 slots):** [heat metal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heat-metal.md),\
-      \ [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md)\n\
-      \n**3rd level (2 slots):** [conjure animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-animals.md)\
-      \ (reptiles only), [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md)"
+      \ the following druid spells prepared:\n\n**Cantrips (at will):** [druidcraft](Compendium/spells/druidcraft.md),\
+      \ [produce flame](Compendium/spells/produce-flame.md), [thorn whip](Compendium/spells/thorn-whip.md)\n\
+      \n**1st level (4 slots):** [entangle](Compendium/spells/entangle.md), [fog cloud](Compendium/spells/fog-cloud.md)\n\
+      \n**2nd level (3 slots):** [heat metal](Compendium/spells/heat-metal.md), [spike\
+      \ growth](Compendium/spells/spike-growth.md)\n\n**3rd level (2 slots):** [conjure\
+      \ animals](Compendium/spells/conjure-animals.md) (reptiles only), [plant growth](Compendium/spells/plant-growth.md)"
     "name": "Spellcasting (Lizardfolk Form Only)"
   - "desc": "The lizardfolk can hold its breath for 15 minutes."
     "name": "Hold Breath"
@@ -102,17 +100,17 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
       \ claws."
     "name": "Multiattack (Lizardfolk Form Only)"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage, or 7 (1d10 + 2) piercing damage in [crocodile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/crocodile.md)\
+      \ + 2) piercing damage, or 7 (1d10 + 2) piercing damage in [crocodile](Compendium/bestiary/beast/crocodile.md)\
       \ form. If the lizardfolk is in crocodile form and the target is a Large or\
-      \ smaller creature, the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 12). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ smaller creature, the target is [grappled](Rules/conditions.md#Grappled) (escape\
+      \ DC 12). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the lizardfolk can't bite another target. If the lizardfolk reverts to\
       \ its true form, the grapple ends."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
       \ + 2) slashing damage."
     "name": "Claws (Lizardfolk Form Only)"
-  - "desc": "The lizardfolk magically polymorphs into a [crocodile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/crocodile.md),\
+  - "desc": "The lizardfolk magically polymorphs into a [crocodile](Compendium/bestiary/beast/crocodile.md),\
       \ remaining in that form for up to 1 hour. It can revert to its true form as\
       \ a bonus action. Its statistics, other than its size, are the same in each\
       \ form. Any equipment it is wearing or carrying isn't transformed. It reverts\
@@ -120,8 +118,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     "name": "Change Shape (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/lizardfolk-shaman.webp"
+"image": "Compendium/bestiary/humanoid/token/lizardfolk-shaman.webp"
 ```
 ^statblock
 

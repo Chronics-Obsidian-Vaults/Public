@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gladiator
+- "Gladiator"
 ---
-# [Gladiator](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/gladiator.md)
-*Source: Monster Manual p. 346, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Gladiator](Compendium/bestiary/humanoid/gladiator.md)
+*Source: Monster Manual p. 346. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
 
@@ -24,8 +25,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -42,15 +42,17 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+10"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+5"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
-  - "desc": "The gladiator has advantage on saving throws against being [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+  - "desc": "The gladiator has advantage on saving throws against being [frightened](Rules/conditions.md#Frightened)."
     "name": "Brave"
   - "desc": "A melee weapon deals one extra die of its damage when the gladiator hits\
       \ with it (included in the attack)."
@@ -64,7 +66,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
     "name": "Spear"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9\
       \ (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
-      \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "reactions":
   - "desc": "The gladiator adds 3 to its AC against one melee attack that would hit\
@@ -73,9 +75,7 @@ Gladiators battle for the entertainment of raucous crowds. Some gladiators are b
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/gladiator.webp"
+"image": "Compendium/bestiary/humanoid/token/gladiator.webp"
 ```
 ^statblock
 

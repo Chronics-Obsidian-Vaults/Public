@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Cape of the Mountebank"
 item_type: 
 item_subtype: 
@@ -14,10 +15,10 @@ attunement: none
 ---
 # Cape of the Mountebank
 *Wondrous item, major, rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/cape-of-the-mountebank.webp#right)
+![](Compendium/items/img/cape-of-the-mountebank.webp#right)
 
 
-This cape smells faintly of brimstone. While wearing it, you can use it to cast the [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md) spell as an action. This property of the cape can't be used again until the next dawn.
+This cape smells faintly of brimstone. While wearing it, you can use it to cast the [dimension door](Compendium/spells/dimension-door.md) spell as an action. This property of the cape can't be used again until the next dawn.
 
 When you disappear, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger wind disperses the smoke.
 

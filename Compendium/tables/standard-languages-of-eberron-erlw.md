@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Standard Languages of Eberron
+- "Standard Languages of Eberron"
 ---
 # Standard Languages of Eberron
 *Source: Eberron: Rising from the Last War p. 6* 

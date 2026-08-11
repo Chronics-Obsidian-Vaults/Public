@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/gear/treasure-art-object
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Old masterpiece painting"
 item_type: 
 item_subtype: 

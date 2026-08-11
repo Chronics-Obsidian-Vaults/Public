@@ -5,27 +5,27 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Chapter 6: Rogue
+- "Chapter 6: Rogue"
 ---
 # Chapter 6: Rogue
 *Source: The Book of Many Things, p. 40* 
 
 The Rogue card embodies betrayal and hidden threats. This chapter includes magic card decks geared toward resourceful, subtle, and skill-focused characters, as well as character creation ideas inspired by the Rogue card. Then, this chapter presents tools and advice to adjudicate what happens when a character draws the Rogue card, including advice on how the villain enters the story, suggestions for their motivations, and a rogues' gallery of stat blocks that can represent this antagonist.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/028-05-001-rogue.webp#center)
+![](Compendium/books/the-book-of-many-things/img/028-05-001-rogue.webp#center)
 
 ## Magic Card Decks
 
 The following decks are presented in alphabetical order.
 
-- [Card Sharp's Deck](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/card-sharps-deck-bmt.md)  
-- [Deck of Dimensions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-dimensions-bmt.md)  
-- [Deck of Miscellany](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-miscellany-bmt.md)  
-- [Deck of Wild Cards](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-wild-cards-bmt.md)  
+- [Card Sharp's Deck](Compendium/items/card-sharps-deck-bmt.md)  
+- [Deck of Dimensions](Compendium/items/deck-of-dimensions-bmt.md)  
+- [Deck of Miscellany](Compendium/items/deck-of-miscellany-bmt.md)  
+- [Deck of Wild Cards](Compendium/items/deck-of-wild-cards-bmt.md)  
 
 ## Heroes of Destiny
 
-The Rogue Destinies table provides narrative ideas inspired by the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) that players can use as prompts while developing characters. The entries in this table are geared toward characters who rely on cunning, skills, and versatility, but any character's story can benefit from the ideas presented here. When using this table to help shape your character's story, you can either choose entries that speak to you or randomly pull cards from [The Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) card set until you feel your character's story is complete.
+The Rogue Destinies table provides narrative ideas inspired by the [Deck of Many Things](Compendium/items/deck-of-many-things.md) that players can use as prompts while developing characters. The entries in this table are geared toward characters who rely on cunning, skills, and versatility, but any character's story can benefit from the ideas presented here. When using this table to help shape your character's story, you can either choose entries that speak to you or randomly pull cards from [The Deck of Many Things](Compendium/items/deck-of-many-things.md) card set until you feel your character's story is complete.
 
 The prompts in the table include personality traits, relationships, and events. Most describe your character's past, but some foretell something in your character's future instead. These events might be a mystery to your character, shared only between you and your DM, or perhaps your character learned about these events through omens or a reading from a fortune teller.
 
@@ -33,7 +33,7 @@ The prompts in the table include personality traits, relationships, and events. 
 > 
 > Your destiny doesn't determine your story's outcome. Consider it more like a... loose guideline.
 
-![Heroes of Destiny; Rogue Destinies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/heroes-of-destiny-rogue-destinies-bmt.md)
+![Heroes of Destiny; Rogue Destinies](Compendium/tables/heroes-of-destiny-rogue-destinies-bmt.md)
 
 ## Rogues' Gallery
 
@@ -45,13 +45,13 @@ When a character draws the Rogue card, a new villain's presence—if not their i
 
 The Rogue card's magic might provide a glimpse of the future, but it can also manipulate reality in large or small ways. If the character who drew the card has a secret or has performed some action that would turn a friend into an enemy, the deck might ensure an ally gets that information, turning the ally against the character. Alternatively, the deck might change reality so that a bandit leader the character arrested suddenly has a cousin seeking revenge, or the spirit of a wicked cultist the character slew returns to torment the character by possessing a dear friend.
 
-![Four villains play a game for mysterious stakes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/030-05-003-villains.webp#center)
+![Four villains play a game for mysterious stakes](Compendium/books/the-book-of-many-things/img/030-05-003-villains.webp#center)
 
 ### The Rogue's Motivation
 
 Why does this new villain oppose the character who drew the Rogue card? This question is just as important as who the villain is. The Villainous Motivations table offers sample goals for your new villain.
 
-![The Rogue's Motivation; Villainous Motivations](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-rogues-motivation-villainous-motivations-bmt.md)
+![The Rogue's Motivation; Villainous Motivations](Compendium/tables/the-rogues-motivation-villainous-motivations-bmt.md)
 
 ### Rogue Stat Blocks
 
@@ -61,19 +61,19 @@ Each stat block represents an appropriate antagonist for campaign arcs in a part
 
 #### Ambitious Assassin
 
-Appropriate for tier 1 play (levels 1 to 4), the [ambitious assassin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/ambitious-assassin-bmt.md) is a Humanoid who might be a charming manipulator or a ruthless killer.
+Appropriate for tier 1 play (levels 1 to 4), the [ambitious assassin](Compendium/bestiary/humanoid/ambitious-assassin-bmt.md) is a Humanoid who might be a charming manipulator or a ruthless killer.
 
 #### Enchanting Infiltrator
 
-An antagonist for tier 2 play (levels 5 to 10), the [enchanting infiltrator](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/enchanting-infiltrator-bmt.md) is a Fey that beguiles and misdirects.
+An antagonist for tier 2 play (levels 5 to 10), the [enchanting infiltrator](Compendium/bestiary/fey/enchanting-infiltrator-bmt.md) is a Fey that beguiles and misdirects.
 
 #### Otherworldly Corrupter
 
-A challenge for tier 3 play (levels 11 to 16), the [otherworldly corrupter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/otherworldly-corrupter-bmt.md) is a horrific Aberration that infects or impersonates a host.
+A challenge for tier 3 play (levels 11 to 16), the [otherworldly corrupter](Compendium/bestiary/aberration/otherworldly-corrupter-bmt.md) is a horrific Aberration that infects or impersonates a host.
 
 #### Veiled Presence
 
-The ultimate threat created by the Rogue card, the [veiled presence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/veiled-presence-bmt.md) is a Celestial for tier 4 play (levels 17 to 20). This being descends from an Outer Plane to bring cosmic wrath upon the characters.
+The ultimate threat created by the Rogue card, the [veiled presence](Compendium/bestiary/celestial/veiled-presence-bmt.md) is a Celestial for tier 4 play (levels 17 to 20). This being descends from an Outer Plane to bring cosmic wrath upon the characters.
 
 > [!quote] A quote from Asteria  
 > 

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bmt
 - source/reward/charm
 aliases:
-- Charm of Ruin
+- "Charm of Ruin"
 ---
 # Charm of Ruin
 

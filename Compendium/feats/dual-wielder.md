@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Dual Wielder
+- "Dual Wielder"
 ---
 # Dual Wielder
 *Source: Player's Handbook p. 165*  

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Gnome Tables; Gnome Ideals
+- "Gnome Tables; Gnome Ideals"
 ---
 # Gnome Tables; Gnome Ideals
 *Source: Mordenkainen's Tome of Foes p. 114* 

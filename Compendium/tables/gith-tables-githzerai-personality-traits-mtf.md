@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githzerai Personality Traits
+- "Gith Tables; Githzerai Personality Traits"
 ---
 # Gith Tables; Githzerai Personality Traits
 *Source: Mordenkainen's Tome of Foes p. 97* 

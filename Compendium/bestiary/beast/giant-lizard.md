@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -14,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Lizard
+- "Giant Lizard"
 ---
-# [Giant Lizard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-lizard.md)
+# [Giant Lizard](Compendium/bestiary/beast/giant-lizard.md)
 *Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and other Underdark dwellers.
@@ -48,8 +49,7 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
@@ -58,7 +58,7 @@ A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep the
     "name": "Bite"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-lizard.webp"
+"image": "Compendium/bestiary/beast/token/giant-lizard.webp"
 ```
 ^statblock
 

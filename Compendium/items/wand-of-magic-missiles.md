@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/major
 - source/item/wondrous/wand
-aliases: 
+aliases:
 - "Wand of Magic Missiles"
 item_type: wondrous
 item_subtype: wand
@@ -15,11 +16,11 @@ attunement: none
 ---
 # Wand of Magic Missiles
 *Wand, major, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/wand-of-magic-missiles.webp#right)
+![](Compendium/items/img/wand-of-magic-missiles.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md) spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the [magic missile](Compendium/spells/magic-missile.md) spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 
 The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll a `d20`. On a 1, the wand crumbles into ashes and is destroyed.
 

@@ -7,8 +7,8 @@ tags:
 - source/deity/dwarven
 - source/domain/knowledge
 - source/domain/life
-aliases: 
-- Mya
+aliases:
+- "Mya"
 ---
 # Mya
 *Source: Mordenkainen's Tome of Foes p. 73* 

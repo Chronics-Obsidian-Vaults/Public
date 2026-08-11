@@ -8,8 +8,8 @@ tags:
 - source/domain/knowledge
 - source/domain/life
 - source/domain/twilight
-aliases: 
-- Mishakal
+aliases:
+- "Mishakal"
 ---
 # Mishakal
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 34* 

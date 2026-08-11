@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/artifact
-aliases: 
+aliases:
 - "Luba's Tarokka of Souls"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Luba's Tarokka of Souls
 *Wondrous item, artifact (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/lubas-tarokka-of-souls.webp#right)
+![](Compendium/items/img/lubas-tarokka-of-souls.webp#right)
 
 
 Not all lingering spirits are tragic souls, lost on their way to the hereafter. Some languish as prisoners, souls so wicked mortals dare not free them upon an unsuspecting afterlife.
@@ -27,16 +28,16 @@ Like all tarokka decks, the *Tarokka of Souls* is a lavishly illustrated collect
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor detrimental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-detrimental-properties.md) properties  
-- 2 [minor beneficial](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
+- 2 [minor detrimental](Compendium/tables/artifact-properties-minor-detrimental-properties.md) properties  
+- 2 [minor beneficial](Compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
 
 ## Spells
 
-While holding the deck, you can use an action to cast one of the following spells (save DC 18) from it: [comprehend languages](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/comprehend-languages.md), [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md), [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md), [detect poison and disease](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-poison-and-disease.md), [locate object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md), or [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md). Once you use the deck to cast a spell, you can't cast that spell again from it until the next dawn.
+While holding the deck, you can use an action to cast one of the following spells (save DC 18) from it: [comprehend languages](Compendium/spells/comprehend-languages.md), [detect evil and good](Compendium/spells/detect-evil-and-good.md), [detect magic](Compendium/spells/detect-magic.md), [detect poison and disease](Compendium/spells/detect-poison-and-disease.md), [locate object](Compendium/spells/locate-object.md), or [scrying](Compendium/spells/scrying.md). Once you use the deck to cast a spell, you can't cast that spell again from it until the next dawn.
 
 ## Enduring Vision
 
-While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on divination spells.
+While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [concentration](Rules/conditions.md#Concentration) on divination spells.
 
 ## Twist of Fate
 
@@ -55,20 +56,20 @@ Whenever you use the Twist of Fate property, there is a chance that one of the s
 
 | dice: d100 | Card | Soul |
 |------------|------|------|
-| 1 | Artifact | [Flameskull](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/flameskull.md) |
-| 2 | Beast | [Wraith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/wraith.md) |
-| 3 | Broken | [Banshee](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/banshee.md) |
-| 4 | Darklord | [Vampire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire.md) |
-| 5 | Donjon | [Mummy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/mummy.md) |
-| 6 | Executioner | [Death knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/death-knight.md) |
-| 7 | Ghost | [Ghost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghost.md) |
-| 8 | Horseman | [Mummy lord](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/mummy-lord.md) |
-| 9 | Innocent | [Ghost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghost.md) |
-| 10 | Marionette | [Mummy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/mummy.md) |
-| 11 | Mists | [Wraith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/wraith.md) |
-| 12 | Raven | [Vampire spawn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire-spawn.md) |
-| 13 | Seer | [Vampire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire.md) |
-| 14 | Tempter | [Vampire spawn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire-spawn.md) |
+| 1 | Artifact | [Flameskull](Compendium/bestiary/undead/flameskull.md) |
+| 2 | Beast | [Wraith](Compendium/bestiary/undead/wraith.md) |
+| 3 | Broken | [Banshee](Compendium/bestiary/undead/banshee.md) |
+| 4 | Darklord | [Vampire](Compendium/bestiary/undead/vampire.md) |
+| 5 | Donjon | [Mummy](Compendium/bestiary/undead/mummy.md) |
+| 6 | Executioner | [Death knight](Compendium/bestiary/undead/death-knight.md) |
+| 7 | Ghost | [Ghost](Compendium/bestiary/undead/ghost.md) |
+| 8 | Horseman | [Mummy lord](Compendium/bestiary/undead/mummy-lord.md) |
+| 9 | Innocent | [Ghost](Compendium/bestiary/undead/ghost.md) |
+| 10 | Marionette | [Mummy](Compendium/bestiary/undead/mummy.md) |
+| 11 | Mists | [Wraith](Compendium/bestiary/undead/wraith.md) |
+| 12 | Raven | [Vampire spawn](Compendium/bestiary/undead/vampire-spawn.md) |
+| 13 | Seer | [Vampire](Compendium/bestiary/undead/vampire.md) |
+| 14 | Tempter | [Vampire spawn](Compendium/bestiary/undead/vampire-spawn.md) |
 | 15-100 | — | — |
 ^souls-of-the-tarokka
 
@@ -80,7 +81,7 @@ If you go 7 days without using the Twist of Fate property, your attunement to Lu
 
 ## Destroying the Deck
 
-Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [lich](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/lich.md), that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
+Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [lich](Compendium/bestiary/undead/lich.md), that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
 
 ### Mother Luba and the Vistani
 

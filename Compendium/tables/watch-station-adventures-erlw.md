@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Watch Station Adventures
+- "Watch Station Adventures"
 ---
 # Watch Station Adventures
 *Source: Eberron: Rising from the Last War p. 258* 

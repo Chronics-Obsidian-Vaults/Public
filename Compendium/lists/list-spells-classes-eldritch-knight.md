@@ -5,226 +5,226 @@ cssclasses:
 tags:
 - source/spell/list/subclass/eldritch-knight
 aliases:
-- Spells for Eldritch Knight
+- "Spells for Eldritch Knight"
 ---
 # Spells for Eldritch Knight
 
 ## Cantrip
 
-- [Acid Splash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/acid-splash.md "PHB") at class level 3
-- [Blade Ward](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blade-ward.md "PHB") at class level 3
-- [Booming Blade](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/booming-blade-tce.md "TCE") at class level 3
-- [Chill Touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chill-touch.md "PHB") at class level 3
-- [Control Flames](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-flames-xge.md "XGE") at class level 3
-- [Create Bonfire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-bonfire-xge.md "XGE") at class level 3
-- [Dancing Lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md "PHB") at class level 3
-- [Fire Bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md "PHB") at class level 3
-- [Friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md "PHB") at class level 3
-- [Frostbite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/frostbite-xge.md "XGE") at class level 3
-- [Green-Flame Blade](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/green-flame-blade-tce.md "TCE") at class level 3
-- [Gust](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-xge.md "XGE") at class level 3
-- [Infestation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/infestation-xge.md "XGE") at class level 3
-- [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md "PHB") at class level 3
-- [Lightning Lure](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-lure-tce.md "TCE") at class level 3
-- [Mage Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md "PHB") at class level 3
-- [Mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mending.md "PHB") at class level 3
-- [Message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md "PHB") at class level 3
-- [Mind Sliver](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mind-sliver-tce.md "TCE") at class level 3
-- [Minor Illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md "PHB") at class level 3
-- [Mold Earth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mold-earth-xge.md "XGE") at class level 3
-- [Poison Spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md "PHB") at class level 3
-- [Prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md "PHB") at class level 3
-- [Ray of Frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md "PHB") at class level 3
-- [Shape Water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shape-water-xge.md "XGE") at class level 3
-- [Shocking Grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md "PHB") at class level 3
-- [Sword Burst](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sword-burst-tce.md "TCE") at class level 3
-- [Thunderclap](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderclap-xge.md "XGE") at class level 3
-- [Toll the Dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/toll-the-dead-xge.md "XGE") at class level 3
-- [True Strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-strike.md "PHB") at class level 3
+- [Acid Splash](Compendium/spells/acid-splash.md "PHB") at class level 3
+- [Blade Ward](Compendium/spells/blade-ward.md "PHB") at class level 3
+- [Booming Blade](Compendium/spells/booming-blade-tce.md "TCE") at class level 3
+- [Chill Touch](Compendium/spells/chill-touch.md "PHB") at class level 3
+- [Control Flames](Compendium/spells/control-flames-xge.md "XGE") at class level 3
+- [Create Bonfire](Compendium/spells/create-bonfire-xge.md "XGE") at class level 3
+- [Dancing Lights](Compendium/spells/dancing-lights.md "PHB") at class level 3
+- [Fire Bolt](Compendium/spells/fire-bolt.md "PHB") at class level 3
+- [Friends](Compendium/spells/friends.md "PHB") at class level 3
+- [Frostbite](Compendium/spells/frostbite-xge.md "XGE") at class level 3
+- [Green-Flame Blade](Compendium/spells/green-flame-blade-tce.md "TCE") at class level 3
+- [Gust](Compendium/spells/gust-xge.md "XGE") at class level 3
+- [Infestation](Compendium/spells/infestation-xge.md "XGE") at class level 3
+- [Light](Compendium/spells/light.md "PHB") at class level 3
+- [Lightning Lure](Compendium/spells/lightning-lure-tce.md "TCE") at class level 3
+- [Mage Hand](Compendium/spells/mage-hand.md "PHB") at class level 3
+- [Mending](Compendium/spells/mending.md "PHB") at class level 3
+- [Message](Compendium/spells/message.md "PHB") at class level 3
+- [Mind Sliver](Compendium/spells/mind-sliver-tce.md "TCE") at class level 3
+- [Minor Illusion](Compendium/spells/minor-illusion.md "PHB") at class level 3
+- [Mold Earth](Compendium/spells/mold-earth-xge.md "XGE") at class level 3
+- [Poison Spray](Compendium/spells/poison-spray.md "PHB") at class level 3
+- [Prestidigitation](Compendium/spells/prestidigitation.md "PHB") at class level 3
+- [Ray of Frost](Compendium/spells/ray-of-frost.md "PHB") at class level 3
+- [Shape Water](Compendium/spells/shape-water-xge.md "XGE") at class level 3
+- [Shocking Grasp](Compendium/spells/shocking-grasp.md "PHB") at class level 3
+- [Sword Burst](Compendium/spells/sword-burst-tce.md "TCE") at class level 3
+- [Thunderclap](Compendium/spells/thunderclap-xge.md "XGE") at class level 3
+- [Toll the Dead](Compendium/spells/toll-the-dead-xge.md "XGE") at class level 3
+- [True Strike](Compendium/spells/true-strike.md "PHB") at class level 3
 
 ## 1st Level
 
-- [Absorb Elements](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/absorb-elements-xge.md "XGE") at class level 3
-- [Alarm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alarm.md "PHB") at class level 3
-- [Burning Hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md "PHB") at class level 3
-- [Catapult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/catapult-xge.md "XGE") at class level 3
-- [Cause Fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cause-fear-xge.md "XGE") at class level 3
-- [Charm Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md "PHB") at class level 3
-- [Chromatic Orb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chromatic-orb.md "PHB") at class level 3
-- [Color Spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/color-spray.md "PHB") at class level 3
-- [Comprehend Languages](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/comprehend-languages.md "PHB") at class level 3
-- [Detect Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md "PHB") at class level 3
-- [Disguise Self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md "PHB") at class level 3
-- [Distort Value](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/distort-value-ai.md "AI") at class level 3
-- [Earth Tremor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/earth-tremor-xge.md "XGE") at class level 3
-- [Expeditious Retreat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/expeditious-retreat.md "PHB") at class level 3
-- [False Life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/false-life.md "PHB") at class level 3
-- [Feather Fall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feather-fall.md "PHB") at class level 3
-- [Find Familiar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/find-familiar.md "PHB") at class level 3
-- [Fog Cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md "PHB") at class level 3
-- [Grease](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/grease.md "PHB") at class level 3
-- [Ice Knife](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-knife-xge.md "XGE") at class level 3
-- [Identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md "PHB") at class level 3
-- [Illusory Script](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/illusory-script.md "PHB") at class level 3
-- [Jim's Magic Missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/jims-magic-missile-ai.md "AI") at class level 3
-- [Jump](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/jump.md "PHB") at class level 3
-- [Longstrider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/longstrider.md "PHB") at class level 3
-- [Mage Armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md "PHB") at class level 3
-- [Magic Missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md "PHB") at class level 3
-- [Protection from Evil and Good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md "PHB") at class level 3
-- [Ray of Sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md "PHB") at class level 3
-- [Shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md "PHB") at class level 3
-- [Silent Image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silent-image.md "PHB") at class level 3
-- [Sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md "PHB") at class level 3
-- [Snare](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/snare-xge.md "XGE") at class level 3
-- [Tasha's Caustic Brew](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-caustic-brew-tce.md "TCE") at class level 3
-- [Tasha's Hideous Laughter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-hideous-laughter.md "PHB") at class level 3
-- [Tenser's Floating Disk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tensers-floating-disk.md "PHB") at class level 3
-- [Thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md "PHB") at class level 3
-- [Unseen Servant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/unseen-servant.md "PHB") at class level 3
-- [Witch Bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/witch-bolt.md "PHB") at class level 3
+- [Absorb Elements](Compendium/spells/absorb-elements-xge.md "XGE") at class level 3
+- [Alarm](Compendium/spells/alarm.md "PHB") at class level 3
+- [Burning Hands](Compendium/spells/burning-hands.md "PHB") at class level 3
+- [Catapult](Compendium/spells/catapult-xge.md "XGE") at class level 3
+- [Cause Fear](Compendium/spells/cause-fear-xge.md "XGE") at class level 3
+- [Charm Person](Compendium/spells/charm-person.md "PHB") at class level 3
+- [Chromatic Orb](Compendium/spells/chromatic-orb.md "PHB") at class level 3
+- [Color Spray](Compendium/spells/color-spray.md "PHB") at class level 3
+- [Comprehend Languages](Compendium/spells/comprehend-languages.md "PHB") at class level 3
+- [Detect Magic](Compendium/spells/detect-magic.md "PHB") at class level 3
+- [Disguise Self](Compendium/spells/disguise-self.md "PHB") at class level 3
+- [Distort Value](Compendium/spells/distort-value-ai.md "AI") at class level 3
+- [Earth Tremor](Compendium/spells/earth-tremor-xge.md "XGE") at class level 3
+- [Expeditious Retreat](Compendium/spells/expeditious-retreat.md "PHB") at class level 3
+- [False Life](Compendium/spells/false-life.md "PHB") at class level 3
+- [Feather Fall](Compendium/spells/feather-fall.md "PHB") at class level 3
+- [Find Familiar](Compendium/spells/find-familiar.md "PHB") at class level 3
+- [Fog Cloud](Compendium/spells/fog-cloud.md "PHB") at class level 3
+- [Grease](Compendium/spells/grease.md "PHB") at class level 3
+- [Ice Knife](Compendium/spells/ice-knife-xge.md "XGE") at class level 3
+- [Identify](Compendium/spells/identify.md "PHB") at class level 3
+- [Illusory Script](Compendium/spells/illusory-script.md "PHB") at class level 3
+- [Jim's Magic Missile](Compendium/spells/jims-magic-missile-ai.md "AI") at class level 3
+- [Jump](Compendium/spells/jump.md "PHB") at class level 3
+- [Longstrider](Compendium/spells/longstrider.md "PHB") at class level 3
+- [Mage Armor](Compendium/spells/mage-armor.md "PHB") at class level 3
+- [Magic Missile](Compendium/spells/magic-missile.md "PHB") at class level 3
+- [Protection from Evil and Good](Compendium/spells/protection-from-evil-and-good.md "PHB") at class level 3
+- [Ray of Sickness](Compendium/spells/ray-of-sickness.md "PHB") at class level 3
+- [Shield](Compendium/spells/shield.md "PHB") at class level 3
+- [Silent Image](Compendium/spells/silent-image.md "PHB") at class level 3
+- [Sleep](Compendium/spells/sleep.md "PHB") at class level 3
+- [Snare](Compendium/spells/snare-xge.md "XGE") at class level 3
+- [Tasha's Caustic Brew](Compendium/spells/tashas-caustic-brew-tce.md "TCE") at class level 3
+- [Tasha's Hideous Laughter](Compendium/spells/tashas-hideous-laughter.md "PHB") at class level 3
+- [Tenser's Floating Disk](Compendium/spells/tensers-floating-disk.md "PHB") at class level 3
+- [Thunderwave](Compendium/spells/thunderwave.md "PHB") at class level 3
+- [Unseen Servant](Compendium/spells/unseen-servant.md "PHB") at class level 3
+- [Witch Bolt](Compendium/spells/witch-bolt.md "PHB") at class level 3
 
 ## 2nd Level
 
-- [Aganazzar's Scorcher](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aganazzars-scorcher-xge.md "XGE") at class level 3
-- [Alter Self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md "PHB") at class level 3
-- [Arcane Lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md "PHB") at class level 3
-- [Augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md "PHB") at class level 3
-- [Blindness/Deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md "PHB") at class level 3
-- [Blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md "PHB") at class level 3
-- [Cloud of Daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloud-of-daggers.md "PHB") at class level 3
-- [Continual Flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/continual-flame.md "PHB") at class level 3
-- [Crown of Madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md "PHB") at class level 3
-- [Darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md "PHB") at class level 3
-- [Darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkvision.md "PHB") at class level 3
-- [Detect Thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md "PHB") at class level 3
-- [Dragon's Breath](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dragons-breath-xge.md "XGE") at class level 3
-- [Dust Devil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dust-devil-xge.md "XGE") at class level 3
-- [Earthbind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/earthbind-xge.md "XGE") at class level 3
-- [Enhance Ability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enhance-ability.md "PHB") at class level 3
-- [Enlarge/Reduce](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enlarge-reduce.md "PHB") at class level 3
-- [Flaming Sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flaming-sphere.md "PHB") at class level 3
-- [Gentle Repose](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gentle-repose.md "PHB") at class level 3
-- [Gift of Gab](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gift-of-gab-ai.md "AI") at class level 3
-- [Gust of Wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-of-wind.md "PHB") at class level 3
-- [Hold Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md "PHB") at class level 3
-- [Invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md "PHB") at class level 3
-- [Jim's Glowing Coin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/jims-glowing-coin-ai.md "AI") at class level 3
-- [Knock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/knock.md "PHB") at class level 3
-- [Levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md "PHB") at class level 3
-- [Locate Object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md "PHB") at class level 3
-- [Magic Mouth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-mouth.md "PHB") at class level 3
-- [Magic Weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-weapon.md "PHB") at class level 3
-- [Maximilian's Earthen Grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/maximilians-earthen-grasp-xge.md "XGE") at class level 3
-- [Melf's Acid Arrow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/melfs-acid-arrow.md "PHB") at class level 3
-- [Mind Spike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mind-spike-xge.md "XGE") at class level 3
-- [Mirror Image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md "PHB") at class level 3
-- [Misty Step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md "PHB") at class level 3
-- [Nystul's Magic Aura](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nystuls-magic-aura.md "PHB") at class level 3
-- [Phantasmal Force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-force.md "PHB") at class level 3
-- [Pyrotechnics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pyrotechnics-xge.md "XGE") at class level 3
-- [Ray of Enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md "PHB") at class level 3
-- [Rope Trick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/rope-trick.md "PHB") at class level 3
-- [Scorching Ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md "PHB") at class level 3
-- [See Invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/see-invisibility.md "PHB") at class level 3
-- [Shadow Blade](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shadow-blade-xge.md "XGE") at class level 3
-- [Shatter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shatter.md "PHB") at class level 3
-- [Skywrite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/skywrite-xge.md "XGE") at class level 3
-- [Snilloc's Snowball Swarm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/snillocs-snowball-swarm-xge.md "XGE") at class level 3
-- [Spider Climb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spider-climb.md "PHB") at class level 3
-- [Spray of Cards](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spray-of-cards-bmt.md "BMT") at class level 3
-- [Suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md "PHB") at class level 3
-- [Tasha's Mind Whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-mind-whip-tce.md "TCE") at class level 3
-- [Warding Wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/warding-wind-xge.md "XGE") at class level 3
-- [Web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md "PHB") at class level 3
+- [Aganazzar's Scorcher](Compendium/spells/aganazzars-scorcher-xge.md "XGE") at class level 7
+- [Alter Self](Compendium/spells/alter-self.md "PHB") at class level 7
+- [Arcane Lock](Compendium/spells/arcane-lock.md "PHB") at class level 7
+- [Augury](Compendium/spells/augury.md "PHB") at class level 7
+- [Blindness/Deafness](Compendium/spells/blindness-deafness.md "PHB") at class level 7
+- [Blur](Compendium/spells/blur.md "PHB") at class level 7
+- [Cloud of Daggers](Compendium/spells/cloud-of-daggers.md "PHB") at class level 7
+- [Continual Flame](Compendium/spells/continual-flame.md "PHB") at class level 7
+- [Crown of Madness](Compendium/spells/crown-of-madness.md "PHB") at class level 7
+- [Darkness](Compendium/spells/darkness.md "PHB") at class level 7
+- [Darkvision](Compendium/spells/darkvision.md "PHB") at class level 7
+- [Detect Thoughts](Compendium/spells/detect-thoughts.md "PHB") at class level 7
+- [Dragon's Breath](Compendium/spells/dragons-breath-xge.md "XGE") at class level 7
+- [Dust Devil](Compendium/spells/dust-devil-xge.md "XGE") at class level 7
+- [Earthbind](Compendium/spells/earthbind-xge.md "XGE") at class level 7
+- [Enhance Ability](Compendium/spells/enhance-ability.md "PHB") at class level 7
+- [Enlarge/Reduce](Compendium/spells/enlarge-reduce.md "PHB") at class level 7
+- [Flaming Sphere](Compendium/spells/flaming-sphere.md "PHB") at class level 7
+- [Gentle Repose](Compendium/spells/gentle-repose.md "PHB") at class level 7
+- [Gift of Gab](Compendium/spells/gift-of-gab-ai.md "AI") at class level 7
+- [Gust of Wind](Compendium/spells/gust-of-wind.md "PHB") at class level 7
+- [Hold Person](Compendium/spells/hold-person.md "PHB") at class level 7
+- [Invisibility](Compendium/spells/invisibility.md "PHB") at class level 7
+- [Jim's Glowing Coin](Compendium/spells/jims-glowing-coin-ai.md "AI") at class level 7
+- [Knock](Compendium/spells/knock.md "PHB") at class level 7
+- [Levitate](Compendium/spells/levitate.md "PHB") at class level 7
+- [Locate Object](Compendium/spells/locate-object.md "PHB") at class level 7
+- [Magic Mouth](Compendium/spells/magic-mouth.md "PHB") at class level 7
+- [Magic Weapon](Compendium/spells/magic-weapon.md "PHB") at class level 7
+- [Maximilian's Earthen Grasp](Compendium/spells/maximilians-earthen-grasp-xge.md "XGE") at class level 7
+- [Melf's Acid Arrow](Compendium/spells/melfs-acid-arrow.md "PHB") at class level 7
+- [Mind Spike](Compendium/spells/mind-spike-xge.md "XGE") at class level 7
+- [Mirror Image](Compendium/spells/mirror-image.md "PHB") at class level 7
+- [Misty Step](Compendium/spells/misty-step.md "PHB") at class level 7
+- [Nystul's Magic Aura](Compendium/spells/nystuls-magic-aura.md "PHB") at class level 7
+- [Phantasmal Force](Compendium/spells/phantasmal-force.md "PHB") at class level 7
+- [Pyrotechnics](Compendium/spells/pyrotechnics-xge.md "XGE") at class level 7
+- [Ray of Enfeeblement](Compendium/spells/ray-of-enfeeblement.md "PHB") at class level 7
+- [Rope Trick](Compendium/spells/rope-trick.md "PHB") at class level 7
+- [Scorching Ray](Compendium/spells/scorching-ray.md "PHB") at class level 7
+- [See Invisibility](Compendium/spells/see-invisibility.md "PHB") at class level 7
+- [Shadow Blade](Compendium/spells/shadow-blade-xge.md "XGE") at class level 7
+- [Shatter](Compendium/spells/shatter.md "PHB") at class level 7
+- [Skywrite](Compendium/spells/skywrite-xge.md "XGE") at class level 7
+- [Snilloc's Snowball Swarm](Compendium/spells/snillocs-snowball-swarm-xge.md "XGE") at class level 7
+- [Spider Climb](Compendium/spells/spider-climb.md "PHB") at class level 7
+- [Spray of Cards](Compendium/spells/spray-of-cards-bmt.md "BMT") at class level 7
+- [Suggestion](Compendium/spells/suggestion.md "PHB") at class level 7
+- [Tasha's Mind Whip](Compendium/spells/tashas-mind-whip-tce.md "TCE") at class level 7
+- [Warding Wind](Compendium/spells/warding-wind-xge.md "XGE") at class level 7
+- [Web](Compendium/spells/web.md "PHB") at class level 7
 
 ## 3rd Level
 
-- [Animate Dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md "PHB") at class level 3
-- [Antagonize](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antagonize-bmt.md "BMT") at class level 3
-- [Bestow Curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md "PHB") at class level 3
-- [Blink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blink.md "PHB") at class level 3
-- [Catnap](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/catnap-xge.md "XGE") at class level 3
-- [Clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md "PHB") at class level 3
-- [Counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md "PHB") at class level 3
-- [Dispel Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md "PHB") at class level 3
-- [Enemies Abound](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enemies-abound-xge.md "XGE") at class level 3
-- [Erupting Earth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/erupting-earth-xge.md "XGE") at class level 3
-- [Fast Friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fast-friends-ai.md "AI") at class level 3
-- [Fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md "PHB") at class level 3
-- [Feign Death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feign-death.md "PHB") at class level 3
-- [Fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md "PHB") at class level 3
-- [Flame Arrows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-arrows-xge.md "XGE") at class level 3
-- [Fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md "PHB") at class level 3
-- [Gaseous Form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md "PHB") at class level 3
-- [Glyph of Warding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/glyph-of-warding.md "PHB") at class level 3
-- [Haste](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/haste.md "PHB") at class level 3
-- [Hypnotic Pattern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hypnotic-pattern.md "PHB") at class level 3
-- [Incite Greed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/incite-greed-ai.md "AI") at class level 3
-- [Intellect Fortress](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/intellect-fortress-tce.md "TCE") at class level 3
-- [Leomund's Tiny Hut](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/leomunds-tiny-hut.md "PHB") at class level 3
-- [Life Transference](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/life-transference-xge.md "XGE") at class level 3
-- [Lightning Bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md "PHB") at class level 3
-- [Magic Circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-circle.md "PHB") at class level 3
-- [Major Image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md "PHB") at class level 3
-- [Melf's Minute Meteors](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/melfs-minute-meteors-xge.md "XGE") at class level 3
-- [Nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md "PHB") at class level 3
-- [Phantom Steed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantom-steed.md "PHB") at class level 3
-- [Protection from Energy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-energy.md "PHB") at class level 3
-- [Remove Curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md "PHB") at class level 3
-- [Sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md "PHB") at class level 3
-- [Sleet Storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleet-storm.md "PHB") at class level 3
-- [Slow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/slow.md "PHB") at class level 3
-- [Speak with Dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md "PHB") at class level 3
-- [Spirit Shroud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spirit-shroud-tce.md "TCE") at class level 3
-- [Stinking Cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stinking-cloud.md "PHB") at class level 3
-- [Summon Fey](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-fey-tce.md "TCE") at class level 3
-- [Summon Lesser Demons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-lesser-demons-xge.md "XGE") at class level 3
-- [Summon Shadowspawn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-shadowspawn-tce.md "TCE") at class level 3
-- [Summon Undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-undead-tce.md "TCE") at class level 3
-- [Thunder Step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunder-step-xge.md "XGE") at class level 3
-- [Tidal Wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tidal-wave-xge.md "XGE") at class level 3
-- [Tiny Servant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tiny-servant-xge.md "XGE") at class level 3
-- [Tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md "PHB") at class level 3
-- [Vampiric Touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vampiric-touch.md "PHB") at class level 3
-- [Wall of Sand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-sand-xge.md "XGE") at class level 3
-- [Wall of Water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-water-xge.md "XGE") at class level 3
-- [Water Breathing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-breathing.md "PHB") at class level 3
+- [Animate Dead](Compendium/spells/animate-dead.md "PHB") at class level 13
+- [Antagonize](Compendium/spells/antagonize-bmt.md "BMT") at class level 13
+- [Bestow Curse](Compendium/spells/bestow-curse.md "PHB") at class level 13
+- [Blink](Compendium/spells/blink.md "PHB") at class level 13
+- [Catnap](Compendium/spells/catnap-xge.md "XGE") at class level 13
+- [Clairvoyance](Compendium/spells/clairvoyance.md "PHB") at class level 13
+- [Counterspell](Compendium/spells/counterspell.md "PHB") at class level 13
+- [Dispel Magic](Compendium/spells/dispel-magic.md "PHB") at class level 13
+- [Enemies Abound](Compendium/spells/enemies-abound-xge.md "XGE") at class level 13
+- [Erupting Earth](Compendium/spells/erupting-earth-xge.md "XGE") at class level 13
+- [Fast Friends](Compendium/spells/fast-friends-ai.md "AI") at class level 13
+- [Fear](Compendium/spells/fear.md "PHB") at class level 13
+- [Feign Death](Compendium/spells/feign-death.md "PHB") at class level 13
+- [Fireball](Compendium/spells/fireball.md "PHB") at class level 13
+- [Flame Arrows](Compendium/spells/flame-arrows-xge.md "XGE") at class level 13
+- [Fly](Compendium/spells/fly.md "PHB") at class level 13
+- [Gaseous Form](Compendium/spells/gaseous-form.md "PHB") at class level 13
+- [Glyph of Warding](Compendium/spells/glyph-of-warding.md "PHB") at class level 13
+- [Haste](Compendium/spells/haste.md "PHB") at class level 13
+- [Hypnotic Pattern](Compendium/spells/hypnotic-pattern.md "PHB") at class level 13
+- [Incite Greed](Compendium/spells/incite-greed-ai.md "AI") at class level 13
+- [Intellect Fortress](Compendium/spells/intellect-fortress-tce.md "TCE") at class level 13
+- [Leomund's Tiny Hut](Compendium/spells/leomunds-tiny-hut.md "PHB") at class level 13
+- [Life Transference](Compendium/spells/life-transference-xge.md "XGE") at class level 13
+- [Lightning Bolt](Compendium/spells/lightning-bolt.md "PHB") at class level 13
+- [Magic Circle](Compendium/spells/magic-circle.md "PHB") at class level 13
+- [Major Image](Compendium/spells/major-image.md "PHB") at class level 13
+- [Melf's Minute Meteors](Compendium/spells/melfs-minute-meteors-xge.md "XGE") at class level 13
+- [Nondetection](Compendium/spells/nondetection.md "PHB") at class level 13
+- [Phantom Steed](Compendium/spells/phantom-steed.md "PHB") at class level 13
+- [Protection from Energy](Compendium/spells/protection-from-energy.md "PHB") at class level 13
+- [Remove Curse](Compendium/spells/remove-curse.md "PHB") at class level 13
+- [Sending](Compendium/spells/sending.md "PHB") at class level 13
+- [Sleet Storm](Compendium/spells/sleet-storm.md "PHB") at class level 13
+- [Slow](Compendium/spells/slow.md "PHB") at class level 13
+- [Speak with Dead](Compendium/spells/speak-with-dead.md "PHB") at class level 13
+- [Spirit Shroud](Compendium/spells/spirit-shroud-tce.md "TCE") at class level 13
+- [Stinking Cloud](Compendium/spells/stinking-cloud.md "PHB") at class level 13
+- [Summon Fey](Compendium/spells/summon-fey-tce.md "TCE") at class level 13
+- [Summon Lesser Demons](Compendium/spells/summon-lesser-demons-xge.md "XGE") at class level 13
+- [Summon Shadowspawn](Compendium/spells/summon-shadowspawn-tce.md "TCE") at class level 13
+- [Summon Undead](Compendium/spells/summon-undead-tce.md "TCE") at class level 13
+- [Thunder Step](Compendium/spells/thunder-step-xge.md "XGE") at class level 13
+- [Tidal Wave](Compendium/spells/tidal-wave-xge.md "XGE") at class level 13
+- [Tiny Servant](Compendium/spells/tiny-servant-xge.md "XGE") at class level 13
+- [Tongues](Compendium/spells/tongues.md "PHB") at class level 13
+- [Vampiric Touch](Compendium/spells/vampiric-touch.md "PHB") at class level 13
+- [Wall of Sand](Compendium/spells/wall-of-sand-xge.md "XGE") at class level 13
+- [Wall of Water](Compendium/spells/wall-of-water-xge.md "XGE") at class level 13
+- [Water Breathing](Compendium/spells/water-breathing.md "PHB") at class level 13
 
 ## 4th Level
 
-- [Arcane Eye](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-eye.md "PHB") at class level 3
-- [Banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md "PHB") at class level 3
-- [Blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md "PHB") at class level 3
-- [Charm Monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-monster-xge.md "XGE") at class level 3
-- [Confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md "PHB") at class level 3
-- [Conjure Minor Elementals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-minor-elementals.md "PHB") at class level 3
-- [Control Water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md "PHB") at class level 3
-- [Dimension Door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md "PHB") at class level 3
-- [Divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md "PHB") at class level 3
-- [Elemental Bane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/elemental-bane-xge.md "XGE") at class level 3
-- [Evard's Black Tentacles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/evards-black-tentacles.md "PHB") at class level 3
-- [Fabricate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fabricate.md "PHB") at class level 3
-- [Fire Shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-shield.md "PHB") at class level 3
-- [Greater Invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md "PHB") at class level 3
-- [Hallucinatory Terrain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hallucinatory-terrain.md "PHB") at class level 3
-- [Ice Storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md "PHB") at class level 3
-- [Leomund's Secret Chest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/leomunds-secret-chest.md "PHB") at class level 3
-- [Locate Creature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-creature.md "PHB") at class level 3
-- [Mordenkainen's Faithful Hound](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mordenkainens-faithful-hound.md "PHB") at class level 3
-- [Mordenkainen's Private Sanctum](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mordenkainens-private-sanctum.md "PHB") at class level 3
-- [Otiluke's Resilient Sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/otilukes-resilient-sphere.md "PHB") at class level 3
-- [Phantasmal Killer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-killer.md "PHB") at class level 3
-- [Polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md "PHB") at class level 3
-- [Sickening Radiance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sickening-radiance-xge.md "XGE") at class level 3
-- [Spirit of Death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spirit-of-death-bmt.md "BMT") at class level 3
-- [Stone Shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stone-shape.md "PHB") at class level 3
-- [Stoneskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stoneskin.md "PHB") at class level 3
-- [Storm Sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/storm-sphere-xge.md "XGE") at class level 3
-- [Summon Aberration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-aberration-tce.md "TCE") at class level 3
-- [Summon Construct](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-construct-tce.md "TCE") at class level 3
-- [Summon Elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-elemental-tce.md "TCE") at class level 3
-- [Summon Greater Demon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-greater-demon-xge.md "XGE") at class level 3
-- [Vitriolic Sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vitriolic-sphere-xge.md "XGE") at class level 3
-- [Wall of Fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md "PHB") at class level 3
-- [Watery Sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/watery-sphere-xge.md "XGE") at class level 3
+- [Arcane Eye](Compendium/spells/arcane-eye.md "PHB") at class level 19
+- [Banishment](Compendium/spells/banishment.md "PHB") at class level 19
+- [Blight](Compendium/spells/blight.md "PHB") at class level 19
+- [Charm Monster](Compendium/spells/charm-monster-xge.md "XGE") at class level 19
+- [Confusion](Compendium/spells/confusion.md "PHB") at class level 19
+- [Conjure Minor Elementals](Compendium/spells/conjure-minor-elementals.md "PHB") at class level 19
+- [Control Water](Compendium/spells/control-water.md "PHB") at class level 19
+- [Dimension Door](Compendium/spells/dimension-door.md "PHB") at class level 19
+- [Divination](Compendium/spells/divination.md "PHB") at class level 19
+- [Elemental Bane](Compendium/spells/elemental-bane-xge.md "XGE") at class level 19
+- [Evard's Black Tentacles](Compendium/spells/evards-black-tentacles.md "PHB") at class level 19
+- [Fabricate](Compendium/spells/fabricate.md "PHB") at class level 19
+- [Fire Shield](Compendium/spells/fire-shield.md "PHB") at class level 19
+- [Greater Invisibility](Compendium/spells/greater-invisibility.md "PHB") at class level 19
+- [Hallucinatory Terrain](Compendium/spells/hallucinatory-terrain.md "PHB") at class level 19
+- [Ice Storm](Compendium/spells/ice-storm.md "PHB") at class level 19
+- [Leomund's Secret Chest](Compendium/spells/leomunds-secret-chest.md "PHB") at class level 19
+- [Locate Creature](Compendium/spells/locate-creature.md "PHB") at class level 19
+- [Mordenkainen's Faithful Hound](Compendium/spells/mordenkainens-faithful-hound.md "PHB") at class level 19
+- [Mordenkainen's Private Sanctum](Compendium/spells/mordenkainens-private-sanctum.md "PHB") at class level 19
+- [Otiluke's Resilient Sphere](Compendium/spells/otilukes-resilient-sphere.md "PHB") at class level 19
+- [Phantasmal Killer](Compendium/spells/phantasmal-killer.md "PHB") at class level 19
+- [Polymorph](Compendium/spells/polymorph.md "PHB") at class level 19
+- [Sickening Radiance](Compendium/spells/sickening-radiance-xge.md "XGE") at class level 19
+- [Spirit of Death](Compendium/spells/spirit-of-death-bmt.md "BMT") at class level 19
+- [Stone Shape](Compendium/spells/stone-shape.md "PHB") at class level 19
+- [Stoneskin](Compendium/spells/stoneskin.md "PHB") at class level 19
+- [Storm Sphere](Compendium/spells/storm-sphere-xge.md "XGE") at class level 19
+- [Summon Aberration](Compendium/spells/summon-aberration-tce.md "TCE") at class level 19
+- [Summon Construct](Compendium/spells/summon-construct-tce.md "TCE") at class level 19
+- [Summon Elemental](Compendium/spells/summon-elemental-tce.md "TCE") at class level 19
+- [Summon Greater Demon](Compendium/spells/summon-greater-demon-xge.md "XGE") at class level 19
+- [Vitriolic Sphere](Compendium/spells/vitriolic-sphere-xge.md "XGE") at class level 19
+- [Wall of Fire](Compendium/spells/wall-of-fire.md "PHB") at class level 19
+- [Watery Sphere](Compendium/spells/watery-sphere-xge.md "XGE") at class level 19

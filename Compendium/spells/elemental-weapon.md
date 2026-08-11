@@ -1,21 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/izzet-engineer
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/paladin
 - source/spell/class/ranger
+- source/spell/feat/mark-of-making
 - source/spell/level/3rd-level
 - source/spell/school/transmutation
 - source/spell/subclass/forge-domain
 - source/spell/subclass/the-hexblade
-- source/spell/subrace/human-mark-of-making
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Cleric (Forge Domain)
 - Druid
@@ -23,7 +22,7 @@ classes:
 - Ranger
 - Warlock (The Hexblade)
 aliases:
-- Elemental Weapon
+- "Elemental Weapon"
 level: 3
 school: transmutation
 ritual: false
@@ -47,6 +46,6 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th or 6th level, the bonus to attack rolls increases to +2 and the extra damage increases to `2d4`. When you use a spell slot of 7th level or higher, the bonus increases to +3 and the extra damage increases to `3d4`.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md); [Warlock (The Hexblade)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Warlock (The Hexblade)](Compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 237*

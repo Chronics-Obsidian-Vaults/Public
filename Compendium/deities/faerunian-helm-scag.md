@@ -8,15 +8,15 @@ tags:
 - source/domain/life
 - source/domain/light
 - source/domain/twilight
-aliases: 
-- Helm
-- The Watcher
-- He of the Unsleeping Eyes
-- The Vigilant One
+aliases:
+- "Helm"
+- "The Watcher"
+- "He of the Unsleeping Eyes"
+- "The Vigilant One"
 ---
 # Helm
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-helm.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-helm.webp#symbol)
 
 - **Alternate Names**: The Watcher, He of the Unsleeping Eyes, The Vigilant One
 - **Alignment**: Lawful Neutral

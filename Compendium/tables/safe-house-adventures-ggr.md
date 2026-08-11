@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Safe House Adventures
+- "Safe House Adventures"
 ---
 # Safe House Adventures
 *Source: Guildmasters' Guide to Ravnica p. 135* 
@@ -22,8 +22,8 @@ aliases:
 | 6 | Escape from captivity in the safe house. |
 | 7 | Plant a magical surveillance device inside the safe house. |
 | 8 | Damage or destroy the safe house so the Dimir can't use it anymore. |
-| 9 | Prevent the creation of a horror (a [flying horror](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/flying-horror-ggr.md), [shadow horror](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/shadow-horror-ggr.md), or a [skittering horror](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/skittering-horror-ggr.md)) in the safe house. (You can replace the horror with a different creature from the "Monster Manual".) |
-| 10 | Find and kill a [mind drinker vampire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/mind-drinker-vampire-ggr.md) or other monster that is picking off the safe house's inhabitants. |
+| 9 | Prevent the creation of a horror (a [flying horror](Compendium/bestiary/aberration/flying-horror-ggr.md), [shadow horror](Compendium/bestiary/aberration/shadow-horror-ggr.md), or a [skittering horror](Compendium/bestiary/aberration/skittering-horror-ggr.md)) in the safe house. (You can replace the horror with a different creature from the "Monster Manual".) |
+| 10 | Find and kill a [mind drinker vampire](Compendium/bestiary/undead/mind-drinker-vampire-ggr.md) or other monster that is picking off the safe house's inhabitants. |
 | 11 | Disable the safe house's wards and plant a beacon inside it so that members of another guild can find and raid the place. |
 | 12 | After stumbling into the safe house accidentally, get out with memories intact. |
 ^safe-house-adventures

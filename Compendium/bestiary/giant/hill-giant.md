@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hill Giant
+- "Hill Giant"
 ---
-# [Hill Giant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/hill-giant.md)
-*Source: Monster Manual p. 155, Eberron: Rising from the Last War, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Hill Giant](Compendium/bestiary/giant/hill-giant.md)
+*Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can, bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
 
@@ -104,8 +105,10 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[greatclub](Compendium/items/greatclub.md)"
 "senses": "passive Perception 12"
 "languages": "Giant"
 "cr": "5"
@@ -120,9 +123,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "name": "Rock"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/hill-giant.webp"
+"image": "Compendium/bestiary/giant/token/hill-giant.webp"
 ```
 ^statblock
 

@@ -5,41 +5,41 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmtcrg
 aliases:
-- Locations Deck
+- "Locations Deck"
 ---
 # Locations Deck
 *Source: The Deck of Many Things: Card Reference Guide p. 11*  
 
-A dungeon spread is a simpler version of an adventure spread that's optimized for quickly building dungeon-focused adventures. In this variant, you divide The [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/deck-of-many-more-things-dmtcrg.md) card set into three separate decks: a locations deck, a features deck, and an optional story deck. For simplicity, use the literal meanings of the cards in the locations and features decks; these cards are straightforward descriptions of potential locations and of the creatures, treasures, and other features characters might find in these locations.
+A dungeon spread is a simpler version of an adventure spread that's optimized for quickly building dungeon-focused adventures. In this variant, you divide The [Deck of Many Things](Compendium/decks/deck-of-many-more-things-dmtcrg.md) card set into three separate decks: a locations deck, a features deck, and an optional story deck. For simplicity, use the literal meanings of the cards in the locations and features decks; these cards are straightforward descriptions of potential locations and of the creatures, treasures, and other features characters might find in these locations.
 
 If you want to create a prelude to the dungeon, use the optional steps that call for the story deck, and give those cards their full range of symbolic meaning as discussed in the ""Reading the Cards"" section. If you'd rather dive straight into the action, you can skip those steps and omit the story deck.
 
 ## Cards
 
 ### Bridge
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-05-bridge.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-05-bridge.webp#card)
 *A stone bridge arcs across a waterway. A shadowy figure lurks under the bridge, only its gleaming eyes clearly visible. This card reflects the effort required to overcome obstacles.*
 
 **Upright Meaning.** - **Person.** A mediator who enjoys helping others overcome misunderstandings or grievances.  
-- **Creature or Trap.** Someone who coordinates the efforts of different kinds of creatures, such as a [mind flayer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/mind-flayer.md) mastermind using [grimlocks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/grimlock.md) and [trolls](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/troll.md) as agents.  
+- **Creature or Trap.** Someone who coordinates the efforts of different kinds of creatures, such as a [mind flayer](Compendium/bestiary/aberration/mind-flayer.md) mastermind using [grimlocks](Compendium/bestiary/humanoid/grimlock.md) and [trolls](Compendium/bestiary/giant/troll.md) as agents.  
 - **Place.** A bridge across a river or chasm.  
-- **Treasure.** An art object depicting a bridge, or a magic item intended to help overcome obstacles (such as [Boots of Striding and Springing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/boots-of-striding-and-springing.md)).  
+- **Treasure.** An art object depicting a bridge, or a magic item intended to help overcome obstacles (such as [Boots of Striding and Springing](Compendium/items/boots-of-striding-and-springing.md)).  
 - **Situation.** An urgent need for bridges between long-opposed factions.  
 
 **Reversed Meaning.** - **Person.** A person who is part of a longstanding feud between two families or groups.  
 - **Creature or Trap.** A creature that lairs near, on, or under a bridge and either collects tolls from those using the bridge or tries to eat them.  
 - **Place.** A river or chasm with no bridge, or where the bridge is unsafe or has collapsed.  
-- **Treasure.** An art object depicting walls, barriers. or a labyrinth; alternatively, a magic item that creates magical walls (such as a [Cube of Force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cube-of-force.md)).  
+- **Treasure.** An art object depicting walls, barriers, or a labyrinth; alternatively, a magic item that creates magical walls (such as a [Cube of Force](Compendium/items/cube-of-force.md)).  
 - **Situation.** Open conflict between two families or groups.  
 
 ### Cavern
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-07-cavern.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-07-cavern.webp#card)
 *A vast cavern is adorned with glowing fungi and striking stone formations. The Cavern card suggests exploration and delving into hidden secrets.*
 
 **Upright Meaning.** - **Person.** A person who asks probing questions but shares little.  
-- **Creature or Trap.** A creature (such as a [piercer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/piercer.md) or a [roper](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/roper.md)) that mimics the features of natural caverns.  
+- **Creature or Trap.** A creature (such as a [piercer](Compendium/bestiary/monstrosity/piercer.md) or a [roper](Compendium/bestiary/monstrosity/roper.md)) that mimics the features of natural caverns.  
 - **Place.** A cavern or a cavernous building such as a large temple.  
-- **Treasure.** A geode, jewelry made from gems and precious metals, or a magic item that grants [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) (such as [Goggles of Night](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/goggles-of-night.md)).  
+- **Treasure.** A geode, jewelry made from gems and precious metals, or a magic item that grants [darkvision](Rules/senses.md#Darkvision) (such as [Goggles of Night](Compendium/items/goggles-of-night.md)).  
 - **Situation.** A situation that requires delving into hidden motivations and secrets.  
 
 **Reversed Meaning.** - **Person.** A person who lives for the moment, avoiding introspection.  
@@ -49,23 +49,23 @@ If you want to create a prelude to the dungeon, use the optional steps that call
 - **Situation.** Everyone's motivations exposed for all to see.  
 
 ### Crossroads
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-12-crossroads.webp#card)
-*A signpost points in many directions at a crossroads. The Crossroads cards warns of a difficult but necessary decision.*
+![](Compendium/decks/img/deck-of-many-more-things-12-crossroads.webp#card)
+*A signpost points in many directions at a crossroads. The Crossroads card warns of a difficult but necessary decision.*
 
 **Upright Meaning.** - **Person.** A person agonizing about a difficult decision or who regrets a recent decision.  
-- **Creature or Trap.** A creature that induces confusion or erratic behavior (such as an [umber hulk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/umber-hulk.md)).  
+- **Creature or Trap.** A creature that induces confusion or erratic behavior (such as an [umber hulk](Compendium/bestiary/monstrosity/umber-hulk.md)).  
 - **Place.** A crossroads, or a settlement where trade routes cross.  
 - **Treasure.** An art object that depicts a crossroads or cross patterns, or a magic item with multiple properties or uses (such as a staff).  
 - **Situation.** A choice between options that are equally appealing—or equally disastrous.  
 
 **Reversed Meaning.** - **Person.** A person who refuses to make decisions, relying instead on inaction or random determination.  
-- **Creature or Trap.** A creature that prevents others from acting (such as a [ghoul](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghoul.md)).  
+- **Creature or Trap.** A creature that prevents others from acting (such as a [ghoul](Compendium/bestiary/undead/ghoul.md)).  
 - **Place.** A place that constrains movement, such as a narrow ravine or passage.  
-- **Treasure.** An art object featuring overlapping circular patterns, or a magic item that does only does one thing a limited number of times (such as a wand).  
+- **Treasure.** An art object featuring overlapping circular patterns, or a magic item that does only one thing a limited number of times (such as a wand).  
 - **Situation.** A situation stemming from someone's refusal to act or choose.  
 
 ### Donjon
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-13-donjon.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-13-donjon.webp#card)
 *Underground stairs lead to a heavy door made of iron bars. This card represents both imprisonment and freedom.*
 
 **Upright Meaning.** - **Person.** A prisoner, or a person who feels trapped.  
@@ -77,11 +77,11 @@ If you want to create a prelude to the dungeon, use the optional steps that call
 **Reversed Meaning.** - **Person.** A recently freed or escaped prisoner, or a free thinker who rejects social norms.  
 - **Creature or Trap.** A creature that has escaped from captivity or gone feral.  
 - **Place.** A prison broken open, or a place associated with liberation (such as a monument commemorating emancipation).  
-- **Treasure.** A treasure that once held a being captive, such as an [Efreeti Bottle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/efreeti-bottle.md) that has lost its magic or an empty [Iron Flask](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/iron-flask.md).  
+- **Treasure.** A treasure that once held a being captive, such as an [Efreeti Bottle](Compendium/items/efreeti-bottle.md) that has lost its magic or an empty [Iron Flask](Compendium/items/iron-flask.md).  
 - **Situation.** A situation that requires creative solutions, or an effort to free people or creatures from captivity.  
 
 ### Maze
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-33-maze.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-33-maze.webp#card)
 *Unfortunate souls are trapped in an elaborate and impossible maze of cards. Those who draw the Maze card are lost.*
 
 **Upright Meaning.** - **Person.** A person who feels lost in their own life, unsure how to affect change, or a person with a wandering mind who takes their time getting to the point.  
@@ -97,27 +97,27 @@ If you want to create a prelude to the dungeon, use the optional steps that call
 - **Situation.** A search for something or someone that has gone missing.  
 
 ### Path
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-38-path.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-38-path.webp#card)
 *A well-worn path twists through the wilderness, with hidden dangers lurking in the shadows to both sides. This card suggests the importance of sticking with a plan and remaining focused on the destination.*
 
 **Upright Meaning.** - **Person.** A goal-oriented person who knows exactly what they want and has a clear plan to get it.  
 - **Creature or Trap.** A creature single-mindedly pursuing prey or some other goal, or a trapped room navigable by only a single path.  
 - **Place.** A road or trail.  
-- **Treasure.** An art object depicting a road or path, or a magic item that allows divination (such as a [Crystal Ball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crystal-ball.md) or a [Spell Scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-scroll-6th-level.md) of [Find the Path](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/find-the-path.md)).  
+- **Treasure.** An art object depicting a road or path, or a magic item that allows divination (such as a [Crystal Ball](Compendium/items/crystal-ball.md) or a [Spell Scroll](Compendium/items/spell-scroll-6th-level.md) of [Find the Path](Compendium/spells/find-the-path.md)).  
 - **Situation.** A situation that demands unwavering focus on the goal.  
 
 **Reversed Meaning.** - **Person.** An aimless person who doesn't know what they want and has no idea how to decide.  
 - **Creature or Trap.** A creature that reacts to provocation without a clear plan or purpose; it might be acting on instinct or be confused.  
 - **Place.** A trackless wilderness, or an underground complex that is very difficult to traverse.  
-- **Treasure.** An abstract art object, or a magic item that foils divination (such as an [Amulet of Proof against Detection and Location](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/amulet-of-proof-against-detection-and-location.md)).  
+- **Treasure.** An abstract art object, or a magic item that foils divination (such as an [Amulet of Proof against Detection and Location](Compendium/items/amulet-of-proof-against-detection-and-location.md)).  
 - **Situation.** A series of distractions that deflect attention from an important goal.  
 
 ### Ruin
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-46-ruin.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-46-ruin.webp#card)
 *An elegant sword and crown disintegrate into eddies of ash. The Ruin card warns of the inevitability of decay and the danger of material attachments.*
 
 **Upright Meaning.** - **Person.** A person who has renounced material attachments, such as a religious ascetic.  
-- **Creature or Trap.** A creature that destroys equipment, such as a [rust monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/rust-monster.md) or a [black pudding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/black-pudding.md).  
+- **Creature or Trap.** A creature that destroys equipment, such as a [rust monster](Compendium/bestiary/monstrosity/rust-monster.md) or a [black pudding](Compendium/bestiary/ooze/black-pudding.md).  
 - **Place.** A ruin, or a retreat for ascetics.  
 - **Treasure.** A treasure that is broken or in disrepair.  
 - **Situation.** A situation involving the decay of objects or relationships over a long period of time.  
@@ -129,7 +129,7 @@ If you want to create a prelude to the dungeon, use the optional steps that call
 - **Situation.** A situation involving the production or transportation of goods for sale.  
 
 ### Tavern
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-57-tavern.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-57-tavern.webp#card)
 *An adventuring party eats and laughs in a busy tavern. The Tavern card points to the pleasure of spending time with friends.*
 
 **Upright Meaning.** - **Person.** A genial person who delights in telling stories in good company.  
@@ -139,51 +139,51 @@ If you want to create a prelude to the dungeon, use the optional steps that call
 - **Situation.** A tavern brawl.  
 
 **Reversed Meaning.** - **Person.** A person who ruins the happiness of pleasant company.  
-- **Creature or Trap.** A parasite, [vampire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire.md), or similar creature that siphons strength, happiness, or vitality from others, or a trap designed to separate those caught in it.  
+- **Creature or Trap.** A parasite, [vampire](Compendium/bestiary/undead/vampire.md), or similar creature that siphons strength, happiness, or vitality from others, or a trap designed to separate those caught in it.  
 - **Place.** A place once used for social gatherings but now abandoned.  
 - **Treasure.** A jeweled goblet or similar treasure stained with blood or holding the remnants of poison.  
 - **Situation.** An attempt to kill many people at once as they gather for a meal.  
 
 ### Temple
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-58-temple.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-58-temple.webp#card)
 *A temple invites worshipers into the serene space within. The Temple card suggests the comfort found in ritual and communion with the divine.*
 
 **Upright Meaning.** - **Person.** A devout person who performs frequent rituals to invoke divine favor.  
-- **Creature or Trap.** A temple guardian—perhaps a Celestial, Construct, or [guardian naga](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/guardian-naga.md).  
+- **Creature or Trap.** A temple guardian—perhaps a Celestial, Construct, or [guardian naga](Compendium/bestiary/monstrosity/guardian-naga.md).  
 - **Place.** A temple, shrine, or other place of worship.  
-- **Treasure.** A valuable ritual object, such as a candelabra or sacrificial knife, or a magic item linked to worship or divine magic (such as a [Candle of Invocation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/candle-of-invocation.md)).  
+- **Treasure.** A valuable ritual object, such as a candelabra or sacrificial knife, or a magic item linked to worship or divine magic (such as a [Candle of Invocation](Compendium/items/candle-of-invocation.md)).  
 - **Situation.** A situation best resolved by an appeal to divine power or spiritual authorities.  
 
 **Reversed Meaning.** - **Person.** A superstitious person who performs frequent rituals to ward off supernatural evil.  
-- **Creature or Trap.** A creature that bestows curses (such as a [fomorian](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/fomorian.md), [rakshasa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/rakshasa.md), or [mummy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/mummy.md)).  
+- **Creature or Trap.** A creature that bestows curses (such as a [fomorian](Compendium/bestiary/giant/fomorian.md), [rakshasa](Compendium/bestiary/fiend/rakshasa.md), or [mummy](Compendium/bestiary/undead/mummy.md)).  
 - **Place.** An area where crime, vice, or other impious behaviors are widespread.  
-- **Treasure.** A treasure with superstitious meaning perhaps an amulet meant to ward off evil (such as a [Scarab of Protection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scarab-of-protection.md)).  
+- **Treasure.** A treasure with superstitious meaning perhaps an amulet meant to ward off evil (such as a [Scarab of Protection](Compendium/items/scarab-of-protection.md)).  
 - **Situation.** A situation stemming from a superstitious fear of curses or bad luck.  
 
 ### Tomb
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-60-tomb.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-60-tomb.webp#card)
 *A burial chamber holds a plain stone casket. The Tomb card suggests buried secrets and things long forgotten.*
 
 **Upright Meaning.** - **Person.** A person with a secret or a gap in their memory.  
-- **Creature or Trap.** A [mummy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/mummy.md), [wight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/wight.md), or similar Undead that lairs in its own tomb.  
+- **Creature or Trap.** A [mummy](Compendium/bestiary/undead/mummy.md), [wight](Compendium/bestiary/undead/wight.md), or similar Undead that lairs in its own tomb.  
 - **Place.** A tomb, especially one that is forgotten.  
 - **Treasure.** Valuable or magical funerary treasure.  
 - **Situation.** A situation no one wants to talk about or even acknowledge.  
 
 **Reversed Meaning.** - **Person.** A person trying to atone for a dreadful secret in their past.  
-- **Creature or Trap.** An incorporeal Undead (such as a [wraith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/wraith.md) or [specter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/specter.md)) that's not linked to the place of its death, burial place, or body.  
+- **Creature or Trap.** An incorporeal Undead (such as a [wraith](Compendium/bestiary/undead/wraith.md) or [specter](Compendium/bestiary/undead/specter.md)) that's not linked to the place of its death, burial place, or body.  
 - **Place.** A memorial structure that doesn't contain a body.  
 - **Treasure.** An art object depicting a dead individual as they were in life.  
 - **Situation.** A situation stemming from a buried secret that recently came to light.  
 
 ### Tower
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/decks/img/deck-of-many-more-things-61-tower.webp#card)
+![](Compendium/decks/img/deck-of-many-more-things-61-tower.webp#card)
 *A tall, ornate tower made of black stone looms over a desolate landscape. The Tower card represents isolation.*
 
 **Upright Meaning.** - **Person.** A person who prefers solitude to the company of others.  
 - **Creature or Trap.** A reclusive creature.  
 - **Place.** A remote tower or similar place of isolation.  
-- **Treasure.** An art object depicting an isolated place or a lonely person; alternatively, [Daern's Instant Fortress](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/daerns-instant-fortress.md) or a similar magic item.  
+- **Treasure.** An art object depicting an isolated place or a lonely person; alternatively, [Daern's Instant Fortress](Compendium/items/daerns-instant-fortress.md) or a similar magic item.  
 - **Situation.** A situation that requires assistance or information from a reclusive person.  
 
 **Reversed Meaning.** - **Person.** A desperately lonely person who craves close companionship.  

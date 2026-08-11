@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quipper
+- "Quipper"
 ---
-# [Quipper](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/quipper.md)
-*Source: Monster Manual p. 335, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Quipper](Compendium/bestiary/beast/quipper.md)
+*Source: Monster Manual p. 335. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A quipper is a carnivorous fish with sharp teeth.
 
@@ -36,8 +37,7 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
   - !!int "7"
   - !!int "2"
 "speed": "swim 40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": ""
 "cr": "0"
 "traits":
@@ -52,8 +52,7 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
     "name": "Bite"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/quipper.webp"
+"image": "Compendium/bestiary/beast/token/quipper.webp"
 ```
 ^statblock
 

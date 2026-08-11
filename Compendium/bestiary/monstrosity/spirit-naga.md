@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spirit Naga
+- "Spirit Naga"
 ---
-# [Spirit Naga](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/spirit-naga.md)
-*Source: Monster Manual p. 234, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Spirit Naga](Compendium/bestiary/monstrosity/spirit-naga.md)
+*Source: Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
 
@@ -65,33 +66,28 @@ A naga doesn't require air, food, drink, or sleep.
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
 "cr": "8"
 "traits":
   - "desc": "The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal\
       \ components to cast its spells. It has the following wizard spells prepared:\n\
-      \n**Cantrips (at will):** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [ray of frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md)\n\
-      \n**1st level (4 slots):** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md)\n\
-      \n**2nd level (3 slots):** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md)\n\
-      \n**3rd level (3 slots):** [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md),\
-      \ [water breathing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-breathing.md)\n\
-      \n**4th level (3 slots):** [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md),\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md)\n\
-      \n**5th level (2 slots):** [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md)"
+      \n**Cantrips (at will):** [mage hand](Compendium/spells/mage-hand.md), [minor\
+      \ illusion](Compendium/spells/minor-illusion.md), [ray of frost](Compendium/spells/ray-of-frost.md)\n\
+      \n**1st level (4 slots):** [charm person](Compendium/spells/charm-person.md),\
+      \ [detect magic](Compendium/spells/detect-magic.md), [sleep](Compendium/spells/sleep.md)\n\
+      \n**2nd level (3 slots):** [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [hold person](Compendium/spells/hold-person.md)\n\n**3rd level (3 slots):**\
+      \ [lightning bolt](Compendium/spells/lightning-bolt.md), [water breathing](Compendium/spells/water-breathing.md)\n\
+      \n**4th level (3 slots):** [blight](Compendium/spells/blight.md), [dimension\
+      \ door](Compendium/spells/dimension-door.md)\n\n**5th level (2 slots):** [dominate\
+      \ person](Compendium/spells/dominate-person.md)"
     "name": "Spellcasting"
   - "desc": "If it dies, the naga returns to life in 1d6 days and regains all its\
-      \ hit points. Only a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell can prevent this trait from functioning."
+      \ hit points. Only a [wish](Compendium/spells/wish.md) spell can prevent this\
+      \ trait from functioning."
     "name": "Rejuvenation"
 "actions":
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:*\
@@ -101,9 +97,7 @@ A naga doesn't require air, food, drink, or sleep.
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/spirit-naga.webp"
+"image": "Compendium/bestiary/monstrosity/token/spirit-naga.webp"
 ```
 ^statblock
 

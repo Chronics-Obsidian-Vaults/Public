@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quaggoth Spore Servant
+- "Quaggoth Spore Servant"
 ---
-# [Quaggoth Spore Servant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/quaggoth-spore-servant.md)
+# [Quaggoth Spore Servant](Compendium/bestiary/plant/quaggoth-spore-servant.md)
 *Source: Monster Manual p. 230*  
 
 A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can't be turned into a spore servant.
@@ -43,11 +44,11 @@ The servant's ability scores change as follows: Int 2 (-4), Wis 6 (-2), Cha 1 (-
 
 ## Senses
 
-The servant has [blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight) with a radius of 30 feet, and it is blind beyond this radius.
+The servant has [blindsight](Rules/senses.md#Blindsight) with a radius of 30 feet, and it is blind beyond this radius.
 
 ## Condition Immunities
 
-The servant can't be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), or [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed).
+The servant can't be [blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened), or [paralyzed](Rules/conditions.md#Paralyzed).
 
 ## Languages
 
@@ -76,13 +77,11 @@ If the servant has no other means of dealing damage, it can use its fists or lim
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft. (blind beyond this radius),\
+  \ passive Perception 8"
 "languages": ""
 "cr": "1"
 "actions":
@@ -93,7 +92,7 @@ If the servant has no other means of dealing damage, it can use its fists or lim
     "name": "Claw"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/quaggoth-spore-servant.webp"
+"image": "Compendium/bestiary/plant/token/quaggoth-spore-servant.webp"
 ```
 ^statblock
 

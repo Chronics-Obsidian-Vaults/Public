@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/19
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Balor
+- "Balor"
 ---
-# [Balor](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/balor.md)
-*Source: Monster Manual p. 55, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Balor](Compendium/bestiary/fiend/balor.md)
+*Source: Monster Manual p. 55. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
 
@@ -158,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -212,9 +213,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 13"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+  - "[whip](Compendium/items/whip.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -251,8 +254,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Teleport"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/balor.webp"
+"image": "Compendium/bestiary/fiend/token/balor.webp"
 ```
 ^statblock

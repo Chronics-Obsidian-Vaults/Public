@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/9
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Glabrezu
+- "Glabrezu"
 ---
-# [Glabrezu](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/glabrezu.md)
-*Source: Monster Manual p. 58, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Glabrezu](Compendium/bestiary/fiend/glabrezu.md)
+*Source: Monster Manual p. 58. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.
 
@@ -158,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -212,20 +213,17 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 13"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "9"
 "traits":
   - "desc": "The glabrezu's spellcasting ability is Intelligence (spell save DC 16).\
       \ The glabrezu can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\n\
-      \n**1/day each:** [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [power word stun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-stun.md)"
+      \ components:\n\n**At will:** [darkness](Compendium/spells/darkness.md), [detect\
+      \ magic](Compendium/spells/detect-magic.md), [dispel magic](Compendium/spells/dispel-magic.md)\n\
+      \n**1/day each:** [confusion](Compendium/spells/confusion.md), [fly](Compendium/spells/fly.md),\
+      \ [power word stun](Compendium/spells/power-word-stun.md)"
     "name": "Innate Spellcasting"
   - "desc": "The glabrezu has advantage on saving throws against spells and other\
       \ magical effects."
@@ -237,17 +235,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16\
       \ (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature,\
-      \ it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 15). The glabrezu has two pincers, each of which can grapple only\
-      \ one target."
+      \ it is [grappled](Rules/conditions.md#Grappled) (escape DC 15). The glabrezu\
+      \ has two pincers, each of which can grapple only one target."
     "name": "Pincer"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
       \ + 2) bludgeoning damage."
     "name": "Fist"
 "source":
   - "MM"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/glabrezu.webp"
+"image": "Compendium/bestiary/fiend/token/glabrezu.webp"
 ```
 ^statblock

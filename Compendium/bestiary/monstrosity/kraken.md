@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/23
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kraken
+- "Kraken"
 ---
-# [Kraken](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/kraken.md)
-*Source: Monster Manual p. 197, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Kraken](Compendium/bestiary/monstrosity/kraken.md)
+*Source: Monster Manual p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
 
@@ -61,10 +62,8 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
   - "intelligence": !!int "13"
   - "wisdom": !!int "11"
 "damage_immunities": "lightning; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 14"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 14"
 "languages": "Abyssal, Celestial, Infernal, Primordial, telepathy 120 ft. but can't\
   \ speak"
 "cr": "23"
@@ -72,9 +71,9 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
   - "desc": "The kraken can breathe air and water."
     "name": "Amphibious"
   - "desc": "The kraken ignores difficult terrain, and magical effects can't reduce\
-      \ its speed or cause it to be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ its speed or cause it to be [restrained](Rules/conditions.md#Restrained).\
       \ It can spend 5 feet of movement to escape from nonmagical restraints or being\
-      \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)."
+      \ [grappled](Rules/conditions.md#Grappled)."
     "name": "Freedom of Movement"
   - "desc": "The kraken deals double damage to objects and structures."
     "name": "Siege Monster"
@@ -83,30 +82,29 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
       \ with one use of Fling."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +17 to hit, reach 5 ft., one target. *Hit:* 23\
-      \ (3d8 + 10) piercing damage. If the target is a Large or smaller creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ (3d8 + 10) piercing damage. If the target is a Large or smaller creature [grappled](Rules/conditions.md#Grappled)\
       \ by the kraken, that creature is swallowed, and the grapple ends. While swallowed,\
-      \ the creature is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ the creature is [blinded](Rules/conditions.md#Blinded) and [restrained](Rules/conditions.md#Restrained),\
       \ it has total cover against attacks and other effects outside the kraken, and\
       \ it takes 42 (12d6) acid damage at the start of each of the kraken's turns.\
       \ If the kraken takes 50 damage or more on a single turn from a creature inside\
       \ it, the kraken must succeed on a DC 25 Constitution saving throw at the end\
-      \ of that turn or regurgitate all swallowed creatures, which fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ of that turn or regurgitate all swallowed creatures, which fall [prone](Rules/conditions.md#Prone)\
       \ in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature\
-      \ is no longer [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by it and can escape from the corpse using 15 feet of movement, exiting [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ is no longer [restrained](Rules/conditions.md#Restrained) by it and can escape\
+      \ from the corpse using 15 feet of movement, exiting [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +17 to hit, reach 30 ft., one target. *Hit:* 20\
-      \ (3d6 + 10) bludgeoning damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 18). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ (3d6 + 10) bludgeoning damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 18). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained).\
       \ The kraken has ten tentacles, each of which can grapple one target."
     "name": "Tentacle"
-  - "desc": "One Large or smaller object held or creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by the kraken is thrown up to 60 feet in a random direction and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+  - "desc": "One Large or smaller object held or creature [grappled](Rules/conditions.md#Grappled)\
+      \ by the kraken is thrown up to 60 feet in a random direction and knocked [prone](Rules/conditions.md#Prone).\
       \ If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning\
       \ damage for every 10 feet it was thrown. If the target is thrown at another\
       \ creature, that creature must succeed on a DC 18 Dexterity saving throw or\
-      \ take the same damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ take the same damage and be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Fling"
   - "desc": "The kraken magically creates three bolts of lightning, each of which\
       \ can strike a target the kraken can see within 120 feet of it. A target must\
@@ -130,13 +128,13 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
   - "desc": "The region containing a kraken's lair is warped by the creature's blasphemous\
       \ presence, creating the following magical effects:\n\n- The kraken can alter\
       \ the weather at will in a 6-mile radius centered on its lair. The effect is\
-      \ identical to the [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md)\
-      \ spell.  \n- Water elementals coalesce within 6 miles of the lair. These elementals\
+      \ identical to the [control weather](Compendium/spells/control-weather.md) spell.\
+      \  \n- Water elementals coalesce within 6 miles of the lair. These elementals\
       \ can't leave the water and have Intelligence and Charisma scores of 1 (-5).\
       \  \n- Aquatic creatures within 6 miles of the lair that have an Intelligence\
-      \ score of 2 or lower are [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the kraken and aggressive toward intruders in the area.  \n\nWhen the kraken\
-      \ dies, all of these regional effects fade immediately."
+      \ score of 2 or lower are [charmed](Rules/conditions.md#Charmed) by the kraken\
+      \ and aggressive toward intruders in the area.  \n\nWhen the kraken dies, all\
+      \ of these regional effects fade immediately."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the kraken can expend a use to take one of the following actions. The kraken\
@@ -156,10 +154,7 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
     "name": "Ink Cloud (Costs 3 Actions)"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/kraken.webp"
+"image": "Compendium/bestiary/monstrosity/token/kraken.webp"
 ```
 ^statblock
 

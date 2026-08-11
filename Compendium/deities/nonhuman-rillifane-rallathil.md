@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/nonhuman
 - source/domain/nature
-aliases: 
-- Rillifane Rallathil
+aliases:
+- "Rillifane Rallathil"
 ---
 # Rillifane Rallathil
 *Source: Player's Handbook p. 296* 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Class Training; I became...
+- "Class Training; I became..."
 ---
 # Class Training; I became...
 *Source: Xanathar's Guide to Everything p. 66* 

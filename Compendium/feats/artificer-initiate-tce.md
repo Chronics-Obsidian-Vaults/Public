@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/feat
 aliases:
-- Artificer Initiate
+- "Artificer Initiate"
 ---
 # Artificer Initiate
 *Source: Tasha's Cauldron of Everything p. 79*  

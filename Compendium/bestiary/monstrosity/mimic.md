@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mimic
+- "Mimic"
 ---
-# [Mimic](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/mimic.md)
-*Source: Monster Manual p. 220, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Mimic](Compendium/bestiary/monstrosity/mimic.md)
+*Source: Monster Manual p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
 
@@ -53,12 +54,11 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
   - !!int "8"
 "speed": "15 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "acid"
-"condition_immunities": "[prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[prone](Rules/conditions.md#Prone)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
@@ -68,13 +68,13 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
       \ it dies."
     "name": "Shapechanger"
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-      \ adhered to the mimic is also [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by it (escape DC 13). Ability checks made to escape this grapple have disadvantage."
+      \ adhered to the mimic is also [grappled](Rules/conditions.md#Grappled) by it\
+      \ (escape DC 13). Ability checks made to escape this grapple have disadvantage."
     "name": "Adhesive (Object Form Only)"
   - "desc": "While the mimic remains motionless, it is indistinguishable from an ordinary\
       \ object."
     "name": "False Appearance (Object Form Only)"
-  - "desc": "The mimic has advantage on attack rolls against any creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+  - "desc": "The mimic has advantage on attack rolls against any creature [grappled](Rules/conditions.md#Grappled)\
       \ by it."
     "name": "Grappler"
 "actions":
@@ -87,9 +87,7 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/mimic.webp"
+"image": "Compendium/bestiary/monstrosity/token/mimic.webp"
 ```
 ^statblock
 

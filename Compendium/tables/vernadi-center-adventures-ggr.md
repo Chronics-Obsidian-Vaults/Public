@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Vernadi Center Adventures
+- "Vernadi Center Adventures"
 ---
 # Vernadi Center Adventures
 *Source: Guildmasters' Guide to Ravnica p. 153* 

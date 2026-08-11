@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nilbog
+- "Nilbog"
 ---
-# [Nilbog](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/nilbog-mpmm.md)
+# [Nilbog](Compendium/bestiary/fey/nilbog-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182*  
 
 When Maglubiyet conquered the goblin gods, a trickster deity was determined to get the last laugh. Although Maglubiyet shattered its essence, this trickster god survives in a splintered form as possessing spirits that cause disorder unless they are appeased. Goblins have no name for this deity and dare not give it one, lest Maglubiyet use its name to ensnare and crush it as he did their other deities. They call the possessing spirit, as well as the goblin possessed by it, a nilbog ("goblin" spelled backward), and they revel in the chaos a nilbog sows.
@@ -38,7 +39,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "subtype": "goblinoid"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -51,16 +52,15 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
   - "desc": "Any creature that attempts to damage the nilbog must first succeed on\
-      \ a DC 12 Charisma saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ until the end of the creature's next turn. A creature [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ a DC 12 Charisma saving throw or be [charmed](Rules/conditions.md#Charmed)\
+      \ until the end of the creature's next turn. A creature [charmed](Rules/conditions.md#Charmed)\
       \ in this way must use its action praising the nilbog.\n\nThe nilbog can't regain\
       \ hit points, including through magical healing, except through its Reversal\
       \ of Fortune reaction."
@@ -75,12 +75,11 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
       \ next turn."
     "name": "Mocking Word"
   - "desc": "The nilbog casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [Tasha's hideous laughter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-hideous-laughter.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [mage hand](Compendium/spells/mage-hand.md),\
+      \ [Tasha's hideous laughter](Compendium/spells/tashas-hideous-laughter.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The nilbog takes the [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage)\
-      \ or [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide)\
+  - "desc": "The nilbog takes the [Disengage](Rules/actions.md#Disengage) or [Hide](Rules/actions.md#Hide)\
       \ action."
     "name": "Nimble Escape"
 "reactions":
@@ -90,7 +89,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/nilbog-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/nilbog-mpmm.webp"
 ```
 ^statblock
 

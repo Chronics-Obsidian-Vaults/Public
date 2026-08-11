@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -9,15 +10,15 @@ tags:
 - source/spell/level/8th-level
 - source/spell/school/abjuration
 - source/spell/subclass/arcana-domain
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Cleric (Arcana Domain)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Wizard
 aliases:
-- Antimagic Field
+- "Antimagic Field"
 level: 8
 school: abjuration
 ritual: false
@@ -43,11 +44,11 @@ Spells and other magical effects, except those created by an artifact or a deity
 
 ## Targeted Effects
 
-Spells and other magical effects, such as [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md) and [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md), that target a creature or an object in the sphere have no effect on that target.
+Spells and other magical effects, such as [magic missile](Compendium/spells/magic-missile.md) and [charm person](Compendium/spells/charm-person.md), that target a creature or an object in the sphere have no effect on that target.
 
 ## Areas of Magic
 
-The area of another spell or magical effect, such as [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md), can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
+The area of another spell or magical effect, such as [fireball](Compendium/spells/fireball.md), can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a wall of fire are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
 ## Spells
 
@@ -69,10 +70,10 @@ A creature or object summoned or created by magic temporarily winks out of exist
 
 ## Dispel Magic
 
-Spells and magical effects such as [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md) have no effect on the sphere. Likewise, the spheres created by different [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md) spells don't nullify each other.
+Spells and magical effects such as [dispel magic](Compendium/spells/dispel-magic.md) have no effect on the sphere. Likewise, the spheres created by different [antimagic field](Compendium/spells/antimagic-field.md) spells don't nullify each other.
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

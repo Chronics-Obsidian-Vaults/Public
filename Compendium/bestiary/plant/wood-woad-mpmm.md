@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wood Woad
+- "Wood Woad"
 ---
-# [Wood Woad](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/wood-woad-mpmm.md)
+# [Wood Woad](Compendium/bestiary/plant/wood-woad-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*  
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
@@ -27,7 +28,7 @@ A wood woad has a hole where its heart would be, just as does the body of its fo
 
 Like trees, wood woads need only sunlight, air, and nutrients from the earth to go on living. Because they are undying, some wood woads outlive their original purpose. The site a wood woad guards might lose its power or significance over time, or those whom it was assigned to guard might die. If it is freed from its specific duties, a wood woad might roam to find another place of natural beauty or fey influence to watch over.
 
-Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [druids](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/druid.md) and [treants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/treant.md). Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
+Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [druids](Compendium/bestiary/humanoid/druid.md) and [treants](Compendium/bestiary/plant/treant.md). Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 ```statblock
 "name": "Wood Woad (MPMM)"
@@ -35,7 +36,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "type": "plant"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "natural armor, [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "natural armor, [shield](Compendium/items/shield.md)"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "1"
@@ -48,22 +49,22 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"gear":
+  - "[club](Compendium/items/club.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Sylvan"
 "cr": "5"
 "traits":
-  - "desc": "The wood woad has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The wood woad has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks it makes in any terrain with ample obscuring vegetation."
     "name": "Plant Camouflage"
   - "desc": "The wood woad regains 10 hit points at the start of its turn if it is\
@@ -86,7 +87,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/wood-woad-mpmm.webp"
+"image": "Compendium/bestiary/plant/token/wood-woad-mpmm.webp"
 ```
 ^statblock
 

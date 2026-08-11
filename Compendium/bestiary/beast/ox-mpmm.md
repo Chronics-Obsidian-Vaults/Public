@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ox
+- "Ox"
 ---
-# [Ox](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/ox-mpmm.md)
+# [Ox](Compendium/bestiary/beast/ox-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 
 Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
@@ -56,7 +57,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/ox-mpmm.webp"
+"image": "Compendium/bestiary/beast/token/ox-mpmm.webp"
 ```
 ^statblock
 

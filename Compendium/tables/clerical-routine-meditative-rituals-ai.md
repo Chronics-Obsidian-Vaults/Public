@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Clerical Routine; Meditative Rituals
+- "Clerical Routine; Meditative Rituals"
 ---
 # Clerical Routine; Meditative Rituals
 *Source: Acquisitions Incorporated p. 56* 

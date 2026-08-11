@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Spawn Grue
+- "Star Spawn Grue"
 ---
-# [Star Spawn Grue](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/star-spawn-grue-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234, The Book of Many Things*  
+# [Star Spawn Grue](Compendium/bestiary/aberration/star-spawn-grue-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
 
 Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
 
@@ -60,8 +61,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Deep Speech"
 "cr": "1/4"
 "traits":
@@ -78,8 +78,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/star-spawn-grue-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/star-spawn-grue-mpmm.webp"
 ```
 ^statblock
 

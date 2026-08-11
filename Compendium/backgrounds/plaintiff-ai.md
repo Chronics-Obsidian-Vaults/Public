@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ai
 aliases:
-- Plaintiff
+- "Plaintiff"
 ---
 # Plaintiff
 *Source: Acquisitions Incorporated p. 50*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/img/plaintiff-coin.webp#right)
+![](Compendium/backgrounds/img/plaintiff-coin.webp#right)
 
-- **Skill Proficiencies.** [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Medicine](Rules/skills.md#Medicine), [Persuasion](Rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** Any one of your choice  
-- **Equipment.** One set of artisan's tools, [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), 20 gp  
+- **Equipment.** One set of artisan's tools, [fine clothes](Compendium/items/fine-clothes.md), 20 gp  
 
 Sure, accidents happen. But they seem to happen an awful lot when Acquisitions Incorporated operatives are on the scene. Naturally, nothing ever happens when there are no witnesses left behind. But sometimes one casualty is left a little less than dead, just waiting to discover what a lucky break that accident actually was.
 

@@ -6,12 +6,12 @@ tags:
 - source/compendium/src/5e/xge
 - source/feat
 aliases:
-- Second Chance
+- "Second Chance"
 ---
 # Second Chance
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [Halfling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/halfling.md)
+**Prerequisite**: [Halfling](Compendium/races/halfling.md)
 
 Fortune favors you when someone tries to strike you. You gain the following benefits:
 

@@ -7,11 +7,11 @@ tags:
 - source/deity/faerunian
 - source/domain/knowledge
 - source/domain/nature
-aliases: 
-- Gwaeron Windstrom
-- The Mouth of Mielikki
-- The Master Tracker
-- The Tracker Never Led Astray
+aliases:
+- "Gwaeron Windstrom"
+- "The Mouth of Mielikki"
+- "The Master Tracker"
+- "The Tracker Never Led Astray"
 ---
 # Gwaeron Windstrom
 *Source: Sword Coast Adventurer's Guide p. 21* 

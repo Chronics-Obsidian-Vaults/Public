@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Beast of the Land
+- "Beast of the Land"
 ---
-# [Beast of the Land](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/beast-of-the-land-tce.md)
+# [Beast of the Land](Compendium/bestiary/beast/beast-of-the-land-tce.md)
 *Source: Tasha's Cauldron of Everything p. 61*  
 
 ```statblock
@@ -20,6 +21,8 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac_class": "13 + PB (natural armor)"
+"hp": "5 + five times your ranger level (the beast has a number of Hit Dice [d8s]\
+  \ equal to your ranger level)"
 "modifier": !!int "2"
 "stats":
   - !!int "14"
@@ -29,14 +32,13 @@ aliases:
   - !!int "14"
   - !!int "11"
 "speed": "40 ft., climb 40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "If the beast moves at least 20 feet straight toward a target and then\
       \ hits it with a maul attack on the same turn, the target takes an extra 1d6\
       \ slashing damage. If the target is a creature, it must succeed on a Strength\
-      \ saving throw against your spell save DC or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ saving throw against your spell save DC or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "You can add your proficiency bonus to any ability check or saving throw\
       \ that the beast makes."
@@ -47,6 +49,6 @@ aliases:
     "name": "Maul"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/beast-of-the-land-tce.webp"
+"image": "Compendium/bestiary/beast/token/beast-of-the-land-tce.webp"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Ranger
 - Wizard
 aliases:
-- Steel Wind Strike
+- "Steel Wind Strike"
 level: 5
 school: conjuration
 ritual: false
@@ -37,6 +38,6 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 
 You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 166*

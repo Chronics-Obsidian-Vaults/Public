@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/13
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skyswimmer
+- "Skyswimmer"
 ---
-# [Skyswimmer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/skyswimmer-ggr.md)
+# [Skyswimmer](Compendium/bestiary/monstrosity/skyswimmer-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 220*  
 
 Skyswimmers are enormous, predatory leviathans that feed on drakes, rocs, griffins, and anything else they encounter as they soar through the clouds above Ravnica.
@@ -37,7 +38,7 @@ Skyswimmers are enormous, predatory leviathans that feed on drakes, rocs, griffi
 "saves":
   - "constitution": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": ""
@@ -52,23 +53,21 @@ Skyswimmers are enormous, predatory leviathans that feed on drakes, rocs, griffi
   - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 22\
       \ (3d10 + 6) piercing damage. If the target is a Large or smaller creature,\
       \ it must succeed on a DC 19 Dexterity saving throw or be swallowed by the skyswimmer.\
-      \ A swallowed creature is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ A swallowed creature is [blinded](Rules/conditions.md#Blinded) and [restrained](Rules/conditions.md#Restrained),\
       \ it has total cover against attacks and other effects outside the skyswimmer,\
       \ and it takes 21 (6d6) acid damage at the start of each of the skyswimmer's\
       \ turns. If the skyswimmer takes 30 damage or more on a single turn from the\
       \ swallowed creature, the skyswimmer must succeed on a DC 18 Constitution saving\
-      \ throw at the end of that turn or regurgitate the creature, which falls [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ throw at the end of that turn or regurgitate the creature, which falls [prone](Rules/conditions.md#Prone)\
       \ in a space within 10 feet of the skyswimmer. If the skyswimmer dies, a swallowed\
-      \ creature is no longer [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by it and can escape from the corpse by using 15 feet of movement, exiting\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ creature is no longer [restrained](Rules/conditions.md#Restrained) by it and\
+      \ can escape from the corpse by using 15 feet of movement, exiting [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +11 to hit, reach 30 ft., one target. *Hit:* 19\
       \ (2d12 + 6) bludgeoning damage."
     "name": "Slam"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/skyswimmer-ggr.webp"
+"image": "Compendium/bestiary/monstrosity/token/skyswimmer-ggr.webp"
 ```
 ^statblock

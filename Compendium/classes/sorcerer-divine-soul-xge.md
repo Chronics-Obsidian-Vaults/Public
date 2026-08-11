@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/sorcerer/divine-soul
 aliases:
-- Divine Soul
+- "Divine Soul"
 ---
 # Divine Soul
 *[Sorcerer](./sorcerer.md): Sorcerous Origin*  
@@ -43,14 +43,11 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/sorcerer.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
 > Why do so many celestial things have bird wings and infernal things have bat wings? It seems arbitrary. There should be a bat angel!
-
-## Class Features
-
-### Divine Soul (Level 1)
 
 Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god's name.
 
@@ -60,6 +57,8 @@ A Divine Soul, with a natural magnetism, is seen as a threat by some religious h
 
 In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.
 
+## Subclass Features
+
 ### Divine Magic (Level 1)
 
 Your link to the divine allows you to learn spells from the cleric class. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the cleric spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
@@ -68,11 +67,11 @@ In addition, choose an affinity for the source of your divine power: good, evil,
 
 | Affinity | Spell |
 |----------|-------|
-| Good | [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md) |
-| Evil | [inflict wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/inflict-wounds.md) |
-| Law | [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md) |
-| Chaos | [bane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bane.md) |
-| Neutrality | [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md) |
+| Good | [cure wounds](Compendium/spells/cure-wounds.md) |
+| Evil | [inflict wounds](Compendium/spells/inflict-wounds.md) |
+| Law | [bless](Compendium/spells/bless.md) |
+| Chaos | [bane](Compendium/spells/bane.md) |
+| Neutrality | [protection from evil and good](Compendium/spells/protection-from-evil-and-good.md) |
 ^affinity-spell
 
 ### Favored by the Gods (Level 1)
@@ -81,11 +80,11 @@ Starting at 1st level, divine power guards your destiny. If you fail a saving th
 
 ### Empowered Healing (Level 6)
 
-Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated). You can use this feature only once per turn.
+Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't [incapacitated](Rules/conditions.md#Incapacitated). You can use this feature only once per turn.
 
 ### Otherworldly Wings (Level 14)
 
-Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), you die, or you dismiss them as a bonus action.
+Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're [incapacitated](Rules/conditions.md#Incapacitated), you die, or you dismiss them as a bonus action.
 
 The affinity you chose for your Divine Magic feature determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
 

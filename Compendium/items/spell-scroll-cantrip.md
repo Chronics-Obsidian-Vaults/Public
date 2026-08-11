@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/common
 - source/item/tier/minor
 - source/item/wondrous/scroll
-aliases: 
+aliases:
 - "Spell Scroll (Cantrip)"
 item_type: wondrous
 item_subtype: scroll

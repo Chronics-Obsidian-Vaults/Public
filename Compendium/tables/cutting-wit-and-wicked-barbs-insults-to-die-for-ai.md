@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Cutting Wit and Wicked Barbs; Insults to Die For
+- "Cutting Wit and Wicked Barbs; Insults to Die For"
 ---
 # Cutting Wit and Wicked Barbs; Insults to Die For
 *Source: Acquisitions Incorporated p. 55* 
@@ -23,7 +23,7 @@ aliases:
 | 7 | You're the loveliest hag in the coven. |
 | 8 | You're not the sharpest piercer in the cave. |
 | 9 | Aren't you a little short for a giant? |
-| 10 | Truly, your intellect is as deep as a [Tenser's floating disk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tensers-floating-disk.md). |
+| 10 | Truly, your intellect is as deep as a [Tenser's floating disk](Compendium/spells/tensers-floating-disk.md). |
 | 11 | Did you wake up in a troglodyte den this morning, or is that how you normally smell? |
 | 12 | You must have been sick the day they taught fighting at warrior school. |
 | 13 | Gruumsh must have closed his eye when he created you. |

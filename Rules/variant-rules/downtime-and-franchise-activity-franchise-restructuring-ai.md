@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Franchise Restructuring
+- "Downtime and Franchise Activity: Franchise Restructuring"
 ---
 # Downtime and Franchise Activity: Franchise Restructuring
 *Source: Acquisitions Incorporated p. 38* 
@@ -18,9 +18,9 @@ Boldly restructuring a franchise requires at least two workweeks of effort. The 
 
 ## Resolution
 
-Characters or staff members in charge of the restructuring make two ability checks with a DC of 13 + franchise rank. First, a character or staff member must succeed at either an Intelligence ([History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)) or Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check to select the right vision or identify the right areas to innovate. This check gains a +1 bonus for every character with the loremonger or hoardsperson position in the franchise, and an additional +1 bonus if the character making the check has one of those positions.
+Characters or staff members in charge of the restructuring make two ability checks with a DC of 13 + franchise rank. First, a character or staff member must succeed at either an Intelligence ([History](Rules/skills.md#History)) or Wisdom ([Insight](Rules/skills.md#Insight)) check to select the right vision or identify the right areas to innovate. This check gains a +1 bonus for every character with the loremonger or hoardsperson position in the franchise, and an additional +1 bonus if the character making the check has one of those positions.
 
-A character or staff member must then make a Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance), or [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) check to get all other characters and staff on board with the prescribed changes. This check gains a +1 bonus for each decisionist or secretarian in the franchise, and an additional +1 bonus if the character making the check has one of those positions.
+A character or staff member must then make a Charisma ([Deception](Rules/skills.md#Deception), [Performance](Rules/skills.md#Performance), or [Persuasion](Rules/skills.md#Persuasion)) check to get all other characters and staff on board with the prescribed changes. This check gains a +1 bonus for each decisionist or secretarian in the franchise, and an additional +1 bonus if the character making the check has one of those positions.
 
 All checks gain a +1 bonus for every two workweeks beyond the initial time that is spent undertaking this activity. Each check also gains a +1 bonus for every additional 100 gp spent over the baseline expenses. A maximum bonus of +10 can be applied to each check.
 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/attunement/required
 - source/item/rarity/legendary
-aliases: 
+aliases:
 - "Spell Bottle"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Spell Bottle
 *Wondrous item, legendary (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/spell-bottle.webp#right)
+![](Compendium/items/img/spell-bottle.webp#right)
 
 
 This glass bottle can store one spell of up to 5th level at a time. When found, roll a `d6` and subtract 1; the total determines the level of spell in the bottle (the DM chooses the spell, and 0 means the bottle is empty). A swirling blue vapor fills the bottle while it contains a spell.

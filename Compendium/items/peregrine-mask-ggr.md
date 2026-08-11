@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Peregrine Mask"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Peregrine Mask
 *Wondrous item, very rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/peregrine-mask.webp#right)
+![](Compendium/items/img/peregrine-mask.webp#right)
 
 
 While wearing this winged helm, you have a flying speed of 60 feet. In addition, you have advantage on initiative rolls.

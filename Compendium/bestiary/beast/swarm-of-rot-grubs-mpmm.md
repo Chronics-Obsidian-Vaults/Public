@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-2
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Rot Grubs
+- "Swarm of Rot Grubs"
 ---
-# [Swarm of Rot Grubs](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/swarm-of-rot-grubs-mpmm.md)
+# [Swarm of Rot Grubs](Compendium/bestiary/beast/swarm-of-rot-grubs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208*  
 
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
@@ -24,7 +25,7 @@ Rot grubs recoil from flames, and fire is the main weapon against rot grubs once
 
 Rot grubs pose a threat both singly and as a swarm. See the stat block for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
 
-Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned), as the rot grub burrows into the creature. The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) creature takes 3 (`1d6`) poison damage at the end of each of its turns. Whenever the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
+Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned), as the rot grub burrows into the creature. The [poisoned](Rules/conditions.md#Poisoned) creature takes 3 (`1d6`) poison damage at the end of each of its turns. Whenever the [poisoned](Rules/conditions.md#Poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](Rules/conditions.md#Poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
 
 ```statblock
 "name": "Swarm of Rot Grubs (MPMM)"
@@ -45,15 +46,11 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 "speed": "5 ft., climb 5 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "piercing, slashing"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., passive Perception 6"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., passive Perception 6"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -64,17 +61,17 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 "actions":
   - "desc": "*Melee Weapon Attack:* +0 to hit, reach 0 ft., one creature in the swarm's\
       \ space. *Hit:* 7 (2d6) piercing damage, and the target must succeed on a DC\
-      \ 10 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ At the end of each of the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ target's turns, the target takes 3 (1d6) poison damage. Whenever the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ 10 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned).\
+      \ At the end of each of the [poisoned](Rules/conditions.md#Poisoned) target's\
+      \ turns, the target takes 3 (1d6) poison damage. Whenever the [poisoned](Rules/conditions.md#Poisoned)\
       \ target takes fire damage, the target can repeat the saving throw, ending the\
-      \ effect on itself on a success. If the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ effect on itself on a success. If the [poisoned](Rules/conditions.md#Poisoned)\
       \ target ends its turn with 0 hit points, it dies."
     "name": "Bites"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/swarm-of-rot-grubs-mpmm.webp"
+"image": "Compendium/bestiary/beast/token/swarm-of-rot-grubs-mpmm.webp"
 ```
 ^statblock
 

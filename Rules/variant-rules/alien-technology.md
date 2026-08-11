@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Alien Technology
+- "Alien Technology"
 ---
 # Alien Technology
 *Source: Dungeon Master's Guide p. 268* 
@@ -16,4 +16,4 @@ To determine how the technology works, a character must succeed on a number of I
 
 A character who has seen an item used or has operated a similar item has advantage on Intelligence checks made to figure out its use.
 
-![Figuring Out Alien Technology](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/figuring-out-alien-technology.md)
+![Figuring Out Alien Technology](Compendium/tables/figuring-out-alien-technology.md)

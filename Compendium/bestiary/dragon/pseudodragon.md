@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -15,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pseudodragon
+- "Pseudodragon"
 ---
-# [Pseudodragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/pseudodragon.md)
-*Source: Monster Manual p. 254, Eberron: Rising from the Last War, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Pseudodragon](Compendium/bestiary/dragon/pseudodragon.md)
+*Source: Monster Manual p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.
 
@@ -65,17 +66,16 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
   - !!int "10"
 "speed": "15 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 13"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
-  - "desc": "The pseudodragon has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The pseudodragon has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight, hearing, or smell."
     "name": "Keen Senses"
   - "desc": "The pseudodragon has advantage on saving throws against spells and other\
@@ -91,16 +91,14 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
       \ (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
-      \ saving throw or become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 hour. If the saving throw fails by 5 or more, the target falls [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
+      \ saving throw or become [poisoned](Rules/conditions.md#Poisoned) for 1 hour.\
+      \ If the saving throw fails by 5 or more, the target falls [unconscious](Rules/conditions.md#Unconscious)\
       \ for the same duration, or until it takes damage or another creature uses an\
       \ action to shake it awake."
     "name": "Sting"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/pseudodragon.webp"
+"image": "Compendium/bestiary/dragon/token/pseudodragon.webp"
 ```
 ^statblock
 

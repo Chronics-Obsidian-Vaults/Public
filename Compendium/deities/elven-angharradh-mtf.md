@@ -9,8 +9,8 @@ tags:
 - source/domain/life
 - source/domain/peace
 - source/domain/war
-aliases: 
-- Angharradh
+aliases:
+- "Angharradh"
 ---
 # Angharradh
 *Source: Mordenkainen's Tome of Foes p. 43, Tasha's Cauldron of Everything p. 33* 

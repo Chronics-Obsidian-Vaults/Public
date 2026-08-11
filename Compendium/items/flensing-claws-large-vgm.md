@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/vgm
 - source/item/rarity/unknown
 - source/item/wondrous/other
-aliases: 
+aliases:
 - "Flensing Claws (Large)"
 item_type: wondrous
 item_subtype: other

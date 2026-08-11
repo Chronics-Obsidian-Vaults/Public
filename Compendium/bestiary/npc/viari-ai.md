@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Viari
+- "Viari"
 ---
-# [Viari](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/viari-ai.md)
+# [Viari](Compendium/bestiary/npc/viari-ai.md)
 *Source: Acquisitions Incorporated p. 198*  
 
 > [!quote]  
@@ -29,8 +30,8 @@ Viari's career as an adventurer was nearly cut short during a battle of which th
 "subtype": "human"
 "alignment": "Chaotic Good"
 "ac": !!int "18"
-"ac_class": "[+1 studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/1-armor.md);\
-  \ 19 while wielding two melee weapons"
+"ac_class": "[+1 studded leather](Compendium/items/1-armor.md); 19 while wielding\
+  \ two melee weapons"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "5"
@@ -46,20 +47,24 @@ Viari's career as an adventurer was nearly cut short during a battle of which th
   - "dexterity": !!int "8"
   - "intelligence": !!int "3"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+11"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+5"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+5"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+11"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
+"gear":
+  - "[+1 shortsword](Compendium/items/1-weapon.md)"
+  - "[dagger](Compendium/items/dagger.md)"
+  - "[rapier](Compendium/items/rapier.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Draconic, Thieves' cant"
 "cr": "5"
@@ -67,14 +72,14 @@ Viari's career as an adventurer was nearly cut short during a battle of which th
   - "desc": "If Viari is subjected to an effect that allows him to make a Dexterity\
       \ saving throw to take only half damage, he instead takes no damage if he succeeds\
       \ on the saving throw, and only half damage if he fails. He can't use this trait\
-      \ if he's [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ if he's [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Evasion"
   - "desc": "Climbing does not cost Viari extra movement. Additionally, when he makes\
       \ a running jump, the distance he covers increases by 5 feet."
     "name": "Second-Story Work"
   - "desc": "Viari deals an extra 14 (4d6) damage when he hits a target with a weapon\
       \ attack and has advantage on the attack roll, or when the target is within\
-      \ 5 feet of an ally of Viari that isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ 5 feet of an ally of Viari that isn't [incapacitated](Rules/conditions.md#Incapacitated)\
       \ and Viari doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
@@ -96,6 +101,6 @@ Viari's career as an adventurer was nearly cut short during a battle of which th
     "name": "Uncanny Dodge"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/viari-ai.webp"
+"image": "Compendium/bestiary/npc/token/viari-ai.webp"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -15,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Poisonous Snake
+- "Giant Poisonous Snake"
 ---
-# [Giant Poisonous Snake](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-poisonous-snake.md)
-*Source: Monster Manual p. 327, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Poisonous Snake](Compendium/bestiary/beast/giant-poisonous-snake.md)
+*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Poisonous Snake"
@@ -38,10 +39,9 @@ aliases:
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., passive Perception 12"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., passive Perception 12"
 "languages": ""
 "cr": "1/4"
 "actions":
@@ -52,9 +52,7 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-  - "MOT"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-poisonous-snake.webp"
+"image": "Compendium/bestiary/beast/token/giant-poisonous-snake.webp"
 ```
 ^statblock
 

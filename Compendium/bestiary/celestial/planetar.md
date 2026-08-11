@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/16
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Planetar
+- "Planetar"
 ---
-# [Planetar](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/planetar.md)
+# [Planetar](Compendium/bestiary/celestial/planetar.md)
 *Source: Monster Manual p. 17. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -61,28 +62,25 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
   - "wisdom": !!int "11"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 21"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "16"
 "traits":
   - "desc": "The planetar's spellcasting ability is Charisma (spell save DC 20). The\
       \ planetar can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only)\n\n**3/day each:** [blade barrier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blade-barrier.md),\
-      \ [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md),\
-      \ [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md),\
-      \ [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md)\n\
-      \n**1/day each:** [commune](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune.md),\
-      \ [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md),\
-      \ [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md)"
+      \n**At will:** [detect evil and good](Compendium/spells/detect-evil-and-good.md),\
+      \ [invisibility](Compendium/spells/invisibility.md) (self only)\n\n**3/day each:**\
+      \ [blade barrier](Compendium/spells/blade-barrier.md), [dispel evil and good](Compendium/spells/dispel-evil-and-good.md),\
+      \ [flame strike](Compendium/spells/flame-strike.md), [raise dead](Compendium/spells/raise-dead.md)\n\
+      \n**1/day each:** [commune](Compendium/spells/commune.md), [control weather](Compendium/spells/control-weather.md),\
+      \ [insect plague](Compendium/spells/insect-plague.md)"
     "name": "Innate Spellcasting"
   - "desc": "The planetar's weapon attacks are magical. When the planetar hits with\
       \ any weapon, the weapon deals an extra 5d8 radiant damage (included in the\
@@ -105,6 +103,6 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
     "name": "Healing Touch (4/Day)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/planetar.webp"
+"image": "Compendium/bestiary/celestial/token/planetar.webp"
 ```
 ^statblock

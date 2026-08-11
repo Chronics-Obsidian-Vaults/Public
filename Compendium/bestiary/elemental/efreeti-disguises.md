@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/11
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Efreeti (Disguises)
+- "Efreeti (Disguises)"
 ---
-# [Efreeti (Disguises)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/efreeti-disguises.md)
-*Source: Monster Manual p. 145, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Efreeti (Disguises)](Compendium/bestiary/elemental/efreeti-disguises.md)
+*Source: Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ```statblock
 "name": "Efreeti (Disguises)"
@@ -38,34 +39,31 @@ aliases:
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "damage_immunities": "fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 12"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 12"
 "languages": "Ignan"
 "cr": "11"
 "traits":
   - "desc": "The efreeti's innate spellcasting ability is Charisma (spell save DC\
       \ 15, +7 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)\
-      \ (often with a longer duration than is normal for that spell; see Disguises)\n\
-      \n**3/day each:** [enlarge/reduce](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enlarge-reduce.md),\
-      \ [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md),\
-      \ [true polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-polymorph.md)\
-      \ (mightier genies only; see Disguises)\n\n**1/day each:** [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md)\
-      \ ([fire elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/fire-elemental.md)\
-      \ only), [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md)"
+      \ requiring no material components:\n\n**At will:** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [disguise self](Compendium/spells/disguise-self.md) (often with a longer duration\
+      \ than is normal for that spell; see Disguises)\n\n**3/day each:** [enlarge/reduce](Compendium/spells/enlarge-reduce.md),\
+      \ [tongues](Compendium/spells/tongues.md), [true polymorph](Compendium/spells/true-polymorph.md)\
+      \ (mightier genies only; see Disguises)\n\n**1/day each:** [conjure elemental](Compendium/spells/conjure-elemental.md)\
+      \ ([fire elemental](Compendium/bestiary/elemental/fire-elemental.md) only),\
+      \ [gaseous form](Compendium/spells/gaseous-form.md), [invisibility](Compendium/spells/invisibility.md),\
+      \ [major image](Compendium/spells/major-image.md), [plane shift](Compendium/spells/plane-shift.md),\
+      \ [wall of fire](Compendium/spells/wall-of-fire.md)"
     "name": "Innate Spellcasting"
   - "desc": "If the efreeti dies, its body disintegrates in a flash of fire and puff\
       \ of smoke, leaving behind only equipment the efreeti was wearing or carrying."
     "name": "Elemental Demise"
   - "desc": "Some genies can veil themselves in illusion to pass as other similarly\
-      \ shaped creatures. Such genies can innately cast the [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)\
+      \ shaped creatures. Such genies can innately cast the [disguise self](Compendium/spells/disguise-self.md)\
       \ spell at will, often with a longer duration than is normal for that spell.\
-      \ Mightier genies can cast the [true polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-polymorph.md)\
+      \ Mightier genies can cast the [true polymorph](Compendium/spells/true-polymorph.md)\
       \ spell one to three times per day, possibly with a longer duration than normal.\
       \ Such genies can change only their own shape, but a rare few can use the spell\
       \ on other creatures and objects as well."
@@ -81,8 +79,6 @@ aliases:
     "name": "Hurl Flame"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
 ```
 ^statblock
 

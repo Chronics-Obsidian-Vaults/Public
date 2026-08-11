@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Durable
+- "Durable"
 ---
 # Durable
 *Source: Player's Handbook p. 166*  

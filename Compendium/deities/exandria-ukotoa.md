@@ -7,8 +7,8 @@ tags:
 - source/deity/exandria
 - source/domain/knowledge
 - source/domain/tempest
-aliases: 
-- Uk'otoa
+aliases:
+- "Uk'otoa"
 ---
 # Uk'otoa
 *Source: Explorer's Guide to Wildemount p. 33* 

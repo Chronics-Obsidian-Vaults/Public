@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/phb
 aliases:
-- Conditions
+- "Conditions"
 ---
 # Conditions
 
@@ -24,17 +24,17 @@ _Source: Player's Handbook p. 290. Available in the <span title='Systems Referen
 ## Concentration
 _Source: Player's Handbook p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-Some spells require you to maintain [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) in order to keep their magic active. If you lose [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration), such a spell ends.
+Some spells require you to maintain [concentration](Rules/conditions.md#Concentration) in order to keep their magic active. If you lose [concentration](Rules/conditions.md#Concentration), such a spell ends.
 
-If a spell must be maintained with [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration), that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) at any time (no action required).
+If a spell must be maintained with [concentration](Rules/conditions.md#Concentration), that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [concentration](Rules/conditions.md#Concentration) at any time (no action required).
 
-Normal activity, such as moving and attacking, doesn't interfere with [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration). The following factors can break [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration):
+Normal activity, such as moving and attacking, doesn't interfere with [concentration](Rules/conditions.md#Concentration). The following factors can break [concentration](Rules/conditions.md#Concentration):
 
-- **Casting another spell that requires concentration.** You lose [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell if you cast another spell that requires [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration). You can't concentrate on two spells at once.  
-- **Taking damage.** Whenever you take damage while you are [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell, you must make a Constitution saving throw to maintain your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration). The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.  
-- **Being incapacitated or killed.** You lose [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell if you are [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) or if you die.  
+- **Casting another spell that requires concentration.** You lose [concentration](Rules/conditions.md#Concentration) on a spell if you cast another spell that requires [concentration](Rules/conditions.md#Concentration). You can't concentrate on two spells at once.  
+- **Taking damage.** Whenever you take damage while you are [concentrating](Rules/conditions.md#Concentration) on a spell, you must make a Constitution saving throw to maintain your [concentration](Rules/conditions.md#Concentration). The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.  
+- **Being incapacitated or killed.** You lose [concentration](Rules/conditions.md#Concentration) on a spell if you are [incapacitated](Rules/conditions.md#Incapacitated) or if you die.  
 
-The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell.
+The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain [concentration](Rules/conditions.md#Concentration) on a spell.
 
 ## Deafened
 _Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -74,8 +74,8 @@ _Source: Player's Handbook p. 290. Available in the <span title='Systems Referen
 _Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.  
-- The condition ends if the grappler is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).  
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md) spell.  
+- The condition ends if the grappler is [incapacitated](Rules/conditions.md#Incapacitated).  
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [thunderwave](Compendium/spells/thunderwave.md) spell.  
 
 ## Incapacitated
 _Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -91,7 +91,7 @@ _Source: Player's Handbook p. 291. Available in the <span title='Systems Referen
 ## Paralyzed
 _Source: Player's Handbook p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-- A paralyzed creature is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) and can't move or speak.  
+- A paralyzed creature is [incapacitated](Rules/conditions.md#Incapacitated) and can't move or speak.  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.  
@@ -100,7 +100,7 @@ _Source: Player's Handbook p. 291. Available in the <span title='Systems Referen
 _Source: Player's Handbook p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.  
-- The creature is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), can't move or speak, and is unaware of its surroundings.  
+- The creature is [incapacitated](Rules/conditions.md#Incapacitated), can't move or speak, and is unaware of its surroundings.  
 - Attack rolls against the creature have advantage.  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - The creature has resistance to all damage.  
@@ -128,24 +128,24 @@ _Source: Player's Handbook p. 292. Available in the <span title='Systems Referen
 ## Stunned
 _Source: Player's Handbook p. 292. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-- A stunned creature is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), can't move, and can speak only falteringly.  
+- A stunned creature is [incapacitated](Rules/conditions.md#Incapacitated), can't move, and can speak only falteringly.  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 
 ## Surprised
 _Source: Player's Handbook p. 189. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A [gelatinous cube](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/gelatinous-cube.md) glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
+A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A [gelatinous cube](Compendium/bestiary/ooze/gelatinous-cube.md) glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
-The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks of anyone hiding with the passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised) at the start of the encounter.
+The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([Stealth](Rules/skills.md#Stealth)) checks of anyone hiding with the passive Wisdom ([Perception](Rules/skills.md#Perception)) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is [surprised](Rules/conditions.md#Surprised) at the start of the encounter.
 
-If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised) even if the other members aren't.
+If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be [surprised](Rules/conditions.md#Surprised) even if the other members aren't.
 
 ## Unconscious
 _Source: Player's Handbook p. 292. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
-- An unconscious creature is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), can't move or speak, and is unaware of its surroundings.  
-- The creature drops whatever it's holding and falls [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).  
+- An unconscious creature is [incapacitated](Rules/conditions.md#Incapacitated), can't move or speak, and is unaware of its surroundings.  
+- The creature drops whatever it's holding and falls [prone](Rules/conditions.md#Prone).  
 - The creature automatically fails Strength and Dexterity saving throws.  
 - Attack rolls against the creature have advantage.  
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.

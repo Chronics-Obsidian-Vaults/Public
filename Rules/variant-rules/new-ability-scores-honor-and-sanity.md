@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- New Ability Scores: Honor and Sanity
+- "New Ability Scores: Honor and Sanity"
 ---
 # New Ability Scores: Honor and Sanity
 *Source: Dungeon Master's Guide p. 264* 
@@ -68,8 +68,8 @@ You might call for a Sanity saving throw when a character runs the risk of succu
 
 - Seeing a creature from the Far Realm or other alien realms for the first time  
 - Making direct contact with the mind of an alien creature  
-- Being subjected to spells that affect mental stability, such as the insanity option of the [symbol](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/symbol.md) spell  
+- Being subjected to spells that affect mental stability, such as the insanity option of the [symbol](Compendium/spells/symbol.md) spell  
 - Passing through a demiplane built on alien physics  
 - Resisting an effect conferred by an attack or spell that deals psychic damage  
 
-A failed Sanity save might result in [short-term](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/short-term-madness.md), [long-term](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/long-term-madness.md), or [indefinite madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/indefinite-madness.md), as described in chapter 8, "Running the Game." Any time a character suffers from long-term or indefinite madness, the character's Sanity is reduced by 1. A [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md) spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement.
+A failed Sanity save might result in [short-term](Compendium/tables/short-term-madness.md), [long-term](Compendium/tables/long-term-madness.md), or [indefinite madness](Compendium/tables/indefinite-madness.md), as described in chapter 8, "Running the Game." Any time a character suffers from long-term or indefinite madness, the character's Sanity is reduced by 1. A [greater restoration](Compendium/spells/greater-restoration.md) spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement.

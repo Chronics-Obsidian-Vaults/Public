@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Path of the Totem Warrior
+- "Path of the Totem Warrior"
 ---
 # Path of the Totem Warrior
 *Source: Acquisitions Incorporated p. 54* 

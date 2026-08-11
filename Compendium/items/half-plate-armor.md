@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/armor/medium
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Half Plate Armor"
 item_type: armor
 item_subtype: medium

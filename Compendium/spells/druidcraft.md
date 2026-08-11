@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/selesnya-initiate
@@ -13,6 +14,7 @@ tags:
 - source/spell/optfeature/druidic-warrior
 - source/spell/optfeature/pact-of-the-tome
 - source/spell/race/fairy
+- source/spell/race/khoravar
 - source/spell/school/transmutation
 - source/spell/subclass/arcane-archer
 - source/spell/subclass/circle-of-the-land/arctic
@@ -25,7 +27,7 @@ classes:
 - Druid (Circle of the Land, Arctic)
 - Fighter (Arcane Archer)
 aliases:
-- Druidcraft
+- "Druidcraft"
 level: 0
 school: transmutation
 ritual: false
@@ -52,6 +54,6 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
 - You instantly light or snuff out a candle, a torch, or a small campfire.  
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](Compendium/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

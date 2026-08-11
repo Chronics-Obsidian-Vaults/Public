@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Backstory; Mysterious Secrets
+- "Backstory; Mysterious Secrets"
 ---
 # Backstory; Mysterious Secrets
 *Source: Explorer's Guide to Wildemount p. 191* 

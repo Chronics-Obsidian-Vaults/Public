@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/17
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lazav
+- "Lazav"
 ---
-# [Lazav](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/lazav-ggr.md)
+# [Lazav](Compendium/bestiary/npc/lazav-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 232*  
 
 Lazav is uniquely qualified to be the Dimir guildmaster: he is a shapechanger whose mysterious genius is informed by agents from the entire Dimir network. He takes on a tremendous variety of guises as his needs and plans require. He might step out into the Ravnican streets as an elderly widow to eavesdrop at the bazaar, become a vedalken hussar of the Azorius Senate to sidestep a checkpoint, or transform into a Tin Street merchant to deceive a passing noble. His true form might be that of a doppelganger or some other creature; no one has ever seen it.
@@ -41,37 +42,35 @@ Lazav is uniquely qualified to be the Dimir guildmaster: he is a shapechanger wh
   - "wisdom": !!int "11"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+18"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+11"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+19"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 21"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 21"
 "languages": "Common, Thieves' cant"
 "cr": "17"
 "traits":
   - "desc": "Lazav's innate spellcasting ability is Intelligence (spell save DC 20).\
       \ He can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [encode thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/encode-thoughts-ggr.md)\
-      \ (see chapter 2), [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md),\
-      \ [vicious mockery](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vicious-mockery.md)\
-      \ (4d4 psychic damage)\n\n**3/day each:** [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md),\
-      \ [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md)\n\
-      \n**1/day each:** [modify memory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/modify-memory.md),\
-      \ [Rary's telepathic bond](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/rarys-telepathic-bond.md)"
+      \n**At will:** [detect thoughts](Compendium/spells/detect-thoughts.md), [encode\
+      \ thoughts](Compendium/spells/encode-thoughts-ggr.md) (see chapter 2), [freedom\
+      \ of movement](Compendium/spells/freedom-of-movement.md), [vicious mockery](Compendium/spells/vicious-mockery.md)\
+      \ (4d4 psychic damage)\n\n**3/day each:** [blur](Compendium/spells/blur.md),\
+      \ [confusion](Compendium/spells/confusion.md), [mirror image](Compendium/spells/mirror-image.md)\n\
+      \n**1/day each:** [modify memory](Compendium/spells/modify-memory.md), [Rary's\
+      \ telepathic bond](Compendium/spells/rarys-telepathic-bond.md)"
     "name": "Innate Spellcasting"
-  - "desc": "No attack roll has advantage against Lazav unless he is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+  - "desc": "No attack roll has advantage against Lazav unless he is [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Elusive"
   - "desc": "If Lazav fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -79,8 +78,8 @@ Lazav is uniquely qualified to be the Dimir guildmaster: he is a shapechanger wh
       \ he has seen. His statistics, other than his size, are the same in each form.\
       \ Any equipment he is wearing or carrying isn't transformed."
     "name": "Shapechanger Savant"
-  - "desc": "Unless Lazav is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
-      \ he is immune to magic that allows other creatures to read his thoughts, determine\
+  - "desc": "Unless Lazav is [incapacitated](Rules/conditions.md#Incapacitated), he\
+      \ is immune to magic that allows other creatures to read his thoughts, determine\
       \ whether he is lying, know his alignment, or know his creature type. Creatures\
       \ can telepathically communicate with Lazav only if he allows it."
     "name": "Psychic Defenses"
@@ -106,6 +105,6 @@ Lazav is uniquely qualified to be the Dimir guildmaster: he is a shapechanger wh
     "name": "Shifting Nightmare (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/lazav-ggr.webp"
+"image": "Compendium/bestiary/npc/token/lazav-ggr.webp"
 ```
 ^statblock

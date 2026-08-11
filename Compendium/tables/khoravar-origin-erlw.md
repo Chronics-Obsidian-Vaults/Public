@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Khoravar Origin
+- "Khoravar Origin"
 ---
 # Khoravar Origin
 *Source: Eberron: Rising from the Last War p. 26* 

@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/tier/major
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of the Ram"
 item_type: wondrous
 item_subtype: ring
@@ -16,7 +17,7 @@ attunement: required
 ---
 # Ring of the Ram
 *Ring, major, rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/ring-of-the-ram.webp#right)
+![](Compendium/items/img/ring-of-the-ram.webp#right)
 
 
 This ring has 3 charges, and it regains `1d3` expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to make a ranged spell attack against one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes `2d10` force damage and is pushed 5 feet away from you.

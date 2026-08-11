@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/elven
 - source/domain/war
-aliases: 
-- Shevarash
+aliases:
+- "Shevarash"
 ---
 # Shevarash
 *Source: Mordenkainen's Tome of Foes p. 43* 

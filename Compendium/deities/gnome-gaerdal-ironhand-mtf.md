@@ -7,8 +7,8 @@ tags:
 - source/deity/gnome
 - source/domain/peace
 - source/domain/war
-aliases: 
-- Gaerdal Ironhand
+aliases:
+- "Gaerdal Ironhand"
 ---
 # Gaerdal Ironhand
 *Source: Mordenkainen's Tome of Foes p. 112, Tasha's Cauldron of Everything p. 33* 

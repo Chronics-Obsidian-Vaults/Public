@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/phb
 - source/race/human
 aliases:
-- Human
+- "Human"
 ---
 # Human
 *Source: Player's Handbook p. 29. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/human.webp#right)
+![](Compendium/races/img/human.webp#right)
 
 - **Ability Scores**: str +1 dex +1 con +1 int +1 wis +1 cha +1
 - **Size**: Medium

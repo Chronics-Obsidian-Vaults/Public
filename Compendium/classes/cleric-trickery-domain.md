@@ -7,7 +7,7 @@ tags:
 - source/domain/trickery
 - source/subclass/cleric/trickery
 aliases:
-- Trickery Domain
+- "Trickery Domain"
 ---
 # Trickery Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,12 +44,11 @@ aliases:
 
 ^class-progression
 
+Gods of trickery—such as Tymora, Beshaba, [Olidammara](Compendium/deities/greyhawk-olidammara.md), the Traveler, [Garl Glittergold](Compendium/deities/nonhuman-garl-glittergold.md), and [Loki](Compendium/deities/norse-loki.md)—are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.
 
-## Class Features
+## Subclass Features
 
-### Trickery Domain (Level 1)
-
-Gods of trickery—such as Tymora, Beshaba, [Olidammara](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-olidammara.md), the Traveler, [Garl Glittergold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/nonhuman-garl-glittergold.md), and [Loki](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/norse-loki.md)—are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Their clerics are a disruptive force in the world, puncturing pride, mocking tyrants, stealing from the rich, freeing captives, and flouting hollow traditions. They prefer subterfuge, pranks, deception, and theft rather than direct confrontation.
+### Domain Spells (Level 1)
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -57,22 +56,22 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md), [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md) |
-| 3rd | [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md), [pass without trace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pass-without-trace.md) |
-| 5th | [blink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blink.md), [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md) |
-| 7th | [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md), [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md) |
-| 9th | [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md), [modify memory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/modify-memory.md) |
+| 1st | [charm person](Compendium/spells/charm-person.md), [disguise self](Compendium/spells/disguise-self.md) |
+| 3rd | [mirror image](Compendium/spells/mirror-image.md), [pass without trace](Compendium/spells/pass-without-trace.md) |
+| 5th | [blink](Compendium/spells/blink.md), [dispel magic](Compendium/spells/dispel-magic.md) |
+| 7th | [dimension door](Compendium/spells/dimension-door.md), [polymorph](Compendium/spells/polymorph.md) |
+| 9th | [dominate person](Compendium/spells/dominate-person.md), [modify memory](Compendium/spells/modify-memory.md) |
 ^trickery-domain-spells
 
 ### Blessing of the Trickster (Level 1)
 
-Starting when you choose this domain at 1st level, you can use your action to touch a willing creature other than yourself to give it advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks. This blessing lasts for 1 hour or until you use this feature again.
+Starting when you choose this domain at 1st level, you can use your action to touch a willing creature other than yourself to give it advantage on Dexterity ([Stealth](Rules/skills.md#Stealth)) checks. This blessing lasts for 1 hour or until you use this feature again.
 
 ### Channel Divinity: Invoke Duplicity (Level 2)
 
 Starting at 2nd level, you can use your Channel Divinity to create an illusory duplicate of yourself.
 
-As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) (as if you were [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
+As an action, you create a perfect illusion of yourself that lasts for 1 minute, or until you lose your [concentration](Rules/conditions.md#Concentration) (as if you were [concentrating](Rules/conditions.md#Concentration) on a spell). The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
 
 For the duration, you can cast spells as though you were in the illusion's space, but you must use your own senses. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
@@ -80,7 +79,7 @@ For the duration, you can cast spells as though you were in the illusion's space
 
 Starting at 6th level, you can use your Channel Divinity to vanish.
 
-As an action, you become [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) until the end of your next turn. You become visible if you attack or cast a spell.
+As an action, you become [invisible](Rules/conditions.md#Invisible) until the end of your next turn. You become visible if you attack or cast a spell.
 
 ### Divine Strike (Level 8)
 
@@ -89,7 +88,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with poison—a
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

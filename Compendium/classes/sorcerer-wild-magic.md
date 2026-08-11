@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/sorcerer/wild
 aliases:
-- Wild Magic
+- "Wild Magic"
 ---
 # Wild Magic
 *[Sorcerer](./sorcerer.md): Sorcerous Origin*  
@@ -43,26 +43,25 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Wild Magic (Level 1)
+![](Compendium/classes/img/wild-sorcerer.webp#right)
 
 Your innate magic comes from the wild forces of chaos that underlie the order of creation. You might have endured exposure to some form of raw magic, perhaps through a planar portal leading to Limbo, the Elemental Planes, or the mysterious Far Realm. Perhaps you were blessed by a powerful fey creature or marked by a demon. Or your magic could be a fluke of your birth, with no apparent cause or reason. However it came to be, this chaotic magic churns within you, waiting for any outlet.
+
+## Subclass Features
 
 ### Wild Magic Surge (Level 1)
 
 Starting when you choose this origin at 1st level, your spellcasting can unleash surges of untamed magic. Immediately after you cast a sorcerer spell of 1st level or higher, the DM can have you roll a `d20`. If you roll a 1, roll on the Wild Magic Surge table to create a random magical effect. A Wild Magic Surge can happen once per turn.
 
-If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration), it doesn't require [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) in this case; the spell lasts for its full duration.
+If a Wild Magic effect is a spell, it's too wild to be affected by Metamagic. If it normally requires [concentration](Rules/conditions.md#Concentration), it doesn't require [concentration](Rules/conditions.md#Concentration) in this case; the spell lasts for its full duration.
 
-![Wild Magic Surge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/wild-magic-surge-phb.md)
+![Wild Magic Surge](Compendium/tables/wild-magic-surge-phb.md)
 
 ### Tides of Chaos (Level 1)
 
 Starting at 1st level, you can manipulate the forces of chance and chaos to gain advantage on one attack roll, ability check, or saving throw. Once you do so, you must finish a long rest before you can use this feature again.
 
-Any time before you regain the use of this feature, the DM can have you roll on the [Wild Magic Surge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/wild-magic-surge-phb.md) table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
+Any time before you regain the use of this feature, the DM can have you roll on the [Wild Magic Surge](Compendium/tables/wild-magic-surge-phb.md) table immediately after you cast a sorcerer spell of 1st level or higher. You then regain the use of this feature.
 
 ### Bend Luck (Level 6)
 
@@ -70,7 +69,7 @@ Starting at 6th level, you have the ability to twist fate using your wild magic.
 
 ### Controlled Chaos (Level 14)
 
-At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll on the [Wild Magic Surge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/wild-magic-surge-phb.md) table, you can roll twice and use either number.
+At 14th level, you gain a modicum of control over the surges of your wild magic. Whenever you roll on the [Wild Magic Surge](Compendium/tables/wild-magic-surge-phb.md) table, you can roll twice and use either number.
 
 ### Spell Bombardment (Level 18)
 

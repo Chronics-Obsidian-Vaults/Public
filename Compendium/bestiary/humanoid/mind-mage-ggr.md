@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mind Mage
+- "Mind Mage"
 ---
-# [Mind Mage](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/mind-mage-ggr.md)
+# [Mind Mage](Compendium/bestiary/humanoid/mind-mage-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 233*  
 
 Dimir mind mages are among the most feared spellcasters in Ravnica, thanks in large part to the aura of mystery that shrouds them and their work. Their ability to read and alter memories commands respect from the other members of House Dimir and makes them useful in the full spectrum of the guild's activities. Many mind mages lead cells of their own.
@@ -23,7 +24,7 @@ Dimir mind mages are among the most feared spellcasters in Ravnica, thanks in la
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "49"
 "hit_dice": "11d8"
 "modifier": !!int "2"
@@ -39,32 +40,30 @@ Dimir mind mages are among the most feared spellcasters in Ravnica, thanks in la
   - "intelligence": !!int "8"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+6"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
 "senses": "passive Perception 12"
 "languages": "Common plus any four languages"
 "cr": "5"
 "traits":
   - "desc": "The mage's spellcasting ability is Intelligence (spell save DC 16). It\
       \ can innately cast the following spells, requiring no components:\n\n**At will:**\
-      \ [encode thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/encode-thoughts-ggr.md)\
-      \ (see chapter 2), [friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md)\n\
-      \n**3/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**1/day each:** [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md),\
-      \ [mass suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-suggestion.md),\
-      \ [modify memory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/modify-memory.md)"
+      \ [encode thoughts](Compendium/spells/encode-thoughts-ggr.md) (see chapter 2),\
+      \ [friends](Compendium/spells/friends.md)\n\n**3/day each:** [charm person](Compendium/spells/charm-person.md),\
+      \ [detect thoughts](Compendium/spells/detect-thoughts.md), [mage armor](Compendium/spells/mage-armor.md),\
+      \ [sleep](Compendium/spells/sleep.md), [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**1/day each:** [dominate person](Compendium/spells/dominate-person.md), [mass\
+      \ suggestion](Compendium/spells/mass-suggestion.md), [modify memory](Compendium/spells/modify-memory.md)"
     "name": "Innate Spellcasting (Psionics)"
-  - "desc": "The mage wears a [spies' murmur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spies-murmur-ggr.md)\
+  - "desc": "The mage wears a [spies' murmur](Compendium/items/spies-murmur-ggr.md)\
       \ (see chapter 5)."
     "name": "Special Equipment"
 "actions":
@@ -73,6 +72,6 @@ Dimir mind mages are among the most feared spellcasters in Ravnica, thanks in la
     "name": "Dagger"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/mind-mage-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/mind-mage-ggr.webp"
 ```
 ^statblock

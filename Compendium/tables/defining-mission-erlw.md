@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Defining Mission
+- "Defining Mission"
 ---
 # Defining Mission
 *Source: Eberron: Rising from the Last War p. 90* 

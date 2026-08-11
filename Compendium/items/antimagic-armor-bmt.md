@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/armor/heavy
@@ -9,7 +10,7 @@ tags:
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Antimagic Armor"
 - "Antimagic Breastplate"
 - "Antimagic Chain Mail"
@@ -36,7 +37,7 @@ attunement: required
 
 While wearing this armor, you can use your reaction to give yourself advantage on a saving throw you make against a spell. Once this property is used, it can't be used again until the next dawn.
 
-In addition, while you wear this armor, you can use it to cast [Antimagic Field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md), requiring no spell components. Once this property is used, it can't be used again until the next dawn.
+In addition, while you wear this armor, you can use it to cast [Antimagic Field](Compendium/spells/antimagic-field.md), requiring no spell components. Once this property is used, it can't be used again until the next dawn.
 
 **Variants**:
 - [Antimagic Breastplate](#Antimagic%20Breastplate)

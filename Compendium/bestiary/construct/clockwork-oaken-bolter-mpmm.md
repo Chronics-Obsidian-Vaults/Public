@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clockwork Oaken Bolter
+- "Clockwork Oaken Bolter"
 ---
-# [Clockwork Oaken Bolter](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/clockwork-oaken-bolter-mpmm.md)
+# [Clockwork Oaken Bolter](Compendium/bestiary/construct/clockwork-oaken-bolter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
 
 No ordinary ballista, an oaken bolter is a Construct capable of striking at long distances. The bolts it launches can rend flesh, destroy armor, or drag enemies toward traps or melee-oriented clockworks—and at shorter ranges, burst with explosive force.
@@ -32,8 +33,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d10 | Enhancement |
 |-----------|-------------|
-| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
-| 2 | **Sensors.** The range of the clockwork's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception) if it lacks that proficiency. |
+| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](Rules/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
+| 2 | **Sensors.** The range of the clockwork's [darkvision](Rules/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](Rules/skills.md#Perception) if it lacks that proficiency. |
 | 3 | **Fortified.** The clockwork's AC increases by 2. |
 | 4 | **Increased Speed.** The clockwork's speed increases by 10 feet. |
 | 5 | **Reinforced Construction.** The clockwork has resistance to force, lightning, and thunder damage. |
@@ -48,13 +49,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](Rules/conditions.md#Blinded) until the end of its turn. |
 | 2 | **Flawed Targeting.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
 | 4 | **Imprinting Loop.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
 | 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `d6`. If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) until the end of its turn. |
+| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](Rules/conditions.md#Incapacitated) until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 
@@ -77,14 +78,10 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
   - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands one language of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -101,12 +98,12 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
       \ ft., one target. *Hit:* 15 (2d10 + 4) piercing damage."
     "name": "Lancing Bolt"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 50/200 ft., one target. *Hit:*\
-      \ 9 (1d10 + 4) piercing damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 12). While [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ in this way, a creature's speed isn't reduced, but it can move only in directions\
-      \ that bring it closer to the clockwork. A creature takes 5 (1d10) slashing\
-      \ damage if it escapes from the grapple or if it tries and fails. The clockwork\
-      \ can grapple only one creature at a time with its harpoon."
+      \ 9 (1d10 + 4) piercing damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 12). While [grappled](Rules/conditions.md#Grappled) in this way,\
+      \ a creature's speed isn't reduced, but it can move only in directions that\
+      \ bring it closer to the clockwork. A creature takes 5 (1d10) slashing damage\
+      \ if it escapes from the grapple or if it tries and fails. The clockwork can\
+      \ grapple only one creature at a time with its harpoon."
     "name": "Harpoon"
   - "desc": "The clockwork launches an explosive charge at a point within 120 feet.\
       \ Each creature in a 20-foot-radius sphere centered on that point must make\
@@ -114,13 +111,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
       \ or half as much damage on a successful one."
     "name": "Explosive Bolt (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "The clockwork pulls the creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+  - "desc": "The clockwork pulls the creature [grappled](Rules/conditions.md#Grappled)\
       \ by its Harpoon up to 20 feet closer."
     "name": "Reel In"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/clockwork-oaken-bolter-mpmm.webp"
+"image": "Compendium/bestiary/construct/token/clockwork-oaken-bolter-mpmm.webp"
 ```
 ^statblock
 

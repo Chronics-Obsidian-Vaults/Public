@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/halfling
 - source/domain/trickery
-aliases: 
-- Charmalaine
+aliases:
+- "Charmalaine"
 ---
 # Charmalaine
 *Source: Mordenkainen's Tome of Foes p. 103* 

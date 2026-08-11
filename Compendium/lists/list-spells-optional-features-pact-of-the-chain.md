@@ -5,10 +5,10 @@ cssclasses:
 tags:
 - source/spell/list/optfeature/pact-of-the-chain
 aliases:
-- Spells for Pact of the Chain
+- "Spells for Pact of the Chain"
 ---
 # Spells for Pact of the Chain
 
 ## 1st Level
 
-- [Find Familiar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/find-familiar.md "PHB")
+- [Find Familiar](Compendium/spells/find-familiar.md "PHB")

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bmt
 - source/monster/legendary-group
 aliases:
-- Pazrodine
+- "Pazrodine"
 ---
 # Pazrodine
 

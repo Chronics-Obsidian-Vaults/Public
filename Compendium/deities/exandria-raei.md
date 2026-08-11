@@ -7,12 +7,12 @@ tags:
 - source/deity/exandria
 - source/domain/life
 - source/domain/light
-aliases: 
-- Raei
+aliases:
+- "Raei"
 ---
 # Raei
 *Source: Explorer's Guide to Wildemount p. 24* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/egw-symbol-of-raei.webp#symbol)
+![](Compendium/deities/img/egw-symbol-of-raei.webp#symbol)
 
 - **Alignment**: Neutral Good
 - **Category**: Prime Deities

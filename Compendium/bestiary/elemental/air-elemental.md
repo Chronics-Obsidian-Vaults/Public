@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Air Elemental
+- "Air Elemental"
 ---
-# [Air Elemental](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/air-elemental.md)
-*Source: Monster Manual p. 124, Eberron: Rising from the Last War, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Air Elemental](Compendium/bestiary/elemental/air-elemental.md)
+*Source: Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
 
@@ -60,16 +61,11 @@ An elemental doesn't require air, food, drink, or sleep.
 "damage_resistances": "lightning; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained), [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Auran"
 "cr": "5"
 "traits":
@@ -85,21 +81,17 @@ An elemental doesn't require air, food, drink, or sleep.
   - "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
       \ throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is\
       \ flung up 20 feet away from the elemental in a random direction and knocked\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ If a thrown target strikes an object, such as a wall or floor, the target\
-      \ takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target\
-      \ is thrown at another creature, that creature must succeed on a DC 13 Dexterity\
-      \ saving throw or take the same damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\n\
-      \nIf the saving throw is successful, the target takes half the bludgeoning damage\
-      \ and isn't flung away or knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ [prone](Rules/conditions.md#Prone). If a thrown target strikes an object,\
+      \ such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every\
+      \ 10 feet it was thrown. If the target is thrown at another creature, that creature\
+      \ must succeed on a DC 13 Dexterity saving throw or take the same damage and\
+      \ be knocked [prone](Rules/conditions.md#Prone).\n\nIf the saving throw is successful,\
+      \ the target takes half the bludgeoning damage and isn't flung away or knocked\
+      \ [prone](Rules/conditions.md#Prone)."
     "name": "Whirlwind (Recharge 4-6)"
 "source":
   - "MM"
-  - "ERLW"
-  - "MOT"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/air-elemental.webp"
+"image": "Compendium/bestiary/elemental/token/air-elemental.webp"
 ```
 ^statblock
 

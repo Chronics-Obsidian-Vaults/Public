@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Spawn Mangler
+- "Star Spawn Mangler"
 ---
-# [Star Spawn Mangler](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/star-spawn-mangler-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236, The Book of Many Things*  
+# [Star Spawn Mangler](Compendium/bestiary/aberration/star-spawn-mangler-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
 
 > [!quote] A quote from Mordenkainen  
 > 
@@ -67,15 +68,13 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "dexterity": !!int "7"
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [prone](Rules/conditions.md#Prone)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Deep Speech"
 "cr": "5"
 "traits":
@@ -89,16 +88,15 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
       \ 7 (2d6) psychic damage."
     "name": "Claw"
   - "desc": "The mangler makes six Claw attacks. Either before or after these attacks,\
-      \ it can move up to its speed without provoking [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)."
+      \ it can move up to its speed without provoking [opportunity attacks](Rules/actions.md#Opportunity%20Attack)."
     "name": "Flurry of Claws (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the mangler takes the [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide)\
+  - "desc": "While in dim light or darkness, the mangler takes the [Hide](Rules/actions.md#Hide)\
       \ action."
     "name": "Shadow Stealth"
 "source":
   - "MPMM"
   - "MTF"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/star-spawn-mangler-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/star-spawn-mangler-mpmm.webp"
 ```
 ^statblock

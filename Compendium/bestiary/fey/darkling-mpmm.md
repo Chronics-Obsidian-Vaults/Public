@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-2
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Darkling
+- "Darkling"
 ---
-# [Darkling](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/darkling-mpmm.md)
+# [Darkling](Compendium/bestiary/fey/darkling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.
@@ -30,7 +31,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "3"
@@ -43,16 +44,17 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 15"
 "languages": "Elvish, Sylvan"
 "cr": "1/2"
@@ -60,12 +62,12 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - "desc": "When the darkling dies, nonmagical light flashes out from it in a 10-foot\
       \ radius as its body and possessions, other than metal or magic objects, burn\
       \ to ash. Any creature in that area must succeed on a DC 10 Constitution saving\
-      \ throw or be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ until the end of its next turn."
+      \ throw or be [blinded](Rules/conditions.md#Blinded) until the end of its next\
+      \ turn."
     "name": "Death Flash"
   - "desc": "While in bright light, the darkling has disadvantage on attack rolls,\
-      \ as well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that\
+      \ rely on sight."
     "name": "Light Sensitivity"
 "actions":
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
@@ -75,7 +77,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/darkling-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/darkling-mpmm.webp"
 ```
 ^statblock
 

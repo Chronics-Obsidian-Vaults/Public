@@ -7,8 +7,8 @@ tags:
 - source/deity/drow
 - source/domain/nature
 - source/domain/trickery
-aliases: 
-- Keptolo
+aliases:
+- "Keptolo"
 ---
 # Keptolo
 *Source: Mordenkainen's Tome of Foes p. 54* 

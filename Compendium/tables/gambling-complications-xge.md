@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Gambling Complications
+- "Gambling Complications"
 ---
 # Gambling Complications
 *Source: Xanathar's Guide to Everything p. 130* 

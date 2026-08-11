@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Rakdos Character Goals; Rakdos Assignments
+- "Rakdos Character Goals; Rakdos Assignments"
 ---
 # Rakdos Character Goals; Rakdos Assignments
 *Source: Guildmasters' Guide to Ravnica p. 153* 

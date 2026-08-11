@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/attunement/required
 - source/item/gear/instrument
 - source/item/rarity/common
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Instrument of Illusions"
 item_type: 
 item_subtype: 

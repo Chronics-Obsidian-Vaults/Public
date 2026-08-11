@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Guild Contact
+- "Guild Contact"
 ---
 # Guild Contact
 *Source: Tasha's Cauldron of Everything p. 94* 

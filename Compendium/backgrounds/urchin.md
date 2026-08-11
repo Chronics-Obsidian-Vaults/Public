@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Urchin
+- "Urchin"
 ---
 # Urchin
 *Source: Player's Handbook p. 141*  
 
 
-- **Skill Proficiencies.** [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand), [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)  
-- **Tool Proficiencies.** [Disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md), [Thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)  
-- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Skill Proficiencies.** [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand), [Stealth](Rules/skills.md#Stealth)  
+- **Tool Proficiencies.** [Disguise kit](Compendium/items/disguise-kit.md), [Thieves' tools](Compendium/items/thieves-tools.md)  
+- **Equipment.** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.
 

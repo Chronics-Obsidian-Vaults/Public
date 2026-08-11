@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Rise or Fall of a Leader or an Era; Leader Types
+- "Rise or Fall of a Leader or an Era; Leader Types"
 ---
 # Rise or Fall of a Leader or an Era; Leader Types
 *Source: Dungeon Master's Guide p. 27* 

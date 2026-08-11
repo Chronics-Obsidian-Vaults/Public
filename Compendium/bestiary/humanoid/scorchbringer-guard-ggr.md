@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scorchbringer Guard
+- "Scorchbringer Guard"
 ---
-# [Scorchbringer Guard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/scorchbringer-guard-ggr.md)
+# [Scorchbringer Guard](Compendium/bestiary/humanoid/scorchbringer-guard-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 243*  
 
 While chemisters focus on inventing new tools, weapons, and other devices for the guild to use, the role of a blastseeker is to put those devices to work. Despite the name, not all such devices produce explosions, but all the most interesting ones (from the Izzet perspective) do.
@@ -23,7 +24,7 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
 "subtype": "any race"
 "alignment": "Chaotic Neutral"
 "ac": !!int "16"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "2"
@@ -35,6 +36,8 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
   - !!int "9"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[light hammer](Compendium/items/light-hammer.md)"
 "senses": "passive Perception 9"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
@@ -57,6 +60,6 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
     "name": "Scorchbringer (Recharge 4-6)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/scorchbringer-guard-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/scorchbringer-guard-ggr.webp"
 ```
 ^statblock

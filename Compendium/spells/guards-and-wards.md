@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Cleric (Arcana Domain)
 - Wizard
 aliases:
-- Guards and Wards
+- "Guards and Wards"
 level: 6
 school: abjuration
 ritual: false
@@ -45,28 +46,28 @@ Fog fills all the warded corridors, making them heavily obscured. In addition, a
 
 ## Doors
 
-All doors in the warded area are magically locked, as if sealed by an [arcane lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md) spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md) spell) to make them appear as plain sections of wall.
+All doors in the warded area are magically locked, as if sealed by an [arcane lock](Compendium/spells/arcane-lock.md) spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the [minor illusion](Compendium/spells/minor-illusion.md) spell) to make them appear as plain sections of wall.
 
 ## Stairs
 
-Webs fill all stairs in the warded area from top to bottom, as the [web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md) spell. These strands regrow in 10 minutes if they are burned or torn away while guards and wards lasts.
+Webs fill all stairs in the warded area from top to bottom, as the [web](Compendium/spells/web.md) spell. These strands regrow in 10 minutes if they are burned or torn away while guards and wards lasts.
 
 ## Other Spell Effect
 
 You can place your choice of one of the following magical effects within the warded area of the stronghold.
 
-- Place [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md) in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.  
-- Place [magic mouth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-mouth.md) in two locations.  
-- Place [stinking cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stinking-cloud.md) in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.  
-- Place a constant [gust of wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-of-wind.md) in one corridor or room.  
-- Place a [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md) in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.  
+- Place [dancing lights](Compendium/spells/dancing-lights.md) in four corridors. You can designate a simple program that the lights repeat as long as guards and wards lasts.  
+- Place [magic mouth](Compendium/spells/magic-mouth.md) in two locations.  
+- Place [stinking cloud](Compendium/spells/stinking-cloud.md) in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while guards and wards lasts.  
+- Place a constant [gust of wind](Compendium/spells/gust-of-wind.md) in one corridor or room.  
+- Place a [suggestion](Compendium/spells/suggestion.md) in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.  
 
-The whole warded area radiates magic. A [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md) cast on a specific effect, if successful, removes only that effect.
+The whole warded area radiates magic. A [dispel magic](Compendium/spells/dispel-magic.md) cast on a specific effect, if successful, removes only that effect.
 
 You can create a permanently guarded and warded structure by casting this spell there every day for one year.
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

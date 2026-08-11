@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/tce
 - source/spell/class/artificer
@@ -11,8 +12,10 @@ tags:
 - source/spell/feat/aberrant-dragonmark
 - source/spell/feat/artificer-initiate
 - source/spell/feat/magic-initiate/wizard-spells
+- source/spell/feat/spell-sniper
 - source/spell/level/cantrip
 - source/spell/optfeature/pact-of-the-tome
+- source/spell/race/khoravar
 - source/spell/race/kobold
 - source/spell/school/evocation
 - source/spell/subclass/arcana-domain
@@ -30,7 +33,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Green-Flame Blade
+- "Green-Flame Blade"
 level: 0
 school: evocation
 ritual: false
@@ -54,6 +57,6 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 
 This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra `1d8` fire damage to the target on a hit, and the fire damage to the second creature increases to `1d8` + your spellcasting ability modifier. Both damage rolls increase by `1d8` at 11th level (`2d8` and `2d8`) and 17th level (`3d8` and `3d8`).
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Tasha's Cauldron of Everything p. 107, Sword Coast Adventurer's Guide p. 143*

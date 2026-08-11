@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/egw
 - source/race/halfling/lotusden
 aliases:
-- Halfling (Lotusden)
+- "Halfling (Lotusden)"
 ---
 # Halfling (Lotusden)
 *Source: Explorer's Guide to Wildemount p. 164*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/halfling-lotusden.webp#right)
+![](Compendium/races/img/halfling-lotusden.webp#right)
 
 - **Ability Scores**: wis +1
 - **Size**: Small
@@ -32,7 +33,7 @@ When you roll a 1 on an attack roll, ability check, or saving throw, you can rer
 
 ### Brave
 
-You have advantage on saving throws against being [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).
+You have advantage on saving throws against being [frightened](Rules/conditions.md#Frightened).
 
 ### Halfling Nimbleness
 
@@ -44,7 +45,7 @@ You can speak, read, and write Common and Halfling. The Halfling language isn't 
 
 ### Child of the Wood
 
-You know the [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md) cantrip. When you reach 3rd level, you can cast the [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md) spell once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells.
+You know the [druidcraft](Compendium/spells/druidcraft.md) cantrip. When you reach 3rd level, you can cast the [entangle](Compendium/spells/entangle.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [spike growth](Compendium/spells/spike-growth.md) spell once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells.
 
 ### Timberwalk
 
@@ -106,4 +107,4 @@ A halfling has a given name, a family name, and possibly a nickname. Family name
 - **Family Names.** Brushgather, Goodbarrel, Greenbottle, High-hill, Hilltopple, Leagallow, Tealeaf, Thorngage, Tosscobble, Underbough  
 
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/halfling.webp#center)
+![](Compendium/races/img/halfling.webp#center)

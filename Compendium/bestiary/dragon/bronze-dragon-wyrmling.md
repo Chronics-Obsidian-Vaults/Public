@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bronze Dragon Wyrmling
+- "Bronze Dragon Wyrmling"
 ---
-# [Bronze Dragon Wyrmling](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/bronze-dragon-wyrmling.md)
+# [Bronze Dragon Wyrmling](Compendium/bestiary/dragon/bronze-dragon-wyrmling.md)
 *Source: Monster Manual p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -104,13 +105,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "2"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_immunities": "lightning"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -131,6 +131,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/bronze-dragon-wyrmling.webp"
+"image": "Compendium/bestiary/dragon/token/bronze-dragon-wyrmling.webp"
 ```
 ^statblock

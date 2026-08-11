@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Signature Case
+- "Signature Case"
 ---
 # Signature Case
 *Source: Eberron: Rising from the Last War p. 87* 

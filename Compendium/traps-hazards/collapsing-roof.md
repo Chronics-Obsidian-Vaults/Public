@@ -6,14 +6,14 @@ tags:
 - source/compendium/src/5e/dmg
 - source/hazard/mech
 aliases:
-- Collapsing Roof
+- "Collapsing Roof"
 ---
 # Collapsing Roof
 *Mechanical Trap*  
 
 This trap uses a trip wire to collapse the supports keeping an unstable section of a ceiling in place.
 
-The trip wire is 3 inches off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful DC 15 Dexterity check using [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md) disables the trip wire harmlessly. A character without [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md) can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
+The trip wire is 3 inches off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful DC 15 Dexterity check using [thieves' tools](Compendium/items/thieves-tools.md) disables the trip wire harmlessly. A character without [thieves' tools](Compendium/items/thieves-tools.md) can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
 
 Anyone who inspects the beams can easily determine that they are merely wedged in place. As an action, a character can knock over a beam, causing the trap to trigger.
 

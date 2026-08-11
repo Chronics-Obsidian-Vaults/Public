@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Shades of Evil; Morally Ambiguous Villains
+- "Shades of Evil; Morally Ambiguous Villains"
 ---
 # Shades of Evil; Morally Ambiguous Villains
 *Source: Eberron: Rising from the Last War p. 184* 

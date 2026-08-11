@@ -7,8 +7,8 @@ tags:
 - source/deity/exandria
 - source/domain/knowledge
 - source/domain/tempest
-aliases: 
-- Ceratos
+aliases:
+- "Ceratos"
 ---
 # Ceratos
 *Source: Explorer's Guide to Wildemount p. 31* 

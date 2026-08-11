@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/tier/major
 - source/item/wondrous/rod
-aliases: 
+aliases:
 - "Rod of Alertness"
 item_type: wondrous
 item_subtype: rod
@@ -24,15 +25,15 @@ This rod has a flanged head and the following properties.
 
 ## Alertness
 
-While holding the rod, you have advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks and on rolls for initiative.
+While holding the rod, you have advantage on Wisdom ([Perception](Rules/skills.md#Perception)) checks and on rolls for initiative.
 
 ## Spells
 
-While holding the rod, you can use an action to cast one of the following spells from it: [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md), [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md), [detect poison and disease](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-poison-and-disease.md), or [see invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/see-invisibility.md).
+While holding the rod, you can use an action to cast one of the following spells from it: [detect evil and good](Compendium/spells/detect-evil-and-good.md), [detect magic](Compendium/spells/detect-magic.md), [detect poison and disease](Compendium/spells/detect-poison-and-disease.md), or [see invisibility](Compendium/spells/see-invisibility.md).
 
 ## Protective Aura
 
-As an action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds bright light in a 60-foot radius and dim light for an additional 60 feet. While in that bright light, you and any creature that is friendly to you gain a +1 bonus to AC and saving throws and can sense the location of any [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) hostile creature that is also in the bright light.
+As an action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds bright light in a 60-foot radius and dim light for an additional 60 feet. While in that bright light, you and any creature that is friendly to you gain a +1 bonus to AC and saving throws and can sense the location of any [invisible](Rules/conditions.md#Invisible) hostile creature that is also in the bright light.
 
 The rod's head stops glowing and the effect ends after 10 minutes, or when a creature uses an action to pull the rod from the ground. This property can't be used again until the next dawn.
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/9
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Treant
+- "Treant"
 ---
-# [Treant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/treant.md)
-*Source: Monster Manual p. 289, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Treant](Compendium/bestiary/plant/treant.md)
+*Source: Monster Manual p. 289. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Treants are awakened trees that dwell in ancient forests. Although treants prefer to while away the days, months, and years in quiet contemplation, they fiercely protect their woodland demesnes from outside threats.
 
@@ -70,7 +71,7 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
   - "desc": "The treant magically animates one or two trees it can see within 60 feet\
-      \ of it. These trees have the same statistics as a [treant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/treant.md),\
+      \ of it. These trees have the same statistics as a [treant](Compendium/bestiary/plant/treant.md),\
       \ except they have Intelligence and Charisma scores of 1, they can't speak,\
       \ and they have only the Slam action option. An animated tree acts as an ally\
       \ of the treant. The tree remains animate for 1 day or until it dies; until\
@@ -80,12 +81,7 @@ Woodcutters who avoid culling healthy living trees and hunters who take only wha
     "name": "Animate Trees (1/Day)"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/treant.webp"
+"image": "Compendium/bestiary/plant/token/treant.webp"
 ```
 ^statblock
 

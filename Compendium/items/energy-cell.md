@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/age/futuristic
 - source/item/gear/ammunition-firearm
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Energy Cell"
 item_type: 
 item_subtype: 

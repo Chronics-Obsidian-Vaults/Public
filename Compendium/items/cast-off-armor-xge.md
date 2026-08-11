@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/armor/heavy
@@ -9,7 +10,7 @@ tags:
 - source/item/rarity/common
 - source/item/tier/minor
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Cast-Off Armor"
 - "Cast-Off Breastplate"
 - "Cast-Off Chain Mail"

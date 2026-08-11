@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Banshee
+- "Banshee"
 ---
-# [Banshee](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/banshee.md)
-*Source: Monster Manual p. 23, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Book of Many Things. Available in the Basic Rules (2014)*  
+# [Banshee](Compendium/bestiary/undead/banshee.md)
+*Source: Monster Manual p. 23. Available in the Basic Rules (2014)*  
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
 
@@ -57,17 +58,12 @@ A banshee doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Elvish"
 "cr": "4"
 "traits":
@@ -84,10 +80,10 @@ A banshee doesn't require air, food, drink, or sleep.
       \ + 2) necrotic damage."
     "name": "Corrupting Touch"
   - "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
-      \ must succeed on a DC 13 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ for 1 minute. A [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-      \ if the banshee is within line of sight, ending the effect on itself on a success.\
+      \ must succeed on a DC 13 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
+      \ for 1 minute. A [frightened](Rules/conditions.md#Frightened) target can repeat\
+      \ the saving throw at the end of each of its turns, with disadvantage if the\
+      \ banshee is within line of sight, ending the effect on itself on a success.\
       \ If a target's saving throw is successful or the effect ends for it, the target\
       \ is immune to the banshee's Horrifying Visage for the next 24 hours."
     "name": "Horrifying Visage"
@@ -99,10 +95,7 @@ A banshee doesn't require air, food, drink, or sleep.
     "name": "Wail (1/Day)"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/banshee.webp"
+"image": "Compendium/bestiary/undead/token/banshee.webp"
 ```
 ^statblock
 

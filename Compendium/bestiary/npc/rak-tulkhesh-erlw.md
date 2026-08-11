@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/28
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rak Tulkhesh
+- "Rak Tulkhesh"
 ---
-# [Rak Tulkhesh](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/rak-tulkhesh-erlw.md)
+# [Rak Tulkhesh](Compendium/bestiary/npc/rak-tulkhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 303*  
 
 Called the Rage of War, Rak Tulkhesh is the incarnation of impulses that drives many mortals to battle. Fear, greed, hatred—these are seeds that the Rage of War sows in the hopes of producing a bloody harvest.
@@ -62,33 +63,27 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
   - "wisdom": !!int "14"
   - "charisma": !!int "16"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+17"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+16"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+14"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 24"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [stunned](Rules/conditions.md#Stunned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "28"
 "traits":
   - "desc": "Rak Tulkhesh's spellcasting ability is Charisma (spell save DC 24). He\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [spirit guardians](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spirit-guardians.md)\n\
-      \n**1/day each:** [banishing smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishing-smite.md),\
-      \ [blinding smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blinding-smite.md),\
-      \ [staggering smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/staggering-smite.md)"
+      \n**At will:** [detect thoughts](Compendium/spells/detect-thoughts.md), [dispel\
+      \ magic](Compendium/spells/dispel-magic.md), [spirit guardians](Compendium/spells/spirit-guardians.md)\n\
+      \n**1/day each:** [banishing smite](Compendium/spells/banishing-smite.md), [blinding\
+      \ smite](Compendium/spells/blinding-smite.md), [staggering smite](Compendium/spells/staggering-smite.md)"
     "name": "Innate Spellcasting"
   - "desc": "Rak Tulkhesh scores a critical hit on a roll of 19 or 20 and rolls the\
       \ damage dice three times, instead of twice."
@@ -127,7 +122,7 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
 "legendary_actions":
   - "desc": "Rak Tulkhesh makes one weapon attack."
     "name": "Attack"
-  - "desc": "Rak Tulkhesh casts [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)."
+  - "desc": "Rak Tulkhesh casts [dispel magic](Compendium/spells/dispel-magic.md)."
     "name": "End Magic (Costs 2 Actions)"
   - "desc": "Each creature within 60 feet of Rak Tulkhesh must succeed on a DC 24\
       \ Wisdom saving throw or use its reaction to make a melee weapon attack against\
@@ -138,6 +133,6 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
     "name": "Provoke Rage (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/rak-tulkhesh-erlw.webp"
+"image": "Compendium/bestiary/npc/token/rak-tulkhesh-erlw.webp"
 ```
 ^statblock

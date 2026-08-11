@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scarecrow
+- "Scarecrow"
 ---
-# [Scarecrow](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/scarecrow.md)
+# [Scarecrow](Compendium/bestiary/construct/scarecrow.md)
 *Source: Monster Manual p. 268*  
 
 At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
@@ -41,14 +42,10 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"
 "traits":
@@ -60,18 +57,18 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
       \ + 1) slashing damage. If the target is a creature, it must succeed on a DC\
-      \ 11 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ 11 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ until the end of the scarecrow's next turn."
     "name": "Claw"
   - "desc": "The scarecrow targets one creature it can see within 30 feet of it. If\
       \ the target can see the scarecrow, the target must succeed on a DC 11 Wisdom\
-      \ saving throw or be magically [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ until the end of the scarecrow's next turn. The [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ target is [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)."
+      \ saving throw or be magically [frightened](Rules/conditions.md#Frightened)\
+      \ until the end of the scarecrow's next turn. The [frightened](Rules/conditions.md#Frightened)\
+      \ target is [paralyzed](Rules/conditions.md#Paralyzed)."
     "name": "Terrifying Glare"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/scarecrow.webp"
+"image": "Compendium/bestiary/construct/token/scarecrow.webp"
 ```
 ^statblock
 

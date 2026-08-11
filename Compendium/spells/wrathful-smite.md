@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Paladin
 - Warlock (The Hexblade)
 aliases:
-- Wrathful Smite
+- "Wrathful Smite"
 level: 1
 school: evocation
 ritual: false
@@ -33,8 +34,8 @@ components_vsm: [V]
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra `1d6` psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.
+The next time you hit with a melee weapon attack during this spell's duration, your attack deals an extra `1d6` psychic damage. Additionally, if the target is a creature, it must make a Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened) of you until the spell ends. As an action, the creature can make a Wisdom check against your spell save DC to steel its resolve and end this spell.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Warlock (The Hexblade)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Warlock (The Hexblade)](Compendium/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 289*

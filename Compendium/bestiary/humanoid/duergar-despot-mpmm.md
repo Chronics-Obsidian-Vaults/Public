@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/12
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Despot
+- "Duergar Despot"
 ---
-# [Duergar Despot](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/duergar-despot-mpmm.md)
+# [Duergar Despot](Compendium/bestiary/humanoid/duergar-despot-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*  
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
@@ -61,13 +62,10 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - "constitution": !!int "8"
   - "wisdom": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 12"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 12"
 "languages": "Dwarvish, Undercommon"
 "cr": "12"
 "traits":
@@ -79,22 +77,22 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ creature within 5 feet of it."
     "name": "Psychic Engine"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The duergar makes two Iron Fist attacks and two Stomping Foot attacks.\
       \ After one of the attacks, the duergar can move up to its speed without provoking\
-      \ [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack).\
-      \ It can replace one of the attacks with a use of Flame Jet."
+      \ [opportunity attacks](Rules/actions.md#Opportunity%20Attack). It can replace\
+      \ one of the attacks with a use of Flame Jet."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 23\
       \ (4d8 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
       \ it must succeed on a DC 17 Strength saving throw or be pushed up to 30 feet\
-      \ away in a straight line and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ away in a straight line and be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Iron Fist"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (1d10 + 5) bludgeoning damage, or 21 (3d10 + 5) to a [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ (1d10 + 5) bludgeoning damage, or 21 (3d10 + 5) to a [prone](Rules/conditions.md#Prone)\
       \ target."
     "name": "Stomping Foot"
   - "desc": "The duergar spews flames in a line 100 feet long and 5 feet wide. Each\
@@ -103,14 +101,13 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     "name": "Flame Jet"
   - "desc": "The duergar casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\n\
-      **At will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md)\n\
-      \n**1/day:** [stinking cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stinking-cloud.md)"
+      **At will:** [mage hand](Compendium/spells/mage-hand.md), [minor illusion](Compendium/spells/minor-illusion.md)\n\
+      \n**1/day:** [stinking cloud](Compendium/spells/stinking-cloud.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/duergar-despot-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/duergar-despot-mpmm.webp"
 ```
 ^statblock
 

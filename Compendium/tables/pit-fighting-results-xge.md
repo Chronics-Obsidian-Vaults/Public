@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Pit Fighting Results
+- "Pit Fighting Results"
 ---
 # Pit Fighting Results
 *Source: Xanathar's Guide to Everything p. 131* 

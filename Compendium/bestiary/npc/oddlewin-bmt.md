@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Oddlewin
+- "Oddlewin"
 ---
-# [Oddlewin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/oddlewin-bmt.md)
+# [Oddlewin](Compendium/bestiary/npc/oddlewin-bmt.md)
 *Source: The Book of Many Things p. 111*  
 
 Oddlewin is a nilbog, a goblin possessed by a trickster spirit.
@@ -23,7 +24,7 @@ Oddlewin is a nilbog, a goblin possessed by a trickster spirit.
 "subtype": "goblinoid"
 "alignment": "Chaotic Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "21"
 "hit_dice": "6d6"
 "modifier": !!int "2"
@@ -36,21 +37,20 @@ Oddlewin is a nilbog, a goblin possessed by a trickster spirit.
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common, Goblin, Sylvan"
 "cr": "2"
 "traits":
-  - "desc": "Oddlewin can cast the [Augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md)\
-      \ spell as a ritual, using cards as the material component."
+  - "desc": "Oddlewin can cast the [Augury](Compendium/spells/augury.md) spell as\
+      \ a ritual, using cards as the material component."
     "name": "Fortune Teller"
   - "desc": "Any creature that attempts to damage Oddlewin must first succeed on a\
-      \ DC 12 Charisma saving throw or have the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ DC 12 Charisma saving throw or have the [charmed](Rules/conditions.md#Charmed)\
       \ condition until the end of the creature's next turn. The creature must use\
       \ its action praising Oddlewin.\n\nOddlewin can't regain hit points, including\
       \ through magical healing, except through his Reversal of Fortune reaction."
@@ -65,11 +65,12 @@ Oddlewin is a nilbog, a goblin possessed by a trickster spirit.
       \ on a turn takes 10 (4d4) slashing damage."
     "name": "Cloud of Cards"
   - "desc": "Oddlewin casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [Mage Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [Tasha's Hideous Laughter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-hideous-laughter.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [Mage Hand](Compendium/spells/mage-hand.md),\
+      \ [Tasha's Hideous Laughter](Compendium/spells/tashas-hideous-laughter.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "Oddlewin takes the Disengage or Hide action."
+  - "desc": "Oddlewin takes the [Disengage](Rules/actions.md#Disengage) or [Hide](Rules/actions.md#Hide)\
+      \ action."
     "name": "Nimble Escape"
 "reactions":
   - "desc": "In response to another creature dealing damage to Oddlewin, Oddlewin\
@@ -77,6 +78,6 @@ Oddlewin is a nilbog, a goblin possessed by a trickster spirit.
     "name": "Reversal of Fortune"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/oddlewin-bmt.webp"
+"image": "Compendium/bestiary/npc/token/oddlewin-bmt.webp"
 ```
 ^statblock

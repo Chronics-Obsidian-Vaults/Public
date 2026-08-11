@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/fighter/rune-knight
 aliases:
-- Rune Knight
+- "Rune Knight"
 ---
 # Rune Knight
 *[Fighter](./fighter.md): Martial Archetype*  
@@ -43,18 +43,17 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Rune Knight (Level 3)
+![](Compendium/classes/img/rune-knight-fighter.webp#right)
 
 Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant's craft and learned how to apply magic runes to empower your equipment.
+
+## Subclass Features
 
 ### Bonus Proficiencies (Level 3)
 
 *3rd-level Rune Knight feature*
 
-You gain proficiency with [smith's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/smiths-tools.md), and you learn to speak, read, and write Giant.
+You gain proficiency with [smith's tools](Compendium/items/smiths-tools.md), and you learn to speak, read, and write Giant.
 
 ### Rune Carver (Level 3)
 
@@ -75,6 +74,15 @@ Whenever you finish a long rest, you can touch a number of objects equal to the 
 ^runes-known
 
 The following runes are available to you when you learn a rune. If a rune has a level requirement, you must be at least that level in this class to learn the rune. If a rune requires a saving throw, your Rune Magic save DC equals 8 + your proficiency bonus + your Constitution modifier.
+
+Options (choose 2):
+
+- [Cloud Rune](Compendium/optional-features/cloud-rune-tce.md)  
+- [Fire Rune](Compendium/optional-features/fire-rune-tce.md)  
+- [Frost Rune](Compendium/optional-features/frost-rune-tce.md)  
+- [Stone Rune](Compendium/optional-features/stone-rune-tce.md)  
+- [Hill Rune](Compendium/optional-features/hill-rune-tce.md)  
+- [Storm Rune](Compendium/optional-features/storm-rune-tce.md)  
 
 ### Giant's Might (Level 3)
 
@@ -137,5 +145,5 @@ You learn how to amplify your rune-powered transformation. As a result, the extr
 ## Optional Features
 
 > [!example]- Optional Features: Rune Knight Rune
-> ![Rune Knight Rune](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-rn.md#Rune%20Knight%20Rune)
+> ![Rune Knight Rune](Compendium/lists/list-optfeaturetype-rn.md#Rune%20Knight%20Rune)
 ^list-optfeature-rn

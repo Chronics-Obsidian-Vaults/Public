@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Harrow Hawk
+- "Harrow Hawk"
 ---
-# [Harrow Hawk](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/harrow-hawk-bmt.md)
+# [Harrow Hawk](Compendium/bestiary/undead/harrow-hawk-bmt.md)
 *Source: The Book of Many Things p. 177*  
 
 When a beloved animal companion dies traumatically alongside its master, the beast might rise again as an Undead. Falcons, ravens, and other birds of prey that suffer this fate are known as harrow hawks, and they prowl abandoned battlefields and cemeteries, looking for corpses to eat and living creatures to hunt. A harrow hawk can even travel the multiverse, flying magically from one world to another.
@@ -36,24 +37,21 @@ The Grim Harrow—a band of Undead beings created by the Deck of Many Things (se
   - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": ""
 "cr": "1"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
       \ + 3) slashing damage plus 3 (1d6) necrotic damage."
     "name": "Talons"
-  - "desc": "The hawk casts [Plane Shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ on itself, requiring no spell components and using Wisdom as the spellcasting\
-      \ ability."
+  - "desc": "The hawk casts [Plane Shift](Compendium/spells/plane-shift.md) on itself,\
+      \ requiring no spell components and using Wisdom as the spellcasting ability."
     "name": "Plane Shift (2/Day)"
 "bonus_actions":
   - "desc": "When the hawk is in dim light or darkness, it teleports up to 30 feet\
@@ -63,6 +61,6 @@ The Grim Harrow—a band of Undead beings created by the Deck of Many Things (se
     "name": "Shadow Dash"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/harrow-hawk-bmt.webp"
+"image": "Compendium/bestiary/undead/token/harrow-hawk-bmt.webp"
 ```
 ^statblock

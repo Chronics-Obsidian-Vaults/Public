@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- House Status; Group Status
+- "House Status; Group Status"
 ---
 # House Status; Group Status
 *Source: Eberron: Rising from the Last War p. 73* 

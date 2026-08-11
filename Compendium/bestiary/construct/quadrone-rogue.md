@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quadrone (Rogue)
+- "Quadrone (Rogue)"
 ---
-# [Quadrone (Rogue)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/quadrone-rogue.md)
+# [Quadrone (Rogue)](Compendium/bestiary/construct/quadrone-rogue.md)
 *Source: Monster Manual p. 226*  
 
 ```statblock
@@ -33,10 +34,11 @@ aliases:
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 12"
+"gear":
+  - "[shortbow](Compendium/items/shortbow.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 12"
 "languages": "Modron"
 "cr": "1"
 "traits":

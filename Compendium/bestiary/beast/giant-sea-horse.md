@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Sea Horse
+- "Giant Sea Horse"
 ---
-# [Giant Sea Horse](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-sea-horse.md)
+# [Giant Sea Horse](Compendium/bestiary/beast/giant-sea-horse.md)
 *Source: Monster Manual p. 328. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts.
@@ -42,7 +43,7 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
   - "desc": "If the sea horse moves at least 20 feet straight toward a target and\
       \ then hits it with a ram attack on the same turn, the target takes an extra\
       \ 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on\
-      \ a DC 11 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ a DC 11 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The sea horse can breathe only underwater."
     "name": "Water Breathing"
@@ -52,7 +53,7 @@ Like their smaller kin, giant sea horses are shy, colorful fish with elongated b
     "name": "Ram"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-sea-horse.webp"
+"image": "Compendium/bestiary/beast/token/giant-sea-horse.webp"
 ```
 ^statblock
 

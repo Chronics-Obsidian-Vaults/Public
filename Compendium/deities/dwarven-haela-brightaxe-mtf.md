@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/dwarven
 - source/domain/war
-aliases: 
-- Haela Brightaxe
+aliases:
+- "Haela Brightaxe"
 ---
 # Haela Brightaxe
 *Source: Mordenkainen's Tome of Foes p. 73* 

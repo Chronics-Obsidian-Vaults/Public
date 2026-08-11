@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Crafting Complications
+- "Crafting Complications"
 ---
 # Crafting Complications
 *Source: Xanathar's Guide to Everything p. 129* 

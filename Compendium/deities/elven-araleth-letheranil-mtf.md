@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/knowledge
 - source/domain/light
-aliases: 
-- Araleth Letheranil
+aliases:
+- "Araleth Letheranil"
 ---
 # Araleth Letheranil
 *Source: Mordenkainen's Tome of Foes p. 43* 

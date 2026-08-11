@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -11,7 +12,7 @@ classes:
 - Bard (Magical Secrets)
 - Ranger
 aliases:
-- Lightning Arrow
+- "Lightning Arrow"
 level: 3
 school: transmutation
 ritual: false
@@ -39,6 +40,6 @@ The piece of ammunition or weapon then returns to its normal form.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by `1d8` for each slot level above 3rd.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 255*

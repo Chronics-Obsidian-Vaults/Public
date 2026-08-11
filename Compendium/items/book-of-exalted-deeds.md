@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/artifact
-aliases: 
+aliases:
 - "Book of Exalted Deeds"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement by a creature of good alignment)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/book-of-exalted-deeds.webp#right)
+![](Compendium/items/img/book-of-exalted-deeds.webp#right)
 
 - **Weight**: 5.0 lbs.
 
@@ -30,8 +31,8 @@ Benefits granted by the Book of Exalted Deeds last only as long as you strive to
 
 The Book of Exalted Deeds has the following random properties:
 
-- 2 [minor beneficial properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-beneficial-properties.md)  
-- 2 [major beneficial properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-beneficial-properties.md)  
+- 2 [minor beneficial properties](Compendium/tables/artifact-properties-minor-beneficial-properties.md)  
+- 2 [major beneficial properties](Compendium/tables/artifact-properties-major-beneficial-properties.md)  
 
 ## Increased Wisdom
 
@@ -43,7 +44,7 @@ Once you've read and studied the book, any spell slot you expend to cast a cleri
 
 ## Halo
 
-Once you've read and studied the book, you gain a protective halo. This halo sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You can dismiss or manifest the halo as a bonus action. While present, the halo gives you advantage on Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) checks made to interact with good creatures and Charisma ([Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)) checks made to interact with evil creatures. In addition, fiends and undead within the halo's bright light make attack rolls against you with disadvantage.
+Once you've read and studied the book, you gain a protective halo. This halo sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You can dismiss or manifest the halo as a bonus action. While present, the halo gives you advantage on Charisma ([Persuasion](Rules/skills.md#Persuasion)) checks made to interact with good creatures and Charisma ([Intimidation](Rules/skills.md#Intimidation)) checks made to interact with evil creatures. In addition, fiends and undead within the halo's bright light make attack rolls against you with disadvantage.
 
 ## Destroying the Book
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/1-4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Minotaur Archaeologist
+- "Minotaur Archaeologist"
 ---
-# [Minotaur Archaeologist](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/minotaur-archaeologist-bmt.md)
+# [Minotaur Archaeologist](Compendium/bestiary/humanoid/minotaur-archaeologist-bmt.md)
 *Source: The Book of Many Things p. 126*  
 
 ```statblock
@@ -33,13 +34,13 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+3"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+3"
 "senses": "passive Perception 15"
 "languages": "Common"
@@ -53,11 +54,10 @@ aliases:
       \ the target immediately before it hit, the target takes an extra 3 (1d6) piercing\
       \ damage, and if the target is a Large or smaller creature, it must succeed\
       \ on a DC 11 Strength saving throw or be pushed up to 10 feet from the minotaur\
-      \ and have the [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
-      \ condition."
+      \ and have the [prone](Rules/conditions.md#Prone) condition."
     "name": "Gore"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/minotaur-archaeologist-bmt.webp"
+"image": "Compendium/bestiary/humanoid/token/minotaur-archaeologist-bmt.webp"
 ```
 ^statblock

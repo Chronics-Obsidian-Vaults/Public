@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Random Buildings; Tavern Name Generator
+- "Random Buildings; Tavern Name Generator"
 ---
 # Random Buildings; Tavern Name Generator
 *Source: Dungeon Master's Guide p. 113* 

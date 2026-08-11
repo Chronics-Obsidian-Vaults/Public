@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flameskull
+- "Flameskull"
 ---
-# [Flameskull](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/flameskull.md)
-*Source: Monster Manual p. 134, Tasha's Cauldron of Everything. Available in the Basic Rules (2014)*  
+# [Flameskull](Compendium/bestiary/undead/flameskull.md)
+*Source: Monster Manual p. 134. Available in the Basic Rules (2014)*  
 
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
 
@@ -33,7 +34,7 @@ The fire wreathing a flameskull burns continually, giving off bright light that 
 
 ## Eldritch Rejuvenation
 
-A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md) or [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md) spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
+A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [dispel magic](Compendium/spells/dispel-magic.md) or [remove curse](Compendium/spells/remove-curse.md) spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
 
 ## Undead Nature
 
@@ -57,31 +58,27 @@ A flameskull doesn't require air, food, drink, or sleep
   - !!int "11"
 "speed": "0 ft., fly 40 ft. (hover)"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
 "damage_resistances": "lightning, necrotic, piercing"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [prone](Rules/conditions.md#Prone)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Common"
 "cr": "4"
 "traits":
   - "desc": "The flameskull is a 5th-level spellcaster. Its spellcasting ability is\
       \ Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires\
       \ no somatic or material components to cast its spells. The flameskull has the\
-      \ following wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md)\n\
-      \n**1st level (3 slots):** [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md)\n\
-      \n**2nd level (2 slots):** [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md),\
-      \ [flaming sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flaming-sphere.md)\n\
-      \n**3rd level (1 slots):** [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)"
+      \ following wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](Compendium/spells/mage-hand.md)\n\
+      \n**1st level (3 slots):** [magic missile](Compendium/spells/magic-missile.md),\
+      \ [shield](Compendium/spells/shield.md)\n\n**2nd level (2 slots):** [blur](Compendium/spells/blur.md),\
+      \ [flaming sphere](Compendium/spells/flaming-sphere.md)\n\n**3rd level (1 slots):**\
+      \ [fireball](Compendium/spells/fireball.md)"
     "name": "Spellcasting"
   - "desc": "The flameskull sheds either dim light in a 15-foot radius, or bright\
       \ light in a 15-foot radius and dim light for an additional 15 feet. It can\
@@ -91,9 +88,9 @@ A flameskull doesn't require air, food, drink, or sleep
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "If the flameskull is destroyed, it regains all its hit points in 1 hour\
-      \ unless holy water is sprinkled on its remains or a [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\
-      \ or [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md)\
-      \ spell is cast on them."
+      \ unless [holy water](Compendium/items/holy-water-flask.md) is sprinkled on\
+      \ its remains or a [dispel magic](Compendium/spells/dispel-magic.md) or [remove\
+      \ curse](Compendium/spells/remove-curse.md) spell is cast on them."
     "name": "Rejuvenation"
 "actions":
   - "desc": "The flameskull uses Fire Ray twice."
@@ -103,8 +100,7 @@ A flameskull doesn't require air, food, drink, or sleep
     "name": "Fire Ray"
 "source":
   - "MM"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/flameskull.webp"
+"image": "Compendium/bestiary/undead/token/flameskull.webp"
 ```
 ^statblock
 

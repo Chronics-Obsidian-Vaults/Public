@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/4
@@ -12,14 +13,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yeth Hound
+- "Yeth Hound"
 ---
-# [Yeth Hound](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/yeth-hound-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201, The Book of Many Things*  
+# [Yeth Hound](Compendium/bestiary/fey/yeth-hound-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*  
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
 
-A pack of yeth hounds can be created by powerful Fey such as the Queen of Air and Darkness. Each pack's master can telepathically communicate with their yeth hounds to give the pack commands from afar. If a pack's master is killed, the hounds seek out a new master, typically an evil [vampire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire.md), [necromancer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/necromancer-wizard-mpmm.md), or [hag](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/green-hag.md).
+A pack of yeth hounds can be created by powerful Fey such as the Queen of Air and Darkness. Each pack's master can telepathically communicate with their yeth hounds to give the pack commands from afar. If a pack's master is killed, the hounds seek out a new master, typically an evil [vampire](Compendium/bestiary/undead/vampire.md), [necromancer](Compendium/bestiary/humanoid/necromancer-wizard-mpmm.md), or [hag](Compendium/bestiary/fey/green-hag.md).
 
 ```statblock
 "name": "Yeth Hound (MPMM)"
@@ -40,15 +41,13 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
   - !!int "7"
 "speed": "40 ft., fly 40 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks not\
   \ made with silvered weapons"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "understands Common, Elvish and Sylvan but can't speak"
 "cr": "4"
 "traits":
@@ -68,13 +67,12 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
     "name": "Telepathic Bond"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) piercing damage, plus 14 (4d6) psychic damage if the target is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+      \ (2d6 + 4) piercing damage, plus 14 (4d6) psychic damage if the target is [frightened](Rules/conditions.md#Frightened)."
     "name": "Bite"
   - "desc": "The yeth hound bays magically. Every enemy within 300 feet of the hound\
-      \ that can hear it must succeed on a DC 13 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ that can hear it must succeed on a DC 13 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ of the hound until the end of the hound's next turn or until the hound is\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
-      \ A [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ [incapacitated](Rules/conditions.md#Incapacitated). A [frightened](Rules/conditions.md#Frightened)\
       \ target that starts its turn within 30 feet of the hound must use all its movement\
       \ on that turn to get as far from the hound as possible, must finish the move\
       \ before taking an action, and must take the most direct route, even if hazards\
@@ -84,8 +82,7 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 "source":
   - "MPMM"
   - "VGM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/yeth-hound-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/yeth-hound-mpmm.webp"
 ```
 ^statblock
 

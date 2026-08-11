@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mighty Servant of Leuk-o
+- "Mighty Servant of Leuk-o"
 ---
-# [Mighty Servant of Leuk-o](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/mighty-servant-of-leuk-o-tce.md)
+# [Mighty Servant of Leuk-o](Compendium/bestiary/construct/mighty-servant-of-leuk-o-tce.md)
 *Source: Tasha's Cauldron of Everything p. 131*  
 
 ```statblock
@@ -36,26 +37,19 @@ aliases:
   - "wisdom": !!int "9"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "piercing, slashing"
 "damage_immunities": "acid, bludgeoning, cold, fire, lightning, necrotic, poison,\
   \ psychic, radiant"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 120 ft., passive Perception 19"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [grappled](Rules/conditions.md#Grappled),\
+  \ [incapacitated](Rules/conditions.md#Incapacitated), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [restrained](Rules/conditions.md#Restrained), [stunned](Rules/conditions.md#Stunned),\
+  \ [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 120 ft., passive Perception 19"
 "languages": "understands the languages of creatures attuned to it but can't speak"
 "traits":
   - "desc": "The servant is immune to any spell or effect that would alter its form\
@@ -85,12 +79,11 @@ aliases:
       \ other creatures. Each of those creatures is pushed to an unoccupied space\
       \ within 5 feet of the servant and must make a DC 25 Dexterity saving throw.\
       \ On a failed save, a creature takes 26 (4d12) bludgeoning damage and is knocked\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ On a successful save, a creature takes half as much damage and isn't knocked\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ [prone](Rules/conditions.md#Prone). On a successful save, a creature takes\
+      \ half as much damage and isn't knocked [prone](Rules/conditions.md#Prone)."
     "name": "Crushing Leap"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/mighty-servant-of-leuk-o-tce.webp"
+"image": "Compendium/bestiary/construct/token/mighty-servant-of-leuk-o-tce.webp"
 ```
 ^statblock

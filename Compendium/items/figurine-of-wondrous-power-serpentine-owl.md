@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Figurine of Wondrous Power, Serpentine Owl"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Figurine of Wondrous Power, Serpentine Owl
 *Wondrous item, major, rare*  
-
+![](Compendium/items/img/figurine-of-wondrous-power-serpentine-owl.webp#right)
 
 
 A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
@@ -25,6 +26,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Serpentine Owl
 
-This serpentine statuette of an owl can become a [giant owl](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-owl.md) for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.
+This serpentine statuette of an owl can become a [giant owl](Compendium/bestiary/beast/giant-owl.md) for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.
 
 *Source: Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Troglodyte
+- "Troglodyte"
 ---
-# [Troglodyte](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/troglodyte.md)
-*Source: Monster Manual p. 290, The Book of Many Things*  
+# [Troglodyte](Compendium/bestiary/humanoid/troglodyte.md)
+*Source: Monster Manual p. 290*  
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
 
@@ -54,25 +55,24 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
-  - "desc": "The troglodyte has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The troglodyte has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide."
     "name": "Chameleon Skin"
   - "desc": "Any creature other than a troglodyte that starts its turn within 5 feet\
       \ of the troglodyte must succeed on a DC 12 Constitution saving throw or be\
-      \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ until the start of the creature's next turn. On a successful saving throw,\
-      \ the creature is immune to the stench of all troglodytes for 1 hour."
+      \ [poisoned](Rules/conditions.md#Poisoned) until the start of the creature's\
+      \ next turn. On a successful saving throw, the creature is immune to the stench\
+      \ of all troglodytes for 1 hour."
     "name": "Stench"
   - "desc": "While in sunlight, the troglodyte has disadvantage on attack rolls, as\
-      \ well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely\
+      \ on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The troglodyte makes three attacks: one with its bite and two with its\
@@ -86,8 +86,7 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
     "name": "Claw"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/troglodyte.webp"
+"image": "Compendium/bestiary/humanoid/token/troglodyte.webp"
 ```
 ^statblock
 

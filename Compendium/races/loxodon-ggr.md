@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/ggr
 - source/race/loxodon
 aliases:
-- Loxodon
+- "Loxodon"
 ---
 # Loxodon
 *Source: Guildmasters' Guide to Ravnica p. 17*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/loxodon.webp#right)
+![](Compendium/races/img/loxodon.webp#right)
 
 - **Ability Scores**: con +2 wis +1
 - **Size**: Medium
@@ -35,7 +36,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Loxodon Serenity
 
-You have advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).
+You have advantage on saving throws against being [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened).
 
 ### Natural Armor
 
@@ -54,7 +55,7 @@ Your trunk can't wield weapons or shields or do anything that requires manual pr
 
 ### Keen Smell
 
-Thanks to your sensitive trunk, you have advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)), Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)), and Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) checks that involve smell.
+Thanks to your sensitive trunk, you have advantage on Wisdom ([Perception](Rules/skills.md#Perception)), Wisdom ([Survival](Rules/skills.md#Survival)), and Intelligence ([Investigation](Rules/skills.md#Investigation)) checks that involve smell.
 
 ### Languages
 

@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/grave
 - source/domain/war
-aliases: 
-- Vandria Gilmadrith
+aliases:
+- "Vandria Gilmadrith"
 ---
 # Vandria Gilmadrith
 *Source: Mordenkainen's Tome of Foes p. 43* 

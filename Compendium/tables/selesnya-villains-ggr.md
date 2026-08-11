@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Selesnya Villains
+- "Selesnya Villains"
 ---
 # Selesnya Villains
 *Source: Guildmasters' Guide to Ravnica p. 155* 
@@ -21,5 +21,5 @@ aliases:
 | 5 | A loxodon evangel uses coercive methods to recruit young people into the conclave. |
 | 6 | An elf seeking spiritual union with Mat'Selesnya threatens the dryad of their own vernadi. |
 | 7 | A crazed prophet claims to be the incarnation of Mat'Selesnya and gathers an army to strike at other guilds. |
-| 8 | A [horncaller](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/horncaller-ggr.md) steals animals that were used as pets, mounts, and beasts of burden throughout the neighborhood. |
+| 8 | A [horncaller](Compendium/bestiary/humanoid/horncaller-ggr.md) steals animals that were used as pets, mounts, and beasts of burden throughout the neighborhood. |
 ^selesnya-villains

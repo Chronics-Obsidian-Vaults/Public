@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Human Names – Niger-Congo, Male
+- "Human Names – Niger-Congo, Male"
 ---
 # Human Names – Niger-Congo, Male
 *Source: Xanathar's Guide to Everything p. 181* 

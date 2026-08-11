@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/7
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Advanced Detention Drone
+- "Advanced Detention Drone"
 ---
-# [Advanced Detention Drone](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/advanced-detention-drone-bmt.md)
+# [Advanced Detention Drone](Compendium/bestiary/construct/advanced-detention-drone-bmt.md)
 *Source: The Book of Many Things p. 135*  
 
 Detention drones vary in size, strength, and shape, though most are shaped like some kind of mechanical animal or plant.
@@ -37,13 +38,10 @@ This Construct doesn't have a control amulet and can't be controlled like other 
   - !!int "3"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"
@@ -72,7 +70,7 @@ This Construct doesn't have a control amulet and can't be controlled like other 
       \ breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb,\
       \ nor can any creature teleport or use planar travel to enter or exit the orb.\
       \ As a bonus action, the drone can move the orb and its contents up to 30 feet\
-      \ in any direction. A successful casting of the [Dispel Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\
+      \ in any direction. A successful casting of the [Dispel Magic](Compendium/spells/dispel-magic.md)\
       \ spell on the orb (DC 15) destroys it. The orb otherwise remains intact until\
       \ the drone spends an action to end the effect or the drone is destroyed. A\
       \ drone can have only one detention orb active at a time; if the drone creates\
@@ -86,6 +84,6 @@ This Construct doesn't have a control amulet and can't be controlled like other 
     "name": "Shield"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/advanced-detention-drone-bmt.webp"
+"image": "Compendium/bestiary/construct/token/advanced-detention-drone-bmt.webp"
 ```
 ^statblock

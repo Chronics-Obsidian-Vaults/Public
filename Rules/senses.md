@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/mm
 - source/compendium/src/5e/phb
 aliases:
-- Senses
+- "Senses"
 ---
 # Senses
 

@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Atlas of Endless Horizons"
 item_type: 
 item_subtype: 
@@ -13,12 +15,12 @@ rarity: rare
 attunement: required
 ---
 # Atlas of Endless Horizons
-*Wondrous item, rare (requires attunement by a wizard)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/atlas-of-endless-horizons.webp#right)
+*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
+![](Compendium/items/img/atlas-of-endless-horizons.webp#right)
 
 - **Weight**: 3.0 lbs.
 
-This thick book is bound in dark leather, crisscrossed with inlaid silver lines suggesting a map or chart. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [arcane gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-gate.md), [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md), [gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gate.md), [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md), [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md), [teleportation circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleportation-circle.md), and [word of recall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/word-of-recall.md). It functions as a spellbook for you.
+This thick book is bound in dark leather, crisscrossed with inlaid silver lines suggesting a map or chart. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: [arcane gate](Compendium/spells/arcane-gate.md), [dimension door](Compendium/spells/dimension-door.md), [gate](Compendium/spells/gate.md), [misty step](Compendium/spells/misty-step.md), [plane shift](Compendium/spells/plane-shift.md), [teleportation circle](Compendium/spells/teleportation-circle.md), and [word of recall](Compendium/spells/word-of-recall.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

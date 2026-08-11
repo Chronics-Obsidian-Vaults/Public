@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/phb
 aliases:
-- Inspiration
+- "Inspiration"
 ---
 # Inspiration
 *Source: Player's Handbook p. 125* 

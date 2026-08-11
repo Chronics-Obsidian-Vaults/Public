@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Arcane Propulsion Arm"
 item_type: 
 item_subtype: 
@@ -18,7 +19,7 @@ attunement: required
 
 - **Damage**: 1d8 force
 - **Range**: 20/60
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown)
 
 This prosthetic appendage was developed by artificers of House Cannith. To attune to this item, you must attach it to your arm at the wrist, elbow, or shoulder, at which point the prosthetic magically forms a copy of the appendage it's replacing.
 

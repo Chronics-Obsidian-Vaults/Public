@@ -7,8 +7,8 @@ tags:
 - source/deity/halfling
 - source/domain/life
 - source/domain/peace
-aliases: 
-- Cyrrollalee
+aliases:
+- "Cyrrollalee"
 ---
 # Cyrrollalee
 *Source: Mordenkainen's Tome of Foes p. 104, Tasha's Cauldron of Everything p. 33* 

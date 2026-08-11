@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/18
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Malaxxix
+- "Malaxxix"
 ---
-# [Malaxxix](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/malaxxix-bmt.md)
+# [Malaxxix](Compendium/bestiary/npc/malaxxix-bmt.md)
 *Source: The Book of Many Things p. 173*  
 
 Legends describe the dread being Malaxxix as the child of one of the night hags who created the first yugoloths. Malaxxix is often lumped in with such Fiends, perhaps because it too has a grand intellect and self-centered agenda.
@@ -42,7 +43,7 @@ Malaxxix can take lair actions (see below) while astride the palanquin. When enc
 
 ### The Unborn Palanquin
 
-The [Unborn Palanquin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/objects/unborn-palanquin-bmt.md) is a wormlike leviathan of screeching gears made up of hundreds of tireless mezzoloths. It is a unique vehicle and Gargantuan object.
+The [Unborn Palanquin](Compendium/objects/unborn-palanquin-bmt.md) is a wormlike leviathan of screeching gears made up of hundreds of tireless mezzoloths. It is a unique vehicle and Gargantuan object.
 
 Only Malaxxix can pilot this vehicle. If Malaxxix is slain, the palanquin crumbles in seconds.
 
@@ -74,21 +75,20 @@ Only Malaxxix can pilot this vehicle. If Malaxxix is slain, the palanquin crumbl
   - "strength": !!int "12"
   - "constitution": !!int "12"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+12"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+12"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 21"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[whip](Compendium/items/whip.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 21"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "18"
 "traits":
@@ -106,17 +106,17 @@ Only Malaxxix can pilot this vehicle. If Malaxxix is slain, the palanquin crumbl
       \ then magically returns to Malaxxix's hand."
     "name": "Forge Hammer"
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 30 ft., one creature. *Hit:*\
-      \ 15 (2d8 + 6) slashing damage, and the target has the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ condition for 1 minute. The [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ target can make a DC 20 Strength saving throw at the end of each of its turns,\
-      \ ending the effect on itself on a success. Only one creature can be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ 15 (2d8 + 6) slashing damage, and the target has the [restrained](Rules/conditions.md#Restrained)\
+      \ condition for 1 minute. The [restrained](Rules/conditions.md#Restrained) target\
+      \ can make a DC 20 Strength saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success. Only one creature can be [restrained](Rules/conditions.md#Restrained)\
       \ by the whip at a time."
     "name": "Whip"
   - "desc": "Malaxxix summons a vortex of whirling mezzoloths at a point it can see\
       \ within 90 feet of itself. The vortex is a 30-foot-radius, 100-foot-high cylinder\
       \ centered on that point. Each creature other than Malaxxix in that area must\
       \ make a DC 20 Dexterity saving throw. On a failed save, a creature takes 35\
-      \ (10d6) force damage and has the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ (10d6) force damage and has the [restrained](Rules/conditions.md#Restrained)\
       \ condition while within the cylinder. On a successful save, a creature takes\
       \ half as much damage and is pushed to the nearest unoccupied space outside\
       \ the cylinder. The vortex lasts until the start of Malaxxix's next turn."
@@ -156,6 +156,6 @@ Only Malaxxix can pilot this vehicle. If Malaxxix is slain, the palanquin crumbl
     "name": "Attack (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/malaxxix-bmt.webp"
+"image": "Compendium/bestiary/npc/token/malaxxix-bmt.webp"
 ```
 ^statblock

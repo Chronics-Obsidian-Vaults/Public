@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/11
@@ -14,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Roc
+- "Roc"
 ---
-# [Roc](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/roc.md)
-*Source: Monster Manual p. 260, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Roc](Compendium/bestiary/monstrosity/roc.md)
+*Source: Monster Manual p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
 
@@ -59,13 +60,13 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
   - "wisdom": !!int "4"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "11"
 "traits":
-  - "desc": "The roc has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The roc has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
@@ -75,15 +76,13 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
       \ (4d8 + 9) piercing damage."
     "name": "Beak"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23\
-      \ (4d6 + 9) slashing damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 19). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ (4d6 + 9) slashing damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 19). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the roc can't use its talons on another target."
     "name": "Talons"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/roc.webp"
+"image": "Compendium/bestiary/monstrosity/token/roc.webp"
 ```
 ^statblock
 

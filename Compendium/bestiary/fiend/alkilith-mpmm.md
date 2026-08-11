@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/11
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Alkilith
+- "Alkilith"
 ---
-# [Alkilith](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/alkilith-mpmm.md)
+# [Alkilith](Compendium/bestiary/fiend/alkilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
@@ -45,16 +46,14 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
   - "dexterity": !!int "8"
   - "constitution": !!int "10"
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "acid; cold; fire; lightning; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "understands Abyssal but can't speak"
 "cr": "11"
 "traits":
@@ -67,15 +66,15 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
     "name": "Amorphous"
   - "desc": "If the alkilith is motionless at the start of combat, it has advantage\
       \ on its initiative roll. Moreover, if a creature hasn't observed the alkilith\
-      \ move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation))\
+      \ move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](Rules/skills.md#Investigation))\
       \ check to discern that the alkilith isn't ordinary slime or fungus."
     "name": "False Appearance"
   - "desc": "Any creature that isn't a demon that starts its turn within 30 feet of\
       \ the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint\
       \ buzzing in its head for a moment and has disadvantage on its next attack roll,\
       \ saving throw, or ability check.\n\nIf the saving throw against Foment Confusion\
-      \ fails by 5 or more, the creature is instead subjected to the [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md)\
-      \ spell for 1 minute (no [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
+      \ fails by 5 or more, the creature is instead subjected to the [confusion](Compendium/spells/confusion.md)\
+      \ spell for 1 minute (no [concentration](Rules/conditions.md#Concentration)\
       \ required by the alkilith). While under the effect of that confusion, the creature\
       \ is immune to Foment Confusion."
     "name": "Foment Confusion"
@@ -96,7 +95,7 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/alkilith-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/alkilith-mpmm.webp"
 ```
 ^statblock
 

@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/tier/major
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Water Elemental Command"
 item_type: wondrous
 item_subtype: ring
@@ -23,11 +24,11 @@ While wearing this ring, you have advantage on attack rolls against elementals f
 
 The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
 
-You can expend 2 of the ring's charges to cast [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md) on a [water elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/water-elemental.md). In addition, you can stand on and walk across liquid surfaces as if they were solid ground. You can also speak and understand Aquan.
+You can expend 2 of the ring's charges to cast [dominate monster](Compendium/spells/dominate-monster.md) on a [water elemental](Compendium/bestiary/elemental/water-elemental.md). In addition, you can stand on and walk across liquid surfaces as if they were solid ground. You can also speak and understand Aquan.
 
-If you help slay a [water elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/water-elemental.md) while attuned to the ring, you gain access to the following additional properties:
+If you help slay a [water elemental](Compendium/bestiary/elemental/water-elemental.md) while attuned to the ring, you gain access to the following additional properties:
 
 - You can breathe underwater and have a swimming speed equal to your walking speed.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [create or destroy water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-or-destroy-water.md) (1 charge), [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md) (3 charges), [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md) (2 charges), or [wall of ice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-ice.md) (3 charges).  
+- You can cast the following spells from the ring, expending the necessary number of charges: [create or destroy water](Compendium/spells/create-or-destroy-water.md) (1 charge), [control water](Compendium/spells/control-water.md) (3 charges), [ice storm](Compendium/spells/ice-storm.md) (2 charges), or [wall of ice](Compendium/spells/wall-of-ice.md) (3 charges).  
 
 *Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

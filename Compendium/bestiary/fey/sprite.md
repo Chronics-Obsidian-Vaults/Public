@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sprite
+- "Sprite"
 ---
-# [Sprite](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/sprite.md)
-*Source: Monster Manual p. 283, Eberron: Rising from the Last War, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Sprite](Compendium/bestiary/fey/sprite.md)
+*Source: Monster Manual p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
 
@@ -46,7 +47,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 "type": "fey"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "2"
 "hit_dice": "1d4"
 "modifier": !!int "4"
@@ -59,10 +60,13 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
   - !!int "11"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+  - "[shortbow](Compendium/items/shortbow.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/4"
@@ -72,28 +76,25 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 40/160 ft., one target. *Hit:*\
       \ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving\
-      \ throw or become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. If its saving throw result is 5 or lower, the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ target falls [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
-      \ for the same duration, or until it takes damage or another creature takes\
-      \ an action to shake it awake."
+      \ throw or become [poisoned](Rules/conditions.md#Poisoned) for 1 minute. If\
+      \ its saving throw result is 5 or lower, the [poisoned](Rules/conditions.md#Poisoned)\
+      \ target falls [unconscious](Rules/conditions.md#Unconscious) for the same duration,\
+      \ or until it takes damage or another creature takes an action to shake it awake."
     "name": "Shortbow"
   - "desc": "The sprite touches a creature and magically knows the creature's current\
       \ emotional state. If the target fails a DC 10 Charisma saving throw, the sprite\
       \ also knows the creature's alignment. Celestials, fiends, and undead automatically\
       \ fail the saving throw."
     "name": "Heart Sight"
-  - "desc": "The sprite magically turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ until it attacks or casts a spell, or until its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ ends (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). Any equipment the sprite wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The sprite magically turns [invisible](Rules/conditions.md#Invisible)\
+      \ until it attacks or casts a spell, or until its [concentration](Rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](Rules/conditions.md#Concentration) on a spell).\
+      \ Any equipment the sprite wears or carries is [invisible](Rules/conditions.md#Invisible)\
       \ with it."
     "name": "Invisibility"
 "source":
   - "MM"
-  - "ERLW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/sprite.webp"
+"image": "Compendium/bestiary/fey/token/sprite.webp"
 ```
 ^statblock
 

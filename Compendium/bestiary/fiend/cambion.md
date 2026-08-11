@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cambion
+- "Cambion"
 ---
-# [Cambion](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/cambion.md)
+# [Cambion](Compendium/bestiary/fiend/cambion.md)
 *Source: Monster Manual p. 36*  
 
 A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage.
@@ -40,7 +41,7 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 "type": "fiend"
 "alignment": "Any Evil alignment"
 "ac": !!int "19"
-"ac_class": "[scale mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scale-mail.md)"
+"ac_class": "[scale mail](Compendium/items/scale-mail.md)"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "modifier": !!int "4"
@@ -58,27 +59,26 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
   - "intelligence": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
 "traits":
   - "desc": "The cambion's spellcasting ability is Charisma (spell save DC 14). The\
       \ cambion can innately cast the following spells, requiring no material components:\n\
-      \n**3/day each:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md),\
-      \ [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md)\n\
-      \n**1/day:** [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
+      \n**3/day each:** [alter self](Compendium/spells/alter-self.md), [command](Compendium/spells/command.md),\
+      \ [detect magic](Compendium/spells/detect-magic.md)\n\n**1/day:** [plane shift](Compendium/spells/plane-shift.md)\
       \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The AC of the cambion includes its Charisma bonus."
@@ -94,18 +94,17 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
       \ (3d6) fire damage."
     "name": "Fire Ray"
   - "desc": "One humanoid the cambion can see within 30 feet of it must succeed on\
-      \ a DC 14 Wisdom saving throw or be magically [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ for 1 day. The [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ target obeys the cambion's spoken commands. If the target suffers any harm\
-      \ from the cambion or another creature or receives a suicidal command from the\
-      \ cambion, the target can repeat the saving throw, ending the effect on itself\
-      \ on a success. If a target's saving throw is successful, or if the effect ends\
-      \ for it, the creature is immune to the cambion's Fiendish Charm for the next\
-      \ 24 hours."
+      \ a DC 14 Wisdom saving throw or be magically [charmed](Rules/conditions.md#Charmed)\
+      \ for 1 day. The [charmed](Rules/conditions.md#Charmed) target obeys the cambion's\
+      \ spoken commands. If the target suffers any harm from the cambion or another\
+      \ creature or receives a suicidal command from the cambion, the target can repeat\
+      \ the saving throw, ending the effect on itself on a success. If a target's\
+      \ saving throw is successful, or if the effect ends for it, the creature is\
+      \ immune to the cambion's Fiendish Charm for the next 24 hours."
     "name": "Fiendish Charm"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/cambion.webp"
+"image": "Compendium/bestiary/fiend/token/cambion.webp"
 ```
 ^statblock
 

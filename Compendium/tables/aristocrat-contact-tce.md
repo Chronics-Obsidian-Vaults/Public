@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Aristocrat Contact
+- "Aristocrat Contact"
 ---
 # Aristocrat Contact
 *Source: Tasha's Cauldron of Everything p. 90* 

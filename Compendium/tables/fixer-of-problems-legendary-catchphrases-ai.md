@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Fixer of Problems; Legendary Catchphrases
+- "Fixer of Problems; Legendary Catchphrases"
 ---
 # Fixer of Problems; Legendary Catchphrases
 *Source: Acquisitions Incorporated p. 63* 

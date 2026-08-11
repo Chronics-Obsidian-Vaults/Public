@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/gruul-anarch
@@ -8,10 +9,12 @@ tags:
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/feat/magic-initiate/druid-spells
+- source/spell/feat/spell-sniper
 - source/spell/feat/wood-elf-magic
 - source/spell/level/cantrip
 - source/spell/optfeature/druidic-warrior
 - source/spell/optfeature/pact-of-the-tome
+- source/spell/race/khoravar
 - source/spell/school/conjuration
 - source/spell/subclass/circle-of-the-land/arctic
 - source/spell/subclass/nature-domain
@@ -22,7 +25,7 @@ classes:
 - Druid
 - Druid (Circle of the Land, Arctic)
 aliases:
-- Produce Flame
+- "Produce Flame"
 level: 0
 school: conjuration
 ritual: false
@@ -48,6 +51,6 @@ You can also attack with the flame, although doing so ends the spell. When you c
 
 This spell's damage increases by `1d8` when you reach 5th level (`2d8`), 11th level (`3d8`), and 17th level (`4d8`).
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

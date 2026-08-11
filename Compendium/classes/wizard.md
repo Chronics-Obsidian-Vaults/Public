@@ -6,7 +6,7 @@ tags:
 - source/class/wizard
 - source/compendium/src/5e/phb
 aliases:
-- Wizard
+- "Wizard"
 ---
 # Wizard
 *Source: Player's Handbook p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/wizard.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d6 per Wizard level
@@ -52,23 +54,22 @@ aliases:
 
 - **Saving Throws**: Intelligence, Wisdom
 - **Armor**: none
-- **Weapons**: [daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md), [darts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dart.md), [slings](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sling.md), [quarterstaffs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/quarterstaff.md), [light crossbows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/light-crossbow.md)
+- **Weapons**: [daggers](Compendium/items/dagger.md), [darts](Compendium/items/dart.md), [slings](Compendium/items/sling.md), [quarterstaffs](Compendium/items/quarterstaff.md), [light crossbows](Compendium/items/light-crossbow.md)
 - **Tools**: none
-- **Skills**: choose 2 from [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)
+- **Skills**: choose 2 from [Arcana](Rules/skills.md#Arcana), [History](Rules/skills.md#History), [Insight](Rules/skills.md#Insight), [Investigation](Rules/skills.md#Investigation), [Medicine](Rules/skills.md#Medicine), and [Religion](Rules/skills.md#Religion)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [quarterstaff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/quarterstaff.md) or (b) a [dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)
-- (a) a [component pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/component-pouch.md) or (b) an [arcane focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arcane-focus.md)
-- (a) a [scholar's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scholars-pack.md) or (b) an [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md)
-- A [spellbook](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spellbook.md)
+- (a) a [quarterstaff](Compendium/items/quarterstaff.md) or (b) a [dagger](Compendium/items/dagger.md)
+- (a) a [component pouch](Compendium/items/component-pouch.md) or (b) an [arcane focus](Compendium/items/arcane-focus.md)
+- (a) a [scholar's pack](Compendium/items/scholars-pack.md) or (b) an [explorer's pack](Compendium/items/explorers-pack.md)
+- A [spellbook](Compendium/items/spellbook.md)
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Wizard
 
 **Ability Score Minimum:** Intelligence 13
-
 ## Wizard
 
 Clad in the silver robes that denote her station, an elf closes her eyes to shut out the distractions of the battlefield and begins her quiet chant. Fingers weaving in front of her, she completes her spell and launches a tiny bead of fire toward the enemy ranks, where it erupts into a conflagration that engulfs the soldiers.
@@ -99,7 +100,7 @@ What drew you forth from your life of study? Did your first taste of magical kno
 
 #### Quick Build
 
-You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the [sage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sage.md) background. Third, choose the [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md), [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md), and [ray of frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md) cantrips, along with the following 1st-level spells for your spellbook: [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md), [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md), [feather fall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feather-fall.md), [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md), [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md), and [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md).
+You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the [sage](Compendium/backgrounds/sage.md) background. Third, choose the [mage hand](Compendium/spells/mage-hand.md), [light](Compendium/spells/light.md), and [ray of frost](Compendium/spells/ray-of-frost.md) cantrips, along with the following 1st-level spells for your spellbook: [burning hands](Compendium/spells/burning-hands.md), [charm person](Compendium/spells/charm-person.md), [feather fall](Compendium/spells/feather-fall.md), [mage armor](Compendium/spells/mage-armor.md), [magic missile](Compendium/spells/magic-missile.md), and [sleep](Compendium/spells/sleep.md).
 
 > [!quote] A quote from Gimble the illusionist  
 > 
@@ -184,43 +185,29 @@ For example, if you're a 4th-level wizard, you can recover up to two levels wort
 
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the wizard spell list.
 
-#### Cantrips
+**Cantrips.** At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
 
-At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
+**Spellbook.** At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
-#### Spellbook
-
-At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
-
-#### Preparing and Casting Spells
-
-The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Preparing and Casting Spells.** The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [magic missile](Compendium/spells/magic-missile.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
-#### Spellcasting Ability
-
-Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Intelligence</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Intelligence</span>
 
-#### Ritual Casting
+**Ritual Casting.** You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
+**Spellcasting Focus.** You can use an [arcane focus](Compendium/items/arcane-focus.md) as a spellcasting focus for your wizard spells.
 
-#### Spellcasting Focus
-
-You can use an [arcane focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arcane-focus.md) as a spellcasting focus for your wizard spells.
-
-#### Learning Spells of 1st Level and Higher
-
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see "Your Spellbook").
+**Learning Spells of 1st Level and Higher.** Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see "Your Spellbook").
 
 > [!note] Your Spellbook
 > 
@@ -234,7 +221,7 @@ Each time you gain a wizard level, you can add two wizard spells of your choice 
 > 
 > For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 > 
-> **Copying from a Spell Scroll.** A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+> **Copying from a Spell Scroll.** A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence ([Arcana](Rules/skills.md#Arcana)) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
 > 
 > **Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 > 
@@ -250,7 +237,7 @@ When you reach 2nd level, you choose an arcane tradition from the list of availa
 ### Cantrip Formulas (Level 3)
 _Source: Tasha's Cauldron of Everything p. 75_
 
-*3rd-level wizard [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level wizard [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 You have scribed a set of arcane formulas in your spellbook that you can use to formulate a cantrip in your mind. Whenever you finish a long rest and consult those formulas in your spellbook, you can replace one wizard cantrip you know with another cantrip from the wizard spell list.
 

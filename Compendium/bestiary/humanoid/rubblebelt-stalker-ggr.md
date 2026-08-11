@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rubblebelt Stalker
+- "Rubblebelt Stalker"
 ---
-# [Rubblebelt Stalker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/rubblebelt-stalker-ggr.md)
+# [Rubblebelt Stalker](Compendium/bestiary/humanoid/rubblebelt-stalker-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 239*  
 
 Rubblebelt stalkers are scouts and skirmishers for the Gruul Clans. They excel at moving over challenging terrain, whether they're picking their way through treacherous ruins or clambering across rooftops. They favor ambush tactics and avoid confrontations with stronger forces, relying on their superior mobility to make their escape.
@@ -36,12 +37,14 @@ Rubblebelt stalkers are scouts and skirmishers for the Gruul Clans. They excel a
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 14"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
@@ -49,10 +52,10 @@ Rubblebelt stalkers are scouts and skirmishers for the Gruul Clans. They excel a
   - "desc": "In the first round of a combat, the stalker has advantage on attack rolls\
       \ against any creature that hasn't taken a turn yet."
     "name": "Ambusher"
-  - "desc": "The stalker can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The stalker can take the [Disengage](Rules/actions.md#Disengage) or [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action on each of its turns."
     "name": "Nimble Escape"
-  - "desc": "The stalker has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The stalker has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide in ruins, and its speed is not reduced in difficult terrain\
       \ composed of rubble."
     "name": "Ruin Dweller"
@@ -66,6 +69,6 @@ Rubblebelt stalkers are scouts and skirmishers for the Gruul Clans. They excel a
     "name": "Shortsword"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/rubblebelt-stalker-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/rubblebelt-stalker-ggr.webp"
 ```
 ^statblock

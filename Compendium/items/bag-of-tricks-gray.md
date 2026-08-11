@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/major
-aliases: 
+aliases:
 - "Bag of Tricks, Gray"
 item_type: 
 item_subtype: 
@@ -28,14 +29,14 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | dice: d8 | Creature |
 |----------|----------|
-| 1 | [Weasel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/weasel.md) |
-| 2 | [Giant rat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-rat.md) |
-| 3 | [Badger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/badger.md) |
-| 4 | [Boar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/boar.md) |
-| 5 | [Panther](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/panther.md) |
-| 6 | [Giant badger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-badger.md) |
-| 7 | [Dire wolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/dire-wolf.md) |
-| 8 | [Giant elk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-elk.md) |
+| 1 | [Weasel](Compendium/bestiary/beast/weasel.md) |
+| 2 | [Giant rat](Compendium/bestiary/beast/giant-rat.md) |
+| 3 | [Badger](Compendium/bestiary/beast/badger.md) |
+| 4 | [Boar](Compendium/bestiary/beast/boar.md) |
+| 5 | [Panther](Compendium/bestiary/beast/panther.md) |
+| 6 | [Giant badger](Compendium/bestiary/beast/giant-badger.md) |
+| 7 | [Dire wolf](Compendium/bestiary/beast/dire-wolf.md) |
+| 8 | [Giant elk](Compendium/bestiary/beast/giant-elk.md) |
 ^creature
 
 *Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

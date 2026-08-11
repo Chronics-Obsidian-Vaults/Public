@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/11
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gynosphinx
+- "Gynosphinx"
 ---
-# [Gynosphinx](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/gynosphinx.md)
-*Source: Monster Manual p. 282, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Gynosphinx](Compendium/bestiary/monstrosity/gynosphinx.md)
+*Source: Monster Manual p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A gynosphinx bears the head of a humanoid female. Many have the regal countenances of worldly queens, but some are marked with wild, leonine features. A gynosphinx's eyes see beyond the present time and place, and penetrate veils of invisibility and magic.
 
@@ -78,44 +79,38 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
   - !!int "18"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+12"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+12"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 18"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 18"
 "languages": "Common, Sphinx"
 "cr": "11"
 "traits":
   - "desc": "The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 16, +8 to hit with spell attacks). It requires no material\
       \ components to cast its spells. The sphinx has the following wizard spells\
-      \ prepared:\n\n**Cantrips (at will):** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md)\n\
-      \n**2nd level (3 slots):** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [locate object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**3rd level (3 slots):** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md),\
-      \ [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md)\n\
-      \n**4th level (3 slots):** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md)\n\
-      \n**5th level (1 slots):** [legend lore](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/legend-lore.md)"
+      \ prepared:\n\n**Cantrips (at will):** [mage hand](Compendium/spells/mage-hand.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**1st level (4 slots):** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [identify](Compendium/spells/identify.md), [shield](Compendium/spells/shield.md)\n\
+      \n**2nd level (3 slots):** [darkness](Compendium/spells/darkness.md), [locate\
+      \ object](Compendium/spells/locate-object.md), [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**3rd level (3 slots):** [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [remove curse](Compendium/spells/remove-curse.md), [tongues](Compendium/spells/tongues.md)\n\
+      \n**4th level (3 slots):** [banishment](Compendium/spells/banishment.md), [greater\
+      \ invisibility](Compendium/spells/greater-invisibility.md)\n\n**5th level (1\
+      \ slots):** [legend lore](Compendium/spells/legend-lore.md)"
     "name": "Spellcasting"
   - "desc": "The sphinx is immune to any effect that would sense its emotions or read\
-      \ its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight))\
+      \ its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](Rules/skills.md#Insight))\
       \ checks made to ascertain the sphinx's intentions or sincerity have disadvantage."
     "name": "Inscrutable"
   - "desc": "The sphinx's weapon attacks are magical."
@@ -134,17 +129,16 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
       \ The sphinx can choose not to reroll.  \n- The effects of time are altered\
       \ such that every creature in the lair must succeed on a DC 15 Constitution\
       \ saving throw or become 1d20 years older or younger (the sphinx's choice),\
-      \ but never any younger than 1 year old. A [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
+      \ but never any younger than 1 year old. A [greater restoration](Compendium/spells/greater-restoration.md)\
       \ spell can restore a creature's age to normal.  \n- The flow of time within\
       \ the lair is altered such that everything within moves up to 10 years forward\
       \ or backward (sphinx's choice). Only the sphinx is immediately aware of the\
-      \ time change. A [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell can return the caster and up to seven other creatures designated by\
-      \ the caster to their normal time.  \n- The sphinx shifts itself and up to seven\
-      \ other creatures it can see within in its lair to another plane of existence.\
-      \ Once outside its lair, the sphinx can't use lair actions, but it can return\
-      \ to its lair as a bonus action on its turn, taking up to seven creatures with\
-      \ it.  "
+      \ time change. A [wish](Compendium/spells/wish.md) spell can return the caster\
+      \ and up to seven other creatures designated by the caster to their normal time.\
+      \  \n- The sphinx shifts itself and up to seven other creatures it can see within\
+      \ in its lair to another plane of existence. Once outside its lair, the sphinx\
+      \ can't use lair actions, but it can return to its lair as a bonus action on\
+      \ its turn, taking up to seven creatures with it.  "
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the gynosphinx can expend a use to take one of the following actions. The\
@@ -160,8 +154,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     "name": "Cast a Spell (Costs 3 Actions)"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/gynosphinx.webp"
+"image": "Compendium/bestiary/monstrosity/token/gynosphinx.webp"
 ```
 ^statblock
 

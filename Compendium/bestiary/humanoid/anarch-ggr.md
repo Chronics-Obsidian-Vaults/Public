@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Anarch
+- "Anarch"
 ---
-# [Anarch](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/anarch-ggr.md)
+# [Anarch](Compendium/bestiary/humanoid/anarch-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 239*  
 
 The rank-and-file members of the Gruul Clans, called anarchs, despise civilization and have sworn to tear down both its physical structures and its institutions. Anarchs scavenge everything, from the hide armor they wear to the weapons they wield. As they pick through the refuse of the rubblebelts, they sometimes come across magic items and other valuable treasures.
@@ -23,7 +24,7 @@ The rank-and-file members of the Gruul Clans, called anarchs, despise civilizati
 "subtype": "any race"
 "alignment": "Chaotic Neutral"
 "ac": !!int "13"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -36,9 +37,9 @@ The rank-and-file members of the Gruul Clans, called anarchs, despise civilizati
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
@@ -55,6 +56,6 @@ The rank-and-file members of the Gruul Clans, called anarchs, despise civilizati
     "name": "Spiked Club"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/anarch-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/anarch-ggr.webp"
 ```
 ^statblock

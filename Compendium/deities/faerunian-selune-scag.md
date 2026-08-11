@@ -8,15 +8,15 @@ tags:
 - source/domain/knowledge
 - source/domain/life
 - source/domain/twilight
-aliases: 
-- Selûne
-- Our Lady of Silver
-- The Moonmaiden
-- The Night White Lady
+aliases:
+- "Selûne"
+- "Our Lady of Silver"
+- "The Moonmaiden"
+- "The Night White Lady"
 ---
 # Selûne
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-selune.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-selune.webp#symbol)
 
 - **Alternate Names**: Our Lady of Silver, The Moonmaiden, The Night White Lady
 - **Alignment**: Chaotic Good

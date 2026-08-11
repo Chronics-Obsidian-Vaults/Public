@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Creating a Gnoll War Band; Demonic Influence
+- "Creating a Gnoll War Band; Demonic Influence"
 ---
 # Creating a Gnoll War Band; Demonic Influence
 *Source: Volo's Guide to Monsters p. 39* 

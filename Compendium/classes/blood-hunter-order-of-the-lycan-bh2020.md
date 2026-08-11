@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bh2020
 - source/subclass/blood-hunter/lycan
 aliases:
-- Order of the Lycan
+- "Order of the Lycan"
 ---
 # Order of the Lycan
 *[Blood Hunter](./blood-hunter-bh2020.md): Blood Hunter Order*  
@@ -43,12 +43,9 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Order of the Lycan (Level 3)
-
 Of the many terrible curses that plague the realm, few are as ancient or as feared as Lycanthropy. Passed through blood, this affliction seeds a host with the savage strength and hunger for violence of a wicked beast. The Order of the Lycan is a proud order of blood hunters who undergo "The Taming," a ceremonial inflicting of lycanthropy from a senior member. These hunters then use their abilities to harness the power of the monster they harbor without losing themselves to it. Through intense honing of one's own willpower, combined with the secrets of the order's blood magic rituals, members learn to control and unleash their hybrid form for short periods of time. Enhanced physical prowess, unnatural resilience, and razor sharp claws make these warriors a terrible foe to any evil that crosses their path. Yet, no training is perfect, and without care and complete focus, even the greatest of blood hunters can temporarily lose themselves to the bloodlust.
+
+## Subclass Features
 
 ### Heightened Senses (Level 3)
 
@@ -60,21 +57,13 @@ Upon choosing this archetype at 3rd level, you begin to learn to control the lyc
 
 Once you use this feature, you must finish a short or long rest before you can use it again. While you are transformed, you gain the following features:
 
-#### Feral Might
+**Feral Might.** You gain a +1 to melee damage rolls. This bonus increases by 1 at 11th level (+2) and 18th level (+3). You also have advantage on Strength checks and Strength saving throws.
 
-You gain a +1 to melee damage rolls. This bonus increases by 1 at 11th level (+2) and 18th level (+3). You also have advantage on Strength checks and Strength saving throws.
+**Resilient Hide.** You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks not made with silver weapons. While you are not wearing heavy armor, you gain a +1 bonus to your AC.
 
-#### Resilient Hide
+**Predatory Strikes.** Your can apply your Crimson Rite feature to your unarmed strikes. You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes. When you use the Attack action with an unarmed strike, you can make one unarmed strike as a bonus action. Your unarmed strikes deal `1d6` slashing damage. The damage increases to `1d8` at 11th level.
 
-You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks not made with silver weapons. While you are not wearing heavy armor, you gain a +1 bonus to your AC.
-
-#### Predatory Strikes
-
-Your can apply your Crimson Rite feature to your unarmed strikes. You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes. When you use the Attack action with an unarmed strike, you can make one unarmed strike as a bonus action. Your unarmed strikes deal `1d6` slashing damage. The damage increases to `1d8` at 11th level.
-
-#### Bloodlust
-
-If you begin your turn with no more than half of your maximum hit points, you must succeed on a DC 8 Wisdom saving throw or move directly towards the nearest creature to you and use the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action against that creature. You can choose whether or not to use your Extra Attack feature for this frenzied attack. If there is more than one possible target, roll to randomly determine the target. You then regain control for the remainder of your turn. If you are under an effect that prevents you from concentrating (like the barbarian's [Rage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/barbarian.md#Rage%20(Level%201)) feature), you automatically fail this saving throw.
+**Bloodlust.** If you begin your turn with no more than half of your maximum hit points, you must succeed on a DC 8 Wisdom saving throw or move directly towards the nearest creature to you and use the [Attack](Rules/actions.md#Attack) action against that creature. You can choose whether or not to use your Extra Attack feature for this frenzied attack. If there is more than one possible target, roll to randomly determine the target. You then regain control for the remainder of your turn. If you are under an effect that prevents you from concentrating (like the barbarian's [Rage](Compendium/classes/barbarian.md#Rage%20(Level%201)) feature), you automatically fail this saving throw.
 
 ### The Onus of Lycanthropy (Level 3)
 
@@ -88,9 +77,7 @@ Lycanthropy comes in many forms. Each version of the curse is bound to a specifi
 
 At 7th level, your speed increases by 10 feet. You also can add 10 feet to your long jump distance and 3 feet to your high jump distance. In addition, your hybrid form gains the Improved Predatory Strikes feature.
 
-#### Improved Predatory Strikes
-
-You gain a +1 bonus to attack rolls made with your unarmed strikes. This bonus increases by 1 at 11th level (+2) and 18th level (+3). In addition, when you have an active Crimson Rite while in your hybrid form, your unarmed strikes are considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+**Improved Predatory Strikes.** You gain a +1 bonus to attack rolls made with your unarmed strikes. This bonus increases by 1 at 11th level (+2) and 18th level (+3). In addition, when you have an active Crimson Rite while in your hybrid form, your unarmed strikes are considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ### Advanced Transformation (Level 11)
 

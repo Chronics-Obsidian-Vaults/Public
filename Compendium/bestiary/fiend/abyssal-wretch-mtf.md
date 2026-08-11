@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mtf
 - source/monster/cr/1-4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Abyssal Wretch
+- "Abyssal Wretch"
 ---
-# [Abyssal Wretch](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/abyssal-wretch-mtf.md)
+# [Abyssal Wretch](Compendium/bestiary/fiend/abyssal-wretch-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 136*  
 
 ```statblock
@@ -34,11 +35,9 @@ aliases:
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 9"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1/4"
 "actions":
@@ -47,6 +46,6 @@ aliases:
     "name": "Bite"
 "source":
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/abyssal-wretch-mtf.webp"
+"image": "Compendium/bestiary/fiend/token/abyssal-wretch-mtf.webp"
 ```
 ^statblock

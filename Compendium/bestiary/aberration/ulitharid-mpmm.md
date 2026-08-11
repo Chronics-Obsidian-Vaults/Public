@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/9
@@ -10,16 +11,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ulitharid
+- "Ulitharid"
 ---
-# [Ulitharid](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/ulitharid-mpmm.md)
+# [Ulitharid](Compendium/bestiary/aberration/ulitharid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175*  
 
-Very rarely, when a tadpole from the brine pool of an [elder brain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/elder-brain-mpmm.md) is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [mind flayer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/mind-flayer.md) with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [elder brain's](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/elder-brain-mpmm.md) reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [elder brain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/elder-brain-mpmm.md) perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
+Very rarely, when a tadpole from the brine pool of an [elder brain](Compendium/bestiary/aberration/elder-brain-mpmm.md) is implanted into a creature, that creature transforms into an ulitharid: a larger and more potent [mind flayer](Compendium/bestiary/aberration/mind-flayer.md) with six tentacles. Illithids innately recognize that an ulitharid's survival is more important than their own. An [elder brain's](Compendium/bestiary/aberration/elder-brain-mpmm.md) reaction to the rise of an ulitharid varies. In most colonies, the ulitharid becomes an elder brain's most favored servant, invested with power and authority. In others, the [elder brain](Compendium/bestiary/aberration/elder-brain-mpmm.md) perceives an ulitharid as a potential rival and manipulates or quashes the ulitharid's ambitions accordingly.
 
-When an ulitharid finds sharing leadership with an [elder brain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/elder-brain-mpmm.md) insufferable, it breaks off from the colony, taking a group of [mind flayers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/mind-flayer.md) with it, and moves to another location to form a new colony. After the death of the ulitharid's body, a special process transforms its brain into a new [elder brain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/elder-brain-mpmm.md) for the colony.
+When an ulitharid finds sharing leadership with an [elder brain](Compendium/bestiary/aberration/elder-brain-mpmm.md) insufferable, it breaks off from the colony, taking a group of [mind flayers](Compendium/bestiary/aberration/mind-flayer.md) with it, and moves to another location to form a new colony. After the death of the ulitharid's body, a special process transforms its brain into a new [elder brain](Compendium/bestiary/aberration/elder-brain-mpmm.md) for the colony.
 
-This process doesn't work on the brain of an ulitharid that dies a natural death, as such brains are too decrepit to be used. Instead, each ulitharid carries a psionically enhanced staff; when the ulitharid is ready to give up its life, it attaches the staff to the back of its head, and the staff cracks open its skull, enabling its brain to be extracted. The brain and the staff are then planted in the ulitharid's corpse, causing it to dissolve into ichor. This psionically potent slime helps to fuel the transformation of the area into a brine pool for the embryonic [elder brain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/elder-brain-mpmm.md).
+This process doesn't work on the brain of an ulitharid that dies a natural death, as such brains are too decrepit to be used. Instead, each ulitharid carries a psionically enhanced staff; when the ulitharid is ready to give up its life, it attaches the staff to the back of its head, and the staff cracks open its skull, enabling its brain to be extracted. The brain and the staff are then planted in the ulitharid's corpse, causing it to dissolve into ichor. This psionically potent slime helps to fuel the transformation of the area into a brine pool for the embryonic [elder brain](Compendium/bestiary/aberration/elder-brain-mpmm.md).
 
 ```statblock
 "name": "Ulitharid (MPMM)"
@@ -28,7 +29,7 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 "subtype": "mind flayer"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md)"
 "hp": !!int "127"
 "hit_dice": "17d10 + 14"
 "modifier": !!int "1"
@@ -45,25 +46,24 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
   - "wisdom": !!int "8"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+9"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 18"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 18"
 "languages": "Deep Speech, Undercommon, telepathy 2 miles"
 "cr": "9"
 "traits":
   - "desc": "The ulitharid is aware of the presence of creatures within 2 miles of\
       \ it that have an Intelligence score of 4 or higher. It knows the distance and\
       \ direction to each creature, as well as each creature's intelligence score,\
-      \ but can't sense anything else about it. A creature protected by a [mind blank](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mind-blank.md)\
-      \ spell, a [nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md)\
-      \ spell, or similar magic can't be perceived in this manner."
+      \ but can't sense anything else about it. A creature protected by a [mind blank](Compendium/spells/mind-blank.md)\
+      \ spell, a [nondetection](Compendium/spells/nondetection.md) spell, or similar\
+      \ magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "The ulitharid has advantage on saving throws against spells and other\
       \ magical effects."
@@ -79,39 +79,33 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
     "name": "Psionic Hub"
 "actions":
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 27 (4d10 + 5) psychic damage. If the target is Large or smaller, it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ 27 (4d10 + 5) psychic damage. If the target is Large or smaller, it is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 14) and must succeed on a DC 17 Intelligence saving throw or be\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until this grapple ends."
+      \ [stunned](Rules/conditions.md#Stunned) until this grapple ends."
     "name": "Tentacles"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ Humanoid [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by the ulitharid. *Hit:* 55 (10d10) piercing damage. If this damage reduces\
-      \ the target to 0 hit points, the ulitharid kills the target by extracting and\
-      \ devouring its brain."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one [incapacitated](Rules/conditions.md#Incapacitated)\
+      \ Humanoid [grappled](Rules/conditions.md#Grappled) by the ulitharid. *Hit:*\
+      \ 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points,\
+      \ the ulitharid kills the target by extracting and devouring its brain."
     "name": "Extract Brain"
   - "desc": "The ulitharid magically emits psychic energy in a 60-foot cone. Each\
       \ creature in that area must succeed on a DC 17 Intelligence saving throw or\
-      \ take 31 (4d12 + 5) psychic damage and be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ take 31 (4d12 + 5) psychic damage and be [stunned](Rules/conditions.md#Stunned)\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The ulitharid casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\n\
-      **At will:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\n\
-      \n**1/day each:** [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md),\
-      \ [feeblemind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feeblemind.md),\
-      \ [mass suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-suggestion.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ (self only), [project image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/project-image.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md),\
-      \ [telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md)"
+      **At will:** [detect thoughts](Compendium/spells/detect-thoughts.md), [levitate](Compendium/spells/levitate.md)\n\
+      \n**1/day each:** [dominate monster](Compendium/spells/dominate-monster.md),\
+      \ [feeblemind](Compendium/spells/feeblemind.md), [mass suggestion](Compendium/spells/mass-suggestion.md),\
+      \ [plane shift](Compendium/spells/plane-shift.md) (self only), [project image](Compendium/spells/project-image.md),\
+      \ [scrying](Compendium/spells/scrying.md), [telekinesis](Compendium/spells/telekinesis.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/ulitharid-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/ulitharid-mpmm.webp"
 ```
 ^statblock
 

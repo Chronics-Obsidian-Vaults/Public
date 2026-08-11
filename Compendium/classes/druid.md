@@ -6,7 +6,7 @@ tags:
 - source/class/druid
 - source/compendium/src/5e/phb
 aliases:
-- Druid
+- "Druid"
 ---
 # Druid
 *Source: Player's Handbook p. 64. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/druid.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Druid level
@@ -51,16 +53,16 @@ aliases:
 ## Starting Druid
 
 - **Saving Throws**: Intelligence, Wisdom
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor), [medium armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Medium%20Armor), [shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md) (druids will not wear armor or use shields made of metal)
-- **Weapons**: [clubs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/club.md), [daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md), [darts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dart.md), [javelins](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/javelin.md), [maces](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md), [quarterstaffs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/quarterstaff.md), [scimitars](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scimitar.md), [sickles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sickle.md), [slings](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sling.md), [spears](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spear.md)
-- **Tools**: [Herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md)
-- **Skills**: choose 2 from [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion), and [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor), [medium armor](Rules/item-types.md#Medium%20Armor), [shields](Compendium/items/shield.md) (druids will not wear armor or use shields made of metal)
+- **Weapons**: [clubs](Compendium/items/club.md), [daggers](Compendium/items/dagger.md), [darts](Compendium/items/dart.md), [javelins](Compendium/items/javelin.md), [maces](Compendium/items/mace.md), [quarterstaffs](Compendium/items/quarterstaff.md), [scimitars](Compendium/items/scimitar.md), [sickles](Compendium/items/sickle.md), [slings](Compendium/items/sling.md), [spears](Compendium/items/spear.md)
+- **Tools**: [Herbalism kit](Compendium/items/herbalism-kit.md)
+- **Skills**: choose 2 from [Animal Handling](Rules/skills.md#Animal%20Handling), [Arcana](Rules/skills.md#Arcana), [Insight](Rules/skills.md#Insight), [Medicine](Rules/skills.md#Medicine), [Nature](Rules/skills.md#Nature), [Perception](Rules/skills.md#Perception), [Religion](Rules/skills.md#Religion), and [Survival](Rules/skills.md#Survival)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a wooden [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md) or (b) any simple weapon
-- (a) a [scimitar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scimitar.md) or (b) any simple melee weapon
-- [Leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md), an [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md), and a [druidic focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/druidic-focus.md)
+- (a) a wooden [shield](Compendium/items/shield.md) or (b) any simple weapon
+- (a) a [scimitar](Compendium/items/scimitar.md) or (b) any simple melee weapon
+- [Leather armor](Compendium/items/leather-armor.md), an [explorer's pack](Compendium/items/explorers-pack.md), and a [druidic focus](Compendium/items/druidic-focus.md)
 
 Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
@@ -70,8 +72,7 @@ Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor), [medium armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Medium%20Armor), [shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md) (druids will not wear armor or use shields made of metal)
-
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor), [medium armor](Rules/item-types.md#Medium%20Armor), [shields](Compendium/items/shield.md) (druids will not wear armor or use shields made of metal)
 ## Druid
 
 Holding high a gnarled staff wreathed with holly, an elf summons the fury of the storm and calls down explosive bolts of lightning to smite the torch-carrying orcs who threaten her forest.
@@ -104,7 +105,7 @@ Have you always been an adventurer as part of your druidic calling, or did you f
 
 #### Quick Build
 
-You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the [hermit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/hermit.md) background.
+You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the [hermit](Compendium/backgrounds/hermit.md) background.
 
 > [!note] Sacred Plants and Wood
 > 
@@ -213,285 +214,275 @@ _Source: Xanathar's Guide to Everything_
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Owl](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/owl.md) | Fly |
-| 1/8 | [Blood hawk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/blood-hawk.md) | Fly |
-| 1/4 | [Giant owl](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-owl.md) | Fly |
-| 1 | [Brown bear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/brown-bear.md) | — |
-| 2 | [Polar bear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/polar-bear.md) | Swim |
-| 2 | [Saber-toothed tiger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/saber-toothed-tiger.md) | — |
-| 6 | [Mammoth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/mammoth.md) | — |
+| 0 | [Owl](Compendium/bestiary/beast/owl.md) | Fly |
+| 1/8 | [Blood hawk](Compendium/bestiary/beast/blood-hawk.md) | Fly |
+| 1/4 | [Giant owl](Compendium/bestiary/beast/giant-owl.md) | Fly |
+| 1 | [Brown bear](Compendium/bestiary/beast/brown-bear.md) | — |
+| 2 | [Polar bear](Compendium/bestiary/beast/polar-bear.md) | Swim |
+| 2 | [Saber-toothed tiger](Compendium/bestiary/beast/saber-toothed-tiger.md) | — |
+| 6 | [Mammoth](Compendium/bestiary/beast/mammoth.md) | — |
 ^arctic
 
 **Coast**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Crab](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/crab.md) | Swim |
-| 0 | [Eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/eagle.md) | Fly |
-| 1/8 | [Blood hawk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Giant crab](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-crab.md) | Swim |
-| 1/8 | [Poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Giant lizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant wolf spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-wolf-spider.md) | — |
-| 1/4 | [Pteranodon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/pteranodon.md) | Fly |
-| 1 | [Giant eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-eagle.md) | Fly |
-| 1 | [Giant toad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-toad.md) | Swim |
-| 2 | [Plesiosaurus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/plesiosaurus.md) | Swim |
+| 0 | [Crab](Compendium/bestiary/beast/crab.md) | Swim |
+| 0 | [Eagle](Compendium/bestiary/beast/eagle.md) | Fly |
+| 1/8 | [Blood hawk](Compendium/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Giant crab](Compendium/bestiary/beast/giant-crab.md) | Swim |
+| 1/8 | [Poisonous snake](Compendium/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](Compendium/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Giant lizard](Compendium/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant wolf spider](Compendium/bestiary/beast/giant-wolf-spider.md) | — |
+| 1/4 | [Pteranodon](Compendium/bestiary/beast/pteranodon.md) | Fly |
+| 1 | [Giant eagle](Compendium/bestiary/beast/giant-eagle.md) | Fly |
+| 1 | [Giant toad](Compendium/bestiary/beast/giant-toad.md) | Swim |
+| 2 | [Plesiosaurus](Compendium/bestiary/beast/plesiosaurus.md) | Swim |
 ^coast
 
 **Desert**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Cat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/cat.md) | — |
-| 0 | [Hyena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/hyena.md) | — |
-| 0 | [Jackal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/jackal.md) | — |
-| 0 | [Scorpion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/scorpion.md) | — |
-| 0 | [Vulture](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/vulture.md) | Fly |
-| 1/8 | [Camel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/camel.md) | — |
-| 1/8 | [Flying snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/flying-snake.md) | Fly |
-| 1/8 | [Mule](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/mule.md) | — |
-| 1/8 | [Poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Constrictor snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/constrictor-snake.md) | Swim |
-| 1/4 | [Giant lizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1/4 | [Giant wolf spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-wolf-spider.md) | — |
-| 1 | [Giant hyena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-hyena.md) | — |
-| 1 | [Giant spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-spider.md) | — |
-| 1 | [Giant toad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-toad.md) | Swim |
-| 1 | [Giant vulture](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-vulture.md) | Fly |
-| 1 | [Lion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/lion.md) | — |
-| 2 | [Giant constrictor snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 3 | [Giant scorpion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-scorpion.md) | — |
+| 0 | [Cat](Compendium/bestiary/beast/cat.md) | — |
+| 0 | [Hyena](Compendium/bestiary/beast/hyena.md) | — |
+| 0 | [Jackal](Compendium/bestiary/beast/jackal.md) | — |
+| 0 | [Scorpion](Compendium/bestiary/beast/scorpion.md) | — |
+| 0 | [Vulture](Compendium/bestiary/beast/vulture.md) | Fly |
+| 1/8 | [Camel](Compendium/bestiary/beast/camel.md) | — |
+| 1/8 | [Flying snake](Compendium/bestiary/beast/flying-snake.md) | Fly |
+| 1/8 | [Mule](Compendium/bestiary/beast/mule.md) | — |
+| 1/8 | [Poisonous snake](Compendium/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](Compendium/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Constrictor snake](Compendium/bestiary/beast/constrictor-snake.md) | Swim |
+| 1/4 | [Giant lizard](Compendium/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant poisonous snake](Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1/4 | [Giant wolf spider](Compendium/bestiary/beast/giant-wolf-spider.md) | — |
+| 1 | [Giant hyena](Compendium/bestiary/beast/giant-hyena.md) | — |
+| 1 | [Giant spider](Compendium/bestiary/beast/giant-spider.md) | — |
+| 1 | [Giant toad](Compendium/bestiary/beast/giant-toad.md) | Swim |
+| 1 | [Giant vulture](Compendium/bestiary/beast/giant-vulture.md) | Fly |
+| 1 | [Lion](Compendium/bestiary/beast/lion.md) | — |
+| 2 | [Giant constrictor snake](Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 3 | [Giant scorpion](Compendium/bestiary/beast/giant-scorpion.md) | — |
 ^desert
 
 **Forest**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Baboon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/baboon.md) | — |
-| 0 | [Badger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/badger.md) | — |
-| 0 | [Cat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/cat.md) | — |
-| 0 | [Deer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/deer.md) | — |
-| 0 | [Hyena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/hyena.md) | — |
-| 0 | [Owl](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/owl.md) | Fly |
-| 1/8 | [Blood hawk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Flying snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/flying-snake.md) | Fly |
-| 1/8 | [Giant rat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-rat.md) | — |
-| 1/8 | [Giant weasel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-weasel.md) | — |
-| 1/8 | [Poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Mastiff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/mastiff.md) | — |
-| 1/8 | [Stirge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Boar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/boar.md) | — |
-| 1/4 | [Constrictor snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/constrictor-snake.md) | Swim |
-| 1/4 | [Elk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/elk.md) | — |
-| 1/4 | [Giant badger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-badger.md) | — |
-| 1/4 | [Giant bat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-bat.md) | Fly |
-| 1/4 | [Giant frog](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-frog.md) | Swim |
-| 1/4 | [Giant lizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant owl](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-owl.md) | Fly |
-| 1/4 | [Giant poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1/4 | [Giant wolf spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-wolf-spider.md) | — |
-| 1/4 | [Panther](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/panther.md) | — |
-| 1/4 | [Wolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/wolf.md) | — |
-| 1/2 | [Ape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/ape.md) | — |
-| 1/2 | [Black bear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/black-bear.md) | — |
-| 1/2 | [Giant wasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-wasp.md) | Fly |
-| 1 | [Brown bear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/brown-bear.md) | — |
-| 1 | [Dire wolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/dire-wolf.md) | — |
-| 1 | [Giant hyena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-hyena.md) | — |
-| 1 | [Giant spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-spider.md) | — |
-| 1 | [Giant toad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-toad.md) | Swim |
-| 1 | [Tiger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/tiger.md) | — |
-| 2 | [Giant boar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-boar.md) | — |
-| 2 | [Giant constrictor snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 2 | [Giant elk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-elk.md) | — |
+| 0 | [Baboon](Compendium/bestiary/beast/baboon.md) | — |
+| 0 | [Badger](Compendium/bestiary/beast/badger.md) | — |
+| 0 | [Cat](Compendium/bestiary/beast/cat.md) | — |
+| 0 | [Deer](Compendium/bestiary/beast/deer.md) | — |
+| 0 | [Hyena](Compendium/bestiary/beast/hyena.md) | — |
+| 0 | [Owl](Compendium/bestiary/beast/owl.md) | Fly |
+| 1/8 | [Blood hawk](Compendium/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Flying snake](Compendium/bestiary/beast/flying-snake.md) | Fly |
+| 1/8 | [Giant rat](Compendium/bestiary/beast/giant-rat.md) | — |
+| 1/8 | [Giant weasel](Compendium/bestiary/beast/giant-weasel.md) | — |
+| 1/8 | [Poisonous snake](Compendium/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Mastiff](Compendium/bestiary/beast/mastiff.md) | — |
+| 1/8 | [Stirge](Compendium/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Boar](Compendium/bestiary/beast/boar.md) | — |
+| 1/4 | [Constrictor snake](Compendium/bestiary/beast/constrictor-snake.md) | Swim |
+| 1/4 | [Elk](Compendium/bestiary/beast/elk.md) | — |
+| 1/4 | [Giant badger](Compendium/bestiary/beast/giant-badger.md) | — |
+| 1/4 | [Giant bat](Compendium/bestiary/beast/giant-bat.md) | Fly |
+| 1/4 | [Giant frog](Compendium/bestiary/beast/giant-frog.md) | Swim |
+| 1/4 | [Giant lizard](Compendium/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant owl](Compendium/bestiary/beast/giant-owl.md) | Fly |
+| 1/4 | [Giant poisonous snake](Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1/4 | [Giant wolf spider](Compendium/bestiary/beast/giant-wolf-spider.md) | — |
+| 1/4 | [Panther](Compendium/bestiary/beast/panther.md) | — |
+| 1/4 | [Wolf](Compendium/bestiary/beast/wolf.md) | — |
+| 1/2 | [Ape](Compendium/bestiary/beast/ape.md) | — |
+| 1/2 | [Black bear](Compendium/bestiary/beast/black-bear.md) | — |
+| 1/2 | [Giant wasp](Compendium/bestiary/beast/giant-wasp.md) | Fly |
+| 1 | [Brown bear](Compendium/bestiary/beast/brown-bear.md) | — |
+| 1 | [Dire wolf](Compendium/bestiary/beast/dire-wolf.md) | — |
+| 1 | [Giant hyena](Compendium/bestiary/beast/giant-hyena.md) | — |
+| 1 | [Giant spider](Compendium/bestiary/beast/giant-spider.md) | — |
+| 1 | [Giant toad](Compendium/bestiary/beast/giant-toad.md) | Swim |
+| 1 | [Tiger](Compendium/bestiary/beast/tiger.md) | — |
+| 2 | [Giant boar](Compendium/bestiary/beast/giant-boar.md) | — |
+| 2 | [Giant constrictor snake](Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 2 | [Giant elk](Compendium/bestiary/beast/giant-elk.md) | — |
 ^forest
 
 **Grassland**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Cat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/cat.md) | — |
-| 0 | [Deer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/deer.md) | — |
-| 0 | [Eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/eagle.md) | Fly |
-| 0 | [Goat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/goat.md) | — |
-| 0 | [Hyena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/hyena.md) | — |
-| 0 | [Jackal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/jackal.md) | — |
-| 0 | [Vulture](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/vulture.md) | Fly |
-| 1/8 | [Blood hawk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Flying snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/flying-snake.md) | Fly |
-| 1/8 | [Giant weasel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-weasel.md) | — |
-| 1/8 | [Poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Axe beak](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/axe-beak.md) | — |
-| 1/4 | [Boar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/boar.md) | — |
-| 1/4 | [Elk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/elk.md) | — |
-| 1/4 | [Giant poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1/4 | [Giant wolf spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-wolf-spider.md) | — |
-| 1/4 | [Panther](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/panther.md) (leopard) | — |
-| 1/4 | [Pteranodon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/pteranodon.md) | Fly |
-| 1/4 | [Riding horse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/riding-horse.md) | — |
-| 1/4 | [Wolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/wolf.md) | — |
-| 1/2 | [Giant goat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-goat.md) | — |
-| 1/2 | [Giant wasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-wasp.md) | Fly |
-| 1 | [Giant eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-eagle.md) | Fly |
-| 1 | [Giant hyena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-hyena.md) | — |
-| 1 | [Giant vulture](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-vulture.md) | Fly |
-| 1 | [Lion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/lion.md) | — |
-| 1 | [Tiger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/tiger.md) | — |
-| 2 | [Allosaurus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/allosaurus.md) | — |
-| 2 | [Giant boar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-boar.md) | — |
-| 2 | [Giant elk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-elk.md) | — |
-| 2 | [Rhinoceros](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/rhinoceros.md) | — |
-| 3 | [Ankylosaurus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/ankylosaurus.md) | — |
-| 4 | [Elephant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/elephant.md) | — |
-| 5 | [Triceratops](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/triceratops.md) | — |
+| 0 | [Cat](Compendium/bestiary/beast/cat.md) | — |
+| 0 | [Deer](Compendium/bestiary/beast/deer.md) | — |
+| 0 | [Eagle](Compendium/bestiary/beast/eagle.md) | Fly |
+| 0 | [Goat](Compendium/bestiary/beast/goat.md) | — |
+| 0 | [Hyena](Compendium/bestiary/beast/hyena.md) | — |
+| 0 | [Jackal](Compendium/bestiary/beast/jackal.md) | — |
+| 0 | [Vulture](Compendium/bestiary/beast/vulture.md) | Fly |
+| 1/8 | [Blood hawk](Compendium/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Flying snake](Compendium/bestiary/beast/flying-snake.md) | Fly |
+| 1/8 | [Giant weasel](Compendium/bestiary/beast/giant-weasel.md) | — |
+| 1/8 | [Poisonous snake](Compendium/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](Compendium/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Axe beak](Compendium/bestiary/beast/axe-beak.md) | — |
+| 1/4 | [Boar](Compendium/bestiary/beast/boar.md) | — |
+| 1/4 | [Elk](Compendium/bestiary/beast/elk.md) | — |
+| 1/4 | [Giant poisonous snake](Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1/4 | [Giant wolf spider](Compendium/bestiary/beast/giant-wolf-spider.md) | — |
+| 1/4 | [Panther](Compendium/bestiary/beast/panther.md) (leopard) | — |
+| 1/4 | [Pteranodon](Compendium/bestiary/beast/pteranodon.md) | Fly |
+| 1/4 | [Riding horse](Compendium/bestiary/beast/riding-horse.md) | — |
+| 1/4 | [Wolf](Compendium/bestiary/beast/wolf.md) | — |
+| 1/2 | [Giant goat](Compendium/bestiary/beast/giant-goat.md) | — |
+| 1/2 | [Giant wasp](Compendium/bestiary/beast/giant-wasp.md) | Fly |
+| 1 | [Giant eagle](Compendium/bestiary/beast/giant-eagle.md) | Fly |
+| 1 | [Giant hyena](Compendium/bestiary/beast/giant-hyena.md) | — |
+| 1 | [Giant vulture](Compendium/bestiary/beast/giant-vulture.md) | Fly |
+| 1 | [Lion](Compendium/bestiary/beast/lion.md) | — |
+| 1 | [Tiger](Compendium/bestiary/beast/tiger.md) | — |
+| 2 | [Allosaurus](Compendium/bestiary/beast/allosaurus.md) | — |
+| 2 | [Giant boar](Compendium/bestiary/beast/giant-boar.md) | — |
+| 2 | [Giant elk](Compendium/bestiary/beast/giant-elk.md) | — |
+| 2 | [Rhinoceros](Compendium/bestiary/beast/rhinoceros.md) | — |
+| 3 | [Ankylosaurus](Compendium/bestiary/beast/ankylosaurus.md) | — |
+| 4 | [Elephant](Compendium/bestiary/beast/elephant.md) | — |
+| 5 | [Triceratops](Compendium/bestiary/beast/triceratops.md) | — |
 ^grassland
 
 **Hill**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Baboon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/baboon.md) | — |
-| 0 | [Eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/eagle.md) | Fly |
-| 0 | [Goat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/goat.md) | — |
-| 0 | [Hyena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/hyena.md) | — |
-| 0 | [Raven](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/raven.md) | Fly |
-| 0 | [Vulture](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/vulture.md) | Fly |
-| 1/8 | [Blood hawk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Giant weasel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-weasel.md) | — |
-| 1/8 | [Mastiff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/mastiff.md) | — |
-| 1/8 | [Mule](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/mule.md) | — |
-| 1/8 | [Poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Axe beak](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/axe-beak.md) | — |
-| 1/4 | [Boar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/boar.md) | — |
-| 1/4 | [Elk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/elk.md) | — |
-| 1/4 | [Giant owl](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-owl.md) | Fly |
-| 1/4 | [Giant wolf spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-wolf-spider.md) | — |
-| 1/4 | [Panther](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/panther.md) (cougar) | — |
-| 1/4 | [Wolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/wolf.md) | — |
-| 1/2 | [Giant goat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-goat.md) | — |
-| 1 | [Brown bear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/brown-bear.md) | — |
-| 1 | [Dire wolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/dire-wolf.md) | — |
-| 1 | [Giant eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-eagle.md) | Fly |
-| 1 | [Giant hyena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-hyena.md) | — |
-| 1 | [Lion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/lion.md) | — |
-| 2 | [Giant boar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-boar.md) | — |
-| 2 | [Giant elk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-elk.md) | — |
+| 0 | [Baboon](Compendium/bestiary/beast/baboon.md) | — |
+| 0 | [Eagle](Compendium/bestiary/beast/eagle.md) | Fly |
+| 0 | [Goat](Compendium/bestiary/beast/goat.md) | — |
+| 0 | [Hyena](Compendium/bestiary/beast/hyena.md) | — |
+| 0 | [Raven](Compendium/bestiary/beast/raven.md) | Fly |
+| 0 | [Vulture](Compendium/bestiary/beast/vulture.md) | Fly |
+| 1/8 | [Blood hawk](Compendium/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Giant weasel](Compendium/bestiary/beast/giant-weasel.md) | — |
+| 1/8 | [Mastiff](Compendium/bestiary/beast/mastiff.md) | — |
+| 1/8 | [Mule](Compendium/bestiary/beast/mule.md) | — |
+| 1/8 | [Poisonous snake](Compendium/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](Compendium/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Axe beak](Compendium/bestiary/beast/axe-beak.md) | — |
+| 1/4 | [Boar](Compendium/bestiary/beast/boar.md) | — |
+| 1/4 | [Elk](Compendium/bestiary/beast/elk.md) | — |
+| 1/4 | [Giant owl](Compendium/bestiary/beast/giant-owl.md) | Fly |
+| 1/4 | [Giant wolf spider](Compendium/bestiary/beast/giant-wolf-spider.md) | — |
+| 1/4 | [Panther](Compendium/bestiary/beast/panther.md) (cougar) | — |
+| 1/4 | [Wolf](Compendium/bestiary/beast/wolf.md) | — |
+| 1/2 | [Giant goat](Compendium/bestiary/beast/giant-goat.md) | — |
+| 1 | [Brown bear](Compendium/bestiary/beast/brown-bear.md) | — |
+| 1 | [Dire wolf](Compendium/bestiary/beast/dire-wolf.md) | — |
+| 1 | [Giant eagle](Compendium/bestiary/beast/giant-eagle.md) | Fly |
+| 1 | [Giant hyena](Compendium/bestiary/beast/giant-hyena.md) | — |
+| 1 | [Lion](Compendium/bestiary/beast/lion.md) | — |
+| 2 | [Giant boar](Compendium/bestiary/beast/giant-boar.md) | — |
+| 2 | [Giant elk](Compendium/bestiary/beast/giant-elk.md) | — |
 ^hill
 
 **Mountain**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/eagle.md) | Fly |
-| 0 | [Goat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/goat.md) | — |
-| 1/8 | [Blood hawk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Stirge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Pteranodon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/pteranodon.md) | Fly |
-| 1/2 | [Giant goat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-goat.md) | — |
-| 1 | [Giant eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-eagle.md) | Fly |
-| 1 | [Lion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/lion.md) | — |
-| 2 | [Giant elk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-elk.md) | — |
-| 2 | [Saber-toothed tiger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/saber-toothed-tiger.md) | — |
+| 0 | [Eagle](Compendium/bestiary/beast/eagle.md) | Fly |
+| 0 | [Goat](Compendium/bestiary/beast/goat.md) | — |
+| 1/8 | [Blood hawk](Compendium/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Stirge](Compendium/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Pteranodon](Compendium/bestiary/beast/pteranodon.md) | Fly |
+| 1/2 | [Giant goat](Compendium/bestiary/beast/giant-goat.md) | — |
+| 1 | [Giant eagle](Compendium/bestiary/beast/giant-eagle.md) | Fly |
+| 1 | [Lion](Compendium/bestiary/beast/lion.md) | — |
+| 2 | [Giant elk](Compendium/bestiary/beast/giant-elk.md) | — |
+| 2 | [Saber-toothed tiger](Compendium/bestiary/beast/saber-toothed-tiger.md) | — |
 ^mountain
 
 **Swamp**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Rat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/rat.md) | — |
-| 0 | [Raven](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/raven.md) | Fly |
-| 1/8 | [Giant rat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-rat.md) | — |
-| 1/8 | [Poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Constrictor snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/constrictor-snake.md) | Swim |
-| 1/4 | [Giant frog](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-frog.md) | Swim |
-| 1/4 | [Giant lizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1/2 | [Crocodile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/crocodile.md) | Swim |
-| 1 | [Giant spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-spider.md) | — |
-| 1 | [Giant toad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-toad.md) | Swim |
-| 2 | [Giant constrictor snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 5 | [Giant crocodile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-crocodile.md) | Swim |
+| 0 | [Rat](Compendium/bestiary/beast/rat.md) | — |
+| 0 | [Raven](Compendium/bestiary/beast/raven.md) | Fly |
+| 1/8 | [Giant rat](Compendium/bestiary/beast/giant-rat.md) | — |
+| 1/8 | [Poisonous snake](Compendium/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](Compendium/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Constrictor snake](Compendium/bestiary/beast/constrictor-snake.md) | Swim |
+| 1/4 | [Giant frog](Compendium/bestiary/beast/giant-frog.md) | Swim |
+| 1/4 | [Giant lizard](Compendium/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant poisonous snake](Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1/2 | [Crocodile](Compendium/bestiary/beast/crocodile.md) | Swim |
+| 1 | [Giant spider](Compendium/bestiary/beast/giant-spider.md) | — |
+| 1 | [Giant toad](Compendium/bestiary/beast/giant-toad.md) | Swim |
+| 2 | [Giant constrictor snake](Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 5 | [Giant crocodile](Compendium/bestiary/beast/giant-crocodile.md) | Swim |
 ^swamp
 
 **Underdark**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Giant fire beetle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-fire-beetle.md) | — |
-| 1/8 | [Giant rat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-rat.md) | — |
-| 1/8 | [Stirge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Giant bat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-bat.md) | Fly |
-| 1/4 | [Giant centipede](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-centipede.md) | — |
-| 1/4 | [Giant lizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant poisonous snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1 | [Giant spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-spider.md) | — |
-| 1 | [Giant toad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-toad.md) | Swim |
-| 2 | [Giant constrictor snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 2 | [Polar bear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/polar-bear.md) (cave bear) | Swim |
+| 0 | [Giant fire beetle](Compendium/bestiary/beast/giant-fire-beetle.md) | — |
+| 1/8 | [Giant rat](Compendium/bestiary/beast/giant-rat.md) | — |
+| 1/8 | [Stirge](Compendium/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Giant bat](Compendium/bestiary/beast/giant-bat.md) | Fly |
+| 1/4 | [Giant centipede](Compendium/bestiary/beast/giant-centipede.md) | — |
+| 1/4 | [Giant lizard](Compendium/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant poisonous snake](Compendium/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1 | [Giant spider](Compendium/bestiary/beast/giant-spider.md) | — |
+| 1 | [Giant toad](Compendium/bestiary/beast/giant-toad.md) | Swim |
+| 2 | [Giant constrictor snake](Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 2 | [Polar bear](Compendium/bestiary/beast/polar-bear.md) (cave bear) | Swim |
 ^underdark
 
 **Underwater**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Quipper](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/quipper.md) | Swim |
-| 1/4 | [Constrictor snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/constrictor-snake.md) | Swim |
-| 1/2 | [Giant sea horse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-sea-horse.md) | Swim |
-| 1/2 | [Reef shark](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/reef-shark.md) | Swim |
-| 1 | [Giant octopus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-octopus.md) | Swim |
-| 2 | [Giant constrictor snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 2 | [Hunter shark](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/hunter-shark.md) | Swim |
-| 2 | [Plesiosaurus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/plesiosaurus.md) | Swim |
-| 3 | [Killer whale](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/killer-whale.md) | Swim |
-| 5 | [Giant shark](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-shark.md) | Swim |
+| 0 | [Quipper](Compendium/bestiary/beast/quipper.md) | Swim |
+| 1/4 | [Constrictor snake](Compendium/bestiary/beast/constrictor-snake.md) | Swim |
+| 1/2 | [Giant sea horse](Compendium/bestiary/beast/giant-sea-horse.md) | Swim |
+| 1/2 | [Reef shark](Compendium/bestiary/beast/reef-shark.md) | Swim |
+| 1 | [Giant octopus](Compendium/bestiary/beast/giant-octopus.md) | Swim |
+| 2 | [Giant constrictor snake](Compendium/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 2 | [Hunter shark](Compendium/bestiary/beast/hunter-shark.md) | Swim |
+| 2 | [Plesiosaurus](Compendium/bestiary/beast/plesiosaurus.md) | Swim |
+| 3 | [Killer whale](Compendium/bestiary/beast/killer-whale.md) | Swim |
+| 5 | [Giant shark](Compendium/bestiary/beast/giant-shark.md) | Swim |
 ^underwater
 
 ## Class Features
 
 ### Druidic (Level 1)
 
-You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check but can't decipher it without magic.
+You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom ([Perception](Rules/skills.md#Perception)) check but can't decipher it without magic.
 
 ### Spellcasting (Level 1)
 
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the druid spell list.
 
-#### Cantrips
+**Cantrips.** At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
 
-At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
-
-#### Preparing and Casting Spells
-
-The Druid table shows how many spell slots you have to cast your druid spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Preparing and Casting Spells.** The Druid table shows how many spell slots you have to cast your druid spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](Compendium/spells/cure-wounds.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-#### Spellcasting Ability
-
-Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Wisdom</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Wisdom</span>
 
-#### Ritual Casting
+**Ritual Casting.** You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
-
-#### Spellcasting Focus
-
-You can use a [druidic focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/druidic-focus.md) as a spellcasting focus for your druid spells.
+**Spellcasting Focus.** You can use a [druidic focus](Compendium/items/druidic-focus.md) as a spellcasting focus for your druid spells.
 
 ### Wild Shape (Level 2)
 
@@ -508,22 +499,22 @@ Your druid level determines the beasts you can transform into, as shown in the B
 | 8th | 1 | — | Giant eagle |
 ^beast-shapes
 
-You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious), drop to 0 hit points, or die.
+You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall [unconscious](Rules/conditions.md#Unconscious), drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
 
 - Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.  
-- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious).  
-- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as [call lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/call-lightning.md), that you've already cast.  
-- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision), unless your new form also has that sense.  
+- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked [unconscious](Rules/conditions.md#Unconscious).  
+- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your [concentration](Rules/conditions.md#Concentration) on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as [call lightning](Compendium/spells/call-lightning.md), that you've already cast.  
+- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as [darkvision](Rules/senses.md#Darkvision), unless your new form also has that sense.  
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.  
 
 ### Wild Companion (Level 2)
 _Source: Tasha's Cauldron of Everything p. 35_
 
-*2nd-level druid [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*2nd-level druid [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
-You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [find familiar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/find-familiar.md) spell, without material components.
+You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [find familiar](Compendium/spells/find-familiar.md) spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.
 
@@ -544,7 +535,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Cantrip Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 35_
 
-*4th-level druid [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*4th-level druid [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the druid spell list.
 

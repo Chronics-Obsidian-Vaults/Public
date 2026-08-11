@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/22
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Bronze Dragon
+- "Ancient Bronze Dragon"
 ---
-# [Ancient Bronze Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/ancient-bronze-dragon.md)
+# [Ancient Bronze Dragon](Compendium/bestiary/dragon/ancient-bronze-dragon.md)
 *Source: Monster Manual p. 107. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -105,15 +106,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "10"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+17"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "lightning"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "22"
@@ -136,7 +136,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ (2d8 + 9) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -164,16 +164,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
       \ action to cause one of the following effects:\n\n- The dragon creates fog\
-      \ as though it had cast the [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md)\
-      \ spell. The fog lasts until initiative count 20 on the next round.  \n- A thunderclap\
+      \ as though it had cast the [fog cloud](Compendium/spells/fog-cloud.md) spell.\
+      \ The fog lasts until initiative count 20 on the next round.  \n- A thunderclap\
       \ originates at a point the dragon can see within 120 feet of it. Each creature\
       \ within a 20-foot radius centered on that point must make a DC 15 Constitution\
-      \ saving throw or take 5 (1d10) thunder damage and be [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened)\
+      \ saving throw or take 5 (1d10) thunder damage and be [deafened](Rules/conditions.md#Deafened)\
       \ until the end of its next turn.  \n\n**Additional Lair Actions.** At your\
-      \ discretion, a legendary ([adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-bronze-dragon.md)\
-      \ or [ancient](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-bronze-dragon.md))\
-      \ bronze dragon can use one or more of the following additional lair actions\
-      \ while in its lair:\n\n- **Ocean's Call.** The dragon conjures a swarm of spectral\
+      \ discretion, a legendary ([adult](Compendium/bestiary/dragon/adult-bronze-dragon.md)\
+      \ or [ancient](Compendium/bestiary/dragon/ancient-bronze-dragon.md)) bronze\
+      \ dragon can use one or more of the following additional lair actions while\
+      \ in its lair:\n\n- **Ocean's Call.** The dragon conjures a swarm of spectral\
       \ dolphins. Each creature in the water within 120 feet of the dragon must succeed\
       \ on a DC 15 Dexterity saving throw or take 5 (1d10) slashing damage; then the\
       \ swarm vanishes.  \n- **Salt Burst.** The dragon chooses a point it can see\
@@ -183,14 +183,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ Water.** The dragon causes a strong current to course through the water in\
       \ its lair. The dragon chooses any number of creatures it can see that are standing\
       \ or swimming in water within 120 feet of it. Each chosen creature must succeed\
-      \ on a DC 15 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ on a DC 15 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
       \  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing a legendary bronze dragon's lair is warped by the\
       \ dragon's magic.\n\n- Once per day, the dragon can alter the weather in a 6-mile\
       \ radius centered on its lair. The dragon doesn't need to be outdoors; otherwise\
-      \ the effect is identical to the [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md)\
+      \ the effect is identical to the [control weather](Compendium/spells/control-weather.md)\
       \ spell.  \n- Underwater plants within 6 miles of the dragon's lair take on\
       \ dazzlingly brilliant hues.  \n- Within its lair, the dragon can set illusory\
       \ sounds, such as soft music and strange echoes, so that they can be heard in\
@@ -210,19 +210,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
       \ must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ The dragon can then fly up to half its flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). The dragon can then\
+      \ fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/ancient-bronze-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/ancient-bronze-dragon.webp"
 ```
 ^statblock
 

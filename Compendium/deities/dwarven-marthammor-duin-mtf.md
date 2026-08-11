@@ -7,8 +7,8 @@ tags:
 - source/deity/dwarven
 - source/domain/nature
 - source/domain/trickery
-aliases: 
-- Marthammor Duin
+aliases:
+- "Marthammor Duin"
 ---
 # Marthammor Duin
 *Source: Mordenkainen's Tome of Foes p. 73* 

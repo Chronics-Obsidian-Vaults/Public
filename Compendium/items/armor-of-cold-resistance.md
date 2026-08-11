@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/armor/heavy
@@ -10,7 +11,7 @@ tags:
 - source/item/rarity/rare
 - source/item/tier/major
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Cold Resistance"
 - "Breastplate of Cold Resistance"
 - "Chain Mail of Cold Resistance"
@@ -32,7 +33,7 @@ attunement: required
 ---
 # Armor of Cold Resistance
 *Major, rare (requires attunement)*  
-
+![Armor of resistance (Leather Armor), Armor of invulnerability (Plate Armor)](Compendium/items/img/armor-of-cold-resistance.webp#right)
 
 
 **Variants**:

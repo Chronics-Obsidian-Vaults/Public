@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -17,9 +18,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Meazel
+- "Meazel"
 ---
-# [Meazel](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/meazel-mpmm.md)
+# [Meazel](Compendium/bestiary/monstrosity/meazel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*  
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -46,24 +47,25 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 13"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 13"
 "languages": "Common"
 "cr": "1"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target of the meazel's\
       \ size or smaller. *Hit:* 6 (1d6 + 3) bludgeoning damage, and the target is\
-      \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 13 with disadvantage). Until the grapple ends, the target takes\
-      \ 10 (2d6 + 3) bludgeoning damage at the start of each of the meazel's turns.\
-      \ The meazel can't make weapon attacks while grappling a creature in this way."
+      \ [grappled](Rules/conditions.md#Grappled) (escape DC 13 with disadvantage).\
+      \ Until the grapple ends, the target takes 10 (2d6 + 3) bludgeoning damage at\
+      \ the start of each of the meazel's turns. The meazel can't make weapon attacks\
+      \ while grappling a creature in this way."
     "name": "Garrote"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage plus 3 (1d6) necrotic damage"
+      \ + 3) piercing damage plus 3 (1d6) necrotic damage."
     "name": "Shortsword"
   - "desc": "The meazel, any equipment it is wearing or carrying, and any creature\
       \ it is grappling teleport to an unoccupied space within 500 feet of it, provided\
@@ -71,20 +73,20 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
       \ The destination must be a place the meazel has seen before, but it need not\
       \ be within line of sight. If the destination space is occupied, the teleportation\
       \ leads to the nearest unoccupied space.\n\nAny other creature the meazel teleports\
-      \ becomes cursed for 1 hour or until the curse is ended by [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md)\
-      \ or [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md).\
-      \ Until this curse ends, every Undead and every creature native to the Shadowfell\
+      \ becomes cursed for 1 hour or until the curse is ended by [remove curse](Compendium/spells/remove-curse.md)\
+      \ or [greater restoration](Compendium/spells/greater-restoration.md). Until\
+      \ this curse ends, every Undead and every creature native to the Shadowfell\
       \ within 300 feet of the cursed creature can sense it, which prevents that creature\
       \ from hiding from them."
     "name": "Shadow Teleport (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the meazel takes the [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide)\
+  - "desc": "While in dim light or darkness, the meazel takes the [Hide](Rules/actions.md#Hide)\
       \ action."
     "name": "Shadow Stealth"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/meazel-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/meazel-mpmm.webp"
 ```
 ^statblock
 

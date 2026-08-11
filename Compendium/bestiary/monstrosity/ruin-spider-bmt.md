@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ruin Spider
+- "Ruin Spider"
 ---
-# [Ruin Spider](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/ruin-spider-bmt.md)
+# [Ruin Spider](Compendium/bestiary/monstrosity/ruin-spider-bmt.md)
 *Source: The Book of Many Things p. 182*  
 
 The potent magic of a Deck of Many Things can have unpredictable effects on its environment, especially when the deck remains in one place for a long time.
@@ -37,11 +38,10 @@ Ruin spiders arise when the magic of the deck transforms giant spiders into even
   - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+10"
 "damage_immunities": "acid"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": ""
 "cr": "5"
 "traits":
@@ -68,14 +68,14 @@ Ruin spiders arise when the magic of the deck transforms giant spiders into even
       \ -1 penalty to the AC it offers. Armor reduced to an Armor Class of 10 is destroyed."
     "name": "Ruinous Bite"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 30/60 ft., one creature. *Hit:*\
-      \ The target has the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ condition. As an action, a [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ target can make a DC 13 Strength check, bursting the webbing on a successful\
-      \ check. The webbing can also be destroyed (AC 10; 5 hit points; vulnerability\
-      \ to fire damage; immunity to acid, bludgeoning, poison, and psychic damage)."
+      \ The target has the [restrained](Rules/conditions.md#Restrained) condition.\
+      \ As an action, a [restrained](Rules/conditions.md#Restrained) target can make\
+      \ a DC 13 Strength check, bursting the webbing on a successful check. The webbing\
+      \ can also be destroyed (AC 10; 5 hit points; vulnerability to fire damage;\
+      \ immunity to acid, bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/ruin-spider-bmt.webp"
+"image": "Compendium/bestiary/monstrosity/token/ruin-spider-bmt.webp"
 ```
 ^statblock

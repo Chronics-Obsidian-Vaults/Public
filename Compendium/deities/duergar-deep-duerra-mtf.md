@@ -7,8 +7,8 @@ tags:
 - source/deity/duergar
 - source/domain/knowledge
 - source/domain/war
-aliases: 
-- Deep Duerra
+aliases:
+- "Deep Duerra"
 ---
 # Deep Duerra
 *Source: Mordenkainen's Tome of Foes p. 79* 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- The Outlands and Sigil; Gate-Towns of the Outlands
+- "The Outlands and Sigil; Gate-Towns of the Outlands"
 ---
 # The Outlands and Sigil; Gate-Towns of the Outlands
 *Source: Dungeon Master's Guide p. 67* 

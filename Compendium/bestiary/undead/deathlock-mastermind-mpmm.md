@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/8
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deathlock Mastermind
+- "Deathlock Mastermind"
 ---
-# [Deathlock Mastermind](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/deathlock-mastermind-mpmm.md)
+# [Deathlock Mastermind](Compendium/bestiary/undead/deathlock-mastermind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -45,23 +46,21 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "intelligence": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 14"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"
 "traits":
-  - "desc": "Magical darkness doesn't impede the deathlock's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the deathlock's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The deathlock has advantage on saving throws against any effect that\
       \ turns Undead."
@@ -76,26 +75,22 @@ An powerful necromancer might also discover the wicked methods of creating a dea
     "name": "Deathly Claw"
   - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:* 13\
       \ (3d8) necrotic damage. If the target is Large or smaller, it must succeed\
-      \ on a DC 16 Strength saving throw or become [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ as shadowy tendrils wrap around it for 1 minute. A [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ on a DC 16 Strength saving throw or become [restrained](Rules/conditions.md#Restrained)\
+      \ as shadowy tendrils wrap around it for 1 minute. A [restrained](Rules/conditions.md#Restrained)\
       \ target can use its action to repeat the saving throw, ending the effect on\
       \ itself on a success."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 14):\n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md)\n\
-      \n**1/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)"
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [disguise self](Compendium/spells/disguise-self.md), [mage armor](Compendium/spells/mage-armor.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md)\n\n**1/day each:** [darkness](Compendium/spells/darkness.md),\
+      \ [dimension door](Compendium/spells/dimension-door.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [fly](Compendium/spells/fly.md), [invisibility](Compendium/spells/invisibility.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/deathlock-mastermind-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/deathlock-mastermind-mpmm.webp"
 ```
 ^statblock
 

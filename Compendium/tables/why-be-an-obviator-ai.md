@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Why Be an Obviator?
+- "Why Be an Obviator?"
 ---
 # Why Be an Obviator?
 *Source: Acquisitions Incorporated p. 30* 

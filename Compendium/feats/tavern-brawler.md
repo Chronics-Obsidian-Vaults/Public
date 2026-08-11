@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Tavern Brawler
+- "Tavern Brawler"
 ---
 # Tavern Brawler
 *Source: Player's Handbook p. 170*  

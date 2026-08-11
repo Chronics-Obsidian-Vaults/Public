@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Roleplaying an Orc; Orc Flaws
+- "Roleplaying an Orc; Orc Flaws"
 ---
 # Roleplaying an Orc; Orc Flaws
 *Source: Volo's Guide to Monsters p. 87* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Needle Blight
+- "Needle Blight"
 ---
-# [Needle Blight](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/needle-blight.md)
+# [Needle Blight](Compendium/bestiary/plant/needle-blight.md)
 *Source: Monster Manual p. 32*  
 
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
@@ -60,10 +61,9 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   - !!int "8"
   - !!int "3"
 "speed": "30 ft."
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 9"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "actions":
@@ -75,7 +75,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
     "name": "Needles"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/needle-blight.webp"
+"image": "Compendium/bestiary/plant/token/needle-blight.webp"
 ```
 ^statblock
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cultist
+- "Cultist"
 ---
-# [Cultist](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/cultist.md)
-*Source: Monster Manual p. 345, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Cultist](Compendium/bestiary/humanoid/cultist.md)
+*Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
@@ -24,7 +25,7 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "12"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -37,16 +38,18 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+2"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+2"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
 "traits":
-  - "desc": "The cultist has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+  - "desc": "The cultist has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed)\
+      \ or [frightened](Rules/conditions.md#Frightened)."
     "name": "Dark Devotion"
 "actions":
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4\
@@ -54,10 +57,7 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
     "name": "Scimitar"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/cultist.webp"
+"image": "Compendium/bestiary/humanoid/token/cultist.webp"
 ```
 ^statblock
 

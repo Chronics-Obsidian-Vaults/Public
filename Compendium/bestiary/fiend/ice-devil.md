@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/14
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ice Devil
+- "Ice Devil"
 ---
-# [Ice Devil](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/ice-devil.md)
-*Source: Monster Manual p. 75, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Ice Devil](Compendium/bestiary/fiend/ice-devil.md)
+*Source: Monster Manual p. 75. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Found most commonly on the cold layers of Stygia and Cania, ice devils serve as commanders of the infernal armies of the Nine Hells, tormenting lesser devils as an outlet for their anger and resentment. Coveting the power of their pit fiend superiors, ice devils work ceaselessly toward promotion, slaughtering the enemies of the Nine Hells and claiming as many souls as they can for their archdevil masters.
 
@@ -123,7 +124,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -174,9 +175,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "fire, poison, cold"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "14"
@@ -204,10 +204,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
       \ and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.\n\
       \nWhen the wall appears, each creature in its space is pushed out of it by the\
       \ shortest route. The creature chooses which side of the wall to end up on,\
-      \ unless the creature is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
+      \ unless the creature is [incapacitated](Rules/conditions.md#Incapacitated).\
       \ The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold\
       \ damage on a failed save, or half as much damage on a successful one.\n\nThe\
-      \ wall lasts for 1 minute or until the devil is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ wall lasts for 1 minute or until the devil is [incapacitated](Rules/conditions.md#Incapacitated)\
       \ or dies. The wall can be damaged and breached; each 10-foot section has AC\
       \ 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold,\
       \ necrotic, poison, and psychic damage. If a section is destroyed, it leaves\
@@ -219,7 +219,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     "name": "Wall of Ice (Recharge 6)"
 "source":
   - "MM"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/ice-devil.webp"
+"image": "Compendium/bestiary/fiend/token/ice-devil.webp"
 ```
 ^statblock

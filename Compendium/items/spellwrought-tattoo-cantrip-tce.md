@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/rarity/common
 - source/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Spellwrought Tattoo (Cantrip)"
 item_type: wondrous
 item_subtype: tattoo

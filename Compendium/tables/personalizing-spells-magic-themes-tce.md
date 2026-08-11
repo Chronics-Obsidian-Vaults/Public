@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Personalizing Spells; Magic Themes
+- "Personalizing Spells; Magic Themes"
 ---
 # Personalizing Spells; Magic Themes
 *Source: Tasha's Cauldron of Everything p. 116* 

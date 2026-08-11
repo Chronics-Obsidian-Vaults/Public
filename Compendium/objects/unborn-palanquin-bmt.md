@@ -7,21 +7,21 @@ tags:
 - source/object/size/gargantuan
 - source/object/type/unknown
 aliases:
-- Unborn Palanquin
+- "Unborn Palanquin"
 ---
 # Unborn Palanquin
-%%-- Embedded content starts on the next line. --%%
-*Source: The Book of Many Things p. 173*  
+*Source: The Book of Many Things p. 173* 
 
-The Unborn Palanquin is a wormlike leviathan of screeching gears made up of hundreds of tireless [mezzoloths](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/mezzoloth.md). It is a unique vehicle which serves as both [Malaxxix](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/malaxxix-bmt.md)'s primary conveyance and the Fiend's lair.
+![](Compendium/objects/img/unborn-palanquin.webp#right)
 
+The Unborn Palanquin is a wormlike leviathan of screeching gears made up of hundreds of tireless [mezzoloths](Compendium/bestiary/fiend/mezzoloth.md). It is a unique vehicle which serves as both [Malaxxix](Compendium/bestiary/npc/malaxxix-bmt.md)'s primary conveyance and the Fiend's lair.
 ```ad-statblock
 title: Unborn Palanquin
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/objects/token/unborn-palanquin-bmt.webp#token)
+![](Compendium/objects/token/unborn-palanquin-bmt.webp#token)
 *Gargantuan Unknown*
 
-- **Armor Class** 20
-- **Hit Points** 250
+- **Armor Class** 20 
+- **Hit Points** 250 
 - **Speed** 50 ft., burrow 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|

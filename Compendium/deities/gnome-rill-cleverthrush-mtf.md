@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/gnome
 - source/domain/knowledge
-aliases: 
-- Rill Cleverthrush
+aliases:
+- "Rill Cleverthrush"
 ---
 # Rill Cleverthrush
 *Source: Mordenkainen's Tome of Foes p. 110* 

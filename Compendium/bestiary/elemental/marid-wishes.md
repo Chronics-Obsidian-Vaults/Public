@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/11
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Marid (Wishes)
+- "Marid (Wishes)"
 ---
-# [Marid (Wishes)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/marid-wishes.md)
-*Source: Monster Manual p. 146, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Book of Many Things*  
+# [Marid (Wishes)](Compendium/bestiary/elemental/marid-wishes.md)
+*Source: Monster Manual p. 146*  
 
 ```statblock
 "name": "Marid (Wishes)"
@@ -39,30 +40,25 @@ aliases:
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "damage_resistances": "acid, cold, lightning"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"gear":
+  - "[trident](Compendium/items/trident.md)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 13"
 "languages": "Aquan"
 "cr": "11"
 "traits":
   - "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
       \ +8 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [create or destroy water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-or-destroy-water.md),\
-      \ [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md),\
-      \ [purify food and drink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/purify-food-and-drink.md)\n\
-      \n**3/day each:** [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md),\
-      \ [water breathing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-breathing.md),\
-      \ [water walk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-walk.md)\n\
-      \n**1/day each:** [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md)\
-      \ ([water elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/water-elemental.md)\
-      \ only), [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md),\
-      \ [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\n\
-      \n**1/year each:** [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ (see Wishes)"
+      \ requiring no material components:\n\n**At will:** [create or destroy water](Compendium/spells/create-or-destroy-water.md),\
+      \ [detect evil and good](Compendium/spells/detect-evil-and-good.md), [detect\
+      \ magic](Compendium/spells/detect-magic.md), [fog cloud](Compendium/spells/fog-cloud.md),\
+      \ [purify food and drink](Compendium/spells/purify-food-and-drink.md)\n\n**3/day\
+      \ each:** [tongues](Compendium/spells/tongues.md), [water breathing](Compendium/spells/water-breathing.md),\
+      \ [water walk](Compendium/spells/water-walk.md)\n\n**1/day each:** [conjure\
+      \ elemental](Compendium/spells/conjure-elemental.md) ([water elemental](Compendium/bestiary/elemental/water-elemental.md)\
+      \ only), [control water](Compendium/spells/control-water.md), [gaseous form](Compendium/spells/gaseous-form.md),\
+      \ [invisibility](Compendium/spells/invisibility.md), [plane shift](Compendium/spells/plane-shift.md)\n\
+      \n**1/year each:** [wish](Compendium/spells/wish.md) (see Wishes)"
     "name": "Innate Spellcasting"
   - "desc": "The marid can breathe air and water."
     "name": "Amphibious"
@@ -77,11 +73,10 @@ aliases:
       \ that the same genie can expend its limit of wishes on a specific creature\
       \ only once in that creature's existence.\n\nTo be granted a wish, a creature\
       \ within 60 feet of the genie states a desired effect to it. The genie can then\
-      \ cast the [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell on the creature's behalf to bring about the effect. Depending on the\
-      \ genie's nature, the genie might try to pervert the intent of the wish by exploiting\
-      \ the wish's poor wording. The perversion of the wording is usually crafted\
-      \ to be to the genie's benefit."
+      \ cast the [wish](Compendium/spells/wish.md) spell on the creature's behalf\
+      \ to bring about the effect. Depending on the genie's nature, the genie might\
+      \ try to pervert the intent of the wish by exploiting the wish's poor wording.\
+      \ The perversion of the wording is usually crafted to be to the genie's benefit."
     "name": "Wishes"
 "actions":
   - "desc": "The marid makes two trident attacks."
@@ -93,15 +88,12 @@ aliases:
   - "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
       \ Each creature in that line must make a DC 16 Dexterity saving throw. On a\
       \ failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or\
-      \ smaller, is pushed up to 20 feet away from the marid and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ smaller, is pushed up to 20 feet away from the marid and knocked [prone](Rules/conditions.md#Prone).\
       \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
-      \ nor knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ nor knocked [prone](Rules/conditions.md#Prone)."
     "name": "Water Jet"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-  - "BMT"
 ```
 ^statblock
 

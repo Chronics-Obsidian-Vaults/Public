@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/18
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Borborygmos
+- "Borborygmos"
 ---
-# [Borborygmos](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/borborygmos-ggr.md)
+# [Borborygmos](Compendium/bestiary/npc/borborygmos-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 238*  
 
 For decades, the enormous cyclops Borborygmos has commanded the respect and obedience of the Gruul Clans by defeating all who challenged him. He embodies the raging fire that the Gruul believe burns in their bellies, and his wrath toward the civilization of Ravnica knows no bounds.
@@ -45,15 +46,16 @@ The Gruul follow strength, and Borborygmos holds his position only because he ha
   - "constitution": !!int "13"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+13"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+9"
 "damage_resistances": "poison, psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"gear":
+  - "[maul](Compendium/items/maul.md)"
 "senses": "tremorsense 60 ft., passive Perception 13"
 "languages": "Common, Giant"
 "cr": "18"
@@ -71,7 +73,7 @@ The Gruul follow strength, and Borborygmos holds his position only because he ha
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 28\
       \ (6d6 + 7) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 21 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ on a DC 21 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Maul"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 18\
       \ (2d10 + 7) bludgeoning damage."
@@ -81,8 +83,7 @@ The Gruul follow strength, and Borborygmos holds his position only because he ha
     "name": "Rock"
   - "desc": "Each creature of Borborygmos's choice that is within 60 feet of him and\
       \ can see or hear him must succeed on a DC 17 Wisdom saving throw or become\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of him for 1 minute. The [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ [frightened](Rules/conditions.md#Frightened) of him for 1 minute. The [frightened](Rules/conditions.md#Frightened)\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a creature's saving throw is successful\
       \ or the effect ends for it, the creature is immune to Borborygmos's Frightful\
@@ -96,9 +97,8 @@ The Gruul follow strength, and Borborygmos holds his position only because he ha
     "name": "Attack"
   - "desc": "Borborygmos yells menacingly at one creature he can see within 60 feet\
       \ of him. That creature must succeed on a DC 17 Wisdom saving throw or become\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of him for 1 minute. If the creature is already [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ it becomes [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ [frightened](Rules/conditions.md#Frightened) of him for 1 minute. If the creature\
+      \ is already [frightened](Rules/conditions.md#Frightened), it becomes [stunned](Rules/conditions.md#Stunned)\
       \ instead. A creature can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success. If a creature's saving throw\
       \ is successful or the effect ends for it, the creature is immune to Borborygmos's\
@@ -108,11 +108,11 @@ The Gruul follow strength, and Borborygmos holds his position only because he ha
       \ of any creature smaller than Huge. The first time Borborygmos enters a creature's\
       \ space during this move, the creature must make a DC 21 Dexterity saving throw.\
       \ If the saving throw succeeds, the creature is pushed 5 feet away from Borborygmos.\
-      \ If the saving throw fails, that creature is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
+      \ If the saving throw fails, that creature is knocked [prone](Rules/conditions.md#Prone),\
       \ and Borborygmos can make a stomp attack against it."
     "name": "Wide Berth (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/borborygmos-ggr.webp"
+"image": "Compendium/bestiary/npc/token/borborygmos-ggr.webp"
 ```
 ^statblock

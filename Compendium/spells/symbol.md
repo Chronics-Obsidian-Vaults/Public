@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -10,16 +11,16 @@ tags:
 - source/spell/level/7th-level
 - source/spell/school/abjuration
 - source/spell/subclass/arcana-domain
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Cleric (Arcana Domain)
 - Druid
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Wizard
 aliases:
-- Symbol
+- "Symbol"
 level: 7
 school: abjuration
 ritual: false
@@ -41,7 +42,7 @@ components_vsm: [V, S, M]
 
 When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
-The glyph is nearly invisible, requiring an Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check against your spell save DC to find it.
+The glyph is nearly invisible, requiring an Intelligence ([Investigation](Rules/skills.md#Investigation)) check against your spell save DC to find it.
 
 You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or stepping on the glyph, removing another object covering it, approaching within a certain distance of it, or manipulating the object that holds it. For glyphs inscribed within an object, the most common triggers are opening the object, approaching within a certain distance of it, or seeing or reading the glyph.
 
@@ -59,7 +60,7 @@ Each target must make a Constitution saving throw. On a failed save, a target bi
 
 ## Fear
 
-Each target must make a Wisdom saving throw and becomes [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) for 1 minute on a failed save. While [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
+Each target must make a Wisdom saving throw and becomes [frightened](Rules/conditions.md#Frightened) for 1 minute on a failed save. While [frightened](Rules/conditions.md#Frightened), the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ## Hopelessness
 
@@ -71,18 +72,18 @@ Each target must make an Intelligence saving throw. On a failed save, the target
 
 ## Pain
 
-Each target must make a Constitution saving throw and becomes [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) with excruciating pain for 1 minute on a failed save.
+Each target must make a Constitution saving throw and becomes [incapacitated](Rules/conditions.md#Incapacitated) with excruciating pain for 1 minute on a failed save.
 
 ## Sleep
 
-Each target must make a Wisdom saving throw and falls [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
+Each target must make a Wisdom saving throw and falls [unconscious](Rules/conditions.md#Unconscious) for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.
 
 ## Stunning
 
-Each target must make a Wisdom saving throw and becomes [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned) for 1 minute on a failed save.
+Each target must make a Wisdom saving throw and becomes [stunned](Rules/conditions.md#Stunned) for 1 minute on a failed save.
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 280. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

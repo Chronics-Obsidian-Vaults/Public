@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/dragonlance
 - source/domain/tempest
-aliases: 
-- Zeboim
+aliases:
+- "Zeboim"
 ---
 # Zeboim
 *Source: Player's Handbook p. 295* 

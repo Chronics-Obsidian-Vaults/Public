@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Ascetic Business Practices; Commercial Monasteries
+- "Ascetic Business Practices; Commercial Monasteries"
 ---
 # Ascetic Business Practices; Commercial Monasteries
 *Source: Acquisitions Incorporated p. 62* 

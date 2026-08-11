@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Rank, Status, and Title
+- "Rank, Status, and Title"
 ---
 # Rank, Status, and Title
 *Source: Volo's Guide to Monsters p. 46* 

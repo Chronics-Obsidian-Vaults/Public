@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Meenlock
+- "Meenlock"
 ---
-# [Meenlock](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/meenlock-mpmm.md)
+# [Meenlock](Compendium/bestiary/fey/meenlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170*  
 
 Meenlocks are Fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. These bipeds have the heads and claws of crustaceans, and they primarily live in forests, although they adapt well to urban and subterranean settings.
@@ -25,7 +26,7 @@ A meenlock can supernaturally sense areas of darkness and shadow in its vicinity
 
 ## Telepathic Torment
 
-Up to four meenlocks can telepathically torment one [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) condition. If the creature is susceptible and remains [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell or divine intervention can restore a transformed creature to its former state.
+Up to four meenlocks can telepathically torment one [incapacitated](Rules/conditions.md#Incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](Rules/conditions.md#Frightened) condition. If the creature is susceptible and remains [incapacitated](Rules/conditions.md#Incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](Rules/conditions.md#Incapacitated) during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](Compendium/spells/wish.md) spell or divine intervention can restore a transformed creature to its former state.
 
 ```statblock
 "name": "Meenlock (MPMM)"
@@ -46,32 +47,31 @@ Up to four meenlocks can telepathically torment one [incapacitated](/Campaigns/C
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+2"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 14"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 14"
 "languages": "telepathy 120 ft."
 "cr": "2"
 "traits":
   - "desc": "Any Beast or Humanoid that starts its turn within 10 feet of the meenlock\
-      \ must succeed on a DC 11 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ must succeed on a DC 11 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ until the start of the creature's next turn."
     "name": "Fear Aura"
   - "desc": "While in bright light, the meenlock has disadvantage on attack rolls,\
-      \ as well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that\
+      \ rely on sight."
     "name": "Light Sensitivity"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
       \ + 2) slashing damage, and the target must succeed on a DC 11 Constitution\
-      \ saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ saving throw or be [paralyzed](Rules/conditions.md#Paralyzed) for 1 minute.\
+      \ The target can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Claw"
 "bonus_actions":
   - "desc": "The meenlock teleports to an unoccupied space within 30 feet of it, provided\
@@ -81,7 +81,7 @@ Up to four meenlocks can telepathically torment one [incapacitated](/Campaigns/C
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/meenlock-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/meenlock-mpmm.webp"
 ```
 ^statblock
 

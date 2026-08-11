@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Schmoozing
+- "Downtime and Franchise Activity: Schmoozing"
 ---
 # Downtime and Franchise Activity: Schmoozing
 *Source: Acquisitions Incorporated p. 45* 
@@ -18,7 +18,7 @@ Schmoozing covers at least one workweek of interactions. Characters or staff mem
 
 ## Resolution
 
-The character or staff member engaging in schmoozing determines whether they want to establish relations with specific NPCs or with any general representative of a group. The character makes a Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) check to determine the effectiveness of their schmoozing, as noted on the Schmoozing table. A character with the obviator position gains a +1 bonus to the check. A character with a background related to those they attempt to schmooze gains a +1 bonus to the check (a criminal schmoozing other criminals, a guild artisan schmoozing a guild master, and so forth).
+The character or staff member engaging in schmoozing determines whether they want to establish relations with specific NPCs or with any general representative of a group. The character makes a Charisma ([Persuasion](Rules/skills.md#Persuasion)) check to determine the effectiveness of their schmoozing, as noted on the Schmoozing table. A character with the obviator position gains a +1 bonus to the check. A character with a background related to those they attempt to schmooze gains a +1 bonus to the check (a criminal schmoozing other criminals, a guild artisan schmoozing a guild master, and so forth).
 
 **Schmoozing**
 

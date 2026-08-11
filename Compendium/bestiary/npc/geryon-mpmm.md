@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/22
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Geryon
+- "Geryon"
 ---
-# [Geryon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/geryon-mpmm.md)
+# [Geryon](Compendium/bestiary/npc/geryon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 136, Mordenkainen's Tome of Foes p. 173*  
 
 Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
@@ -52,21 +53,18 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
   - "wisdom": !!int "10"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+13"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+13"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 20"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 20"
 "languages": "all, telepathy 120 ft."
 "cr": "22"
 "traits":
@@ -83,34 +81,30 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
   - "desc": "Geryon makes one Claw attack and one Stinger attack."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 23\
-      \ (4d6 + 9) cold damage. If the target is Large or smaller, it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (DC 24), and it is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ until the grapple ends. Geryon can grapple one creature at a time. If the\
-      \ target is already [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by Geryon, the target takes an extra 27 (6d8) cold damage."
+      \ (4d6 + 9) cold damage. If the target is Large or smaller, it is [grappled](Rules/conditions.md#Grappled)\
+      \ (DC 24), and it is [restrained](Rules/conditions.md#Restrained) until the\
+      \ grapple ends. Geryon can grapple one creature at a time. If the target is\
+      \ already [grappled](Rules/conditions.md#Grappled) by Geryon, the target takes\
+      \ an extra 27 (6d8) cold damage."
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +16 to hit, reach 20 ft., one creature. *Hit:*\
       \ 14 (2d4 + 9) force damage, and the target must succeed on a DC 21 Constitution\
-      \ saving throw or take 13 (2d12) poison damage and become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ saving throw or take 13 (2d12) poison damage and become [poisoned](Rules/conditions.md#Poisoned)\
       \ until it finishes a short or long rest. The target's hit point maximum is\
       \ reduced by an amount equal to half the poison damage taken. This reduction\
-      \ lasts until the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ condition is removed. The target dies if its hit point maximum is reduced\
-      \ to 0."
+      \ lasts until the [poisoned](Rules/conditions.md#Poisoned) condition is removed.\
+      \ The target dies if its hit point maximum is reduced to 0."
     "name": "Stinger"
   - "desc": "Geryon teleports, along with any equipment he is wearing and carrying,\
       \ up to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Geryon casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md)\
-      \ (can become Medium when changing his appearance), [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only), [locate object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md),\
-      \ [wall of ice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-ice.md)\n\
-      \n**1/day:** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md)"
+      \ will:** [alter self](Compendium/spells/alter-self.md) (can become Medium when\
+      \ changing his appearance), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [ice storm](Compendium/spells/ice-storm.md), [invisibility](Compendium/spells/invisibility.md)\
+      \ (self only), [locate object](Compendium/spells/locate-object.md), [suggestion](Compendium/spells/suggestion.md),\
+      \ [wall of ice](Compendium/spells/wall-of-ice.md)\n\n**1/day:** [banishment](Compendium/spells/banishment.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Geryon can take one\
@@ -121,7 +115,7 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
       \ side, centered on that point. Each creature in that area must succeed on a\
       \ DC 21 Constitution saving throw or take 28 (8d6) cold damage.  \n- **Hateful\
       \ Restraints.** Geryon targets one creature he can see within 60 feet of him.\
-      \ The target must succeed on a DC 21 Wisdom saving throw or become [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ The target must succeed on a DC 21 Wisdom saving throw or become [restrained](Rules/conditions.md#Restrained)\
       \ for 1 minute. The target can end the effect on itself if it deals any damage\
       \ to one or more of its allies.  "
     "name": ""
@@ -142,7 +136,7 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
   \ all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Geryon targets one creature he can see within 60 feet of him. The target\
-      \ must succeed on a DC 23 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ must succeed on a DC 23 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ of Geryon until the end of its next turn."
     "name": "Infernal Glare"
   - "desc": "Geryon uses Teleport."
@@ -152,6 +146,6 @@ Geryon has recently reclaimed his ancient fortress, Coldsteel, a sprawling compl
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/geryon-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/geryon-mpmm.webp"
 ```
 ^statblock

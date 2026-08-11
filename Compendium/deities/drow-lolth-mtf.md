@@ -7,8 +7,8 @@ tags:
 - source/deity/drow
 - source/domain/trickery
 - source/domain/war
-aliases: 
-- Lolth
+aliases:
+- "Lolth"
 ---
 # Lolth
 *Source: Mordenkainen's Tome of Foes p. 53* 

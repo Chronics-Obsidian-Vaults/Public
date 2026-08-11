@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Halfling Names – Clan
+- "Halfling Names – Clan"
 ---
 # Halfling Names – Clan
 *Source: Xanathar's Guide to Everything p. 179* 

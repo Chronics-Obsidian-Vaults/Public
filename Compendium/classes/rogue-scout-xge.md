@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/rogue/scout
 aliases:
-- Scout
+- "Scout"
 ---
 # Scout
 *[Rogue](./rogue.md): Roguish Archetype*  
@@ -43,12 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Scout (Level 3)
+![](Compendium/classes/img/rogue.webp#right)
 
 You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter—these are just a few of the roles that Scouts assume as they range the world.
+
+## Subclass Features
 
 ### Skirmisher (Level 3)
 
@@ -56,7 +55,7 @@ Starting at 3rd level, you are difficult to pin down during a fight. You can mov
 
 ### Survivalist (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency in the [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature) and [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival) skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+When you choose this archetype at 3rd level, you gain proficiency in the [Nature](Rules/skills.md#Nature) and [Survival](Rules/skills.md#Survival) skills if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
 
 ### Superior Mobility (Level 9)
 
@@ -70,4 +69,4 @@ You have advantage on initiative rolls. In addition, the first creature you hit 
 
 ### Sudden Strike (Level 17)
 
-Starting at 17th level, you can strike with deadly speed. If you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
+Starting at 17th level, you can strike with deadly speed. If you take the [Attack](Rules/actions.md#Attack) action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.

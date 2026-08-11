@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -13,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goblin Boss
+- "Goblin Boss"
 ---
-# [Goblin Boss](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/goblin-boss.md)
-*Source: Monster Manual p. 166, Tasha's Cauldron of Everything*  
+# [Goblin Boss](Compendium/bestiary/humanoid/goblin-boss.md)
+*Source: Monster Manual p. 166*  
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 
@@ -56,8 +57,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "21"
 "hit_dice": "6d6"
 "modifier": !!int "2"
@@ -70,15 +70,17 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
-  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The goblin can take the [Disengage](Rules/actions.md#Disengage) or [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action on each of its turns."
     "name": "Nimble Escape"
 "actions":
   - "desc": "The goblin makes two attacks with its scimitar. The second attack has\
@@ -97,8 +99,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
     "name": "Redirect Attack"
 "source":
   - "MM"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/goblin-boss.webp"
+"image": "Compendium/bestiary/humanoid/token/goblin-boss.webp"
 ```
 ^statblock
 

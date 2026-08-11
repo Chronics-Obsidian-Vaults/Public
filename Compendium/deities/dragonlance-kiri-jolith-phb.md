@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/dragonlance
 - source/domain/war
-aliases: 
-- Kiri-Jolith
+aliases:
+- "Kiri-Jolith"
 ---
 # Kiri-Jolith
 *Source: Player's Handbook p. 295* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow
+- "Shadow"
 ---
-# [Shadow](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/shadow.md)
-*Source: Monster Manual p. 269, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Shadow](Compendium/bestiary/undead/shadow.md)
+*Source: Monster Manual p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
 
@@ -46,30 +47,25 @@ A shadow doesn't require air, food, drink, or sleep
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The shadow can move through a space as narrow as 1 inch wide without\
       \ squeezing."
     "name": "Amorphous"
-  - "desc": "While in dim light or darkness, the shadow can take the Hide action as\
-      \ a bonus action. Its stealth bonus is also improved to +6."
+  - "desc": "While in dim light or darkness, the shadow can take the [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action. Its stealth bonus is also improved to +6."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the shadow has disadvantage on attack rolls, ability\
       \ checks, and saving throws."
@@ -79,14 +75,12 @@ A shadow doesn't require air, food, drink, or sleep
       \ (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4.\
       \ The target dies if this reduces its Strength to 0. Otherwise, the reduction\
       \ lasts until the target finishes a short or long rest.\n\nIf a non-evil humanoid\
-      \ dies from this attack, a new shadow rises from the corpse 1d4 hours later."
+      \ dies from this attack, a new [shadow](Compendium/bestiary/undead/shadow.md)\
+      \ rises from the corpse 1d4 hours later."
     "name": "Strength Drain"
 "source":
   - "MM"
-  - "MOT"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/shadow.webp"
+"image": "Compendium/bestiary/undead/token/shadow.webp"
 ```
 ^statblock
 

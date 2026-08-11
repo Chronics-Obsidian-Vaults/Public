@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Chambers; Exit Location
+- "Chambers; Exit Location"
 ---
 # Chambers; Exit Location
 *Source: Dungeon Master's Guide p. 291* 

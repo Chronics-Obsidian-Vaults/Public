@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/armor/heavy
@@ -8,7 +9,7 @@ tags:
 - source/item/attunement/required
 - source/item/rarity/uncommon
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of the Fallen"
 - "Breastplate of the Fallen"
 - "Chain Mail of the Fallen"
@@ -27,10 +28,10 @@ attunement: required
 ---
 # Armor of the Fallen
 *Uncommon (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/armor-of-the-fallen.webp#right)
+![](Compendium/items/img/armor-of-the-fallen.webp#right)
 
 
-While wearing this armor, you can use it to cast either [Speak with Dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md) or [Animate Dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md). Once the armor has cast a spell in this way, it can't cast either spell until the next dawn.
+While wearing this armor, you can use it to cast either [Speak with Dead](Compendium/spells/speak-with-dead.md) or [Animate Dead](Compendium/spells/animate-dead.md). Once the armor has cast a spell in this way, it can't cast either spell until the next dawn.
 
 Your soul keeps this armor together. If you die while you are attuned to the armor, the armor is destroyed.
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Dwarf Names – Male
+- "Dwarf Names – Male"
 ---
 # Dwarf Names – Male
 *Source: Xanathar's Guide to Everything p. 176* 

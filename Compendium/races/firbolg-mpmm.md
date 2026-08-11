@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/firbolg
 aliases:
-- Firbolg
+- "Firbolg"
 ---
 # Firbolg
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 15*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/firbolg.webp#right)
+![](Compendium/races/img/firbolg.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -20,13 +21,13 @@ aliases:
 
 ### Firbolg Magic
 
-You can cast [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md) and [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md) spells with this trait. When you use this version of [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md), you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
+You can cast [detect magic](Compendium/spells/detect-magic.md) and [disguise self](Compendium/spells/disguise-self.md) spells with this trait. When you use this version of [disguise self](Compendium/spells/disguise-self.md), you can seem up to 3 feet shorter or taller. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
 ### Hidden Step
 
-As a bonus action, you can magically turn [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a bonus action, you can magically turn [invisible](Rules/conditions.md#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Powerful Build
 

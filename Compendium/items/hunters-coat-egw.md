@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/armor/light
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Hunter's Coat"
 item_type: armor
 item_subtype: light
@@ -14,7 +15,7 @@ rarity: very-rare
 attunement: required
 ---
 # Hunter's Coat
-*Light armor ([leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)), very rare (requires attunement)*  
+*Light armor ([leather armor](Compendium/items/leather-armor.md)), very rare (requires attunement)*  
 
 
 - **Armor Class**: 11 + Dex modifier

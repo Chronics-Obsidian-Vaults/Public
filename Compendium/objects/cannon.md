@@ -7,23 +7,21 @@ tags:
 - source/object/size/large
 - source/object/type/siege-weapon
 aliases:
-- Cannon
+- "Cannon"
 ---
 # Cannon
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide p. 255*  
+*Source: Dungeon Master's Guide p. 255* 
 
 A cannon uses gunpowder to propel heavy balls of cast iron through the air at destructive speeds. In a campaign without gunpowder, a cannon might be an arcane device built by clever gnomes or wizardly engineers.
 
 A cannon is usually supported in a wooden frame with wheels. Before it can be fired, the cannon must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it.
-
 ```ad-statblock
 title: Cannon
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/objects/token/cannon.webp#token)
+![](Compendium/objects/token/cannon.webp#token)
 *Large Siege weapon*
 
-- **Armor Class** 19
-- **Hit Points** 75
+- **Armor Class** 19 
+- **Hit Points** 75 
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

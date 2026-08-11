@@ -7,8 +7,8 @@ tags:
 - source/deity/dragonlance
 - source/domain/forge
 - source/domain/knowledge
-aliases: 
-- Reorx
+aliases:
+- "Reorx"
 ---
 # Reorx
 *Source: Player's Handbook p. 295, Xanathar's Guide to Everything p. 18* 

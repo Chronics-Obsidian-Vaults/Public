@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spectator
+- "Spectator"
 ---
-# [Spectator](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/spectator.md)
+# [Spectator](Compendium/bestiary/aberration/spectator.md)
 *Source: Monster Manual p. 30. Available in the Basic Rules (2014)*  
 
 A spectator is a lesser beholder that is summoned from another plane of existence by a magical ritual, the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body.
@@ -50,11 +51,10 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
   - !!int "11"
 "speed": "0 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-"condition_immunities": "[prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"condition_immunities": "[prone](Rules/conditions.md#Prone)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "3"
 "actions":
@@ -69,15 +69,15 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
       \ melee or ranged attack against a randomly determined creature within range.\
       \ If the target can't attack, it does nothing on its turn.  \n- **2. Paralyzing\
       \ Ray.** The target must succeed on a DC 13 Constitution saving throw or be\
-      \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success.  \n- **3. Fear Ray.**\
-      \ The target must succeed on a DC 13 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, with disadvantage if the spectator is visible to the target, ending\
-      \ the effect on itself on a success.  \n- **4. Wounding Ray.** The target must\
-      \ make a DC 13 Constitution saving throw, taking 16 (3d10) necrotic damage on\
-      \ a failed save, or half as much damage on a successful one.  "
+      \ [paralyzed](Rules/conditions.md#Paralyzed) for 1 minute. The target can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success.  \n- **3. Fear Ray.** The target must succeed on a DC 13 Wisdom\
+      \ saving throw or be [frightened](Rules/conditions.md#Frightened) for 1 minute.\
+      \ The target can repeat the saving throw at the end of each of its turns, with\
+      \ disadvantage if the spectator is visible to the target, ending the effect\
+      \ on itself on a success.  \n- **4. Wounding Ray.** The target must make a DC\
+      \ 13 Constitution saving throw, taking 16 (3d10) necrotic damage on a failed\
+      \ save, or half as much damage on a successful one.  "
     "name": "Eye Rays"
   - "desc": "The spectator magically creates enough food and water to sustain itself\
       \ for 24 hours."
@@ -92,7 +92,7 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
     "name": "Spell Reflection"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/spectator.webp"
+"image": "Compendium/bestiary/aberration/token/spectator.webp"
 ```
 ^statblock
 

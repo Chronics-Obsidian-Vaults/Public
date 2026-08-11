@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/xge
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hound of Ill Omen
+- "Hound of Ill Omen"
 ---
-# [Hound of Ill Omen](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/hound-of-ill-omen-xge.md)
+# [Hound of Ill Omen](Compendium/bestiary/monstrosity/hound-of-ill-omen-xge.md)
 *Source: Xanathar's Guide to Everything p. 50*  
 
 ```statblock
@@ -33,20 +34,20 @@ aliases:
   - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The hound has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The hound has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The hound has advantage on an attack roll against a creature if at least\
       \ one of the hound's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The hound appears with a number of temporary hit points equal to half\
       \ your sorcerer level."
@@ -68,10 +69,10 @@ aliases:
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ a DC 13 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
 "source":
   - "XGE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp"
+"image": "Compendium/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp"
 ```
 ^statblock

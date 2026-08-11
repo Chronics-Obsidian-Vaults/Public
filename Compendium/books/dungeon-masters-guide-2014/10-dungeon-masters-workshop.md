@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon Master's Workshop
+- "Dungeon Master's Workshop"
 ---
 # Dungeon Master's Workshop
 *Source: Dungeon Master's Guide (2014), p. 263* 
@@ -23,6 +23,8 @@ If you're confident that the answer to both questions is yes, then you have noth
 
 Beware of adding anything to your game that allows a character to concentrate on more than one effect at a time, use more than one reaction or bonus action per round, or attune to more than three magic items at a time. Rules and game elements that override the rules for concentration, reactions, bonus actions, and magic item attunement can seriously unbalance or overcomplicate your game.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/9-1.webp#center)
+
 ## Ability Options
 
 The optional rules in this section pertain to using ability scores.
@@ -35,7 +37,7 @@ Whenever a feature, such as the rogue's Expertise, lets a character double his o
 
 This option is intended for player characters and nonplayer characters who have levels, as opposed to monsters who don't.
 
-![Proficiency Dice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/proficiency-dice.md)
+![Proficiency Dice](Compendium/tables/proficiency-dice.md)
 
 ### Skill Variants
 
@@ -47,7 +49,7 @@ You can dispense with skills and use one of the following variants. Choose which
 
 With this variant rule, characters don't have skill proficiencies. Instead, each character has proficiency in two abilities: one tied to the character's class and one tied to the character's background. The Ability Proficiencies by Class table suggests a proficiency for each class, and you choose which ability is tied to a given background. Starting at 1st level, a character adds his or her proficiency bonus to any ability check tied to one or the other of these two abilities.
 
-![Ability Check Proficiency by Class](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/ability-check-proficiency-by-class.md)
+![Ability Check Proficiency by Class](Compendium/tables/ability-check-proficiency-by-class.md)
 
 The Expertise feature works differently than normal under this rule. At 1st level, instead of choosing two skill proficiencies, a character with the Expertise class feature chooses one of the abilities in which he or she has proficiency. Selecting an ability counts as two of the character's Expertise choices. If the character would gain an additional skill proficiency, that character instead selects another ability check in which to gain proficiency.
 
@@ -99,6 +101,8 @@ Here's how to incorporate these optional abilities at character creation:
 
 If you ever need to make a check or saving throw for Honor or Sanity for a monster that lacks the score, you can use Charisma for Honor and Wisdom for Sanity.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/9-2.webp#center)
+
 #### Honor Score
 
 If your campaign involves cultures where a rigid code of honor is part of daily life, consider using the Honor score as a means of measuring a character's devotion to that code. This ability fits well in a setting inspired by Asian cultures, such as Kara-Tur in the Forgotten Realms. The Honor ability is also useful in any campaign that revolves around orders of knights.
@@ -125,9 +129,11 @@ An Honor saving throw comes into play when you want to determine whether a chara
 - Resisting the urge to respond to goading or insults from an enemy  
 - Recognizing when an enemy attempts to trick a character into a breach of honor  
 
+![](Compendium/books/dungeon-masters-guide-2014/img/9-3.webp#center)
+
 #### Sanity Score
 
-Consider using the [Sanity score](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/new-ability-scores-honor-and-sanity.md) if your campaign revolves around entities of an utterly alien and unspeakable nature, such as Great Cthulhu, whose powers and minions can shatter a character's mind.
+Consider using the [Sanity score](Rules/variant-rules/new-ability-scores-honor-and-sanity.md) if your campaign revolves around entities of an utterly alien and unspeakable nature, such as Great Cthulhu, whose powers and minions can shatter a character's mind.
 
 A character with a high Sanity is level-headed even in the face of insane circumstances, while a character with low Sanity is unsteady, breaking easily when confronted by eldritch horrors that are beyond normal reason.
 
@@ -161,7 +167,7 @@ The rules for fear and horror can help you sustain an atmosphere of dread in a d
 
 #### Fear
 
-When adventurers confront threats they have no hope of overcoming, you can call for them to make a Wisdom saving throw. Set the DC according to the circumstances. A character who fails the save becomes [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) for 1 minute. The character can repeat the saving throw at the end of each of his or her turns, ending the effect on the character on a successful save.
+When adventurers confront threats they have no hope of overcoming, you can call for them to make a Wisdom saving throw. Set the DC according to the circumstances. A character who fails the save becomes [frightened](Rules/conditions.md#Frightened) for 1 minute. The character can repeat the saving throw at the end of each of his or her turns, ending the effect on the character on a successful save.
 
 #### Horror
 
@@ -183,7 +189,7 @@ This optional rule allows characters to heal up in the thick of combat and works
 
 As an action, a character can use a healing surge and spend up to half his or her Hit Dice. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll.
 
-A character who uses a healing surge can't do so again until he or she finishes a short or long rest. Under this optional rule, a character regains all spent Hit Dice at the end of a long rest. With a short rest, a character regains Hit Dice equal to his or her level divided by four (minimum of one dice).
+A character who uses a healing surge can't do so again until he or she finishes a short or long rest. Under this optional rule, a character regains all spent Hit Dice at the end of a long rest. With a short rest, a character regains Hit Dice equal to his or her level divided by four (minimum of one die).
 
 For a more super-heroic feel, you can let a character use a healing surge as a bonus action, rather than as an action.
 
@@ -263,7 +269,7 @@ Each creature within 20 feet of an exploding fragmentation grenade must make a D
 
 One round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
 
-![Explosives](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/explosives.md)
+![Explosives](Compendium/tables/explosives.md)
 
 ### Alien Technology
 
@@ -273,7 +279,7 @@ To determine how the technology works, a character must succeed on a number of I
 
 A character who has seen an item used or has operated a similar item has advantage on Intelligence checks made to figure out its use.
 
-![Figuring Out Alien Technology](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/figuring-out-alien-technology.md)
+![Figuring Out Alien Technology](Compendium/tables/figuring-out-alien-technology.md)
 
 ### Firearms
 
@@ -312,6 +318,8 @@ A character who has seen an item used or has operated a similar item has advanta
 
 ### Plot Points
 
+![](Compendium/books/dungeon-masters-guide-2014/img/9-4.webp#center)
+
 Plot points allow players to change the course of the campaign, introduce plot complications, alter the world, and even assume the role of the DM. If your first reaction to reading this optional rule is to worry that your players might abuse it, it's probably not for you.
 
 #### Using Plot Points
@@ -348,6 +356,8 @@ The options in this section provide alternative ways to handle combat. The main 
 
 ### Initiative Variants
 
+![](Compendium/books/dungeon-masters-guide-2014/img/9-5.webp#center)
+
 This section offers different ways to handle initiative.
 
 #### Initiative Score
@@ -378,7 +388,7 @@ Speed factor is an option for initiative that introduces more uncertainty into c
 
 Modifiers might apply to a creature's initiative depending on its size and the action it takes. For example, a creature that fights with a light weapon or casts a simple spell is more likely to act before a creature armed with a heavy or slow weapon. See the Speed Factor Initiative Modifiers table for details. If an action has no modifier listed, the action has no effect on initiative. If more than one modifier applies such as wielding a two-handed, heavy melee weapon, apply them all to the initiative roll.
 
-![Speed Factor Initiative Modifiers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/speed-factor-initiative-modifiers.md)
+![Speed Factor Initiative Modifiers](Compendium/tables/speed-factor-initiative-modifiers.md)
 
 Don't apply the same modifier more than once on a creature's turn. For example, a rogue fighting with two daggers gains the +2 bonus for using a light or finesse weapon only once. In the case of spellcasting, apply only the modifier from the highest-level spell.
 
@@ -402,12 +412,12 @@ Once everyone has acted, the process repeats. Everyone in the battle selects an 
 
 This section provides new action options for combat. They can be added as a group or individually to your game.
 
-- [Climb onto a Bigger Creature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Climb%20onto%20a%20Bigger%20Creature)  
-- [Disarm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disarm)  
-- [Mark](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Mark)  
-- [Overrun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Overrun)  
-- [Shove Aside](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Shove%20Aside)  
-- [Tumble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Tumble)  
+- [Climb onto a Bigger Creature](Rules/actions.md#Climb%20onto%20a%20Bigger%20Creature)  
+- [Disarm](Rules/actions.md#Disarm)  
+- [Mark](Rules/actions.md#Mark)  
+- [Overrun](Rules/actions.md#Overrun)  
+- [Shove Aside](Rules/actions.md#Shove%20Aside)  
+- [Tumble](Rules/actions.md#Tumble)  
 
 ### Hitting Cover
 
@@ -433,7 +443,7 @@ It's up to you to decide when to check for a lingering injury. A creature might 
 
 To determine the nature of the injury, roll on the Lingering Injuries table. This table assumes a typical humanoid physiology, but you can adapt the results for creatures with different body types.
 
-![Lingering Injuries](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/lingering-injuries.md)
+![Lingering Injuries](Compendium/tables/lingering-injuries.md)
 
 Instead of using the effect described in the table, you can put the responsibility of representing a character's lingering injury in the hands of the player. Roll on the Lingering Injuries table as usual, but instead of suffering the effect described for that result, that character gains a new flaw with the same name. It's up to the player to express the lingering injury during play, just like any other flaw, with the potential to gain inspiration when the injury affects the character in a meaningful way.
 
@@ -443,7 +453,7 @@ This optional rule makes it easier for a creature to be felled by massive damage
 
 When a creature takes damage from a single source equal to or greater than half its hit point maximum, it must succeed on a DC 15 Constitution saving throw or suffer a random effect determined by a roll on the System Shock table. For example, a creature that has a hit point maximum of 30 must make that Constitution save if it takes 15 damage or more from a single source.
 
-![Massive Damage; System Shock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/massive-damage-system-shock.md)
+![Massive Damage; System Shock](Compendium/tables/massive-damage-system-shock.md)
 
 ### Morale
 
@@ -451,14 +461,14 @@ Some combatants might run away when a fight turns against them. You can use this
 
 A creature might flee under any of the following circumstances:
 
-- The creature is [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised).  
+- The creature is [surprised](Rules/conditions.md#Surprised).  
 - The creature is reduced to half its hit points or fewer for the first time in the battle.  
 - The creature has no way to harm the opposing side on its turn.  
 
 A group of creatures might flee under any of the following circumstances:
 
-- All the creatures in the group are [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised).  
-- The group's leader is reduced to 0 hit points, [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), taken prisoner, or removed from battle.  
+- All the creatures in the group are [surprised](Rules/conditions.md#Surprised).  
+- The group's leader is reduced to 0 hit points, [incapacitated](Rules/conditions.md#Incapacitated), taken prisoner, or removed from battle.  
 - The group is reduced to half its original size with no losses on the opposing side.  
 
 To determine whether a creature or group of creatures flees, make a DC 10 Wisdom saving throw for the creature or the group's leader. If the opposition is overwhelming, the saving throw is made with disadvantage, or you can decide that the save fails automatically. If a group's leader can't make the saving throw for whatever reason, have the creature in the group with the next highest Charisma score make the saving throw instead.
@@ -495,7 +505,7 @@ Another simple way to customize a monster is to add a special trait. You can add
 
 If all you need are simple stats for a monster of a particular challenge rating, follow the steps here. If you want to create something more akin to the monster stat blocks in the Monster Manual, skip ahead to the "Creating a Monster Stat Block" section.
 
-![Creating Quick Monster Stats; Monster Statistics by Challenge Rating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-quick-monster-stats-monster-statistics-by-challenge-rating.md)
+![Creating Quick Monster Stats; Monster Statistics by Challenge Rating](Compendium/tables/creating-quick-monster-stats-monster-statistics-by-challenge-rating.md)
 
 #### Step 1. Expected Challenge Rating
 
@@ -543,9 +553,11 @@ With the final challenge rating, you can determine the monster's proficiency bon
 
 Creating a monster isn't just a number-crunching exercise. The guidelines in this chapter can help you create monsters, but the only way to know whether a monster is fun is to playtest it. After seeing your monster in action, you might want to adjust the challenge rating up or down based on your experiences.
 
-![Final Challenge Rating; Experience Points by Challenge Rating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/final-challenge-rating-experience-points-by-challenge-rating.md)
+![Final Challenge Rating; Experience Points by Challenge Rating](Compendium/tables/final-challenge-rating-experience-points-by-challenge-rating.md)
 
 ### Creating a Monster Stat Block
+
+![](Compendium/books/dungeon-masters-guide-2014/img/9-6.webp#center)
 
 If you want a full monster stat block, use the following method to create your new monster.
 
@@ -617,7 +629,7 @@ A monster can have as many Hit Dice as you want, but the size of the die used to
 
 A monster typically has average hit points based on its Hit Dice. For example, a creature with `5d8 + 5` hit points has an average of 27 hit points (5 × 4.5 + 5).
 
-![Assign Hit Dice; Hit Dice by Size](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/assign-hit-dice-hit-dice-by-size.md)
+![Assign Hit Dice; Hit Dice by Size](Compendium/tables/assign-hit-dice-hit-dice-by-size.md)
 
 #### Step 9. Damage Vulnerabilities, Resistances, and Immunities
 
@@ -633,7 +645,7 @@ For example, a monster with an expected challenge rating of 6, 150 hit points, a
 
 Monsters don't normally have vulnerability to more than one or two types of damage. Vulnerabilities don't significantly affect a monster's challenge rating, unless a monster has vulnerabilities to multiple damage types that are prevalent, especially bludgeoning, piercing, and slashing. For such a strange monster, reduce its effective hit points by half. Or even better, eliminate the vulnerabilities and give the brittle monster fewer hit points.
 
-![Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/damage-vulnerabilities-resistances-and-immunities-effective-hit-points-based-on-resistances-and-immunities.md)
+![Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities](Compendium/tables/damage-vulnerabilities-resistances-and-immunities-effective-hit-points-based-on-resistances-and-immunities.md)
 
 #### Step 10. Attack Bonuses
 
@@ -715,6 +727,8 @@ For example, if the effect is a poison, the relevant ability is probably the mon
 
 Don't worry if the save DCs aren't matching up with the expected challenge rating for the monster. Other factors can affect a monster's challenge rating, as shown in later steps, and you can always adjust the save DCs later on.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/9-7.webp#center)
+
 #### Step 13. Special Traits, Actions, and Reactions
 
 Some special traits (such as Magic Resistance), special actions (such as Superior Invisibility), and special reactions (such as Parry) can improve a monster's combat effectiveness and potentially increase its challenge rating.
@@ -751,9 +765,9 @@ At this point, you have all the statistical information you need to calculate th
 
 #### Step 17. Skill Bonuses
 
-If you want a monster to be proficient in a skill, you can give it a bonus equal to its proficiency bonus on ability checks related to that skill. For example, a monster with sharp senses might have a bonus on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks, while a duplicitous monster might have a bonus on Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)) checks.
+If you want a monster to be proficient in a skill, you can give it a bonus equal to its proficiency bonus on ability checks related to that skill. For example, a monster with sharp senses might have a bonus on Wisdom ([Perception](Rules/skills.md#Perception)) checks, while a duplicitous monster might have a bonus on Charisma ([Deception](Rules/skills.md#Deception)) checks.
 
-You can double the proficiency bonus to account for heightened mastery. For example, a doppelganger is so good at deceiving others that its bonus on Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)) checks is equal to double its proficiency bonus + its Charisma modifier.
+You can double the proficiency bonus to account for heightened mastery. For example, a doppelganger is so good at deceiving others that its bonus on Charisma ([Deception](Rules/skills.md#Deception)) checks is equal to double its proficiency bonus + its Charisma modifier.
 
 Skill bonuses have no bearing on a monster's challenge rating.
 
@@ -769,7 +783,7 @@ A monster might have one or more of the following special senses, which are desc
 
 ##### Passive Perception Score
 
-All monsters have a passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) score, which is most often used to determine whether a monster detects approaching or hidden enemies. A monster's passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) score is 10 + its Wisdom modifier. If the monster has proficiency in the Perception skill, its score is 10 + its Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) bonus.
+All monsters have a passive Wisdom ([Perception](Rules/skills.md#Perception)) score, which is most often used to determine whether a monster detects approaching or hidden enemies. A monster's passive Wisdom ([Perception](Rules/skills.md#Perception)) score is 10 + its Wisdom modifier. If the monster has proficiency in the Perception skill, its score is 10 + its Wisdom ([Perception](Rules/skills.md#Perception)) bonus.
 
 #### Step 20. Languages
 
@@ -781,7 +795,7 @@ A monster can master as many spoken languages as you want, although few monsters
 
 Whether or not a monster has telepathy has no bearing on its challenge rating. For more information on telepathy, see the Monster Manual.
 
-![Creating a Monster Stat Block; Monster Features](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-a-monster-stat-block-monster-features.md)
+![Creating a Monster Stat Block; Monster Features](Compendium/tables/creating-a-monster-stat-block-monster-features.md)
 
 ### NPC Stat Blocks
 
@@ -802,7 +816,7 @@ The NPC Features table summarizes the ability modifiers and features of various 
 
 If the monster you want to use isn't listed on the table, use the process described below under "Monsters with Classes."
 
-![Creating NPCs from Scratch; NPC Features](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-npcs-from-scratch-npc-features.md)
+![Creating NPCs from Scratch; NPC Features](Compendium/tables/creating-npcs-from-scratch-npc-features.md)
 
 ### Monsters with Classes
 
@@ -820,6 +834,8 @@ Depending on the monster and the number of class levels you add to it, its chall
 
 ## Creating a Spell
 
+![](Compendium/books/dungeon-masters-guide-2014/img/9-8.webp#center)
+
 When creating a new spell, use existing spells as guidelines. Here are some things to consider:
 
 - If a spell is so good that a caster would want to use it all the time, it might be too powerful for its level.  
@@ -833,7 +849,7 @@ For any spell that deals damage, use the Spell Damage table to determine approxi
 
 You can use different damage dice than the ones in the table, provided that the average result is about the same. Doing so can add a little variety to the spell. For example, you could change a cantrip's damage from `1d10` (average 5.5) to `2d4` (average 5), reducing the maximum damage and making an average result more likely.
 
-![Spell Damage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/spell-damage.md)
+![Spell Damage](Compendium/tables/spell-damage.md)
 
 ### Healing Spells
 
@@ -842,6 +858,8 @@ You can also use the Spell Damage table to determine how many hit points a heali
 ## Creating a Magic Item
 
 ### Creating a Magic Item
+
+![](Compendium/books/dungeon-masters-guide-2014/img/9-9.webp#center)
 
 The magic items in chapter 7, "Treasure," are but a few of the magic treasures that characters can discover during their adventures. If your players are seasoned veterans and you want to surprise them, you can either modify an existing item or come up with something new.
 
@@ -867,7 +885,7 @@ If you make an item that lets a character kill whatever he or she hits with it, 
 
 Use the Magic Item Power by Rarity table as a guide to help you determine how powerful an item should be, based on its rarity.
 
-![Power Level; Magic Item Power by Rarity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/power-level-magic-item-power-by-rarity.md)
+![Power Level; Magic Item Power by Rarity](Compendium/tables/power-level-magic-item-power-by-rarity.md)
 
 ###### Maximum Spell Level
 
@@ -911,6 +929,8 @@ A simple way to modify an existing race is to change its appearance. Changes to 
 
 #### Creating a New Subrace
 
+![](Compendium/books/dungeon-masters-guide-2014/img/9-10.webp#center)
+
 Creating a new subrace is more involved than making some minor tweaks to existing racial features, but it does have the advantage of increasing the diversity of options for a particular race, rather than replacing some options with other ones.
 
 The following example walks through the creation of an elf subrace: the eladrin. This subrace has history in the D&D multiverse, so you already have some stories to draw on when building its traits.
@@ -921,7 +941,7 @@ Creatures of magic with strong ties to nature, eladrin live in the twilight real
 
 The elf subraces in the Player's Handbook include an ability score increase, a weapon training feature, and two or three additional traits. Given the story of the eladrin and their magical nature, an increase to an eladrin character's Intelligence is appropriate. There's no need to alter the basic weapon training shared by high elves and wood elves.
 
-An ability that sets the eladrin apart from other elves is their ability to step through the boundary between the planes, disappearing for a moment before reappearing somewhere else. In the game, this is reflected in a limited use of the misty step spell. Since misty step is a 2nd-level spell, this ability is potent enough that the subrace doesn't need additional traits. This leaves us with the following [features for the eladrin subrace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/elf-eladrin-dmg.md).
+An ability that sets the eladrin apart from other elves is their ability to step through the boundary between the planes, disappearing for a moment before reappearing somewhere else. In the game, this is reflected in a limited use of the misty step spell. Since misty step is a 2nd-level spell, this ability is potent enough that the subrace doesn't need additional traits. This leaves us with the following [features for the eladrin subrace](Compendium/races/elf-eladrin-dmg.md).
 
 #### Creating a New Race
 
@@ -944,7 +964,7 @@ Like tieflings, aasimar have darkvision. Instead of resistance to fire damage, w
 
 The tiefling's Infernal Legacy trait is a good model for a similar trait to reflect a magical, celestial heritage, replacing the tiefling's spells with spells of similar levels that more closely match the aasimar's celestial ancestry. However, the aasimar's expanded resistance might require limiting this trait to basic utility spells.
 
-Filling in the remaining details, we end up with the following [racial traits for the aasimar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/aasimar-dmg.md).
+Filling in the remaining details, we end up with the following [racial traits for the aasimar](Compendium/races/aasimar-dmg.md).
 
 ### Modifying a Class
 
@@ -963,6 +983,8 @@ You can also change armor and weapon proficiencies to reflect certain aspects of
 Modifying a class's spell list usually has little effect on a character's power but can change the flavor of a class significantly. In your world, paladins might not swear their oaths to ideals, but instead swear fealty to powerful sorcerers. To capture this story concept, you could build a new paladin spell list with spells meant to protect their masters, drawn from the sorcerer or wizard lists. Suddenly, the paladin feels like a different class.
 
 Be cautious when changing the warlock spell list. Since warlocks regain their spell slots after a short rest, they have the potential to use certain spells more times in a day than other classes do.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/9-11.webp#center)
 
 #### Restricting Class Access
 
@@ -1011,13 +1033,13 @@ Spells of 6th level and higher are particularly taxing to cast. You can use spel
 
 The number of spell points you have to spend is based on your level as a spellcaster, as shown in the Spell Points by Level table. Your level also determines the maximum-level spell slot you can create. Even though you might have enough points to create a slot above this maximum, you can't do so.
 
-The Spell Points by Level table applies to [bards](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/bard.md), [clerics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/cleric.md), [druids](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/druid.md), [sorcerers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/sorcerer.md), and [wizards](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/wizard.md). For a [paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/paladin.md) or [ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/ranger.md), halve the character's level in that class and then consult the table. For a [fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/fighter.md) or [rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/rogue.md), divide the character's level in that class by three.
+The Spell Points by Level table applies to [bards](Compendium/classes/bard.md), [clerics](Compendium/classes/cleric.md), [druids](Compendium/classes/druid.md), [sorcerers](Compendium/classes/sorcerer.md), and [wizards](Compendium/classes/wizard.md). For a [paladin](Compendium/classes/paladin.md) or [ranger](Compendium/classes/ranger.md), halve the character's level in that class and then consult the table. For a [fighter (Eldritch Knight)](Compendium/classes/fighter.md) or [rogue (Arcane Trickster)](Compendium/classes/rogue.md), divide the character's level in that class by three.
 
 This system can be applied to monsters that cast spells using spell slots, but it isn't recommended that you do so. Tracking spell point expenditures for a monster can be a hassle.
 
-![Variant: Spell Points; Spell Point Cost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/variant-spell-points-spell-point-cost.md)
+![Variant: Spell Points; Spell Point Cost](Compendium/tables/variant-spell-points-spell-point-cost.md)
 
-![Variant: Spell Points; Spell Points by Level](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/variant-spell-points-spell-points-by-level.md)
+![Variant: Spell Points; Spell Points by Level](Compendium/tables/variant-spell-points-spell-points-by-level.md)
 
 ### Creating a Background
 
@@ -1046,6 +1068,8 @@ Choose two skill proficiencies and two tool proficiencies for the background. Yo
 Make sure your background offers a package of starting equipment. In addition to a small amount of money that a character can use to buy adventuring gear, the starting equipment should include items that a character would have acquired prior to becoming an adventurer, as well as one or two items unique to the background.
 
 For example, starting equipment for a character with the acolyte of Candlekeep background might include a set of traveler's clothes, a scholar's robe, five candles, a tinderbox, an empty scroll case engraved with the symbol of Candlekeep, and a belt pouch containing 10 gp. The scroll case might be a gift given to an acolyte of Candlekeep who embarks on a life of adventure. At your discretion, it might also contain a useful map.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/9-12.webp#center)
 
 #### Step 5. Settle on a Background Feature
 

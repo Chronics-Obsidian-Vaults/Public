@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/12
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant Everlasting One
+- "Frost Giant Everlasting One"
 ---
-# [Frost Giant Everlasting One](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/frost-giant-everlasting-one-mpmm.md)
+# [Frost Giant Everlasting One](Compendium/bestiary/giant/frost-giant-everlasting-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
@@ -44,24 +45,23 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
   - "constitution": !!int "11"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+11"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "damage_immunities": "cold"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Giant"
 "cr": "12"
 "traits":
   - "desc": "The giant has a 25 percent chance of having more than one head. If it\
-      \ has more than one, it has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks and on saving throws against being [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-      \ or knocked [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)."
+      \ has more than one, it has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
+      \ checks and on saving throws against being [blinded](Rules/conditions.md#Blinded),\
+      \ [charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened),\
+      \ [frightened](Rules/conditions.md#Frightened), [stunned](Rules/conditions.md#Stunned),\
+      \ or knocked [unconscious](Rules/conditions.md#Unconscious)."
     "name": "Extra Heads"
   - "desc": "The giant regains 10 hit points at the start of its turn. If the giant\
       \ takes acid or fire damage, this trait doesn't function at the start of its\
@@ -79,16 +79,16 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
     "name": "Rock"
 "bonus_actions":
   - "desc": "The giant enters a rage. The rage lasts for 1 minute or until the giant\
-      \ is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
-      \ While raging, the giant gains the following benefits:\n\n- The giant has advantage\
-      \ on Strength checks and Strength saving throws.  \n- When it makes a melee\
-      \ weapon attack, the giant gains a +4 bonus to the damage roll.  \n- The giant\
-      \ has resistance to bludgeoning, piercing, and slashing damage.  "
+      \ is [incapacitated](Rules/conditions.md#Incapacitated). While raging, the giant\
+      \ gains the following benefits:\n\n- The giant has advantage on Strength checks\
+      \ and Strength saving throws.  \n- When it makes a melee weapon attack, the\
+      \ giant gains a +4 bonus to the damage roll.  \n- The giant has resistance to\
+      \ bludgeoning, piercing, and slashing damage.  "
     "name": "Vaprak's Rage (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/frost-giant-everlasting-one-mpmm.webp"
+"image": "Compendium/bestiary/giant/token/frost-giant-everlasting-one-mpmm.webp"
 ```
 ^statblock
 

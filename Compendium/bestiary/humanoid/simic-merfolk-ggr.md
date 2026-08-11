@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Simic Merfolk
+- "Simic Merfolk"
 ---
-# [Simic Merfolk](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/simic-merfolk-ggr.md)
+# [Simic Merfolk](Compendium/bestiary/humanoid/simic-merfolk-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 187*  
 
 ```statblock
@@ -33,8 +34,10 @@ aliases:
   - !!int "12"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Merfolk"
 "cr": "1/8"
@@ -48,6 +51,6 @@ aliases:
     "name": "Spear"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/simic-merfolk-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/simic-merfolk-ggr.webp"
 ```
 ^statblock

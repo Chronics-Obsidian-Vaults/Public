@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/armor/heavy
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Chain Mail"
 item_type: armor
 item_subtype: heavy

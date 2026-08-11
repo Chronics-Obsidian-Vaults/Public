@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Fiendish Cults; Cult Hardship
+- "Fiendish Cults; Cult Hardship"
 ---
 # Fiendish Cults; Cult Hardship
 *Source: Mordenkainen's Tome of Foes p. 34* 

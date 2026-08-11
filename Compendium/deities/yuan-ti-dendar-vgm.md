@@ -5,8 +5,8 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 - source/deity/yuan-ti
-aliases: 
-- Dendar
+aliases:
+- "Dendar"
 ---
 # Dendar
 *Source: Volo's Guide to Monsters p. 93* 

@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/wizard
 - source/spell/feat/magic-initiate/wizard-spells
+- source/spell/feat/mark-of-making
 - source/spell/feat/ritual-caster/wizard-spells
 - source/spell/level/1st-level
 - source/spell/optfeature/book-of-ancient-secrets
@@ -13,7 +15,6 @@ tags:
 - source/spell/school/conjuration
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/eldritch-knight
-- source/spell/subrace/human-mark-of-making
 - source/spell/subrace/tiefling-mammon
 classes:
 - Bard (Magical Secrets)
@@ -21,7 +22,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases:
-- Tenser's Floating Disk
+- "Tenser's Floating Disk"
 level: 1
 ritual: true
 school: conjuration
@@ -47,6 +48,6 @@ The disk is immobile while you are within 20 feet of it. If you move more than 2
 
 If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Floating Disk")*

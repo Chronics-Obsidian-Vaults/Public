@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Explore Territory
+- "Downtime and Franchise Activity: Explore Territory"
 ---
 # Downtime and Franchise Activity: Explore Territory
 *Source: Acquisitions Incorporated p. 37* 
@@ -18,7 +18,7 @@ Exploring a portion of a licensed territory requires at least one workweek of ef
 
 ## Resolution
 
-A character or staff member directing the expedition makes a Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) check to determine the outcome. This check gains a +2 bonus if a character with the cartographer or occultant position is part of the expedition, a +1 bonus for each workweek beyond the first that is spent exploring, and a +1 bonus for every additional 200 gp spent over the baseline expenses. A maximum bonus of +10 can be applied to this check. The total of the check determines the outcome, as shown on the Exploration Discoveries table.
+A character or staff member directing the expedition makes a Wisdom ([Survival](Rules/skills.md#Survival)) check to determine the outcome. This check gains a +2 bonus if a character with the cartographer or occultant position is part of the expedition, a +1 bonus for each workweek beyond the first that is spent exploring, and a +1 bonus for every additional 200 gp spent over the baseline expenses. A maximum bonus of +10 can be applied to this check. The total of the check determines the outcome, as shown on the Exploration Discoveries table.
 
 **Exploration Discoveries**
 

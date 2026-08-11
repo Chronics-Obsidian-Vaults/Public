@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Heart Weaver's Primer"
 item_type: 
 item_subtype: 
@@ -13,12 +15,12 @@ rarity: rare
 attunement: required
 ---
 # Heart Weaver's Primer
-*Wondrous item, rare (requires attunement by a wizard)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
 
 - **Weight**: 3.0 lbs.
 
-This pristine book smells faintly of a random scent you find pleasing. When found, the book contains the following spells: [antipathy/sympathy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antipathy-sympathy.md), [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md), [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md), [enthrall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enthrall.md), [hypnotic pattern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hypnotic-pattern.md), [modify memory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/modify-memory.md), and [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md). It functions as a spellbook for you.
+This pristine book smells faintly of a random scent you find pleasing. When found, the book contains the following spells: [antipathy/sympathy](Compendium/spells/antipathy-sympathy.md), [charm person](Compendium/spells/charm-person.md), [dominate person](Compendium/spells/dominate-person.md), [enthrall](Compendium/spells/enthrall.md), [hypnotic pattern](Compendium/spells/hypnotic-pattern.md), [modify memory](Compendium/spells/modify-memory.md), and [suggestion](Compendium/spells/suggestion.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 

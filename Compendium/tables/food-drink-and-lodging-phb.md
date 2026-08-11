@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/phb
 aliases:
-- Food, Drink, and Lodging
+- "Food, Drink, and Lodging"
 ---
 # Food, Drink, and Lodging
 *Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
@@ -15,11 +15,11 @@ aliases:
 | Item | Cost |
 |------|------|
 | *Ale* |  |
-| &emsp;[Gallon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ale-gallon.md) | 2 sp |
-| &emsp;[Mug](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ale-mug.md) | 4 cp |
+| &emsp;[Gallon](Compendium/items/ale-gallon.md) | 2 sp |
+| &emsp;[Mug](Compendium/items/ale-mug.md) | 4 cp |
 | Banquet (per person) | 10 gp |
-| [Bread, loaf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/loaf-of-bread.md) | 2 cp |
-| [Cheese, hunk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hunk-of-cheese.md) | 1 sp |
+| [Bread, loaf](Compendium/items/loaf-of-bread.md) | 2 cp |
+| [Cheese, hunk](Compendium/items/hunk-of-cheese.md) | 1 sp |
 | *Inn stay (per day)* |  |
 | &emsp;Squalid | 7 cp |
 | &emsp;Poor | 1 sp |
@@ -34,8 +34,8 @@ aliases:
 | &emsp;Comfortable | 5 sp |
 | &emsp;Wealthy | 8 sp |
 | &emsp;Aristocratic | 2 gp |
-| [Meat, chunk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chunk-of-meat.md) | 3 sp |
+| [Meat, chunk](Compendium/items/chunk-of-meat.md) | 3 sp |
 | *Wine* |  |
-| &emsp;[Common (pitcher)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-wine-pitcher.md) | 2 sp |
-| &emsp;[Fine (bottle)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-wine-bottle.md) | 10 gp |
+| &emsp;[Common (pitcher)](Compendium/items/common-wine-pitcher.md) | 2 sp |
+| &emsp;[Fine (bottle)](Compendium/items/fine-wine-bottle.md) | 10 gp |
 ^food-drink-and-lodging

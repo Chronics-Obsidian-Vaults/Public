@@ -7,7 +7,7 @@ tags:
 - source/domain/forge
 - source/subclass/cleric/forge
 aliases:
-- Forge Domain
+- "Forge Domain"
 ---
 # Forge Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,16 +44,17 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/forge-cleric.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
 > I've got a minion that forges things. An ink-stained little twerp with excellent penmanship. So how do the hammers and fire help the process? Wouldn't the paper get burned? Oh, the fire must be for the wax seals!
 
-## Class Features
+The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [Reorx](Compendium/deities/dragonlance-reorx-phb.md), Onatar, [Moradin](Compendium/deities/nonhuman-moradin.md), [Hephaestus](Compendium/deities/greek-hephaestus.md), and [Goibhniu](Compendium/deities/celtic-goibhniu.md).
 
-### Forge Domain (Level 1)
+## Subclass Features
 
-The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [Reorx](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-reorx-phb.md), Onatar, [Moradin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/nonhuman-moradin.md), [Hephaestus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-hephaestus.md), and [Goibhniu](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/celtic-goibhniu.md).
+### Domain Spells (Level 1)
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -61,16 +62,16 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md), [searing smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/searing-smite.md) |
-| 3rd | [heat metal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heat-metal.md), [magic weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-weapon.md) |
-| 5th | [elemental weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/elemental-weapon.md), [protection from energy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-energy.md) |
-| 7th | [fabricate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fabricate.md), [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md) |
-| 9th | [animate objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-objects.md), [creation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/creation.md) |
+| 1st | [identify](Compendium/spells/identify.md), [searing smite](Compendium/spells/searing-smite.md) |
+| 3rd | [heat metal](Compendium/spells/heat-metal.md), [magic weapon](Compendium/spells/magic-weapon.md) |
+| 5th | [elemental weapon](Compendium/spells/elemental-weapon.md), [protection from energy](Compendium/spells/protection-from-energy.md) |
+| 7th | [fabricate](Compendium/spells/fabricate.md), [wall of fire](Compendium/spells/wall-of-fire.md) |
+| 9th | [animate objects](Compendium/spells/animate-objects.md), [creation](Compendium/spells/creation.md) |
 ^forge-domain-spells
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [smith's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/smiths-tools.md).
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [smith's tools](Compendium/items/smiths-tools.md).
 
 ### Blessing of the Forge (Level 1)
 
@@ -100,7 +101,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with the fiery 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
@@ -108,5 +109,5 @@ You are blessed with divine might in battle. When a creature takes damage from o
 
 At 17th level, your blessed affinity with fire and metal becomes more powerful:
 
-- You gain immunity to fire damage  
+- You gain immunity to fire damage,  
 - While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/21
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Veiled Presence
+- "Veiled Presence"
 ---
-# [Veiled Presence](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/veiled-presence-bmt.md)
+# [Veiled Presence](Compendium/bestiary/celestial/veiled-presence-bmt.md)
 *Source: The Book of Many Things p. 48*  
 
 The ultimate threat created by the Rogue card, the veiled presence is a Celestial for tier 4 play (levels 17 to 20). This being descends from an Outer Plane to bring cosmic wrath upon the characters.
@@ -46,15 +47,13 @@ The villain's challenge rating increases while the villain is in this lair:
   - "dexterity": !!int "14"
   - "intelligence": !!int "14"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+21"
 "damage_resistances": "necrotic, radiant"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 30 ft., passive Perception 22"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[truesight](Rules/senses.md#Truesight) 30 ft., passive Perception 22"
 "languages": "all"
 "cr": "21"
 "traits":
@@ -75,7 +74,7 @@ The villain's challenge rating increases while the villain is in this lair:
     "name": "Blade of Judgment"
   - "desc": "The veiled presence reveals a glimpse of its otherworldly nature to a\
       \ creature it can see within 30 feet of itself. The target must succeed on a\
-      \ DC 22 Wisdom saving throw or have the [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ DC 22 Wisdom saving throw or have the [paralyzed](Rules/conditions.md#Paralyzed)\
       \ condition until the end of its next turn, after which the target is immune\
       \ to this Revelation for 24 hours."
     "name": "Revelation"
@@ -129,6 +128,6 @@ The villain's challenge rating increases while the villain is in this lair:
     "name": "Searing Radiance (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/veiled-presence-bmt.webp"
+"image": "Compendium/bestiary/celestial/token/veiled-presence-bmt.webp"
 ```
 ^statblock

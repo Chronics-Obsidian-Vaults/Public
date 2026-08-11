@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/life
 - source/domain/light
-aliases: 
-- Pelor
+aliases:
+- "Pelor"
 ---
 # Pelor
 *Source: Player's Handbook p. 295* 

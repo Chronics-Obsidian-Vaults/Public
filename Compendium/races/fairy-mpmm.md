@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/fairy
 aliases:
-- Fairy
+- "Fairy"
 ---
 # Fairy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 14*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/fairy.webp#right)
+![](Compendium/races/img/fairy.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: fey
@@ -25,7 +26,7 @@ You are a Fey.
 
 ### Fairy Magic
 
-You know the [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md) cantrip. Starting at 3rd level, you can cast the [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md) spell with this trait. Starting at 5th level, you can also cast the [enlarge/reduce](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enlarge-reduce.md) spell with this trait. Once you cast [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md) or [enlarge/reduce](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enlarge-reduce.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+You know the [druidcraft](Compendium/spells/druidcraft.md) cantrip. Starting at 3rd level, you can cast the [faerie fire](Compendium/spells/faerie-fire.md) spell with this trait. Starting at 5th level, you can also cast the [enlarge/reduce](Compendium/spells/enlarge-reduce.md) spell with this trait. Once you cast [faerie fire](Compendium/spells/faerie-fire.md) or [enlarge/reduce](Compendium/spells/enlarge-reduce.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

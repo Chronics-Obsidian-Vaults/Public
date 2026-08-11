@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Sharpshooter
+- "Sharpshooter"
 ---
 # Sharpshooter
 *Source: Player's Handbook p. 170*  

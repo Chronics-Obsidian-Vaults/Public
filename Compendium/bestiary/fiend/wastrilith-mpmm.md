@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/13
@@ -13,16 +14,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wastrilith
+- "Wastrilith"
 ---
-# [Wastrilith](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/wastrilith-mpmm.md)
+# [Wastrilith](Compendium/bestiary/fiend/wastrilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 258, Mordenkainen's Tome of Foes p. 139*  
 
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.
 
 A wastrilith pollutes the waters around it. Its noxious presence even affects nearby sources of water when the demon travels on land. The corrupted water, which contains a measure of the demon's essence, responds to the wastrilith's commands—perhaps hardening to prevent foes from escaping or erupting in a surge that drags victims into its reach.
 
-Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilement, you can use the [optional rule on abyssal corruption](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/optional-rule-abyssal-corruption-abyssal-corruption.md) in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
+Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilement, you can use the [optional rule on abyssal corruption](Compendium/tables/optional-rule-abyssal-corruption-abyssal-corruption.md) in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
 
 ```statblock
 "name": "Wastrilith (MPMM)"
@@ -49,9 +50,8 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"
 "traits":
@@ -63,12 +63,12 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
       \ it evaporates.\n\nA creature that consumes this foul water or swims in it\
       \ must make a DC 18 Constitution saving throw. On a successful save, the creature\
       \ is immune to the foul water for 24 hours. On a failed save, the creature takes\
-      \ 14 (4d6) poison damage and is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. At the end of this time, the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ 14 (4d6) poison damage and is [poisoned](Rules/conditions.md#Poisoned) for\
+      \ 1 minute. At the end of this time, the [poisoned](Rules/conditions.md#Poisoned)\
       \ creature must repeat the saving throw. On a failure, the creature takes 18\
-      \ (4d8) poison damage and is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ until it finishes a long rest.\n\nIf another demon drinks the foul water as\
-      \ an action, it gains 11 (2d10) temporary hit points."
+      \ (4d8) poison damage and is [poisoned](Rules/conditions.md#Poisoned) until\
+      \ it finishes a long rest.\n\nIf another demon drinks the foul water as an action,\
+      \ it gains 11 (2d10) temporary hit points."
     "name": "Corrupt Water"
   - "desc": "The wastrilith has advantage on saving throws against spells and other\
       \ magical effects."
@@ -97,7 +97,7 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/wastrilith-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/wastrilith-mpmm.webp"
 ```
 ^statblock
 

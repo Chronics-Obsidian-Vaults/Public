@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chain Devil
+- "Chain Devil"
 ---
-# [Chain Devil](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/chain-devil.md)
-*Source: Monster Manual p. 72, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Chain Devil](Compendium/bestiary/fiend/chain-devil.md)
+*Source: Monster Manual p. 72. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 This ominous fiend wears chains like a shroud. Driving lesser creatures before it with its fearsome gaze, a chain devil animates the chains that cover its body as well as inanimate chains nearby, which sprout hooks, blades, and spikes to eviscerate enemies.
 
@@ -114,7 +115,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -164,9 +165,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -179,10 +179,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "desc": "The devil makes two attacks with its chains."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) slashing damage. The target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ (2d6 + 4) slashing damage. The target is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 14) if the devil isn't already grappling a creature. Until this\
-      \ grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ and takes 7 (2d6) piercing damage at the start of each of its turns."
+      \ grapple ends, the target is [restrained](Rules/conditions.md#Restrained) and\
+      \ takes 7 (2d6) piercing damage at the start of each of its turns."
     "name": "Chain"
   - "desc": "Up to four chains the devil can see within 60 feet of it magically sprout\
       \ razor-edged barbs and animate under the devil's control, provided that the\
@@ -192,19 +192,17 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
       \ each animated chain to make one additional chain attack. An animated chain\
       \ can grapple one creature of its own but can't make attacks while grappling.\
       \ An animated chain reverts to its inanimate state if reduced to 0 hit points\
-      \ or if the devil is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ or dies."
+      \ or if the devil is [incapacitated](Rules/conditions.md#Incapacitated) or dies."
     "name": "Animate Chains (Recharges after a Short or Long Rest)"
 "reactions":
   - "desc": "When a creature the devil can see starts its turn within 30 feet of the\
       \ devil, the devil can create the illusion that it looks like one of the creature's\
       \ departed loved ones or bitter enemies. If the creature can see the devil,\
-      \ it must succeed on a DC 14 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ it must succeed on a DC 14 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ until the end of its turn."
     "name": "Unnerving Mask"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/chain-devil.webp"
+"image": "Compendium/bestiary/fiend/token/chain-devil.webp"
 ```
 ^statblock

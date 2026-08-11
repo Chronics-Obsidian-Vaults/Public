@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bristled Moorbounder
+- "Bristled Moorbounder"
 ---
-# [Bristled Moorbounder](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/bristled-moorbounder-egw.md)
+# [Bristled Moorbounder](Compendium/bestiary/beast/bristled-moorbounder-egw.md)
 *Source: Explorer's Guide to Wildemount p. 295*  
 
 A weird and deadly offshoot of the moorbounder has rows of long, bladelike bristles covering its sleek body. The creature weaponizes these blades, using them to slash nearby creatures to ribbons. However, these blades make the bristled moorbounder less suitable as a mount.
@@ -40,8 +41,7 @@ Moorbounders hunt with elongated tusks and retractable claws. With a vague resem
   - !!int "13"
   - !!int "5"
 "speed": "70 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": ""
 "cr": "3"
 "traits":
@@ -63,6 +63,6 @@ Moorbounders hunt with elongated tusks and retractable claws. With a vague resem
     "name": "Claws"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/bristled-moorbounder-egw.webp"
+"image": "Compendium/bestiary/beast/token/bristled-moorbounder-egw.webp"
 ```
 ^statblock

@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/phb
 - source/race/gnome
 aliases:
-- Gnome
+- "Gnome"
 ---
 # Gnome
 *Source: Player's Handbook p. 35. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/gnome.webp#right)
+![](Compendium/races/img/gnome.webp#right)
 
 - **Ability Scores**: int +2
 - **Size**: Small

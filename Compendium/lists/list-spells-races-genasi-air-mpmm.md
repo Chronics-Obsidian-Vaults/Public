@@ -5,18 +5,18 @@ cssclasses:
 tags:
 - source/spell/list/subrace/genasi-air
 aliases:
-- Spells for Genasi (Air)
+- "Spells for Genasi (Air)"
 ---
 # Spells for Genasi (Air)
 
 ## Cantrip
 
-- [Shocking Grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md "PHB") at class level 3
+- [Shocking Grasp](Compendium/spells/shocking-grasp.md "PHB") as cantrip
 
 ## 1st Level
 
-- [Feather Fall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feather-fall.md "PHB") at class level 3
+- [Feather Fall](Compendium/spells/feather-fall.md "PHB") at class level 3
 
 ## 2nd Level
 
-- [Levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md "PHB") at class level 3
+- [Levitate](Compendium/spells/levitate.md "PHB") at class level 5

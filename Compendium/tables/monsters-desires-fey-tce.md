@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Fey
+- "Monsters' Desires; Fey"
 ---
 # Monsters' Desires; Fey
 *Source: Tasha's Cauldron of Everything p. 148* 

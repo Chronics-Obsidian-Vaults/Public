@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/21
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Molydeus
+- "Molydeus"
 ---
-# [Molydeus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/molydeus-mpmm.md)
+# [Molydeus](Compendium/bestiary/fiend/molydeus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*  
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
@@ -43,19 +44,15 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
   - "wisdom": !!int "14"
   - "charisma": !!int "14"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+21"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 31"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [stunned](Rules/conditions.md#Stunned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 31"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "21"
 "traits":
@@ -79,21 +76,18 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
       \ 16 (2d6 + 9) poison damage. The target must succeed on a DC 22 Constitution\
       \ saving throw, or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target transforms into a [manes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/manes.md)\
-      \ if this reduces its hit point maximum to 0. This transformation can be ended\
-      \ only by a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell."
+      \ The target transforms into a [manes](Compendium/bestiary/fiend/manes.md) if\
+      \ this reduces its hit point maximum to 0. This transformation can be ended\
+      \ only by a [wish](Compendium/spells/wish.md) spell."
     "name": "Snakebite"
   - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 25\
       \ (3d10 + 9) necrotic damage."
     "name": "Wolf Bite"
   - "desc": "The molydeus casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 22):\n\
-      \n**At will:** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md),\
-      \ [telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md),\
-      \ [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md)\n\
-      \n**3/day:** [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md)"
+      \n**At will:** [dispel magic](Compendium/spells/dispel-magic.md), [polymorph](Compendium/spells/polymorph.md),\
+      \ [telekinesis](Compendium/spells/telekinesis.md), [teleport](Compendium/spells/teleport.md)\n\
+      \n**3/day:** [lightning bolt](Compendium/spells/lightning-bolt.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the molydeus can expend a use to take one of the following actions. The\
@@ -101,13 +95,13 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
 "legendary_actions":
   - "desc": "The molydeus makes one Demonic Weapon or Snakebite attack."
     "name": "Attack"
-  - "desc": "The molydeus moves without provoking [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)."
+  - "desc": "The molydeus moves without provoking [opportunity attacks](Rules/actions.md#Opportunity%20Attack)."
     "name": "Move"
   - "desc": "The molydeus uses Spellcasting."
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/molydeus-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/molydeus-mpmm.webp"
 ```
 ^statblock

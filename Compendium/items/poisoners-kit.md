@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/tool
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Poisoner's Kit"
 item_type: 
 item_subtype: 

@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/bugbear
 aliases:
-- Bugbear
+- "Bugbear"
 ---
 # Bugbear
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 8*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/bugbear.webp#right)
+![](Compendium/races/img/bugbear.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: humanoid
@@ -28,7 +29,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](Rules/conditions.md#Charmed) condition on yourself.
 
 ### Long-Limbed
 
@@ -40,7 +41,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Sneaky
 
-You are proficient in the [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth) skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
+You are proficient in the [Stealth](Rules/skills.md#Stealth) skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
 
 ### Surprise Attack
 

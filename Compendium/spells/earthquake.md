@@ -1,23 +1,25 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/cleric
 - source/spell/class/druid
 - source/spell/class/sorcerer
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/8th-level
 - source/spell/school/evocation
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Druid
 - Sorcerer
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Earthquake
+- "Earthquake"
 level: 8
 school: evocation
 ritual: false
@@ -39,9 +41,9 @@ components_vsm: [V, S, M]
 
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
 
-The ground in the area becomes difficult terrain. Each creature on the ground that is [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) must make a Constitution saving throw. On a failed save, the creature's [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) is broken.
+The ground in the area becomes difficult terrain. Each creature on the ground that is [concentrating](Rules/conditions.md#Concentration) must make a Constitution saving throw. On a failed save, the creature's [concentration](Rules/conditions.md#Concentration) is broken.
 
-When you cast this spell and at the end of each turn you spend [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on it, each creature on the ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).
+When you cast this spell and at the end of each turn you spend [concentrating](Rules/conditions.md#Concentration) on it, each creature on the ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked [prone](Rules/conditions.md#Prone).
 
 This spell can have additional effects depending on the terrain in the area, as determined by the DM.
 
@@ -53,10 +55,10 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 
 ## Structures
 
-The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity saving throw. On a failed save, the creature takes `5d6` bludgeoning damage, is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone), and is buried in the rubble, requiring a DC 20 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) or become buried.
+The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity saving throw. On a failed save, the creature takes `5d6` bludgeoning damage, is knocked [prone](Rules/conditions.md#Prone), and is buried in the rubble, requiring a DC 20 Strength ([Athletics](Rules/skills.md#Athletics)) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall [prone](Rules/conditions.md#Prone) or become buried.
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/death
 - source/domain/life
-aliases: 
-- Raven Queen
+aliases:
+- "Raven Queen"
 ---
 # Raven Queen
 *Source: Dungeon Master's Guide p. 10* 

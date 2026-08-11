@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/order
 - source/domain/trickery
-aliases: 
-- Asmodeus
+aliases:
+- "Asmodeus"
 ---
 # Asmodeus
 *Source: Dungeon Master's Guide p. 10* 

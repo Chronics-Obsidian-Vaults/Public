@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/20
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightwalker
+- "Nightwalker"
 ---
-# [Nightwalker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/nightwalker-mpmm.md)
+# [Nightwalker](Compendium/bestiary/undead/nightwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -46,16 +47,11 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 9"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 9"
 "languages": ""
 "cr": "20"
 "traits":
@@ -64,8 +60,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
       \ Undead are immune to this aura."
     "name": "Annihilating Aura"
   - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-      \ be revived except by a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell."
+      \ be revived except by a [wish](Compendium/spells/wish.md) spell."
     "name": "Life Eater"
   - "desc": "The nightwalker doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
@@ -81,16 +76,16 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
     "name": "Enervating Focus"
   - "desc": "The nightwalker points at one creature it can see within 300 feet of\
       \ it. The target must succeed on a DC 21 Wisdom saving throw or take 39 (6d12)\
-      \ necrotic damage and become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ until the end of the nightwalker's next turn. While [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ in this way, the creature is also [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed).\
+      \ necrotic damage and become [frightened](Rules/conditions.md#Frightened) until\
+      \ the end of the nightwalker's next turn. While [frightened](Rules/conditions.md#Frightened)\
+      \ in this way, the creature is also [paralyzed](Rules/conditions.md#Paralyzed).\
       \ If a target's saving throw is successful, the target is immune to the nightwalker's\
       \ Finger of Doom for the next 24 hours."
     "name": "Finger of Doom (Recharge 6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/nightwalker-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/nightwalker-mpmm.webp"
 ```
 ^statblock
 

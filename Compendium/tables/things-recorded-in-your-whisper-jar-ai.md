@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Things Recorded in Your Whisper Jar
+- "Things Recorded in Your Whisper Jar"
 ---
 # Things Recorded in Your Whisper Jar
 *Source: Acquisitions Incorporated p. 27* 
@@ -20,6 +20,6 @@ aliases:
 | 4 | Everything, because everyone else around you will eat their words one day! |
 | 5 | The top seven places to eat fried rat skewers in every settlement you've ever visited |
 | 6 | The entire family tree of every royal line, extant or lost, in Faerûn |
-| 7 | A moment-by-moment review of your favorite [Jim Darkmagic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/jim-darkmagic-ai.md) stage performance |
+| 7 | A moment-by-moment review of your favorite [Jim Darkmagic](Compendium/bestiary/npc/jim-darkmagic-ai.md) stage performance |
 | 8 | The sound of raucous applause, which you play back liberally |
 ^things-recorded-in-your-whisper-jar

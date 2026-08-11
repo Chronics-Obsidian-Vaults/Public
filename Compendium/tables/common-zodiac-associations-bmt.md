@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Common Zodiac Associations
+- "Common Zodiac Associations"
 ---
 # Common Zodiac Associations
 *Source: The Book of Many Things p. 101* 

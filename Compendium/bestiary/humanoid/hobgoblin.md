@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -14,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hobgoblin
+- "Hobgoblin"
 ---
-# [Hobgoblin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/hobgoblin.md)
-*Source: Monster Manual p. 186, Eberron: Rising from the Last War, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Hobgoblin](Compendium/bestiary/humanoid/hobgoblin.md)
+*Source: Monster Manual p. 186. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
@@ -83,8 +84,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "subtype": "goblinoid"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[chain mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-mail.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[chain mail](Compendium/items/chain-mail.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -96,14 +96,16 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
   - "desc": "Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature\
       \ it hits with a weapon attack if that creature is within 5 feet of an ally\
-      \ of the hobgoblin that isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ of the hobgoblin that isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Martial Advantage"
 "actions":
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
@@ -114,9 +116,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
     "name": "Longbow"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/hobgoblin.webp"
+"image": "Compendium/bestiary/humanoid/token/hobgoblin.webp"
 ```
 ^statblock
 

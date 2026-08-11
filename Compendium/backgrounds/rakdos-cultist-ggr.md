@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Rakdos Cultist
+- "Rakdos Cultist"
 ---
 # Rakdos Cultist
 *Source: Guildmasters' Guide to Ravnica p. 79*  
 
 
-- **Skill Proficiencies.** [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)  
+- **Skill Proficiencies.** [Acrobatics](Rules/skills.md#Acrobatics), [Performance](Rules/skills.md#Performance)  
 - **Tool Proficiencies.** One type of musical instrument  
 - **Languages.** Choose either Abyssal or Giant  
-- **Equipment.** A Rakdos insignia, a musical instrument (one of your choice), a [costume](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/costume-clothes.md), a [hooded lantern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hooded-lantern.md) made of wrought iron, a 10-foot length of chain with sharply spiked links, a [tinderbox](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/tinderbox.md), 10 [torches](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/torch.md), a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp (a mix of Azorius and Boros 1-zino coins), and a bottle of sweet, red juice  
+- **Equipment.** A Rakdos insignia, a musical instrument (one of your choice), a [costume](Compendium/items/costume-clothes.md), a [hooded lantern](Compendium/items/hooded-lantern.md) made of wrought iron, a 10-foot length of chain with sharply spiked links, a [tinderbox](Compendium/items/tinderbox.md), 10 [torches](Compendium/items/torch.md), a set of [common clothes](Compendium/items/common-clothes.md), a belt [pouch](Compendium/items/pouch.md) containing 10 gp (a mix of Azorius and Boros 1-zino coins), and a bottle of sweet, red juice  
 
 You're an entertainer at heart, a performer with a flair for the dramatic and a love of the spotlight. You've spent years honing your craft, mastering a demanding set of skills so you can perform them with panache and make them look easy. The wild applause, the screams of the crowds, the mayhem and terror spreading into the streets—this is what you live for.
 
@@ -52,12 +53,12 @@ For you, the spells on the Rakdos Guild Spells table are added to the spell list
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md), [vicious mockery](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vicious-mockery.md) |
-| 1st | [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md), [dissonant whispers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dissonant-whispers.md), [hellish rebuke](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hellish-rebuke.md) |
-| 2nd | [crown of madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md), [enthrall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enthrall.md), [flaming sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flaming-sphere.md) |
-| 3rd | [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md), [haste](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/haste.md) |
-| 4th | [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md), [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md) |
-| 5th | [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md) |
+| Cantrip | [fire bolt](Compendium/spells/fire-bolt.md), [vicious mockery](Compendium/spells/vicious-mockery.md) |
+| 1st | [burning hands](Compendium/spells/burning-hands.md), [dissonant whispers](Compendium/spells/dissonant-whispers.md), [hellish rebuke](Compendium/spells/hellish-rebuke.md) |
+| 2nd | [crown of madness](Compendium/spells/crown-of-madness.md), [enthrall](Compendium/spells/enthrall.md), [flaming sphere](Compendium/spells/flaming-sphere.md) |
+| 3rd | [fear](Compendium/spells/fear.md), [haste](Compendium/spells/haste.md) |
+| 4th | [confusion](Compendium/spells/confusion.md), [wall of fire](Compendium/spells/wall-of-fire.md) |
+| 5th | [dominate person](Compendium/spells/dominate-person.md) |
 ^rakdos-guild-spells
 
 Your magic often produces a flashy spectacle, wreathing you or your targets in a mixture of harmless flame and shadowy shapes. When you manipulate an opponent's mind, a flaming symbol of Rakdos might momentarily appear like a mask over the target's face.

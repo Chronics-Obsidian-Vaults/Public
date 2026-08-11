@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/scag
 aliases:
-- Waterdhavian Noble
+- "Waterdhavian Noble"
 ---
 # Waterdhavian Noble
 *Source: Sword Coast Adventurer's Guide p. 154*  
 
 
-- **Skill Proficiencies.** [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [History](Rules/skills.md#History), [Persuasion](Rules/skills.md#Persuasion)  
 - **Languages.** Any one of your choice  
 - **Tool Proficiencies.** One type of gaming set or musical instrument  
-- **Equipment.** A set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), a [signet ring](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/signet-ring.md) or brooch, a scroll of pedigree, a skin of fine zzar or wine, and a purse containing 20 gp  
+- **Equipment.** A set of [fine clothes](Compendium/items/fine-clothes.md), a [signet ring](Compendium/items/signet-ring.md) or brooch, a scroll of pedigree, a skin of fine zzar or wine, and a purse containing 20 gp  
 
 You are a scion of one of the great noble families of Waterdeep. Human families who jealously guard their privilege and place in the City of Splendors, Waterdhavian nobles have a reputation across Faerûn for being eccentric, spoiled, venal, and, above all else, rich.
 
@@ -30,6 +31,6 @@ This advantage enables you to live a comfortable lifestyle without having to pay
 
 ## Suggested Characteristics
 
-Use the tables for the [noble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/noble.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a member of a Waterdhavian family.
+Use the tables for the [noble](Compendium/backgrounds/noble.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a member of a Waterdhavian family.
 
 Like other nobles, you were born and raised in a different world from the one that most folk know - one that grants you privilege but also calls you to fulfill a duty befitting your station. Your bond might be associated with your family alone, or it could be concerned with another noble house that sides with or opposes your own. Your ideal depends to some extent on how you view your role in the family, and how you intend to conduct yourself in the world at large as a representative of your house.

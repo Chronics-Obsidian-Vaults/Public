@@ -5,68 +5,68 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Friends and Foes
+- "Friends and Foes"
 ---
 # Friends and Foes
 *Source: Eberron: Rising from the Last War, p. 283* 
 
-Even as the Five Nations slowly recover from the Last War, rumors spread of the alien daelkyr, the Emerald Claw, [the Lord of Blades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/the-lord-of-blades-erlw.md), and other threats growing in power across the world. This chapter provides stat blocks for many of the creatures that can play a role in an Eberron campaign, including enemies that might overrun a town, powerful entities threatening all Khorvaire, and NPCs that can serve as either friends or foes.
+Even as the Five Nations slowly recover from the Last War, rumors spread of the alien daelkyr, the Emerald Claw, [the Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md), and other threats growing in power across the world. This chapter provides stat blocks for many of the creatures that can play a role in an Eberron campaign, including enemies that might overrun a town, powerful entities threatening all Khorvaire, and NPCs that can serve as either friends or foes.
 
 The chapter's monsters appear first in a bestiary. They're followed by a collection of generic NPCs—various people who can populate your Eberron adventures.
 
 Remember that few intelligent creatures in Eberron are inherently evil. Even dragons, which on other worlds are associated with certain alignments, choose their own paths. The adventure ideas and encounter tables in chapter 4 offer abundant examples of monsters behaving in ways that aren't traditionally monstrous.
 
-![Aboard a lightning train, ...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/152-6-01.webp#center "Aboard a lightning train, a heroic monk, aided by her magical arm, strikes at a member of the villainous Emerald Claw.")
+![Aboard a lightning train, a heroic monk, aided by her magical arm, strikes at a member of the villainous Emerald Claw.](Compendium/books/eberron-rising-from-the-last-war/img/152-6-01.webp#center)
 
-- [Belashyrra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/belashyrra-erlw.md)  
-- [Bone Knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bone-knight-erlw.md)  
-- [Changeling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/changeling-erlw.md)  
-- [Clawfoot](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/clawfoot-erlw.md)  
-- [Dolgaunt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/dolgaunt-erlw.md)  
-- [Dolgrim](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/dolgrim-erlw.md)  
-- [Dusk Hag](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/dusk-hag-erlw.md)  
-- [Dyrrn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/dyrrn-erlw.md)  
-- [Expeditious Messenger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/expeditious-messenger-erlw.md)  
-- [Fastieth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/fastieth-erlw.md)  
-- [Hashalaq Quori](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/hashalaq-quori-erlw.md)  
-- [Inspired](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/inspired-erlw.md)  
-- [Iron Defender](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/iron-defender-erlw.md)  
-- [Kalaraq Quori](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/kalaraq-quori-erlw.md)  
-- [Kalashtar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/kalashtar-erlw.md)  
-- [Karrnathi Undead Soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/karrnathi-undead-soldier-erlw.md)  
-- [Lady Illmarrow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/lady-illmarrow-erlw.md)  
-- [Living Burning Hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/living-burning-hands-erlw.md)  
-- [Living Cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/living-cloudkill-erlw.md)  
-- [Living Lightning Bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/living-lightning-bolt-erlw.md)  
-- [Magewright](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/magewright-erlw.md)  
-- [Mordakhesh](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/mordakhesh-erlw.md)  
-- [Radiant Idol](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/radiant-idol-erlw.md)  
-- [Rak Tulkhesh](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rak-tulkhesh-erlw.md)  
-- [Shifter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/shifter-erlw.md)  
-- [Steel Defender](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/steel-defender-tce.md)  
-- [Sul Khatesh](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/sul-khatesh-erlw.md)  
-- [Tarkanan Assassin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/tarkanan-assassin-erlw.md)  
-- [The Lord of Blades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/the-lord-of-blades-erlw.md)  
-- [Tsucora Quori](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/tsucora-quori-erlw.md)  
-- [Undying Councilor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/undying-councilor-erlw.md)  
-- [Undying Soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/undying-soldier-erlw.md)  
-- [Valenar Hawk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/valenar-hawk-erlw.md)  
-- [Valenar Hound](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/valenar-hound-erlw.md)  
-- [Valenar Steed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/valenar-steed-erlw.md)  
-- [Warforged Colossus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/warforged-colossus-erlw.md)  
-- [Warforged Soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/warforged-soldier-erlw.md)  
-- [Warforged Titan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/warforged-titan-erlw.md)  
-- [Zakya Rakshasa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/zakya-rakshasa-erlw.md)  
+- [Belashyrra](Compendium/bestiary/npc/belashyrra-erlw.md)  
+- [Bone Knight](Compendium/bestiary/humanoid/bone-knight-erlw.md)  
+- [Changeling](Compendium/bestiary/humanoid/changeling-erlw.md)  
+- [Clawfoot](Compendium/bestiary/beast/clawfoot-erlw.md)  
+- [Dolgaunt](Compendium/bestiary/aberration/dolgaunt-erlw.md)  
+- [Dolgrim](Compendium/bestiary/aberration/dolgrim-erlw.md)  
+- [Dusk Hag](Compendium/bestiary/fey/dusk-hag-erlw.md)  
+- [Dyrrn](Compendium/bestiary/npc/dyrrn-erlw.md)  
+- [Expeditious Messenger](Compendium/bestiary/construct/expeditious-messenger-erlw.md)  
+- [Fastieth](Compendium/bestiary/beast/fastieth-erlw.md)  
+- [Hashalaq Quori](Compendium/bestiary/aberration/hashalaq-quori-erlw.md)  
+- [Inspired](Compendium/bestiary/humanoid/inspired-erlw.md)  
+- [Iron Defender](Compendium/bestiary/construct/iron-defender-erlw.md)  
+- [Kalaraq Quori](Compendium/bestiary/aberration/kalaraq-quori-erlw.md)  
+- [Kalashtar](Compendium/bestiary/humanoid/kalashtar-erlw.md)  
+- [Karrnathi Undead Soldier](Compendium/bestiary/undead/karrnathi-undead-soldier-erlw.md)  
+- [Lady Illmarrow](Compendium/bestiary/npc/lady-illmarrow-erlw.md)  
+- [Living Burning Hands](Compendium/bestiary/construct/living-burning-hands-erlw.md)  
+- [Living Cloudkill](Compendium/bestiary/construct/living-cloudkill-erlw.md)  
+- [Living Lightning Bolt](Compendium/bestiary/construct/living-lightning-bolt-erlw.md)  
+- [Magewright](Compendium/bestiary/humanoid/magewright-erlw.md)  
+- [Mordakhesh](Compendium/bestiary/npc/mordakhesh-erlw.md)  
+- [Radiant Idol](Compendium/bestiary/celestial/radiant-idol-erlw.md)  
+- [Rak Tulkhesh](Compendium/bestiary/npc/rak-tulkhesh-erlw.md)  
+- [Shifter](Compendium/bestiary/humanoid/shifter-erlw.md)  
+- [Steel Defender](Compendium/bestiary/construct/steel-defender-efa.md)  
+- [Sul Khatesh](Compendium/bestiary/npc/sul-khatesh-erlw.md)  
+- [Tarkanan Assassin](Compendium/bestiary/humanoid/tarkanan-assassin-erlw.md)  
+- [The Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md)  
+- [Tsucora Quori](Compendium/bestiary/aberration/tsucora-quori-erlw.md)  
+- [Undying Councilor](Compendium/bestiary/undead/undying-councilor-erlw.md)  
+- [Undying Soldier](Compendium/bestiary/undead/undying-soldier-erlw.md)  
+- [Valenar Hawk](Compendium/bestiary/fey/valenar-hawk-erlw.md)  
+- [Valenar Hound](Compendium/bestiary/fey/valenar-hound-erlw.md)  
+- [Valenar Steed](Compendium/bestiary/fey/valenar-steed-erlw.md)  
+- [Warforged Colossus](Compendium/bestiary/construct/warforged-colossus-erlw.md)  
+- [Warforged Soldier](Compendium/bestiary/humanoid/warforged-soldier-erlw.md)  
+- [Warforged Titan](Compendium/bestiary/construct/warforged-titan-erlw.md)  
+- [Zakya Rakshasa](Compendium/bestiary/fiend/zakya-rakshasa-erlw.md)  
 
 ## Daelkyr
 
 The daelkyr are the lords of madness and the emissaries of Xoriat, who invaded Eberron with a host of mind flayers, beholders, and other foul aberrations. Wherever they walked, the daelkyr reshaped the world in their image, sowing madness and creating monsters. They fused goblins together to create the gibbering dolgrims and crafted the blind dolgaunts from hobgoblin stock.
 
-The goblinoid champions of Dhakaan fought fiercely. But in the end, it was the orc Gatekeeper druids who closed the portals to Xoriat and drove the daelkyr into Khyber. The Gatekeepers crafted seals to hold both the power of Xoriat and the daelkyr at bay, and as long as those seals remain intact, the lords of madness can't rise from the depths. Today, those seals are thousands of years old and the Gatekeepers are all but forgotten. Mind flayers scheme in the sewers of Sharn, and cultists beseech beholder priests for the blessings of [Belashyrra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/belashyrra-erlw.md), the Lord of Eyes. And in the shadows of Khyber, the daelkyr are waiting.
+The goblinoid champions of Dhakaan fought fiercely. But in the end, it was the orc Gatekeeper druids who closed the portals to Xoriat and drove the daelkyr into Khyber. The Gatekeepers crafted seals to hold both the power of Xoriat and the daelkyr at bay, and as long as those seals remain intact, the lords of madness can't rise from the depths. Today, those seals are thousands of years old and the Gatekeepers are all but forgotten. Mind flayers scheme in the sewers of Sharn, and cultists beseech beholder priests for the blessings of [Belashyrra](Compendium/bestiary/npc/belashyrra-erlw.md), the Lord of Eyes. And in the shadows of Khyber, the daelkyr are waiting.
 
 > [!note] The Six Daelkyr
 > 
-> Six daelkyr are known on Eberron through their cults and legends: [Belashyrra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/belashyrra-erlw.md) and [Dyrrn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/dyrrn-erlw.md), who are detailed in this chapter, and the four described below. Other daelkyr surely lurk in the depths of Khyber.
+> Six daelkyr are known on Eberron through their cults and legends: [Belashyrra](Compendium/bestiary/npc/belashyrra-erlw.md) and [Dyrrn](Compendium/bestiary/npc/dyrrn-erlw.md), who are detailed in this chapter, and the four described below. Other daelkyr surely lurk in the depths of Khyber.
 > 
 > **Avassh.** The Twister of Roots devotes its attentions to plants. Avassh is said to be the source of sham bling mounds and myconids, but any unnatural and deadly vegetation might be its work.
 > 
@@ -79,19 +79,19 @@ The goblinoid champions of Dhakaan fought fiercely. But in the end, it was the o
 
 ### Held Loosely in Space
 
-The daelkyr have lairs within Khyber, but these are no mere caverns. Each daelkyr's domain is a demiplane reflecting the twisted vision of its master. These realms are connected to the surface by tunnels and chasms, but they defy conventional geography. Passages to [Belashyrra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/belashyrra-erlw.md)'s domain can be found in the Shadow Marches, but tunnels also connect its realm to Xen'drik. Adventurers can potentially cross great distances quickly by passing through a daelkyr's domain.
+The daelkyr have lairs within Khyber, but these are no mere caverns. Each daelkyr's domain is a demiplane reflecting the twisted vision of its master. These realms are connected to the surface by tunnels and chasms, but they defy conventional geography. Passages to [Belashyrra](Compendium/bestiary/npc/belashyrra-erlw.md)'s domain can be found in the Shadow Marches, but tunnels also connect its realm to Xen'drik. Adventurers can potentially cross great distances quickly by passing through a daelkyr's domain.
 
 ### Unfathomable Evil
 
-The daelkyr are utterly alien, and their physical forms can't be fully perceived by mortals. Viewers perceive the same general impression of a daelkyr, but the details vary in ways that can't be controlled. For example, [Belashyrra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/belashyrra-erlw.md) might appear as a female humanoid surrounded by floating eyes to some viewers, while other viewers see a haggard male elf.
+The daelkyr are utterly alien, and their physical forms can't be fully perceived by mortals. Viewers perceive the same general impression of a daelkyr, but the details vary in ways that can't be controlled. For example, [Belashyrra](Compendium/bestiary/npc/belashyrra-erlw.md) might appear as a female humanoid surrounded by floating eyes to some viewers, while other viewers see a haggard male elf.
 
 > [!note] Characters with Ties to the Daelkyr
 > 
-> Player characters might manifest connections to the daelkyr in many ways. The Great Old One warlock patron is an excellent match to [Belashyrra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/belashyrra-erlw.md) or [Dyrrn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/dyrrn-erlw.md), but other classes can just as easily reflect a connection to this darkness. For example, a barbarian's rage might be seen as a form of daelkyr-induced madness, or a sorcerer's Sorcerous Origin could be the result of a daelkyr experiment.
+> Player characters might manifest connections to the daelkyr in many ways. The Great Old One warlock patron is an excellent match to [Belashyrra](Compendium/bestiary/npc/belashyrra-erlw.md) or [Dyrrn](Compendium/bestiary/npc/dyrrn-erlw.md), but other classes can just as easily reflect a connection to this darkness. For example, a barbarian's rage might be seen as a form of daelkyr-induced madness, or a sorcerer's Sorcerous Origin could be the result of a daelkyr experiment.
 > 
 > When a character has a tie to a daelkyr, consider whether that tie was chosen or thrust upon them. Is the character a cultist who embraces their dark path, believing that a world transformed by the daelkyr will be a better place? Or is the character a victim of the daelkyr, consumed by the fear of what they might become?
 > 
-> The touch of the daelkyr might be purely mental, or it might be accompanied by a physical transformation. A barbarian touched by [Belashyrra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/belashyrra-erlw.md) might serve as an eye of the All-Seer but remain physically unchanged, even as a barbarian tied to [Dyrrn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/dyrrn-erlw.md) takes on aberrant features while raging. When a warlock character gains the Devil's Sight invocation, they might literally gain the fiery red eyes of a devil.
+> The touch of the daelkyr might be purely mental, or it might be accompanied by a physical transformation. A barbarian touched by [Belashyrra](Compendium/bestiary/npc/belashyrra-erlw.md) might serve as an eye of the All-Seer but remain physically unchanged, even as a barbarian tied to [Dyrrn](Compendium/bestiary/npc/dyrrn-erlw.md) takes on aberrant features while raging. When a warlock character gains the Devil's Sight invocation, they might literally gain the fiery red eyes of a devil.
 ^characters-with-ties-to-the-daelkyr
 
 ### Spawn of the Daelkyr
@@ -100,7 +100,7 @@ Most of the aberrations on Eberron are the creations of the daelkyr. The daelkyr
 
 When a character faces a creature twisted by the daelkyr—an aberration or another creature bearing a daelkyr's corruption—consider rolling on the Daelkyr Modifications table to add strange cosmetic details to the creature.
 
-![Daelkyr Modifications](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/daelkyr-modifications-erlw.md)
+![Daelkyr Modifications](Compendium/tables/daelkyr-modifications-erlw.md)
 
 #### Beholders
 
@@ -110,7 +110,7 @@ Today, beholders are solitary, egocentric creatures. Some have remained among th
 
 #### Doppelgangers
 
-The daelkyr [Dyrrn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/dyrrn-erlw.md) the Corruptor enhanced the latent psychic abilities of changelings to develop doppelgangers, while implanting a desire to cause chaos in the communities around them.—even when there's no benefit in it for the doppelganger. Some doppelgangers, driven by visions from the daelkyr, can be found working with the Cults of the Dragon Below or fighting alongside aberrations in Khyber. Others operate alone.
+The daelkyr [Dyrrn](Compendium/bestiary/npc/dyrrn-erlw.md) the Corruptor enhanced the latent psychic abilities of changelings to develop doppelgangers, while implanting a desire to cause chaos in the communities around them.—even when there's no benefit in it for the doppelganger. Some doppelgangers, driven by visions from the daelkyr, can be found working with the Cults of the Dragon Below or fighting alongside aberrations in Khyber. Others operate alone.
 
 #### Lycanthropes
 
@@ -122,7 +122,7 @@ The common people of Khorvaire still see lycanthropes as a dire threat. Most fol
 
 #### Mind Flayers
 
-The illithids of Eberron are the creations of the daelkyr [Dyrrn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/dyrrn-erlw.md) the Corruptor. Most mind flayers on Eberron dwell in Khyber with their daelkyr masters, commanding cities of dolgaunts and dolgrims. A few can be found on the surface, working with the Cults of the Dragon Below or pursuing their own enigmatic goals. The mind flayers often seem to pursue reopening the gates to Xoriat with more urgency than the daelkyr themselves do. The immortal daelkyr can afford to wait for another ten thousand years; the illithids aren't so patient.
+The illithids of Eberron are the creations of the daelkyr [Dyrrn](Compendium/bestiary/npc/dyrrn-erlw.md) the Corruptor. Most mind flayers on Eberron dwell in Khyber with their daelkyr masters, commanding cities of dolgaunts and dolgrims. A few can be found on the surface, working with the Cults of the Dragon Below or pursuing their own enigmatic goals. The mind flayers often seem to pursue reopening the gates to Xoriat with more urgency than the daelkyr themselves do. The immortal daelkyr can afford to wait for another ten thousand years; the illithids aren't so patient.
 
 ## Living Spells
 
@@ -134,7 +134,7 @@ Living spells haunt the Mournland and other areas blasted by the Last War, someh
 
 Living spells come in many varieties; the stat blocks here are three examples. Living spells most often manifest from evocation and conjuration spells. To make a living spell from a different spell, choose a damage-dealing evocation or conjuration spell from the wizard spell list of up to 5th level. Then consult the Living Spell Customization table to see which stat block to customize, based on the chosen spell's level.
 
-![Customizing a Living Spell; Living Spell Customization](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/customizing-a-living-spell-living-spell-customization-erlw.md)
+![Customizing a Living Spell; Living Spell Customization](Compendium/tables/customizing-a-living-spell-living-spell-customization-erlw.md)
 
 Now make the following changes to that stat block:
 
@@ -144,4 +144,4 @@ Now make the following changes to that stat block:
 
 **Spell Mimicry**. Replace the effect of Spell Mimicry with the effect of the chosen spell. If that spell requires a saving throw, use spell save DC from the replaced spell, and if the spell involves an attack roll, use the attack bonus from the living spell's Magical Strike.
 
-For example, if you turn [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) (a 3rd-level spell) into a living spell, customize the [living lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) with Spell Mimicry.
+For example, if you turn [fireball](Compendium/spells/fireball.md) (a 3rd-level spell) into a living spell, customize the [living lightning bolt](Compendium/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates [fireball](Compendium/spells/fireball.md) with Spell Mimicry.

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/mm
 - source/monster/legendary-group
 aliases:
-- Death Tyrant
+- "Death Tyrant"
 ---
 # Death Tyrant
 
@@ -16,7 +16,7 @@ _Source: Monster Manual_
 When fighting inside its lair, a death tyrant can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the death tyrant can take one lair action to cause one of the following effects:
 
 - An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and difficult terrain until initiative count 20 on the next round.  
-- Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled). Escaping requires a successful DC 17 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check.  
+- Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be [grappled](Rules/conditions.md#Grappled). Escaping requires a successful DC 17 Strength ([Athletics](Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check.  
 - A spectral eye opens in the air at a point within 50 feet of the tyrant. One random eye ray of the tyrant shoots from that eye, which is considered to be an ethereal source, at a target of the tyrant's choice. The eye then closes and disappears.  
 
 The death tyrant can't repeat an effect until all three have been used, and it can't use the same effect on consecutive rounds.

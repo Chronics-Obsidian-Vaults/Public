@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Folk Hero
+- "Folk Hero"
 ---
 # Folk Hero
 *Source: Player's Handbook p. 131. Available in the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)  
+- **Skill Proficiencies.** [Animal Handling](Rules/skills.md#Animal%20Handling), [Survival](Rules/skills.md#Survival)  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  
-- **Equipment.** A set of artisan's tools (one of your choice), a [shovel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shovel.md), an [iron pot](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/iron-pot.md), a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a [shovel](Compendium/items/shovel.md), an [iron pot](Compendium/items/iron-pot.md), a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
 

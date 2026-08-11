@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
 - source/item/wondrous/rod
-aliases: 
+aliases:
 - "Immovable Rod"
 item_type: wondrous
 item_subtype: rod
@@ -15,7 +16,7 @@ attunement: none
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/immovable-rod.webp#right)
+![](Compendium/items/img/immovable-rod.webp#right)
 
 - **Weight**: 2.0 lbs.
 

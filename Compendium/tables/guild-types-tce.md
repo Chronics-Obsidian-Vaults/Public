@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Guild Types
+- "Guild Types"
 ---
 # Guild Types
 *Source: Tasha's Cauldron of Everything p. 93* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/orzhov-representative
@@ -9,9 +10,9 @@ tags:
 - source/spell/class/sorcerer
 - source/spell/class/warlock
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/4th-level
 - source/spell/school/necromancy
-- source/spell/subclass/alchemist
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/blood-domain
 - source/spell/subclass/circle-of-spores
@@ -21,7 +22,6 @@ tags:
 - source/spell/subclass/grave-domain
 - source/spell/subclass/oathbreaker
 classes:
-- Artificer (Alchemist)
 - Bard (Magical Secrets)
 - Cleric (Blood Domain)
 - Cleric (Death Domain)
@@ -36,7 +36,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Blight
+- "Blight"
 level: 4
 school: necromancy
 ritual: false
@@ -64,6 +64,6 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `1d8` for each slot level above 4th.
 
-**Classes**: [Artificer (Alchemist)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Blood Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-blood-domain-tdcsr.md "subclass=TDCSR"); [Cleric (Death Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Druid (Circle of Spores)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Druid (Circle of the Land, Desert)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oathbreaker)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Blood Domain)](Compendium/lists/list-spells-classes-blood-domain-taldorei.md "subclass=TalDorei"); [Cleric (Death Domain)](Compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Druid (Circle of Spores)](Compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Druid (Circle of the Land, Desert)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oathbreaker)](Compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

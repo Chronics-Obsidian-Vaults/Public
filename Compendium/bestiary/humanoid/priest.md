@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Priest
+- "Priest"
 ---
-# [Priest](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/priest.md)
-*Source: Monster Manual p. 348, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Priest](Compendium/bestiary/humanoid/priest.md)
+*Source: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites. A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
 
@@ -24,7 +25,7 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "0"
@@ -37,28 +38,27 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)"
+  - "name": "[Medicine](Rules/skills.md#Medicine)"
     "desc": "+7"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+3"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+5"
+"gear":
+  - "[mace](Compendium/items/mace.md)"
 "senses": "passive Perception 13"
 "languages": "any two languages"
 "cr": "2"
 "traits":
   - "desc": "The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 13, +5 to hit with spell attacks). The priest has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [sacred flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sacred-flame.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [guiding bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guiding-bolt.md),\
-      \ [sanctuary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sanctuary.md)\n\
-      \n**2nd level (3 slots):** [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md),\
-      \ [spiritual weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spiritual-weapon.md)\n\
-      \n**3rd level (2 slots):** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [spirit guardians](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spirit-guardians.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](Compendium/spells/light.md),\
+      \ [sacred flame](Compendium/spells/sacred-flame.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [cure wounds](Compendium/spells/cure-wounds.md),\
+      \ [guiding bolt](Compendium/spells/guiding-bolt.md), [sanctuary](Compendium/spells/sanctuary.md)\n\
+      \n**2nd level (3 slots):** [lesser restoration](Compendium/spells/lesser-restoration.md),\
+      \ [spiritual weapon](Compendium/spells/spiritual-weapon.md)\n\n**3rd level (2\
+      \ slots):** [dispel magic](Compendium/spells/dispel-magic.md), [spirit guardians](Compendium/spells/spirit-guardians.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the priest can expend a spell slot to cause its melee\
       \ weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target\
@@ -72,12 +72,7 @@ Priests bring the teachings of their gods to the common folk. They are the spiri
     "name": "Mace"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/priest.webp"
+"image": "Compendium/bestiary/humanoid/token/priest.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Baseline Costs
+- "Baseline Costs"
 ---
 # Baseline Costs
 *Source: Acquisitions Incorporated p. 17* 

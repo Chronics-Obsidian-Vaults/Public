@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/kenku
 aliases:
-- Kenku
+- "Kenku"
 ---
 # Kenku
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 24*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/kenku.webp#right)
+![](Compendium/races/img/kenku.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -33,7 +34,7 @@ Moreover, when you make an ability check using any skill in which you have profi
 
 ### Mimicry
 
-You can accurately mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations only with a successful Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check against a DC of 8 + your proficiency bonus + your Charisma modifier.
+You can accurately mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations only with a successful Wisdom ([Insight](Rules/skills.md#Insight)) check against a DC of 8 + your proficiency bonus + your Charisma modifier.
 
 ## Description
 

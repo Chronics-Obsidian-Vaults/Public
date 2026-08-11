@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Crab
+- "Giant Crab"
 ---
-# [Giant Crab](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-crab.md)
-*Source: Monster Manual p. 324, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Crab](Compendium/bestiary/beast/giant-crab.md)
+*Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Crab"
@@ -34,10 +35,9 @@ aliases:
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., passive Perception 9"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., passive Perception 9"
 "languages": ""
 "cr": "1/8"
 "traits":
@@ -45,15 +45,13 @@ aliases:
     "name": "Amphibious"
 "actions":
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ + 1) bludgeoning damage, and the target is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 11). The crab has two claws, each of which can grapple only one\
       \ target."
     "name": "Claw"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-crab.webp"
+"image": "Compendium/bestiary/beast/token/giant-crab.webp"
 ```
 ^statblock
 

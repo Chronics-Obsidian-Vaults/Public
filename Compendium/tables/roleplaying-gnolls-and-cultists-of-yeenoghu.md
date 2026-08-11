@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Roleplaying Gnolls and Cultists of Yeenoghu
+- "Roleplaying Gnolls and Cultists of Yeenoghu"
 ---
 # Roleplaying Gnolls and Cultists of Yeenoghu
 *Source: Volo's Guide to Monsters p. 36* 

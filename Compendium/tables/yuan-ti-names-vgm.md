@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Yuan-ti Names
+- "Yuan-ti Names"
 ---
 # Yuan-ti Names
 *Source: Volo's Guide to Monsters p. 99* 

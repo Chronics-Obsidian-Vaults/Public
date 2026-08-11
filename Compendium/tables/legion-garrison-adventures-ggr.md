@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Legion Garrison Adventures
+- "Legion Garrison Adventures"
 ---
 # Legion Garrison Adventures
 *Source: Guildmasters' Guide to Ravnica p. 132* 

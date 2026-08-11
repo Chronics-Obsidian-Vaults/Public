@@ -7,11 +7,10 @@ tags:
 - source/object/size/varies
 - source/object/type/generic
 aliases:
-- Generic Object
+- "Generic Object"
 ---
 # Generic Object
-%%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+*Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
 
@@ -25,13 +24,13 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-![Object Armor Class](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/object-armor-class.md)
+![Object Armor Class](Compendium/tables/object-armor-class.md)
 
 ### Hit Points
 
 An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-![Object Hit Points](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/object-hit-points.md)
+![Object Hit Points](Compendium/tables/object-hit-points.md)
 
 ### Huge and Gargantuan Objects
 
@@ -44,15 +43,15 @@ Objects are immune to poison and psychic damage. You might decide that some dama
 ### Damage Threshold
 
 Big objects such as castle walls often have extra resilience represented by a damage threshold. An object with a damage threshold has immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes damage as normal. Any damage that fails to meet or exceed the object's damage threshold is considered superficial and doesn't reduce the object's hit points.
-
 ## Statblock
 
 ```ad-statblock
 title: Generic Object
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/objects/token/generic-object.webp#token)
+![](Compendium/objects/token/generic-object.webp#token)
 *Varies Generic*
 
-
+- **Armor Class** (Varies (see below))
+- **Hit Points** Varies (see below) (Varies (see below))
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|

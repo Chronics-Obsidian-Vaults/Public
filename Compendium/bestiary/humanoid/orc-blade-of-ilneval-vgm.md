@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/4
@@ -14,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Blade of Ilneval
+- "Orc Blade of Ilneval"
 ---
-# [Orc Blade of Ilneval](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/orc-blade-of-ilneval-vgm.md)
+# [Orc Blade of Ilneval](Compendium/bestiary/humanoid/orc-blade-of-ilneval-vgm.md)
 *Source: Volo's Guide to Monsters p. 183*  
 
 Ilneval is Gruumsh's battle captain, a devious strategist who directs Gruumsh's soldiers with boldness. Among orcs, warriors that venerate Ilneval emulate their deity. Such orcs learn to command their fellows in ways that are unpredictable but help to ensure victory.
@@ -41,8 +42,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[chain mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-mail.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[chain mail](Compendium/items/chain-mail.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "0"
@@ -57,14 +57,16 @@ In addition, orcs have special relationships with two creatures that are sometim
 "saves":
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+3"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common, Orc"
 "cr": "4"
 "traits":
@@ -91,7 +93,7 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Ilneval's Command (Recharge 4-6)"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/orc-blade-of-ilneval-vgm.webp"
+"image": "Compendium/bestiary/humanoid/token/orc-blade-of-ilneval-vgm.webp"
 ```
 ^statblock
 

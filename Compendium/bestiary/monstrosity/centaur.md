@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Centaur
+- "Centaur"
 ---
-# [Centaur](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/centaur.md)
-*Source: Monster Manual p. 38, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Centaur](Compendium/bestiary/monstrosity/centaur.md)
+*Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast wilderness, keeping far from borders, laws, and the company of other creatures.
 
@@ -53,12 +54,15 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
   - !!int "11"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+3"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[pike](Compendium/items/pike.md)"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
 "cr": "2"
@@ -82,8 +86,7 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
     "name": "Longbow"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/centaur.webp"
+"image": "Compendium/bestiary/monstrosity/token/centaur.webp"
 ```
 ^statblock
 

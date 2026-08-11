@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -11,16 +12,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vegepygmy
+- "Vegepygmy"
 ---
-# [Vegepygmy](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/vegepygmy-mpmm.md)
+# [Vegepygmy](Compendium/bestiary/plant/vegepygmy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196*  
 
-Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [russet mold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/russet-mold-vgm.md). One or more vegepygmies emerge from the corpse a day later.
+Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [russet mold](Compendium/traps-hazards/russet-mold-vgm.md). One or more vegepygmies emerge from the corpse a day later.
 
 ## Vegepygmies
 
-Vegepygmies are fungus creatures that live in simple bands, hunting for sustenance and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [myconid adults](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/myconid-adult.md), [shriekers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/shrieker.md), and [violet fungi](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/violet-fungus.md).
+Vegepygmies are fungus creatures that live in simple bands, hunting for sustenance and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [myconid adults](Compendium/bestiary/plant/myconid-adult.md), [shriekers](Compendium/bestiary/plant/shrieker.md), and [violet fungi](Compendium/bestiary/plant/violet-fungus.md).
 
 Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, so they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can't speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and tapping. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 
@@ -43,17 +44,18 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "lightning, piercing"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"gear":
+  - "[sling](Compendium/items/sling.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Vegepygmy"
 "cr": "1/4"
 "traits":
-  - "desc": "The vegepygmy has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The vegepygmy has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks it makes in any terrain with ample obscuring vegetation."
     "name": "Plant Camouflage"
   - "desc": "The vegepygmy regains 3 hit points at the start of its turn. If it takes\
@@ -71,7 +73,7 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/vegepygmy-mpmm.webp"
+"image": "Compendium/bestiary/plant/token/vegepygmy-mpmm.webp"
 ```
 ^statblock
 

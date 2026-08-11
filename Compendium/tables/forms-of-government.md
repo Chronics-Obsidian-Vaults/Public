@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Forms of Government
+- "Forms of Government"
 ---
 # Forms of Government
 *Source: Dungeon Master's Guide p. 18* 

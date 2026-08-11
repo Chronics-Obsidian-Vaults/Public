@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/rarity/common
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Orb of Direction"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Orb of Direction
 *Wondrous item, minor, common*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/orb-of-direction.webp#right)
+![](Compendium/items/img/orb-of-direction.webp#right)
 
 - **Weight**: 3.0 lbs.
 

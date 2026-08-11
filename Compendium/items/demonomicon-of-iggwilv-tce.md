@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/artifact
-aliases: 
+aliases:
 - "Demonomicon of Iggwilv"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Demonomicon of Iggwilv
 *Wondrous item, artifact (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/demonomicon-of-iggwilv.webp#right)
+![](Compendium/items/img/demonomicon-of-iggwilv.webp#right)
 
 
 An expansive treatise documenting the Abyss's infinite layers and inhabitants, the Demonomicon of Iggwilv is the most thorough and blasphemous tome of demonology in the multiverse. The tome recounts both the oldest and most current profanities of the Abyss and demons. Demons have attempted to censor the text, and while sections have been ripped from the book's spine, the general chapters remain, ever revealing demonic secrets. And the book holds more than blasphemies. Caged behind lines of script roils a secret piece of the Abyss itself, which keeps the book up-to-date, no matter how many pages are removed, and it longs to be more than mere reference material.
@@ -23,17 +24,17 @@ An expansive treatise documenting the Abyss's infinite layers and inhabitants, t
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor beneficial](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
-- 1 [minor detrimental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-detrimental-properties.md) property  
-- 1 [major detrimental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-detrimental-properties.md) property  
+- 2 [minor beneficial](Compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
+- 1 [minor detrimental](Compendium/tables/artifact-properties-minor-detrimental-properties.md) property  
+- 1 [major detrimental](Compendium/tables/artifact-properties-major-detrimental-properties.md) property  
 
 ## Spells
 
-The book has 8 charges. It regains `1d8` expended charges daily at dawn. While holding it, you can use an action to cast [Tasha's hideous laughter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-hideous-laughter.md) from it or to expend 1 or more of its charges to cast one of the following spells (save DC 20) from it: [magic circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-circle.md) (1 charge), [magic jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-jar.md) (3 charges), [planar ally](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/planar-ally.md) (3 charges), [planar binding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/planar-binding.md) (2 charges), [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md) (to layers of the Abyss only; 3 charges), [summon fiend](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/summon-fiend-tce.md) (3 charges).
+The book has 8 charges. It regains `1d8` expended charges daily at dawn. While holding it, you can use an action to cast [Tasha's hideous laughter](Compendium/spells/tashas-hideous-laughter.md) from it or to expend 1 or more of its charges to cast one of the following spells (save DC 20) from it: [magic circle](Compendium/spells/magic-circle.md) (1 charge), [magic jar](Compendium/spells/magic-jar.md) (3 charges), [planar ally](Compendium/spells/planar-ally.md) (3 charges), [planar binding](Compendium/spells/planar-binding.md) (2 charges), [plane shift](Compendium/spells/plane-shift.md) (to layers of the Abyss only; 3 charges), [summon fiend](Compendium/spells/summon-fiend-tce.md) (3 charges).
 
 ## Abyssal Reference
 
-You can reference the *Demonomicon* whenever you make an Intelligence check to discern information about demons or a Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) check related to the Abyss. When you do so, you can add double your proficiency bonus to the check.
+You can reference the *Demonomicon* whenever you make an Intelligence check to discern information about demons or a Wisdom ([Survival](Rules/skills.md#Survival)) check related to the Abyss. When you do so, you can add double your proficiency bonus to the check.
 
 ## Fiendish Scourging
 
@@ -41,11 +42,11 @@ Your magic causes pain to fiends. While carrying the book, when you make a damag
 
 ## Ensnarement
 
-While carrying the book, whenever you cast the [magic circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-circle.md) spell naming only fiends, or the [planar binding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/planar-binding.md) spell targeting a fiend, the spell is cast at 9th level, regardless of what level spell slot you used, if any. Additionally, the fiend has disadvantage on its saving throw against the spell.
+While carrying the book, whenever you cast the [magic circle](Compendium/spells/magic-circle.md) spell naming only fiends, or the [planar binding](Compendium/spells/planar-binding.md) spell targeting a fiend, the spell is cast at 9th level, regardless of what level spell slot you used, if any. Additionally, the fiend has disadvantage on its saving throw against the spell.
 
 ## Containment
 
-The first 10 pages of the *Demonomicon* are blank. As an action while holding the book, you can target a fiend that you can see that is trapped within a [magic circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-circle.md). The fiend must succeed on a DC 20 Charisma saving throw with disadvantage or become trapped within one of the *Demonomicon's* empty blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
+The first 10 pages of the *Demonomicon* are blank. As an action while holding the book, you can target a fiend that you can see that is trapped within a [magic circle](Compendium/spells/magic-circle.md). The fiend must succeed on a DC 20 Charisma saving throw with disadvantage or become trapped within one of the *Demonomicon's* empty blank pages, which fills with writing detailing the trapped creature's widely known name and depravities. Once used, this action can't be used again until the next dawn.
 
 When you finish a long rest, if you and the *Demonomicon* are on the same plane of existence, the trapped creature of the highest challenge rating within the book can attempt to possess you. You must make a DC 20 Charisma saving throw. On a failure, you are possessed by the creature, which controls you like a puppet. The possessing creature can release you as an action, appearing in the closest unoccupied space. On a successful save, the fiend can't try to possess you again for 7 days.
 

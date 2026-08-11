@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/attunement/required
 - source/item/rarity/legendary
-aliases: 
+aliases:
 - "Nightfall Pearl"
 item_type: 
 item_subtype: 

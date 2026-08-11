@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/azorius-functionary
@@ -11,10 +12,10 @@ tags:
 - source/spell/feat/fey-touched
 - source/spell/feat/magic-initiate/cleric-spells
 - source/spell/level/1st-level
-- source/spell/reward/klothyss-devotee
+- source/spell/reward/azorius-charm
 - source/spell/school/enchantment
 - source/spell/subclass/college-of-glamour
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/knowledge-domain
 - source/spell/subclass/oath-of-conquest
 - source/spell/subclass/oath-of-the-crown
@@ -29,10 +30,10 @@ classes:
 - Paladin
 - Paladin (Oath of Conquest)
 - Paladin (Oath of the Crown)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Warlock (The Fiend)
 aliases:
-- Command
+- "Command"
 level: 1
 school: enchantment
 ritual: false
@@ -70,7 +71,7 @@ The target spends its turn moving away from you by the fastest available means.
 
 ## Grovel
 
-The target falls [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) and then ends its turn.
+The target falls [prone](Rules/conditions.md#Prone) and then ends its turn.
 
 ## Halt
 
@@ -82,6 +83,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ## Summary
 
-**Classes**: [Bard (College of Glamour)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-college-of-glamour-xge.md "subclass=XGE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-knowledge-domain.md); [Cleric (Order Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Conquest)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Paladin (Oath of the Crown)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-crown-scag.md "subclass=SCAG"); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Fiend)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-fiend.md)
+**Classes**: [Bard (College of Glamour)](Compendium/lists/list-spells-classes-college-of-glamour-xge.md "subclass=XGE"); [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain.md); [Cleric (Order Domain)](Compendium/lists/list-spells-classes-order-domain-tce.md "subclass=TCE"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Conquest)](Compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Paladin (Oath of the Crown)](Compendium/lists/list-spells-classes-oath-of-the-crown-scag.md "subclass=SCAG"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Fiend)](Compendium/lists/list-spells-classes-the-fiend.md)
 
 *Source: Player's Handbook p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/weapon/ranged
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Dart"
 item_type: weapon
 item_subtype: "ranged, simple"
@@ -19,7 +20,7 @@ attunement: none
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Thrown](Rules/item-properties.md#Thrown)
 - **Cost**: 5 cp
 - **Weight**: 0.25 lbs.
 

@@ -8,11 +8,11 @@ tags:
 - source/vehicle/terrain/air
 - source/vehicle/type/ship
 aliases:
-- Battle Balloon
+- "Battle Balloon"
 ---
 # Battle Balloon
-%%-- Embedded content starts on the next line. --%%
 *Source: Acquisitions Incorporated p. 218*  
+![](Compendium/vehicles/img/battle-balloon.webp#right)
 
 *Through the winter clouds that surround the castle on this desolate hill, you see a shape emerge. Something so gigantic, you can't believe it can actually fly.*
 
@@ -45,12 +45,11 @@ Whether privately financed or loaned out by Head Office under extraordinarily ca
 ## Mobile Franchise Headquarters
 
 A battle balloon is perhaps the most sought-after of the mobile headquarters options available to Acquisitions Incorporated franchises. The versatility of an airship allows for the rapid shipping of goods, mercenaries, and loot. Such a vessel also allows a quick escape from sticky developments and deals gone bad.
-
 ## Statblock
 
 ```ad-statblock
 title: Battle Balloon
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/vehicles/token/battle-balloon-ai.webp#token)
+![](Compendium/vehicles/token/battle-balloon-ai.webp#token)
 *Gargantuan vehicle (80 ft. by 20 ft.); air*
 
 - **Creature Capacity** 20 crew, 10 passengers
@@ -63,7 +62,7 @@ title: Battle Balloon
 |18 (+4)|17 (+3)|20 (+5)| 0 (-5)| 0 (-5)| 0 (-5)|
 
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened), [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed), [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified), [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned), [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone), [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned), [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)
+- **Condition Immunities** [blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened), [incapacitated](Rules/conditions.md#Incapacitated), [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone), [stunned](Rules/conditions.md#Stunned), [unconscious](Rules/conditions.md#Unconscious)
 
 ## Actions
 
@@ -72,7 +71,7 @@ On its turn the battle balloon can take 3 actions if it has twenty or more crew,
 - **Fire Ballista.** The battle balloon can fire its harpoon guns.  
 - **Fire Green Flame Arbalester.** The battle balloon can fire its green flame arbalester.  
 - **Move.** The battle balloon can use its helm to move using its propeller. If the battle balloon enters a Large or smaller creature's space, that creature is automatically pushed to the edge of the battle balloon's space. The creature must also succeed on a DC 15 Dexterity saving throw or take 5 (1d10) bludgeoning damage.  
-- **Harpoon Haul.** The battle balloon can pull each target [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) by it up to 30 feet toward the battle balloon.  
+- **Harpoon Haul.** The battle balloon can pull each target [grappled](Rules/conditions.md#Grappled) by it up to 30 feet toward the battle balloon.  
 
 ## Hull
 
@@ -111,6 +110,6 @@ If its balloon is destroyed, a battle balloon cannot maintain altitude.
 - **Armor Class** 15
 - **Hit Points** 50
 
-*Ranged Weapon Attack:* `+8` to hit, range 120/480 ft., one target. *Hit:* 11 (`2d10`) piercing damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) (escape DC 16). Until the grapple ends, the target's speed is halved, and it can't move farther away from the battle balloon. Each of the battle balloon's harpoon guns can grapple one target. While it has one or more targets [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) with its harpoon gun attack, the battle balloon's speed is not halved.
+*Ranged Weapon Attack:* `+8` to hit, range 120/480 ft., one target. *Hit:* 11 (`2d10`) piercing damage, and the target is [grappled](Rules/conditions.md#Grappled) (escape DC 16). Until the grapple ends, the target's speed is halved, and it can't move farther away from the battle balloon. Each of the battle balloon's harpoon guns can grapple one target. While it has one or more targets [grappled](Rules/conditions.md#Grappled) with its harpoon gun attack, the battle balloon's speed is not halved.
 ```
 ^statblock

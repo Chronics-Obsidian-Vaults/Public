@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin
+- "Sahuagin"
 ---
-# [Sahuagin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/sahuagin.md)
-*Source: Monster Manual p. 263, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Sahuagin](Compendium/bestiary/humanoid/sahuagin.md)
+*Source: Monster Manual p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
@@ -63,10 +64,11 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - !!int "9"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 15"
 "languages": "Sahuagin"
 "cr": "1/2"
 "traits":
@@ -95,8 +97,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
     "name": "Spear"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/sahuagin.webp"
+"image": "Compendium/bestiary/humanoid/token/sahuagin.webp"
 ```
 ^statblock
 

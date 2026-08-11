@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Disaster Guilds
+- "Disaster Guilds"
 ---
 # Disaster Guilds
 *Source: Guildmasters' Guide to Ravnica p. 125* 

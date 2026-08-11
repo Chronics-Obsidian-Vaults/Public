@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Armor
+- "Animated Armor"
 ---
-# [Animated Armor](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/animated-armor.md)
-*Source: Monster Manual p. 19, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Animated Armor](Compendium/bestiary/construct/animated-armor.md)
+*Source: Monster Manual p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
 
@@ -45,25 +46,20 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
   - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 6"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 6"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The armor is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md).\
-      \ If targeted by [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ the armor must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
-      \ for 1 minute."
+  - "desc": "The armor is [incapacitated](Rules/conditions.md#Incapacitated) while\
+      \ in the area of an [antimagic field](Compendium/spells/antimagic-field.md).\
+      \ If targeted by [dispel magic](Compendium/spells/dispel-magic.md), the armor\
+      \ must succeed on a Constitution saving throw against the caster's spell save\
+      \ DC or fall [unconscious](Rules/conditions.md#Unconscious) for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the armor remains motionless, it is indistinguishable from a normal\
       \ suit of armor."
@@ -76,8 +72,6 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
     "name": "Slam"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/animated-armor.webp"
+"image": "Compendium/bestiary/construct/token/animated-armor.webp"
 ```
 ^statblock

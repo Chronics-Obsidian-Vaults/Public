@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/17
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blue Abishai
+- "Blue Abishai"
 ---
-# [Blue Abishai](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/blue-abishai-mpmm.md)
+# [Blue Abishai](Compendium/bestiary/fiend/blue-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
@@ -50,18 +51,17 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "intelligence": !!int "12"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+12"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, lightning, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "17"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -76,13 +76,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
       \ 36 (8d8) lightning damage."
     "name": "Lightning Strike"
   - "desc": "The abishai casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 20):\n\n**At will:** [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md)\n\
-      \n**2/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md),\
-      \ [wall of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md)"
+      \ the spellcasting ability (spell save DC 20):\n\n**At will:** [disguise self](Compendium/spells/disguise-self.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [minor illusion](Compendium/spells/minor-illusion.md)\n\
+      \n**2/day each:** [charm person](Compendium/spells/charm-person.md), [dispel\
+      \ magic](Compendium/spells/dispel-magic.md), [greater invisibility](Compendium/spells/greater-invisibility.md),\
+      \ [wall of force](Compendium/spells/wall-of-force.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The abishai teleports, along with any equipment it is wearing or carrying,\
@@ -91,7 +89,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/blue-abishai-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/blue-abishai-mpmm.webp"
 ```
 ^statblock
 

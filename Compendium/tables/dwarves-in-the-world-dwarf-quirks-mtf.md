@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Dwarves in the World; Dwarf Quirks
+- "Dwarves in the World; Dwarf Quirks"
 ---
 # Dwarves in the World; Dwarf Quirks
 *Source: Mordenkainen's Tome of Foes p. 83* 

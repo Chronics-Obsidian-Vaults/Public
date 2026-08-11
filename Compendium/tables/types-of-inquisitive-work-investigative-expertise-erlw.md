@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Types of Inquisitive Work; Investigative Expertise
+- "Types of Inquisitive Work; Investigative Expertise"
 ---
 # Types of Inquisitive Work; Investigative Expertise
 *Source: Eberron: Rising from the Last War p. 87* 

@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/order
 - source/domain/war
-aliases: 
-- Bane
+aliases:
+- "Bane"
 ---
 # Bane
 *Source: Dungeon Master's Guide p. 10* 

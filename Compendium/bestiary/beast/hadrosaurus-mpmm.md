@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hadrosaurus
+- "Hadrosaurus"
 ---
-# [Hadrosaurus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/hadrosaurus-mpmm.md)
+# [Hadrosaurus](Compendium/bestiary/beast/hadrosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
@@ -38,7 +39,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""
@@ -50,7 +51,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/hadrosaurus-mpmm.webp"
+"image": "Compendium/bestiary/beast/token/hadrosaurus-mpmm.webp"
 ```
 ^statblock
 

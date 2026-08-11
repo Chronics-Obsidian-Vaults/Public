@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/7
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stone Giant
+- "Stone Giant"
 ---
-# [Stone Giant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/stone-giant.md)
-*Source: Monster Manual p. 156, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Stone Giant](Compendium/bestiary/giant/stone-giant.md)
+*Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
 
@@ -102,16 +103,17 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+12"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[greatclub](Compendium/items/greatclub.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Giant"
 "cr": "7"
 "traits":
-  - "desc": "The giant has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The giant has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
@@ -122,7 +124,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "name": "Greatclub"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 17 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ on a DC 17 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Rock"
 "reactions":
   - "desc": "If a rock or similar object is hurled at the giant, the giant can, with\
@@ -131,8 +133,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "name": "Rock Catching"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/stone-giant.webp"
+"image": "Compendium/bestiary/giant/token/stone-giant.webp"
 ```
 ^statblock
 

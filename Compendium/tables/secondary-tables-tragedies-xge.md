@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Secondary Tables; Tragedies
+- "Secondary Tables; Tragedies"
 ---
 # Secondary Tables; Tragedies
 *Source: Xanathar's Guide to Everything p. 70* 

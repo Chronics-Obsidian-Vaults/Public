@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/attunement/required
@@ -9,7 +10,7 @@ tags:
 - source/item/weapon/melee
 - source/item/weapon/simple
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armblade"
 - "Battleaxe Armblade"
 - "Club Armblade"
@@ -41,7 +42,7 @@ attunement: required
 ---
 # Armblade
 *Common (requires attunement by a warforged)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/armblade.webp#right)
+![](Compendium/items/img/armblade.webp#right)
 
 
 An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.
@@ -78,20 +79,20 @@ As a bonus action, you can retract the armblade into your forearm or extend it f
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Club Armblade
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Dagger Armblade
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light), [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Flail Armblade
@@ -103,33 +104,33 @@ As a bonus action, you can retract the armblade into your forearm or extend it f
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Light](Rules/item-properties.md#Light), [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Hooked Shortspear Armblade
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Javelin Armblade
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Lance Armblade
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### Light Hammer Armblade
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Light](Rules/item-properties.md#Light), [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Longsword Armblade
@@ -137,7 +138,7 @@ As a bonus action, you can retract the armblade into your forearm or extend it f
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Mace Armblade
@@ -155,31 +156,31 @@ As a bonus action, you can retract the armblade into your forearm or extend it f
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Rapier Armblade
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Scimitar Armblade
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword Armblade
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Sickle Armblade
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Spear Armblade
@@ -188,7 +189,7 @@ As a bonus action, you can retract the armblade into your forearm or extend it f
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown), [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Trident Armblade
@@ -197,7 +198,7 @@ As a bonus action, you can retract the armblade into your forearm or extend it f
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown), [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### War Pick Armblade
@@ -205,7 +206,7 @@ As a bonus action, you can retract the armblade into your forearm or extend it f
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Warhammer Armblade
@@ -213,20 +214,20 @@ As a bonus action, you can retract the armblade into your forearm or extend it f
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### Whip Armblade
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Reach](Rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 ### Yklwa Armblade
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
 

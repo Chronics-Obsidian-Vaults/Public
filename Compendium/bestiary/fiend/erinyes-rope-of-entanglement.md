@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/12
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Erinyes (Rope of Entanglement)
+- "Erinyes (Rope of Entanglement)"
 ---
-# [Erinyes (Rope of Entanglement)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/erinyes-rope-of-entanglement.md)
-*Source: Monster Manual p. 73, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Erinyes (Rope of Entanglement)](Compendium/bestiary/fiend/erinyes-rope-of-entanglement.md)
+*Source: Monster Manual p. 73. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ```statblock
 "name": "Erinyes (Rope of Entanglement)"
@@ -21,7 +22,7 @@ aliases:
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
 "modifier": !!int "3"
@@ -41,9 +42,11 @@ aliases:
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 12"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "12"
 "traits":
@@ -53,10 +56,10 @@ aliases:
   - "desc": "The erinyes has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
-  - "desc": "The erinyes carries a [rope of entanglement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rope-of-entanglement.md)."
+  - "desc": "The erinyes carries a [rope of entanglement](Compendium/items/rope-of-entanglement.md)."
     "name": "Special Equipment"
 "actions":
-  - "desc": "The erinyes makes three attacks. It can use its [rope of entanglement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rope-of-entanglement.md)\
+  - "desc": "The erinyes makes three attacks. It can use its [rope of entanglement](Compendium/items/rope-of-entanglement.md)\
       \ in place of two of the attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
@@ -65,8 +68,8 @@ aliases:
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must\
-      \ succeed on a DC 14 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ The poison lasts until it is removed by the [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md)\
+      \ succeed on a DC 14 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned).\
+      \ The poison lasts until it is removed by the [lesser restoration](Compendium/spells/lesser-restoration.md)\
       \ spell or similar magic."
     "name": "Longbow"
 "reactions":
@@ -75,6 +78,5 @@ aliases:
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hezrou
+- "Hezrou"
 ---
-# [Hezrou](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/hezrou.md)
-*Source: Monster Manual p. 60, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Hezrou](Compendium/bestiary/fiend/hezrou.md)
+*Source: Monster Manual p. 60. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Hezrous serve as foot soldiers in the demonic hordes of the Abyss. Although physically powerful, they are weak-minded and hezrous can easily be duped into sacrificing themselves by more powerful demons. As they press their attacks into the heart of an enemy's forces, their foul stench can sicken even the toughest foes.
 
@@ -156,7 +157,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -209,9 +210,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -219,7 +219,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ effects."
     "name": "Magic Resistance"
   - "desc": "Any creature that starts its turn within 10 feet of the hezrou must succeed\
-      \ on a DC 14 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ on a DC 14 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned)\
       \ until the start of its next turn. On a successful saving throw, the creature\
       \ is immune to the hezrou's stench for 24 hours."
     "name": "Stench"
@@ -234,8 +234,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Claws"
 "source":
   - "MM"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/hezrou.webp"
+"image": "Compendium/bestiary/fiend/token/hezrou.webp"
 ```
 ^statblock

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bmt
 - source/hazard/mech
 aliases:
-- Test of the Empty Moon
+- "Test of the Empty Moon"
 ---
 # Test of the Empty Moon
 *Mechanical Trap*  
@@ -19,24 +19,24 @@ Adding sufficient weight to a hidden scale beneath the bowl opens the portcullis
 
 ## Metal Bowl
 
-The bowl is 30 feet wide and 20 feet deep and weighs 2,000 pounds. Its smooth texture and shape make it difficult terrain. A creature that enters the bowl or ends its turn inside it must succeed on a DC 15 Dexterity saving throw or have the [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) condition. The bowl is impossible to climb out of without assistance such as rope or magic. The bowl's lip is flush with the floor, but the bowl wobbles slightly if pushed.
+The bowl is 30 feet wide and 20 feet deep and weighs 2,000 pounds. Its smooth texture and shape make it difficult terrain. A creature that enters the bowl or ends its turn inside it must succeed on a DC 15 Dexterity saving throw or have the [prone](Rules/conditions.md#Prone) condition. The bowl is impossible to climb out of without assistance such as rope or magic. The bowl's lip is flush with the floor, but the bowl wobbles slightly if pushed.
 
 ## Weight Scale and Moon Glyph
 
-Hidden beneath the bowl is an [Immovable Rod](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/immovable-rod.md) that separates the bowl from a large weight scale just below it. The rod can be detected with the [Detect Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md) spell. Deactivating the rod (see "Lever" below) causes it to fall away, dropping the bowl onto the scale. The rod can't be recovered from this room.
+Hidden beneath the bowl is an [Immovable Rod](Compendium/items/immovable-rod.md) that separates the bowl from a large weight scale just below it. The rod can be detected with the [Detect Magic](Compendium/spells/detect-magic.md) spell. Deactivating the rod (see "Lever" below) causes it to fall away, dropping the bowl onto the scale. The rod can't be recovered from this room.
 
 Transmutation magic connects the scale to the moon glyph above the portcullis. As more weight is placed on the scale, the moon glyph above the portcullis gets fuller and glows brighter. When a total of 4,000 pounds of pressure is applied to the scale, the glyph is fully illuminated, like a full moon, and the portcullis opens. The portcullis remains open as long as the moon glyph remains full.
 
 > Under Pressure
 > 
-> Canny characters might realize that shoving enemies into the bowl is a quick way to resolve the trap. Spells such as [Telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md) or [Levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md) could also feasibly add pressure to the scale beneath the bowl.
+> Canny characters might realize that shoving enemies into the bowl is a quick way to resolve the trap. Spells such as [Telekinesis](Compendium/spells/telekinesis.md) or [Levitate](Compendium/spells/levitate.md) could also feasibly add pressure to the scale beneath the bowl.
 
 ## Lever
 
-When the lever is pulled, a mechanism in the floor pushes the button that deactivates the [Immovable Rod](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/immovable-rod.md). The weight of the bowl causes the moon glyph to glow like a half moon. Simultaneously, valves open within the sewer pipes, releasing four oozes (see "Monsters" below) and a flood of water that pours from each pipe, down the channels on the floor, and into the bowl. The pipes release 1,000 pounds of water every minute. After 2 minutes, the bowl is full. After 4 minutes, several inches of water cover the floor, and enough water has poured into the room to illuminate the moon glyph; at this point, the flooding stops and the portcullis opens.
+When the lever is pulled, a mechanism in the floor pushes the button that deactivates the [Immovable Rod](Compendium/items/immovable-rod.md). The weight of the bowl causes the moon glyph to glow like a half moon. Simultaneously, valves open within the sewer pipes, releasing four oozes (see "Monsters" below) and a flood of water that pours from each pipe, down the channels on the floor, and into the bowl. The pipes release 1,000 pounds of water every minute. After 2 minutes, the bowl is full. After 4 minutes, several inches of water cover the floor, and enough water has poured into the room to illuminate the moon glyph; at this point, the flooding stops and the portcullis opens.
 
 ## Monsters
 
-When the lever is pulled, four [ochre jellies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/ochre-jelly.md) are released, one slithering from each pipe and crawling along the ceiling to drop on the characters. Each ochre jelly weighs 500 pounds.
+When the lever is pulled, four [ochre jellies](Compendium/bestiary/ooze/ochre-jelly.md) are released, one slithering from each pipe and crawling along the ceiling to drop on the characters. Each ochre jelly weighs 500 pounds.
 
 *Source: The Book of Many Things p. 31*

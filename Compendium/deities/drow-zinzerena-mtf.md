@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/drow
 - source/domain/trickery
-aliases: 
-- Zinzerena
+aliases:
+- "Zinzerena"
 ---
 # Zinzerena
 *Source: Mordenkainen's Tome of Foes p. 56* 

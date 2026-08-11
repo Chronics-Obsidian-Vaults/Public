@@ -5,14 +5,14 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Flanking
+- "Flanking"
 ---
 # Flanking
 *Source: Dungeon Master's Guide p. 251* 
 
 If you regularly use miniatures, flanking gives combatants a simple way to gain advantage on attack rolls against a common enemy.
 
-A creature can't flank an enemy that it can't see. A creature also can't flank while it is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated). A Large or larger creature is flanking as long as at least one square or hex of its space qualifies for flanking.
+A creature can't flank an enemy that it can't see. A creature also can't flank while it is [incapacitated](Rules/conditions.md#Incapacitated). A Large or larger creature is flanking as long as at least one square or hex of its space qualifies for flanking.
 
 ## Flanking on Squares
 

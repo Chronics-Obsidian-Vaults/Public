@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gelatinous Cube
+- "Gelatinous Cube"
 ---
-# [Gelatinous Cube](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\ooze/gelatinous-cube.md)
-*Source: Monster Manual p. 242, Eberron: Rising from the Last War, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Gelatinous Cube](Compendium/bestiary/ooze/gelatinous-cube.md)
+*Source: Monster Manual p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
 
@@ -41,14 +42,11 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
   - !!int "6"
   - !!int "1"
 "speed": "15 ft."
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [prone](Rules/conditions.md#Prone)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
@@ -62,10 +60,9 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
       \ creatures inside it at a time."
     "name": "Ooze Cube"
   - "desc": "Even when the cube is in plain sight, it takes a successful DC 15 Wisdom\
-      \ ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ check to spot a cube that has neither moved nor attacked. A creature that\
-      \ tries to enter the cube's space while unaware of the cube is [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised)\
-      \ by the cube."
+      \ ([Perception](Rules/skills.md#Perception)) check to spot a cube that has neither\
+      \ moved nor attacked. A creature that tries to enter the cube's space while\
+      \ unaware of the cube is [surprised](Rules/conditions.md#Surprised) by the cube."
     "name": "Transparent"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10\
@@ -78,18 +75,16 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
       \ A creature that chooses not to be pushed suffers the consequences of a failed\
       \ saving throw.\n\nOn a failed save, the cube enters the creature's space, and\
       \ the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature\
-      \ can't breathe, is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-      \ and takes 21 (6d6) acid damage at the start of each of the cube's turns. When\
-      \ the cube moves, the engulfed creature moves with it.\n\nAn engulfed creature\
-      \ can try to escape by taking an action to make a DC 12 Strength check. On a\
-      \ success, the creature escapes and enters a space of its choice within 5 feet\
-      \ of the cube."
+      \ can't breathe, is [restrained](Rules/conditions.md#Restrained), and takes\
+      \ 21 (6d6) acid damage at the start of each of the cube's turns. When the cube\
+      \ moves, the engulfed creature moves with it.\n\nAn engulfed creature can try\
+      \ to escape by taking an action to make a DC 12 Strength check. On a success,\
+      \ the creature escapes and enters a space of its choice within 5 feet of the\
+      \ cube."
     "name": "Engulf"
 "source":
   - "MM"
-  - "ERLW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/token/gelatinous-cube.webp"
+"image": "Compendium/bestiary/ooze/token/gelatinous-cube.webp"
 ```
 ^statblock
 

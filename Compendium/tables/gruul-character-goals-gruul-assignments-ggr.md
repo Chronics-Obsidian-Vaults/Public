@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Gruul Character Goals; Gruul Assignments
+- "Gruul Character Goals; Gruul Assignments"
 ---
 # Gruul Character Goals; Gruul Assignments
 *Source: Guildmasters' Guide to Ravnica p. 143* 

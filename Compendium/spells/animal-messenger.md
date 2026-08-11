@@ -1,22 +1,23 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/selesnya-initiate
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/ranger
+- source/spell/feat/mark-of-scribing
 - source/spell/level/2nd-level
 - source/spell/ritual
 - source/spell/school/enchantment
-- source/spell/subrace/gnome-mark-of-scribing
 classes:
 - Bard (Magical Secrets)
 - Druid
 - Ranger
 aliases:
-- Animal Messenger
+- "Animal Messenger"
 level: 2
 ritual: true
 school: enchantment
@@ -42,6 +43,6 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 **At Higher Levels.** If you cast this spell using a spell slot of 3rd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

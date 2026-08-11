@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Triceratops
+- "Triceratops"
 ---
-# [Triceratops](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/triceratops.md)
+# [Triceratops](Compendium/bestiary/beast/triceratops.md)
 *Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 One of the most aggressive of the herbivorous dinosaurs, a triceratops has a skull that flares out to form a protective plate of bone. With its great horns and formidable speed, a triceratops gores and tramples would-be predators to death.
@@ -47,20 +48,20 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "traits":
   - "desc": "If the triceratops moves at least 20 feet straight toward a creature\
       \ and then hits it with a gore attack on the same turn, that target must succeed\
-      \ on a DC 13 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ If the target is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ the triceratops can make one stomp attack against it as a bonus action."
+      \ on a DC 13 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
+      \ If the target is [prone](Rules/conditions.md#Prone), the triceratops can make\
+      \ one stomp attack against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 24\
       \ (4d8 + 6) piercing damage."
     "name": "Gore"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
-      \ creature. *Hit:* 22 (3d10 + 6) bludgeoning damage"
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one [prone](Rules/conditions.md#Prone)\
+      \ creature. *Hit:* 22 (3d10 + 6) bludgeoning damage."
     "name": "Stomp"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/triceratops.webp"
+"image": "Compendium/bestiary/beast/token/triceratops.webp"
 ```
 ^statblock
 

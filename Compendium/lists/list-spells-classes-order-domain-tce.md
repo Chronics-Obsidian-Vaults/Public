@@ -5,31 +5,31 @@ cssclasses:
 tags:
 - source/spell/list/subclass/order-domain
 aliases:
-- Spells for Order Domain
+- "Spells for Order Domain"
 ---
 # Spells for Order Domain
 
 ## 1st Level
 
-- [Command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md "PHB") 
-- [Heroism](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heroism.md "PHB") 
+- [Command](Compendium/spells/command.md "PHB")
+- [Heroism](Compendium/spells/heroism.md "PHB")
 
 ## 2nd Level
 
-- [Hold Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md "PHB") 
-- [Zone of Truth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/zone-of-truth.md "PHB") 
+- [Hold Person](Compendium/spells/hold-person.md "PHB") at class level 3
+- [Zone of Truth](Compendium/spells/zone-of-truth.md "PHB") at class level 3
 
 ## 3rd Level
 
-- [Mass Healing Word](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-healing-word.md "PHB") 
-- [Slow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/slow.md "PHB") 
+- [Mass Healing Word](Compendium/spells/mass-healing-word.md "PHB") at class level 5
+- [Slow](Compendium/spells/slow.md "PHB") at class level 5
 
 ## 4th Level
 
-- [Compulsion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compulsion.md "PHB") 
-- [Locate Creature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-creature.md "PHB") 
+- [Compulsion](Compendium/spells/compulsion.md "PHB") at class level 7
+- [Locate Creature](Compendium/spells/locate-creature.md "PHB") at class level 7
 
 ## 5th Level
 
-- [Commune](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune.md "PHB") 
-- [Dominate Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md "PHB")
+- [Commune](Compendium/spells/commune.md "PHB") at class level 9
+- [Dominate Person](Compendium/spells/dominate-person.md "PHB") at class level 9

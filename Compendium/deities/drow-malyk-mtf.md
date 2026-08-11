@@ -7,8 +7,8 @@ tags:
 - source/deity/drow
 - source/domain/tempest
 - source/domain/trickery
-aliases: 
-- Malyk
+aliases:
+- "Malyk"
 ---
 # Malyk
 *Source: Mordenkainen's Tome of Foes p. 54* 

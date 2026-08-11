@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Worg
+- "Worg"
 ---
-# [Worg](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/worg.md)
-*Source: Monster Manual p. 341, Eberron: Rising from the Last War, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Worg](Compendium/bestiary/monstrosity/worg.md)
+*Source: Monster Manual p. 341. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A worg is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
 
@@ -38,26 +39,23 @@ A worg is an evil predator that delights in hunting and devouring creatures weak
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Goblin, Worg"
 "cr": "1/2"
 "traits":
-  - "desc": "The worg has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The worg has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ a DC 13 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
 "source":
   - "MM"
-  - "ERLW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/worg.webp"
+"image": "Compendium/bestiary/monstrosity/token/worg.webp"
 ```
 ^statblock
 

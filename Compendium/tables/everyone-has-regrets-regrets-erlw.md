@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Everyone Has Regrets; Regrets
+- "Everyone Has Regrets; Regrets"
 ---
 # Everyone Has Regrets; Regrets
 *Source: Eberron: Rising from the Last War p. 8* 

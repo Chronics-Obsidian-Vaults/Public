@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/phb
 aliases:
-- Downtime Activity: Training
+- "Downtime Activity: Training"
 ---
 # Downtime Activity: Training
 *Source: Player's Handbook p. 187* 

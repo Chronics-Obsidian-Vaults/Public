@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Damaged Flesh Golem
+- "Damaged Flesh Golem"
 ---
-# [Damaged Flesh Golem](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/damaged-flesh-golem-egw.md)
+# [Damaged Flesh Golem](Compendium/bestiary/construct/damaged-flesh-golem-egw.md)
 *Source: Explorer's Guide to Wildemount p. 248*  
 
 ```statblock
@@ -33,14 +34,10 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "lightning; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"
 "traits":
@@ -52,7 +49,7 @@ aliases:
       \ to do so until it is destroyed or regains all its hit points.\n\nThe golem's\
       \ creator, if within 60 feet of the berserk golem, can try to calm it by speaking\
       \ firmly and persuasively. The golem must be able to hear its creator, who must\
-      \ take an action to make a DC 15 Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion))\
+      \ take an action to make a DC 15 Charisma ([Persuasion](Rules/skills.md#Persuasion))\
       \ check. If the check succeeds, the golem ceases being berserk. If it takes\
       \ damage while still at 40 hit points or fewer, the golem might go berserk again."
     "name": "Berserk"
@@ -75,6 +72,6 @@ aliases:
     "name": "Slam"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/damaged-flesh-golem-egw.webp"
+"image": "Compendium/bestiary/construct/token/damaged-flesh-golem-egw.webp"
 ```
 ^statblock

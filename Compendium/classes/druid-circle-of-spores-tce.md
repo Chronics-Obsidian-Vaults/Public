@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/druid/spores
 aliases:
-- Circle of Spores
+- "Circle of Spores"
 ---
 # Circle of Spores
 *[Druid](./druid.md): Druid Circle*  
@@ -43,10 +43,7 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Circle of Spores (Level 2)
+![](Compendium/classes/img/spores-druid.webp#right)
 
 Druids of the Circle of Spores find beauty in decay. They see within mold and other fungi the ability to transform lifeless material into abundant, albeit somewhat strange, life.
 
@@ -54,9 +51,11 @@ These druids believe that life and death are parts of a grand cycle, with one le
 
 Druids of this circle have a complex relationship with the undead. Unlike most other druids, they see nothing inherently wrong with undeath, which they consider to be a companion to life and death. But these druids believe that the natural cycle is healthiest when each segment of it is vibrant and changing. Undead that seek to replace all life with undeath, or that try to avoid passing to a final rest, violate the cycle and must be thwarted.
 
+## Subclass Features
+
 ### Circle Spells (Level 2)
 
-Your symbiotic link to fungus and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the [chill touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chill-touch.md) cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.
+Your symbiotic link to fungus and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the [chill touch](Compendium/spells/chill-touch.md) cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.
 
 Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -64,10 +63,10 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md), [gentle repose](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gentle-repose.md) |
-| 5th | [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md), [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md) |
-| 7th | [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md), [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md) |
-| 9th | [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md), [contagion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contagion.md) |
+| 3rd | [blindness/deafness](Compendium/spells/blindness-deafness.md), [gentle repose](Compendium/spells/gentle-repose.md) |
+| 5th | [animate dead](Compendium/spells/animate-dead.md), [gaseous form](Compendium/spells/gaseous-form.md) |
+| 7th | [blight](Compendium/spells/blight.md), [confusion](Compendium/spells/confusion.md) |
+| 9th | [cloudkill](Compendium/spells/cloudkill.md), [contagion](Compendium/spells/contagion.md) |
 ^circle-of-spores-spells
 
 ### Halo of Spores (Level 2)
@@ -85,9 +84,9 @@ These benefits last for 10 minutes, until you lose all these temporary hit point
 
 ### Fungal Infestation (Level 6)
 
-At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [zombie](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/zombie.md) stat block in the "Monster Manual". It remains animate for 1 hour, after which time it collapses and dies.
+At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [zombie](Compendium/bestiary/undead/zombie.md) stat block in the "Monster Manual". It remains animate for 1 hour, after which time it collapses and dies.
 
-In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action, making one melee attack.
+In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the [Attack](Rules/actions.md#Attack) action, making one melee attack.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
@@ -101,4 +100,4 @@ While the cube of spores persists, you can't use your Halo of Spores reaction.
 
 ### Fungal Body (Level 14)
 
-At 14th level, the fungal spores in your body alter you: you can't be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), or [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned), and any critical hit against you counts as a normal hit instead, unless you're [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).
+At 14th level, the fungal spores in your body alter you: you can't be [blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened), [frightened](Rules/conditions.md#Frightened), or [poisoned](Rules/conditions.md#Poisoned), and any critical hit against you counts as a normal hit instead, unless you're [incapacitated](Rules/conditions.md#Incapacitated).

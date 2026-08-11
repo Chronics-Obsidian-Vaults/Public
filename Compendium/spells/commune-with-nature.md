@@ -1,31 +1,29 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/selesnya-initiate
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/ranger
+- source/spell/feat/mark-of-finding
 - source/spell/level/5th-level
 - source/spell/ritual
 - source/spell/school/divination
 - source/spell/subclass/circle-of-the-land/arctic
 - source/spell/subclass/oath-of-the-ancients
-- source/spell/subclass/oath-of-the-open-sea
 - source/spell/subclass/path-of-the-totem-warrior
-- source/spell/subrace/half-orc-mark-of-finding
-- source/spell/subrace/human-mark-of-finding
 classes:
 - Barbarian (Path of the Totem Warrior)
 - Bard (Magical Secrets)
 - Druid
 - Druid (Circle of the Land, Arctic)
 - Paladin (Oath of the Ancients)
-- Paladin (Oath of the Open Sea)
 - Ranger
 aliases:
-- Commune with Nature
+- "Commune with Nature"
 level: 5
 ritual: true
 school: divination
@@ -57,6 +55,6 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
-**Classes**: [Barbarian (Path of the Totem Warrior)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-path-of-the-totem-warrior.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arctic)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-ancients.md); [Paladin (Oath of the Open Sea)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR"); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Barbarian (Path of the Totem Warrior)](Compendium/lists/list-spells-classes-path-of-the-totem-warrior.md); [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arctic)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

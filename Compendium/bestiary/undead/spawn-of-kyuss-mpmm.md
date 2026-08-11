@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spawn of Kyuss
+- "Spawn of Kyuss"
 ---
-# [Spawn of Kyuss](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/spawn-of-kyuss-mpmm.md)
+# [Spawn of Kyuss](Compendium/bestiary/undead/spawn-of-kyuss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*  
 
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
@@ -42,10 +43,8 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "saves":
   - "wisdom": !!int "1"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "5"
 "traits":
@@ -84,7 +83,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/spawn-of-kyuss-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/spawn-of-kyuss-mpmm.webp"
 ```
 ^statblock
 

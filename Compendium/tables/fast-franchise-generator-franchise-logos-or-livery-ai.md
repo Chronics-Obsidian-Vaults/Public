@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Fast Franchise Generator; Franchise Logos or Livery
+- "Fast Franchise Generator; Franchise Logos or Livery"
 ---
 # Fast Franchise Generator; Franchise Logos or Livery
 *Source: Acquisitions Incorporated p. 7* 
@@ -21,7 +21,7 @@ aliases:
 | 5 | The silhouette of a catoblepas |
 | 6 | Three werewolves howling at the moon |
 | 7 | "Lathander is Our Copilot" |
-| 8 | A winking [Jim Darkmagic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/jim-darkmagic-ai.md) |
+| 8 | A winking [Jim Darkmagic](Compendium/bestiary/npc/jim-darkmagic-ai.md) |
 | 9 | A snaking piece of barbed wire |
 | 10 | The franchise's business number |
 ^franchise-logos-or-livery

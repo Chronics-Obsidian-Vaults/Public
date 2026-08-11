@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Derro Madness
+- "Derro Madness"
 ---
 # Derro Madness
 *Source: Mordenkainen's Tome of Foes p. 159* 

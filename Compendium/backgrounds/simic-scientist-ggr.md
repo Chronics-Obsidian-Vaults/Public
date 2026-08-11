@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Simic Scientist
+- "Simic Scientist"
 ---
 # Simic Scientist
 *Source: Guildmasters' Guide to Ravnica p. 93*  
 
 
-- **Skill Proficiencies.** [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)  
+- **Skill Proficiencies.** [Arcana](Rules/skills.md#Arcana), [Medicine](Rules/skills.md#Medicine)  
 - **Languages.** Two of your choice  
-- **Equipment.** A Simic insignia, a set of [commoner's clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), a [book](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/book.md) of research notes, an [ink pen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ink-pen.md), a [bottle of squid ink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ink-1-ounce-bottle.md), a [flask of oil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/oil-flask.md) (made from blubber), a [vial of acid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/acid-vial.md) (derived from digestive juices), a vial of fish scales, a vial of seaweed, a vial of jellyfish stingers, a glass bottle of unidentified slime, and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp (Azorius 1-zino coins)  
+- **Equipment.** A Simic insignia, a set of [commoner's clothes](Compendium/items/common-clothes.md), a [book](Compendium/items/book.md) of research notes, an [ink pen](Compendium/items/ink-pen.md), a [bottle of squid ink](Compendium/items/ink-1-ounce-bottle.md), a [flask of oil](Compendium/items/oil-flask.md) (made from blubber), a [vial of acid](Compendium/items/acid-vial.md) (derived from digestive juices), a vial of fish scales, a vial of seaweed, a vial of jellyfish stingers, a glass bottle of unidentified slime, and a belt [pouch](Compendium/items/pouch.md) containing 10 gp (Azorius 1-zino coins)  
 
 Imagine a perfect world: one in which nature and civilization exist in harmony, adapted to each other; one in which life is shaped to match its environment and the environment is shaped to match life. That's the world you have been trying to grow in the laboratories of the Simic Combine. Nature is all about adaptation, evolution, and balance—but for it to keep up with the pace of advancing civilization, nature needs some help from biomancers and terraformers. If, along the way, you happen to create super-soldiers and mutant monsters that can bolster the combine's defenses against the schemes and ambitions of the other guilds, so much the better.
 
@@ -49,12 +50,12 @@ For you, the spells on the Simic Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [acid splash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/acid-splash.md), [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md) |
-| 1st | [detect poison and disease](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-poison-and-disease.md), [expeditious retreat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/expeditious-retreat.md), [jump](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/jump.md) |
-| 2nd | [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md), [enhance ability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enhance-ability.md), [enlarge/reduce](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enlarge-reduce.md) |
-| 3rd | [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md), [water breathing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-breathing.md), [wind wall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wind-wall.md) |
-| 4th | [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md), [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md) |
-| 5th | [creation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/creation.md) |
+| Cantrip | [acid splash](Compendium/spells/acid-splash.md), [druidcraft](Compendium/spells/druidcraft.md) |
+| 1st | [detect poison and disease](Compendium/spells/detect-poison-and-disease.md), [expeditious retreat](Compendium/spells/expeditious-retreat.md), [jump](Compendium/spells/jump.md) |
+| 2nd | [alter self](Compendium/spells/alter-self.md), [enhance ability](Compendium/spells/enhance-ability.md), [enlarge/reduce](Compendium/spells/enlarge-reduce.md) |
+| 3rd | [gaseous form](Compendium/spells/gaseous-form.md), [water breathing](Compendium/spells/water-breathing.md), [wind wall](Compendium/spells/wind-wall.md) |
+| 4th | [freedom of movement](Compendium/spells/freedom-of-movement.md), [polymorph](Compendium/spells/polymorph.md) |
+| 5th | [creation](Compendium/spells/creation.md) |
 ^simic-guild-spells
 
 When your magic causes physical alterations in yourself or others, the result often displays the characteristics of fish, amphibians, or other water-dwelling creatures. Blue-green eddies of magical energy sometimes accompany your spellcasting, forming spirals that reflect the mathematical perfection of nature.

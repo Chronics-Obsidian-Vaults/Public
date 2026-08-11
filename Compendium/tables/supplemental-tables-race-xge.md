@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Supplemental Tables; Race
+- "Supplemental Tables; Race"
 ---
 # Supplemental Tables; Race
 *Source: Xanathar's Guide to Everything p. 72* 

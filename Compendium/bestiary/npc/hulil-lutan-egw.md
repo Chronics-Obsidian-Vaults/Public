@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hulil Lutan
+- "Hulil Lutan"
 ---
-# [Hulil Lutan](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/hulil-lutan-egw.md)
+# [Hulil Lutan](Compendium/bestiary/npc/hulil-lutan-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  
 
 ```statblock
@@ -21,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "modifier": !!int "2"
@@ -34,31 +35,30 @@ aliases:
   - !!int "14"
 "speed": "15 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+4"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+2"
 "damage_resistances": "poison"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "any one language (usually Common), Dwarvish"
 "cr": "2"
 "traits":
   - "desc": "Hulil is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 11, +3 to hit with spell attacks). Hulil has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [sacred flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sacred-flame.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [inflict wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/inflict-wounds.md),\
-      \ [shield of faith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield-of-faith.md)\n\
-      \n**2nd level (3 slots):** [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [spiritual weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spiritual-weapon.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](Compendium/spells/light.md),\
+      \ [sacred flame](Compendium/spells/sacred-flame.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [command](Compendium/spells/command.md), [inflict\
+      \ wounds](Compendium/spells/inflict-wounds.md), [shield of faith](Compendium/spells/shield-of-faith.md)\n\
+      \n**2nd level (3 slots):** [hold person](Compendium/spells/hold-person.md),\
+      \ [spiritual weapon](Compendium/spells/spiritual-weapon.md)"
     "name": "Spellcasting"
-  - "desc": "Hulil has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+  - "desc": "Hulil has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed)\
+      \ or [frightened](Rules/conditions.md#Frightened)."
     "name": "Dark Devotion"
   - "desc": "Hulil"
     "name": "Dwarven Resilience"
@@ -70,6 +70,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/hulil-lutan-egw.webp"
+"image": "Compendium/bestiary/npc/token/hulil-lutan-egw.webp"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reef Shark
+- "Reef Shark"
 ---
-# [Reef Shark](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/reef-shark.md)
-*Source: Monster Manual p. 336, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Reef Shark](Compendium/bestiary/beast/reef-shark.md)
+*Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long.
 
@@ -36,16 +37,15 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
   - !!int "4"
 "speed": "swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., passive Perception 12"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., passive Perception 12"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The shark has advantage on an attack roll against a creature if at least\
       \ one of the shark's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The shark can breathe only underwater."
     "name": "Water Breathing"
@@ -55,8 +55,7 @@ Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters 
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/reef-shark.webp"
+"image": "Compendium/bestiary/beast/token/reef-shark.webp"
 ```
 ^statblock
 

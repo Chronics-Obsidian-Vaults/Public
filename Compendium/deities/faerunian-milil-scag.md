@@ -6,10 +6,10 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/light
-aliases: 
-- Milil
-- The Lord of Song
-- The One True Hand of All-Wise Oghma
+aliases:
+- "Milil"
+- "The Lord of Song"
+- "The One True Hand of All-Wise Oghma"
 ---
 # Milil
 *Source: Sword Coast Adventurer's Guide p. 21* 

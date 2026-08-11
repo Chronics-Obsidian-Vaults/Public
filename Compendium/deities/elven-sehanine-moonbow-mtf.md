@@ -8,8 +8,8 @@ tags:
 - source/domain/grave
 - source/domain/knowledge
 - source/domain/light
-aliases: 
-- Sehanine Moonbow
+aliases:
+- "Sehanine Moonbow"
 ---
 # Sehanine Moonbow
 *Source: Mordenkainen's Tome of Foes p. 46* 

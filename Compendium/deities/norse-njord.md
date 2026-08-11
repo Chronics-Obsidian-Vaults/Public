@@ -7,8 +7,8 @@ tags:
 - source/deity/norse
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Njord
+aliases:
+- "Njord"
 ---
 # Njord
 *Source: Player's Handbook p. 299* 

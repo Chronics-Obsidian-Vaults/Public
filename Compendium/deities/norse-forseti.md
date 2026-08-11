@@ -7,8 +7,8 @@ tags:
 - source/deity/norse
 - source/domain/light
 - source/domain/order
-aliases: 
-- Forseti
+aliases:
+- "Forseti"
 ---
 # Forseti
 *Source: Player's Handbook p. 299* 

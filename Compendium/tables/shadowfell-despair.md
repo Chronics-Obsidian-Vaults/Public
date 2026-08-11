@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Shadowfell Despair
+- "Shadowfell Despair"
 ---
 # Shadowfell Despair
 *Source: Dungeon Master's Guide p. 52* 

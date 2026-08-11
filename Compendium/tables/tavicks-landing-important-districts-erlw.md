@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Tavick's Landing: Important Districts
+- "Tavick's Landing: Important Districts"
 ---
 # Tavick's Landing: Important Districts
 *Source: Eberron: Rising from the Last War p. 164* 

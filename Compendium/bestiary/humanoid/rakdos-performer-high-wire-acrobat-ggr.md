@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rakdos Performer, High-Wire Acrobat
+- "Rakdos Performer, High-Wire Acrobat"
 ---
-# [Rakdos Performer, High-Wire Acrobat](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/rakdos-performer-high-wire-acrobat-ggr.md)
+# [Rakdos Performer, High-Wire Acrobat](Compendium/bestiary/humanoid/rakdos-performer-high-wire-acrobat-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 249*  
 
 By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
@@ -38,16 +39,16 @@ By offering a place for those of many different talents, the Cult of Rakdos has 
   - "dexterity": !!int "5"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+7"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+4"
 "senses": "passive Perception 9"
 "languages": "any one language (usually Common)"
 "cr": "1"
 "traits":
-  - "desc": "The performer can take the Disengage action as a bonus action on each\
-      \ of its turns."
+  - "desc": "The performer can take the [Disengage](Rules/actions.md#Disengage) action\
+      \ as a bonus action on each of its turns."
     "name": "Nimble"
 "actions":
   - "desc": "The acrobat makes two attacks with its barbed pole."
@@ -58,6 +59,6 @@ By offering a place for those of many different talents, the Cult of Rakdos has 
     "name": "Barbed Pole"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/rakdos-performer-high-wire-acrobat-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/rakdos-performer-high-wire-acrobat-ggr.webp"
 ```
 ^statblock

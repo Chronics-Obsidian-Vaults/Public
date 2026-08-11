@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ettin
+- "Ettin"
 ---
-# [Ettin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/ettin.md)
+# [Ettin](Compendium/bestiary/giant/ettin.md)
 *Source: Monster Manual p. 132. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
@@ -62,20 +63,20 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[battleaxe](Compendium/items/battleaxe.md)"
+  - "[morningstar](Compendium/items/morningstar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Giant, Orc"
 "cr": "4"
 "traits":
-  - "desc": "The ettin has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks and on saving throws against being [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-      \ and knocked [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)."
+  - "desc": "The ettin has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
+      \ checks and on saving throws against being [blinded](Rules/conditions.md#Blinded),\
+      \ [charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened),\
+      \ [frightened](Rules/conditions.md#Frightened), [stunned](Rules/conditions.md#Stunned),\
+      \ and knocked [unconscious](Rules/conditions.md#Unconscious)."
     "name": "Two Heads"
   - "desc": "When one of the ettin's heads is asleep, its other head is awake."
     "name": "Wakeful"
@@ -91,7 +92,7 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
     "name": "Morningstar"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/ettin.webp"
+"image": "Compendium/bestiary/giant/token/ettin.webp"
 ```
 ^statblock
 

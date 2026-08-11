@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Chapter 2: Khorvaire Gazetteer
+- "Chapter 2: Khorvaire Gazetteer"
 ---
 # Chapter 2: Khorvaire Gazetteer
 *Source: Eberron: Rising from the Last War, p. 103* 
@@ -20,7 +20,7 @@ aliases:
 
 Most player characters begin their adventures on the continent of Khorvaire, as shown on the poster map included with this book and on "map 2.1". Although humans make up the majority of the population in the nations of Khorvaire, the continent is home to a wide range of peoples and cultures. Once largely unified under the Kingdom of Galifar, today Khorvaire is split into many nations—some old, others newly born from the crucible of war. This chapter provides an overview of Khorvaire, a glimpse of the world that lies beyond it, and the predominant faiths of Eberron.
 
-![A Lyrandar airship venture...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/068-2-01.webp#center "A Lyrandar airship ventures toward the dead-gray mist of the Mournland.")
+![A Lyrandar airship ventures toward the dead-gray mist of the Mournland.](Compendium/books/eberron-rising-from-the-last-war/img/068-2-01.webp#center)
 
 ## Nations of Khorvaire
 
@@ -28,7 +28,7 @@ The following sections focus on what you need to know to create characters and N
 
 An excellent system of roads connects the central nations of Khorvaire, and travelers can always make their way by horse or coach. Major cities are linked by the lightning rail of House Orien, which allows one to avoid the perils—and tedium—of the roads. If speed is an issue, one can book passage on a House Lyrandar airship. This is the fastest way to travel, but also the most expensive. This book's introduction has more information about these and other travel options.
 
-![Map 2.1: The Continent of Khorvaire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/069-map-khorvaire.webp#center)
+![Map 2.1: The Continent of Khorvaire](Compendium/books/eberron-rising-from-the-last-war/img/069-map-khorvaire.webp#center)
 
 ## Aundair
 
@@ -45,7 +45,7 @@ Although Aundair is a small nation, its arcane superiority allowed it retain its
 ### Interesting Things About Aundair
 
 - Arcanix is the most prestigious academy of magic in Khorvaire. Most of its sages specialize in ritual magic and abstract theory, and don't have the full powers of wizards.  
-- Magic permeates many aspects of Aundairian life—more so than other nations. A [cleansing stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cleansing-stone-erlw.md) (see "chapter 5") graces every village, and you might encounter animated farming equipment in the fields. The Knights Arcane are an elite unit of eldritch knights, and the spies of the Royal Eyes of Aundair specialize in divination magic.  
+- Magic permeates many aspects of Aundairian life—more so than other nations. A [cleansing stone](Compendium/items/cleansing-stone-erlw.md) (see "chapter 5") graces every village, and you might encounter animated farming equipment in the fields. The Knights Arcane are an elite unit of eldritch knights, and the spies of the Royal Eyes of Aundair specialize in divination magic.  
 - Some Aundairian nobles are bound by arcane pacts handed down through generations. Only remarkable heirs—such as player characters—develop into warlocks. Most such lines have an Archfey patron.  
 
 ### Aundairian Characters
@@ -54,15 +54,15 @@ Regardless of your Intelligence score, as an Aundairian you're sure you're the s
 
 **Arcane Talent**. If you're not going to play a magic-using class, consider creating a high elf or a human with the Magic Initiate feat. Whether you favor damage-dealing cantrips or more utilitarian ones, every Aundairian should know a little magic.
 
-**Magic Beats Mundane**. Why use your hand when you could use [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md)? Why strain your muscles tugging on a bowstring when you could use a wand?
+**Magic Beats Mundane**. Why use your hand when you could use [mage hand](Compendium/spells/mage-hand.md)? Why strain your muscles tugging on a bowstring when you could use a wand?
 
-**Show Some Style**. Don't settle for common clothes and a squalid meal when you could wear [glamerweave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/glamerweave-erlw.md) (see "chapter 5") and drink the finest wine. If you're a fighter, focus on finesse instead of crude strength. And never miss an opportunity for a clever quip.
+**Show Some Style**. Don't settle for common clothes and a squalid meal when you could wear [glamerweave](Compendium/items/glamerweave-erlw.md) (see "chapter 5") and drink the finest wine. If you're a fighter, focus on finesse instead of crude strength. And never miss an opportunity for a clever quip.
 
 ### Cities and Sites
 
 Aundair intersperses pastoral farmlands between densely populated cities.
 
-![Arcanix](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/070-2-02.webp#center)
+![Arcanix](Compendium/books/eberron-rising-from-the-last-war/img/070-2-02.webp#center)
 
 #### Arcanix
 
@@ -165,7 +165,7 @@ Built on both sides of the Howling River at a point where the river widens, the 
 
 In contrast to its welcoming countenance, Wroat casts dark shadows, and much goes on quietly behind closed doors. The absence of beggars and riffraff in the streets might also raise suspicion that Wroat is putting on appearances. The King's Dark Lanterns are ever vigilant here, and newcomers who aim to misbehave tend to disappear quickly and without so much as a whisper.
 
-![Argonth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/071-2-03.webp#center)
+![Argonth](Compendium/books/eberron-rising-from-the-last-war/img/071-2-03.webp#center)
 
 ### Aftermath of the Last War
 
@@ -203,8 +203,8 @@ Queen Dannel ir'Wynarn was in Metrol on the Day of Mourning and is presumed dead
 ### Interesting Things About Cyre (The Mournland)
 
 - Cyre was the ancestral seat of the dragonmarked House Cannith, the house of Making. The house maintained arcane workshops across Cyre. Who knows what treasures wait in Cannith vaults for those who brave the dangers of the Mournland?  
-- While not as flamboyant as Aundairians, Cyran fashions involved bright colors and [glamerweave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/glamerweave-erlw.md) (see "chapter 5"). Some Cyrans have made a point of continuing this custom. Others wear clothing cut in the Cyran style, but entirely in black; this has become known as Mourning wear.  
-- Stories say communities of warforged live in the Mournland, including the insurgent called [the Lord of Blades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/the-lord-of-blades-erlw.md).  
+- While not as flamboyant as Aundairians, Cyran fashions involved bright colors and [glamerweave](Compendium/items/glamerweave-erlw.md) (see "chapter 5"). Some Cyrans have made a point of continuing this custom. Others wear clothing cut in the Cyran style, but entirely in black; this has become known as Mourning wear.  
+- Stories say communities of warforged live in the Mournland, including the insurgent called [the Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md).  
 
 ### Cyran Characters
 
@@ -297,7 +297,7 @@ The largest city in Darguun serves as the seat of Lhesh Haruuc Sharaat'kor. As t
 
 If you're a Ghaal'dar sailor or guild artisan, this small city—Darguun's primary seaport—could be your home. The goblinoids who live here are a sociable, rowdy lot who are also, by and large, friendly toward strangers.
 
-![Dhakaani Ruins in the Seawall Mountains](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/072-2-04.webp#center)
+![Dhakaani Ruins in the Seawall Mountains](Compendium/books/eberron-rising-from-the-last-war/img/072-2-04.webp#center)
 
 ### Aftermath of the Last War
 
@@ -338,7 +338,7 @@ The Ghaash'kala are primarily orcs, but their numbers include a few half-orcs an
 
 The Carrion Tribes descend from explorers and refugees twisted by the evil in this realm. Explorers usually encounter these savage folk as enemies, but occasionally a hero emerges from the shadows. When creating a character from the Carrion Tribes, consider the following:
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/073-2-05.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/073-2-05.webp#center)
 
 **Sworn to an Overlord.** Your tribe is devoted to an archfiend. This can serve as the roots of a warlock's pact or the inspiration for a barbarian's rage. Are you still loyal to your dark lord, or did you break free from its influence? Either way, work with the DM to develop the details of your overlord.
 
@@ -398,7 +398,7 @@ Minotaurs, orcs, gnolls, tieflings, changelings, and other monstrous species all
 
 **What Are Your Ambitions?** Citizens of Droaam are proud of their nation. You know that the rest of Khorvaire considers you a monster. Do you intend to prove that you and your kind are capable of deeds humanity can't imagine? Or are you driven solely by your personal desires, or the goals of your family or warlord?
 
-**How Does Your Background Shape You?** The diverse creatures of Droaam could include a kobold city-savvy rogue urchin, an orc outlander barbarian with little knowledge of the outside world, or a tiefling warlock sage versed in [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana) and [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History).
+**How Does Your Background Shape You?** The diverse creatures of Droaam could include a kobold city-savvy rogue urchin, an orc outlander barbarian with little knowledge of the outside world, or a tiefling warlock sage versed in [Arcana](Rules/skills.md#Arcana) and [History](Rules/skills.md#History).
 
 ### Cities and Sites
 
@@ -438,7 +438,7 @@ Druidic magic is central to life in the Eldeen Reaches. Its people seek to live 
 
 - The Towering Wood is vast and untamed. The Wardens of the Wood seek to protect travelers, but swathes of forest remain entirely untouched by human or shifter. Such areas could hold giant beasts never seen in the outside world, or relics from a previous age—artifacts or ruins created by demons or the terrifying daelkyr.  
 - The fey have a strong presence in the Towering Wood. Even outside the fey stronghold of the Twilight Demesne, manifest zones tied to Thelanis (see "chapter 4") allow passage between worlds. The Eldeen Reaches are a logical origin for a character with ties to the fey.  
-- Druidic magic is a vital tool in the Eldeen Reaches. Residents use animal messengers to carry communications between villages, and beasts perform vital services. [Goodberry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/goodberry.md) wine takes the place of House Vadalis healing. Communities include awakened animals and plants as members.  
+- Druidic magic is a vital tool in the Eldeen Reaches. Residents use animal messengers to carry communications between villages, and beasts perform vital services. [Goodberry](Compendium/spells/goodberry.md) wine takes the place of House Vadalis healing. Communities include awakened animals and plants as members.  
 
 ### Eldeen Characters
 
@@ -470,7 +470,7 @@ Located within the Towering Wood, the Twilight Demesne has close ties to the Fae
 
 The largest city in the Reaches serves as the gateway for commerce with the world beyond. Reacher merchants come from far and wide to sell their goods in the markets of Varna. All the dragonmarked houses have outposts in Varna, but as the ancestral seat of House Vadalis it houses their largest enclave.
 
-![Planar Observatory in the Eldeen Reaches](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/074-2-06.webp#center)
+![Planar Observatory in the Eldeen Reaches](Compendium/books/eberron-rising-from-the-last-war/img/074-2-06.webp#center)
 
 ### Aftermath of the Last War
 
@@ -509,7 +509,7 @@ Karrnath suffered a series of severe food shortages and plagues early in the Las
 
 Karrns are somber folk and disapprove of extravagance or excessive shows of emotion. As you develop a Karrnathi character or NPC, consider the following:
 
-**Military Service**. Karrns have a strong tradition of military service, making soldier or sailor appropriate backgrounds for any character. Criminals and charlatans have a difficult time evading the harsh laws of Karrnath. The [Martial Adept](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/feats/martial-adept.md) feat can give a character a strong sense of military experience.
+**Military Service**. Karrns have a strong tradition of military service, making soldier or sailor appropriate backgrounds for any character. Criminals and charlatans have a difficult time evading the harsh laws of Karrnath. The [Martial Adept](Compendium/feats/martial-adept.md) feat can give a character a strong sense of military experience.
 
 **Martial Tradition**. Karrnathi tradition emphasizes teamwork, focus, and force, and melee warriors prefer heavy armor and weapons. Fighters favor the Champion and Battle Master martial archetypes, and Karrnathi wizards choose the School of Evocation or Necromancy as their arcane tradition.
 
@@ -525,7 +525,7 @@ Known as the City of Night, Atur is the stronghold of the Blood of Vol in Karrna
 
 #### Fort Bones
 
-Fortresses such as this one dot the hilltops of Karrnath, watching for signs of enemy encroachment even since the Last War has ended. Fort Bones' garrison consists primarily of Karrnathi undead soldiers. No lights glow here, as these undead rely on [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) to see.
+Fortresses such as this one dot the hilltops of Karrnath, watching for signs of enemy encroachment even since the Last War has ended. Fort Bones' garrison consists primarily of Karrnathi undead soldiers. No lights glow here, as these undead rely on [darkvision](Rules/senses.md#Darkvision) to see.
 
 #### Karrlakton
 
@@ -539,7 +539,7 @@ The capital of Karrnath is a city-fortress on the edge of the Nightwood and the 
 
 This massive forest has close ties to the Plane of Mabar. Monsters sometimes slip out of the Nightwood to threaten the surrounding regions. Criminals and fugitives who flee into the Nightwood find the dangers within deadlier than any Karrnathi executioner.
 
-![Fort Bones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/075-2-07.webp#center)
+![Fort Bones](Compendium/books/eberron-rising-from-the-last-war/img/075-2-07.webp#center)
 
 ### Aftermath of the Last War
 
@@ -613,11 +613,11 @@ Most of the princes are content with their domains, but ambitious rulers such as
 
 When humanity first came to Khorvaire, they found the dwarven clans of the Mror Holds locked in endless feuds. This division kept the clans from uniting against the new arrivals, and the dwarves were forced to swear fealty to Karrnath and Galifar. Over the centuries, they turned their energies to harnessing the astonishing natural resources of their mountain home. The dwarves were then reborn as merchant lords.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/076-2-08.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/076-2-08.webp#center)
 
 In the early days of the Last War, Mror miners made an astonishing discovery: the ruins of an ancient dwarven empire, vast halls deep within the Ironroot Mountains. Explorers uncovered mines still brimming with jewels and precious ores and vaults filled with riches and powerful artifacts. The Mror restored these ancient fortresses and worked to reclaim the secrets of their ancestors. Seeing the untapped potential of the Realm Below and the broken Kingdom of Galifar, the clan lords joined together to form the Iron Council and to declare the independence and sovereignty of the Mror Holds.
 
-One question remained: What had become of the ancient dwarves? The answer soon became apparent. As the Mror delved deeper into the Realm Below, they woke an ancient evil: [Dyrrn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/dyrrn-erlw.md) the Corruptor, a daelkyr lord of madness. Hordes of aberrations and derro rose from the depths to challenge the explorers. For decades, the Mror lords have been fighting a battle in the depths, struggling to drive the darkness from their ancestral halls. Many dwarves revile anything to do with the daelkyr. Others believe that the daelkyr can grant the Mror dwarves the power to overcome any enemy. Some clans have taken up symbionts and living weapons recovered from the depths, and cabals of warlocks draw on the power of the Plane of Xoriat (see "chapter 4").
+One question remained: What had become of the ancient dwarves? The answer soon became apparent. As the Mror delved deeper into the Realm Below, they woke an ancient evil: [Dyrrn](Compendium/bestiary/npc/dyrrn-erlw.md) the Corruptor, a daelkyr lord of madness. Hordes of aberrations and derro rose from the depths to challenge the explorers. For decades, the Mror lords have been fighting a battle in the depths, struggling to drive the darkness from their ancestral halls. Many dwarves revile anything to do with the daelkyr. Others believe that the daelkyr can grant the Mror dwarves the power to overcome any enemy. Some clans have taken up symbionts and living weapons recovered from the depths, and cabals of warlocks draw on the power of the Plane of Xoriat (see "chapter 4").
 
 The Mror Holds consist of a loose confederation. Twelve noble clans each govern a hold and have a representative on the Iron Council, which resolves disputes and issues affecting the entire nation. Each hold includes a number of lesser clans, who owe fealty to the noble line. Those who occupy land above have the right to claim the halls that lie below if they can.
 
@@ -680,7 +680,7 @@ The dwarves are also divided by their attitude toward the aberrations. Some of t
 
 Long ago, the dwarves engaged in vicious feuds that kept them from uniting as a nation. This new divide could reignite those rivalries, leading to a civil war on the surface even as evil gains strength in the depths.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/077-2-09.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/077-2-09.webp#center)
 
 ## Q'barra
 
@@ -760,7 +760,7 @@ As you develop a Marcher character or NPC, consider the following:
 
 **The Mark of Finding.** An alliance of Marcher clans formed House Tharashk, but not all those who carried the mark chose to join this house. As a half-orc with the Mark of Finding, you could be a child of the Marches with a strong tie to the house, or you could be a scion of a small tribe of hunters, proud of your independence and suspicious of the houses. Your ties to the Marches might be distant because you were born to a family that left years ago. Do you want to rediscover your ancestral roots?
 
-**Madness and Mysticism**. Most Marchers have a mystical view of the world, beliefs shaped by the traditions of the Gatekeepers and the madness of the daelkyr. Marchers typically feel that the people of the treaty nations are [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) by their civilized ways. You have heard the truth in the voices of croaking frogs and seen it in the shadows shifting on the water. Whether you're loyal to the Gatekeepers, the Sovereign Host, or the Dragon Below, superstitions inform your path.
+**Madness and Mysticism**. Most Marchers have a mystical view of the world, beliefs shaped by the traditions of the Gatekeepers and the madness of the daelkyr. Marchers typically feel that the people of the treaty nations are [blinded](Rules/conditions.md#Blinded) by their civilized ways. You have heard the truth in the voices of croaking frogs and seen it in the shadows shifting on the water. Whether you're loyal to the Gatekeepers, the Sovereign Host, or the Dragon Below, superstitions inform your path.
 
 **Clan or Tribe**? The people of the Shadow Marches are split into two distinct cultures. The clans blend the traditions of human and orc, building towns and working with steel. If you were raised in one of the clans, the ways of civilization aren't that strange to you; you've seen the city of Zarash'ak and worked with House Tharashk. By contrast, the Marcher tribes maintain traditions that predate humanity. As nomadic hunter-gatherers, they don't work metals; they make their tools from stone, hide, wood, and bone. If your character is from one of the Marcher tribes, you might be the first of your people to leave the swamps. Why have you left your people, and how are you adapting to this new world?
 
@@ -802,7 +802,7 @@ In the past, the tribes stood alone, but during the Last War, many halflings cam
 - The Talentan reverence for spirits derives from the fact that a variety of spirits haunt the Plains. The region contains an unusual number of manifest zones tied to Dolurrh and Thelanis (see "chapter 4" for descriptions of both). Ghosts are more likely to linger in such places, and minor fey are scattered across the Plains.  
 - Stories tell of ancient ruins that date back to the first age of the world and of a vast graveyard holding the bones of dragons.  
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/078-2-10.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/078-2-10.webp#center)
 
 ### Talentan Characters
 
@@ -867,7 +867,7 @@ As you develop a Thrane character, consider the following details:
 
 **Dealing with Darkness**. The Shadow in the Flame can tempt even the most virtuous soul. How do you react when you encounter corruption and greed? Are you a compassionate person who seeks to lead people to the light, or a zealot determined to crush all darkness?
 
-![Cathedral of the Silver Flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/079-2-11.webp#center)
+![Cathedral of the Silver Flame](Compendium/books/eberron-rising-from-the-last-war/img/079-2-11.webp#center)
 
 ### Cities and Sites
 
@@ -922,7 +922,7 @@ As you develop a character or NPC from Thronehold, consider the following:
 
 **Play It Again**. If diplomats and spies have one thing in common, it's a weakness for pleasant distractions. When not playing their games of deceit, they seek out the best entertainment and companionship the island has to offer. Characters with the entertainer background can make many untrustworthy friends here.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/080-2-12.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/080-2-12.webp#center)
 
 ### Aftermath of the Last War
 
@@ -986,13 +986,13 @@ Because of this, the nation remains on a war footing. Villages find it challengi
 
 At first glance, the homeland of the gnomes appears to be a paradise. City streets are bright and clean, the universities and libraries are the finest in Khorvaire, everyone seems happy and helpful, and crime is all but unheard of. But Zil society teems with layers of intrigue and blackmail invisible to human eyes. The Trust, a ruthless secret police force, eliminates any threat to society.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/081-2-13.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/081-2-13.webp#center)
 
 Zilargo isn't a tyranny. Each major city has a democratically elected ruling council and a seat on the Triumvirate that governs the nation; the Trust reports to the Triumvirate. The Zil gnomes built this system, and they are quite happy with it. Their streets are safe, and as long as you play by the rules of the game, the Trust ignores you. Outsiders find this casual acceptance of preemptive assassination to be terrifying, but the Zil genuinely trust the Trust.
 
 Zil gnomes live within a web of intrigues. The Trust condones their actions, as long as they break no laws and don't threaten the state or the status quo. A gnome charlatan can connive to steal a jewel mine from another gnome—as long as the charlatan accomplishes the deed through cunning, negotiation, or deception rather than violence or outright theft, and as long as the mine stays in Zil hands. The same applies to adventurers planning schemes in Zilargo. Violence draws attention and deadly consequences from the Trust, but intrigue is perfectly acceptable.
 
-The Trust is a network of spies and assassins. Most agents of the Trust simply pass information through dead drops; some estimate that a third of the nation works for the Trust in this capacity. When the Trust identifies a threat, it acts preemptively. Trust agents prefer to solve a problem without violence—by sharing a piece of information or a whispered warning sent via a [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md) spell. But the Trust won't hesitate to eliminate a threat, whether with poison, spell, or blade. Typically, a target never sees the agent of their demise.
+The Trust is a network of spies and assassins. Most agents of the Trust simply pass information through dead drops; some estimate that a third of the nation works for the Trust in this capacity. When the Trust identifies a threat, it acts preemptively. Trust agents prefer to solve a problem without violence—by sharing a piece of information or a whispered warning sent via a [message](Compendium/spells/message.md) spell. But the Trust won't hesitate to eliminate a threat, whether with poison, spell, or blade. Typically, a target never sees the agent of their demise.
 
 ### Interesting Things About Zilargo
 

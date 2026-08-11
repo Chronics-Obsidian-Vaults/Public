@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/23
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Empyrean
+- "Empyrean"
 ---
-# [Empyrean](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/empyrean.md)
-*Source: Monster Manual p. 130, Mythic Odysseys of Theros, The Book of Many Things*  
+# [Empyrean](Compendium/bestiary/celestial/empyrean.md)
+*Source: Monster Manual p. 130*  
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
 
@@ -53,27 +54,24 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
   - "wisdom": !!int "13"
   - "charisma": !!int "15"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+13"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+15"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 16"
+"gear":
+  - "[maul](Compendium/items/maul.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 16"
 "languages": "all"
 "cr": "23"
 "traits":
   - "desc": "The empyrean's innate spellcasting ability is Charisma (spell save DC\
       \ 23, +15 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md),\
-      \ [pass without trace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pass-without-trace.md),\
-      \ [water breathing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-breathing.md),\
-      \ [water walk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-walk.md)\n\
-      \n**1/day each:** [commune](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune.md),\
-      \ [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md),\
-      \ [earthquake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/earthquake.md),\
-      \ [fire storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-storm.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
+      \ requiring no material components:\n\n**At will:** [greater restoration](Compendium/spells/greater-restoration.md),\
+      \ [pass without trace](Compendium/spells/pass-without-trace.md), [water breathing](Compendium/spells/water-breathing.md),\
+      \ [water walk](Compendium/spells/water-walk.md)\n\n**1/day each:** [commune](Compendium/spells/commune.md),\
+      \ [dispel evil and good](Compendium/spells/dispel-evil-and-good.md), [earthquake](Compendium/spells/earthquake.md),\
+      \ [fire storm](Compendium/spells/fire-storm.md), [plane shift](Compendium/spells/plane-shift.md)\
       \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "If the empyrean fails a saving throw, it can choose to succeed instead."
@@ -86,7 +84,7 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 "actions":
   - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 31\
       \ (6d6 + 10) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 15 Constitution saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ on a DC 15 Constitution saving throw or be [stunned](Rules/conditions.md#Stunned)\
       \ until the end of the empyrean's next turn."
     "name": "Maul"
   - "desc": "*Ranged Spell Attack:* +15 to hit, range 600 ft., one target. *Hit:*\
@@ -100,19 +98,16 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
   - "desc": "The empyrean makes one attack."
     "name": "Attack"
   - "desc": "The empyrean bolsters all nonhostile creatures within 120 feet of it\
-      \ until the end of its next turn. Bolstered creatures can't be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ and they gain advantage on ability checks and saving throws until the end\
-      \ of the empyrean's next turn."
+      \ until the end of its next turn. Bolstered creatures can't be [charmed](Rules/conditions.md#Charmed)\
+      \ or [frightened](Rules/conditions.md#Frightened), and they gain advantage on\
+      \ ability checks and saving throws until the end of the empyrean's next turn."
     "name": "Bolster"
   - "desc": "The empyrean strikes the ground with its maul, triggering an earth tremor.\
       \ All other creatures on the ground within 60 feet of the empyrean must succeed\
-      \ on a DC 25 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ on a DC 25 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Trembling Strike (Costs 2 Actions)"
 "source":
   - "MM"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/empyrean.webp"
+"image": "Compendium/bestiary/celestial/token/empyrean.webp"
 ```
 ^statblock

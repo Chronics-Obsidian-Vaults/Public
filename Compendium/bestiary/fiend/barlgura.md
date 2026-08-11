@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Barlgura
+- "Barlgura"
 ---
-# [Barlgura](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/barlgura.md)
-*Source: Monster Manual p. 56, The Book of Many Things*  
+# [Barlgura](Compendium/bestiary/fiend/barlgura.md)
+*Source: Monster Manual p. 56*  
 
 The barlgura represents the savagery and brutality of the Abyss. Barlguras gather in packs to take down tougher foes, keep gruesome trophies from their victories, and decorate their territory with such objects.
 
@@ -158,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -208,25 +209,23 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "5"
 "traits":
   - "desc": "The barlgura's spellcasting ability is Wisdom (spell save DC 13). The\
       \ barlgura can innately cast the following spells, requiring no material components:\n\
-      \n**2/day each:** [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only)\n\n**1/day each:** [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md),\
-      \ [phantasmal force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-force.md)"
+      \n**2/day each:** [disguise self](Compendium/spells/disguise-self.md), [invisibility](Compendium/spells/invisibility.md)\
+      \ (self only)\n\n**1/day each:** [entangle](Compendium/spells/entangle.md),\
+      \ [phantasmal force](Compendium/spells/phantasmal-force.md)"
     "name": "Innate Spellcasting"
   - "desc": "At the start of its turn, the barlgura can gain advantage on all melee\
       \ weapon attack rolls it makes during that turn, but attack rolls against it\
@@ -247,7 +246,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Fist"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/barlgura.webp"
+"image": "Compendium/bestiary/fiend/token/barlgura.webp"
 ```
 ^statblock

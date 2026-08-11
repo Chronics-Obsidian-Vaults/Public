@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/mm
 - source/item/rarity/unknown/magic
 - source/item/wondrous/other
-aliases: 
+aliases:
 - "Master's Amulet"
 item_type: wondrous
 item_subtype: other
@@ -16,7 +17,7 @@ attunement: none
 
 
 
-Every [shield guardian](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/shield-guardian.md) has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
+Every [shield guardian](Compendium/bestiary/construct/shield-guardian.md) has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is [incapacitated](Rules/conditions.md#Incapacitated) until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
 
 A shield guardian's solitary focus is to protect the amulet's wearer. The amulet's wearer can command the guardian to attack its enemies or to guard the wielder against attack. If an attack threatens to injure the wearer, the construct can magically absorb the blow into its own body, even at a distance.
 

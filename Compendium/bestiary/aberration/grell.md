@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grell
+- "Grell"
 ---
-# [Grell](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/grell.md)
-*Source: Monster Manual p. 172, The Book of Many Things*  
+# [Grell](Compendium/bestiary/aberration/grell.md)
+*Source: Monster Manual p. 172*  
 
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
 
@@ -23,7 +24,7 @@ Although solitary by nature, grells sometimes gather in small groups called cove
 
 ## Floating Ambushers
 
-A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed) creature in its clutches.
+A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [paralyzed](Rules/conditions.md#Paralyzed) creature in its clutches.
 
 ## Alien Devourers
 
@@ -54,15 +55,14 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
   - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "lightning"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 14"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [prone](Rules/conditions.md#Prone)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 14"
 "languages": "Grell"
 "cr": "3"
 "actions":
@@ -71,14 +71,13 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one creature. *Hit:*\
       \ 7 (1d10 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
-      \ saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ target is [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
+      \ saving throw or be [poisoned](Rules/conditions.md#Poisoned) for 1 minute.\
+      \ The [poisoned](Rules/conditions.md#Poisoned) target is [paralyzed](Rules/conditions.md#Paralyzed),\
       \ and it can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on a success.\n\nThe target is also [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 15). If the target is Medium or smaller, it is also [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ the effect on a success.\n\nThe target is also [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 15). If the target is Medium or smaller, it is also [restrained](Rules/conditions.md#Restrained)\
       \ until this grapple ends. While grappling the target, the grell has advantage\
-      \ on attack rolls against it and can 't use this attack against other targets.\
+      \ on attack rolls against it and can't use this attack against other targets.\
       \ When the grell moves, any Medium or smaller target it is grappling moves with\
       \ it."
     "name": "Tentacles"
@@ -87,8 +86,7 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
     "name": "Beak"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/grell.webp"
+"image": "Compendium/bestiary/aberration/token/grell.webp"
 ```
 ^statblock
 

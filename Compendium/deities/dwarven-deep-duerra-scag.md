@@ -7,8 +7,8 @@ tags:
 - source/deity/dwarven
 - source/domain/arcana
 - source/domain/war
-aliases: 
-- Deep Duerra
+aliases:
+- "Deep Duerra"
 ---
 # Deep Duerra
 *Source: Sword Coast Adventurer's Guide p. 22* 

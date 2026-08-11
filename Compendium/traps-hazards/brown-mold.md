@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Brown Mold
+- "Brown Mold"
 ---
 # Brown Mold
 *Generic Hazard*  

@@ -8,8 +8,8 @@ tags:
 - source/domain/life
 - source/domain/light
 - source/domain/twilight
-aliases: 
-- Helm
+aliases:
+- "Helm"
 ---
 # Helm
 *Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules (2014)* 

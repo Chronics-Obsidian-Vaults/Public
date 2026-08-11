@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blistercoil Weird
+- "Blistercoil Weird"
 ---
-# [Blistercoil Weird](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/blistercoil-weird-ggr.md)
+# [Blistercoil Weird](Compendium/bestiary/elemental/blistercoil-weird-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 207*  
 
 A blistercoil weird is an anthropomorphic brute formed from water and molten rock. It absorbs energy from magical fire, causing its ooze-like body to increase in size. During one disastrous experiment, Izzet researchers observed a blistercoil weird expanding to fill a six-story workshop before it released all its excess energy in an enormous explosion and returned to its original size.
@@ -44,16 +45,11 @@ An Izzet weird doesn't require air, food, drink, or sleep.
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained), [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Draconic"
 "cr": "4"
 "traits":
@@ -88,6 +84,6 @@ An Izzet weird doesn't require air, food, drink, or sleep.
     "name": "Slam"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/blistercoil-weird-ggr.webp"
+"image": "Compendium/bestiary/elemental/token/blistercoil-weird-ggr.webp"
 ```
 ^statblock

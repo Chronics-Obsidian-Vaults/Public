@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Rejection of Faith
+- "Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Rejection of Faith"
 ---
 # Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Rejection of Faith
 *Source: Eberron: Rising from the Last War p. 140* 

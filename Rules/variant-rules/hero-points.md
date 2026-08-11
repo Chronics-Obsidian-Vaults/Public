@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Hero Points
+- "Hero Points"
 ---
 # Hero Points
 *Source: Dungeon Master's Guide p. 264* 

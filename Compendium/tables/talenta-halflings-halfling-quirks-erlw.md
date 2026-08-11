@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Talenta Halflings; Halfling Quirks
+- "Talenta Halflings; Halfling Quirks"
 ---
 # Talenta Halflings; Halfling Quirks
 *Source: Eberron: Rising from the Last War p. 27* 

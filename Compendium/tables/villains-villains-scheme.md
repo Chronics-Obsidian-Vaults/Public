@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Villains; Villain's Scheme
+- "Villains; Villain's Scheme"
 ---
 # Villains; Villain's Scheme
 *Source: Dungeon Master's Guide p. 94* 

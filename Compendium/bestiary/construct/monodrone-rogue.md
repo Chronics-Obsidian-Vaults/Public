@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Monodrone (Rogue)
+- "Monodrone (Rogue)"
 ---
-# [Monodrone (Rogue)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/monodrone-rogue.md)
+# [Monodrone (Rogue)](Compendium/bestiary/construct/monodrone-rogue.md)
 *Source: Monster Manual p. 224*  
 
 ```statblock
@@ -32,8 +33,10 @@ aliases:
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., fly 30 ft."
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 10"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/8"
 "traits":

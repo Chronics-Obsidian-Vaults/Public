@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Tavick's Landing: Noteworthy Locations
+- "Tavick's Landing: Noteworthy Locations"
 ---
 # Tavick's Landing: Noteworthy Locations
 *Source: Eberron: Rising from the Last War p. 172* 

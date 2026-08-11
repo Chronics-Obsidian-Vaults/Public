@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Belt of Fire Giant Strength"
 item_type: 
 item_subtype: 

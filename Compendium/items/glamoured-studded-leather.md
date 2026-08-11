@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/armor/light
 - source/item/rarity/rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Glamoured Studded Leather"
 item_type: armor
 item_subtype: light

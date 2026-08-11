@@ -6,15 +6,15 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/death
-aliases: 
-- Loviatar
-- The Maiden of Pain
-- The Scourge Mistress
-- The Willing Whip
+aliases:
+- "Loviatar"
+- "The Maiden of Pain"
+- "The Scourge Mistress"
+- "The Willing Whip"
 ---
 # Loviatar
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-loviatar.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-loviatar.webp#symbol)
 
 - **Alternate Names**: The Maiden of Pain, The Scourge Mistress, The Willing Whip
 - **Alignment**: Lawful Evil

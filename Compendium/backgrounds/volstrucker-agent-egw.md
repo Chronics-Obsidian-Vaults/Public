@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/egw
 aliases:
-- Volstrucker Agent
+- "Volstrucker Agent"
 ---
 # Volstrucker Agent
 *Source: Explorer's Guide to Wildemount p. 202*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/img/volstrucker-agent.webp#right)
+![](Compendium/backgrounds/img/volstrucker-agent.webp#right)
 
-- **Skill Proficiencies.** [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)  
-- **Tool Proficiencies.** [Poisoner's kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/poisoners-kit.md)  
+- **Skill Proficiencies.** [Deception](Rules/skills.md#Deception), [Stealth](Rules/skills.md#Stealth)  
+- **Tool Proficiencies.** [Poisoner's kit](Compendium/items/poisoners-kit.md)  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), a black cloak with a hood, a [poisoner's kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/poisoners-kit.md), and a [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** A set of [common clothes](Compendium/items/common-clothes.md), a black cloak with a hood, a [poisoner's kit](Compendium/items/poisoners-kit.md), and a [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 The Volstrucker are a clandestine organization of arcane assassins and enforcers in the service of the Cerberus Assembly. Their operatives bear no official title, but are referred to in hushed tones as "scourgers" by residents of large Dwendalian cities such as Zadash and Rexxentrum.
 

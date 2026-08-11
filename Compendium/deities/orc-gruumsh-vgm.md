@@ -7,8 +7,8 @@ tags:
 - source/deity/orc
 - source/domain/tempest
 - source/domain/war
-aliases: 
-- Gruumsh
+aliases:
+- "Gruumsh"
 ---
 # Gruumsh
 *Source: Volo's Guide to Monsters p. 82* 

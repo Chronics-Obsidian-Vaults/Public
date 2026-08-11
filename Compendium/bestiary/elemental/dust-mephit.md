@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dust Mephit
+- "Dust Mephit"
 ---
-# [Dust Mephit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/dust-mephit.md)
+# [Dust Mephit](Compendium/bestiary/elemental/dust-mephit.md)
 *Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ## Mephits
@@ -47,25 +48,23 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
   - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Auran, Terran"
 "cr": "1/2"
 "traits":
-  - "desc": "The mephit can innately cast [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md),\
-      \ requiring no material components. Its innate spellcasting ability is Charisma.\n"
+  - "desc": "The mephit can innately cast [sleep](Compendium/spells/sleep.md), requiring\
+      \ no material components. Its innate spellcasting ability is Charisma.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "When the mephit dies, it explodes in a burst of dust. Each creature within\
       \ 5 feet of it must then succeed on a DC 10 Constitution saving throw or be\
-      \ [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ for 1 minute. A [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ [blinded](Rules/conditions.md#Blinded) for 1 minute. A [blinded](Rules/conditions.md#Blinded)\
       \ creature can repeat the saving throw on each of its turns, ending the effect\
       \ on itself on a success."
     "name": "Death Burst"
@@ -74,13 +73,13 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
       \ (1d4 + 2) slashing damage."
     "name": "Claws"
   - "desc": "The mephit exhales a 15-foot cone of blinding dust. Each creature in\
-      \ that area must succeed on a DC 10 Dexterity saving throw or be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ that area must succeed on a DC 10 Dexterity saving throw or be [blinded](Rules/conditions.md#Blinded)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Blinding Breath (Recharge 6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/dust-mephit.webp"
+"image": "Compendium/bestiary/elemental/token/dust-mephit.webp"
 ```
 ^statblock
 

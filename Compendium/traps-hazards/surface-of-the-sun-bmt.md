@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bmt
 - source/hazard/mag
 aliases:
-- Surface of the Sun
+- "Surface of the Sun"
 ---
 # Surface of the Sun
 *Magical Trap*  
@@ -25,15 +25,15 @@ The blazing light that fills this trap room deals damage to every creature in th
 
 ## Talons Pedestal
 
-The silver orb, which is 1 foot in diameter, can't be removed while the talons clutch it. The pedestal is trapped. Touching the silver orb causes the talons to snap closed. A creature that tries to take the orb takes 11 (`2d10`) slashing damage and has the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) condition (escape DC 15) as the talons grab hold of it, releasing the orb. The talons have an AC of 19, 10 hit points, and immunity to poison and psychic damage.
+The silver orb, which is 1 foot in diameter, can't be removed while the talons clutch it. The pedestal is trapped. Touching the silver orb causes the talons to snap closed. A creature that tries to take the orb takes 11 (`2d10`) slashing damage and has the [grappled](Rules/conditions.md#Grappled) condition (escape DC 15) as the talons grab hold of it, releasing the orb. The talons have an AC of 19, 10 hit points, and immunity to poison and psychic damage.
 
-With a successful DC 12 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check, a character can spot the pressure plate that activates the talons through a narrow slit on the east side of the pedestal. A character can disable the pressure plate with a successful DC 13 Dexterity check using thieves' tools, which causes the talons to open. A Medium or Small creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) by the talons can't reach this pressure plate.
+With a successful DC 12 Wisdom ([Perception](Rules/skills.md#Perception)) check, a character can spot the pressure plate that activates the talons through a narrow slit on the east side of the pedestal. A character can disable the pressure plate with a successful DC 13 Dexterity check using thieves' tools, which causes the talons to open. A Medium or Small creature [grappled](Rules/conditions.md#Grappled) by the talons can't reach this pressure plate.
 
 Undamaged, the silver orb is a valuable art object worth 500 gp.
 
 ## Oversized Key
 
-This gold key is 4 feet long and weighs 100 pounds. One round after it is removed from the sword stand, it comes to life, revealing itself to be a living object (use the [flying sword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/flying-sword.md) stat block). The key does everything it can to return to its stand, attacking anyone who tries to stop it. If the key is destroyed by reducing it to 0 hit points, it must be repaired (such as with the [Mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mending.md) spell) before it can be used in the skull door.
+This gold key is 4 feet long and weighs 100 pounds. One round after it is removed from the sword stand, it comes to life, revealing itself to be a living object (use the [flying sword](Compendium/bestiary/construct/flying-sword.md) stat block). The key does everything it can to return to its stand, attacking anyone who tries to stop it. If the key is destroyed by reducing it to 0 hit points, it must be repaired (such as with the [Mending](Compendium/spells/mending.md) spell) before it can be used in the skull door.
 
 ## Skull Door
 
@@ -41,6 +41,6 @@ The oversized key fits the skull sculpture's nose. Inserting the key and turning
 
 ## Vines
 
-The plants that cover the walls are fragile from the scorching light and not helpful for climbing. A character must succeed on a DC 12 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check to climb the walls.
+The plants that cover the walls are fragile from the scorching light and not helpful for climbing. A character must succeed on a DC 12 Strength ([Athletics](Rules/skills.md#Athletics)) check to climb the walls.
 
 *Source: The Book of Many Things p. 30*

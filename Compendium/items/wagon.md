@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/vehicle/land
-aliases: 
+aliases:
 - "Wagon"
 item_type: 
 item_subtype: 

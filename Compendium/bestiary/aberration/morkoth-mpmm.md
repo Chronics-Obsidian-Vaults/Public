@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/11
@@ -11,14 +12,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Morkoth
+- "Morkoth"
 ---
-# [Morkoth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/morkoth-mpmm.md)
+# [Morkoth](Compendium/bestiary/aberration/morkoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 
-The first morkoths arose in the Astral Plane when the [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified) body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified) flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
+The first morkoths arose in the Astral Plane when the [petrified](Rules/conditions.md#Petrified) body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [petrified](Rules/conditions.md#Petrified) flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
 
 Morkoths are driven by greed and selfishness mixed with a yearning for conflict. They hoard vast stores of treasure, knowledge, and captives on their islands. Some of these prisoners are the descendants of people captured generations before; they might know of no other world outside their island. A morkoth may allow a visitor to bargain for something or someone it has claimed if that visitor offers the morkoth something it desires more. It shows no mercy, however, to those who break a deal or try to steal from it. A morkoth knows every person and object in its collection.
 
@@ -57,16 +58,15 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
   - "intelligence": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+9"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 20"
 "languages": "telepathy 120 ft."
 "cr": "11"
@@ -81,19 +81,18 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
       \ + 2) slashing damage plus 10 (3d6) psychic damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:* 15\
-      \ (3d8 + 2) bludgeoning damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ (3d8 + 2) bludgeoning damage, and the target is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 14) if it is a Large or smaller creature. Until this grapple ends,\
-      \ the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ and takes 15 (3d8 + 2) bludgeoning damage at the start of each of its turns,\
-      \ and the morkoth can't use its tentacles on another target."
+      \ the target is [restrained](Rules/conditions.md#Restrained) and takes 15 (3d8\
+      \ + 2) bludgeoning damage at the start of each of its turns, and the morkoth\
+      \ can't use its tentacles on another target."
     "name": "Tentacles"
   - "desc": "The morkoth projects a 30-foot cone of magical energy. Each creature\
       \ in that area must make a DC 17 Wisdom saving throw. On a failed save, the\
-      \ creature is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the morkoth for 1 minute. While [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ in this way, the target tries to get as close to the morkoth as possible,\
-      \ using its actions to [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash)\
-      \ until it is within 5 feet of the morkoth. A [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ creature is [charmed](Rules/conditions.md#Charmed) by the morkoth for 1 minute.\
+      \ While [charmed](Rules/conditions.md#Charmed) in this way, the target tries\
+      \ to get as close to the morkoth as possible, using its actions to [Dash](Rules/actions.md#Dash)\
+      \ until it is within 5 feet of the morkoth. A [charmed](Rules/conditions.md#Charmed)\
       \ target can repeat the saving throw at the end of each of its turns and whenever\
       \ it takes damage, ending the effect on itself on a success. If a creature's\
       \ saving throw is successful or the effect ends for it, the creature has advantage\
@@ -101,13 +100,10 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
     "name": "Hypnosis"
   - "desc": "The morkoth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md)\n\
-      \n**3/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md),\
-      \ [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md)"
+      \ DC 17):\n\n**At will:** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md)\n\n**3/day each:** [darkness](Compendium/spells/darkness.md),\
+      \ [dimension door](Compendium/spells/dimension-door.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [lightning bolt](Compendium/spells/lightning-bolt.md), [sending](Compendium/spells/sending.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "If the morkoth makes a successful saving throw against a spell or a spell\
@@ -120,13 +116,11 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the morkoth can take\
       \ one of the following lair actions:\n\n- **Cast a Spell.** The morkoth casts\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ or [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md),\
-      \ using Intelligence as its spellcasting ability and without expending a spell\
-      \ slot.  \n- **Hypnotize.** The morkoth uses its Hypnosis action, originating\
-      \ at a point within 120 feet of itself. It doesn't need to see the effect's\
-      \ point of origin.  "
+      \ [darkness](Compendium/spells/darkness.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ or [misty step](Compendium/spells/misty-step.md), using Intelligence as its\
+      \ spellcasting ability and without expending a spell slot.  \n- **Hypnotize.**\
+      \ The morkoth uses its Hypnosis action, originating at a point within 120 feet\
+      \ of itself. It doesn't need to see the effect's point of origin.  "
     "name": ""
 "regional_effects":
   - "desc": "The island surrounding a morkoth's lair is warped by the creature's presence,\
@@ -143,12 +137,12 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
       \ saving throw. On a failure, the creature has misplaced one possession (chosen\
       \ by the player, if the creature is that player's character). The possession\
       \ remains nearby but concealed for a short time, so it can be recovered with\
-      \ a successful DC 15 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ check. An object that is misplaced but not recovered ends up in the morkoth's\
-      \ lair 1 hour later. If the creature later goes to the morkoth's lair, its lost\
-      \ possessions stand out in its perception and are easily recovered.  \n- **Supernatural\
+      \ a successful DC 15 Wisdom ([Perception](Rules/skills.md#Perception)) check.\
+      \ An object that is misplaced but not recovered ends up in the morkoth's lair\
+      \ 1 hour later. If the creature later goes to the morkoth's lair, its lost possessions\
+      \ stand out in its perception and are easily recovered.  \n- **Supernatural\
       \ Lure.** Entrances to the morkoth's lair have an enchantment that the morkoth\
-      \ can activate or suppress at any time while it's in its lair and not [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
+      \ can activate or suppress at any time while it's in its lair and not [incapacitated](Rules/conditions.md#Incapacitated).\
       \ Any creature within 30 feet of such an entrance and able to see it must make\
       \ a DC 15 Wisdom saving throw. On a failed save, the creature feels an intense\
       \ urge to use its movement on each of its turns to enter the lair and to move\
@@ -162,7 +156,7 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/morkoth-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/morkoth-mpmm.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- NPC Mannerisms
+- "NPC Mannerisms"
 ---
 # NPC Mannerisms
 *Source: Dungeon Master's Guide p. 90* 

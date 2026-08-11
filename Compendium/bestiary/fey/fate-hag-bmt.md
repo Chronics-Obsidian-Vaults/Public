@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fate Hag
+- "Fate Hag"
 ---
-# [Fate Hag](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/fate-hag-bmt.md)
+# [Fate Hag](Compendium/bestiary/fey/fate-hag-bmt.md)
 *Source: The Book of Many Things p. 176*  
 
 Fate hags are servants of destiny that mostly reside in the Feywild and Shadowfell or near crossings to those realms from the Material Plane. The aspects of fate to which a fate hag is most attuned depends on the plane where the hag dwells—hopeful and prosperous in the Feywild or dire and doomed in the Shadowfell.
@@ -40,23 +41,22 @@ Fate hags carry gleaming magical shears they use to snip strands of fate. These 
   - "constitution": !!int "3"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 60 ft., passive Perception 16"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed)"
+"senses": "[truesight](Rules/senses.md#Truesight) 60 ft., passive Perception 16"
 "languages": "all"
 "cr": "4"
 "traits":
   - "desc": "If the hag fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (2/Day)"
-  - "desc": "The hag can cast the [Legend Lore](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/legend-lore.md)\
+  - "desc": "The hag can cast the [Legend Lore](Compendium/spells/legend-lore.md)\
       \ spell, requiring no material components and using Wisdom as the spellcasting\
       \ ability."
     "name": "Trace the Threads (1/Day)"
@@ -70,14 +70,10 @@ Fate hags carry gleaming magical shears they use to snip strands of fate. These 
     "name": "Shears"
   - "desc": "While holding its shears, the hag casts one of the following spells,\
       \ requiring no material components and using Wisdom as the spellcasting ability\
-      \ (spell save DC 14):\n\n**At will:** [Bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md),\
-      \ [Guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [Silent Image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silent-image.md)\n\
-      \n**1/day each:** [Bane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bane.md),\
-      \ [Bestow Curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md),\
-      \ [Divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md),\
-      \ [Scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)\
-      \ (as an action)"
+      \ (spell save DC 14):\n\n**At will:** [Bless](Compendium/spells/bless.md), [Guidance](Compendium/spells/guidance.md),\
+      \ [Silent Image](Compendium/spells/silent-image.md)\n\n**1/day each:** [Bane](Compendium/spells/bane.md),\
+      \ [Bestow Curse](Compendium/spells/bestow-curse.md), [Divination](Compendium/spells/divination.md),\
+      \ [Scrying](Compendium/spells/scrying.md) (as an action)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the fate hag can expend a use to take one of the following actions. The\
@@ -102,6 +98,6 @@ Fate hags carry gleaming magical shears they use to snip strands of fate. These 
     "name": "Destiny Curse (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/fate-hag-bmt.webp"
+"image": "Compendium/bestiary/fey/token/fate-hag-bmt.webp"
 ```
 ^statblock

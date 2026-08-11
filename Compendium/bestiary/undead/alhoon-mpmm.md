@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/10
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Alhoon
+- "Alhoon"
 ---
-# [Alhoon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/alhoon-mpmm.md)
+# [Alhoon](Compendium/bestiary/undead/alhoon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*  
 
 > [!quote] A quote from Mordenkainen  
@@ -67,27 +68,24 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+7"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+8"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 17"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 17"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "10"
 "traits":
@@ -108,24 +106,19 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
     "name": "Arcane Bolt"
   - "desc": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature\
       \ in that area must succeed on a DC 16 Intelligence saving throw or take 22\
-      \ (4d8 + 4) psychic damage and be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. A target can repeat the saving throw at the end of each of its\
-      \ turns, ending the effect on itself on a success."
+      \ (4d8 + 4) psychic damage and be [stunned](Rules/conditions.md#Stunned) for\
+      \ 1 minute. A target can repeat the saving throw at the end of each of its turns,\
+      \ ending the effect on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The alhoon casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1/day each:** [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md),\
-      \ [globe of invulnerability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/globe-of-invulnerability.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [modify memory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/modify-memory.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ (self only), [wall of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md)"
+      **At will:** [dancing lights](Compendium/spells/dancing-lights.md), [detect\
+      \ magic](Compendium/spells/detect-magic.md), [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [disguise self](Compendium/spells/disguise-self.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**1/day each:**\
+      \ [dominate monster](Compendium/spells/dominate-monster.md), [globe of invulnerability](Compendium/spells/globe-of-invulnerability.md),\
+      \ [invisibility](Compendium/spells/invisibility.md), [modify memory](Compendium/spells/modify-memory.md),\
+      \ [plane shift](Compendium/spells/plane-shift.md) (self only), [wall of force](Compendium/spells/wall-of-force.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "The alhoon targets one creature it can see within 60 feet of it that\
@@ -135,7 +128,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/alhoon-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/alhoon-mpmm.webp"
 ```
 ^statblock
 

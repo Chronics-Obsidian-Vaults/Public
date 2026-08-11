@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow Mastiff
+- "Shadow Mastiff"
 ---
-# [Shadow Mastiff](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/shadow-mastiff-mpmm.md)
+# [Shadow Mastiff](Compendium/bestiary/monstrosity/shadow-mastiff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
@@ -41,14 +42,13 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks while\
   \ in dim light or darkness"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": ""
 "cr": "2"
 "traits":
@@ -60,18 +60,18 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ a DC 13 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible),\
+  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](Rules/conditions.md#Invisible),\
       \ along with anything it is wearing or carrying. The invisibility lasts until\
       \ the shadow mastiff uses a bonus action to end it or until the shadow mastiff\
-      \ attacks, is in bright light, or is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ attacks, is in bright light, or is [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Shadow Blend"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/shadow-mastiff-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/shadow-mastiff-mpmm.webp"
 ```
 ^statblock
 

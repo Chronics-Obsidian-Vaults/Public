@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/artifact
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Axe of the Dwarvish Lords"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -15,14 +16,14 @@ rarity: artifact
 attunement: required
 ---
 # Axe of the Dwarvish Lords
-*Weapon ([battleaxe](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/battleaxe.md)), cursed item, artifact (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/axe-of-the-dwarvish-lords.webp#right)
+*Weapon ([battleaxe](Compendium/items/battleaxe.md)), cursed item, artifact (requires attunement)*  
+![](Compendium/items/img/axe-of-the-dwarvish-lords.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
 - **Range**: 20/60
-- **Properties**: [Cursed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Cursed%20Items), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Cursed](Rules/item-properties.md#Cursed%20Items), [Thrown](Rules/item-properties.md#Thrown), [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 Seeing the peril his people faced, a young dwarf prince came to believe that his people needed something to unite them. Thus, he set out to forge a weapon that would be such a symbol.
@@ -35,35 +36,35 @@ Later, in a dark era marked by treachery and wickedness, the axe was lost in a b
 
 ## Magic Weapon
 
-The *Axe of the Dwarvish Lords* is a magic weapon that grants a +3 bonus to attack and damage rolls made with it. The axe also functions as a [belt of dwarvenkind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/belt-of-dwarvenkind.md), a [dwarven thrower](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dwarven-thrower.md), and a [sword of sharpness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sword-of-sharpness.md).
+The *Axe of the Dwarvish Lords* is a magic weapon that grants a +3 bonus to attack and damage rolls made with it. The axe also functions as a [belt of dwarvenkind](Compendium/items/belt-of-dwarvenkind.md), a [dwarven thrower](Compendium/items/dwarven-thrower.md), and a [sword of sharpness](Compendium/items/sword-of-sharpness.md).
 
 ## Random Properties
 
 The axe has the following randomly determined properties:
 
-- 2 [minor beneficial properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-beneficial-properties.md)  
-- 2 [minor detrimental properties](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-detrimental-properties.md)  
+- 2 [minor beneficial properties](Compendium/tables/artifact-properties-minor-beneficial-properties.md)  
+- 1 [major beneficial property](Compendium/tables/artifact-properties-major-beneficial-properties.md)  
+- 2 [minor detrimental properties](Compendium/tables/artifact-properties-minor-detrimental-properties.md)  
 
 ## Blessings of Moradin
 
 If you are a dwarf attuned to the axe, you gain the following benefits:
 
 - You have immunity to poison damage.  
-- The range of your [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) increases by 60 feet.  
-- You gain proficiency with [artisan's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/artisans-tools.md) related to blacksmithing, brewing, and stonemasonry.  
+- The range of your [darkvision](Rules/senses.md#Darkvision) increases by 60 feet.  
+- You gain proficiency with [artisan's tools](Compendium/items/artisans-tools.md) related to blacksmithing, brewing, and stonemasonry.  
 
 ## Conjure Earth Elemental
 
-If you are holding the axe, you can use your action to cast the [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md) spell from it, summoning an [earth elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/earth-elemental.md). You can't use this property again until the next dawn.
+If you are holding the axe, you can use your action to cast the [conjure elemental](Compendium/spells/conjure-elemental.md) spell from it, summoning an [earth elemental](Compendium/bestiary/elemental/earth-elemental.md). You can't use this property again until the next dawn.
 
 ## Travel the Depths
 
-You can use an action to touch the axe to a fixed piece of dwarven stonework and cast the [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md) spell from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
+You can use an action to touch the axe to a fixed piece of dwarven stonework and cast the [teleport](Compendium/spells/teleport.md) spell from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
 
 ## Curse
 
-The axe bears a curse that affects any non-dwarf that becomes attuned to it. Even if the attunement ends, the curse remains. With each passing day, the creature's physical appearance and stature become more dwarflike. After seven days, the creature looks like a typical dwarf, but the creature neither loses its racial traits nor gains the racial traits of a dwarf. The physical changes wrought by the axe aren't considered magical in nature (and therefore can't be dispelled), but they can be undone by any effect that removes a curse, such as a [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md) or [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md) spell.
+The axe bears a curse that affects any non-dwarf that becomes attuned to it. Even if the attunement ends, the curse remains. With each passing day, the creature's physical appearance and stature become more dwarflike. After seven days, the creature looks like a typical dwarf, but the creature neither loses its racial traits nor gains the racial traits of a dwarf. The physical changes wrought by the axe aren't considered magical in nature (and therefore can't be dispelled), but they can be undone by any effect that removes a curse, such as a [greater restoration](Compendium/spells/greater-restoration.md) or [remove curse](Compendium/spells/remove-curse.md) spell.
 
 ## Destroying the Axe
 

@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/tempest
 - source/domain/war
-aliases: 
-- Kord
+aliases:
+- "Kord"
 ---
 # Kord
 *Source: Player's Handbook p. 295* 

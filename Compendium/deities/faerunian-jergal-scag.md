@@ -7,15 +7,15 @@ tags:
 - source/deity/faerunian
 - source/domain/death
 - source/domain/knowledge
-aliases: 
-- Jergal
-- The Final Scribe
-- The Pitiless One
-- The Bleak Seneschal
+aliases:
+- "Jergal"
+- "The Final Scribe"
+- "The Pitiless One"
+- "The Bleak Seneschal"
 ---
 # Jergal
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-jergal.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-jergal.webp#symbol)
 
 - **Alternate Names**: The Final Scribe, The Pitiless One, The Bleak Seneschal
 - **Alignment**: Lawful Neutral

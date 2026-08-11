@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/nonhuman
 - source/domain/war
-aliases: 
-- Kurtulmak
+aliases:
+- "Kurtulmak"
 ---
 # Kurtulmak
 *Source: Player's Handbook p. 296* 

@@ -7,8 +7,8 @@ tags:
 - source/deity/drow
 - source/domain/arcana
 - source/domain/death
-aliases: 
-- Kiaransalee
+aliases:
+- "Kiaransalee"
 ---
 # Kiaransalee
 *Source: Mordenkainen's Tome of Foes p. 54* 

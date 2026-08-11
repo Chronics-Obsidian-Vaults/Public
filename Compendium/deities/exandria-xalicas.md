@@ -7,8 +7,8 @@ tags:
 - source/deity/exandria
 - source/domain/life
 - source/domain/light
-aliases: 
-- Xalicas
+aliases:
+- "Xalicas"
 ---
 # Xalicas
 *Source: Explorer's Guide to Wildemount p. 33* 

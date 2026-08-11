@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crab
+- "Crab"
 ---
-# [Crab](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/crab.md)
+# [Crab](Compendium/bestiary/beast/crab.md)
 *Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -34,10 +35,9 @@ aliases:
   - !!int "2"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., passive Perception 9"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., passive Perception 9"
 "languages": ""
 "cr": "0"
 "traits":
@@ -49,7 +49,7 @@ aliases:
     "name": "Claw"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/crab.webp"
+"image": "Compendium/bestiary/beast/token/crab.webp"
 ```
 ^statblock
 

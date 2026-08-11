@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/ranger/monster-slayer
 aliases:
-- Monster Slayer
+- "Monster Slayer"
 ---
 # Monster Slayer
 *[Ranger](./ranger.md): Ranger Archetype*  
@@ -43,12 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Monster Slayer (Level 3)
+![](Compendium/classes/img/ranger.webp#right)
 
 You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.
+
+## Subclass Features
 
 ### Monster Slayer Magic (Level 3)
 
@@ -58,11 +57,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md) |
-| 5th | [zone of truth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/zone-of-truth.md) |
-| 9th | [magic circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-circle.md) |
-| 13th | [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md) |
-| 17th | [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md) |
+| 3rd | [protection from evil and good](Compendium/spells/protection-from-evil-and-good.md) |
+| 5th | [zone of truth](Compendium/spells/zone-of-truth.md) |
+| 9th | [magic circle](Compendium/spells/magic-circle.md) |
+| 13th | [banishment](Compendium/spells/banishment.md) |
+| 17th | [hold monster](Compendium/spells/hold-monster.md) |
 ^monster-slayer-spells
 
 ### Hunter's Sense (Level 3)

@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Outlander
+- "Outlander"
 ---
 # Outlander
 *Source: Player's Handbook p. 136*  
 
 
-- **Skill Proficiencies.** [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)  
+- **Skill Proficiencies.** [Athletics](Rules/skills.md#Athletics), [Survival](Rules/skills.md#Survival)  
 - **Tool Proficiencies.** One type of musical instrument  
 - **Languages.** One of your choice  
-- **Equipment.** A [staff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/staff.md), a [hunting trap](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hunting-trap.md), a trophy from an animal you killed, a set of [traveler's clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/travelers-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** A [staff](Compendium/items/staff.md), a [hunting trap](Compendium/items/hunting-trap.md), a trophy from an animal you killed, a set of [traveler's clothes](Compendium/items/travelers-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.
 
@@ -48,7 +49,7 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 |----------|-------------------|
 | 1 | I'm driven by a wanderlust that led me away from home. |
 | 2 | I watch over my friends as if they were a litter of newborn pups. |
-| 3 | I once ran twenty-five miles without stopping to warn to my clan of an approaching orc horde. I'd do it again if I had to. |
+| 3 | I once ran twenty-five miles without stopping to warn my clan of an approaching orc horde. I'd do it again if I had to. |
 | 4 | I have a lesson for every situation, drawn from observing nature. |
 | 5 | I place no stock in wealthy or well-mannered folk. Money and manners won't save you from a hungry owlbear. |
 | 6 | I'm always picking things up, absently fiddling with them, and sometimes accidentally breaking them. |

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Duergar Raiding Parties; Duergar Special Circumstances
+- "Duergar Raiding Parties; Duergar Special Circumstances"
 ---
 # Duergar Raiding Parties; Duergar Special Circumstances
 *Source: Mordenkainen's Tome of Foes p. 83* 

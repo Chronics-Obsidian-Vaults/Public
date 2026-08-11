@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/1-8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sergeant
+- "Sergeant"
 ---
-# [Sergeant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/sergeant-erlw.md)
+# [Sergeant](Compendium/bestiary/humanoid/sergeant-erlw.md)
 *Source: Eberron: Rising from the Last War p. 197*  
 
 ```statblock
@@ -21,8 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -35,8 +35,10 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
@@ -47,6 +49,6 @@ aliases:
     "name": "Spear"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/sergeant-erlw.webp"
+"image": "Compendium/bestiary/humanoid/token/sergeant-erlw.webp"
 ```
 ^statblock

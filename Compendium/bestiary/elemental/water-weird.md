@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Water Weird
+- "Water Weird"
 ---
-# [Water Weird](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/water-weird.md)
-*Source: Monster Manual p. 299, Mythic Odysseys of Theros*  
+# [Water Weird](Compendium/bestiary/elemental/water-weird.md)
+*Source: Monster Manual p. 299*  
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
 
@@ -24,7 +25,7 @@ Invisible while immersed in water, its serpentine shape becomes clear only when 
 
 Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
 
-A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [purify food and drink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/purify-food-and-drink.md) spell.
+A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [purify food and drink](Compendium/spells/purify-food-and-drink.md) spell.
 
 ## Elemental Nature
 
@@ -54,20 +55,16 @@ A water weird doesn't require air, food, drink, or sleep.
 "speed": "0 ft., swim 60 ft."
 "damage_resistances": "fire; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [restrained](Rules/conditions.md#Restrained), [prone](Rules/conditions.md#Prone),\
+  \ [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., passive Perception 10"
 "languages": "understands Aquan but doesn't speak"
 "cr": "3"
 "traits":
-  - "desc": "The water weird is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ while fully immersed in water."
+  - "desc": "The water weird is [invisible](Rules/conditions.md#Invisible) while fully\
+      \ immersed in water."
     "name": "Invisible in Water"
   - "desc": "The water weird dies if it leaves the water to which it is bound or if\
       \ that water is destroyed."
@@ -75,16 +72,14 @@ A water weird doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:*\
       \ 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is\
-      \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple\
-      \ ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ [grappled](Rules/conditions.md#Grappled) (escape DC 13) and pulled 5 feet\
+      \ toward the water weird. Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ the water weird tries to drown it, and the water weird can't constrict another\
       \ target."
     "name": "Constrict"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/water-weird.webp"
+"image": "Compendium/bestiary/elemental/token/water-weird.webp"
 ```
 ^statblock
 

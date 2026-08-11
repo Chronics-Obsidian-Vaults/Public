@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/dragonlance
 - source/domain/death
-aliases: 
-- Chemosh
+aliases:
+- "Chemosh"
 ---
 # Chemosh
 *Source: Player's Handbook p. 295* 

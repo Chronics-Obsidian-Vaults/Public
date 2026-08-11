@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/centaur
 aliases:
-- Centaur
+- "Centaur"
 ---
 # Centaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 9*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/centaur.webp#right)
+![](Compendium/races/img/centaur.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: fey
@@ -38,7 +39,7 @@ You have hooves that you can use to make unarmed strikes. When you hit with them
 
 ### Natural Affinity
 
-Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), or [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival).
+Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](Rules/skills.md#Animal%20Handling), [Medicine](Rules/skills.md#Medicine), [Nature](Rules/skills.md#Nature), or [Survival](Rules/skills.md#Survival).
 
 ## Description
 

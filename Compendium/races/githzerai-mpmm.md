@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/githzerai
 aliases:
-- Githzerai
+- "Githzerai"
 ---
 # Githzerai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 19*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/githzerai.webp#right)
+![](Compendium/races/img/githzerai.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -20,15 +21,15 @@ aliases:
 
 ### Githzerai Psionics
 
-You know the [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) when you cast the cantrip with this trait.
+You know the [mage hand](Compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](Rules/conditions.md#Invisible) when you cast the cantrip with this trait.
 
-Starting at 3rd level, you can cast the [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md) spell with this trait. Starting at 5th level, you can also cast the [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md) spell with it. Once you cast [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md) or [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md) spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [shield](Compendium/spells/shield.md) spell with this trait. Starting at 5th level, you can also cast the [detect thoughts](Compendium/spells/detect-thoughts.md) spell with it. Once you cast [shield](Compendium/spells/shield.md) or [detect thoughts](Compendium/spells/detect-thoughts.md) spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
 
 ### Mental Discipline
 
-Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) and [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) conditions on yourself.
+Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the [charmed](Rules/conditions.md#Charmed) and [frightened](Rules/conditions.md#Frightened) conditions on yourself.
 
 ### Psychic Resilience
 

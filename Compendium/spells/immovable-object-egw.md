@@ -1,15 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/egw
 - source/spell/class/bard/magical-secrets
 - source/spell/level/2nd-level
 - source/spell/school/transmutation
+- source/spell/subclass/chronurgy-magic
+- source/spell/subclass/graviturgy-magic
 classes:
 - Bard (Magical Secrets)
+- Wizard (Chronurgy Magic)
+- Wizard (Graviturgy Magic)
 aliases:
-- Immovable Object
+- "Immovable Object"
 level: 2
 school: transmutation
 ritual: false
@@ -35,6 +40,6 @@ If the object is fixed in the air, it can hold up to 4,000 pounds of weight. Mor
 
 **At Higher Levels.** If you cast this spell using a spell slot of 4th or 5th level, the DC to move the object increases by 5, it can carry up to 8,000 pounds of weight, and the duration increases to 24 hours. If you cast this spell using a spell slot of 6th level or higher, the DC to move the object increases by 10, it can carry up to 20,000 pounds of weight, and the effect is permanent until dispelled.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Wizard (Chronurgy Magic)](Compendium/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW"); [Wizard (Graviturgy Magic)](Compendium/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW")
 
 *Source: Explorer's Guide to Wildemount p. 187*

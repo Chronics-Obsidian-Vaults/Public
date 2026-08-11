@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Wielding the Best; Signature Equipment
+- "Wielding the Best; Signature Equipment"
 ---
 # Wielding the Best; Signature Equipment
 *Source: Acquisitions Incorporated p. 59* 

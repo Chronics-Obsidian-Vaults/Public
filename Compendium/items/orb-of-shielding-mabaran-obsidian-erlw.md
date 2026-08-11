@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/attunement/required
 - source/item/gear/spellcasting-focus
 - source/item/rarity/common
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Orb of Shielding (Mabaran Obsidian)"
 - "Mabaran Obsidian Crystal"
 - "Mabaran Obsidian Orb"

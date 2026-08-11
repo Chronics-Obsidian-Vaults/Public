@@ -7,8 +7,8 @@ tags:
 - source/deity/nonhuman
 - source/domain/knowledge
 - source/domain/war
-aliases: 
-- Surtur
+aliases:
+- "Surtur"
 ---
 # Surtur
 *Source: Player's Handbook p. 296* 

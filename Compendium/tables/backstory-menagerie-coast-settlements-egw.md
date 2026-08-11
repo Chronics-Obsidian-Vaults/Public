@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Backstory; Menagerie Coast Settlements
+- "Backstory; Menagerie Coast Settlements"
 ---
 # Backstory; Menagerie Coast Settlements
 *Source: Explorer's Guide to Wildemount p. 191* 

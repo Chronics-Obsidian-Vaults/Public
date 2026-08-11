@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cave Fisher
+- "Cave Fisher"
 ---
-# [Cave Fisher](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/cave-fisher-mpmm.md)
+# [Cave Fisher](Compendium/bestiary/monstrosity/cave-fisher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*  
 
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.
@@ -46,12 +47,11 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
   - !!int "3"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., passive Perception 12"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., passive Perception 12"
 "languages": ""
 "cr": "3"
 "traits":
@@ -67,7 +67,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage."
     "name": "Claw"
-  - "desc": "One Large or smaller creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+  - "desc": "One Large or smaller creature [grappled](Rules/conditions.md#Grappled)\
       \ by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw.\
       \ On a failed save, the target is pulled into an unoccupied space within 5 feet\
       \ of the cave fisher, and the cave fisher makes one Claw attack against it.\
@@ -77,18 +77,18 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "bonus_actions":
   - "desc": "The cave fisher extends a sticky filament up to 60 feet, and the filament\
       \ adheres to anything that touches it. A creature the filament adheres to is\
-      \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by the cave fisher (escape DC 13), and ability checks made to escape this\
-      \ grapple have disadvantage. The filament can be attacked (AC 15; 5 hit points;\
-      \ immunity to poison and psychic damage). A weapon that fails to sever it becomes\
-      \ stuck to it, requiring an action and a successful DC 13 Strength check to\
-      \ pull free. Destroying the filament deals no damage to the cave fisher. The\
-      \ filament crumbles away if the cave fisher takes this bonus action again."
+      \ [grappled](Rules/conditions.md#Grappled) by the cave fisher (escape DC 13),\
+      \ and ability checks made to escape this grapple have disadvantage. The filament\
+      \ can be attacked (AC 15; 5 hit points; immunity to poison and psychic damage).\
+      \ A weapon that fails to sever it becomes stuck to it, requiring an action and\
+      \ a successful DC 13 Strength check to pull free. Destroying the filament deals\
+      \ no damage to the cave fisher. The filament crumbles away if the cave fisher\
+      \ takes this bonus action again."
     "name": "Adhesive Filament"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/cave-fisher-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/cave-fisher-mpmm.webp"
 ```
 ^statblock
 

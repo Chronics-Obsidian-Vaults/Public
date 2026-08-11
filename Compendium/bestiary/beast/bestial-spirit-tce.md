@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bestial Spirit
+- "Bestial Spirit"
 ---
-# [Bestial Spirit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/bestial-spirit-tce.md)
+# [Bestial Spirit](Compendium/bestiary/beast/bestial-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2nd"
 "modifier": !!int "0"
 "stats":
   - !!int "18"
@@ -30,8 +32,7 @@ aliases:
   - !!int "5"
 "speed": "30 ft., climb 30 ft. (land only), fly 60 ft. (air only), swim 30 ft. (water\
   \ only)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "The beast can breathe only underwater."
@@ -41,7 +42,7 @@ aliases:
     "name": "Flyby (Air Only)"
   - "desc": "The beast has advantage on an attack roll against a creature if at least\
       \ one of the beast's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics (Land and Water Only)"
 "actions":
   - "desc": "The beast makes a number of attacks equal to half this spell's level\
@@ -52,6 +53,6 @@ aliases:
     "name": "Maul"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/bestial-spirit-tce.webp"
+"image": "Compendium/bestiary/beast/token/bestial-spirit-tce.webp"
 ```
 ^statblock

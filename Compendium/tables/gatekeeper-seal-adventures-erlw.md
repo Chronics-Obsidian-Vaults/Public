@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Gatekeeper Seal Adventures
+- "Gatekeeper Seal Adventures"
 ---
 # Gatekeeper Seal Adventures
 *Source: Eberron: Rising from the Last War p. 202* 

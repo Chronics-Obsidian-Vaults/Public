@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -17,7 +18,7 @@ classes:
 - Druid (Circle of the Land, Forest)
 - Ranger
 aliases:
-- Barkskin
+- "Barkskin"
 level: 2
 school: transmutation
 ritual: false
@@ -30,7 +31,7 @@ components_vsm: [V, S, M]
 ---
 # Barkskin
 *2nd-level, Transmutation*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/img/barkskin.webp#right)
+![](Compendium/spells/img/barkskin.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -39,6 +40,6 @@ components_vsm: [V, S, M]
 
 You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Forest)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Forest)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

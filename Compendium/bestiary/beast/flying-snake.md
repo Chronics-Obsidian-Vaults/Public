@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flying Snake
+- "Flying Snake"
 ---
-# [Flying Snake](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/flying-snake.md)
+# [Flying Snake](Compendium/bestiary/beast/flying-snake.md)
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
@@ -37,8 +38,7 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. Tr
   - !!int "12"
   - !!int "5"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., passive Perception 11"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., passive Perception 11"
 "languages": ""
 "cr": "1/8"
 "traits":
@@ -51,7 +51,7 @@ A flying snake is a brightly colored, winged serpent found in remote jungles. Tr
     "name": "Bite"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/flying-snake.webp"
+"image": "Compendium/bestiary/beast/token/flying-snake.webp"
 ```
 ^statblock
 

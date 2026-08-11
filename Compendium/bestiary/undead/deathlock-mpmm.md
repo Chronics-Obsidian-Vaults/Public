@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deathlock
+- "Deathlock"
 ---
-# [Deathlock](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/deathlock-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128, The Book of Many Things*  
+# [Deathlock](Compendium/bestiary/undead/deathlock-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*  
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
 
@@ -47,17 +48,15 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "intelligence": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "4"
 "traits":
@@ -76,20 +75,16 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ (2d10 + 3) necrotic damage."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md)\n\
-      \n**1/day each:** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [hunger of Hadar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hunger-of-hadar.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [spider climb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spider-climb.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [disguise self](Compendium/spells/disguise-self.md), [mage armor](Compendium/spells/mage-armor.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md)\n\n**1/day each:** [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [hunger of Hadar](Compendium/spells/hunger-of-hadar.md), [invisibility](Compendium/spells/invisibility.md),\
+      \ [spider climb](Compendium/spells/spider-climb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/deathlock-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/deathlock-mpmm.webp"
 ```
 ^statblock
 

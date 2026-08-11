@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ghoul
+- "Ghoul"
 ---
-# [Ghoul](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/ghoul.md)
-*Source: Monster Manual p. 148, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Ghoul](Compendium/bestiary/undead/ghoul.md)
+*Source: Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 
@@ -49,11 +50,9 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"
 "actions":
@@ -62,15 +61,13 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
       \ + 2) slashing damage. If the target is a creature other than an elf or undead,\
-      \ it must succeed on a DC 10 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ it must succeed on a DC 10 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Claws"
 "source":
   - "MM"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/ghoul.webp"
+"image": "Compendium/bestiary/undead/token/ghoul.webp"
 ```
 ^statblock
 

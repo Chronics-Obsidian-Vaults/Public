@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizardfolk
+- "Lizardfolk"
 ---
-# [Lizardfolk](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/lizardfolk.md)
-*Source: Monster Manual p. 204, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Lizardfolk](Compendium/bestiary/humanoid/lizardfolk.md)
+*Source: Monster Manual p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
@@ -60,7 +61,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "subtype": "lizardfolk"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "natural armor, [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "natural armor, [shield](Compendium/items/shield.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "0"
@@ -73,12 +74,14 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+5"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
 "senses": "passive Perception 13"
 "languages": "Draconic"
 "cr": "1/2"
@@ -102,9 +105,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     "name": "Spiked Shield"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/lizardfolk.webp"
+"image": "Compendium/bestiary/humanoid/token/lizardfolk.webp"
 ```
 ^statblock
 

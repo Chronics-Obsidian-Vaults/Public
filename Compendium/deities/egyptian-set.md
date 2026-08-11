@@ -8,8 +8,8 @@ tags:
 - source/domain/death
 - source/domain/tempest
 - source/domain/trickery
-aliases: 
-- Set
+aliases:
+- "Set"
 ---
 # Set
 *Source: Player's Handbook p. 299. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

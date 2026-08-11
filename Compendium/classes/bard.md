@@ -6,7 +6,7 @@ tags:
 - source/class/bard
 - source/compendium/src/5e/phb
 aliases:
-- Bard
+- "Bard"
 ---
 # Bard
 *Source: Player's Handbook p. 51. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/bard.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d8 per Bard level
@@ -51,17 +53,17 @@ aliases:
 ## Starting Bard
 
 - **Saving Throws**: Charisma, Dexterity
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor)
-- **Weapons**: simple weapons, [hand crossbows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hand-crossbow.md), [longswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md), [rapiers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rapier.md), [shortswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md)
-- **Tools**: three [musical instruments](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/musical-instrument.md) of your choice
-- **Skills**: choose any 3 [skills](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor)
+- **Weapons**: simple weapons, [hand crossbows](Compendium/items/hand-crossbow.md), [longswords](Compendium/items/longsword.md), [rapiers](Compendium/items/rapier.md), [shortswords](Compendium/items/shortsword.md)
+- **Tools**: three [musical instruments](Compendium/items/musical-instrument.md) of your choice
+- **Skills**: choose any 3 [skills](Rules/skills.md)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [rapier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rapier.md), (b) a [longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md), or (c) any simple weapon
-- (a) a [diplomat's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/diplomats-pack.md) or (b) an [entertainer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/entertainers-pack.md)
-- (a) a [lute](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/lute.md) or (b) any other musical instrument
-- [Leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md), and a [dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)
+- (a) a [rapier](Compendium/items/rapier.md), (b) a [longsword](Compendium/items/longsword.md), or (c) any simple weapon
+- (a) a [diplomat's pack](Compendium/items/diplomats-pack.md) or (b) an [entertainer's pack](Compendium/items/entertainers-pack.md)
+- (a) a [lute](Compendium/items/lute.md) or (b) any other musical instrument
+- [Leather armor](Compendium/items/leather-armor.md), and a [dagger](Compendium/items/dagger.md)
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -71,10 +73,9 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor)
-- **Tools**: one [musical instrument](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/musical-instrument.md) of your choice
-- **Skills**: choose any 1 [skill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md)
-
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor)
+- **Tools**: one [musical instrument](Compendium/items/musical-instrument.md) of your choice
+- **Skills**: choose any 1 [skill](Rules/skills.md)
 ## Bard
 
 Humming as she traces her fingers over an ancient monument in a long-forgotten ruin, a half-elf in rugged leathers finds knowledge springing into her mind, conjured forth by the magic of her song—knowledge of the people who constructed the monument and the mythic saga it depicts.
@@ -105,7 +106,7 @@ Did you serve an apprenticeship, studying under a master, following the more exp
 
 #### Quick Build
 
-You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [entertainer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/entertainer.md) background. Third, choose the [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md) and [vicious mockery](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vicious-mockery.md) cantrips, along with the following 1st-level spells: [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md), [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md), [healing word](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/healing-word.md), and [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md).
+You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [entertainer](Compendium/backgrounds/entertainer.md) background. Third, choose the [dancing lights](Compendium/spells/dancing-lights.md) and [vicious mockery](Compendium/spells/vicious-mockery.md) cantrips, along with the following 1st-level spells: [charm person](Compendium/spells/charm-person.md), [detect magic](Compendium/spells/detect-magic.md), [healing word](Compendium/spells/healing-word.md), and [thunderwave](Compendium/spells/thunderwave.md).
 
 > [!quote] A quote from Fletcher Danairia, master bard  
 > 
@@ -156,9 +157,9 @@ You might have an "off the rack" instrument, perhaps because it's all you can af
 | dice: d6 | Instrument |
 |----------|------------|
 | 1 | A masterfully crafted halfling fiddle |
-| 2 | A mithral [horn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/horn.md) made by elves |
+| 2 | A mithral [horn](Compendium/items/horn.md) made by elves |
 | 3 | A zither made with drow spider silk |
-| 4 | An orcish [drum](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/drum.md) |
+| 4 | An orcish [drum](Compendium/items/drum.md) |
 | 5 | A wooden bullywug croak box |
 | 6 | A tinker's harp of gnomish design |
 ^instrument
@@ -179,7 +180,7 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 | 3 | When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth" |
 | 4 | The first and last public performance of "Mirt, Man about Town" |
 | 5 | The time on stage when your wig caught fire and you threw it down—which set fire to the stage |
-| 6 | When you sat on your [lute](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/lute.md) by mistake during the final stanza of "Starlight Serenade" |
+| 6 | When you sat on your [lute](Compendium/items/lute.md) by mistake during the final stanza of "Starlight Serenade" |
 ^embarrassment
 
 ## A Bard's Muse
@@ -222,39 +223,27 @@ Your Bardic Inspiration die changes when you reach certain levels in this class.
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the bard spell list.
 
-#### Cantrips
+**Cantrips.** You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.
 
-You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.
+**Spell Slots.** The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-#### Spell Slots
+For example, if you know the 1st-level spell [cure wounds](Compendium/spells/cure-wounds.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [cure wounds](Compendium/spells/cure-wounds.md) using either slot.
 
-The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-
-For example, if you know the 1st-level spell [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md) using either slot.
-
-#### Spells Known of 1st Level and Higher
-
-You know four 1st-level spells of your choice from the bard spell list.
+**Spells Known of 1st Level and Higher.** You know four 1st-level spells of your choice from the bard spell list.
 
 You learn an additional bard spell of your choice at each level except 12th, 16th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
 
-#### Spellcasting Ability
-
-Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Charisma</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-#### Ritual Casting
+**Ritual Casting.** You can cast any bard spell you know as a ritual if that spell has the ritual tag.
 
-You can cast any bard spell you know as a ritual if that spell has the ritual tag.
-
-#### Spellcasting Focus
-
-You can use a [musical instrument](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/musical-instrument.md) as a spellcasting focus for your bard spells.
+**Spellcasting Focus.** You can use a [musical instrument](Compendium/items/musical-instrument.md) as a spellcasting focus for your bard spells.
 
 ### Jack of All Trades (Level 2)
 
@@ -269,7 +258,7 @@ The extra hit points increase when you reach certain levels in this class: to `1
 ### Magical Inspiration (Level 2)
 _Source: Tasha's Cauldron of Everything p. 27_
 
-*2nd-level bard [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*2nd-level bard [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 If a creature has a Bardic Inspiration die from you and casts a spell that restores hit points or deals damage, the creature can roll that die and choose a target affected by the spell. Add the number rolled as a bonus to the hit points regained or the damage dealt. The Bardic Inspiration die is then lost.
 
@@ -292,7 +281,7 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Bardic Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 27_
 
-*4th-level bard [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*4th-level bard [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:
 
@@ -309,7 +298,7 @@ Beginning when you reach 5th level, you regain all of your expended uses of Bard
 
 ### Countercharm (Level 6)
 
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) or [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) or silenced or if you voluntarily end it (no action required).
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened](Rules/conditions.md#Frightened) or [charmed](Rules/conditions.md#Charmed). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](Rules/conditions.md#Incapacitated) or silenced or if you voluntarily end it (no action required).
 
 ### Bard College feature (Level 6)
 

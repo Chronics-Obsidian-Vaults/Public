@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Tyrants Villains
+- "Tyrants Villains"
 ---
 # Tyrants Villains
 *Source: Eberron: Rising from the Last War p. 255* 

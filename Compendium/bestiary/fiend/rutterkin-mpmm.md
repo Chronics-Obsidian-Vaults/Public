@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rutterkin
+- "Rutterkin"
 ---
-# [Rutterkin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/rutterkin-mpmm.md)
+# [Rutterkin](Compendium/bestiary/fiend/rutterkin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*  
 
 > [!quote] A quote from Tasha  
@@ -22,7 +23,7 @@ aliases:
 
 Rutterkins are warped demons that roam the Abyss in mobs, constantly searching for intruders to surround and devour. These Fiends protect the Abyss from non-demons. When they spot any interlopers, they gather in a crowd and surge forward, emitting a wave of fear in advance of their attacks that leaves their victims terrified and rooted in place.
 
-Creatures bitten by rutterkins are exposed to a terrible disease that infects them with the corrupting influence of the Abyss. Victims afflicted with the disease experience tremendous pain as their bodies become disfigured, flesh twisting around the bones, until they transform to join the mass of [manes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/manes.md) demons that follow in the wake of the rutterkin mob that laid them low.
+Creatures bitten by rutterkins are exposed to a terrible disease that infects them with the corrupting influence of the Abyss. Victims afflicted with the disease experience tremendous pain as their bodies become disfigured, flesh twisting around the bones, until they transform to join the mass of [manes](Compendium/bestiary/fiend/manes.md) demons that follow in the wake of the rutterkin mob that laid them low.
 
 ```statblock
 "name": "Rutterkin (MPMM)"
@@ -44,39 +45,37 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
 "traits":
   - "desc": "When a creature that isn't a demon starts its turn within 30 feet of\
       \ one or more rutterkins, that creature must make a DC 11 Wisdom saving throw.\
       \ The creature has disadvantage on the save if it's within 30 feet of six or\
-      \ more rutterkins. On a failed save, the creature becomes [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of the rutterkins for 1 minute. While [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ in this way, the creature is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
-      \ At the end of each of the [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ creature's turns, it can repeat the saving throw, ending the effect on itself\
-      \ on a success. On a successful save, the creature is immune to the Crippling\
-      \ Fear of all rutterkins for 24 hours."
+      \ more rutterkins. On a failed save, the creature becomes [frightened](Rules/conditions.md#Frightened)\
+      \ of the rutterkins for 1 minute. While [frightened](Rules/conditions.md#Frightened)\
+      \ in this way, the creature is [restrained](Rules/conditions.md#Restrained).\
+      \ At the end of each of the [frightened](Rules/conditions.md#Frightened) creature's\
+      \ turns, it can repeat the saving throw, ending the effect on itself on a success.\
+      \ On a successful save, the creature is immune to the Crippling Fear of all\
+      \ rutterkins for 24 hours."
     "name": "Immobilizing Fear"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (3d6 + 2) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Constitution saving throw against disease or become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ At the end of each long rest, the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ a DC 13 Constitution saving throw against disease or become [poisoned](Rules/conditions.md#Poisoned).\
+      \ At the end of each long rest, the [poisoned](Rules/conditions.md#Poisoned)\
       \ target can repeat the saving throw, ending the effect on itself on a success.\
-      \ If the target is reduced to 0 hit points while [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way, it dies and instantly transforms into a living [manes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/manes.md).\
-      \ The transformation can be undone only by a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
+      \ If the target is reduced to 0 hit points while [poisoned](Rules/conditions.md#Poisoned)\
+      \ in this way, it dies and instantly transforms into a living [manes](Compendium/bestiary/fiend/manes.md).\
+      \ The transformation can be undone only by a [wish](Compendium/spells/wish.md)\
       \ spell."
     "name": "Bite"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/rutterkin-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/rutterkin-mpmm.webp"
 ```
 ^statblock

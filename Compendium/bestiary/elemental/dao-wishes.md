@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/11
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dao (Wishes)
+- "Dao (Wishes)"
 ---
-# [Dao (Wishes)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/dao-wishes.md)
-*Source: Monster Manual p. 143, Tasha's Cauldron of Everything*  
+# [Dao (Wishes)](Compendium/bestiary/elemental/dao-wishes.md)
+*Source: Monster Manual p. 143*  
 
 ```statblock
 "name": "Dao (Wishes)"
@@ -37,28 +38,23 @@ aliases:
   - "intelligence": !!int "5"
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
-"condition_immunities": "[petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[petrified](Rules/conditions.md#Petrified)"
+"gear":
+  - "[maul](Compendium/items/maul.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Terran"
 "cr": "11"
 "traits":
   - "desc": "The dao's innate spellcasting ability is Charisma (spell save DC 14,\
       \ +6 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [stone shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stone-shape.md)\n\
-      \n**3/day each:** [passwall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/passwall.md),\
-      \ [move earth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/move-earth.md),\
-      \ [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md)\n\
-      \n**1/day each:** [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md)\
-      \ ([earth elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/earth-elemental.md)\
-      \ only), [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [phantasmal killer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-killer.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md),\
-      \ [wall of stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-stone.md)\n\
-      \n**1/year each:** [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
+      \ requiring no material components:\n\n**At will:** [detect evil and good](Compendium/spells/detect-evil-and-good.md),\
+      \ [detect magic](Compendium/spells/detect-magic.md), [stone shape](Compendium/spells/stone-shape.md)\n\
+      \n**3/day each:** [passwall](Compendium/spells/passwall.md), [move earth](Compendium/spells/move-earth.md),\
+      \ [tongues](Compendium/spells/tongues.md)\n\n**1/day each:** [conjure elemental](Compendium/spells/conjure-elemental.md)\
+      \ ([earth elemental](Compendium/bestiary/elemental/earth-elemental.md) only),\
+      \ [gaseous form](Compendium/spells/gaseous-form.md), [invisibility](Compendium/spells/invisibility.md),\
+      \ [phantasmal killer](Compendium/spells/phantasmal-killer.md), [plane shift](Compendium/spells/plane-shift.md),\
+      \ [wall of stone](Compendium/spells/wall-of-stone.md)\n\n**1/year each:** [wish](Compendium/spells/wish.md)\
       \ (see Wishes)"
     "name": "Innate Spellcasting"
   - "desc": "The dao can burrow through nonmagical, unworked earth and stone. While\
@@ -68,7 +64,7 @@ aliases:
       \ behind only equipment the dao was wearing or carrying."
     "name": "Elemental Demise"
   - "desc": "The dao has advantage on Strength and Dexterity saving throws made against\
-      \ effects that would knock it [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ effects that would knock it [prone](Rules/conditions.md#Prone)."
     "name": "Sure-Footed"
   - "desc": "The genie power to grant wishes is legendary among mortals. Only the\
       \ most potent genies, such as those among the nobility, can do so. A particular\
@@ -78,11 +74,10 @@ aliases:
       \ that the same genie can expend its limit of wishes on a specific creature\
       \ only once in that creature's existence.\n\nTo be granted a wish, a creature\
       \ within 60 feet of the genie states a desired effect to it. The genie can then\
-      \ cast the [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell on the creature's behalf to bring about the effect. Depending on the\
-      \ genie's nature, the genie might try to pervert the intent of the wish by exploiting\
-      \ the wish's poor wording. The perversion of the wording is usually crafted\
-      \ to be to the genie's benefit."
+      \ cast the [wish](Compendium/spells/wish.md) spell on the creature's behalf\
+      \ to bring about the effect. Depending on the genie's nature, the genie might\
+      \ try to pervert the intent of the wish by exploiting the wish's poor wording.\
+      \ The perversion of the wording is usually crafted to be to the genie's benefit."
     "name": "Wishes"
 "actions":
   - "desc": "The Dao makes two fist attacks or two maul attacks."
@@ -92,11 +87,10 @@ aliases:
     "name": "Fist"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 20\
       \ (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature,\
-      \ it must succeed on a DC 18 Strength check or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ it must succeed on a DC 18 Strength check or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Maul"
 "source":
   - "MM"
-  - "TCE"
 ```
 ^statblock
 

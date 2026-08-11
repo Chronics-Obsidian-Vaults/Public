@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mezzoloth
+- "Mezzoloth"
 ---
-# [Mezzoloth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/mezzoloth.md)
+# [Mezzoloth](Compendium/bestiary/fiend/mezzoloth.md)
 *Source: Monster Manual p. 313*  
 
 The bulk of the yugoloth population is made up of mezzoloths, which are human-sized insect creatures covered in dense chitinous plates. Mezzoloths serve as foot soldiers in yugoloth armies, their wide-set eyes glowing red as the mezzoloths bear down on their foes.
@@ -89,23 +90,23 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[trident](Compendium/items/trident.md)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 13"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "5"
 "traits":
   - "desc": "The mezzoloth's innate spellcasting ability is Charisma (spell save DC\
       \ 11). The mezzoloth can innately cast the following spells, requiring no material\
-      \ components:\n\n**2/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\n\
-      \n**1/day:** [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md)"
+      \ components:\n\n**2/day each:** [darkness](Compendium/spells/darkness.md),\
+      \ [dispel magic](Compendium/spells/dispel-magic.md)\n\n**1/day:** [cloudkill](Compendium/spells/cloudkill.md)"
     "name": "Innate Spellcasting"
   - "desc": "The mezzoloth has advantage on saving throws against spells and other\
       \ magical effects."
@@ -128,6 +129,6 @@ Whatever the case, no fiend finds the General unless the General desires it. His
     "name": "Teleport"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/mezzoloth.webp"
+"image": "Compendium/bestiary/fiend/token/mezzoloth.webp"
 ```
 ^statblock

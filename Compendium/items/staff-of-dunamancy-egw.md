@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of Dunamancy"
 item_type: weapon
 item_subtype: simple
@@ -20,12 +21,12 @@ attunement: required
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff of polished gray wood bears numerous runes carved along its length. The staff has 10 charges and regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff turns into dust and is destroyed.
 
-While holding the staff, you can use an action to expend 2 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [fortune's favor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fortunes-favor-egw.md) (2 charges), [pulse wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pulse-wave-egw.md) (3 charges), or [gravity sinkhole](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gravity-sinkhole-egw.md) (4 charges).
+While holding the staff, you can use an action to expend 2 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [fortune's favor](Compendium/spells/fortunes-favor-egw.md) (2 charges), [pulse wave](Compendium/spells/pulse-wave-egw.md) (3 charges), or [gravity sinkhole](Compendium/spells/gravity-sinkhole-egw.md) (4 charges).
 
 ## New Possibility
 

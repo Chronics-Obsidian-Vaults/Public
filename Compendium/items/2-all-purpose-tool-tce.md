@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "+2 All-Purpose Tool"
 item_type: 
 item_subtype: 
@@ -13,11 +15,11 @@ rarity: rare
 attunement: required
 ---
 # +2 All-Purpose Tool
-*Wondrous item, rare (requires attunement by an artificer)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by an artificer)*  
 
 
 
-This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the "Equipment" chapter in the "Player's Handbook" for a list of [artisan's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/artisans-tools.md)). Whatever form the tool takes, you are proficient with it.
+This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the "Equipment" chapter in the "Player's Handbook" for a list of [artisan's tools](Compendium/items/artisans-tools.md)). Whatever form the tool takes, you are proficient with it.
 
 While holding this tool, you gain a +2 bonus to the spell attack rolls and the saving throw DCs of your artificer spells.
 

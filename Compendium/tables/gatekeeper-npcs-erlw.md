@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Gatekeeper NPCs
+- "Gatekeeper NPCs"
 ---
 # Gatekeeper NPCs
 *Source: Eberron: Rising from the Last War p. 202* 

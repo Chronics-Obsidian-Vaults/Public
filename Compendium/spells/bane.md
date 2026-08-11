@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -13,14 +14,16 @@ tags:
 - source/spell/subclass/divine-soul/chaos
 - source/spell/subclass/grave-domain
 - source/spell/subclass/oath-of-vengeance
+- source/spell/subclass/the-undead
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Cleric (Grave Domain)
 - Paladin (Oath of Vengeance)
 - Sorcerer (Divine Soul, Chaos)
+- Warlock (The Undead)
 aliases:
-- Bane
+- "Bane"
 level: 1
 school: enchantment
 ritual: false
@@ -44,6 +47,6 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Grave Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Vengeance)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-vengeance.md); [Sorcerer (Divine Soul, Chaos)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Grave Domain)](Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance.md); [Sorcerer (Divine Soul, Chaos)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Undead)](Compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR")
 
 *Source: Player's Handbook p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

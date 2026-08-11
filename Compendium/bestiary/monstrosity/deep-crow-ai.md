@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/9
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deep Crow
+- "Deep Crow"
 ---
-# [Deep Crow](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/deep-crow-ai.md)
+# [Deep Crow](Compendium/bestiary/monstrosity/deep-crow-ai.md)
 *Source: Acquisitions Incorporated p. 210*  
 
 The only warning you'll get is that fearsome, far-off caw, echoing from the darkness like a death knell. For by the time those glowing red eyes fix on you, it's far too late to run...
@@ -58,12 +59,11 @@ Deep crows and ancient deep crows roost in places both deep and warm, favoring s
   - "constitution": !!int "8"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+11"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 16"
 "languages": "Deep Crow"
 "cr": "9"
@@ -71,20 +71,20 @@ Deep crows and ancient deep crows roost in places both deep and warm, favoring s
   - "desc": "The deep crow has advantage on saving throws against spells and other\
       \ magical effects."
     "name": "Magic Resistance"
-  - "desc": "While in dim light or darkness, the deep crow can take the Hide action\
-      \ as a bonus action."
+  - "desc": "While in dim light or darkness, the deep crow can take the [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the deep crow has disadvantage on attack rolls, as\
-      \ well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely\
+      \ on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The deep crow makes three attacks: one with its mandibles and two with\
       \ its claws."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) piercing damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 17). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ (2d10 + 5) piercing damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 17). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the deep crow can't use its mandibles on another target."
     "name": "Mandibles"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12\
@@ -92,6 +92,6 @@ Deep crows and ancient deep crows roost in places both deep and warm, favoring s
     "name": "Claw"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/deep-crow-ai.webp"
+"image": "Compendium/bestiary/monstrosity/token/deep-crow-ai.webp"
 ```
 ^statblock

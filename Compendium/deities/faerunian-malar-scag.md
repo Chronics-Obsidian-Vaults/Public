@@ -6,14 +6,14 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/nature
-aliases: 
-- Malar
-- The Beastlord
-- The Black-Blooded One
+aliases:
+- "Malar"
+- "The Beastlord"
+- "The Black-Blooded One"
 ---
 # Malar
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-malar.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-malar.webp#symbol)
 
 - **Alternate Names**: The Beastlord, The Black-Blooded One
 - **Alignment**: Chaotic Evil

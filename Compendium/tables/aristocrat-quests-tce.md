@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Aristocrat Quests
+- "Aristocrat Quests"
 ---
 # Aristocrat Quests
 *Source: Tasha's Cauldron of Everything p. 90* 

@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Robe of Stars"
 item_type: 
 item_subtype: 
@@ -15,12 +16,12 @@ attunement: required
 ---
 # Robe of Stars
 *Wondrous item, major, very rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/robe-of-stars.webp#right)
+![](Compendium/items/img/robe-of-stars.webp#right)
 
 
 This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
 
-Six stars, located on the robe's upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md) as a 5th-level spell. Daily at dusk, `1d6` removed stars reappear on the robe.
+Six stars, located on the robe's upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast [magic missile](Compendium/spells/magic-missile.md) as a 5th-level spell. Daily at dusk, `1d6` removed stars reappear on the robe.
 
 While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space.
 

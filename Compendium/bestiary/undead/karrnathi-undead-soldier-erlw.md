@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Karrnathi Undead Soldier
+- "Karrnathi Undead Soldier"
 ---
-# [Karrnathi Undead Soldier](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/karrnathi-undead-soldier-erlw.md)
+# [Karrnathi Undead Soldier](Compendium/bestiary/undead/karrnathi-undead-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 295*  
 
 Undead soldiers form the elite core of the army of Karrnath. Fearless and tireless, they are a terrifying sight on the battlefield. With the end of the Last War, most Karrnathi undead have been sealed in vaults below the city of Atur. However, the Karrnathi army keeps numerous undead in its service, while others have been commandeered by the malevolent Order of the Emerald Claw.
@@ -42,7 +43,7 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[half plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/half-plate-armor.md)"
+"ac_class": "[half plate armor](Compendium/items/half-plate-armor.md)"
 "hp": !!int "52"
 "hit_dice": "7d8 + 21"
 "modifier": !!int "2"
@@ -55,22 +56,23 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
   - !!int "5"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "cold, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common"
 "cr": "3"
 "traits":
   - "desc": "The soldier has advantage on an attack roll against a creature if at\
       \ least one of the soldier's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ ally isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "If damage reduces the soldier to 0 hit points, it must make a Constitution\
       \ saving throw with a DC of 5 + the damage taken, unless the damage is radiant\
@@ -91,6 +93,6 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
     "name": "Parry"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/karrnathi-undead-soldier-erlw.webp"
+"image": "Compendium/bestiary/undead/token/karrnathi-undead-soldier-erlw.webp"
 ```
 ^statblock

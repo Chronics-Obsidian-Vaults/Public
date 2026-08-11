@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Kyrzin's Ooze"
 item_type: 
 item_subtype: 
@@ -21,7 +22,7 @@ This opalescent, symbiotic goo comes sealed in a jar and slowly shifts and moves
 
 ## Resistant
 
-While attuned to Kyrzin's ooze, you have resistance to poison and acid damage, and you're immune to the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) condition.
+While attuned to Kyrzin's ooze, you have resistance to poison and acid damage, and you're immune to the [poisoned](Rules/conditions.md#Poisoned) condition.
 
 ## Amorphous
 
@@ -35,6 +36,6 @@ As an action, you can exhale acid in a 30-foot line that is 5 feet wide. Each cr
 
 The ooze can't be removed from you while you're attuned to it, and you can't voluntarily end your attunement to it. If you're targeted by a spell that ends a curse, your attunement to the ooze ends, as it seeps out of you.
 
-If you die while the ooze is inside you, it bursts out and engulfs you, turning your corpse into a [black pudding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/black-pudding.md) allied with the daelkyr.
+If you die while the ooze is inside you, it bursts out and engulfs you, turning your corpse into a [black pudding](Compendium/bestiary/ooze/black-pudding.md) allied with the daelkyr.
 
 *Source: Eberron: Rising from the Last War p. 278*

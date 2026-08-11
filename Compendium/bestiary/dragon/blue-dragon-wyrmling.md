@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blue Dragon Wyrmling
+- "Blue Dragon Wyrmling"
 ---
-# [Blue Dragon Wyrmling](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/blue-dragon-wyrmling.md)
-*Source: Monster Manual p. 91, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Blue Dragon Wyrmling](Compendium/bestiary/dragon/blue-dragon-wyrmling.md)
+*Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 
@@ -122,13 +123,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "2"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_immunities": "lightning"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
@@ -143,7 +143,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Lightning Breath (Recharge 5-6)"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/blue-dragon-wyrmling.webp"
+"image": "Compendium/bestiary/dragon/token/blue-dragon-wyrmling.webp"
 ```
 ^statblock

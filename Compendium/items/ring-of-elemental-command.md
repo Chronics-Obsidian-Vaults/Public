@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/tier/major
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Elemental Command"
 item_type: wondrous
 item_subtype: ring
@@ -21,9 +22,9 @@ attunement: required
 
 **Items in this group:**
 
-- [Ring of Air Elemental Command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-air-elemental-command.md)
-- [Ring of Earth Elemental Command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-earth-elemental-command.md)
-- [Ring of Fire Elemental Command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-fire-elemental-command.md)
-- [Ring of Water Elemental Command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-water-elemental-command.md)
+- [Ring of Air Elemental Command](Compendium/items/ring-of-air-elemental-command.md)
+- [Ring of Earth Elemental Command](Compendium/items/ring-of-earth-elemental-command.md)
+- [Ring of Fire Elemental Command](Compendium/items/ring-of-fire-elemental-command.md)
+- [Ring of Water Elemental Command](Compendium/items/ring-of-water-elemental-command.md)
 
 *Source: Dungeon Master's Guide p. 190*

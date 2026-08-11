@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/17
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Worm
+- "Frost Worm"
 ---
-# [Frost Worm](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/frost-worm-egw.md)
+# [Frost Worm](Compendium/bestiary/monstrosity/frost-worm-egw.md)
 *Source: Explorer's Guide to Wildemount p. 289*  
 
 Frost worms burrow through the snow, dirt, ice, and rock of Wildemount's Biting North. These enormous monstrosities eagerly consume any living creature they can wrap their jaws around.
@@ -41,8 +42,8 @@ A frost worm spends most of its time beneath the frozen ground, conserving energ
   - "wisdom": !!int "3"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "cold"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., tremorsense 60 ft., passive Perception 7"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., tremorsense 60 ft., passive\
+  \ Perception 7"
 "languages": ""
 "cr": "17"
 "traits":
@@ -63,27 +64,26 @@ A frost worm spends most of its time beneath the frozen ground, conserving energ
   - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22\
       \ (3d8 + 9) piercing damage plus 10 (3d6) cold damage. If the target is a Large\
       \ or smaller creature, it must succeed on a DC 20 Dexterity saving throw or\
-      \ be swallowed by the worm. A swallowed creature is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-      \ has total cover against attacks and other effects outside the worm, and takes\
-      \ 10 (3d6) acid damage and 10 (3d6) cold damage at the start of each of the\
-      \ worm's turns.\n\nIf the worm takes 30 damage or more on a single turn from\
-      \ a creature inside it, the worm must succeed on a DC 20 Constitution saving\
-      \ throw at the end of that turn or regurgitate all swallowed creatures, which\
-      \ fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ be swallowed by the worm. A swallowed creature is [blinded](Rules/conditions.md#Blinded)\
+      \ and [restrained](Rules/conditions.md#Restrained), has total cover against\
+      \ attacks and other effects outside the worm, and takes 10 (3d6) acid damage\
+      \ and 10 (3d6) cold damage at the start of each of the worm's turns.\n\nIf the\
+      \ worm takes 30 damage or more on a single turn from a creature inside it, the\
+      \ worm must succeed on a DC 20 Constitution saving throw at the end of that\
+      \ turn or regurgitate all swallowed creatures, which fall [prone](Rules/conditions.md#Prone)\
       \ in a space within 10 feet of the worm."
     "name": "Bite"
   - "desc": "The frost worm emits a haunting cry. Each creature within 60 feet of\
       \ the worm that can hear it must succeed on a DC 20 Wisdom saving throw or be\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ for 1 minute. A creature can repeat the saving throw each time it takes damage\
-      \ and at the end of each of its turns, ending the effect on itself on a success.\
-      \ Once a creature successfully saves against this effect, or if this effect\
-      \ ends for it, that creature is immune to the Trill of all frost worms for the\
-      \ next 24 hours. Frost worms are immune to this effect."
+      \ [stunned](Rules/conditions.md#Stunned) for 1 minute. A creature can repeat\
+      \ the saving throw each time it takes damage and at the end of each of its turns,\
+      \ ending the effect on itself on a success. Once a creature successfully saves\
+      \ against this effect, or if this effect ends for it, that creature is immune\
+      \ to the Trill of all frost worms for the next 24 hours. Frost worms are immune\
+      \ to this effect."
     "name": "Trill"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/frost-worm-egw.webp"
+"image": "Compendium/bestiary/monstrosity/token/frost-worm-egw.webp"
 ```
 ^statblock

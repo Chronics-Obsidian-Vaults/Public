@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- NPC Bonds
+- "NPC Bonds"
 ---
 # NPC Bonds
 *Source: Dungeon Master's Guide p. 91* 

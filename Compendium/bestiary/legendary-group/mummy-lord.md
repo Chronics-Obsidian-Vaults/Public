@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/mm
 - source/monster/legendary-group
 aliases:
-- Mummy Lord
+- "Mummy Lord"
 ---
 # Mummy Lord
 
@@ -25,7 +25,7 @@ _Source: Monster Manual_
 A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:
 
 - Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.  
-- [Divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md) spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md) spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.  
-- A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md) spell or other magic.  
+- [Divination](Compendium/spells/divination.md) spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a [divination](Compendium/spells/divination.md) spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.  
+- A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a [remove curse](Compendium/spells/remove-curse.md) spell or other magic.  
 
 If the mummy lord is destroyed, these regional effects end immediately.

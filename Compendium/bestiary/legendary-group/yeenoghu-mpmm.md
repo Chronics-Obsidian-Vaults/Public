@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/mpmm
 - source/monster/legendary-group
 aliases:
-- Yeenoghu
+- "Yeenoghu"
 ---
 # Yeenoghu
 
@@ -16,7 +16,7 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 On initiative count 20 (losing initiative ties), Yeenoghu can take one of the following lair actions; he can't take the same lair action two rounds in a row:
 
 - **Incite the Pack.** Until the next initiative count 20, all gnolls and hyenas within the lair are enraged, causing them to have advantage on melee weapon attack rolls and causing attack rolls to have advantage against them.  
-- **Iron Spike.** Yeenoghu causes an iron spike—5 feet tall and 1 inch in diameter—to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes 27 (`6d8`) piercing damage and is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the restrained condition.  
+- **Iron Spike.** Yeenoghu causes an iron spike—5 feet tall and 1 inch in diameter—to burst from the ground at a point he can see within 100 feet of him. Any creature in the space where the spike emerges must make a DC 24 Dexterity saving throw. On a failed save, the creature takes 27 (`6d8`) piercing damage and is [restrained](Rules/conditions.md#Restrained) by being impaled on the spike. A creature can use an action to remove itself (or a creature it can reach) from the spike, ending the restrained condition.  
 - **Pack Rush.** Each gnoll or hyena that Yeenoghu can see can use its reaction to move up to its speed.  
 
 ## Regional Effects

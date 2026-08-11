@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Skulker
+- "Skulker"
 ---
 # Skulker
 *Source: Player's Handbook p. 170*  
@@ -17,4 +17,4 @@ You are expert at slinking through shadows. You gain the following benefits:
 
 - You can try to hide when you are lightly obscured from the creature from which you are hiding.  
 - When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.  
-- Dim light doesn't impose disadvantage on your Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks relying on sight.
+- Dim light doesn't impose disadvantage on your Wisdom ([Perception](Rules/skills.md#Perception)) checks relying on sight.

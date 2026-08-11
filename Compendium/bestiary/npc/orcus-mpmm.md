@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/26
@@ -9,16 +10,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orcus
+- "Orcus"
 ---
-# [Orcus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/orcus-mpmm.md)
+# [Orcus](Compendium/bestiary/npc/orcus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 204, Mordenkainen's Tome of Foes p. 153*  
 
 Orcus is the Demon Prince of Undeath, also known as the Blood Lord. While he takes pleasure in the sufferings of the living, he far prefers the company and service of Undead. His desire is to see all life quenched and the multiverse transformed into a vast necropolis populated solely by Undead creatures under his command.
 
-Orcus rewards those who spread death in his name by granting them a small portion of his power. The least of these become [ghouls](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghoul.md) and [zombies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/zombie.md) that serve in his legions, while his favored servants are the cultists and necromancers who murder the living and then manipulate the dead, emulating their dread master.
+Orcus rewards those who spread death in his name by granting them a small portion of his power. The least of these become [ghouls](Compendium/bestiary/undead/ghoul.md) and [zombies](Compendium/bestiary/undead/zombie.md) that serve in his legions, while his favored servants are the cultists and necromancers who murder the living and then manipulate the dead, emulating their dread master.
 
-Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary [Wand of Orcus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wand-of-orcus.md), which is described in the *Dungeon Master's Guide*.
+Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary [Wand of Orcus](Compendium/items/wand-of-orcus.md), which is described in the *Dungeon Master's Guide*.
 
 ## Cultists of Orcus
 
@@ -36,7 +37,7 @@ Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the 
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
-"ac_class": "natural armor; 20 from with the [Wand of Orcus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wand-of-orcus.md)"
+"ac_class": "natural armor; 20 with the [Wand of Orcus](Compendium/items/wand-of-orcus.md)"
 "hp": !!int "405"
 "hit_dice": "30d12 + 210"
 "modifier": !!int "2"
@@ -53,18 +54,17 @@ Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the 
   - "constitution": !!int "15"
   - "wisdom": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+13"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 22"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[wand of orcus](Compendium/items/wand-of-orcus.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 22"
 "languages": "all, telepathy 120 ft."
 "cr": "26"
 "traits":
@@ -73,14 +73,13 @@ Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the 
   - "desc": "Orcus has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
-  - "desc": "Orcus can cast [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md)\
-      \ (at will) and [create undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-undead.md)\
-      \ (3/day). He chooses the level at which the spells are cast, and the creatures\
-      \ created by them remain under his control indefinitely. Additionally, he can\
-      \ cast [create undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-undead.md)\
-      \ even when it isn't night."
+  - "desc": "Orcus can cast [animate dead](Compendium/spells/animate-dead.md) (at\
+      \ will) and [create undead](Compendium/spells/create-undead.md) (3/day). He\
+      \ chooses the level at which the spells are cast, and the creatures created\
+      \ by them remain under his control indefinitely. Additionally, he can cast [create\
+      \ undead](Compendium/spells/create-undead.md) even when it isn't night."
     "name": "Master of Undeath"
-  - "desc": "Orcus wields the [Wand of Orcus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wand-of-orcus.md)."
+  - "desc": "Orcus wields the [Wand of Orcus](Compendium/items/wand-of-orcus.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Orcus makes three Wand of Orcus, Tail, or Necrotic Bolt attacks."
@@ -94,7 +93,7 @@ Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the 
   - "desc": "*Ranged Spell Attack:* +15 to hit, range 120 ft., one target. *Hit:*\
       \ 29 (5d8 + 7) necrotic damage."
     "name": "Necrotic Bolt"
-  - "desc": "While holding the [Wand of Orcus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wand-of-orcus.md),\
+  - "desc": "While holding the [Wand of Orcus](Compendium/items/wand-of-orcus.md),\
       \ Orcus conjures Undead creatures whose combined average hit points don't exceed\
       \ 500. These creatures magically rise up from the ground or otherwise form in\
       \ unoccupied spaces within 300 feet of Orcus and obey his commands until they\
@@ -102,38 +101,34 @@ Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the 
     "name": "Conjure Undead (1/Day)"
   - "desc": "Orcus casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 23):\n\n**At\
-      \ will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md)\n\
-      \n**3/day:** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\n\
-      \n**1/day:** [time stop](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/time-stop.md)"
+      \ will:** [detect magic](Compendium/spells/detect-magic.md)\n\n**3/day:** [dispel\
+      \ magic](Compendium/spells/dispel-magic.md)\n\n**1/day:** [time stop](Compendium/spells/time-stop.md)"
     "name": "Spellcasting"
-  - "desc": "While holding the [Wand of Orcus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wand-of-orcus.md),\
+  - "desc": "While holding the [Wand of Orcus](Compendium/items/wand-of-orcus.md),\
       \ Orcus casts one of the following spells (spell save DC 18), some of which\
       \ require charges; the wand has 7 charges to fuel these spells, and it regains\
-      \ 1d4 + 3 charges daily at dawn:\n\n**At will:** [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md)\
-      \ (as an action), [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md),\
-      \ [speak with dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md)\n\
-      \n**2e charge2e charge:** [power word kill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-kill.md)\n\
-      \n**1e charge1e charge:** [circle of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-death.md),\
-      \ [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md)"
+      \ 1d4 + 3 charges daily at dawn:\n\n**At will:** [animate dead](Compendium/spells/animate-dead.md)\
+      \ (as an action), [blight](Compendium/spells/blight.md), [speak with dead](Compendium/spells/speak-with-dead.md)\n\
+      \n**2 charges each:** [power word kill](Compendium/spells/power-word-kill.md)\n\
+      \n**1 charge each:** [circle of death](Compendium/spells/circle-of-death.md),\
+      \ [finger of death](Compendium/spells/finger-of-death.md)"
     "name": "Wand Spellcasting"
 "lair_actions":
   - "desc": "On Initiative count 20 (losing initiative ties), Orcus can take a lair\
       \ action to cause one of the following effects; he can't use the same effect\
       \ two rounds in a row:\n\n- **Deadly Utterance.** Orcus's voice booms throughout\
       \ the lair. His utterance causes one creature of his choice to be subjected\
-      \ to [power word kill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-kill.md).\
-      \ Orcus needn't see the creature, but he must be aware that the individual is\
-      \ in the lair.  \n- **Grasp of the Dead.** Orcus causes skeletal arms to rise\
-      \ from an area on the ground in a 20-foot square that he can see. They last\
-      \ until the next initiative count 20. Each creature in that area when the arms\
-      \ appear must succeed on a DC 23 Strength saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ to [power word kill](Compendium/spells/power-word-kill.md). Orcus needn't\
+      \ see the creature, but he must be aware that the individual is in the lair.\
+      \  \n- **Grasp of the Dead.** Orcus causes skeletal arms to rise from an area\
+      \ on the ground in a 20-foot square that he can see. They last until the next\
+      \ initiative count 20. Each creature in that area when the arms appear must\
+      \ succeed on a DC 23 Strength saving throw or be [restrained](Rules/conditions.md#Restrained)\
       \ until the arms disappear or until Orcus releases them (no action required).\
       \  \n- **Undead Servants.** Orcus causes up to six corpses within the lair to\
-      \ rise as [skeletons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/skeleton.md),\
-      \ [zombies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/zombie.md),\
-      \ or [ghouls](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghoul.md).\
-      \ These undead obey his telepathic commands, which can reach anywhere in the\
-      \ lair.  "
+      \ rise as [skeletons](Compendium/bestiary/undead/skeleton.md), [zombies](Compendium/bestiary/undead/zombie.md),\
+      \ or [ghouls](Compendium/bestiary/undead/ghoul.md). These undead obey his telepathic\
+      \ commands, which can reach anywhere in the lair.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing Orcus's lair is warped by his magic, creating one\
@@ -159,6 +154,6 @@ Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/orcus-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/orcus-mpmm.webp"
 ```
 ^statblock

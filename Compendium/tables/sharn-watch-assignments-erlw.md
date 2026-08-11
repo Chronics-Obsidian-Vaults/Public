@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Sharn Watch Assignments
+- "Sharn Watch Assignments"
 ---
 # Sharn Watch Assignments
 *Source: Eberron: Rising from the Last War p. 258* 

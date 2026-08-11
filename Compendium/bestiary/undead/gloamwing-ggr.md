@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gloamwing
+- "Gloamwing"
 ---
-# [Gloamwing](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/gloamwing-ggr.md)
+# [Gloamwing](Compendium/bestiary/undead/gloamwing-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 215*  
 
 A gloamwing's head is almost ratlike, with prominent teeth, and its leathery skin is stretched tight over its skull, where its eyes are empty sockets. Its body is mottled with bony plates, and great wings stretch from its shoulders.
@@ -38,18 +39,15 @@ A gloamwing's head is almost ratlike, with prominent teeth, and its leathery ski
   - "strength": !!int "8"
   - "dexterity": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 13"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 13"
 "languages": "understands Common"
 "cr": "8"
 "traits":
@@ -59,8 +57,8 @@ A gloamwing's head is almost ratlike, with prominent teeth, and its leathery ski
       \ of an enemy's reach."
     "name": "Flyby"
   - "desc": "While in sunlight, the gloamwing has disadvantage on attack rolls, as\
-      \ well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely\
+      \ on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The gloamwing makes two attacks: one with its bite and one with its claws."
@@ -73,6 +71,6 @@ A gloamwing's head is almost ratlike, with prominent teeth, and its leathery ski
     "name": "Claws"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/gloamwing-ggr.webp"
+"image": "Compendium/bestiary/undead/token/gloamwing-ggr.webp"
 ```
 ^statblock

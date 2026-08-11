@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/smpl
 aliases:
-- Bear Trap
+- "Bear Trap"
 ---
 # Bear Trap
 *Generic Hazard*  

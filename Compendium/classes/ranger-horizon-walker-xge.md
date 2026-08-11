@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/ranger/horizon-walker
 aliases:
-- Horizon Walker
+- "Horizon Walker"
 ---
 # Horizon Walker
 *[Ranger](./ranger.md): Ranger Archetype*  
@@ -43,16 +43,15 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/ranger.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
 > You can't walk to the horizon, because it keeps on getting farther away. Boom! Did I just blow your mind? I did, didn't I?
 
-## Class Features
-
-### Horizon Walker (Level 3)
-
 Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes.
+
+## Subclass Features
 
 ### Horizon Walker Magic (Level 3)
 
@@ -62,11 +61,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md) |
-| 5th | [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md) |
-| 9th | [haste](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/haste.md) |
-| 13th | [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md) |
-| 17th | [teleportation circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleportation-circle.md) |
+| 3rd | [protection from evil and good](Compendium/spells/protection-from-evil-and-good.md) |
+| 5th | [misty step](Compendium/spells/misty-step.md) |
+| 9th | [haste](Compendium/spells/haste.md) |
+| 13th | [banishment](Compendium/spells/banishment.md) |
+| 17th | [teleportation circle](Compendium/spells/teleportation-circle.md) |
 ^horizon-walker-spells
 
 ### Detect Portal (Level 3)
@@ -85,13 +84,13 @@ As a bonus action, choose one creature you can see within 30 feet of you. The ne
 
 ### Ethereal Step (Level 7)
 
-At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [etherealness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/etherealness.md) spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
+At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [etherealness](Compendium/spells/etherealness.md) spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Distant Strike (Level 11)
 
-At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
+At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the [Attack](Rules/actions.md#Attack) action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
 
 If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.
 

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/cmpx
 aliases:
-- Poisoned Tempest
+- "Poisoned Tempest"
 ---
 # Poisoned Tempest
 *Generic Hazard*  

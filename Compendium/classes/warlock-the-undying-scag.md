@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/scag
 - source/subclass/warlock/undying
 aliases:
-- The Undying
+- "The Undying"
 ---
 # The Undying
 *[Warlock](./warlock.md): Otherworldly Patron*  
@@ -43,17 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### The Undying (Level 1)
-
 Death holds no sway over your patron, who has unlocked the secrets of everlasting life, although such a prize—like all power—comes at a price. Once mortal, the Undying has seen mortal lifetimes pass like the seasons, like the flicker of endless days and nights. It has the secrets of the ages to share, secrets of life and death. Beings of this sort include Vecna, Lord of the Hand and the Eye; the dread Iuz; the lich-queen Vol; the Undying Court of Aerenal; Vlaakith, lich-queen of the githyanki; and the deathless wizard Fistandantilus.
 
 In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock's Crypt, and Gilgeam, the God-King of Unther.
 
-#### Expanded Spell List
-_Source: Sword Coast Adventurer's Guide_
+## Subclass Features
+
+### Expanded Spell List (Level 1)
 
 The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
@@ -61,28 +57,28 @@ The Undying lets you choose from an expanded list of spells when you learn a war
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [false life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/false-life.md), [ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md) |
-| 2nd | [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md), [silence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silence.md) |
-| 3rd | [feign death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feign-death.md), [speak with dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md) |
-| 4th | [aura of life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-life.md), [death ward](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/death-ward.md) |
-| 5th | [contagion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contagion.md), [legend lore](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/legend-lore.md) |
+| 1st | [false life](Compendium/spells/false-life.md), [ray of sickness](Compendium/spells/ray-of-sickness.md) |
+| 2nd | [blindness/deafness](Compendium/spells/blindness-deafness.md), [silence](Compendium/spells/silence.md) |
+| 3rd | [feign death](Compendium/spells/feign-death.md), [speak with dead](Compendium/spells/speak-with-dead.md) |
+| 4th | [aura of life](Compendium/spells/aura-of-life.md), [death ward](Compendium/spells/death-ward.md) |
+| 5th | [contagion](Compendium/spells/contagion.md), [legend lore](Compendium/spells/legend-lore.md) |
 ^undying-expanded-spells
 
 ### Among the Dead (Level 1)
 
-Starting at 1st level, you learn the [spare the dying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spare-the-dying.md) cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.
+Starting at 1st level, you learn the [spare the dying](Compendium/spells/spare-the-dying.md) cantrip, which counts as a warlock cantrip for you. You also have advantage on saving throws against any disease.
 
-Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.
+Additionally, undead have difficulty harming you. If an undead targets you directly with an attack or a harmful spell, that creature must make a Wisdom saving throw against your spell save DC (an undead needn't make the save when it includes you in an area effect, such as the explosion of [fireball](Compendium/spells/fireball.md)). On a failed save, the creature must choose a new target or forfeit targeting someone instead of you, potentially wasting the attack or spell. On a successful save, the creature is immune to this effect for 24 hours. An undead is also immune to this effect for 24 hours if you target it with an attack or a harmful spell.
 
 ### Defy Death (Level 6)
 
-Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to `1d8` + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with [spare the dying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spare-the-dying.md).
+Starting at 6th level, you can give yourself vitality when you cheat death or when you help someone else cheat it. You can regain hit points equal to `1d8` + your Constitution modifier (minimum of 1 hit point) when you succeed on a death saving throw or when you stabilize a creature with [spare the dying](Compendium/spells/spare-the-dying.md).
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Undying Nature (Level 10)
 
-Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion) and still benefit from finishing short and long rests.
+Beginning at 10th level, you can hold your breath indefinitely, and you don't require food, water, or sleep, although you still require rest to reduce [exhaustion](Rules/conditions.md#Exhaustion) and still benefit from finishing short and long rests.
 
 In addition, you age at a slower rate. For every 10 years that pass, your body ages only 1 year, and you are immune to being magically aged.
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mm
 aliases:
-- Introduction
+- "Introduction"
 ---
 # Introduction
 *Source: Monster Manual (2014), p. 4* 
@@ -119,7 +119,7 @@ A monster's statistics, sometimes referred to as its stat block, provide the ess
 
 A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the "Player's Handbook" for more information on creature size and space.
 
-![Size Categories](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/size-categories-mm.md)
+![Size Categories](Compendium/tables/size-categories-mm.md)
 
 ### Type
 
@@ -183,7 +183,7 @@ A monster's size determines the die used to calculate its hit points, as shown i
 
 A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and `2d8` Hit Dice, it has `2d8 + 2` hit points (average 11).
 
-![Hit Points; Hit Dice by Size](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/hit-points-hit-dice-by-size-mm.md)
+![Hit Points; Hit Dice by Size](Compendium/tables/hit-points-hit-dice-by-size-mm.md)
 
 ### Speed
 
@@ -215,15 +215,15 @@ Every monster has six ability scores (Strength, Dexterity, Constitution, Intelli
 
 ### Saving Throws
 
-The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
+The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened) might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
-![Saving Throws; Proficiency Bonus by Challenge Rating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/saving-throws-proficiency-bonus-by-challenge-rating-mm.md)
+![Saving Throws; Proficiency Bonus by Challenge Rating](Compendium/tables/saving-throws-proficiency-bonus-by-challenge-rating-mm.md)
 
 ### Skills
 
-The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) and Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks.
+The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](Rules/skills.md#Perception)) and Dexterity ([Stealth](Rules/skills.md#Stealth)) checks.
 
 A skill bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a monster might have a larger-than-expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
 
@@ -233,25 +233,25 @@ Some creatures have vulnerability, resistance, or immunity to certain types of d
 
 ### Senses
 
-The Senses entry notes a monster's passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) score, as well as any special senses the monster might have. Special senses are described below.
+The Senses entry notes a monster's passive Wisdom ([Perception](Rules/skills.md#Perception)) score, as well as any special senses the monster might have. Special senses are described below.
 
 #### Blindsight
 
-A monster with [blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight) can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as grimlocks and gray oozes, typically have this special sense, as do creatures with echolocation or heightened senses, such as bats and true dragons.
+A monster with [blindsight](Rules/senses.md#Blindsight) can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as grimlocks and gray oozes, typically have this special sense, as do creatures with echolocation or heightened senses, such as bats and true dragons.
 
-If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its [blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight) defines the maximum range of its perception.
+If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its [blindsight](Rules/senses.md#Blindsight) defines the maximum range of its perception.
 
 #### Darkvision
 
-A monster with [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can't discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
+A monster with [darkvision](Rules/senses.md#Darkvision) can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can't discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
 
 #### Tremorsense
 
-A monster with [tremorsense](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Tremorsense) can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
+A monster with [tremorsense](Rules/senses.md#Tremorsense) can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
 
 #### Truesight
 
-A monster with [truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight) can, out to a specific range, see in normal and magical darkness, see [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+A monster with [truesight](Rules/senses.md#Truesight) can, out to a specific range, see in normal and magical darkness, see [invisible](Rules/conditions.md#Invisible) creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
 
 ### Languages
 
@@ -261,7 +261,7 @@ The languages that a monster can speak are listed in alphabetical order. Sometim
 
 Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn't need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can't initiate or terminate a telepathic conversation.
 
-A telepathic monster doesn't need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), it can't initiate telepathic contact, and any current contact is terminated.
+A telepathic monster doesn't need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is [incapacitated](Rules/conditions.md#Incapacitated), it can't initiate telepathic contact, and any current contact is terminated.
 
 A creature within the area of an antimagic field or in any other location where magic doesn't function can't send or receive telepathic messages.
 
@@ -292,7 +292,7 @@ Unless something tells you otherwise, a monster summoned by a spell or other mag
 
 The *Dungeon Master's Guide* explains how to create encounters using XP budgets, as well as how to adjust an encounter's difficulty.
 
-![Experience Points by Challenge Rating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/experience-points-by-challenge-rating-mm.md)
+![Experience Points by Challenge Rating](Compendium/tables/experience-points-by-challenge-rating-mm.md)
 
 ### Special Traits
 
@@ -302,17 +302,17 @@ Special traits (which appear after a monster's challenge rating but before any a
 
 A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise. an innate spell of 1st level or higher is always cast at its lowest possible level and can't be cast at a higher level. If a monster has a cantrip where its level matters and no level is given, use the monster's challenge rating.
 
-An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md) spell, but the spell has a "self only" restriction, which means that the spell affects only the drow mage.
+An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the [levitate](Compendium/spells/levitate.md) spell, but the spell has a "self only" restriction, which means that the spell affects only the drow mage.
 
 A monster's innate spells can't be swapped out with other spells. If a monster's innate spells don't require attack rolls, no attack bonus is given for them.
 
 #### Spellcasting
 
-A monster with the Spellcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the *Player's Handbook*). The spellcaster level is also used for any cantrips included in the feature.
+A monster with the Spellcasting class feature has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the *Player's Handbook*). The spellcaster level is also used for any cantrips included in the feature.
 
 The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
 
-A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd level [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md) spell can cast it as a 5th-level spell by using one of its 5th-level spell slots.
+A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd level [lightning bolt](Compendium/spells/lightning-bolt.md) spell can cast it as a 5th-level spell by using one of its 5th-level spell slots.
 
 You can change the spells that a monster knows or has prepared, replacing any spell on its spell list with a spell of the same level and from the same class list. If you do so. you might cause the monster to be a greater or lesser threat than suggested by its challenge rating.
 
@@ -322,7 +322,7 @@ A monster that casts spells using only the power of its mind has the psionics ta
 
 ### Actions
 
-When a monster takes its action, it can choose from the options in the Actions section of its stat block or use one of the actions available to all creatures, such as the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash) or [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide) action, as described in the *Player's Handbook.*
+When a monster takes its action, it can choose from the options in the Actions section of its stat block or use one of the actions available to all creatures, such as the [Dash](Rules/actions.md#Dash) or [Hide](Rules/actions.md#Hide) action, as described in the *Player's Handbook.*
 
 #### Melee and Ranged Attacks
 
@@ -372,7 +372,7 @@ This notation means that a monster can use a special ability once and then must 
 > 
 > Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
 > 
-> A creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) by the monster can use its action to try to escape. To do so, it must succeed on a Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) modifier.
+> A creature [grappled](Rules/conditions.md#Grappled) by the monster can use its action to try to escape. To do so, it must succeed on a Strength ([Athletics](Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength ([Athletics](Rules/skills.md#Athletics)) modifier.
 ^grapple-rules-for-monsters
 
 ### Equipment
@@ -391,7 +391,7 @@ If a creature assumes the form of a legendary creature, such as through a spell,
 
 ### Legendary Actions
 
-A legendary creature can take a certain number of special actions-called legendary actions-outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A legendary creature regains spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) or otherwise unable to take actions. If [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised), it can't use them until after its first turn in the combat.
+A legendary creature can take a certain number of special actions-called legendary actions-outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A legendary creature regains spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while [incapacitated](Rules/conditions.md#Incapacitated) or otherwise unable to take actions. If [surprised](Rules/conditions.md#Surprised), it can't use them until after its first turn in the combat.
 
 ### A Legendary Creature's Lair
 
@@ -399,346 +399,346 @@ A legendary creature might have a section describing its lair and the special ef
 
 #### Lair Actions
 
-If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can't do so while [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) or otherwise unable to take actions. If [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised), it can't use one until after its first turn in the combat.
+If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can't do so while [incapacitated](Rules/conditions.md#Incapacitated) or otherwise unable to take actions. If [surprised](Rules/conditions.md#Surprised), it can't use one until after its first turn in the combat.
 
 #### Regional Effects
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
 
-- [Aarakocra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/aarakocra.md)  
-- [Aboleth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/aboleth.md)  
-- [Abominable Yeti](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/abominable-yeti.md)  
-- [Adult Black Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-black-dragon.md)  
-- [Adult Blue Dracolich](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/adult-blue-dracolich.md)  
-- [Adult Blue Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-blue-dragon.md)  
-- [Adult Brass Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-brass-dragon.md)  
-- [Adult Bronze Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-bronze-dragon.md)  
-- [Adult Copper Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-copper-dragon.md)  
-- [Adult Gold Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-gold-dragon.md)  
-- [Adult Green Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-green-dragon.md)  
-- [Adult Red Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-red-dragon.md)  
-- [Adult Silver Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-silver-dragon.md)  
-- [Adult White Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-white-dragon.md)  
-- [Air Elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/air-elemental.md)  
-- [Allosaurus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/allosaurus.md)  
-- [Ancient Black Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-black-dragon.md)  
-- [Ancient Blue Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-blue-dragon.md)  
-- [Ancient Brass Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-brass-dragon.md)  
-- [Ancient Bronze Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-bronze-dragon.md)  
-- [Ancient Copper Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-copper-dragon.md)  
-- [Ancient Gold Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-gold-dragon.md)  
-- [Ancient Green Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-green-dragon.md)  
-- [Ancient Red Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-red-dragon.md)  
-- [Ancient Silver Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-silver-dragon.md)  
-- [Ancient White Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-white-dragon.md)  
-- [Androsphinx](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/androsphinx.md)  
-- [Animated Armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/animated-armor.md)  
-- [Ankheg](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/ankheg.md)  
-- [Ankylosaurus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/ankylosaurus.md)  
-- [Arcanaloth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/arcanaloth.md)  
-- [Azer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/azer.md)  
-- [Balor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/balor.md)  
-- [Banshee](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/banshee.md)  
-- [Barbed Devil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/barbed-devil.md)  
-- [Barlgura](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/barlgura.md)  
-- [Basilisk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/basilisk.md)  
-- [Bearded Devil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/bearded-devil.md)  
-- [Behir](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/behir.md)  
-- [Beholder](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/beholder.md)  
-- [Beholder Zombie](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/beholder-zombie.md)  
-- [Black Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/black-dragon-wyrmling.md)  
-- [Black Pudding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/black-pudding.md)  
-- [Blue Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/blue-dragon-wyrmling.md)  
-- [Blue Slaad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/blue-slaad.md)  
-- [Bone Devil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/bone-devil.md)  
-- [Bone Naga (Guardian)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/bone-naga-guardian.md)  
-- [Bone Naga (Spirit)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/bone-naga-spirit.md)  
-- [Brass Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/brass-dragon-wyrmling.md)  
-- [Bronze Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/bronze-dragon-wyrmling.md)  
-- [Bugbear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bugbear.md)  
-- [Bugbear Chief](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bugbear-chief.md)  
-- [Bulette](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/bulette.md)  
-- [Bullywug](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bullywug.md)  
-- [Cambion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/cambion.md)  
-- [Carrion Crawler](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/carrion-crawler.md)  
-- [Cave Bear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/cave-bear.md)  
-- [Centaur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/centaur.md)  
-- [Chain Devil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/chain-devil.md)  
-- [Chasme](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/chasme.md)  
-- [Chimera](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/chimera.md)  
-- [Chuul](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/chuul.md)  
-- [Clay Golem](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/clay-golem.md)  
-- [Cloaker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/cloaker.md)  
-- [Cloud Giant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/cloud-giant.md)  
-- [Cockatrice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/cockatrice.md)  
-- [Copper Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/copper-dragon-wyrmling.md)  
-- [Couatl](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/couatl.md)  
-- [Crawling Claw](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/crawling-claw.md)  
-- [Cyclops](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/cyclops.md)  
-- [Dao](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/dao.md)  
-- [Darkmantle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/darkmantle.md)  
-- [Death Knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/death-knight.md)  
-- [Death Slaad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/death-slaad.md)  
-- [Death Tyrant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/death-tyrant.md)  
-- [Deep Gnome (Svirfneblin)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/deep-gnome-svirfneblin.md)  
-- [Demilich](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/demilich.md)  
-- [Deva](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/deva.md)  
-- [Displacer Beast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/displacer-beast.md)  
-- [Djinni](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/djinni.md)  
-- [Doppelganger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/doppelganger.md)  
-- [Dragon Turtle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/dragon-turtle.md)  
-- [Dretch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/dretch.md)  
-- [Drider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/drider.md)  
-- [Drow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/drow.md)  
-- [Drow Elite Warrior](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/drow-elite-warrior.md)  
-- [Drow Mage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/drow-mage.md)  
-- [Drow Priestess of Lolth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/drow-priestess-of-lolth.md)  
-- [Dryad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/dryad.md)  
-- [Duergar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/duergar.md)  
-- [Duodrone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/duodrone.md)  
-- [Dust Mephit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/dust-mephit.md)  
-- [Earth Elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/earth-elemental.md)  
-- [Efreeti](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/efreeti.md)  
-- [Empyrean](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/empyrean.md)  
-- [Erinyes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/erinyes.md)  
-- [Ettercap](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/ettercap.md)  
-- [Ettin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/ettin.md)  
-- [Faerie Dragon (Blue)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/faerie-dragon-blue.md)  
-- [Faerie Dragon (Green)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/faerie-dragon-green.md)  
-- [Faerie Dragon (Indigo)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/faerie-dragon-indigo.md)  
-- [Faerie Dragon (Orange)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/faerie-dragon-orange.md)  
-- [Faerie Dragon (Red)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/faerie-dragon-red.md)  
-- [Faerie Dragon (Violet)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/faerie-dragon-violet.md)  
-- [Faerie Dragon (Yellow)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/faerie-dragon-yellow.md)  
-- [Fire Elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/fire-elemental.md)  
-- [Fire Giant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/fire-giant.md)  
-- [Fire Snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/fire-snake.md)  
-- [Flameskull](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/flameskull.md)  
-- [Flesh Golem](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/flesh-golem.md)  
-- [Flumph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/flumph.md)  
-- [Flying Sword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/flying-sword.md)  
-- [Fomorian](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/fomorian.md)  
-- [Frost Giant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/frost-giant.md)  
-- [Galeb Duhr](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/galeb-duhr.md)  
-- [Gargoyle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/gargoyle.md)  
-- [Gas Spore](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/gas-spore.md)  
-- [Gelatinous Cube](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/gelatinous-cube.md)  
-- [Ghast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghast.md)  
-- [Ghost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghost.md)  
-- [Ghoul](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghoul.md)  
-- [Gibbering Mouther](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/gibbering-mouther.md)  
-- [Githyanki Knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/githyanki-knight.md)  
-- [Githyanki Warrior](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/githyanki-warrior.md)  
-- [Githzerai Monk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/githzerai-monk.md)  
-- [Githzerai Zerth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/githzerai-zerth.md)  
-- [Glabrezu](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/glabrezu.md)  
-- [Gnoll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/gnoll.md)  
-- [Gnoll Fang of Yeenoghu](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/gnoll-fang-of-yeenoghu.md)  
-- [Gnoll Pack Lord](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/gnoll-pack-lord.md)  
-- [Goblin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/goblin.md)  
-- [Goblin Boss](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/goblin-boss.md)  
-- [Gold Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/gold-dragon-wyrmling.md)  
-- [Gorgon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/gorgon.md)  
-- [Goristro](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/goristro.md)  
-- [Gray Ooze](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/gray-ooze.md)  
-- [Gray Slaad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/gray-slaad.md)  
-- [Green Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/green-dragon-wyrmling.md)  
-- [Green Hag](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/green-hag.md)  
-- [Green Slaad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/green-slaad.md)  
-- [Grell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/grell.md)  
-- [Grick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/grick.md)  
-- [Grick Alpha](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/grick-alpha.md)  
-- [Griffon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/griffon.md)  
-- [Grimlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/grimlock.md)  
-- [Guardian Naga](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/guardian-naga.md)  
-- [Gynosphinx](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/gynosphinx.md)  
-- [Half-Ogre (Ogrillon)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/half-ogre-ogrillon.md)  
-- [Half-Red Dragon Veteran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/half-red-dragon-veteran.md)  
-- [Harpy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/harpy.md)  
-- [Hell Hound](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/hell-hound.md)  
-- [Helmed Horror](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/helmed-horror.md)  
-- [Hezrou](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/hezrou.md)  
-- [Hill Giant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/hill-giant.md)  
-- [Hippogriff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/hippogriff.md)  
-- [Hobgoblin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/hobgoblin.md)  
-- [Hobgoblin Captain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/hobgoblin-captain.md)  
-- [Hobgoblin Warlord](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/hobgoblin-warlord.md)  
-- [Homunculus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/homunculus.md)  
-- [Hook Horror](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/hook-horror.md)  
-- [Horned Devil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/horned-devil.md)  
-- [Hydra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/hydra.md)  
-- [Ice Devil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/ice-devil.md)  
-- [Ice Mephit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/ice-mephit.md)  
-- [Imp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/imp.md)  
-- [Incubus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/incubus.md)  
-- [Intellect Devourer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/intellect-devourer.md)  
-- [Invisible Stalker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/invisible-stalker.md)  
-- [Iron Golem](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/iron-golem.md)  
-- [Jackalwere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/jackalwere.md)  
-- [Kenku](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/kenku.md)  
-- [Kobold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/kobold.md)  
-- [Kraken](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/kraken.md)  
-- [Kuo-toa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/kuo-toa.md)  
-- [Kuo-toa Archpriest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/kuo-toa-archpriest.md)  
-- [Kuo-toa Monitor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/kuo-toa-monitor.md)  
-- [Kuo-toa Whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/kuo-toa-whip.md)  
-- [Lamia](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/lamia.md)  
-- [Lemure](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/lemure.md)  
-- [Lich](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/lich.md)  
-- [Lizard King](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/lizard-king.md)  
-- [Lizard Queen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/lizard-queen.md)  
-- [Lizardfolk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/lizardfolk.md)  
-- [Lizardfolk Shaman](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/lizardfolk-shaman.md)  
-- [Magma Mephit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/magma-mephit.md)  
-- [Magmin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/magmin.md)  
-- [Manes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/manes.md)  
-- [Manticore](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/manticore.md)  
-- [Marid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/marid.md)  
-- [Marilith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/marilith.md)  
-- [Medusa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/medusa.md)  
-- [Merfolk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/merfolk.md)  
-- [Merrow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/merrow.md)  
-- [Mezzoloth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/mezzoloth.md)  
-- [Mimic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/mimic.md)  
-- [Mind Flayer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/mind-flayer.md)  
-- [Mind Flayer Arcanist](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/mind-flayer-arcanist.md)  
-- [Minotaur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/minotaur.md)  
-- [Minotaur Skeleton](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/minotaur-skeleton.md)  
-- [Monodrone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/monodrone.md)  
-- [Mud Mephit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/mud-mephit.md)  
-- [Mummy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/mummy.md)  
-- [Mummy Lord](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/mummy-lord.md)  
-- [Myconid Adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/myconid-adult.md)  
-- [Myconid Sovereign](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/myconid-sovereign.md)  
-- [Myconid Sprout](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/myconid-sprout.md)  
-- [Nalfeshnee](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nalfeshnee.md)  
-- [Needle Blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/needle-blight.md)  
-- [Night Hag](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/night-hag.md)  
-- [Nightmare](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nightmare.md)  
-- [Nothic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/nothic.md)  
-- [Nycaloth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nycaloth.md)  
-- [Ochre Jelly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/ochre-jelly.md)  
-- [Ogre](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/ogre.md)  
-- [Ogre Zombie](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ogre-zombie.md)  
-- [Oni](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/oni.md)  
-- [Orc](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/orc.md)  
-- [Orc Eye of Gruumsh](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/orc-eye-of-gruumsh.md)  
-- [Orc War Chief](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/orc-war-chief.md)  
-- [Orog](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/orog.md)  
-- [Otyugh](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/otyugh.md)  
-- [Owlbear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/owlbear.md)  
-- [Pegasus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/pegasus.md)  
-- [Pentadrone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/pentadrone.md)  
-- [Peryton](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/peryton.md)  
-- [Piercer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/piercer.md)  
-- [Pit Fiend](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/pit-fiend.md)  
-- [Pixie](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/pixie.md)  
-- [Planetar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/planetar.md)  
-- [Plesiosaurus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/plesiosaurus.md)  
-- [Poltergeist](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/poltergeist.md)  
-- [Pseudodragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/pseudodragon.md)  
-- [Pteranodon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/pteranodon.md)  
-- [Purple Worm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/purple-worm.md)  
-- [Quadrone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/quadrone.md)  
-- [Quaggoth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/quaggoth.md)  
-- [Quaggoth Spore Servant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/quaggoth-spore-servant.md)  
-- [Quaggoth Thonot](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/quaggoth-thonot.md)  
-- [Quasit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/quasit.md)  
-- [Rakshasa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/rakshasa.md)  
-- [Red Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/red-dragon-wyrmling.md)  
-- [Red Slaad](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/red-slaad.md)  
-- [Remorhaz](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/remorhaz.md)  
-- [Revenant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/revenant.md)  
-- [Roc](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/roc.md)  
-- [Roper](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/roper.md)  
-- [Rug of Smothering](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/rug-of-smothering.md)  
-- [Rust Monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/rust-monster.md)  
-- [Sahuagin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/sahuagin.md)  
-- [Sahuagin Baron](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/sahuagin-baron.md)  
-- [Sahuagin Priestess](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/sahuagin-priestess.md)  
-- [Salamander](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/salamander.md)  
-- [Satyr](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/satyr.md)  
-- [Scarecrow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/scarecrow.md)  
-- [Sea Hag](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/sea-hag.md)  
-- [Shadow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/shadow.md)  
-- [Shadow Demon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/shadow-demon.md)  
-- [Shambling Mound](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/shambling-mound.md)  
-- [Shield Guardian](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/shield-guardian.md)  
-- [Shrieker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/shrieker.md)  
-- [Silver Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/silver-dragon-wyrmling.md)  
-- [Skeleton](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/skeleton.md)  
-- [Slaad Tadpole](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/slaad-tadpole.md)  
-- [Smoke Mephit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/smoke-mephit.md)  
-- [Solar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/solar.md)  
-- [Spectator](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/spectator.md)  
-- [Specter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/specter.md)  
-- [Spined Devil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/spined-devil.md)  
-- [Spirit Naga](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/spirit-naga.md)  
-- [Sprite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/sprite.md)  
-- [Steam Mephit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/steam-mephit.md)  
-- [Stirge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/stirge.md)  
-- [Stone Giant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/stone-giant.md)  
-- [Stone Golem](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/stone-golem.md)  
-- [Storm Giant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/storm-giant.md)  
-- [Succubus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/succubus.md)  
-- [Swarm of Beetles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/swarm-of-beetles.md)  
-- [Swarm of Centipedes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/swarm-of-centipedes.md)  
-- [Swarm of Spiders](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/swarm-of-spiders.md)  
-- [Swarm of Wasps](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/swarm-of-wasps.md)  
-- [Tarrasque](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/tarrasque.md)  
-- [Thri-kreen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/thri-kreen.md)  
-- [Treant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/treant.md)  
-- [Triceratops](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/triceratops.md)  
-- [Tridrone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/tridrone.md)  
-- [Troglodyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/troglodyte.md)  
-- [Troll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/troll.md)  
-- [Twig Blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/twig-blight.md)  
-- [Tyrannosaurus Rex](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/tyrannosaurus-rex.md)  
-- [Ultroloth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/ultroloth.md)  
-- [Umber Hulk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/umber-hulk.md)  
-- [Unicorn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/unicorn.md)  
-- [Vampire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire.md)  
-- [Vampire Spawn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire-spawn.md)  
-- [Vampire Spellcaster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire-spellcaster.md)  
-- [Vampire Warrior](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/vampire-warrior.md)  
-- [Vine Blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/vine-blight.md)  
-- [Violet Fungus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/violet-fungus.md)  
-- [Vrock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/vrock.md)  
-- [Warhorse Skeleton](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/warhorse-skeleton.md)  
-- [Water Elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/water-elemental.md)  
-- [Water Weird](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/water-weird.md)  
-- [Werebear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/werebear.md)  
-- [Wereboar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/wereboar.md)  
-- [Wererat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/wererat.md)  
-- [Weretiger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/weretiger.md)  
-- [Werewolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/werewolf.md)  
-- [White Dragon Wyrmling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/white-dragon-wyrmling.md)  
-- [Wight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/wight.md)  
-- [Will-o'-Wisp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/will-o-wisp.md)  
-- [Winged Kobold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/winged-kobold.md)  
-- [Wraith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/wraith.md)  
-- [Wyvern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/wyvern.md)  
-- [Xorn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/xorn.md)  
-- [Yeti](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/yeti.md)  
-- [Yochlol](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/yochlol.md)  
-- [Young Black Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-black-dragon.md)  
-- [Young Blue Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-blue-dragon.md)  
-- [Young Brass Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-brass-dragon.md)  
-- [Young Bronze Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-bronze-dragon.md)  
-- [Young Copper Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-copper-dragon.md)  
-- [Young Gold Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-gold-dragon.md)  
-- [Young Green Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-green-dragon.md)  
-- [Young Red Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-red-dragon.md)  
-- [Young Red Shadow Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-red-shadow-dragon.md)  
-- [Young Remorhaz](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/young-remorhaz.md)  
-- [Young Silver Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-silver-dragon.md)  
-- [Young White Dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/young-white-dragon.md)  
-- [Yuan-ti Abomination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/yuan-ti-abomination.md)  
-- [Yuan-ti Malison (Type 1)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/yuan-ti-malison-type-1.md)  
-- [Yuan-ti Malison (Type 2)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/yuan-ti-malison-type-2.md)  
-- [Yuan-ti Malison (Type 3)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/yuan-ti-malison-type-3.md)  
-- [Yuan-ti Pureblood](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/yuan-ti-pureblood.md)  
-- [Zombie](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/zombie.md)  
+- [Aarakocra](Compendium/bestiary/humanoid/aarakocra.md)  
+- [Aboleth](Compendium/bestiary/aberration/aboleth.md)  
+- [Abominable Yeti](Compendium/bestiary/monstrosity/abominable-yeti.md)  
+- [Adult Black Dragon](Compendium/bestiary/dragon/adult-black-dragon.md)  
+- [Adult Blue Dracolich](Compendium/bestiary/undead/adult-blue-dracolich.md)  
+- [Adult Blue Dragon](Compendium/bestiary/dragon/adult-blue-dragon.md)  
+- [Adult Brass Dragon](Compendium/bestiary/dragon/adult-brass-dragon.md)  
+- [Adult Bronze Dragon](Compendium/bestiary/dragon/adult-bronze-dragon.md)  
+- [Adult Copper Dragon](Compendium/bestiary/dragon/adult-copper-dragon.md)  
+- [Adult Gold Dragon](Compendium/bestiary/dragon/adult-gold-dragon.md)  
+- [Adult Green Dragon](Compendium/bestiary/dragon/adult-green-dragon.md)  
+- [Adult Red Dragon](Compendium/bestiary/dragon/adult-red-dragon.md)  
+- [Adult Silver Dragon](Compendium/bestiary/dragon/adult-silver-dragon.md)  
+- [Adult White Dragon](Compendium/bestiary/dragon/adult-white-dragon.md)  
+- [Air Elemental](Compendium/bestiary/elemental/air-elemental.md)  
+- [Allosaurus](Compendium/bestiary/beast/allosaurus.md)  
+- [Ancient Black Dragon](Compendium/bestiary/dragon/ancient-black-dragon.md)  
+- [Ancient Blue Dragon](Compendium/bestiary/dragon/ancient-blue-dragon.md)  
+- [Ancient Brass Dragon](Compendium/bestiary/dragon/ancient-brass-dragon.md)  
+- [Ancient Bronze Dragon](Compendium/bestiary/dragon/ancient-bronze-dragon.md)  
+- [Ancient Copper Dragon](Compendium/bestiary/dragon/ancient-copper-dragon.md)  
+- [Ancient Gold Dragon](Compendium/bestiary/dragon/ancient-gold-dragon.md)  
+- [Ancient Green Dragon](Compendium/bestiary/dragon/ancient-green-dragon.md)  
+- [Ancient Red Dragon](Compendium/bestiary/dragon/ancient-red-dragon.md)  
+- [Ancient Silver Dragon](Compendium/bestiary/dragon/ancient-silver-dragon.md)  
+- [Ancient White Dragon](Compendium/bestiary/dragon/ancient-white-dragon.md)  
+- [Androsphinx](Compendium/bestiary/monstrosity/androsphinx.md)  
+- [Animated Armor](Compendium/bestiary/construct/animated-armor.md)  
+- [Ankheg](Compendium/bestiary/monstrosity/ankheg.md)  
+- [Ankylosaurus](Compendium/bestiary/beast/ankylosaurus.md)  
+- [Arcanaloth](Compendium/bestiary/fiend/arcanaloth.md)  
+- [Azer](Compendium/bestiary/elemental/azer.md)  
+- [Balor](Compendium/bestiary/fiend/balor.md)  
+- [Banshee](Compendium/bestiary/undead/banshee.md)  
+- [Barbed Devil](Compendium/bestiary/fiend/barbed-devil.md)  
+- [Barlgura](Compendium/bestiary/fiend/barlgura.md)  
+- [Basilisk](Compendium/bestiary/monstrosity/basilisk.md)  
+- [Bearded Devil](Compendium/bestiary/fiend/bearded-devil.md)  
+- [Behir](Compendium/bestiary/monstrosity/behir.md)  
+- [Beholder](Compendium/bestiary/aberration/beholder.md)  
+- [Beholder Zombie](Compendium/bestiary/undead/beholder-zombie.md)  
+- [Black Dragon Wyrmling](Compendium/bestiary/dragon/black-dragon-wyrmling.md)  
+- [Black Pudding](Compendium/bestiary/ooze/black-pudding.md)  
+- [Blue Dragon Wyrmling](Compendium/bestiary/dragon/blue-dragon-wyrmling.md)  
+- [Blue Slaad](Compendium/bestiary/aberration/blue-slaad.md)  
+- [Bone Devil](Compendium/bestiary/fiend/bone-devil.md)  
+- [Bone Naga (Guardian)](Compendium/bestiary/undead/bone-naga-guardian.md)  
+- [Bone Naga (Spirit)](Compendium/bestiary/undead/bone-naga-spirit.md)  
+- [Brass Dragon Wyrmling](Compendium/bestiary/dragon/brass-dragon-wyrmling.md)  
+- [Bronze Dragon Wyrmling](Compendium/bestiary/dragon/bronze-dragon-wyrmling.md)  
+- [Bugbear](Compendium/bestiary/humanoid/bugbear.md)  
+- [Bugbear Chief](Compendium/bestiary/humanoid/bugbear-chief.md)  
+- [Bulette](Compendium/bestiary/monstrosity/bulette.md)  
+- [Bullywug](Compendium/bestiary/humanoid/bullywug.md)  
+- [Cambion](Compendium/bestiary/fiend/cambion.md)  
+- [Carrion Crawler](Compendium/bestiary/monstrosity/carrion-crawler.md)  
+- [Cave Bear](Compendium/bestiary/beast/cave-bear.md)  
+- [Centaur](Compendium/bestiary/monstrosity/centaur.md)  
+- [Chain Devil](Compendium/bestiary/fiend/chain-devil.md)  
+- [Chasme](Compendium/bestiary/fiend/chasme.md)  
+- [Chimera](Compendium/bestiary/monstrosity/chimera.md)  
+- [Chuul](Compendium/bestiary/aberration/chuul.md)  
+- [Clay Golem](Compendium/bestiary/construct/clay-golem.md)  
+- [Cloaker](Compendium/bestiary/aberration/cloaker.md)  
+- [Cloud Giant](Compendium/bestiary/giant/cloud-giant.md)  
+- [Cockatrice](Compendium/bestiary/monstrosity/cockatrice.md)  
+- [Copper Dragon Wyrmling](Compendium/bestiary/dragon/copper-dragon-wyrmling.md)  
+- [Couatl](Compendium/bestiary/celestial/couatl.md)  
+- [Crawling Claw](Compendium/bestiary/undead/crawling-claw.md)  
+- [Cyclops](Compendium/bestiary/giant/cyclops.md)  
+- [Dao](Compendium/bestiary/elemental/dao.md)  
+- [Darkmantle](Compendium/bestiary/monstrosity/darkmantle.md)  
+- [Death Knight](Compendium/bestiary/undead/death-knight.md)  
+- [Death Slaad](Compendium/bestiary/aberration/death-slaad.md)  
+- [Death Tyrant](Compendium/bestiary/undead/death-tyrant.md)  
+- [Deep Gnome (Svirfneblin)](Compendium/bestiary/humanoid/deep-gnome-svirfneblin.md)  
+- [Demilich](Compendium/bestiary/undead/demilich.md)  
+- [Deva](Compendium/bestiary/celestial/deva.md)  
+- [Displacer Beast](Compendium/bestiary/monstrosity/displacer-beast.md)  
+- [Djinni](Compendium/bestiary/elemental/djinni.md)  
+- [Doppelganger](Compendium/bestiary/monstrosity/doppelganger.md)  
+- [Dragon Turtle](Compendium/bestiary/dragon/dragon-turtle.md)  
+- [Dretch](Compendium/bestiary/fiend/dretch.md)  
+- [Drider](Compendium/bestiary/monstrosity/drider.md)  
+- [Drow](Compendium/bestiary/humanoid/drow.md)  
+- [Drow Elite Warrior](Compendium/bestiary/humanoid/drow-elite-warrior.md)  
+- [Drow Mage](Compendium/bestiary/humanoid/drow-mage.md)  
+- [Drow Priestess of Lolth](Compendium/bestiary/humanoid/drow-priestess-of-lolth.md)  
+- [Dryad](Compendium/bestiary/fey/dryad.md)  
+- [Duergar](Compendium/bestiary/humanoid/duergar.md)  
+- [Duodrone](Compendium/bestiary/construct/duodrone.md)  
+- [Dust Mephit](Compendium/bestiary/elemental/dust-mephit.md)  
+- [Earth Elemental](Compendium/bestiary/elemental/earth-elemental.md)  
+- [Efreeti](Compendium/bestiary/elemental/efreeti.md)  
+- [Empyrean](Compendium/bestiary/celestial/empyrean.md)  
+- [Erinyes](Compendium/bestiary/fiend/erinyes.md)  
+- [Ettercap](Compendium/bestiary/monstrosity/ettercap.md)  
+- [Ettin](Compendium/bestiary/giant/ettin.md)  
+- [Faerie Dragon (Blue)](Compendium/bestiary/dragon/faerie-dragon-blue.md)  
+- [Faerie Dragon (Green)](Compendium/bestiary/dragon/faerie-dragon-green.md)  
+- [Faerie Dragon (Indigo)](Compendium/bestiary/dragon/faerie-dragon-indigo.md)  
+- [Faerie Dragon (Orange)](Compendium/bestiary/dragon/faerie-dragon-orange.md)  
+- [Faerie Dragon (Red)](Compendium/bestiary/dragon/faerie-dragon-red.md)  
+- [Faerie Dragon (Violet)](Compendium/bestiary/dragon/faerie-dragon-violet.md)  
+- [Faerie Dragon (Yellow)](Compendium/bestiary/dragon/faerie-dragon-yellow.md)  
+- [Fire Elemental](Compendium/bestiary/elemental/fire-elemental.md)  
+- [Fire Giant](Compendium/bestiary/giant/fire-giant.md)  
+- [Fire Snake](Compendium/bestiary/elemental/fire-snake.md)  
+- [Flameskull](Compendium/bestiary/undead/flameskull.md)  
+- [Flesh Golem](Compendium/bestiary/construct/flesh-golem.md)  
+- [Flumph](Compendium/bestiary/aberration/flumph.md)  
+- [Flying Sword](Compendium/bestiary/construct/flying-sword.md)  
+- [Fomorian](Compendium/bestiary/giant/fomorian.md)  
+- [Frost Giant](Compendium/bestiary/giant/frost-giant.md)  
+- [Galeb Duhr](Compendium/bestiary/elemental/galeb-duhr.md)  
+- [Gargoyle](Compendium/bestiary/elemental/gargoyle.md)  
+- [Gas Spore](Compendium/bestiary/plant/gas-spore.md)  
+- [Gelatinous Cube](Compendium/bestiary/ooze/gelatinous-cube.md)  
+- [Ghast](Compendium/bestiary/undead/ghast.md)  
+- [Ghost](Compendium/bestiary/undead/ghost.md)  
+- [Ghoul](Compendium/bestiary/undead/ghoul.md)  
+- [Gibbering Mouther](Compendium/bestiary/aberration/gibbering-mouther.md)  
+- [Githyanki Knight](Compendium/bestiary/humanoid/githyanki-knight.md)  
+- [Githyanki Warrior](Compendium/bestiary/humanoid/githyanki-warrior.md)  
+- [Githzerai Monk](Compendium/bestiary/humanoid/githzerai-monk.md)  
+- [Githzerai Zerth](Compendium/bestiary/humanoid/githzerai-zerth.md)  
+- [Glabrezu](Compendium/bestiary/fiend/glabrezu.md)  
+- [Gnoll](Compendium/bestiary/humanoid/gnoll.md)  
+- [Gnoll Fang of Yeenoghu](Compendium/bestiary/fiend/gnoll-fang-of-yeenoghu.md)  
+- [Gnoll Pack Lord](Compendium/bestiary/humanoid/gnoll-pack-lord.md)  
+- [Goblin](Compendium/bestiary/humanoid/goblin.md)  
+- [Goblin Boss](Compendium/bestiary/humanoid/goblin-boss.md)  
+- [Gold Dragon Wyrmling](Compendium/bestiary/dragon/gold-dragon-wyrmling.md)  
+- [Gorgon](Compendium/bestiary/monstrosity/gorgon.md)  
+- [Goristro](Compendium/bestiary/fiend/goristro.md)  
+- [Gray Ooze](Compendium/bestiary/ooze/gray-ooze.md)  
+- [Gray Slaad](Compendium/bestiary/aberration/gray-slaad.md)  
+- [Green Dragon Wyrmling](Compendium/bestiary/dragon/green-dragon-wyrmling.md)  
+- [Green Hag](Compendium/bestiary/fey/green-hag.md)  
+- [Green Slaad](Compendium/bestiary/aberration/green-slaad.md)  
+- [Grell](Compendium/bestiary/aberration/grell.md)  
+- [Grick](Compendium/bestiary/monstrosity/grick.md)  
+- [Grick Alpha](Compendium/bestiary/monstrosity/grick-alpha.md)  
+- [Griffon](Compendium/bestiary/monstrosity/griffon.md)  
+- [Grimlock](Compendium/bestiary/humanoid/grimlock.md)  
+- [Guardian Naga](Compendium/bestiary/monstrosity/guardian-naga.md)  
+- [Gynosphinx](Compendium/bestiary/monstrosity/gynosphinx.md)  
+- [Half-Ogre (Ogrillon)](Compendium/bestiary/giant/half-ogre-ogrillon.md)  
+- [Half-Red Dragon Veteran](Compendium/bestiary/humanoid/half-red-dragon-veteran.md)  
+- [Harpy](Compendium/bestiary/monstrosity/harpy.md)  
+- [Hell Hound](Compendium/bestiary/fiend/hell-hound.md)  
+- [Helmed Horror](Compendium/bestiary/construct/helmed-horror.md)  
+- [Hezrou](Compendium/bestiary/fiend/hezrou.md)  
+- [Hill Giant](Compendium/bestiary/giant/hill-giant.md)  
+- [Hippogriff](Compendium/bestiary/monstrosity/hippogriff.md)  
+- [Hobgoblin](Compendium/bestiary/humanoid/hobgoblin.md)  
+- [Hobgoblin Captain](Compendium/bestiary/humanoid/hobgoblin-captain.md)  
+- [Hobgoblin Warlord](Compendium/bestiary/humanoid/hobgoblin-warlord.md)  
+- [Homunculus](Compendium/bestiary/construct/homunculus.md)  
+- [Hook Horror](Compendium/bestiary/monstrosity/hook-horror.md)  
+- [Horned Devil](Compendium/bestiary/fiend/horned-devil.md)  
+- [Hydra](Compendium/bestiary/monstrosity/hydra.md)  
+- [Ice Devil](Compendium/bestiary/fiend/ice-devil.md)  
+- [Ice Mephit](Compendium/bestiary/elemental/ice-mephit.md)  
+- [Imp](Compendium/bestiary/fiend/imp.md)  
+- [Incubus](Compendium/bestiary/fiend/incubus.md)  
+- [Intellect Devourer](Compendium/bestiary/aberration/intellect-devourer.md)  
+- [Invisible Stalker](Compendium/bestiary/elemental/invisible-stalker.md)  
+- [Iron Golem](Compendium/bestiary/construct/iron-golem.md)  
+- [Jackalwere](Compendium/bestiary/humanoid/jackalwere.md)  
+- [Kenku](Compendium/bestiary/humanoid/kenku.md)  
+- [Kobold](Compendium/bestiary/humanoid/kobold.md)  
+- [Kraken](Compendium/bestiary/monstrosity/kraken.md)  
+- [Kuo-toa](Compendium/bestiary/humanoid/kuo-toa.md)  
+- [Kuo-toa Archpriest](Compendium/bestiary/humanoid/kuo-toa-archpriest.md)  
+- [Kuo-toa Monitor](Compendium/bestiary/humanoid/kuo-toa-monitor.md)  
+- [Kuo-toa Whip](Compendium/bestiary/humanoid/kuo-toa-whip.md)  
+- [Lamia](Compendium/bestiary/monstrosity/lamia.md)  
+- [Lemure](Compendium/bestiary/fiend/lemure.md)  
+- [Lich](Compendium/bestiary/undead/lich.md)  
+- [Lizard King](Compendium/bestiary/humanoid/lizard-king.md)  
+- [Lizard Queen](Compendium/bestiary/humanoid/lizard-queen.md)  
+- [Lizardfolk](Compendium/bestiary/humanoid/lizardfolk.md)  
+- [Lizardfolk Shaman](Compendium/bestiary/humanoid/lizardfolk-shaman.md)  
+- [Magma Mephit](Compendium/bestiary/elemental/magma-mephit.md)  
+- [Magmin](Compendium/bestiary/elemental/magmin.md)  
+- [Manes](Compendium/bestiary/fiend/manes.md)  
+- [Manticore](Compendium/bestiary/monstrosity/manticore.md)  
+- [Marid](Compendium/bestiary/elemental/marid.md)  
+- [Marilith](Compendium/bestiary/fiend/marilith.md)  
+- [Medusa](Compendium/bestiary/monstrosity/medusa.md)  
+- [Merfolk](Compendium/bestiary/humanoid/merfolk.md)  
+- [Merrow](Compendium/bestiary/monstrosity/merrow.md)  
+- [Mezzoloth](Compendium/bestiary/fiend/mezzoloth.md)  
+- [Mimic](Compendium/bestiary/monstrosity/mimic.md)  
+- [Mind Flayer](Compendium/bestiary/aberration/mind-flayer.md)  
+- [Mind Flayer Arcanist](Compendium/bestiary/aberration/mind-flayer-arcanist.md)  
+- [Minotaur](Compendium/bestiary/monstrosity/minotaur.md)  
+- [Minotaur Skeleton](Compendium/bestiary/undead/minotaur-skeleton.md)  
+- [Monodrone](Compendium/bestiary/construct/monodrone.md)  
+- [Mud Mephit](Compendium/bestiary/elemental/mud-mephit.md)  
+- [Mummy](Compendium/bestiary/undead/mummy.md)  
+- [Mummy Lord](Compendium/bestiary/undead/mummy-lord.md)  
+- [Myconid Adult](Compendium/bestiary/plant/myconid-adult.md)  
+- [Myconid Sovereign](Compendium/bestiary/plant/myconid-sovereign.md)  
+- [Myconid Sprout](Compendium/bestiary/plant/myconid-sprout.md)  
+- [Nalfeshnee](Compendium/bestiary/fiend/nalfeshnee.md)  
+- [Needle Blight](Compendium/bestiary/plant/needle-blight.md)  
+- [Night Hag](Compendium/bestiary/fiend/night-hag.md)  
+- [Nightmare](Compendium/bestiary/fiend/nightmare.md)  
+- [Nothic](Compendium/bestiary/aberration/nothic.md)  
+- [Nycaloth](Compendium/bestiary/fiend/nycaloth.md)  
+- [Ochre Jelly](Compendium/bestiary/ooze/ochre-jelly.md)  
+- [Ogre](Compendium/bestiary/giant/ogre.md)  
+- [Ogre Zombie](Compendium/bestiary/undead/ogre-zombie.md)  
+- [Oni](Compendium/bestiary/giant/oni.md)  
+- [Orc](Compendium/bestiary/humanoid/orc.md)  
+- [Orc Eye of Gruumsh](Compendium/bestiary/humanoid/orc-eye-of-gruumsh.md)  
+- [Orc War Chief](Compendium/bestiary/humanoid/orc-war-chief.md)  
+- [Orog](Compendium/bestiary/humanoid/orog.md)  
+- [Otyugh](Compendium/bestiary/aberration/otyugh.md)  
+- [Owlbear](Compendium/bestiary/monstrosity/owlbear.md)  
+- [Pegasus](Compendium/bestiary/celestial/pegasus.md)  
+- [Pentadrone](Compendium/bestiary/construct/pentadrone.md)  
+- [Peryton](Compendium/bestiary/monstrosity/peryton.md)  
+- [Piercer](Compendium/bestiary/monstrosity/piercer.md)  
+- [Pit Fiend](Compendium/bestiary/fiend/pit-fiend.md)  
+- [Pixie](Compendium/bestiary/fey/pixie.md)  
+- [Planetar](Compendium/bestiary/celestial/planetar.md)  
+- [Plesiosaurus](Compendium/bestiary/beast/plesiosaurus.md)  
+- [Poltergeist](Compendium/bestiary/undead/poltergeist.md)  
+- [Pseudodragon](Compendium/bestiary/dragon/pseudodragon.md)  
+- [Pteranodon](Compendium/bestiary/beast/pteranodon.md)  
+- [Purple Worm](Compendium/bestiary/monstrosity/purple-worm.md)  
+- [Quadrone](Compendium/bestiary/construct/quadrone.md)  
+- [Quaggoth](Compendium/bestiary/humanoid/quaggoth.md)  
+- [Quaggoth Spore Servant](Compendium/bestiary/plant/quaggoth-spore-servant.md)  
+- [Quaggoth Thonot](Compendium/bestiary/humanoid/quaggoth-thonot.md)  
+- [Quasit](Compendium/bestiary/fiend/quasit.md)  
+- [Rakshasa](Compendium/bestiary/fiend/rakshasa.md)  
+- [Red Dragon Wyrmling](Compendium/bestiary/dragon/red-dragon-wyrmling.md)  
+- [Red Slaad](Compendium/bestiary/aberration/red-slaad.md)  
+- [Remorhaz](Compendium/bestiary/monstrosity/remorhaz.md)  
+- [Revenant](Compendium/bestiary/undead/revenant.md)  
+- [Roc](Compendium/bestiary/monstrosity/roc.md)  
+- [Roper](Compendium/bestiary/monstrosity/roper.md)  
+- [Rug of Smothering](Compendium/bestiary/construct/rug-of-smothering.md)  
+- [Rust Monster](Compendium/bestiary/monstrosity/rust-monster.md)  
+- [Sahuagin](Compendium/bestiary/humanoid/sahuagin.md)  
+- [Sahuagin Baron](Compendium/bestiary/humanoid/sahuagin-baron.md)  
+- [Sahuagin Priestess](Compendium/bestiary/humanoid/sahuagin-priestess.md)  
+- [Salamander](Compendium/bestiary/elemental/salamander.md)  
+- [Satyr](Compendium/bestiary/fey/satyr.md)  
+- [Scarecrow](Compendium/bestiary/construct/scarecrow.md)  
+- [Sea Hag](Compendium/bestiary/fey/sea-hag.md)  
+- [Shadow](Compendium/bestiary/undead/shadow.md)  
+- [Shadow Demon](Compendium/bestiary/fiend/shadow-demon.md)  
+- [Shambling Mound](Compendium/bestiary/plant/shambling-mound.md)  
+- [Shield Guardian](Compendium/bestiary/construct/shield-guardian.md)  
+- [Shrieker](Compendium/bestiary/plant/shrieker.md)  
+- [Silver Dragon Wyrmling](Compendium/bestiary/dragon/silver-dragon-wyrmling.md)  
+- [Skeleton](Compendium/bestiary/undead/skeleton.md)  
+- [Slaad Tadpole](Compendium/bestiary/aberration/slaad-tadpole.md)  
+- [Smoke Mephit](Compendium/bestiary/elemental/smoke-mephit.md)  
+- [Solar](Compendium/bestiary/celestial/solar.md)  
+- [Spectator](Compendium/bestiary/aberration/spectator.md)  
+- [Specter](Compendium/bestiary/undead/specter.md)  
+- [Spined Devil](Compendium/bestiary/fiend/spined-devil.md)  
+- [Spirit Naga](Compendium/bestiary/monstrosity/spirit-naga.md)  
+- [Sprite](Compendium/bestiary/fey/sprite.md)  
+- [Steam Mephit](Compendium/bestiary/elemental/steam-mephit.md)  
+- [Stirge](Compendium/bestiary/beast/stirge.md)  
+- [Stone Giant](Compendium/bestiary/giant/stone-giant.md)  
+- [Stone Golem](Compendium/bestiary/construct/stone-golem.md)  
+- [Storm Giant](Compendium/bestiary/giant/storm-giant.md)  
+- [Succubus](Compendium/bestiary/fiend/succubus.md)  
+- [Swarm of Beetles](Compendium/bestiary/beast/swarm-of-beetles.md)  
+- [Swarm of Centipedes](Compendium/bestiary/beast/swarm-of-centipedes.md)  
+- [Swarm of Spiders](Compendium/bestiary/beast/swarm-of-spiders.md)  
+- [Swarm of Wasps](Compendium/bestiary/beast/swarm-of-wasps.md)  
+- [Tarrasque](Compendium/bestiary/monstrosity/tarrasque.md)  
+- [Thri-kreen](Compendium/bestiary/humanoid/thri-kreen.md)  
+- [Treant](Compendium/bestiary/plant/treant.md)  
+- [Triceratops](Compendium/bestiary/beast/triceratops.md)  
+- [Tridrone](Compendium/bestiary/construct/tridrone.md)  
+- [Troglodyte](Compendium/bestiary/humanoid/troglodyte.md)  
+- [Troll](Compendium/bestiary/giant/troll.md)  
+- [Twig Blight](Compendium/bestiary/plant/twig-blight.md)  
+- [Tyrannosaurus Rex](Compendium/bestiary/beast/tyrannosaurus-rex.md)  
+- [Ultroloth](Compendium/bestiary/fiend/ultroloth.md)  
+- [Umber Hulk](Compendium/bestiary/monstrosity/umber-hulk.md)  
+- [Unicorn](Compendium/bestiary/celestial/unicorn.md)  
+- [Vampire](Compendium/bestiary/undead/vampire.md)  
+- [Vampire Spawn](Compendium/bestiary/undead/vampire-spawn.md)  
+- [Vampire Spellcaster](Compendium/bestiary/undead/vampire-spellcaster.md)  
+- [Vampire Warrior](Compendium/bestiary/undead/vampire-warrior.md)  
+- [Vine Blight](Compendium/bestiary/plant/vine-blight.md)  
+- [Violet Fungus](Compendium/bestiary/plant/violet-fungus.md)  
+- [Vrock](Compendium/bestiary/fiend/vrock.md)  
+- [Warhorse Skeleton](Compendium/bestiary/undead/warhorse-skeleton.md)  
+- [Water Elemental](Compendium/bestiary/elemental/water-elemental.md)  
+- [Water Weird](Compendium/bestiary/elemental/water-weird.md)  
+- [Werebear](Compendium/bestiary/humanoid/werebear.md)  
+- [Wereboar](Compendium/bestiary/humanoid/wereboar.md)  
+- [Wererat](Compendium/bestiary/humanoid/wererat.md)  
+- [Weretiger](Compendium/bestiary/humanoid/weretiger.md)  
+- [Werewolf](Compendium/bestiary/humanoid/werewolf.md)  
+- [White Dragon Wyrmling](Compendium/bestiary/dragon/white-dragon-wyrmling.md)  
+- [Wight](Compendium/bestiary/undead/wight.md)  
+- [Will-o'-Wisp](Compendium/bestiary/undead/will-o-wisp.md)  
+- [Winged Kobold](Compendium/bestiary/humanoid/winged-kobold.md)  
+- [Wraith](Compendium/bestiary/undead/wraith.md)  
+- [Wyvern](Compendium/bestiary/dragon/wyvern.md)  
+- [Xorn](Compendium/bestiary/elemental/xorn.md)  
+- [Yeti](Compendium/bestiary/monstrosity/yeti.md)  
+- [Yochlol](Compendium/bestiary/fiend/yochlol.md)  
+- [Young Black Dragon](Compendium/bestiary/dragon/young-black-dragon.md)  
+- [Young Blue Dragon](Compendium/bestiary/dragon/young-blue-dragon.md)  
+- [Young Brass Dragon](Compendium/bestiary/dragon/young-brass-dragon.md)  
+- [Young Bronze Dragon](Compendium/bestiary/dragon/young-bronze-dragon.md)  
+- [Young Copper Dragon](Compendium/bestiary/dragon/young-copper-dragon.md)  
+- [Young Gold Dragon](Compendium/bestiary/dragon/young-gold-dragon.md)  
+- [Young Green Dragon](Compendium/bestiary/dragon/young-green-dragon.md)  
+- [Young Red Dragon](Compendium/bestiary/dragon/young-red-dragon.md)  
+- [Young Red Shadow Dragon](Compendium/bestiary/dragon/young-red-shadow-dragon.md)  
+- [Young Remorhaz](Compendium/bestiary/monstrosity/young-remorhaz.md)  
+- [Young Silver Dragon](Compendium/bestiary/dragon/young-silver-dragon.md)  
+- [Young White Dragon](Compendium/bestiary/dragon/young-white-dragon.md)  
+- [Yuan-ti Abomination](Compendium/bestiary/monstrosity/yuan-ti-abomination.md)  
+- [Yuan-ti Malison (Type 1)](Compendium/bestiary/monstrosity/yuan-ti-malison-type-1.md)  
+- [Yuan-ti Malison (Type 2)](Compendium/bestiary/monstrosity/yuan-ti-malison-type-2.md)  
+- [Yuan-ti Malison (Type 3)](Compendium/bestiary/monstrosity/yuan-ti-malison-type-3.md)  
+- [Yuan-ti Pureblood](Compendium/bestiary/humanoid/yuan-ti-pureblood.md)  
+- [Zombie](Compendium/bestiary/undead/zombie.md)  
 
 ## Shadow Dragon Template
 
@@ -752,7 +752,7 @@ The dragon has resistance to necrotic damage.
 
 ### Skill Proficiency: Stealth
 
-The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks.
+The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](Rules/skills.md#Stealth)) checks.
 
 ### Living Shadow
 
@@ -760,11 +760,11 @@ While in dim light or darkness, the dragon has resistance to damage that isn't f
 
 ### Shadow Stealth
 
-While in dim light or darkness, the dragon can take the [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide) action as a bonus action.
+While in dim light or darkness, the dragon can take the [Hide](Rules/actions.md#Hide) action as a bonus action.
 
 ### Sunlight Sensitivity
 
-While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on sight.
+While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight.
 
 ### New Action: Bite
 
@@ -784,13 +784,13 @@ To avoid recalculating the creature's challenge rating, apply the template only 
 
 ### Senses
 
-The half-dragon gains [blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight) with a radius of 10 feet and [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) with a radius of 60 feet.
+The half-dragon gains [blindsight](Rules/senses.md#Blindsight) with a radius of 10 feet and [darkvision](Rules/senses.md#Darkvision) with a radius of 60 feet.
 
 ### Resistances
 
 The half-dragon gains resistance to a type of damage based on its color.
 
-![Resistances](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/resistances-mm.md)
+![Resistances](Compendium/tables/resistances-mm.md)
 
 ### Languages
 
@@ -800,7 +800,7 @@ The half-dragon speaks Draconic in addition to any other languages it knows.
 
 The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
 
-![New Action: Breath Weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/new-action-breath-weapon-mm.md)
+![New Action: Breath Weapon](Compendium/tables/new-action-breath-weapon-mm.md)
 
 ## Spore Servant Template
 
@@ -832,11 +832,11 @@ The servant's ability scores change as follows: Int 2 (−4), Wis 6 (−2), Cha 
 
 ### Senses
 
-The servant has [blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight) with a radius of 30 feet, and it is blind beyond this radius.
+The servant has [blindsight](Rules/senses.md#Blindsight) with a radius of 30 feet, and it is blind beyond this radius.
 
 ### Condition Immunities
 
-The servant can't be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), or [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed).
+The servant can't be [blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened), or [paralyzed](Rules/conditions.md#Paralyzed).
 
 ### Languages
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Izzet Character Goals; Izzet Assignments
+- "Izzet Character Goals; Izzet Assignments"
 ---
 # Izzet Character Goals; Izzet Assignments
 *Source: Guildmasters' Guide to Ravnica p. 146* 

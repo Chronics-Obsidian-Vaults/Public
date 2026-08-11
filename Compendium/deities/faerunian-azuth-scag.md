@@ -7,15 +7,15 @@ tags:
 - source/deity/faerunian
 - source/domain/arcana
 - source/domain/knowledge
-aliases: 
-- Azuth
-- The High One
-- The Lord of Spellcraft
-- The First Magister
+aliases:
+- "Azuth"
+- "The High One"
+- "The Lord of Spellcraft"
+- "The First Magister"
 ---
 # Azuth
 *Source: Sword Coast Adventurer's Guide* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-azuth.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-azuth.webp#symbol)
 
 - **Alternate Names**: The High One, The Lord of Spellcraft, The First Magister
 - **Alignment**: Lawful Neutral

@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/egw
 aliases:
-- Grinner
+- "Grinner"
 ---
 # Grinner
 *Source: Explorer's Guide to Wildemount p. 200*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/img/grinner.webp#right)
+![](Compendium/backgrounds/img/grinner.webp#right)
 
-- **Skill Proficiencies.** [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)  
-- **Tool Proficiencies.** One type of musical instrument, [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)  
-- **Equipment.** A set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), a [disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md), a musical instrument of your choice, a gold-plated ring depicting a smiling face, and a [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](Rules/skills.md#Deception), [Performance](Rules/skills.md#Performance)  
+- **Tool Proficiencies.** One type of musical instrument, [thieves' tools](Compendium/items/thieves-tools.md)  
+- **Equipment.** A set of [fine clothes](Compendium/items/fine-clothes.md), a [disguise kit](Compendium/items/disguise-kit.md), a musical instrument of your choice, a gold-plated ring depicting a smiling face, and a [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 The Golden Grin began in the far-off land of Tal'Dorei, trading secret messages through a network of bards and minstrels to undermine an iron-fisted king's authoritarian rule. Today, Tal'Dorei is a relatively peaceful republic, and some Grinners have grown restless while waiting for tyranny to raise its ugly head again. A contingent of such Grinners traveled to the Menagerie Coast and set up a network of secret bases in the cities of the Clovis Concord, from which they are presently working their way into the highest echelons of the Dwendalian Empire.
 

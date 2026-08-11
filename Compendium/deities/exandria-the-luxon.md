@@ -7,8 +7,8 @@ tags:
 - source/deity/exandria
 - source/domain/arcana
 - source/domain/light
-aliases: 
-- The Luxon
+aliases:
+- "The Luxon"
 ---
 # The Luxon
 *Source: Explorer's Guide to Wildemount p. 32* 

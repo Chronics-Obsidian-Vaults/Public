@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/7
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Armanite
+- "Armanite"
 ---
-# [Armanite](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/armanite-mpmm.md)
+# [Armanite](Compendium/bestiary/fiend/armanite-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  
 
 Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.
@@ -42,9 +43,8 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "speed": "60 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "7"
 "traits":
@@ -60,7 +60,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
-      \ it must succeed on a DC 16 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ it must succeed on a DC 16 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Hooves"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16\
       \ (2d10 + 5) slashing damage."
@@ -73,7 +73,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/armanite-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/armanite-mpmm.webp"
 ```
 ^statblock
 

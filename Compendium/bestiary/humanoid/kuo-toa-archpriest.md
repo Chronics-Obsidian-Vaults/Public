@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kuo-toa Archpriest
+- "Kuo-toa Archpriest"
 ---
-# [Kuo-toa Archpriest](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/kuo-toa-archpriest.md)
+# [Kuo-toa Archpriest](Compendium/bestiary/humanoid/kuo-toa-archpriest.md)
 *Source: Monster Manual p. 200*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -47,9 +48,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 > 
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote] A quote from Sabal Mizzrym of Menzoberranzan  
@@ -77,44 +78,39 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
   - !!int "14"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+7"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 19"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 19"
 "languages": "Undercommon"
 "cr": "6"
 "traits":
   - "desc": "The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is\
       \ Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the\
-      \ following cleric spells prepared:\n\n**Cantrips (at will):** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [sacred flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sacred-flame.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [sanctuary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sanctuary.md),\
-      \ [shield of faith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield-of-faith.md)\n\
-      \n**2nd level (3 slots):** [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [spiritual weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spiritual-weapon.md)\n\
-      \n**3rd level (3 slots):** [spirit guardians](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spirit-guardians.md),\
-      \ [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md)\n\
-      \n**4th level (3 slots):** [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md),\
-      \ [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md)\n\
-      \n**5th level (2 slots):** [mass cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-cure-wounds.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)"
+      \ following cleric spells prepared:\n\n**Cantrips (at will):** [guidance](Compendium/spells/guidance.md),\
+      \ [sacred flame](Compendium/spells/sacred-flame.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [sanctuary](Compendium/spells/sanctuary.md), [shield of faith](Compendium/spells/shield-of-faith.md)\n\
+      \n**2nd level (3 slots):** [hold person](Compendium/spells/hold-person.md),\
+      \ [spiritual weapon](Compendium/spells/spiritual-weapon.md)\n\n**3rd level (3\
+      \ slots):** [spirit guardians](Compendium/spells/spirit-guardians.md), [tongues](Compendium/spells/tongues.md)\n\
+      \n**4th level (3 slots):** [control water](Compendium/spells/control-water.md),\
+      \ [divination](Compendium/spells/divination.md)\n\n**5th level (2 slots):**\
+      \ [mass cure wounds](Compendium/spells/mass-cure-wounds.md), [scrying](Compendium/spells/scrying.md)"
     "name": "Spellcasting"
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
   - "desc": "The kuo-toa can sense the presence of any creature within 30 feet of\
-      \ it that is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ or on the Ethereal Plane. It can pinpoint such a creature that is moving."
+      \ it that is [invisible](Rules/conditions.md#Invisible) or on the Ethereal Plane.\
+      \ It can pinpoint such a creature that is moving."
     "name": "Otherworldly Perception"
   - "desc": "The kuo-toa has advantage on ability checks and saving throws made to\
       \ escape a grapple."
     "name": "Slippery"
   - "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The kuo-toa makes two melee attacks."
@@ -127,7 +123,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
     "name": "Unarmed Strike"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/kuo-toa-archpriest.webp"
+"image": "Compendium/bestiary/humanoid/token/kuo-toa-archpriest.webp"
 ```
 ^statblock
 

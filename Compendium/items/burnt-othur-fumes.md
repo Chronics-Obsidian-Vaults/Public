@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/gear/
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Burnt Othur Fumes"
 item_type: 
 item_subtype: 
@@ -16,7 +17,7 @@ attunement: none
 *Adventuring gear, poison (inhaled)*  
 
 
-- **Properties**: [Poison](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Poison)
+- **Properties**: [Poison](Rules/item-properties.md#Poison)
 - **Cost**: 500 gp
 
 A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 10 (`3d6`) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (`1d6`) poison damage. After three successful saves, the poison ends.

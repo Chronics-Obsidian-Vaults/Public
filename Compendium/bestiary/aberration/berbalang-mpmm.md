@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -10,16 +11,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Berbalang
+- "Berbalang"
 ---
-# [Berbalang](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/berbalang-mpmm.md)
+# [Berbalang](Compendium/bestiary/aberration/berbalang-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*  
 
-Berbalangs creep across the [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified) remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
+Berbalangs creep across the [petrified](Rules/conditions.md#Petrified) remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
 
 Berbalangs prefer to speak only to dead things, and specifically only to the spirits they call forth in the hope of learning secrets. They record their stories on the bones that once belonged to these creatures, thus preserving the information they gain.
 
-Pursuit of knowledge drives everything berbalangs do. Although they mostly learn their secrets from the dead, they aren't above spying on the living to take knowledge from them as well. A berbalang can create a spectral duplicate of itself and send the duplicate out to gather information on other planes by watching places where the gods and their servants gather. When a berbalang is perceiving its environment through its duplicate, its actual body is [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) and can't protect itself. Thus, a berbalang typically uses its duplicate for only a short time before returning its consciousness to its body.
+Pursuit of knowledge drives everything berbalangs do. Although they mostly learn their secrets from the dead, they aren't above spying on the living to take knowledge from them as well. A berbalang can create a spectral duplicate of itself and send the duplicate out to gather information on other planes by watching places where the gods and their servants gather. When a berbalang is perceiving its environment through its duplicate, its actual body is [unconscious](Rules/conditions.md#Unconscious) and can't protect itself. Thus, a berbalang typically uses its duplicate for only a short time before returning its consciousness to its body.
 
 The knowledge that berbalangs accumulate makes them great sources of information for powerful people traveling the planes. Berbalangs ignore petitioners, however, unless they come bearing a choice secret or the bones of a particularly interesting creature. Some githyanki have been able to strike deals with the creatures, using berbalangs to spy on their enemies and to watch over their creches on the Material Plane.
 
@@ -45,18 +46,17 @@ The knowledge that berbalangs accumulate makes them great sources of information
   - "dexterity": !!int "5"
   - "intelligence": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+5"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+5"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 12"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 12"
 "languages": "all"
 "cr": "2"
 "actions":
@@ -70,24 +70,23 @@ The knowledge that berbalangs accumulate makes them great sources of information
     "name": "Claw"
   - "desc": "The berbalang casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability:\n\n**At will:**\
-      \ [speak with dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md)\n\
-      \n**1/day:** [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ (self only)"
+      \ [speak with dead](Compendium/spells/speak-with-dead.md)\n\n**1/day:** [plane\
+      \ shift](Compendium/spells/plane-shift.md) (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The berbalang creates one spectral duplicate of itself in an unoccupied\
       \ space it can see within 60 feet of it. While the duplicate exists, the berbalang\
-      \ is [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious).\
-      \ A berbalang can have only one duplicate at a time. The duplicate disappears\
-      \ when it or the berbalang drops to 0 hit points or when the berbalang dismisses\
-      \ it (no action required).\n\nThe duplicate has the same statistics and knowledge\
-      \ as the berbalang, and everything experienced by the duplicate is known by\
-      \ the berbalang. All damage dealt by the duplicate's attacks is psychic damage."
+      \ is [unconscious](Rules/conditions.md#Unconscious). A berbalang can have only\
+      \ one duplicate at a time. The duplicate disappears when it or the berbalang\
+      \ drops to 0 hit points or when the berbalang dismisses it (no action required).\n\
+      \nThe duplicate has the same statistics and knowledge as the berbalang, and\
+      \ everything experienced by the duplicate is known by the berbalang. All damage\
+      \ dealt by the duplicate's attacks is psychic damage."
     "name": "Spectral Duplicate (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/berbalang-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/berbalang-mpmm.webp"
 ```
 ^statblock
 

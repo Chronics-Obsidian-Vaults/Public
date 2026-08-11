@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Status Symbols
+- "Status Symbols"
 ---
 # Status Symbols
 *Source: Volo's Guide to Monsters p. 42* 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Chamber Purpose; Dungeon: Death Trap
+- "Chamber Purpose; Dungeon: Death Trap"
 ---
 # Chamber Purpose; Dungeon: Death Trap
 *Source: Dungeon Master's Guide p. 292* 

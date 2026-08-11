@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -8,17 +9,17 @@ tags:
 - source/spell/class/warlock
 - source/spell/class/wizard
 - source/spell/feat/aberrant-dragonmark
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/feat/fey-touched
 - source/spell/feat/magic-initiate/wizard-spells
+- source/spell/feat/mark-of-scribing
 - source/spell/feat/ritual-caster/wizard-spells
 - source/spell/level/1st-level
 - source/spell/optfeature/book-of-ancient-secrets
-- source/spell/reward/epharas-devotee
 - source/spell/ritual
 - source/spell/school/divination
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/eldritch-knight
-- source/spell/subrace/gnome-mark-of-scribing
 classes:
 - Bard (Magical Secrets)
 - Fighter (Eldritch Knight)
@@ -27,7 +28,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Comprehend Languages
+- "Comprehend Languages"
 level: 1
 ritual: true
 school: divination
@@ -51,6 +52,6 @@ For the duration, you understand the literal meaning of any spoken language that
 
 This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

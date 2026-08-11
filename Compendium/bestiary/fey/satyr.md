@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Satyr
+- "Satyr"
 ---
-# [Satyr](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/satyr.md)
-*Source: Monster Manual p. 267, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Satyr](Compendium/bestiary/fey/satyr.md)
+*Source: Monster Manual p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
 
@@ -62,7 +63,7 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 "type": "fey"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "31"
 "hit_dice": "7d8"
 "modifier": !!int "3"
@@ -75,12 +76,15 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
   - !!int "14"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
+"gear":
+  - "[shortbow](Compendium/items/shortbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"
@@ -100,8 +104,7 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
     "name": "Shortbow"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/satyr.webp"
+"image": "Compendium/bestiary/fey/token/satyr.webp"
 ```
 ^statblock
 

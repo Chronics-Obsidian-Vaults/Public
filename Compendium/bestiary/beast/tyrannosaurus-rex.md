@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tyrannosaurus Rex
+- "Tyrannosaurus Rex"
 ---
-# [Tyrannosaurus Rex](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/tyrannosaurus-rex.md)
-*Source: Monster Manual p. 80, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Tyrannosaurus Rex](Compendium/bestiary/beast/tyrannosaurus-rex.md)
+*Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 This enormous predator terrorizes all other creatures in its territory. Despite its size and weight, a tyrannosaurus is a swift runner. It chases anything it thinks it can eat, and there are few creatures it won't try to devour whole. While prowling for substantial prey, a tyrannosaurus subsists on carrion, and on any smaller creatures that try to dart in to steal its meal.
 
@@ -42,7 +43,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   - !!int "9"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -53,8 +54,8 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 33\
       \ (4d12 + 7) piercing damage. If the target is a Medium or smaller creature,\
-      \ it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 17). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ it is [grappled](Rules/conditions.md#Grappled) (escape DC 17). Until this\
+      \ grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the tyrannosaurus can't bite another target."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 20\
@@ -62,8 +63,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
     "name": "Tail"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/tyrannosaurus-rex.webp"
+"image": "Compendium/bestiary/beast/token/tyrannosaurus-rex.webp"
 ```
 ^statblock
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ambitious Assassin
+- "Ambitious Assassin"
 ---
-# [Ambitious Assassin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/ambitious-assassin-bmt.md)
+# [Ambitious Assassin](Compendium/bestiary/humanoid/ambitious-assassin-bmt.md)
 *Source: The Book of Many Things p. 45*  
 
 Appropriate for tier 1 play (levels 1 to 4), the ambitious assassin is a Humanoid who might be a charming manipulator or a ruthless killer.
@@ -30,7 +31,7 @@ The villain's challenge rating increases while the villain is in this lair:
 "type": "humanoid"
 "alignment": "typically  Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "modifier": !!int "4"
@@ -46,16 +47,14 @@ The villain's challenge rating increases while the villain is in this lair:
   - "dexterity": !!int "7"
   - "intelligence": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+10"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., passive Perception 15"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., passive Perception 15"
 "languages": "Common, thieves' cant, plus any one language"
 "cr": "5"
 "traits":
@@ -102,7 +101,7 @@ The villain's challenge rating increases while the villain is in this lair:
   \ turn, the ambitious assassin can expend a use to take one of the following actions.\
   \ The ambitious assassin regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The assassin escapes nonmagical restraints and ends the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+  - "desc": "The assassin escapes nonmagical restraints and ends the [grappled](Rules/conditions.md#Grappled)\
       \ condition on itself, then moves up to its speed without provoking opportunity\
       \ attacks."
     "name": "Cunning"
@@ -111,11 +110,11 @@ The villain's challenge rating increases while the villain is in this lair:
   - "desc": "The assassin creates a sudden distraction, such as a cloud of disorienting\
       \ smoke or flash of dazzling light, filling a 10-foot cube within 5 feet of\
       \ the assassin. Each creature of the assassin's choice in that area takes 9\
-      \ (2d8) psychic damage, and the assassin has the [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+      \ (2d8) psychic damage, and the assassin has the [invisible](Rules/conditions.md#Invisible)\
       \ condition. This invisibility lasts until the end of the assassin's next turn."
     "name": "Vanishing Escape (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/ambitious-assassin-bmt.webp"
+"image": "Compendium/bestiary/humanoid/token/ambitious-assassin-bmt.webp"
 ```
 ^statblock

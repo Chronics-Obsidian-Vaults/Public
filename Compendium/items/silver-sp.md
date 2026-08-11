@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/treasure-coinage
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Silver (sp)"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Silver (sp)
 *Treasure (coinage)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/silver-sp.webp#right)
+![](Compendium/items/img/silver-sp.webp#right)
 
 - **Cost**: 1 sp
 - **Weight**: 0.02 lbs.

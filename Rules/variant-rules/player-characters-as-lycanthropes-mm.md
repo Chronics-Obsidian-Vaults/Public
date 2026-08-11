@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mm
 aliases:
-- Player Characters as Lycanthropes
+- "Player Characters as Lycanthropes"
 ---
 # Player Characters as Lycanthropes
 *Source: Monster Manual p. 207, Curse of Strahd p. 242, Waterdeep: Dungeon of the Mad Mage p. 317, Van Richten's Guide to Ravenloft p. 237* 
@@ -49,6 +49,6 @@ A player character who becomes a werebat gains a Dexterity of 17 if their score 
 ## Loup Garou
 _Source: Van Richten's Guide to Ravenloft_
 
-A Humanoid who succumbs to a loup garou's lycanthropy becomes a [werewolf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/werewolf.md) (see above). This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives.
+A Humanoid who succumbs to a loup garou's lycanthropy becomes a [werewolf](Compendium/bestiary/humanoid/werewolf.md) (see above). This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives.
 
-Once a loup garou is slain, a [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md) spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion). On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.
+Once a loup garou is slain, a [remove curse](Compendium/spells/remove-curse.md) spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of [exhaustion](Rules/conditions.md#Exhaustion). On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Crime Syndicate Contacts; Syndicate Contact
+- "Crime Syndicate Contacts; Syndicate Contact"
 ---
 # Crime Syndicate Contacts; Syndicate Contact
 *Source: Eberron: Rising from the Last War p. 71* 

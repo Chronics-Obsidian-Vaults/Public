@@ -7,8 +7,8 @@ tags:
 - source/deity/celtic
 - source/domain/knowledge
 - source/domain/life
-aliases: 
-- Lugh
+aliases:
+- "Lugh"
 ---
 # Lugh
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

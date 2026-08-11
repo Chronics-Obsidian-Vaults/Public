@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flabbergast
+- "Flabbergast"
 ---
-# [Flabbergast](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/flabbergast-ai.md)
+# [Flabbergast](Compendium/bestiary/npc/flabbergast-ai.md)
 *Source: Acquisitions Incorporated p. 200*  
 
 Not much is known of the mysterious and aloof majordomo of Acquisitions Incorporated Head Office, the mage known as Flabbergast. It's said that he hails from Neverwinter, and that his wealthy family helped erect and carve the famous Dolphin Bridge in that city. Although he detests physical labor, Flabbergast is a bit of a bridge builder in his own way, always striving to bring people together and flexing his diplomatic muscles. A pacifist bureaucrat, he abhors violence, and rarely puts his magical prowess on display.
@@ -27,7 +28,7 @@ Flabbergast's familiar, Mister Snibbly, uses the cat stat block.
 "subtype": "human"
 "alignment": "Lawful Neutral"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -43,34 +44,33 @@ Flabbergast's familiar, Mister Snibbly, uses the cat stat block.
   - "intelligence": !!int "5"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+3"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Draconic, Elvish, Gnomish"
 "cr": "4"
 "traits":
   - "desc": "Flabbergast is a 9th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 13, +5 to hit with spell attacks). He has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md),\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [distort value](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/distort-value-ai.md)*\n\
-      \n**2nd level (3 slots):** [gift of gab](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gift-of-gab-ai.md)*,\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**3rd level (3 slots):** [fast friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fast-friends-ai.md)*,\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md)\n\
-      \n**4th level (3 slots):** [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md)\n\
-      \n**5th level (1 slots):** [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md)\n\
-      \n*New spell introduced in chapter 3"
+      \ spells prepared:\n\n**Cantrips (at will):** [fire bolt](Compendium/spells/fire-bolt.md),\
+      \ [light](Compendium/spells/light.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**1st level (4\
+      \ slots):** [detect magic](Compendium/spells/detect-magic.md), [mage armor](Compendium/spells/mage-armor.md),\
+      \ [distort value](Compendium/spells/distort-value-ai.md)*\n\n**2nd level (3\
+      \ slots):** [gift of gab](Compendium/spells/gift-of-gab-ai.md)*, [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**3rd level (3 slots):** [fast friends](Compendium/spells/fast-friends-ai.md)*,\
+      \ [lightning bolt](Compendium/spells/lightning-bolt.md)\n\n**4th level (3 slots):**\
+      \ [greater invisibility](Compendium/spells/greater-invisibility.md)\n\n**5th\
+      \ level (1 slots):** [cone of cold](Compendium/spells/cone-of-cold.md)\n\n*New\
+      \ spell introduced in chapter 3"
     "name": "Spellcasting"
 "actions":
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
@@ -78,6 +78,6 @@ Flabbergast's familiar, Mister Snibbly, uses the cat stat block.
     "name": "Dagger"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/flabbergast-ai.webp"
+"image": "Compendium/bestiary/npc/token/flabbergast-ai.webp"
 ```
 ^statblock

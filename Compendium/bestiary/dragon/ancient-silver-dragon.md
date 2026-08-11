@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/23
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Silver Dragon
+- "Ancient Silver Dragon"
 ---
-# [Ancient Silver Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/ancient-silver-dragon.md)
+# [Ancient Silver Dragon](Compendium/bestiary/dragon/ancient-silver-dragon.md)
 *Source: Monster Manual p. 116. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -112,17 +113,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "9"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+11"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+11"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+16"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "cold"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 26"
 "languages": "Common, Draconic"
 "cr": "23"
@@ -143,7 +143,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ (2d8 + 10) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -154,7 +154,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage\
       \ on a failed save, or half as much damage on a successful one.  \n- **Paralyzing\
       \ Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature\
-      \ in that area must succeed on a DC 24 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ in that area must succeed on a DC 24 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  "
     "name": "Breath Weapons (Recharge 5-6)"
@@ -171,19 +171,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
       \ action to cause one of the following effects:\n\n- The dragon creates fog\
-      \ as if it had cast the [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md)\
-      \ spell. The fog lasts until initiative count 20 on the next round.  \n- A blisteringly\
+      \ as if it had cast the [fog cloud](Compendium/spells/fog-cloud.md) spell. The\
+      \ fog lasts until initiative count 20 on the next round.  \n- A blisteringly\
       \ cold wind blows through the lair near the dragon. Each creature within 120\
       \ feet of the dragon must succeed on a DC 15 Constitution saving throw or take\
       \ 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected\
       \ flames are extinguished. Protected flames, such as lanterns, have a 50 percent\
       \ chance of being extinguished.  \n\n**Additional Lair Action.** At your discretion,\
-      \ a legendary ([adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-silver-dragon.md)\
-      \ or [ancient](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-silver-dragon.md))\
-      \ silver dragon can use the following additional lair action while in its lair:\n\
-      \n- **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon.\
-      \ Each creature of the dragon's choice that it can see within 120 feet of it\
-      \ must succeed on a DC 15 Constitution saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ a legendary ([adult](Compendium/bestiary/dragon/adult-silver-dragon.md) or\
+      \ [ancient](Compendium/bestiary/dragon/ancient-silver-dragon.md)) silver dragon\
+      \ can use the following additional lair action while in its lair:\n\n- **Icy\
+      \ Grip.** A sudden, supernatural chill fills the lair near the dragon. Each\
+      \ creature of the dragon's choice that it can see within 120 feet of it must\
+      \ succeed on a DC 15 Constitution saving throw or be [restrained](Rules/conditions.md#Restrained)\
       \ until initiative count 20 on the next round. Creatures that have resistance\
       \ to cold damage have advantage on the saving throw; creatures that have immunity\
       \ to cold damage succeed automatically.  "
@@ -193,32 +193,32 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ dragon's magic, which creates one or more of the following effects.\n\n- Once\
       \ per day, the dragon can alter the weather in a 6-mile radius centered on its\
       \ lair. The dragon doesn't need to be outdoors; otherwise the effect is identical\
-      \ to the [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md)\
-      \ spell.  \n- Within 1 mile of the lair, winds buoy non-evil creatures that\
-      \ fall due to no act of the dragon's or its allies. Such creatures descend at\
-      \ a rate of 60 feet per round and take no falling damage.  \n- Given days or\
-      \ longer to work, the dragon can make clouds and fog within its lair as solid\
-      \ as stone, forming structures and other objects as it wishes.  \n\nIf the dragon\
-      \ dies, changed weather reverts to normal, as described in the spell, and the\
-      \ other effects fade in 1d10 days."
+      \ to the [control weather](Compendium/spells/control-weather.md) spell.  \n\
+      - Within 1 mile of the lair, winds buoy non-evil creatures that fall due to\
+      \ no act of the dragon's or its allies. Such creatures descend at a rate of\
+      \ 60 feet per round and take no falling damage.  \n- Given days or longer to\
+      \ work, the dragon can make clouds and fog within its lair as solid as stone,\
+      \ forming structures and other objects as it wishes.  \n\nIf the dragon dies,\
+      \ changed weather reverts to normal, as described in the spell, and the other\
+      \ effects fade in 1d10 days."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
       \ must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ The dragon can then fly up to half its flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). The dragon can then\
+      \ fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/ancient-silver-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/ancient-silver-dragon.webp"
 ```
 ^statblock
 

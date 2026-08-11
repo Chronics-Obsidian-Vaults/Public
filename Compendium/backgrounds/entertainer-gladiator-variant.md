@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Entertainer (Gladiator) (Variant)
+- "Entertainer (Gladiator) (Variant)"
 ---
 # Entertainer (Gladiator) (Variant)
 *Source: Player's Handbook p. 131*  
 
 
-- **Skill Proficiencies.** [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)  
-- **Tool Proficiencies.** [Disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md), one type of musical instrument  
-- **Equipment.** An inexpensive but unusual weapon, such as a [trident](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trident.md) or [net](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/net.md) (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [costume clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/costume-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Acrobatics](Rules/skills.md#Acrobatics), [Performance](Rules/skills.md#Performance)  
+- **Tool Proficiencies.** [Disguise kit](Compendium/items/disguise-kit.md), one type of musical instrument  
+- **Equipment.** An inexpensive but unusual weapon, such as a [trident](Compendium/items/trident.md) or [net](Compendium/items/net.md) (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [costume clothes](Compendium/items/costume-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your By Popular Demand feature, you can find a place to perform in any place that features combat for entertainment–perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual weapon, such as a trident or net.
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/boros-legionnaire
@@ -8,9 +9,10 @@ tags:
 - source/spell/class/cleric
 - source/spell/feat/magic-initiate/cleric-spells
 - source/spell/level/1st-level
+- source/spell/reward/boros-charm
 - source/spell/school/evocation
 - source/spell/subclass/circle-of-stars
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/oath-of-glory
 - source/spell/subclass/the-celestial
 classes:
@@ -18,10 +20,10 @@ classes:
 - Cleric
 - Druid (Circle of Stars)
 - Paladin (Oath of Glory)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Warlock (The Celestial)
 aliases:
-- Guiding Bolt
+- "Guiding Bolt"
 level: 1
 school: evocation
 ritual: false
@@ -45,6 +47,6 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of Stars)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [Paladin (Oath of Glory)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of Stars)](Compendium/lists/list-spells-classes-circle-of-stars-tce.md "subclass=TCE"); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](Compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

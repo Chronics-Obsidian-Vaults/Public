@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Training Complications
+- "Training Complications"
 ---
 # Training Complications
 *Source: Xanathar's Guide to Everything p. 134* 

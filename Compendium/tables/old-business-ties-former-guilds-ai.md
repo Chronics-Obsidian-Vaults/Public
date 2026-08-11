@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Old Business Ties; Former Guilds
+- "Old Business Ties; Former Guilds"
 ---
 # Old Business Ties; Former Guilds
 *Source: Acquisitions Incorporated p. 66* 

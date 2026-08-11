@@ -6,11 +6,11 @@ tags:
 - source/compendium/src/5e/xge
 - source/optional-feature/as
 aliases:
-- Beguiling Arrow
+- "Beguiling Arrow"
 ---
 # Beguiling Arrow
 *Source: Xanathar's Guide to Everything p. 29*  
 
-Your enchantment magic causes this arrow to temporarily beguile its target. The creature hit by the arrow takes an extra `2d6` psychic damage, and choose one of your allies within 30 feet of the target. The target must succeed on a Wisdom saving throw, or it is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) by the chosen ally until the start of your next turn. This effect ends early if the chosen ally attacks the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) target, deals damage to it, or forces it to make a saving throw.
+Your enchantment magic causes this arrow to temporarily beguile its target. The creature hit by the arrow takes an extra `2d6` psychic damage, and choose one of your allies within 30 feet of the target. The target must succeed on a Wisdom saving throw, or it is [charmed](Rules/conditions.md#Charmed) by the chosen ally until the start of your next turn. This effect ends early if the chosen ally attacks the [charmed](Rules/conditions.md#Charmed) target, deals damage to it, or forces it to make a saving throw.
 
 The psychic damage increases to `4d6` when you reach 18th level in this class.

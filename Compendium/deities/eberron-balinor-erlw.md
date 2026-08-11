@@ -7,12 +7,12 @@ tags:
 - source/deity/eberron
 - source/domain/nature
 - source/domain/war
-aliases: 
-- Balinor
+aliases:
+- "Balinor"
 ---
 # Balinor
 *Source: Eberron: Rising from the Last War p. 141* 
-![The Sovereign Host](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/erlw-the-sovereign-host.webp#symbol)
+![The Sovereign Host](Compendium/deities/img/erlw-the-sovereign-host.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

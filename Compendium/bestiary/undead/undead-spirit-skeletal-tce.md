@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undead Spirit (Skeletal)
+- "Undead Spirit (Skeletal)"
 ---
-# [Undead Spirit (Skeletal)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/undead-spirit-skeletal-tce.md)
+# [Undead Spirit (Skeletal)](Compendium/bestiary/undead/undead-spirit-skeletal-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "undead"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "20 + 10 for each spell level above 3rd"
 "modifier": !!int "3"
 "stats":
   - !!int "12"
@@ -30,12 +32,9 @@ aliases:
   - !!int "9"
 "speed": "30 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands the languages you speak"
 "actions":
   - "desc": "The spirit makes a number of attacks equal to half this spell's level\

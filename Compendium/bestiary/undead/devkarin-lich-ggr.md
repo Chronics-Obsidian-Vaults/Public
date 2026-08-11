@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/14
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Devkarin Lich
+- "Devkarin Lich"
 ---
-# [Devkarin Lich](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/devkarin-lich-ggr.md)
+# [Devkarin Lich](Compendium/bestiary/undead/devkarin-lich-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 198*  
 
 Powerful spellcasters of the Devkarin elves, steeped in Golgari magic, can transcend death to become liches. For them, life and death don't merely chase each other in an inevitable cycle; the two can intersect, and at that nexus the liches find immense power, which commands the awe, envy, and fear of other Golgari.
@@ -45,50 +46,39 @@ The lich doesn't require air, food, drink, or sleep.
   - "intelligence": !!int "9"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+14"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 18"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 18"
 "languages": "Common, Elvish, Kraul"
 "cr": "14"
 "traits":
   - "desc": "The lich is a 14th-level Golgari spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 17, +9 to hit with spell attacks). The lich\
       \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [acid\
-      \ splash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/acid-splash.md),\
-      \ [chill touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chill-touch.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [poison spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [chromatic orb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chromatic-orb.md),\
-      \ [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md),\
-      \ [ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md)\n\
-      \n**2nd level (3 slots):** [Melf's acid arrow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/melfs-acid-arrow.md),\
-      \ [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md),\
-      \ [spider climb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spider-climb.md),\
-      \ [web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md)\n\
-      \n**3rd level (3 slots):** [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md),\
-      \ [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md),\
-      \ [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md),\
-      \ [vampiric touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vampiric-touch.md)\n\
-      \n**4th level (3 slots):** [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md),\
-      \ [Evard's black tentacles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/evards-black-tentacles.md)\n\
-      \n**5th level (2 slots):** [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md),\
-      \ [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md)\n\
-      \n**6th level (1 slots):** [circle of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-death.md),\
-      \ [create undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-undead.md)\n\
-      \n**7th level (1 slots):** [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md)"
+      \ splash](Compendium/spells/acid-splash.md), [chill touch](Compendium/spells/chill-touch.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [poison spray](Compendium/spells/poison-spray.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**1st level (4\
+      \ slots):** [chromatic orb](Compendium/spells/chromatic-orb.md), [magic missile](Compendium/spells/magic-missile.md),\
+      \ [ray of sickness](Compendium/spells/ray-of-sickness.md)\n\n**2nd level (3\
+      \ slots):** [Melf's acid arrow](Compendium/spells/melfs-acid-arrow.md), [ray\
+      \ of enfeeblement](Compendium/spells/ray-of-enfeeblement.md), [spider climb](Compendium/spells/spider-climb.md),\
+      \ [web](Compendium/spells/web.md)\n\n**3rd level (3 slots):** [animate dead](Compendium/spells/animate-dead.md),\
+      \ [bestow curse](Compendium/spells/bestow-curse.md), [fear](Compendium/spells/fear.md),\
+      \ [vampiric touch](Compendium/spells/vampiric-touch.md)\n\n**4th level (3 slots):**\
+      \ [blight](Compendium/spells/blight.md), [Evard's black tentacles](Compendium/spells/evards-black-tentacles.md)\n\
+      \n**5th level (2 slots):** [cloudkill](Compendium/spells/cloudkill.md), [insect\
+      \ plague](Compendium/spells/insect-plague.md)\n\n**6th level (1 slots):** [circle\
+      \ of death](Compendium/spells/circle-of-death.md), [create undead](Compendium/spells/create-undead.md)\n\
+      \n**7th level (1 slots):** [finger of death](Compendium/spells/finger-of-death.md)"
     "name": "Spellcasting"
   - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -107,8 +97,7 @@ The lich doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "*Melee Spell Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 14\
       \ (4d6) poison damage, and the target must succeed on a DC 17 Constitution saving\
-      \ throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ throw or be [poisoned](Rules/conditions.md#Poisoned) for 1 minute. The [poisoned](Rules/conditions.md#Poisoned)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Noxious Touch"
@@ -126,6 +115,6 @@ The lich doesn't require air, food, drink, or sleep.
     "name": "Disrupt Life (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/devkarin-lich-ggr.webp"
+"image": "Compendium/bestiary/undead/token/devkarin-lich-ggr.webp"
 ```
 ^statblock

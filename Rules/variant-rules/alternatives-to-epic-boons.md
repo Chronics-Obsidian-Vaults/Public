@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Alternatives to Epic Boons
+- "Alternatives to Epic Boons"
 ---
 # Alternatives to Epic Boons
 *Source: Dungeon Master's Guide p. 230* 

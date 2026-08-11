@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Goblinoid NPCs
+- "Goblinoid NPCs"
 ---
 # Goblinoid NPCs
 *Source: Eberron: Rising from the Last War p. 205* 

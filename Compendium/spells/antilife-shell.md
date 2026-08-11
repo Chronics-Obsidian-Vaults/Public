@@ -1,22 +1,25 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
+- source/spell/feat/mark-of-warding
 - source/spell/level/5th-level
 - source/spell/school/abjuration
 - source/spell/subclass/death-domain
 - source/spell/subclass/grave-domain
-- source/spell/subrace/dwarf-mark-of-warding
+- source/spell/subclass/the-undead
 classes:
 - Bard (Magical Secrets)
 - Cleric (Death Domain)
 - Cleric (Grave Domain)
 - Druid
+- Warlock (The Undead)
 aliases:
-- Antilife Shell
+- "Antilife Shell"
 level: 5
 school: abjuration
 ritual: false
@@ -42,6 +45,6 @@ The barrier prevents an affected creature from passing or reaching through. An a
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](Compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Warlock (The Undead)](Compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR")
 
 *Source: Player's Handbook p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

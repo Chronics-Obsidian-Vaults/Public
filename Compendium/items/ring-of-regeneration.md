@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/tier/major
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Regeneration"
 item_type: wondrous
 item_subtype: ring
@@ -16,7 +17,7 @@ attunement: required
 ---
 # Ring of Regeneration
 *Ring, major, very rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/ring-of-regeneration.webp#right)
+![](Compendium/items/img/ring-of-regeneration.webp#right)
 
 
 While wearing this ring, you regain `1d6` hit points every 10 minutes, provided that you have at least 1 hit point. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `1d6 + 1` days if you have at least 1 hit point the whole time.

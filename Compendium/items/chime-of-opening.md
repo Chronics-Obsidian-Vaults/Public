@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Chime of Opening"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Chime of Opening
 *Wondrous item, minor, rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/chime-of-opening.webp#right)
+![](Compendium/items/img/chime-of-opening.webp#right)
 
 - **Weight**: 1.0 lbs.
 

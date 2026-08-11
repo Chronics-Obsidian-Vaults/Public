@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Consider the Ideal Climax; Adventure Climax
+- "Consider the Ideal Climax; Adventure Climax"
 ---
 # Consider the Ideal Climax; Adventure Climax
 *Source: Dungeon Master's Guide p. 75* 

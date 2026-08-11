@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/4
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Mind Whisperer
+- "Yuan-ti Mind Whisperer"
 ---
-# [Yuan-ti Mind Whisperer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/yuan-ti-mind-whisperer-mpmm.md)
+# [Yuan-ti Mind Whisperer](Compendium/bestiary/monstrosity/yuan-ti-mind-whisperer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204*  
 
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
@@ -44,18 +45,19 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
   - "wisdom": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 12"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 12"
 "languages": "Abyssal, Common, Draconic"
 "cr": "4"
 "traits":
-  - "desc": "Magical darkness doesn't impede the yuan-ti's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the yuan-ti's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
       \ effects."
@@ -78,13 +80,11 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
     "name": "Spectral Fangs"
   - "desc": "The yuan-ti casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 13):\n\
-      \n**At will:** [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md)\
-      \ (snakes only), [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**3/day:** [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**2/day each:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [hypnotic pattern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hypnotic-pattern.md)"
+      \n**At will:** [animal friendship](Compendium/spells/animal-friendship.md) (snakes\
+      \ only), [message](Compendium/spells/message.md), [minor illusion](Compendium/spells/minor-illusion.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**3/day:** [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**2/day each:** [detect thoughts](Compendium/spells/detect-thoughts.md), [hypnotic\
+      \ pattern](Compendium/spells/hypnotic-pattern.md)"
     "name": "Spellcasting (Yuan-ti Form Only)"
 "bonus_actions":
   - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
@@ -94,7 +94,7 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/yuan-ti-mind-whisperer-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/yuan-ti-mind-whisperer-mpmm.webp"
 ```
 ^statblock
 

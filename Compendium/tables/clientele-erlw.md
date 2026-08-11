@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Clientele
+- "Clientele"
 ---
 # Clientele
 *Source: Eberron: Rising from the Last War p. 88* 

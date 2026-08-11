@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -18,10 +19,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scout
+- "Scout"
 ---
-# [Scout](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/scout.md)
-*Source: Monster Manual p. 349, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Scout](Compendium/bestiary/humanoid/scout.md)
+*Source: Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
 
@@ -32,7 +33,7 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "2"
@@ -45,19 +46,22 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+5"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-  - "desc": "The scout has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The scout has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing or sight."
     "name": "Keen Hearing and Sight"
 "actions":
@@ -71,9 +75,7 @@ Scouts are skilled hunters and trackers who offer their services for a fee. Most
     "name": "Longbow"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/scout.webp"
+"image": "Compendium/bestiary/humanoid/token/scout.webp"
 ```
 ^statblock
 

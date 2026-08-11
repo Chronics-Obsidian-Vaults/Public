@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Half-Red Dragon Veteran
+- "Half-Red Dragon Veteran"
 ---
-# [Half-Red Dragon Veteran](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/half-red-dragon-veteran.md)
+# [Half-Red Dragon Veteran](Compendium/bestiary/humanoid/half-red-dragon-veteran.md)
 *Source: Monster Manual p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
@@ -32,13 +33,13 @@ To avoid recalculating the creature's challenge rating, apply the template only 
 
 ### Senses
 
-The half-dragon gains [blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight) with a radius of 10 feet and [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) with a radius of 60 feet.
+The half-dragon gains [blindsight](Rules/senses.md#Blindsight) with a radius of 10 feet and [darkvision](Rules/senses.md#Darkvision) with a radius of 60 feet.
 
 ### Resistances
 
 The half-dragon gains resistance to a type of damage based on its color.
 
-![Resistances](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/resistances-mm.md)
+![Resistances](Compendium/tables/resistances-mm.md)
 
 ### Languages
 
@@ -48,11 +49,11 @@ The half-dragon speaks Draconic in addition to any other languages it knows.
 
 The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
 
-![New Action: Breath Weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/new-action-breath-weapon-mm.md)
+![New Action: Breath Weapon](Compendium/tables/new-action-breath-weapon-mm.md)
 
 ### Sample Half-Dragon
 
-Here the half-dragon template has been applied to a human [veteran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/veteran.md) to create a half-red dragon veteran. [Splint armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/splint-armor.md) has been replaced with [plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md).
+Here the half-dragon template has been applied to a human [veteran](Compendium/bestiary/humanoid/veteran.md) to create a half-red dragon veteran. [Splint armor](Compendium/items/splint-armor.md) has been replaced with [plate](Compendium/items/plate-armor.md).
 
 ```statblock
 "name": "Half-Red Dragon Veteran"
@@ -61,7 +62,7 @@ Here the half-dragon template has been applied to a human [veteran](/Campaigns/C
 "subtype": "human"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "1"
@@ -74,13 +75,16 @@ Here the half-dragon template has been applied to a human [veteran](/Campaigns/C
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "fire"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"gear":
+  - "[heavy crossbow](Compendium/items/heavy-crossbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 12"
 "languages": "Common, Draconic"
 "cr": "5"
@@ -103,6 +107,6 @@ Here the half-dragon template has been applied to a human [veteran](/Campaigns/C
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/half-red-dragon-veteran.webp"
+"image": "Compendium/bestiary/humanoid/token/half-red-dragon-veteran.webp"
 ```
 ^statblock

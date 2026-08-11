@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/tce
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/2nd-level
 - source/spell/school/enchantment
 - source/spell/subclass/arcane-trickster
@@ -17,7 +19,7 @@ classes:
 - Sorcerer
 - Wizard
 aliases:
-- Tasha's Mind Whip
+- "Tasha's Mind Whip"
 level: 2
 school: enchantment
 ritual: false
@@ -30,7 +32,7 @@ components_vsm: [V]
 ---
 # Tasha's Mind Whip
 *2nd-level, Enchantment*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/img/tashas-mind-whip.webp#right)
+![](Compendium/spells/img/tashas-mind-whip.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -41,6 +43,6 @@ You psychically lash out at one creature you can see within range. The target mu
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 30 feet of each other when you target them.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Tasha's Cauldron of Everything p. 115*

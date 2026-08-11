@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/goblin
 aliases:
-- Goblin
+- "Goblin"
 ---
 # Goblin
 *Source: Dungeon Master's Guide p. 282*  
@@ -19,7 +20,7 @@ aliases:
 
 ### Nimble Escape
 
-You can take the [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage) or [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide) action as a bonus action on each of your turns.
+You can take the [Disengage](Rules/actions.md#Disengage) or [Hide](Rules/actions.md#Hide) action as a bonus action on each of your turns.
 
 ### Darkvision
 

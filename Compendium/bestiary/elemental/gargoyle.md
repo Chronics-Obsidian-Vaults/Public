@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gargoyle
+- "Gargoyle"
 ---
-# [Gargoyle](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/gargoyle.md)
-*Source: Monster Manual p. 140, Eberron: Rising from the Last War, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Gargoyle](Compendium/bestiary/elemental/gargoyle.md)
+*Source: Monster Manual p. 140. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
 
@@ -66,11 +67,9 @@ A gargoyle doesn't require air, food, drink, or sleep.
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Terran"
 "cr": "2"
 "traits":
@@ -88,9 +87,7 @@ A gargoyle doesn't require air, food, drink, or sleep.
     "name": "Claws"
 "source":
   - "MM"
-  - "ERLW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/gargoyle.webp"
+"image": "Compendium/bestiary/elemental/token/gargoyle.webp"
 ```
 ^statblock
 

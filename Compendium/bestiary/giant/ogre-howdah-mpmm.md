@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -12,12 +13,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre Howdah
+- "Ogre Howdah"
 ---
-# [Ogre Howdah](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/ogre-howdah-mpmm.md)
+# [Ogre Howdah](Compendium/bestiary/giant/ogre-howdah-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 
-The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/goblin.md) into battle, or perhaps [kobolds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/kobold.md) or [deep gnomes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/deep-gnome-svirfneblin.md), but they might also transport other Small folk.
+The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](Compendium/bestiary/humanoid/goblin.md) into battle, or perhaps [kobolds](Compendium/bestiary/humanoid/kobold.md) or [deep gnomes](Compendium/bestiary/humanoid/deep-gnome-svirfneblin.md), but they might also transport other Small folk.
 
 ## Ogres of War
 
@@ -29,8 +30,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -42,8 +42,9 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"gear":
+  - "[mace](Compendium/items/mace.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "traits":
@@ -61,7 +62,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/ogre-howdah-mpmm.webp"
+"image": "Compendium/bestiary/giant/token/ogre-howdah-mpmm.webp"
 ```
 ^statblock
 

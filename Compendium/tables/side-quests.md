@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Side Quests
+- "Side Quests"
 ---
 # Side Quests
 *Source: Dungeon Master's Guide p. 81* 

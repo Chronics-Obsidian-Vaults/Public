@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Mizzium Mortar"
 item_type: 
 item_subtype: 

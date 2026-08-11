@@ -7,7 +7,7 @@ tags:
 - source/domain/order
 - source/subclass/cleric/order
 aliases:
-- Order Domain
+- "Order Domain"
 ---
 # Order Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,16 +44,17 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/order-cleric.webp#right)
 
-## Class Features
-
-### Order Domain (Level 1)
-
-The Order Domain represents discipline, as well as devotion to a society or an institution and strict obedience to the laws governing it. On Ravnica, the domain is favored by clerics of the Azorius Senate, who use it to maintain and enforce the law, and of the Orzhov Syndicate, who exploit law and order for their personal gain. On other worlds, gods who grant access to this domain include Bane, Tyr, [Majere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-majere-phb.md), [Erathis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dawn-war-erathis-dmg.md), [Pholtus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-pholtus.md), [Wee Jas](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-wee-jas.md), Aureon, [Maglubiyet](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/nonhuman-maglubiyet.md), [Nuada](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/celtic-nuada.md), [Athena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-athena.md), [Anubis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/egyptian-anubis.md), [Forseti](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/norse-forseti.md), and [Asmodeus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dawn-war-asmodeus-dmg.md).
+The Order Domain represents discipline, as well as devotion to a society or an institution and strict obedience to the laws governing it. On Ravnica, the domain is favored by clerics of the Azorius Senate, who use it to maintain and enforce the law, and of the Orzhov Syndicate, who exploit law and order for their personal gain. On other worlds, gods who grant access to this domain include Bane, Tyr, [Majere](Compendium/deities/dragonlance-majere-phb.md), [Erathis](Compendium/deities/dawn-war-erathis-dmg.md), [Pholtus](Compendium/deities/greyhawk-pholtus.md), [Wee Jas](Compendium/deities/greyhawk-wee-jas.md), Aureon, [Maglubiyet](Compendium/deities/nonhuman-maglubiyet.md), [Nuada](Compendium/deities/celtic-nuada.md), [Athena](Compendium/deities/greek-athena.md), [Anubis](Compendium/deities/egyptian-anubis.md), [Forseti](Compendium/deities/norse-forseti.md), and [Asmodeus](Compendium/deities/dawn-war-asmodeus-dmg.md).
 
 The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of order are typically concerned with how things are done, rather than whether an action's results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their guilds or deities.
 
 Law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -61,16 +62,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md), [heroism](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heroism.md) |
-| 3rd | [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md), [zone of truth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/zone-of-truth.md) |
-| 5th | [mass healing word](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-healing-word.md), [slow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/slow.md) |
-| 7th | [compulsion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compulsion.md), [locate creature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-creature.md) |
-| 9th | [commune](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune.md), [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md) |
+| 1st | [command](Compendium/spells/command.md), [heroism](Compendium/spells/heroism.md) |
+| 3rd | [hold person](Compendium/spells/hold-person.md), [zone of truth](Compendium/spells/zone-of-truth.md) |
+| 5th | [mass healing word](Compendium/spells/mass-healing-word.md), [slow](Compendium/spells/slow.md) |
+| 7th | [compulsion](Compendium/spells/compulsion.md), [locate creature](Compendium/spells/locate-creature.md) |
+| 9th | [commune](Compendium/spells/commune.md), [dominate person](Compendium/spells/dominate-person.md) |
 ^order-domain-spells
 
 ### Bonus Proficiencies (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation) or [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) skill (your choice).
+When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the [Intimidation](Rules/skills.md#Intimidation) or [Persuasion](Rules/skills.md#Persuasion) skill (your choice).
 
 ### Voice of Authority (Level 1)
 
@@ -82,7 +83,7 @@ If the spell targets more than one ally, you choose the ally who can make the at
 
 Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
-As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) by you until the end of your next turn or until the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) creature takes any damage. You can also cause any of the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) creatures to drop what they are holding when they fail the saving throw.
+As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [charmed](Rules/conditions.md#Charmed) by you until the end of your next turn or until the [charmed](Rules/conditions.md#Charmed) creature takes any damage. You can also cause any of the [charmed](Rules/conditions.md#Charmed) creatures to drop what they are holding when they fail the saving throw.
 
 ### Embodiment of the Law (Level 6)
 
@@ -98,7 +99,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ### Blessed Strikes (Level 8)
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

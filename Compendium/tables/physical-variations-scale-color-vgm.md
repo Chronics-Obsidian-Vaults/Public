@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Scale Color
+- "Physical Variations; Scale Color"
 ---
 # Physical Variations; Scale Color
 *Source: Volo's Guide to Monsters p. 66* 

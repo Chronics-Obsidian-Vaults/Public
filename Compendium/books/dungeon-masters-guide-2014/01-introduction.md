@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Introduction
+- "Introduction"
 ---
 # Introduction
 *Source: Dungeon Master's Guide (2014), p. 4* 
@@ -25,6 +25,8 @@ A Dungeon Master gets to wear many hats. As the architect of a campaign, the DM 
 Inventing, writing, storytelling, improvising, acting, refereeing-every DM handles these roles differently, and you'll probably enjoy some more than others. It helps to remember that Dungeons & Dragons is a hobby, and being the DM should be fun. Focus on the aspects you enjoy and downplay the rest. For example, if you don't like creating your own adventures, you can use published ones. You can also lean on the other players to help you with rules mastery and world-building.
 
 The D&D rules help you and the other players have a good time, but the rules aren't in charge. You're the DM, and you are in charge of the game. That said, your goal isn't to slaughter the adventurers but to create a campaign world that revolves around their actions and decisions, and to keep your players coming back for more! If you're lucky, the events of your campaign will echo in the memories of your players long after the final game session is concluded.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/intro.webp#center)
 
 ## How to Use This Book
 

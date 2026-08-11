@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/major
-aliases: 
+aliases:
 - "Quiver of Ehlonna"
 item_type: 
 item_subtype: 
@@ -14,11 +15,11 @@ attunement: none
 ---
 # Quiver of Ehlonna
 *Wondrous item, major, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/quiver-of-ehlonna.webp#right)
+![](Compendium/items/img/quiver-of-ehlonna.webp#right)
 
 - **Weight**: 2.0 lbs.
 
-Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty [arrows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arrow.md), [bolts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crossbow-bolt.md), or similar objects. The midsize compartment holds up to eighteen [javelins](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/javelin.md) or similar objects. The longest compartment holds up to six long objects, such as bows, [quarterstaffs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/quarterstaff.md), or [spears](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spear.md).
+Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty [arrows](Compendium/items/arrow.md), [bolts](Compendium/items/crossbow-bolt.md), or similar objects. The midsize compartment holds up to eighteen [javelins](Compendium/items/javelin.md) or similar objects. The longest compartment holds up to six long objects, such as bows, [quarterstaffs](Compendium/items/quarterstaff.md), or [spears](Compendium/items/spear.md).
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 

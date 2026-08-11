@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Arcane Cannon"
 item_type: 
 item_subtype: 
@@ -38,6 +39,6 @@ The cannon shoots a ball of lightning to a point you can see within 1,200 feet o
 
 ## Poison Spray
 
-The cannon expels poison gas in a 60-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, the creature takes 22 (`4d10`) poison damage and is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) for 1 minute. On a successful save, the creature takes half as much damage and isn't [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned). A creature [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+The cannon expels poison gas in a 60-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failed save, the creature takes 22 (`4d10`) poison damage and is [poisoned](Rules/conditions.md#Poisoned) for 1 minute. On a successful save, the creature takes half as much damage and isn't [poisoned](Rules/conditions.md#Poisoned). A creature [poisoned](Rules/conditions.md#Poisoned) in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 *Source: Explorer's Guide to Wildemount p. 265*

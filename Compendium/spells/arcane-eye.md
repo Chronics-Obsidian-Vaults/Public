@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/dimir-operative
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/wizard
+- source/spell/feat/mark-of-detection
+- source/spell/feat/mark-of-scribing
 - source/spell/level/4th-level
 - source/spell/optfeature/visions-of-distant-realms
 - source/spell/school/divination
@@ -15,10 +17,7 @@ tags:
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/knowledge-domain
 - source/spell/subclass/swarmkeeper
-- source/spell/subrace/gnome-mark-of-scribing
-- source/spell/subrace/half-elf-mark-of-detection
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Cleric (Arcana Domain)
 - Cleric (Knowledge Domain)
@@ -27,7 +26,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases:
-- Arcane Eye
+- "Arcane Eye"
 level: 4
 school: divination
 ritual: false
@@ -49,10 +48,10 @@ components_vsm: [V, S, M]
 
 You create an invisible, magical eye within range that hovers in the air for the duration.
 
-You mentally receive visual information from the eye, which has normal vision and [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to 30 feet. The eye can look in every direction.
+You mentally receive visual information from the eye, which has normal vision and [darkvision](Rules/senses.md#Darkvision) out to 30 feet. The eye can look in every direction.
 
 As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric (Knowledge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-knowledge-domain.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger (Swarmkeeper)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Ranger (Swarmkeeper)](Compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

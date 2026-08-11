@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/dmg
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Fly
+- "Giant Fly"
 ---
-# [Giant Fly](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-fly-dmg.md)
+# [Giant Fly](Compendium/bestiary/beast/giant-fly-dmg.md)
 *Source: Dungeon Master's Guide p. 169*  
 
 ```statblock
@@ -31,11 +32,10 @@ aliases:
   - !!int "10"
   - !!int "3"
 "speed": "30 ft., fly 60 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": ""
 "source":
   - "DMG"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-fly-dmg.webp"
+"image": "Compendium/bestiary/beast/token/giant-fly-dmg.webp"
 ```
 ^statblock

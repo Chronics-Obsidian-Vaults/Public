@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greyhawk
 - source/domain/death
-aliases: 
-- Incabulos
+aliases:
+- "Incabulos"
 ---
 # Incabulos
 *Source: Player's Handbook p. 295* 

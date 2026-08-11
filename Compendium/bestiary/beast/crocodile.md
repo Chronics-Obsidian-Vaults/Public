@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crocodile
+- "Crocodile"
 ---
-# [Crocodile](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/crocodile.md)
-*Source: Monster Manual p. 320, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Crocodile](Compendium/bestiary/beast/crocodile.md)
+*Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Crocodile"
@@ -35,7 +36,7 @@ aliases:
   - !!int "5"
 "speed": "20 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": ""
@@ -45,14 +46,13 @@ aliases:
     "name": "Hold Breath"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7\
-      \ (1d10 + 2) piercing damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 12). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ (1d10 + 2) piercing damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 12). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the crocodile can't bite another target"
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/crocodile.webp"
+"image": "Compendium/bestiary/beast/token/crocodile.webp"
 ```
 ^statblock
 

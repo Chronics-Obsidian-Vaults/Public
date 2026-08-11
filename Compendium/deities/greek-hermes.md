@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greek
 - source/domain/trickery
-aliases: 
-- Hermes
+aliases:
+- "Hermes"
 ---
 # Hermes
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

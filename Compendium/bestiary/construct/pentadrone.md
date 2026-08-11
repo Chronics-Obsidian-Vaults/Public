@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pentadrone
+- "Pentadrone"
 ---
-# [Pentadrone](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/pentadrone.md)
+# [Pentadrone](Compendium/bestiary/construct/pentadrone.md)
 *Source: Monster Manual p. 226*  
 
 Pentadrones oversee Mechanus's worker populace and can improvise in response to new situations.
@@ -67,10 +68,9 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 14"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 14"
 "languages": "Modron"
 "cr": "2"
 "traits":
@@ -87,12 +87,12 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
       \ + 2) bludgeoning damage."
     "name": "Arm"
   - "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\
-      \ must succeed on a DC 11 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ must succeed on a DC 11 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Paralysis Gas (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/pentadrone.webp"
+"image": "Compendium/bestiary/construct/token/pentadrone.webp"
 ```
 ^statblock

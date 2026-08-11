@@ -6,14 +6,14 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/nature
-aliases: 
-- Mielikki
-- Our Lady of the Forest
-- The Forest Queen
+aliases:
+- "Mielikki"
+- "Our Lady of the Forest"
+- "The Forest Queen"
 ---
 # Mielikki
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-mielikki.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-mielikki.webp#symbol)
 
 - **Alternate Names**: Our Lady of the Forest, The Forest Queen
 - **Alignment**: Neutral Good

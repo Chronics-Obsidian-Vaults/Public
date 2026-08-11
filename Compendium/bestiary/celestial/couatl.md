@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -13,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Couatl
+- "Couatl"
 ---
-# [Couatl](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/couatl.md)
-*Source: Monster Manual p. 43, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Couatl](Compendium/bestiary/celestial/couatl.md)
+*Source: Monster Manual p. 43. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
 
@@ -58,26 +59,19 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
   - "charisma": !!int "6"
 "damage_resistances": "radiant"
 "damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 15"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 15"
 "languages": "all, telepathy 120 ft."
 "cr": "4"
 "traits":
   - "desc": "The couatl's spellcasting ability is Charisma (spell save DC 14). It\
       \ can innately cast the following spells, requiring only verbal components:\n\
-      \n**At will:** [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md)\n\
-      \n**3/day each:** [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md),\
-      \ [create food and water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-food-and-water.md),\
-      \ [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md),\
-      \ [protection from poison](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-poison.md),\
-      \ [sanctuary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sanctuary.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md)\n\
-      \n**1/day each:** [dream](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dream.md),\
-      \ [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)"
+      \n**At will:** [detect evil and good](Compendium/spells/detect-evil-and-good.md),\
+      \ [detect magic](Compendium/spells/detect-magic.md), [detect thoughts](Compendium/spells/detect-thoughts.md)\n\
+      \n**3/day each:** [bless](Compendium/spells/bless.md), [create food and water](Compendium/spells/create-food-and-water.md),\
+      \ [cure wounds](Compendium/spells/cure-wounds.md), [lesser restoration](Compendium/spells/lesser-restoration.md),\
+      \ [protection from poison](Compendium/spells/protection-from-poison.md), [sanctuary](Compendium/spells/sanctuary.md),\
+      \ [shield](Compendium/spells/shield.md)\n\n**1/day each:** [dream](Compendium/spells/dream.md),\
+      \ [greater restoration](Compendium/spells/greater-restoration.md), [scrying](Compendium/spells/scrying.md)"
     "name": "Innate Spellcasting"
   - "desc": "The couatl's weapon attacks are magical."
     "name": "Magic Weapons"
@@ -87,13 +81,13 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 "actions":
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8\
       \ (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 24 hours. Until this poison ends, the target is [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious).\
+      \ saving throw or be [poisoned](Rules/conditions.md#Poisoned) for 24 hours.\
+      \ Until this poison ends, the target is [unconscious](Rules/conditions.md#Unconscious).\
       \ Another creature can use an action to shake the target awake."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one Medium or smaller\
-      \ creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 15). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 15). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the couatl can't constrict another target."
     "name": "Constrict"
   - "desc": "The couatl magically polymorphs into a humanoid or beast that has a challenge\
@@ -108,9 +102,7 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
     "name": "Change Shape"
 "source":
   - "MM"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/couatl.webp"
+"image": "Compendium/bestiary/celestial/token/couatl.webp"
 ```
 ^statblock
 

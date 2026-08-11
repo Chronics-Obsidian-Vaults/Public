@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Halfling Tables; Halfling Bonds
+- "Halfling Tables; Halfling Bonds"
 ---
 # Halfling Tables; Halfling Bonds
 *Source: Mordenkainen's Tome of Foes p. 105* 

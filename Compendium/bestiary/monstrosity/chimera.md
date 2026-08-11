@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chimera
+- "Chimera"
 ---
-# [Chimera](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/chimera.md)
+# [Chimera](Compendium/bestiary/monstrosity/chimera.md)
 *Source: Monster Manual p. 39. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
@@ -49,10 +50,9 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
   - !!int "10"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 18"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 18"
 "languages": "understands Draconic but can't speak"
 "cr": "6"
 "actions":
@@ -75,7 +75,7 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/chimera.webp"
+"image": "Compendium/bestiary/monstrosity/token/chimera.webp"
 ```
 ^statblock
 

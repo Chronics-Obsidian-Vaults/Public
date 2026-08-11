@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/optional-feature/ed
 aliases:
-- Elemental Attunement
+- "Elemental Attunement"
 ---
 # Elemental Attunement
 *Source: Player's Handbook p. 81*  

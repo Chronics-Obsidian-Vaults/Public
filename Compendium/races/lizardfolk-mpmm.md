@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/lizardfolk
 aliases:
-- Lizardfolk
+- "Lizardfolk"
 ---
 # Lizardfolk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 26*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/lizardfolk.webp#right)
+![](Compendium/races/img/lizardfolk.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -39,7 +40,7 @@ You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth), or [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival).
+Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [Animal Handling](Rules/skills.md#Animal%20Handling), [Medicine](Rules/skills.md#Medicine), [Nature](Rules/skills.md#Nature), [Perception](Rules/skills.md#Perception), [Stealth](Rules/skills.md#Stealth), or [Survival](Rules/skills.md#Survival).
 
 ## Description
 

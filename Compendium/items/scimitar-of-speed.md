@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
@@ -8,7 +9,7 @@ tags:
 - source/item/tier/major
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Scimitar of Speed"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -16,11 +17,11 @@ rarity: very-rare
 attunement: required
 ---
 # Scimitar of Speed
-*Weapon ([scimitar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scimitar.md)), major, very rare (requires attunement)*  
+*Weapon ([scimitar](Compendium/items/scimitar.md)), major, very rare (requires attunement)*  
 
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.

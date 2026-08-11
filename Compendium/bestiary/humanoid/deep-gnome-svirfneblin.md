@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deep Gnome (Svirfneblin)
+- "Deep Gnome (Svirfneblin)"
 ---
-# [Deep Gnome (Svirfneblin)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/deep-gnome-svirfneblin.md)
+# [Deep Gnome (Svirfneblin)](Compendium/bestiary/humanoid/deep-gnome-svirfneblin.md)
 *Source: Monster Manual p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Deep gnomes, or svirfneblin, live far below the world's surface in twisting warrens and sculpted caverns. They survive by virtue of their stealth, cleverness, and tenacity. Their gray skin allows them to blend in with surrounding stonework. They are also surprisingly heavy and strong for their size. An average adult weighs 100 to 120 pounds and stands 3 feet tall.
@@ -38,7 +39,7 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 "subtype": "gnome"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md)"
 "hp": !!int "16"
 "hit_dice": "3d6 + 6"
 "modifier": !!int "2"
@@ -51,25 +52,25 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
   - !!int "9"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)"
+  - "name": "[Investigation](Rules/skills.md#Investigation)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 12"
+"gear":
+  - "[war pick](Compendium/items/war-pick.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 12"
 "languages": "Gnomish, Terran, Undercommon"
 "cr": "1/2"
 "traits":
   - "desc": "The gnome's innate spellcasting ability is Intelligence (spell save DC\
       \ 11). It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md)\
-      \ (self only)\n\n**1/day each:** [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md),\
-      \ [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)"
+      \n**At will:** [nondetection](Compendium/spells/nondetection.md) (self only)\n\
+      \n**1/day each:** [blindness/deafness](Compendium/spells/blindness-deafness.md),\
+      \ [blur](Compendium/spells/blur.md), [disguise self](Compendium/spells/disguise-self.md)"
     "name": "Innate Spellcasting"
-  - "desc": "The gnome has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The gnome has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
   - "desc": "The gnome has advantage on Intelligence, Wisdom, and Charisma saving\
@@ -81,13 +82,13 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
     "name": "War Pick"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one creature. *Hit:*\
       \ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution\
-      \ saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success"
+      \ saving throw or be [poisoned](Rules/conditions.md#Poisoned) for 1 minute.\
+      \ The target can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success"
     "name": "Poisoned Dart"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/deep-gnome-svirfneblin.webp"
+"image": "Compendium/bestiary/humanoid/token/deep-gnome-svirfneblin.webp"
 ```
 ^statblock
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/11
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Efreeti
+- "Efreeti"
 ---
-# [Efreeti](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/efreeti.md)
-*Source: Monster Manual p. 145, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Efreeti](Compendium/bestiary/elemental/efreeti.md)
+*Source: Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
 
@@ -90,23 +91,21 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "damage_immunities": "fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 12"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 12"
 "languages": "Ignan"
 "cr": "11"
 "traits":
   - "desc": "The efreeti's innate spellcasting ability is Charisma (spell save DC\
       \ 15, +7 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md)\n\
-      \n**3/day each:** [enlarge/reduce](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enlarge-reduce.md),\
-      \ [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md)\n\
-      \n**1/day each:** [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md)\
-      \ ([fire elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/fire-elemental.md)\
-      \ only), [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md)"
+      \ requiring no material components:\n\n**At will:** [detect magic](Compendium/spells/detect-magic.md)\n\
+      \n**3/day each:** [enlarge/reduce](Compendium/spells/enlarge-reduce.md), [tongues](Compendium/spells/tongues.md)\n\
+      \n**1/day each:** [conjure elemental](Compendium/spells/conjure-elemental.md)\
+      \ ([fire elemental](Compendium/bestiary/elemental/fire-elemental.md) only),\
+      \ [gaseous form](Compendium/spells/gaseous-form.md), [invisibility](Compendium/spells/invisibility.md),\
+      \ [major image](Compendium/spells/major-image.md), [plane shift](Compendium/spells/plane-shift.md),\
+      \ [wall of fire](Compendium/spells/wall-of-fire.md)"
     "name": "Innate Spellcasting"
   - "desc": "If the efreeti dies, its body disintegrates in a flash of fire and puff\
       \ of smoke, leaving behind only equipment the efreeti was wearing or carrying."
@@ -122,9 +121,7 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
     "name": "Hurl Flame"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/efreeti.webp"
+"image": "Compendium/bestiary/elemental/token/efreeti.webp"
 ```
 ^statblock
 

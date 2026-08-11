@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/attunement/required
 - source/item/rarity/uncommon
 - source/item/shield/
-aliases: 
+aliases:
 - "Boomerang Shield"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ rarity: uncommon
 attunement: required
 ---
 # Boomerang Shield
-*Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), uncommon (requires attunement)*  
+*Armor ([shield](Compendium/items/shield.md)), uncommon (requires attunement)*  
 
 
 - **Armor Class**: 2

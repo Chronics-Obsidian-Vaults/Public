@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/dwarven
 - source/domain/nature
-aliases: 
-- Thard Harr
+aliases:
+- "Thard Harr"
 ---
 # Thard Harr
 *Source: Mordenkainen's Tome of Foes p. 73* 

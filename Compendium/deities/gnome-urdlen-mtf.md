@@ -7,8 +7,8 @@ tags:
 - source/deity/gnome
 - source/domain/death
 - source/domain/war
-aliases: 
-- Urdlen
+aliases:
+- "Urdlen"
 ---
 # Urdlen
 *Source: Mordenkainen's Tome of Foes p. 112* 

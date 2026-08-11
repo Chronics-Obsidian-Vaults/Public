@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/druid/land
 aliases:
-- Circle of the Land
+- "Circle of the Land"
 ---
 # Circle of the Land
 *[Druid](./druid.md): Druid Circle*  
@@ -43,12 +43,9 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Circle of the Land (Level 2)
-
 The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites.
+
+## Subclass Features
 
 ### Bonus Cantrip (Level 2)
 
@@ -70,91 +67,91 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md), [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md) |
-| 5th | [sleet storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleet-storm.md), [slow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/slow.md) |
-| 7th | [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md), [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md) |
-| 9th | [commune with nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune-with-nature.md), [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md) |
+| 3rd | [hold person](Compendium/spells/hold-person.md), [spike growth](Compendium/spells/spike-growth.md) |
+| 5th | [sleet storm](Compendium/spells/sleet-storm.md), [slow](Compendium/spells/slow.md) |
+| 7th | [freedom of movement](Compendium/spells/freedom-of-movement.md), [ice storm](Compendium/spells/ice-storm.md) |
+| 9th | [commune with nature](Compendium/spells/commune-with-nature.md), [cone of cold](Compendium/spells/cone-of-cold.md) |
 ^arctic
 
 **Coast**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md), [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md) |
-| 5th | [water breathing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-breathing.md), [water walk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-walk.md) |
-| 7th | [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md), [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md) |
-| 9th | [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md), [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md) |
+| 3rd | [mirror image](Compendium/spells/mirror-image.md), [misty step](Compendium/spells/misty-step.md) |
+| 5th | [water breathing](Compendium/spells/water-breathing.md), [water walk](Compendium/spells/water-walk.md) |
+| 7th | [control water](Compendium/spells/control-water.md), [freedom of movement](Compendium/spells/freedom-of-movement.md) |
+| 9th | [conjure elemental](Compendium/spells/conjure-elemental.md), [scrying](Compendium/spells/scrying.md) |
 ^coast
 
 **Desert**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md), [silence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silence.md) |
-| 5th | [create food and water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-food-and-water.md), [protection from energy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-energy.md) |
-| 7th | [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md), [hallucinatory terrain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hallucinatory-terrain.md) |
-| 9th | [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md), [wall of stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-stone.md) |
+| 3rd | [blur](Compendium/spells/blur.md), [silence](Compendium/spells/silence.md) |
+| 5th | [create food and water](Compendium/spells/create-food-and-water.md), [protection from energy](Compendium/spells/protection-from-energy.md) |
+| 7th | [blight](Compendium/spells/blight.md), [hallucinatory terrain](Compendium/spells/hallucinatory-terrain.md) |
+| 9th | [insect plague](Compendium/spells/insect-plague.md), [wall of stone](Compendium/spells/wall-of-stone.md) |
 ^desert
 
 **Forest**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [barkskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/barkskin.md), [spider climb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spider-climb.md) |
-| 5th | [call lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/call-lightning.md), [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md) |
-| 7th | [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md), [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md) |
-| 9th | [commune with nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune-with-nature.md), [tree stride](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tree-stride.md) |
+| 3rd | [barkskin](Compendium/spells/barkskin.md), [spider climb](Compendium/spells/spider-climb.md) |
+| 5th | [call lightning](Compendium/spells/call-lightning.md), [plant growth](Compendium/spells/plant-growth.md) |
+| 7th | [divination](Compendium/spells/divination.md), [freedom of movement](Compendium/spells/freedom-of-movement.md) |
+| 9th | [commune with nature](Compendium/spells/commune-with-nature.md), [tree stride](Compendium/spells/tree-stride.md) |
 ^forest
 
 **Grassland**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md), [pass without trace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pass-without-trace.md) |
-| 5th | [daylight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/daylight.md), [haste](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/haste.md) |
-| 7th | [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md), [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md) |
-| 9th | [dream](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dream.md), [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md) |
+| 3rd | [invisibility](Compendium/spells/invisibility.md), [pass without trace](Compendium/spells/pass-without-trace.md) |
+| 5th | [daylight](Compendium/spells/daylight.md), [haste](Compendium/spells/haste.md) |
+| 7th | [divination](Compendium/spells/divination.md), [freedom of movement](Compendium/spells/freedom-of-movement.md) |
+| 9th | [dream](Compendium/spells/dream.md), [insect plague](Compendium/spells/insect-plague.md) |
 ^grassland
 
 **Mountain**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [spider climb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spider-climb.md), [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md) |
-| 5th | [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md), [meld into stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/meld-into-stone.md) |
-| 7th | [stone shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stone-shape.md), [stoneskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stoneskin.md) |
-| 9th | [passwall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/passwall.md), [wall of stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-stone.md) |
+| 3rd | [spider climb](Compendium/spells/spider-climb.md), [spike growth](Compendium/spells/spike-growth.md) |
+| 5th | [lightning bolt](Compendium/spells/lightning-bolt.md), [meld into stone](Compendium/spells/meld-into-stone.md) |
+| 7th | [stone shape](Compendium/spells/stone-shape.md), [stoneskin](Compendium/spells/stoneskin.md) |
+| 9th | [passwall](Compendium/spells/passwall.md), [wall of stone](Compendium/spells/wall-of-stone.md) |
 ^mountain
 
 **Swamp**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md), [Melf's acid arrow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/melfs-acid-arrow.md) |
-| 5th | [water walk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-walk.md), [stinking cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stinking-cloud.md) |
-| 7th | [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md), [locate creature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-creature.md) |
-| 9th | [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md), [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md) |
+| 3rd | [darkness](Compendium/spells/darkness.md), [Melf's acid arrow](Compendium/spells/melfs-acid-arrow.md) |
+| 5th | [water walk](Compendium/spells/water-walk.md), [stinking cloud](Compendium/spells/stinking-cloud.md) |
+| 7th | [freedom of movement](Compendium/spells/freedom-of-movement.md), [locate creature](Compendium/spells/locate-creature.md) |
+| 9th | [insect plague](Compendium/spells/insect-plague.md), [scrying](Compendium/spells/scrying.md) |
 ^swamp
 
 **Underdark**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [spider climb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spider-climb.md), [web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md) |
-| 5th | [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md), [stinking cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stinking-cloud.md) |
-| 7th | [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md), [stone shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stone-shape.md) |
-| 9th | [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md), [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md) |
+| 3rd | [spider climb](Compendium/spells/spider-climb.md), [web](Compendium/spells/web.md) |
+| 5th | [gaseous form](Compendium/spells/gaseous-form.md), [stinking cloud](Compendium/spells/stinking-cloud.md) |
+| 7th | [greater invisibility](Compendium/spells/greater-invisibility.md), [stone shape](Compendium/spells/stone-shape.md) |
+| 9th | [cloudkill](Compendium/spells/cloudkill.md), [insect plague](Compendium/spells/insect-plague.md) |
 ^underdark
 
 ### Land's Stride (Level 6)
 
 Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md) spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such as those created by the [entangle](Compendium/spells/entangle.md) spell.
 
 ### Nature's Ward (Level 10)
 
-When you reach 10th level, you can't be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) by elementals or fey, and you are immune to poison and disease.
+When you reach 10th level, you can't be [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened) by elementals or fey, and you are immune to poison and disease.
 
 ### Nature's Sanctuary (Level 14)
 

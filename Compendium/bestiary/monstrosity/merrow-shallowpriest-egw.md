@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merrow Shallowpriest
+- "Merrow Shallowpriest"
 ---
-# [Merrow Shallowpriest](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/merrow-shallowpriest-egw.md)
+# [Merrow Shallowpriest](Compendium/bestiary/monstrosity/merrow-shallowpriest-egw.md)
 *Source: Explorer's Guide to Wildemount p. 294*  
 
 Some of the many merrow that dwell in the watery shadows of the Menagerie Coast learn to harness the magical aspects of the elements. Often working as guides leading merrow hunting parties, some of these shallowpriests rise to become powerful leaders, inspiring their clans to terrorize coastal communities and passing ships.
@@ -38,25 +39,21 @@ While most shallowpriests do not bind themselves in the service of a specific de
   - !!int "16"
   - !!int "9"
 "speed": "10 ft., swim 40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Abyssal, Aquan"
 "cr": "4"
 "traits":
   - "desc": "The merrow is a 6th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 13, +5 to hit with spell attacks). The merrow has the following\
-      \ druid spells prepared:\n\n**Cantrips (at will):** [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [shocking grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md)\n\
-      \n**1st level (4 slots):** [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md),\
-      \ [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md)\n\
-      \n**2nd level (3 slots):** [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md),\
-      \ [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md)\n\
-      \n**3rd level (3 slots):** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md)\
-      \ (see \"Actions\" below), [sleet storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleet-storm.md)"
+      \ druid spells prepared:\n\n**Cantrips (at will):** [druidcraft](Compendium/spells/druidcraft.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md), [shocking grasp](Compendium/spells/shocking-grasp.md)\n\
+      \n**1st level (4 slots):** [cure wounds](Compendium/spells/cure-wounds.md),\
+      \ [fog cloud](Compendium/spells/fog-cloud.md), [thunderwave](Compendium/spells/thunderwave.md)\n\
+      \n**2nd level (3 slots):** [hold person](Compendium/spells/hold-person.md),\
+      \ [mirror image](Compendium/spells/mirror-image.md), [misty step](Compendium/spells/misty-step.md)\n\
+      \n**3rd level (3 slots):** [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [lightning bolt](Compendium/spells/lightning-bolt.md) (see \"Actions\" below),\
+      \ [sleet storm](Compendium/spells/sleet-storm.md)"
     "name": "Spellcasting"
   - "desc": "The merrow can breathe air and water."
     "name": "Amphibious"
@@ -72,6 +69,6 @@ While most shallowpriests do not bind themselves in the service of a specific de
     "name": "Lightning Bolt (3rd-Level Spell; Requires a Spell Slot)"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/merrow-shallowpriest-egw.webp"
+"image": "Compendium/bestiary/monstrosity/token/merrow-shallowpriest-egw.webp"
 ```
 ^statblock

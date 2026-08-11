@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/rarity/common
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Ear Horn of Hearing"
 item_type: 
 item_subtype: 
@@ -17,6 +18,6 @@ attunement: none
 
 
 
-While held up to your ear, this horn suppresses the effects of the [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened) condition on you, allowing you to hear normally.
+While held up to your ear, this horn suppresses the effects of the [deafened](Rules/conditions.md#Deafened) condition on you, allowing you to hear normally.
 
 *Source: Xanathar's Guide to Everything p. 137*

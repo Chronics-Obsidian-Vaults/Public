@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Wildemount Bestiary
+- "Wildemount Bestiary"
 ---
 # Wildemount Bestiary
 *Source: Explorer's Guide to Wildemount, p. 281* 
 
-![Adventurers confront a fie...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/141-07-01.webp#center "Adventurers confront a fiendish udaak that haunts the edges of civilization in Eastern Wynandir")
+![Adventurers confront a fiendish udaak that haunts the edges of civilization in Eastern Wynandir](Compendium/books/explorers-guide-to-wildemount/img/141-07-01.webp#center)
 
 > [!quote] A quote from Unknown Righteous Brand soldier  
 > 
@@ -51,26 +51,26 @@ Appendix B of the Monster Manual contains stat blocks that can be used to repres
 
 The stat blocks are presented in alphabetical order.
 
-- [Aeorian Absorber](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/aeorian-absorber-egw.md)  
-- [Aeorian Nullifier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/aeorian-nullifier-egw.md)  
-- [Aeorian Reverser](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/aeorian-reverser-egw.md)  
-- [Blood Hunter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/blood-hunter-egw.md)  
-- [Bristled Moorbounder](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/bristled-moorbounder-egw.md)  
-- [Core Spawn Crawler](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/core-spawn-crawler-egw.md)  
-- [Core Spawn Emissary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/core-spawn-emissary-egw.md)  
-- [Core Spawn Seer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/core-spawn-seer-egw.md)  
-- [Core Spawn Worm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/core-spawn-worm-egw.md)  
-- [Frost Giant Zombie](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/frost-giant-zombie-egw.md)  
-- [Frost Worm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/frost-worm-egw.md)  
-- [Gearkeeper Construct](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/gearkeeper-construct-egw.md)  
-- [Gloomstalker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/gloomstalker-egw.md)  
-- [Horizonback Tortoise](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/horizonback-tortoise-egw.md)  
-- [Husk Zombie](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/husk-zombie-egw.md)  
-- [Merrow Shallowpriest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/merrow-shallowpriest-egw.md)  
-- [Moorbounder](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/moorbounder-egw.md)  
-- [Nergaliid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nergaliid-egw.md)  
-- [Sahuagin Warlock of Uk'otoa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/sahuagin-warlock-of-ukotoa-egw.md)  
-- [Sea Fury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/sea-fury-egw.md)  
-- [Shadowghast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/shadowghast-egw.md)  
-- [Swavain Basilisk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/swavain-basilisk-egw.md)  
-- [Udaak](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/udaak-egw.md)
+- [Aeorian Absorber](Compendium/bestiary/monstrosity/aeorian-absorber-egw.md)  
+- [Aeorian Nullifier](Compendium/bestiary/monstrosity/aeorian-nullifier-egw.md)  
+- [Aeorian Reverser](Compendium/bestiary/monstrosity/aeorian-reverser-egw.md)  
+- [Blood Hunter](Compendium/bestiary/humanoid/blood-hunter-egw.md)  
+- [Bristled Moorbounder](Compendium/bestiary/beast/bristled-moorbounder-egw.md)  
+- [Core Spawn Crawler](Compendium/bestiary/aberration/core-spawn-crawler-egw.md)  
+- [Core Spawn Emissary](Compendium/bestiary/aberration/core-spawn-emissary-egw.md)  
+- [Core Spawn Seer](Compendium/bestiary/aberration/core-spawn-seer-egw.md)  
+- [Core Spawn Worm](Compendium/bestiary/aberration/core-spawn-worm-egw.md)  
+- [Frost Giant Zombie](Compendium/bestiary/undead/frost-giant-zombie-egw.md)  
+- [Frost Worm](Compendium/bestiary/monstrosity/frost-worm-egw.md)  
+- [Gearkeeper Construct](Compendium/bestiary/construct/gearkeeper-construct-egw.md)  
+- [Gloomstalker](Compendium/bestiary/monstrosity/gloomstalker-egw.md)  
+- [Horizonback Tortoise](Compendium/bestiary/monstrosity/horizonback-tortoise-egw.md)  
+- [Husk Zombie](Compendium/bestiary/undead/husk-zombie-egw.md)  
+- [Merrow Shallowpriest](Compendium/bestiary/monstrosity/merrow-shallowpriest-egw.md)  
+- [Moorbounder](Compendium/bestiary/beast/moorbounder-egw.md)  
+- [Nergaliid](Compendium/bestiary/fiend/nergaliid-egw.md)  
+- [Sahuagin Warlock of Uk'otoa](Compendium/bestiary/humanoid/sahuagin-warlock-of-ukotoa-egw.md)  
+- [Sea Fury](Compendium/bestiary/fey/sea-fury-egw.md)  
+- [Shadowghast](Compendium/bestiary/undead/shadowghast-egw.md)  
+- [Swavain Basilisk](Compendium/bestiary/monstrosity/swavain-basilisk-egw.md)  
+- [Udaak](Compendium/bestiary/fiend/udaak-egw.md)

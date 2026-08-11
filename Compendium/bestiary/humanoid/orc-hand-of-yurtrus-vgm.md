@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/2
@@ -14,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Hand of Yurtrus
+- "Orc Hand of Yurtrus"
 ---
-# [Orc Hand of Yurtrus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/orc-hand-of-yurtrus-vgm.md)
+# [Orc Hand of Yurtrus](Compendium/bestiary/humanoid/orc-hand-of-yurtrus-vgm.md)
 *Source: Volo's Guide to Monsters p. 184*  
 
 Yurtrus is the orc god of death and disease. He is a horrifying abomination covered in rot and infection, except for his perfect, smooth white hands.
@@ -45,7 +46,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "modifier": !!int "0"
@@ -58,32 +59,28 @@ In addition, orcs have special relationships with two creatures that are sometim
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+2"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+1"
-  - "name": "[Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)"
+  - "name": "[Medicine](Rules/skills.md#Medicine)"
     "desc": "+4"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+2"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "understands Common and Orc but can't speak"
 "cr": "2"
 "traits":
   - "desc": "The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). It requires no verbal components\
       \ to cast its spells. The orc has the following cleric spells prepared:\n\n\
-      **Cantrips (at will):** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mending.md),\
-      \ [resistance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/resistance.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [bane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bane.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [inflict wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/inflict-wounds.md),\
-      \ [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md)\n\
-      \n**2nd level (3 slots):** [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md),\
-      \ [silence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silence.md)"
+      **Cantrips (at will):** [guidance](Compendium/spells/guidance.md), [mending](Compendium/spells/mending.md),\
+      \ [resistance](Compendium/spells/resistance.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [bane](Compendium/spells/bane.md), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [inflict wounds](Compendium/spells/inflict-wounds.md), [protection from evil\
+      \ and good](Compendium/spells/protection-from-evil-and-good.md)\n\n**2nd level\
+      \ (3 slots):** [blindness/deafness](Compendium/spells/blindness-deafness.md),\
+      \ [silence](Compendium/spells/silence.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature that it can see."
@@ -94,7 +91,7 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Touch of the White Hand"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/orc-hand-of-yurtrus-vgm.webp"
+"image": "Compendium/bestiary/humanoid/token/orc-hand-of-yurtrus-vgm.webp"
 ```
 ^statblock
 

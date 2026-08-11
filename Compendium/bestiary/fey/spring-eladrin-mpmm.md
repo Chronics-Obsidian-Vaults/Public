@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/10
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spring Eladrin
+- "Spring Eladrin"
 ---
-# [Spring Eladrin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/spring-eladrin-mpmm.md)
+# [Spring Eladrin](Compendium/bestiary/fey/spring-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
@@ -34,7 +35,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](Rules/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Spring Eladrin (MPMM)"
@@ -56,24 +57,25 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+8"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+8"
 "damage_resistances": "psychic"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"
 "traits":
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the eladrin for 1 minute. On a successful save, the creature becomes immune\
-      \ to any eladrin's Joyful Presence for 24 hours.\n\nWhenever the eladrin deals\
-      \ damage to the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ creature, the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ creature can repeat the saving throw, ending the effect on itself on a success."
+      \ [charmed](Rules/conditions.md#Charmed) by the eladrin for 1 minute. On a successful\
+      \ save, the creature becomes immune to any eladrin's Joyful Presence for 24\
+      \ hours.\n\nWhenever the eladrin deals damage to the [charmed](Rules/conditions.md#Charmed)\
+      \ creature, the [charmed](Rules/conditions.md#Charmed) creature can repeat the\
+      \ saving throw, ending the effect on itself on a success."
     "name": "Joyful Presence"
   - "desc": "The eladrin has advantage on saving throws against spells and other magical\
       \ effects."
@@ -91,9 +93,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [Tasha's hideous laughter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-hideous-laughter.md)\n\
-      \n**1/day each:** [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)"
+      \n**At will:** [Tasha's hideous laughter](Compendium/spells/tashas-hideous-laughter.md)\n\
+      \n**1/day each:** [major image](Compendium/spells/major-image.md), [suggestion](Compendium/spells/suggestion.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -102,7 +103,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/spring-eladrin-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/spring-eladrin-mpmm.webp"
 ```
 ^statblock
 

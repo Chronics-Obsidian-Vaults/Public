@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Heavily Armored
+- "Heavily Armored"
 ---
 # Heavily Armored
 *Source: Player's Handbook p. 167*  

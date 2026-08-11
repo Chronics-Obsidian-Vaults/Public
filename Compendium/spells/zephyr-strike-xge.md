@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -11,7 +12,7 @@ classes:
 - Bard (Magical Secrets)
 - Ranger
 aliases:
-- Zephyr Strike
+- "Zephyr Strike"
 level: 1
 school: transmutation
 ritual: false
@@ -35,6 +36,6 @@ You move like the wind. Until the spell ends, your movement doesn't provoke oppo
 
 Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra `1d8` force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Xanathar's Guide to Everything p. 171*

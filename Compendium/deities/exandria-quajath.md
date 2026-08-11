@@ -7,8 +7,8 @@ tags:
 - source/deity/exandria
 - source/domain/nature
 - source/domain/war
-aliases: 
-- Quajath
+aliases:
+- "Quajath"
 ---
 # Quajath
 *Source: Explorer's Guide to Wildemount p. 32* 

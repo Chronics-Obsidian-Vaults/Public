@@ -1,22 +1,23 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/warlock
 - source/spell/feat/magic-initiate/warlock-spells
+- source/spell/feat/mark-of-warding
 - source/spell/level/1st-level
 - source/spell/school/abjuration
 - source/spell/subclass/oath-of-conquest
-- source/spell/subrace/dwarf-mark-of-warding
 - source/spell/subrace/tiefling-levistus
 classes:
 - Bard (Magical Secrets)
 - Paladin (Oath of Conquest)
 - Warlock
 aliases:
-- Armor of Agathys
+- "Armor of Agathys"
 level: 1
 school: abjuration
 ritual: false
@@ -40,6 +41,6 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Paladin (Oath of Conquest)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Paladin (Oath of Conquest)](Compendium/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE"); [Warlock](Compendium/lists/list-spells-classes-warlock.md)
 
 *Source: Player's Handbook p. 215*

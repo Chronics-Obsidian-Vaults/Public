@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/optional-feature/pb
 aliases:
-- Pact of the Talisman
+- "Pact of the Talisman"
 ---
 # Pact of the Talisman
 *Source: Tasha's Cauldron of Everything p. 71*  

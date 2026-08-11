@@ -5,20 +5,20 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Treasures
+- "Treasures"
 ---
 # Treasures
 *Source: Eberron: Rising from the Last War, p. 275* 
 
 Magic plays a vital role in the day-to-day life of Khorvaire. Common magic items are widespread, and the crystals known as dragonshards serve as the fuel of the magical economy and are used in items that amplify the powers of dragonmarks.
 
-![Khyber dragonshards glimme...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/148-5-01.webp#center "Khyber dragonshards glimmer as a dolgaunt and dolgrims try to pry open a Gatekeeper seal")
+![Khyber dragonshards glimmer as a dolgaunt and dolgrims try to pry open a Gatekeeper seal](Compendium/books/eberron-rising-from-the-last-war/img/148-5-01.webp#center)
 
 ## Dragonshards
 
 Dragonshards aren't magic items themselves but are crystals imbued with magical energy. They play a vital role in the creation of magic items and the performance of certain rituals in Eberron. Dragonshards come in three varieties, each found in a different environment.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/149-5-02.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/149-5-02.webp#center)
 
 **Eberron dragonshards** are found in shallow soil and often encased in geode-like stone shells. Eberron dragonshards can be found almost anywhere, but the most significant deposits have been discovered in jungle environments, notably Q'barra and Xen'drik. In their raw form, Eberron dragonshards are rosy crystals with crimson swirls flowing in their depths and are typically refined into a glowing powder. This dragonshard dust can be used to fuel almost any act of magic. When casting a spell, you can use Eberron dragonshard dust in place of any spell component that has a cost, unless the DM says otherwise (the dust's market value is the same as the replaced component). Eberron dragonshard dust is used in the creation of some magic items, and many powerful tools—such as the lightning rail and elemental airships—require an ongoing expenditure of Eberron dragonshards to maintain their enchantments.
 
@@ -36,31 +36,31 @@ This section presents a selection of magic items in alphabetical order. See the 
 
 Some of the magic items in this chapter are symbiotic objects created by the daelkyr. While not fully sentient, these symbiotic items are partially organic. Attuning to such an item reflects physically bonding with it. While these objects aren't evil, some people might be disturbed upon seeing your living armor or tentacle whip!
 
-- [Arcane Propulsion Arm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arcane-propulsion-arm-erlw.md)  
-- [Armblade](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/armblade-erlw.md)  
-- [Belashyrra's Beholder Crown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/belashyrras-beholder-crown-erlw.md)  
-- [Cleansing Stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cleansing-stone-erlw.md)  
-- [Docent](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/docent-erlw.md)  
-- [Dyrrn's Tentacle Whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dyrrns-tentacle-whip-erlw.md)  
-- [Earworm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/earworm-erlw.md)  
-- [Everbright Lantern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/everbright-lantern-erlw.md)  
-- [Feather Token](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/feather-token-erlw.md)  
-- [Finder's Goggles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/finders-goggles-erlw.md)  
-- [Glamerweave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/glamerweave-erlw.md)  
-- [Imbued Wood Focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/imbued-wood-focus-erlw.md)  
-- [Keycharm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/keycharm-erlw.md)  
-- [Kyrzin's Ooze](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/kyrzins-ooze-erlw.md)  
-- [Living Armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-armor-erlw.md)  
-- [Living Gloves](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-gloves-erlw.md)  
-- [Orb of Shielding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/orb-of-shielding-erlw.md)  
-- [Prosthetic Limb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/prosthetic-limb-tce.md)  
-- [Scribe's Pen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scribes-pen-erlw.md)  
-- [Shiftweave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shiftweave-erlw.md)  
-- [Speaking Stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/speaking-stone-erlw.md)  
-- [Spellshard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spellshard-erlw.md)  
-- [Ventilating Lungs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ventilating-lungs-erlw.md)  
-- [Wand Sheath](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wand-sheath-erlw.md)  
-- [Wheel of Wind and Water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wheel-of-wind-and-water-erlw.md)  
+- [Arcane Propulsion Arm](Compendium/items/arcane-propulsion-arm-erlw.md)  
+- [Armblade](Compendium/items/armblade-erlw.md)  
+- [Belashyrra's Beholder Crown](Compendium/items/belashyrras-beholder-crown-erlw.md)  
+- [Cleansing Stone](Compendium/items/cleansing-stone-erlw.md)  
+- [Docent](Compendium/items/docent-erlw.md)  
+- [Dyrrn's Tentacle Whip](Compendium/items/dyrrns-tentacle-whip-erlw.md)  
+- [Earworm](Compendium/items/earworm-erlw.md)  
+- [Everbright Lantern](Compendium/items/everbright-lantern-erlw.md)  
+- [Feather Token](Compendium/items/feather-token-erlw.md)  
+- [Finder's Goggles](Compendium/items/finders-goggles-erlw.md)  
+- [Glamerweave](Compendium/items/glamerweave-erlw.md)  
+- [Imbued Wood Focus](Compendium/items/imbued-wood-focus-erlw.md)  
+- [Keycharm](Compendium/items/keycharm-erlw.md)  
+- [Kyrzin's Ooze](Compendium/items/kyrzins-ooze-erlw.md)  
+- [Living Armor](Compendium/items/living-armor-erlw.md)  
+- [Living Gloves](Compendium/items/living-gloves-erlw.md)  
+- [Orb of Shielding](Compendium/items/orb-of-shielding-erlw.md)  
+- [Prosthetic Limb](Compendium/items/prosthetic-limb-tce.md)  
+- [Scribe's Pen](Compendium/items/scribes-pen-erlw.md)  
+- [Shiftweave](Compendium/items/shiftweave-erlw.md)  
+- [Speaking Stone](Compendium/items/speaking-stone-erlw.md)  
+- [Spellshard](Compendium/items/spellshard-erlw.md)  
+- [Ventilating Lungs](Compendium/items/ventilating-lungs-erlw.md)  
+- [Wand Sheath](Compendium/items/wand-sheath-erlw.md)  
+- [Wheel of Wind and Water](Compendium/items/wheel-of-wind-and-water-erlw.md)  
 
 ## Eldritch Machines
 
@@ -74,13 +74,13 @@ A creation forge is a spherical chamber that contains a floating obelisk. This o
 
 ### Dimensional Seal
 
-A dimensional seal is a massive stone slab covered with a complex pattern of runes and sigils. The seal projects an [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) field in a 2-mile radius. This field blocks all forms of conjuration magic and any other effect that involves teleportation or planar travel. Dimensional seals are usually found in the Eldeen Reaches and the Shadow Marches—reminders of the conflict between the Gatekeepers and the daelkyr. The techniques used to create these seals have been long lost. It's said that as a whole, the dimensional seals keep the daelkyr bound in Khyber and prevent Xoriat from becoming coterminous with Eberron. If enough of these seals are destroyed, there could be dire consequences for the world.
+A dimensional seal is a massive stone slab covered with a complex pattern of runes and sigils. The seal projects an [invisible](Rules/conditions.md#Invisible) field in a 2-mile radius. This field blocks all forms of conjuration magic and any other effect that involves teleportation or planar travel. Dimensional seals are usually found in the Eldeen Reaches and the Shadow Marches—reminders of the conflict between the Gatekeepers and the daelkyr. The techniques used to create these seals have been long lost. It's said that as a whole, the dimensional seals keep the daelkyr bound in Khyber and prevent Xoriat from becoming coterminous with Eberron. If enough of these seals are destroyed, there could be dire consequences for the world.
 
 ### Mabaran Resonator
 
 This dread device draws on the power of Mabar, infusing the dead with the malign energy of the Endless Night. While it is active, any humanoid that dies within 2 miles of the resonator reanimates 1 minute later as a zombie (see the "Monster Manual" for its stat block) under the control of the creature controlling the device.
 
-![Storm Spire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/151-5-04.webp#center)
+![Storm Spire](Compendium/books/eberron-rising-from-the-last-war/img/151-5-04.webp#center)
 
 ### Master's Call
 
@@ -88,7 +88,7 @@ While this looks like a scrap heap assembled from shattered constructs, this eld
 
 ### Spell Sink
 
-This device emanates an antimagic field (same effects as the [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md) spell) in a radius of 1 to 3 miles. The field can be activated or deactivated as an action with a touch by its controller.
+This device emanates an antimagic field (same effects as the [antimagic field](Compendium/spells/antimagic-field.md) spell) in a radius of 1 to 3 miles. The field can be activated or deactivated as an action with a touch by its controller.
 
 The form that the device takes depends on the nature of its creator. The Ashbound druids despise unnatural magic, so a spell sink created by them might be a living artifact, such as a twisted tree that consumes the magical energy around it. Conversely, a spell sink created by a mad artificer might be a massive vessel composed of dragonshards and exotic metals.
 
@@ -104,7 +104,7 @@ Thanks to dragonshards, common magic items—including the ones in "Xanathar's G
 
 ### Buying a Common Magic item
 
-In Eberron, common magic items can be found for sale in most communities. The DM determines the stock that is available, or the DM has the shoppers make a group Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check to find a shop or peddler that has the desired item in stock. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, at least 24 hours must pass before looking for the same item in that community.
+In Eberron, common magic items can be found for sale in most communities. The DM determines the stock that is available, or the DM has the shoppers make a group Intelligence ([Investigation](Rules/skills.md#Investigation)) check to find a shop or peddler that has the desired item in stock. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, at least 24 hours must pass before looking for the same item in that community.
 
 The DM sets the price of a common magic item or determines it randomly: `2d4 × 10` gp, or half as much for a consumable item such as a potion or scroll.
 
@@ -112,14 +112,14 @@ The DM sets the price of a common magic item or determines it randomly: `2d4 × 
 
 Normally, a magic item in Eberron is created using the crafting rules in the "Dungeon Master's Guide" or "Xanathar's Guide to Everything". But if you have a dragonshard, you can more easily create a common magic item.
 
-To create such an item with a dragonshard, a character must have proficiency in the tools used to create a nonmagical version of the item or proficiency in the [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana) skill. For example, a [potion of healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-healing.md) can be created by a character who has proficiency with the herbalism kit. A spellcaster can scribe a [spell scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-scroll.md) of a spell they know if they have proficiency in the [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana) skill, and they must provide all material components required for the spell. A cantrip scribed onto a scroll works as if the caster were 1st level.
+To create such an item with a dragonshard, a character must have proficiency in the tools used to create a nonmagical version of the item or proficiency in the [Arcana](Rules/skills.md#Arcana) skill. For example, a [potion of healing](Compendium/items/potion-of-healing.md) can be created by a character who has proficiency with the herbalism kit. A spellcaster can scribe a [spell scroll](Compendium/items/spell-scroll.md) of a spell they know if they have proficiency in the [Arcana](Rules/skills.md#Arcana) skill, and they must provide all material components required for the spell. A cantrip scribed onto a scroll works as if the caster were 1st level.
 
 The Creating Common Magic Items table states how much time and money you must spend to craft a common magic item with a dragonshard, which is expended in the creation process. The hours of creation can be spread over multiple days, which needn't be consecutive.
 
-![Creating Common Magic Items](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-common-magic-items-erlw.md)
+![Creating Common Magic Items](Compendium/tables/creating-common-magic-items-erlw.md)
 
 ### Crafting Complications
 
 If the DM is using the crafting rules in "Xanathar's Guide to Everything" for items that aren't common, the creation process can involve complications. Assume there's a 10 percent chance of a complication arising for every five workweeks (25 days) spent on crafting the item. "Xanathar's Guide to Everything" presents a number of possible complications, or you can use the Eberron Crafting Complications table.
 
-![Eberron Crafting Complications](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/eberron-crafting-complications-erlw.md)
+![Eberron Crafting Complications](Compendium/tables/eberron-crafting-complications-erlw.md)

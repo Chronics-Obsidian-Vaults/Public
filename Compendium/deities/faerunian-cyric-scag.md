@@ -6,14 +6,14 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/trickery
-aliases: 
-- Cyric
-- The Prince of Lies
-- The Dark Sun
+aliases:
+- "Cyric"
+- "The Prince of Lies"
+- "The Dark Sun"
 ---
 # Cyric
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-cyric.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-cyric.webp#symbol)
 
 - **Alternate Names**: The Prince of Lies, The Dark Sun
 - **Alignment**: Chaotic Evil

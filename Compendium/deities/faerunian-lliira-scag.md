@@ -6,15 +6,15 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/life
-aliases: 
-- Lliira
-- Our Lady of Joy
-- Joybringer
-- The Mistress of Revels
+aliases:
+- "Lliira"
+- "Our Lady of Joy"
+- "Joybringer"
+- "The Mistress of Revels"
 ---
 # Lliira
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-lliira.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-lliira.webp#symbol)
 
 - **Alternate Names**: Our Lady of Joy, Joybringer, The Mistress of Revels
 - **Alignment**: Chaotic Good

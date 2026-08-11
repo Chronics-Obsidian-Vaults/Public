@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quaggoth
+- "Quaggoth"
 ---
-# [Quaggoth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/quaggoth.md)
+# [Quaggoth](Compendium/bestiary/humanoid/quaggoth.md)
 *Source: Monster Manual p. 256*  
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
@@ -57,12 +58,11 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Undercommon"
 "cr": "2"
 "traits":
@@ -78,7 +78,7 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
     "name": "Claw"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/quaggoth.webp"
+"image": "Compendium/bestiary/humanoid/token/quaggoth.webp"
 ```
 ^statblock
 

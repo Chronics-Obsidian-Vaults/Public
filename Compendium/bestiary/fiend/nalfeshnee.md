@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/13
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nalfeshnee
+- "Nalfeshnee"
 ---
-# [Nalfeshnee](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/nalfeshnee.md)
-*Source: Monster Manual p. 62, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Nalfeshnee](Compendium/bestiary/fiend/nalfeshnee.md)
+*Source: Monster Manual p. 62. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The nalfeshnee is one of the most grotesque demons-a corpulent mockery of ape and boar standing twice the height of a human, with feathered wings that seem too small for its bloated body. These brutish features conceal a remarkable intelligence and cunning.
 
@@ -158,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -212,9 +213,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"
 "traits":
@@ -233,7 +233,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Claw"
   - "desc": "The nalfeshnee magically emits scintillating, multicolored light. Each\
       \ creature within 15 feet of the nalfeshnee that can see the light must succeed\
-      \ on a DC 15 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ on a DC 15 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -244,7 +244,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Teleport"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/nalfeshnee.webp"
+"image": "Compendium/bestiary/fiend/token/nalfeshnee.webp"
 ```
 ^statblock

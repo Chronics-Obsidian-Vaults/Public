@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Dwarf Names – Duergar Clan
+- "Dwarf Names – Duergar Clan"
 ---
 # Dwarf Names – Duergar Clan
 *Source: Xanathar's Guide to Everything p. 176* 

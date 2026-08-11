@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Githyanki Raiding Parties; Dragon Chance
+- "Githyanki Raiding Parties; Dragon Chance"
 ---
 # Githyanki Raiding Parties; Dragon Chance
 *Source: Mordenkainen's Tome of Foes p. 98* 

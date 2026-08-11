@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Derro
+- "Derro"
 ---
-# [Derro](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/derro-mpmm.md)
+# [Derro](Compendium/bestiary/aberration/derro-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*  
 
 > [!quote] A quote from Mordenkainen  
@@ -36,7 +37,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"
@@ -49,10 +50,11 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 7"
+"gear":
+  - "[light crossbow](Compendium/items/light-crossbow.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 7"
 "languages": "Dwarvish, Undercommon"
 "cr": "1/4"
 "traits":
@@ -60,13 +62,13 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ effects."
     "name": "Magic Resistance"
   - "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
       \ piercing damage. If the target is Medium or smaller, the derro can choose\
-      \ to deal no damage and knock it [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ to deal no damage and knock it [prone](Rules/conditions.md#Prone)."
     "name": "Hooked Spear"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
@@ -74,7 +76,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/derro-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/derro-mpmm.webp"
 ```
 ^statblock
 

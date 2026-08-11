@@ -5,31 +5,31 @@ cssclasses:
 tags:
 - source/spell/list/subclass/oathbreaker
 aliases:
-- Spells for Oathbreaker
+- "Spells for Oathbreaker"
 ---
 # Spells for Oathbreaker
 
 ## 1st Level
 
-- [Hellish Rebuke](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hellish-rebuke.md "PHB") at class level 9
-- [Inflict Wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/inflict-wounds.md "PHB") at class level 9
+- [Hellish Rebuke](Compendium/spells/hellish-rebuke.md "PHB") at class level 3
+- [Inflict Wounds](Compendium/spells/inflict-wounds.md "PHB") at class level 3
 
 ## 2nd Level
 
-- [Crown of Madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md "PHB") at class level 9
-- [Darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md "PHB") at class level 9
+- [Crown of Madness](Compendium/spells/crown-of-madness.md "PHB") at class level 5
+- [Darkness](Compendium/spells/darkness.md "PHB") at class level 5
 
 ## 3rd Level
 
-- [Animate Dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md "PHB") at class level 9
-- [Bestow Curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md "PHB") at class level 9
+- [Animate Dead](Compendium/spells/animate-dead.md "PHB") at class level 9
+- [Bestow Curse](Compendium/spells/bestow-curse.md "PHB") at class level 9
 
 ## 4th Level
 
-- [Blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md "PHB") at class level 9
-- [Confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md "PHB") at class level 9
+- [Blight](Compendium/spells/blight.md "PHB") at class level 13
+- [Confusion](Compendium/spells/confusion.md "PHB") at class level 13
 
 ## 5th Level
 
-- [Contagion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contagion.md "PHB") at class level 9
-- [Dominate Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md "PHB") at class level 9
+- [Contagion](Compendium/spells/contagion.md "PHB") at class level 17
+- [Dominate Person](Compendium/spells/dominate-person.md "PHB") at class level 17

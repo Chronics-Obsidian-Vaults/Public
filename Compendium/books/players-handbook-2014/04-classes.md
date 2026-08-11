@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/phb
 aliases:
-- Classes
+- "Classes"
 ---
 # Classes
 *Source: Player's Handbook (2014), p. 45* 
@@ -22,6 +22,6 @@ Adventurers sometimes advance in more than one class. A rogue might switch direc
 
 Twelve classes—listed in the Classes table—are found in almost every D&D world and define most typical adventurers.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/players-handbook-2014/img/ch3.webp#center)
+![](Compendium/books/players-handbook-2014/img/ch3.webp#center)
 
-![Classes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/classes-phb.md)
+![Classes](Compendium/tables/classes-phb.md)

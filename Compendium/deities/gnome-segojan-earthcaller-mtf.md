@@ -7,8 +7,8 @@ tags:
 - source/deity/gnome
 - source/domain/grave
 - source/domain/light
-aliases: 
-- Segojan Earthcaller
+aliases:
+- "Segojan Earthcaller"
 ---
 # Segojan Earthcaller
 *Source: Mordenkainen's Tome of Foes p. 112* 

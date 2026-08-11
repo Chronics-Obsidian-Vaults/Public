@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Group Infamy
+- "Group Infamy"
 ---
 # Group Infamy
 *Source: Eberron: Rising from the Last War p. 70* 

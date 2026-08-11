@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Donaar Blit'zen
+- "Donaar Blit'zen"
 ---
-# [Donaar Blit'zen](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/donaar-blitzen-ai.md)
+# [Donaar Blit'zen](Compendium/bestiary/npc/donaar-blitzen-ai.md)
 *Source: Acquisitions Incorporated p. 201*  
 
 > [!quote]  
@@ -33,7 +34,7 @@ Despite his easily massaged vanity, the dragonborn sometimes shows the occasiona
 "subtype": "dragonborn"
 "alignment": "Chaotic Good"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "-1"
@@ -49,35 +50,35 @@ Despite his easily massaged vanity, the dragonborn sometimes shows the occasiona
   - "wisdom": !!int "2"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+2"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+2"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+5"
 "damage_resistances": "acid"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+  - "[whip](Compendium/items/whip.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic, Orc"
 "cr": "3"
 "traits":
   - "desc": "Donaar is a 5th-level spellcaster. His spellcasting ability is Charisma\
       \ (spell save DC 13, +5 to hit with spell attacks). He has the following paladin\
-      \ spells prepared:\n\n**1st level (4 slots):** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [compelled duel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compelled-duel.md),\
-      \ [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [wrathful smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wrathful-smite.md)\n\
-      \n**2nd level (2 slots):** [aid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aid.md),\
-      \ [branding smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/branding-smite.md),\
-      \ [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md),\
-      \ [warding bond](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/warding-bond.md),\
-      \ [zone of truth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/zone-of-truth.md)"
+      \ spells prepared:\n\n**1st level (4 slots):** [command](Compendium/spells/command.md),\
+      \ [compelled duel](Compendium/spells/compelled-duel.md), [cure wounds](Compendium/spells/cure-wounds.md),\
+      \ [wrathful smite](Compendium/spells/wrathful-smite.md)\n\n**2nd level (2 slots):**\
+      \ [aid](Compendium/spells/aid.md), [branding smite](Compendium/spells/branding-smite.md),\
+      \ [lesser restoration](Compendium/spells/lesser-restoration.md), [warding bond](Compendium/spells/warding-bond.md),\
+      \ [zone of truth](Compendium/spells/zone-of-truth.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, Donaar causes each creature of his choice that he\
       \ can see within 30 feet of him to make a DC 13 Wisdom saving throw. On a failure,\
       \ a creature can't willingly move more than 30 feet away from Donaar. This effect\
-      \ ends on the creature if Donaar is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ ends on the creature if Donaar is [incapacitated](Rules/conditions.md#Incapacitated)\
       \ or dies, or if the creature is moved more than 30 feet away from him."
     "name": "Champion Challenge (Recharges after a Short or Long Rest)"
 "actions":
@@ -96,6 +97,6 @@ Despite his easily massaged vanity, the dragonborn sometimes shows the occasiona
     "name": "Acid Vomit"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/donaar-blitzen-ai.webp"
+"image": "Compendium/bestiary/npc/token/donaar-blitzen-ai.webp"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tortle
+- "Tortle"
 ---
-# [Tortle](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/tortle-mpmm.md)
+# [Tortle](Compendium/bestiary/humanoid/tortle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
@@ -42,10 +43,13 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+3"
+"gear":
+  - "[light crossbow](Compendium/items/light-crossbow.md)"
+  - "[spear](Compendium/items/spear.md)"
 "senses": "passive Perception 11"
 "languages": "Aquan, Common"
 "cr": "1/4"
@@ -65,15 +69,15 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
     "name": "Light Crossbow"
   - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4\
       \ bonus to AC and has advantage on Strength and Constitution saving throws.\
-      \ While in its shell, the tortle is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ its speed is 0 and can't increase, it has disadvantage on Dexterity saving\
-      \ throws, it can't take reactions, and the only action it can take is a bonus\
-      \ action to emerge."
+      \ While in its shell, the tortle is [prone](Rules/conditions.md#Prone), its\
+      \ speed is 0 and can't increase, it has disadvantage on Dexterity saving throws,\
+      \ it can't take reactions, and the only action it can take is a bonus action\
+      \ to emerge."
     "name": "Shell Defense"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/tortle-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/tortle-mpmm.webp"
 ```
 ^statblock
 

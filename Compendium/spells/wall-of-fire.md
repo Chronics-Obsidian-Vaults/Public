@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/boros-legionnaire
@@ -9,18 +10,17 @@ tags:
 - source/spell/class/druid
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/4th-level
 - source/spell/optfeature/river-of-hungry-flame
 - source/spell/school/evocation
 - source/spell/subclass/arcane-trickster
-- source/spell/subclass/artillerist
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/forge-domain
 - source/spell/subclass/light-domain
 - source/spell/subclass/the-celestial
 - source/spell/subclass/the-fiend
 classes:
-- Artificer (Artillerist)
 - Bard (Magical Secrets)
 - Cleric (Forge Domain)
 - Cleric (Light Domain)
@@ -32,7 +32,7 @@ classes:
 - Warlock (The Fiend)
 - Wizard
 aliases:
-- Wall of Fire
+- "Wall of Fire"
 level: 4
 school: evocation
 ritual: false
@@ -60,6 +60,6 @@ One side of the wall, selected by you when you cast this spell, deals `5d8` fire
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by `1d8` for each slot level above 4th.
 
-**Classes**: [Artificer (Artillerist)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Cleric (Light Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-light-domain.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Celestial)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Warlock (The Fiend)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-fiend.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Celestial)](Compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Warlock (The Fiend)](Compendium/lists/list-spells-classes-the-fiend.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

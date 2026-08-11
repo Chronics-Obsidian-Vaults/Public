@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/monk/four-elements
 aliases:
-- Way of the Four Elements
+- "Way of the Four Elements"
 ---
 # Way of the Four Elements
 *[Monk](./monk.md): Monastic Tradition*  
@@ -43,14 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Way of the Four Elements (Level 3)
-
 You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.
 
 Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.
+
+## Subclass Features
 
 ### Disciple of the Elements (Level 3)
 
@@ -60,11 +57,9 @@ You know the Elemental Attunement discipline and one other elemental discipline 
 
 Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.
 
-#### Casting Elemental Spells
+**Casting Elemental Spells.** Some elemental disciplines allow you to cast spells. See "chapter 10" of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
 
-Some elemental disciplines allow you to cast spells. See "chapter 10" of the Player's Handbook for the general rules of spellcasting. To cast one of these spells, you use its casting time and other rules, but you don't need to provide material components for it.
-
-Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md) does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md), you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).
+Once you reach 5th level in this class, you can spend additional ki points to increase the level of an elemental discipline spell that you cast, provided that the spell has an enhanced effect at a higher level, as [burning hands](Compendium/spells/burning-hands.md) does. The spell's level increases by 1 for each additional ki point you spend. For example, if you are a 5th-level monk and use Sweeping Cinder Strike to cast [burning hands](Compendium/spells/burning-hands.md), you can spend 3 ki points to cast it as a 2nd-level spell (the discipline's base cost of 2 ki points plus 1).
 
 The maximum number of ki points you can spend to cast a spell in this way (including its base ki point cost and any additional ki points you spend to increase its level) is determined by your monk level, as shown in the Spells and Ki Points table. At 5th level, you may spend up to 3 ki points; this increases to 4 ki points at 9th level, 5 at 13th level, and 6 at 17th level.
 
@@ -82,23 +77,25 @@ The maximum number of ki points you can spend to cast a spell in this way (inclu
 
 The elemental disciplines are presented in alphabetical order. If a discipline requires a level, you must be the level in this class to learn the discipline.
 
-- [Breath of Winter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/breath-of-winter.md)  
-- [Clench of the North Wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/clench-of-the-north-wind.md)  
-- [Elemental Attunement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/elemental-attunement.md)  
-- [Eternal Mountain Defense](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/eternal-mountain-defense.md)  
-- [Fangs of the Fire Snake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/fangs-of-the-fire-snake.md)  
-- [Fist of Four Thunders](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/fist-of-four-thunders.md)  
-- [Unbroken Air](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/unbroken-air.md)  
-- [Flames of the Phoenix](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/flames-of-the-phoenix.md)  
-- [Gong of the Summit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/gong-of-the-summit.md)  
-- [Mist Stance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/mist-stance.md)  
-- [Ride the Wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/ride-the-wind.md)  
-- [River of Hungry Flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/river-of-hungry-flame.md)  
-- [Rush of the Gale Spirits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/rush-of-the-gale-spirits.md)  
-- [Shape the Flowing River](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/shape-the-flowing-river.md)  
-- [Sweeping Cinder Strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/sweeping-cinder-strike.md)  
-- [Water Whip](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/water-whip.md)  
-- [Wave of Rolling Earth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/wave-of-rolling-earth.md)  
+Options (choose 2):
+
+- [Breath of Winter](Compendium/optional-features/breath-of-winter.md)  
+- [Clench of the North Wind](Compendium/optional-features/clench-of-the-north-wind.md)  
+- [Elemental Attunement](Compendium/optional-features/elemental-attunement.md)  
+- [Eternal Mountain Defense](Compendium/optional-features/eternal-mountain-defense.md)  
+- [Fangs of the Fire Snake](Compendium/optional-features/fangs-of-the-fire-snake.md)  
+- [Fist of Four Thunders](Compendium/optional-features/fist-of-four-thunders.md)  
+- [Unbroken Air](Compendium/optional-features/unbroken-air.md)  
+- [Flames of the Phoenix](Compendium/optional-features/flames-of-the-phoenix.md)  
+- [Gong of the Summit](Compendium/optional-features/gong-of-the-summit.md)  
+- [Mist Stance](Compendium/optional-features/mist-stance.md)  
+- [Ride the Wind](Compendium/optional-features/ride-the-wind.md)  
+- [River of Hungry Flame](Compendium/optional-features/river-of-hungry-flame.md)  
+- [Rush of the Gale Spirits](Compendium/optional-features/rush-of-the-gale-spirits.md)  
+- [Shape the Flowing River](Compendium/optional-features/shape-the-flowing-river.md)  
+- [Sweeping Cinder Strike](Compendium/optional-features/sweeping-cinder-strike.md)  
+- [Water Whip](Compendium/optional-features/water-whip.md)  
+- [Wave of Rolling Earth](Compendium/optional-features/wave-of-rolling-earth.md)  
 
 ### Extra Elemental Discipline (Level 6)
 
@@ -121,5 +118,5 @@ Whenever you learn a new elemental discipline, you can also replace one elementa
 ## Optional Features
 
 > [!example]- Optional Features: Elemental Discipline
-> ![Elemental Discipline](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-ed.md#Elemental%20Discipline)
+> ![Elemental Discipline](Compendium/lists/list-optfeaturetype-ed.md#Elemental%20Discipline)
 ^list-optfeature-ed

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Armor Detention Drone
+- "Animated Armor Detention Drone"
 ---
-# [Animated Armor Detention Drone](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/animated-armor-detention-drone-bmt.md)
+# [Animated Armor Detention Drone](Compendium/bestiary/construct/animated-armor-detention-drone-bmt.md)
 *Source: The Book of Many Things p. 135*  
 
 Detention drones vary in size, strength, and shape, though most are shaped like some kind of mechanical animal or plant.
@@ -35,25 +36,20 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
   - !!int "1"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 6"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 6"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The drone is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md).\
-      \ If targeted by [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ the drone must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
-      \ for 1 minute."
+  - "desc": "The drone is [incapacitated](Rules/conditions.md#Incapacitated) while\
+      \ in the area of an [antimagic field](Compendium/spells/antimagic-field.md).\
+      \ If targeted by [dispel magic](Compendium/spells/dispel-magic.md), the drone\
+      \ must succeed on a Constitution saving throw against the caster's spell save\
+      \ DC or fall [unconscious](Rules/conditions.md#Unconscious) for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the drone remains motionless, it is indistinguishable from a normal\
       \ suit of drone."
@@ -71,7 +67,7 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
       \ breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb,\
       \ nor can any creature teleport or use planar travel to enter or exit the orb.\
       \ As a bonus action, the drone can move the orb and its contents up to 30 feet\
-      \ in any direction. A successful casting of the [Dispel Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\
+      \ in any direction. A successful casting of the [Dispel Magic](Compendium/spells/dispel-magic.md)\
       \ spell on the orb (DC 15) destroys it. The orb otherwise remains intact until\
       \ the drone spends an action to end the effect or the drone is destroyed. A\
       \ drone can have only one detention orb active at a time; if the drone creates\
@@ -80,6 +76,6 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
     "name": "Detention Orb"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/animated-armor-detention-drone-bmt.webp"
+"image": "Compendium/bestiary/construct/token/animated-armor-detention-drone-bmt.webp"
 ```
 ^statblock

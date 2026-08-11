@@ -8,8 +8,8 @@ tags:
 - source/domain/arcana
 - source/domain/forge
 - source/domain/knowledge
-aliases: 
-- Mythrien Sarath
+aliases:
+- "Mythrien Sarath"
 ---
 # Mythrien Sarath
 *Source: Mordenkainen's Tome of Foes p. 43* 

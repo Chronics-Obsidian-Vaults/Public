@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Iron Defender
+- "Iron Defender"
 ---
-# [Iron Defender](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/iron-defender-erlw.md)
+# [Iron Defender](Compendium/bestiary/construct/iron-defender-erlw.md)
 *Source: Eberron: Rising from the Last War p. 293*  
 
 An iron defender fights for its creator. They come in many shapes and are often crafted in the form of animals. More creative artificers craft iron defenders in the shape of hybrid animals or other fantastical creatures.
@@ -43,19 +44,17 @@ Each kind of homunculus has a body constructed from different kinds of materials
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"
 "traits":
-  - "desc": "The defender has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The defender has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks."
     "name": "Keen Senses"
   - "desc": "While the defender is on the same plane of existence as its master, it\
@@ -65,12 +64,12 @@ Each kind of homunculus has a body constructed from different kinds of materials
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage. If the target is a creature, it must succeed on a DC\
-      \ 13 Strength saving throw or take an extra 3 (1d6) piercing damage and be [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 13). The defender can have only one creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ 13 Strength saving throw or take an extra 3 (1d6) piercing damage and be [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 13). The defender can have only one creature [grappled](Rules/conditions.md#Grappled)\
       \ in this way at a time."
     "name": "Bite"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/iron-defender-erlw.webp"
+"image": "Compendium/bestiary/construct/token/iron-defender-erlw.webp"
 ```
 ^statblock

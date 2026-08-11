@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deathlock Wight
+- "Deathlock Wight"
 ---
-# [Deathlock Wight](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/deathlock-wight-mpmm.md)
+# [Deathlock Wight](Compendium/bestiary/undead/deathlock-wight-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
 
 Deprived of much of its magic as a special punishment, a deathlock wight lingers between the warlock it was and the wretched existence of a wight.
@@ -43,22 +44,20 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
   - "desc": "While in sunlight, the deathlock has disadvantage on attack rolls, as\
-      \ well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely\
+      \ on sight."
     "name": "Sunlight Sensitivity"
   - "desc": "The deathlock doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
@@ -70,7 +69,7 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ saving throw, or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
       \ The target dies if its hit point maximum is reduced to 0.\n\nA Humanoid slain\
-      \ by this attack rises 24 hours later as a [zombie](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/zombie.md)\
+      \ by this attack rises 24 hours later as a [zombie](Compendium/bestiary/undead/zombie.md)\
       \ under the deathlock's control, unless the Humanoid is restored to life or\
       \ its body is destroyed. The deathlock can have no more than twelve zombies\
       \ under its control at one time."
@@ -79,15 +78,13 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ (2d8 + 3) necrotic damage."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\n\
-      \n**1/day each:** [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [disguise self](Compendium/spells/disguise-self.md), [mage armor](Compendium/spells/mage-armor.md)\n\
+      \n**1/day each:** [fear](Compendium/spells/fear.md), [hold person](Compendium/spells/hold-person.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/deathlock-wight-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/deathlock-wight-mpmm.webp"
 ```
 ^statblock

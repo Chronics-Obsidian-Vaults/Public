@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Protection Guilds
+- "Protection Guilds"
 ---
 # Protection Guilds
 *Source: Guildmasters' Guide to Ravnica p. 125* 

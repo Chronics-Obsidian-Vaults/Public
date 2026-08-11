@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Steward of Nature; Creatures to Care For
+- "Steward of Nature; Creatures to Care For"
 ---
 # Steward of Nature; Creatures to Care For
 *Source: Acquisitions Incorporated p. 58* 

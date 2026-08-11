@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/fighter/battle-master
 aliases:
-- Battle Master
+- "Battle Master"
 ---
 # Battle Master
 *[Fighter](./fighter.md): Martial Archetype*  
@@ -43,12 +43,11 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Battle Master (Level 3)
+![](Compendium/classes/img/battle-master-fighter.webp#right)
 
 Those who emulate the archetypal Battle Master employ martial techniques passed down through generations. To a Battle Master, combat is an academic field, sometimes including subjects beyond battle such as weaponsmithing and calligraphy. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Battle Master archetype, but those who do are well-rounded fighters of great skill and knowledge.
+
+## Subclass Features
 
 ### Student of War (Level 3)
 
@@ -58,21 +57,15 @@ At 3rd level, you gain proficiency with one type of artisan's tools of your choi
 
 When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.
 
-#### Maneuvers
-
-You learn three maneuvers of your choice, which are listed under "Maneuvers" below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+**Maneuvers.** You learn three maneuvers of your choice, which are listed under "Maneuvers" below. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
 
 You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
-#### Superiority Dice
-
-You have four superiority dice, which are `d8`s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+**Superiority Dice.** You have four superiority dice, which are `d8`s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
 
 You gain another superiority die at 7th level and one more at 15th level.
 
-#### Saving Throws
-
-Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
+**Saving Throws.** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 
 <span class='abilityDc'>**Maneuver save DC**: your proficiency bonus + your Strength or Dexterity</span>
 
@@ -80,29 +73,41 @@ Some of your maneuvers require your target to make a saving throw to resist the 
 
 The maneuvers are presented in alphabetical order.
 
-- [Commander's Strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/commanders-strike.md)  
-- [Disarming Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/disarming-attack.md)  
-- [Distracting Strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/distracting-strike.md)  
-- [Evasive Footwork](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/evasive-footwork.md)  
-- [Feinting Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/feinting-attack.md)  
-- [Goading Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/goading-attack.md)  
-- [Lunging Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/lunging-attack.md)  
-- [Maneuvering Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/maneuvering-attack.md)  
-- [Menacing Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/menacing-attack.md)  
-- [Parry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/parry.md)  
-- [Precision Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/precision-attack.md)  
-- [Pushing Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/pushing-attack.md)  
-- [Rally](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/rally.md)  
-- [Riposte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/riposte.md)  
-- [Sweeping Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/sweeping-attack.md)  
-- [Trip Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/trip-attack.md)  
+Options (choose 3):
+
+- [Commander's Strike](Compendium/optional-features/commanders-strike.md)  
+- [Disarming Attack](Compendium/optional-features/disarming-attack.md)  
+- [Distracting Strike](Compendium/optional-features/distracting-strike.md)  
+- [Evasive Footwork](Compendium/optional-features/evasive-footwork.md)  
+- [Feinting Attack](Compendium/optional-features/feinting-attack.md)  
+- [Goading Attack](Compendium/optional-features/goading-attack.md)  
+- [Lunging Attack](Compendium/optional-features/lunging-attack.md)  
+- [Maneuvering Attack](Compendium/optional-features/maneuvering-attack.md)  
+- [Menacing Attack](Compendium/optional-features/menacing-attack.md)  
+- [Parry](Compendium/optional-features/parry.md)  
+- [Precision Attack](Compendium/optional-features/precision-attack.md)  
+- [Pushing Attack](Compendium/optional-features/pushing-attack.md)  
+- [Rally](Compendium/optional-features/rally.md)  
+- [Riposte](Compendium/optional-features/riposte.md)  
+- [Sweeping Attack](Compendium/optional-features/sweeping-attack.md)  
+- [Trip Attack](Compendium/optional-features/trip-attack.md)  
 
 ### Maneuver Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 41_
 
-*3rd-level fighter [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level fighter [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
-If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [Superior Technique](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/superior-technique-tce.md) fighting style or the [Martial Adept](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/feats/martial-adept.md) feat.
+If you have access to maneuvers, the following maneuvers are added to the list of options available to you. Maneuvers are available to Battle Masters but also to characters who have a special feature like the [Superior Technique](Compendium/optional-features/superior-technique-tce.md) fighting style or the [Martial Adept](Compendium/feats/martial-adept.md) feat.
+
+Options:
+
+- [Ambush](Compendium/optional-features/ambush-tce.md)  
+- [Bait and Switch](Compendium/optional-features/bait-and-switch-tce.md)  
+- [Brace](Compendium/optional-features/brace-tce.md)  
+- [Commanding Presence](Compendium/optional-features/commanding-presence-tce.md)  
+- [Grappling Strike](Compendium/optional-features/grappling-strike-tce.md)  
+- [Quick Toss](Compendium/optional-features/quick-toss-tce.md)  
+- [Tactical Assessment](Compendium/optional-features/tactical-assessment-tce.md)  
 
 ### Additional Maneuvers (Level 7)
 
@@ -151,5 +156,5 @@ At 18th level, your superiority dice turn into `d12`s.
 ## Optional Features
 
 > [!example]- Optional Features: Maneuver, Battle Master
-> ![Maneuver, Battle Master](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
+> ![Maneuver, Battle Master](Compendium/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
 ^list-optfeature-mv-b

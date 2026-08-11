@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Strider
+- "Giant Strider"
 ---
-# [Giant Strider](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/giant-strider-mpmm.md)
+# [Giant Strider](Compendium/bestiary/elemental/giant-strider-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*  
 
 > [!quote] A quote from Mordenkainen  
@@ -69,7 +70,7 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/giant-strider-mpmm.webp"
+"image": "Compendium/bestiary/elemental/token/giant-strider-mpmm.webp"
 ```
 ^statblock
 

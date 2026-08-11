@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Construct Spirit
+- "Construct Spirit"
 ---
-# [Construct Spirit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/construct-spirit-tce.md)
+# [Construct Spirit](Compendium/bestiary/construct/construct-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 111*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "construct"
 "alignment": "Unaligned"
 "ac_class": "13 + the level of the spell (natural armor)"
+"hp": "40 + 15 for each spell level above 4th"
 "modifier": !!int "0"
 "stats":
   - !!int "18"
@@ -30,15 +32,11 @@ aliases:
   - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [incapacitated](Rules/conditions.md#Incapacitated),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "A creature that touches the construct or hits it with a melee attack\
@@ -64,6 +62,6 @@ aliases:
     "name": "Berserk Lashing (Clay Only)"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/construct-spirit-tce.webp"
+"image": "Compendium/bestiary/construct/token/construct-spirit-tce.webp"
 ```
 ^statblock

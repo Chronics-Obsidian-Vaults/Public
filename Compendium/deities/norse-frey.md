@@ -7,8 +7,8 @@ tags:
 - source/deity/norse
 - source/domain/life
 - source/domain/light
-aliases: 
-- Frey
+aliases:
+- "Frey"
 ---
 # Frey
 *Source: Player's Handbook p. 299* 

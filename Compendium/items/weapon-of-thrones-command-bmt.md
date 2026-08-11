@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/age/futuristic
@@ -11,7 +12,7 @@ tags:
 - source/item/weapon/melee
 - source/item/weapon/ranged
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Weapon of Throne's Command"
 - "Antimatter Rifle of Throne's Command"
 - "Automatic Rifle of Throne's Command"
@@ -58,11 +59,11 @@ attunement: required
 
 
 
-This weapon is bedecked in ornate gold filigree and deep-blue and maroon jewels. You gain a +1 bonus to attack and damage rolls made with this weapon. Additionally, you gain proficiency in the [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation) and [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) skills if you don't already have it.
+This weapon is bedecked in ornate gold filigree and deep-blue and maroon jewels. You gain a +1 bonus to attack and damage rolls made with this weapon. Additionally, you gain proficiency in the [Intimidation](Rules/skills.md#Intimidation) and [Persuasion](Rules/skills.md#Persuasion) skills if you don't already have it.
 
 ## Spellcasting
 
-The weapon has 5 charges. You can use a bonus action and expend 1 or more of its charges to cast one of the following spells (save DC 16): [Command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md) (1 charge), [Zone of Truth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/zone-of-truth.md) (2 charges), [Compulsion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compulsion.md) (4 charges), [Banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md) (4 charges), or [Dominate Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md) (5 charges).
+The weapon has 5 charges. You can use a bonus action and expend 1 or more of its charges to cast one of the following spells (save DC 16): [Command](Compendium/spells/command.md) (1 charge), [Zone of Truth](Compendium/spells/zone-of-truth.md) (2 charges), [Compulsion](Compendium/spells/compulsion.md) (4 charges), [Banishment](Compendium/spells/banishment.md) (4 charges), or [Dominate Person](Compendium/spells/dominate-person.md) (5 charges).
 
 The weapon regains `1d4` expended charges daily at dawn.
 
@@ -107,14 +108,14 @@ The weapon regains `1d4` expended charges daily at dawn.
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Automatic Rifle of Throne's Command
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Burst Fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Burst%20Fire), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Burst Fire](Rules/item-properties.md#Burst%20Fire), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Battleaxe of Throne's Command
@@ -122,20 +123,20 @@ The weapon regains `1d4` expended charges daily at dawn.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Blowgun of Throne's Command
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading)
 - **Weight**: 1.0 lbs.
 
 ### Double-Bladed Scimitar of Throne's Command
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Flail of Throne's Command
@@ -146,86 +147,86 @@ The weapon regains `1d4` expended charges daily at dawn.
 ### Glaive of Throne's Command
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Greataxe of Throne's Command
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Greatsword of Throne's Command
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Halberd of Throne's Command
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Hand Crossbow of Throne's Command
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Light](Rules/item-properties.md#Light), [Loading](Rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Heavy Crossbow of Throne's Command
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Loading](Rules/item-properties.md#Loading), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Hooked Shortspear of Throne's Command
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Hoopak of Throne's Command
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Finesse](Rules/item-properties.md#Finesse), [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Weight**: 2.0 lbs.
 
 ### Hunting Rifle of Throne's Command
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Lance of Throne's Command
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### Laser Pistol of Throne's Command
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Laser Rifle of Throne's Command
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Longbow of Throne's Command
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Longsword of Throne's Command
@@ -233,13 +234,13 @@ The weapon regains `1d4` expended charges daily at dawn.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Maul of Throne's Command
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Morningstar of Throne's Command
@@ -251,59 +252,59 @@ The weapon regains `1d4` expended charges daily at dawn.
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Pike of Throne's Command
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Reach](Rules/item-properties.md#Reach), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Pistol of Throne's Command
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Loading](Rules/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Throne's Command
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Revolver of Throne's Command
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Scimitar of Throne's Command
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Semiautomatic Pistol of Throne's Command
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Throne's Command
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Shotgun of Throne's Command
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Reload](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reload), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Reload](Rules/item-properties.md#Reload), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Trident of Throne's Command
@@ -312,7 +313,7 @@ The weapon regains `1d4` expended charges daily at dawn.
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown), [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### War Pick of Throne's Command
@@ -320,7 +321,7 @@ The weapon regains `1d4` expended charges daily at dawn.
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Warhammer of Throne's Command
@@ -328,13 +329,13 @@ The weapon regains `1d4` expended charges daily at dawn.
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### Whip of Throne's Command
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Reach](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Reach)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Reach](Rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 

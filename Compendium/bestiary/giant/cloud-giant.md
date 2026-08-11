@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/9
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloud Giant
+- "Cloud Giant"
 ---
-# [Cloud Giant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/cloud-giant.md)
-*Source: Monster Manual p. 154, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Cloud Giant](Compendium/bestiary/giant/cloud-giant.md)
+*Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
 
@@ -106,27 +107,25 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
+"gear":
+  - "[morningstar](Compendium/items/morningstar.md)"
 "senses": "passive Perception 17"
 "languages": "Common, Giant"
 "cr": "9"
 "traits":
   - "desc": "The giant's innate spellcasting ability is Charisma. It can innately\
       \ cast the following spells, requiring no material components:\n\n**At will:**\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md),\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md)\n\
-      \n**3/day each:** [feather fall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feather-fall.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md),\
-      \ [telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md)\n\
-      \n**1/day each:** [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md),\
-      \ [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md)"
+      \ [detect magic](Compendium/spells/detect-magic.md), [fog cloud](Compendium/spells/fog-cloud.md),\
+      \ [light](Compendium/spells/light.md)\n\n**3/day each:** [feather fall](Compendium/spells/feather-fall.md),\
+      \ [fly](Compendium/spells/fly.md), [misty step](Compendium/spells/misty-step.md),\
+      \ [telekinesis](Compendium/spells/telekinesis.md)\n\n**1/day each:** [control\
+      \ weather](Compendium/spells/control-weather.md), [gaseous form](Compendium/spells/gaseous-form.md)"
     "name": "Innate Spellcasting"
-  - "desc": "The giant has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The giant has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
@@ -140,8 +139,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "name": "Rock"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/cloud-giant.webp"
+"image": "Compendium/bestiary/giant/token/cloud-giant.webp"
 ```
 ^statblock
 

@@ -7,8 +7,8 @@ tags:
 - source/deity/exandria
 - source/domain/life
 - source/domain/nature
-aliases: 
-- Naviask
+aliases:
+- "Naviask"
 ---
 # Naviask
 *Source: Explorer's Guide to Wildemount p. 32* 

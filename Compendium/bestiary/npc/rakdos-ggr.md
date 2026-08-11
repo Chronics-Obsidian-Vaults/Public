@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/24
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rakdos
+- "Rakdos"
 ---
-# [Rakdos](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/rakdos-ggr.md)
+# [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 247*  
 
 Rakdos, the demon for whom his cult is named, embodies hedonism. He is also the consummate entertainer, whose mere appearance is an act of grisly performance art. A monstrous figure standing thirty feet tall, spreading enormous wings, crowned with fire and swinging a flaming scythe, Rakdos demands the spotlight. His every entrance is a showstopper.
@@ -43,29 +44,26 @@ Sometimes after his grand entrance, Rakdos crouches to witness the performances 
   - "wisdom": !!int "11"
   - "charisma": !!int "17"
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+17"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+17"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+17"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 14"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 14"
 "languages": "Abyssal, Common"
 "cr": "24"
 "traits":
   - "desc": "Rakdos's spellcasting ability is Charisma (spell save DC 25). He can\
-      \ innately cast [hellish rebuke](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hellish-rebuke.md)\
-      \ (at 5th level) at will, requiring no material components.\n"
+      \ innately cast [hellish rebuke](Compendium/spells/hellish-rebuke.md) (at 5th\
+      \ level) at will, requiring no material components.\n"
     "name": "Innate Spellcasting"
   - "desc": "Any creature that starts its turn within 30 feet of Rakdos must make\
-      \ a DC 25 Wisdom saving throw. On a failed save, the creature becomes [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ a DC 25 Wisdom saving throw. On a failed save, the creature becomes [charmed](Rules/conditions.md#Charmed)\
       \ by Rakdos for 1 minute or until the creature is farther than 30 feet away\
       \ from him. On a successful save, the creature becomes immune to Rakdos's Captivating\
       \ Presence for 24 hours."
@@ -93,7 +91,7 @@ Sometimes after his grand entrance, Rakdos crouches to witness the performances 
   \ turn, Rakdos can expend a use to take one of the following actions. Rakdos regains\
   \ all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Each creature within 60 feet of Rakdos that is his ally or is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+  - "desc": "Each creature within 60 feet of Rakdos that is his ally or is [charmed](Rules/conditions.md#Charmed)\
       \ by him must use its reaction to move up to half its speed toward the creature\
       \ closest to it that it can see, provided it isn't already within 5 feet of\
       \ that creature. It then must make one melee attack against that creature if\
@@ -102,16 +100,15 @@ Sometimes after his grand entrance, Rakdos crouches to witness the performances 
   - "desc": "Rakdos uses Curtain-Call Scythe."
     "name": "Scythe (Costs 2 Actions)"
   - "desc": "Rakdos makes a claw attack against one creature within 10 feet of him.\
-      \ The target must succeed on a DC 25 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way, the creature can't maintain [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell or any other effect that requires [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration).\
-      \ The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
+      \ The target must succeed on a DC 25 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned)\
+      \ for 1 minute. While [poisoned](Rules/conditions.md#Poisoned) in this way,\
+      \ the creature can't maintain [concentration](Rules/conditions.md#Concentration)\
+      \ on a spell or any other effect that requires [concentration](Rules/conditions.md#Concentration).\
+      \ The [poisoned](Rules/conditions.md#Poisoned) creature can repeat the saving\
+      \ throw at the end of each of its turns, ending the effect on itself on a success."
     "name": "Touch of Pain (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/rakdos-ggr.webp"
+"image": "Compendium/bestiary/npc/token/rakdos-ggr.webp"
 ```
 ^statblock

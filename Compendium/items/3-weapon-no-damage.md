@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/very-rare
 - source/item/tier/major
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+3 Weapon (no damage)"
 item_type: wondrous
 item_subtype: generic-variant

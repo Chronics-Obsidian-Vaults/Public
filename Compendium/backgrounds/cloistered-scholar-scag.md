@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/scag
 aliases:
-- Cloistered Scholar
+- "Cloistered Scholar"
 ---
 # Cloistered Scholar
 *Source: Sword Coast Adventurer's Guide p. 146*  
 
 
-- **Skill Proficiencies.** [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), plus your choice of one from among [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)  
+- **Skill Proficiencies.** [History](Rules/skills.md#History), plus your choice of one from among [Arcana](Rules/skills.md#Arcana), [Nature](Rules/skills.md#Nature), and [Religion](Rules/skills.md#Religion)  
 - **Languages.** any two of your choice  
-- **Equipment.** The scholar's [robes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/robes.md) of your cloister, a writing kit (small [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) with a quill, ink, folded parchment, and a small penknife), a borrowed [book](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/book.md) on the subject of your current study, and a [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** The scholar's [robes](Compendium/items/robes.md) of your cloister, a writing kit (small [pouch](Compendium/items/pouch.md) with a quill, ink, folded parchment, and a small penknife), a borrowed [book](Compendium/items/book.md) on the subject of your current study, and a [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 As a child, you were inquisitive when your playmates were possessive or raucous. In your formative years, you found your way to one of Faerûn's great institutes of learning, where you were apprenticed and taught that knowledge is a more valuable treasure than gold or gems. Now you are ready to leave your home—not to abandon it, but to quest for new lore to add to its storehouse of knowledge.
 
@@ -31,6 +32,6 @@ Additionally, you are likely to gain preferential treatment at other libraries a
 
 ## Suggested Characteristics
 
-Use the tables for the [sage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sage.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a cloistered scholar.
+Use the tables for the [sage](Compendium/backgrounds/sage.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a cloistered scholar.
 
 Your bond is almost certainly associated either with the place where you grew up or with the knowledge you hope to acquire through adventuring. Your ideal is no doubt related to how you view the quest for knowledge and truth - perhaps as a worthy goal in itself, or maybe as a means to a desirable end.

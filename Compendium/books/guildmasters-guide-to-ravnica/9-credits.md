@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Guildmasters' Guide to Ravnica* 

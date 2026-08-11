@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/uncommon
 - source/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Coiling Grasp Tattoo"
 item_type: wondrous
 item_subtype: tattoo
@@ -28,6 +29,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 ## Grasping Tendrils
 
-While the tattoo is on your skin, you can, as an action, cause the tattoo to extrude into inky tendrils, which reach for a creature you can see within 15 feet of you. The creature must succeed on a DC 14 Strength saving throw or take `3d6` force damage and be [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) by you. As an action, the creature can escape the grapple by succeeding on a DC 14 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check. The grapple also ends if you halt it (no action required), if the creature is ever more than 15 feet away from you, or if you use this tattoo on a different creature.
+While the tattoo is on your skin, you can, as an action, cause the tattoo to extrude into inky tendrils, which reach for a creature you can see within 15 feet of you. The creature must succeed on a DC 14 Strength saving throw or take `3d6` force damage and be [grappled](Rules/conditions.md#Grappled) by you. As an action, the creature can escape the grapple by succeeding on a DC 14 Strength ([Athletics](Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check. The grapple also ends if you halt it (no action required), if the creature is ever more than 15 feet away from you, or if you use this tattoo on a different creature.
 
 *Source: Tasha's Cauldron of Everything p. 123*

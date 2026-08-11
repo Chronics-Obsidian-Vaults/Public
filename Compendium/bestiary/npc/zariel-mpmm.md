@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/26
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zariel
+- "Zariel"
 ---
-# [Zariel](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/zariel-mpmm.md)
+# [Zariel](Compendium/bestiary/npc/zariel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 280, Mordenkainen's Tome of Foes p. 180*  
 
 > [!quote] A quote from Mordenkainen  
@@ -57,23 +58,23 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
   - "wisdom": !!int "16"
   - "charisma": !!int "18"
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+18"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+16"
 "damage_resistances": "cold; fire; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 26"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[flail](Compendium/items/flail.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 26"
 "languages": "all, telepathy 120 ft."
 "cr": "26"
 "traits":
-  - "desc": "Magical darkness doesn't impede Zariel's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede Zariel's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "If Zariel fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -97,10 +98,8 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
     "name": "Longsword"
   - "desc": "Zariel touches one creature within 10 feet of her. The target must succeed\
       \ on a DC 26 Constitution saving throw or take 44 (8d10) necrotic damage and\
-      \ be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way, the target is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened).\
+      \ be [poisoned](Rules/conditions.md#Poisoned) for 1 minute. While [poisoned](Rules/conditions.md#Poisoned)\
+      \ in this way, the target is [blinded](Rules/conditions.md#Blinded) and [deafened](Rules/conditions.md#Deafened).\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Horrid Touch (Recharge 5-6)"
@@ -109,29 +108,25 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
     "name": "Teleport"
   - "desc": "Zariel casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 26):\n\n**At\
-      \ will:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md)\
-      \ (can become Medium when changing her appearance), [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only), [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md)\n\
-      \n**3/day each:** [blade barrier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blade-barrier.md),\
-      \ [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md),\
-      \ [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md)"
+      \ will:** [alter self](Compendium/spells/alter-self.md) (can become Medium when\
+      \ changing her appearance), [detect evil and good](Compendium/spells/detect-evil-and-good.md),\
+      \ [fireball](Compendium/spells/fireball.md), [invisibility](Compendium/spells/invisibility.md)\
+      \ (self only), [major image](Compendium/spells/major-image.md), [wall of fire](Compendium/spells/wall-of-fire.md)\n\
+      \n**3/day each:** [blade barrier](Compendium/spells/blade-barrier.md), [dispel\
+      \ evil and good](Compendium/spells/dispel-evil-and-good.md), [finger of death](Compendium/spells/finger-of-death.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Zariel can take one\
       \ of the following lair actions; she can't take the same lair action two rounds\
-      \ in a row:\n\n- **Fireball.** Zariel casts the [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)\
-      \ spell.  \n- **Infernal Illusions.** Zariel casts the [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md)\
+      \ in a row:\n\n- **Fireball.** Zariel casts the [fireball](Compendium/spells/fireball.md)\
+      \ spell.  \n- **Infernal Illusions.** Zariel casts the [major image](Compendium/spells/major-image.md)\
       \ spell four times, targeting different areas with it. Zariel prefers to create\
       \ images of intruders' loved ones being burned alive. Zariel doesn't need to\
       \ concentrate on the spells, which end on initiative count 20 of the next round.\
       \ Each creature that can see these illusions must succeed on a DC 26 Wisdom\
-      \ saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of the illusion for 1 minute. A frightened creature can repeat the saving\
-      \ throw at the end of each of its turns, ending the effect on itself on a success.\
-      \  "
+      \ saving throw or become [frightened](Rules/conditions.md#Frightened) of the\
+      \ illusion for 1 minute. A frightened creature can repeat the saving throw at\
+      \ the end of each of its turns, ending the effect on itself on a success.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing Zariel's lair is warped by her magic, which creates\
@@ -158,6 +153,6 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/zariel-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/zariel-mpmm.webp"
 ```
 ^statblock

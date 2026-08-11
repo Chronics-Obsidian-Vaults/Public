@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/sorcerer
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/2nd-level
 - source/spell/school/evocation
 - source/spell/subrace/genasi-fire
@@ -15,7 +17,7 @@ classes:
 - Druid
 - Sorcerer
 aliases:
-- Flame Blade
+- "Flame Blade"
 level: 2
 school: evocation
 ritual: false
@@ -43,6 +45,6 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `1d6` for every two slot levels above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/dwarven
 - source/domain/war
-aliases: 
-- Gorm Gulthyn
+aliases:
+- "Gorm Gulthyn"
 ---
 # Gorm Gulthyn
 *Source: Mordenkainen's Tome of Foes p. 73* 

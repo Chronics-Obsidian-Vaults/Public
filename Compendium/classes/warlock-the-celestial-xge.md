@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/warlock/celestial
 aliases:
-- The Celestial
+- "The Celestial"
 ---
 # The Celestial
 *[Warlock](./warlock.md): Otherworldly Patron*  
@@ -43,17 +43,15 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### The Celestial (Level 1)
+![](Compendium/classes/img/celestial-warlock.webp#right)
 
 Your patron is a powerful being of the Upper Planes. You have bound yourself to an ancient empyrean, solar, ki-rin, unicorn, or other entity that resides in the planes of everlasting bliss. Your pact with that being allows you to experience the barest touch of the holy light that illuminates the multiverse.
 
 Being connected to such power can cause changes in your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, and a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now, and that your pact binds you to bring light to the dark places of the world.
 
-#### Expanded Spell List
-_Source: Xanathar's Guide to Everything_
+## Subclass Features
+
+### Expanded Spell List (Level 1)
 
 The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
@@ -61,16 +59,16 @@ The Celestial lets you choose from an expanded list of spells when you learn a w
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md), [guiding bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guiding-bolt.md) |
-| 2nd | [flaming sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flaming-sphere.md), [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md) |
-| 3rd | [daylight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/daylight.md), [revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md) |
-| 4th | [guardian of faith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guardian-of-faith.md), [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md) |
-| 5th | [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md), [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md) |
+| 1st | [cure wounds](Compendium/spells/cure-wounds.md), [guiding bolt](Compendium/spells/guiding-bolt.md) |
+| 2nd | [flaming sphere](Compendium/spells/flaming-sphere.md), [lesser restoration](Compendium/spells/lesser-restoration.md) |
+| 3rd | [daylight](Compendium/spells/daylight.md), [revivify](Compendium/spells/revivify.md) |
+| 4th | [guardian of faith](Compendium/spells/guardian-of-faith.md), [wall of fire](Compendium/spells/wall-of-fire.md) |
+| 5th | [flame strike](Compendium/spells/flame-strike.md), [greater restoration](Compendium/spells/greater-restoration.md) |
 ^celestial-expanded-spells
 
 ### Bonus Cantrips (Level 1)
 
-At 1st level, you learn the [sacred flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sacred-flame.md) and [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md) cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
+At 1st level, you learn the [sacred flame](Compendium/spells/sacred-flame.md) and [light](Compendium/spells/light.md) cantrips. They count as warlock cantrips for you, but they don't count against your number of cantrips known.
 
 ### Healing Light (Level 1)
 
@@ -90,6 +88,6 @@ Starting at 10th level, you gain temporary hit points whenever you finish a shor
 
 ### Searing Vengeance (Level 14)
 
-Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to `2d8` + your Charisma modifier, and it is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) until the end of the current turn.
+Starting at 14th level, the radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring back to your feet with a burst of radiant energy. You regain hit points equal to half your hit point maximum, and then you stand up if you so choose. Each creature of your choice that is within 30 feet of you takes radiant damage equal to `2d8` + your Charisma modifier, and it is [blinded](Rules/conditions.md#Blinded) until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a long rest.

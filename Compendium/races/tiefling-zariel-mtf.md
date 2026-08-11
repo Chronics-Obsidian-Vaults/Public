@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mtf
 - source/race/tiefling/zariel
 aliases:
-- Tiefling (Zariel)
+- "Tiefling (Zariel)"
 ---
 # Tiefling (Zariel)
 *Source: Mordenkainen's Tome of Foes p. 23*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/tiefling.webp#right)
+![](Compendium/races/img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 str +1
 - **Size**: Medium
@@ -36,7 +37,7 @@ You have resistance to fire damage.
 
 ### Legacy of Avernus
 
-You know the [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md) cantrip. When you reach 3rd level, you can cast the [searing smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/searing-smite.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [branding smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/branding-smite.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [thaumaturgy](Compendium/spells/thaumaturgy.md) cantrip. When you reach 3rd level, you can cast the [searing smite](Compendium/spells/searing-smite.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [branding smite](Compendium/spells/branding-smite.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/food-and-drink
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Chunk of Meat"
 item_type: 
 item_subtype: 

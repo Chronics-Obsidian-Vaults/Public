@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -11,7 +12,7 @@ classes:
 - Bard (Magical Secrets)
 - Ranger
 aliases:
-- Hail of Thorns
+- "Hail of Thorns"
 level: 1
 school: conjuration
 ritual: false
@@ -35,6 +36,6 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 
 **At Higher Levels.** If you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d10` for each slot level above 1st (to a maximum of `6d10`).
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 249*

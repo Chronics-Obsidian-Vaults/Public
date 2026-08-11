@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Drow Deities (The Dark Seldarine)
+- "Drow Deities (The Dark Seldarine)"
 ---
 # Drow Deities (The Dark Seldarine)
 *Source: Mordenkainen's Tome of Foes p. 53* 
@@ -14,15 +14,15 @@ aliases:
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| [Eilistraee](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-eilistraee-mtf.md) | CG | Freedom, moonlight, song | Life, Light, Nature | Sword-wielding, dancing female drow silhouetted against the full moon |
-| [Ghaunadaur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-ghaunadaur-mtf.md) | CE | Oozes, slimes, outcasts | War | Purple eye with black sclera |
-| [Keptolo](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-keptolo-mtf.md) | CE | Beauty, hedonism, fertility | Nature, Trickery | Mushroom |
-| [Kiaransalee](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-kiaransalee-mtf.md) | CE | Necromancy | Arcana,* Death | Drow hand wearing many silver rings |
-| [Malyk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-malyk-mtf.md) | CE | Chaos, rebellion, wild magic | Tempest, Trickery | A flame in a tear or a multihued vortex |
-| [Lolth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-lolth-mtf.md) | CE | Primary god of drow, spiders | Trickery, War | Spider |
-| [Selvetarm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-selvetarm-mtf.md) | CE | Warriors, slaughter | War | Spider over crossed sword and mace |
-| [Vhaeraun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-vhaeraun-mtf.md) | CE | Arrogance, thieves | Trickery, War | Black mask with blue glass lenses inset over eyes |
-| [Zinzerena](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/drow-zinzerena-mtf.md) | CN | Assassination, illusion, lies | Trickery | Shortsword draped with cloth |
+| [Eilistraee](Compendium/deities/drow-eilistraee-mtf.md) | CG | Freedom, moonlight, song | Life, Light, Nature | Sword-wielding, dancing female drow silhouetted against the full moon |
+| [Ghaunadaur](Compendium/deities/drow-ghaunadaur-mtf.md) | CE | Oozes, slimes, outcasts | War | Purple eye with black sclera |
+| [Keptolo](Compendium/deities/drow-keptolo-mtf.md) | CE | Beauty, hedonism, fertility | Nature, Trickery | Mushroom |
+| [Kiaransalee](Compendium/deities/drow-kiaransalee-mtf.md) | CE | Necromancy | Arcana,* Death | Drow hand wearing many silver rings |
+| [Malyk](Compendium/deities/drow-malyk-mtf.md) | CE | Chaos, rebellion, wild magic | Tempest, Trickery | A flame in a tear or a multihued vortex |
+| [Lolth](Compendium/deities/drow-lolth-mtf.md) | CE | Primary god of drow, spiders | Trickery, War | Spider |
+| [Selvetarm](Compendium/deities/drow-selvetarm-mtf.md) | CE | Warriors, slaughter | War | Spider over crossed sword and mace |
+| [Vhaeraun](Compendium/deities/drow-vhaeraun-mtf.md) | CE | Arrogance, thieves | Trickery, War | Black mask with blue glass lenses inset over eyes |
+| [Zinzerena](Compendium/deities/drow-zinzerena-mtf.md) | CN | Assassination, illusion, lies | Trickery | Shortsword draped with cloth |
 ^drow-deities-the-dark-seldarine
 
 *Appears in *Sword Coast Adventurer's Guide*

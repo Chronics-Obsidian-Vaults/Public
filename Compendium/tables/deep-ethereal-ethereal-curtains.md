@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Deep Ethereal; Ethereal Curtains
+- "Deep Ethereal; Ethereal Curtains"
 ---
 # Deep Ethereal; Ethereal Curtains
 *Source: Dungeon Master's Guide p. 48* 

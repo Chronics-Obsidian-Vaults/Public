@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/21
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Moloch
+- "Moloch"
 ---
-# [Moloch](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/moloch-mpmm.md)
+# [Moloch](Compendium/bestiary/npc/moloch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 183, Mordenkainen's Tome of Foes p. 177*  
 
 > [!quote] A quote from Mordenkainen  
@@ -24,7 +25,7 @@ For eons, Moloch ruled his domain, vying against the other archdevils as he soug
 
 Moloch wasted no time in preparing for his return. He amassed an army of devils and monsters and left them to make final preparations for invading the Nine Hells, while he ventured to the Material Plane in search of an artifact that would ensure his success. But while there, he became trapped, leaving his armies at the mercy of his enemies. They were destroyed in short order.
 
-Moloch was rendered nearly powerless by this failure. He schemes of ways to reclaim his former status, but every time he enters the Nine Hells, he is demoted to an [imp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/imp.md) and can't regain his normal powers until he leaves. Thus, he lives a split existence, sometimes plotting in Malbolge or other layers of the Hells and at other times wandering the planes in search of magical might or secrets that might help him win back his title.
+Moloch was rendered nearly powerless by this failure. He schemes of ways to reclaim his former status, but every time he enters the Nine Hells, he is demoted to an [imp](Compendium/bestiary/fiend/imp.md) and can't regain his normal powers until he leaves. Thus, he lives a split existence, sometimes plotting in Malbolge or other layers of the Hells and at other times wandering the planes in search of magical might or secrets that might help him win back his title.
 
 Rumors suggest that he can often be found in Sigil, where he bargains with yugoloths to build yet another army with which he might invade Malbolge and wrest the throne from Glasya. Bereft as he is, he has little to offer in exchange, so he might bargain with mortals to gain their aid in acquiring coin, jewels, and other riches in return for knowledge about the Nine Hells and the other planes.
 
@@ -55,21 +56,18 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
   - "wisdom": !!int "11"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+13"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+13"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 21"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
@@ -99,12 +97,11 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
     "name": "Many-Tailed Whip"
   - "desc": "Moloch exhales in a 30-foot cube. Each creature in that area must succeed\
       \ on a DC 21 Wisdom saving throw or take 27 (5d10) psychic damage, drop whatever\
-      \ it is holding, and become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of Moloch for 1 minute. While [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ in this way, a creature must take the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash)\
-      \ action and move away from Moloch by the safest available route on each of\
-      \ its turns, unless there is nowhere to move, in which case it needn't take\
-      \ the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash)\
+      \ it is holding, and become [frightened](Rules/conditions.md#Frightened) of\
+      \ Moloch for 1 minute. While [frightened](Rules/conditions.md#Frightened) in\
+      \ this way, a creature must take the [Dash](Rules/actions.md#Dash) action and\
+      \ move away from Moloch by the safest available route on each of its turns,\
+      \ unless there is nowhere to move, in which case it needn't take the [Dash](Rules/actions.md#Dash)\
       \ action. If the creature ends its turn in a location where it doesn't have\
       \ line of sight to Moloch, the creature can repeat the saving throw, ending\
       \ the effect on itself on a success."
@@ -114,14 +111,11 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
     "name": "Teleport"
   - "desc": "Moloch casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md)\
-      \ (can become Medium when changing his appearance), [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md),\
-      \ [stinking cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stinking-cloud.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md)"
+      \ will:** [alter self](Compendium/spells/alter-self.md) (can become Medium when\
+      \ changing his appearance), [confusion](Compendium/spells/confusion.md), [detect\
+      \ magic](Compendium/spells/detect-magic.md), [fly](Compendium/spells/fly.md),\
+      \ [major image](Compendium/spells/major-image.md), [stinking cloud](Compendium/spells/stinking-cloud.md),\
+      \ [suggestion](Compendium/spells/suggestion.md), [wall of fire](Compendium/spells/wall-of-fire.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Moloch can expend a use to take one of the following actions. Moloch regains\
@@ -136,6 +130,6 @@ Most of Moloch's cultists have switched allegiance to one of the other archdevil
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/moloch-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/moloch-mpmm.webp"
 ```
 ^statblock

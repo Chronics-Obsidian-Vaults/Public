@@ -1,23 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/wizard
 - source/spell/level/5th-level
 - source/spell/school/transmutation
-- source/spell/subclass/armorer
 - source/spell/subclass/circle-of-the-land/mountain
-- source/spell/subclass/moon-domain
 classes:
-- Artificer (Armorer)
 - Bard (Magical Secrets)
-- Cleric (Moon Domain)
 - Druid (Circle of the Land, Mountain)
 - Wizard
 aliases:
-- Passwall
+- "Passwall"
 level: 5
 school: transmutation
 ritual: false
@@ -41,6 +38,6 @@ A passage appears at a point of your choice that you can see on a wooden, plaste
 
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
-**Classes**: [Artificer (Armorer)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Moon Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-moon-domain-tdcsr.md "subclass=TDCSR"); [Druid (Circle of the Land, Mountain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Mountain)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 264. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

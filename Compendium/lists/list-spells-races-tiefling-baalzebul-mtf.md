@@ -5,18 +5,18 @@ cssclasses:
 tags:
 - source/spell/list/subrace/tiefling-baalzebul
 aliases:
-- Spells for Tiefling (Baalzebul)
+- "Spells for Tiefling (Baalzebul)"
 ---
 # Spells for Tiefling (Baalzebul)
 
 ## Cantrip
 
-- [Thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md "PHB") at class level 5
+- [Thaumaturgy](Compendium/spells/thaumaturgy.md "PHB") as cantrip
 
 ## 1st Level
 
-- [Ray of Sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md "PHB") at class level 5
+- [Ray of Sickness](Compendium/spells/ray-of-sickness.md "PHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Crown of Madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md "PHB") at class level 5
+- [Crown of Madness](Compendium/spells/crown-of-madness.md "PHB") at class level 5

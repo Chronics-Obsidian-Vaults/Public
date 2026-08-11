@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmtcrg
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: The Deck of Many Things: Card Reference Guide, p. 1* 
@@ -40,11 +40,11 @@ aliases:
         - **Director of Product Management.** Liz Schuh    
         - **Product Managers.** Natalie Egan, Chris Lindsay, Hilary Ross, Chris Tulach    
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/credits.webp#center)
+![](Compendium/books/the-book-of-many-things/img/credits.webp#center)
 
 > [!gallery]
-> ![Front Cover](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-deck-of-many-things-card-reference-guide/img/cover-front.webp#gallery)
-> ![Back Cover](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-deck-of-many-things-card-reference-guide/img/cover-back.webp#gallery)
+> ![Front Cover](Compendium/books/the-deck-of-many-things-card-reference-guide/img/cover-front.webp#gallery)
+> ![Back Cover](Compendium/books/the-deck-of-many-things-card-reference-guide/img/cover-back.webp#gallery)
 
 > [!note]
 > Disclaimer: The gods of fate take no responsibility for any alignment changes, deaths, debilitating curses, fiendish enmities, imprisonments, or sudden betrayals, nor for the loss of ability scores, experience points, magic items, physical property, or wealth, resulting from the use of this book. Look, it's the Deck of Many Things—what did you expect?

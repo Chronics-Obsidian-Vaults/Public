@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warforged Titan
+- "Warforged Titan"
 ---
-# [Warforged Titan](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/warforged-titan-erlw.md)
+# [Warforged Titan](Compendium/bestiary/construct/warforged-titan-erlw.md)
 *Source: Eberron: Rising from the Last War p. 315*  
 
 Warforged titans are hulking constructs built to wreak paths of destruction through enemy armies. Some of the most feared combatants of the Last War, warforged titans are barely sentient, with just enough intelligence to follow commands.
@@ -39,14 +40,10 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
   - !!int "1"
 "speed": "40 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "8"
 "traits":
@@ -62,11 +59,11 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19\
       \ (3d8 + 6) slashing damage, plus 11 (2d10) slashing damage if the target is\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ [prone](Rules/conditions.md#Prone)."
     "name": "Axehand"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19\
       \ (3d8 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 17 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ on a DC 17 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Hammerfist"
   - "desc": "The warforged titan makes a sweep with its axehand, and each creature\
       \ within 10 feet of it must make a DC 17 Dexterity saving throw. A creature\
@@ -75,6 +72,6 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
     "name": "Sweeping Axe (Recharge 6)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/warforged-titan-erlw.webp"
+"image": "Compendium/bestiary/construct/token/warforged-titan-erlw.webp"
 ```
 ^statblock

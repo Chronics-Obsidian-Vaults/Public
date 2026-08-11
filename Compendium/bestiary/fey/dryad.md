@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dryad
+- "Dryad"
 ---
-# [Dryad](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/dryad.md)
-*Source: Monster Manual p. 121, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Dryad](Compendium/bestiary/fey/dryad.md)
+*Source: Monster Manual p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
 
@@ -25,7 +26,7 @@ A dryad can emerge from the tree and travel the lands around it, but the tree re
 
 ## Reclusive Fey
 
-Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed).
+Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [charmed](Rules/conditions.md#Charmed).
 
 Dryads work with other sylvan creatures to defend their forests. Unicorns, treants, and satyrs live alongside them, in addition to druids that share the dryads' devotion to the woods they call home.
 
@@ -39,7 +40,7 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 "type": "fey"
 "alignment": "Neutral"
 "ac": !!int "11"
-"ac_class": "16 with [barkskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/barkskin.md)"
+"ac_class": "16 with [barkskin](Compendium/spells/barkskin.md)"
 "hp": !!int "22"
 "hit_dice": "5d8"
 "modifier": !!int "1"
@@ -52,23 +53,22 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[club](Compendium/items/club.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Elvish, Sylvan"
 "cr": "1"
 "traits":
   - "desc": "The dryad's innate spellcasting ability is Charisma (spell save DC 14).\
       \ The dryad can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md)\n\
-      \n**3/day each:** [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md),\
-      \ [goodberry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/goodberry.md)\n\
-      \n**1/day each:** [barkskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/barkskin.md),\
-      \ [pass without trace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pass-without-trace.md),\
-      \ [shillelagh](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shillelagh.md)"
+      \n**At will:** [druidcraft](Compendium/spells/druidcraft.md)\n\n**3/day each:**\
+      \ [entangle](Compendium/spells/entangle.md), [goodberry](Compendium/spells/goodberry.md)\n\
+      \n**1/day each:** [barkskin](Compendium/spells/barkskin.md), [pass without trace](Compendium/spells/pass-without-trace.md),\
+      \ [shillelagh](Compendium/spells/shillelagh.md)"
     "name": "Innate Spellcasting"
   - "desc": "The dryad has advantage on saving throws against spells and other magical\
       \ effects."
@@ -88,8 +88,7 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
     "name": "Club"
   - "desc": "The dryad targets one humanoid or beast that she can see within 30 feet\
       \ of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom\
-      \ saving throw or be magically [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed).\
-      \ The [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ saving throw or be magically [charmed](Rules/conditions.md#Charmed). The [charmed](Rules/conditions.md#Charmed)\
       \ creature regards the dryad as a trusted friend to be heeded and protected.\
       \ Although the target isn't under the dryad's control, it takes the dryad's\
       \ requests or actions in the most favorable way it can.\n\nEach time the dryad\
@@ -99,15 +98,11 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
       \ the target, or ends the effect as a bonus action. If a target's saving throw\
       \ is successful, the target is immune to the dryad's Fey Charm for the next\
       \ 24 hours.\n\nThe dryad can have no more than one humanoid and up to three\
-      \ beasts [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ at a time."
+      \ beasts [charmed](Rules/conditions.md#Charmed) at a time."
     "name": "Fey Charm"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/dryad.webp"
+"image": "Compendium/bestiary/fey/token/dryad.webp"
 ```
 ^statblock
 

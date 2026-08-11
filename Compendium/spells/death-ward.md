@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/boros-legionnaire
@@ -8,29 +9,27 @@ tags:
 - source/spell/class/bard/magical-secrets
 - source/spell/class/cleric
 - source/spell/class/paladin
+- source/spell/feat/mark-of-sentinel
 - source/spell/level/4th-level
 - source/spell/school/abjuration
-- source/spell/subclass/alchemist
 - source/spell/subclass/death-domain
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/grave-domain
 - source/spell/subclass/life-domain
-- source/spell/subclass/runechild
+- source/spell/subclass/the-undead
 - source/spell/subclass/the-undying
-- source/spell/subrace/human-mark-of-sentinel
 classes:
-- Artificer (Alchemist)
 - Bard (Magical Secrets)
 - Cleric
 - Cleric (Death Domain)
 - Cleric (Grave Domain)
 - Cleric (Life Domain)
 - Paladin
-- Sorcerer (Divine Soul, Good)
-- Sorcerer (Runechild)
+- Sorcerer (Divine Soul)
+- Warlock (The Undead)
 - Warlock (The Undying)
 aliases:
-- Death Ward
+- "Death Ward"
 level: 4
 school: abjuration
 ritual: false
@@ -56,6 +55,6 @@ The first time the target would drop to 0 hit points as a result of taking damag
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
-**Classes**: [Artificer (Alchemist)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric (Life Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-life-domain.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer (Runechild)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-runechild-tdcsr.md "subclass=TDCSR"); [Warlock (The Undying)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](Compendium/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Grave Domain)](Compendium/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE"); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Undead)](Compendium/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR"); [Warlock (The Undying)](Compendium/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG")
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

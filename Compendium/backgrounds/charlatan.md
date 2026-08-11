@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Charlatan
+- "Charlatan"
 ---
 # Charlatan
 *Source: Player's Handbook p. 128*  
 
 
-- **Skill Proficiencies.** [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)  
-- **Tool Proficiencies.** [Disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md), [Forgery kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/forgery-kit.md)  
-- **Equipment.** A set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), a [disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md), tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](Rules/skills.md#Deception), [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)  
+- **Tool Proficiencies.** [Disguise kit](Compendium/items/disguise-kit.md), [Forgery kit](Compendium/items/forgery-kit.md)  
+- **Equipment.** A set of [fine clothes](Compendium/items/fine-clothes.md), a [disguise kit](Compendium/items/disguise-kit.md), tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 You have always had a way with people. You know what makes them tick, you can tease out their hearts' desires after a few minutes of conversation, and with a few leading questions you can read like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage
 

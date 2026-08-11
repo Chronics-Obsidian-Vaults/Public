@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/dwarven
 - source/domain/life
-aliases: 
-- Sharindlar
+aliases:
+- "Sharindlar"
 ---
 # Sharindlar
 *Source: Mordenkainen's Tome of Foes p. 73* 

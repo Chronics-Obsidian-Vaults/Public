@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Obzedat Ghost
+- "Obzedat Ghost"
 ---
-# [Obzedat Ghost](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/obzedat-ghost-ggr.md)
+# [Obzedat Ghost](Compendium/bestiary/undead/obzedat-ghost-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 245*  
 
 The ghosts who make up the Obzedat are traditionally called patriarchs, though they can be male or female. They are the oldest, wealthiest, and most influential oligarchs of the Orzhov Syndicate. They have been dead for centuries, but they refuse to let go of the fortunes they amassed in life. Addicted to power and prestige, these patriarchs continue to dominate the guild and accumulate even larger fortunes.
@@ -58,43 +59,37 @@ Flaw: "Everyone has a price."
   - "intelligence": !!int "7"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 18"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 18"
 "languages": "Common"
 "cr": "8"
 "traits":
   - "desc": "The ghost's innate spellcasting ability is Wisdom (spell save DC 16,\
       \ +8 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no components:\n\n**At will:** [chill touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chill-touch.md)\
+      \ requiring no components:\n\n**At will:** [chill touch](Compendium/spells/chill-touch.md)\
       \ (at 5th level, and the ghost regains hit points equal to half the amount of\
-      \ damage the target takes)\n\n**1/day each:** [sanctuary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sanctuary.md),\
-      \ [spirit guardians](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spirit-guardians.md)\
-      \ (at 4th level)"
+      \ damage the target takes)\n\n**1/day each:** [sanctuary](Compendium/spells/sanctuary.md),\
+      \ [spirit guardians](Compendium/spells/spirit-guardians.md) (at 4th level)"
     "name": "Innate Spellcasting"
   - "desc": "The ghost has a trait based on who it is, as shown below:\n\n- **Enezesku\
-      \ Enfeebling Ray.** Enezesku's Innate Spellcasting trait includes [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md),\
+      \ Enfeebling Ray.** Enezesku's Innate Spellcasting trait includes [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement.md),\
       \ which he can cast at will.  \n- **Fautomni Undead Fortitude.** If damage reduces\
       \ Fautomni to 0 hit points, he must make a Constitution saving throw with a\
       \ DC of 5 + the damage taken, unless the damage is radiant or from a critical\
       \ hit. On a success, Fautomni drops to 1 hit point instead.  \n- **Karlov Unnatural\
       \ Vigor.** When Karlov regains hit points, he has advantage on attack rolls\
       \ he makes on his next turn.  \n- **Vuliev Teleportation.** Vuliev's Innate\
-      \ Spellcasting trait includes [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md),\
+      \ Spellcasting trait includes [misty step](Compendium/spells/misty-step.md),\
       \ which he can cast at will.  \n- **Xil Xaxosz Lingering Spite.** When Xil Xaxosz\
       \ is reduced to 0 hit points, his incorporeal form explodes in a burst of necrotic\
       \ energy. Each creature within 5 feet of him must make a DC 16 Constitution\
@@ -134,11 +129,11 @@ Flaw: "Everyone has a price."
       \ ends, the target can't take actions or reactions, and its speed is 0 and can't\
       \ be increased."
     "name": "Forced Obedience"
-  - "desc": "The Obzedat ghosts conjure 1d6 [indentured spirits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/indentured-spirit-ggr.md)\
+  - "desc": "The Obzedat ghosts conjure 1d6 [indentured spirits](Compendium/bestiary/undead/indentured-spirit-ggr.md)\
       \ (described in this chapter) within 60 feet of one of them."
     "name": "Indentured Spirits (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/obzedat-ghost-ggr.webp"
+"image": "Compendium/bestiary/undead/token/obzedat-ghost-ggr.webp"
 ```
 ^statblock

@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/githyanki
 aliases:
-- Githyanki
+- "Githyanki"
 ---
 # Githyanki
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 18*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/githyanki.webp#right)
+![](Compendium/races/img/githyanki.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -24,9 +25,9 @@ You can mystically access a reservoir of experiences of entities connected to th
 
 ### Githyanki Psionics
 
-You know the [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) when you cast the cantrip with this trait.
+You know the [mage hand](Compendium/spells/mage-hand.md) cantrip, and the hand is [invisible](Rules/conditions.md#Invisible) when you cast the cantrip with this trait.
 
-Starting at 3rd level, you can cast the [jump](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/jump.md) spell with this trait. Starting at 5th level, you can also cast [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md) with it. Once you cast [jump](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/jump.md) or [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [jump](Compendium/spells/jump.md) spell with this trait. Starting at 5th level, you can also cast [misty step](Compendium/spells/misty-step.md) with it. Once you cast [jump](Compendium/spells/jump.md) or [misty step](Compendium/spells/misty-step.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
 

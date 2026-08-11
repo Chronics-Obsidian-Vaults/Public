@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Tarsellis Meunniduin
+aliases:
+- "Tarsellis Meunniduin"
 ---
 # Tarsellis Meunniduin
 *Source: Mordenkainen's Tome of Foes p. 43* 

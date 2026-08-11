@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/21
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lich
+- "Lich"
 ---
-# [Lich](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/lich.md)
-*Source: Monster Manual p. 202, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Lich](Compendium/bestiary/undead/lich.md)
+*Source: Monster Manual p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Liches are the remains of great wizards who embrace undeath as a means of preserving themselves. They further their own power at any cost, having no interest in the affairs of the living except where those affairs interfere with their own. Scheming and insane, they hunger for long-forgotten knowledge and the most terrible secrets. Because the shadow of death doesn't hang over them, they can conceive plans that take years, decades, or centuries to come to fruition.
 
@@ -28,7 +29,7 @@ With its phylactery prepared, the future lich drinks a potion of transformation-
 
 ## Soul Sacrifices
 
-A lich must periodically feed souls to its phylactery to sustain the magic preserving its body and consciousness. It does this using the [imprisonment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/imprisonment.md) spell. Instead of choosing one of the normal options of the spell, the lich uses the spell to magically trap the target's body and soul inside its phylactery. The phylactery must be on the same plane as the lich for the spell to work. A lich's phylactery can hold only one creature at a time, and a [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md) cast as a 9th-level spell upon the phylactery releases any creature imprisoned within it. A creature imprisoned in the phylactery for 24 hours is consumed and destroyed utterly, whereupon nothing short of divine intervention can restore it to life.
+A lich must periodically feed souls to its phylactery to sustain the magic preserving its body and consciousness. It does this using the [imprisonment](Compendium/spells/imprisonment.md) spell. Instead of choosing one of the normal options of the spell, the lich uses the spell to magically trap the target's body and soul inside its phylactery. The phylactery must be on the same plane as the lich for the spell to work. A lich's phylactery can hold only one creature at a time, and a [dispel magic](Compendium/spells/dispel-magic.md) cast as a 9th-level spell upon the phylactery releases any creature imprisoned within it. A creature imprisoned in the phylactery for 24 hours is consumed and destroyed utterly, whereupon nothing short of divine intervention can restore it to life.
 
 A lich that fails or forgets to maintain its body with sacrificed souls begins to physically fall apart, and might eventually become a demilich.
 
@@ -81,54 +82,43 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
   - "intelligence": !!int "12"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+19"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+12"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 19"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 19"
 "languages": "Common plus up to five other languages"
 "cr": "21"
 "traits":
   - "desc": "The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 20, +12 to hit with spell attacks). The lich has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md),\
-      \ [ray of frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md)\n\
-      \n**1st level (4 slots):** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md),\
-      \ [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md)\n\
-      \n**2nd level (3 slots):** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [Melf's acid arrow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/melfs-acid-arrow.md),\
-      \ [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md)\n\
-      \n**3rd level (3 slots):** [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md),\
-      \ [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)\n\
-      \n**4th level (3 slots):** [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md),\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md)\n\
-      \n**5th level (3 slots):** [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)\n\
-      \n**6th level (1 slots):** [disintegrate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disintegrate.md),\
-      \ [globe of invulnerability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/globe-of-invulnerability.md)\n\
-      \n**7th level (1 slots):** [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\n\
-      \n**8th level (1 slots):** [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md),\
-      \ [power word stun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-stun.md)\n\
-      \n**9th level (1 slots):** [power word kill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-kill.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](Compendium/spells/mage-hand.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md), [ray of frost](Compendium/spells/ray-of-frost.md)\n\
+      \n**1st level (4 slots):** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [magic missile](Compendium/spells/magic-missile.md), [shield](Compendium/spells/shield.md),\
+      \ [thunderwave](Compendium/spells/thunderwave.md)\n\n**2nd level (3 slots):**\
+      \ [detect thoughts](Compendium/spells/detect-thoughts.md), [invisibility](Compendium/spells/invisibility.md),\
+      \ [Melf's acid arrow](Compendium/spells/melfs-acid-arrow.md), [mirror image](Compendium/spells/mirror-image.md)\n\
+      \n**3rd level (3 slots):** [animate dead](Compendium/spells/animate-dead.md),\
+      \ [counterspell](Compendium/spells/counterspell.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [fireball](Compendium/spells/fireball.md)\n\n**4th level (3 slots):** [blight](Compendium/spells/blight.md),\
+      \ [dimension door](Compendium/spells/dimension-door.md)\n\n**5th level (3 slots):**\
+      \ [cloudkill](Compendium/spells/cloudkill.md), [scrying](Compendium/spells/scrying.md)\n\
+      \n**6th level (1 slots):** [disintegrate](Compendium/spells/disintegrate.md),\
+      \ [globe of invulnerability](Compendium/spells/globe-of-invulnerability.md)\n\
+      \n**7th level (1 slots):** [finger of death](Compendium/spells/finger-of-death.md),\
+      \ [plane shift](Compendium/spells/plane-shift.md)\n\n**8th level (1 slots):**\
+      \ [dominate monster](Compendium/spells/dominate-monster.md), [power word stun](Compendium/spells/power-word-stun.md)\n\
+      \n**9th level (1 slots):** [power word kill](Compendium/spells/power-word-kill.md)"
     "name": "Spellcasting"
   - "desc": "If the lich fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -142,9 +132,9 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
 "actions":
   - "desc": "*Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10\
       \ (3d6) cold damage. The target must succeed on a DC 18 Constitution saving\
-      \ throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ throw or be [paralyzed](Rules/conditions.md#Paralyzed) for 1 minute. The target\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Paralyzing Touch"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the lich can take a\
@@ -174,8 +164,7 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
     "name": "Paralyzing Touch (Costs 2 Actions)"
   - "desc": "The lich fixes its gaze on one creature it can see within 10 feet of\
       \ it. The target must succeed on a DC 18 Wisdom saving throw against this magic\
-      \ or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ for 1 minute. The [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ or become [frightened](Rules/conditions.md#Frightened) for 1 minute. The [frightened](Rules/conditions.md#Frightened)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a target's saving throw is successful\
       \ or the effect ends for it, the target is immune to the lich's gaze for the\
@@ -187,8 +176,6 @@ A lich encountered in its lair has a challenge rating of 22 (41,000 XP).
     "name": "Disrupt Life (Costs 3 Actions)"
 "source":
   - "MM"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/lich.webp"
+"image": "Compendium/bestiary/undead/token/lich.webp"
 ```
 ^statblock

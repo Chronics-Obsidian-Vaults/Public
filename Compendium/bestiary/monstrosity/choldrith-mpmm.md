@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Choldrith
+- "Choldrith"
 ---
-# [Choldrith](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/choldrith-mpmm.md)
+# [Choldrith](Compendium/bestiary/monstrosity/choldrith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
@@ -43,26 +44,27 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
   - !!int "10"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-  - "desc": "The choldrith has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The choldrith has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put the choldrith to sleep."
     "name": "Fey Ancestry"
   - "desc": "The choldrith can climb difficult surfaces, including upside down on\
       \ ceilings, without needing to make an ability check."
     "name": "Spider Climb"
   - "desc": "While in sunlight, the choldrith has disadvantage on attack rolls, as\
-      \ well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely\
+      \ on sight."
     "name": "Sunlight Sensitivity"
   - "desc": "While in contact with a web, the choldrith knows the exact location of\
       \ any other creature in contact with the same web."
@@ -74,17 +76,16 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
       \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage."
     "name": "Dagger"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one Large or smaller\
-      \ creature. *Hit:* The target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by webbing. As an action, the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ creature. *Hit:* The target is [restrained](Rules/conditions.md#Restrained)\
+      \ by webbing. As an action, the [restrained](Rules/conditions.md#Restrained)\
       \ target can make a DC 11 Strength check, bursting the webbing on a success.\
       \ The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability\
       \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
   - "desc": "The choldrith casts one of the following spells, using Wisdom as the\
-      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1/day each:** [bane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bane.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md)"
+      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](Compendium/spells/guidance.md),\
+      \ [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\n**1/day each:** [bane](Compendium/spells/bane.md),\
+      \ [hold person](Compendium/spells/hold-person.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The choldrith conjures a floating, spectral dagger within 60 feet of\
@@ -97,7 +98,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/choldrith-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/choldrith-mpmm.webp"
 ```
 ^statblock
 

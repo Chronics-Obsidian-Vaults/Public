@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Backstory; Family Relationships
+- "Backstory; Family Relationships"
 ---
 # Backstory; Family Relationships
 *Source: Explorer's Guide to Wildemount p. 191* 

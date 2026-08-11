@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Dimir Operative
+- "Dimir Operative"
 ---
 # Dimir Operative
 *Source: Guildmasters' Guide to Ravnica p. 46*  
 
 
-- **Skill Proficiencies.** [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)  
-- **Tool Proficiencies.** [Disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md)  
+- **Skill Proficiencies.** [Deception](Rules/skills.md#Deception), [Stealth](Rules/skills.md#Stealth)  
+- **Tool Proficiencies.** [Disguise kit](Compendium/items/disguise-kit.md)  
 - **Languages.** One of your choice  
-- **Equipment.** A Dimir insignia, three small knives, a set of dark-colored [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and the starting equipment of the background described in this chapter for your secondary guild  
+- **Equipment.** A Dimir insignia, three small knives, a set of dark-colored [common clothes](Compendium/items/common-clothes.md), and the starting equipment of the background described in this chapter for your secondary guild  
 
 You're a spy. Secrets and misinformation are your stock in trade. You skulk in the shadows, infiltrate other guilds, and steal the most precious secrets, whether they're written in locked journals or hidden away in someone's mind. Even you might not be aware of all the reasons behind the missions you carry out. Sometimes a mission's sole purpose is to conceal the motivation behind another strike performed in a different part of the city, or simply to spread fear.
 
@@ -50,15 +51,15 @@ For you, the spells on the Dimir Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [encode thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/encode-thoughts-ggr.md), [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md) |
-| 1st | [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md), [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md) |
-| 2nd | [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md), [pass without trace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pass-without-trace.md) |
-| 3rd | [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md), [meld into stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/meld-into-stone.md), [nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md) |
-| 4th | [arcane eye](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-eye.md), [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md) |
-| 5th | [modify memory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/modify-memory.md) |
+| Cantrip | [encode thoughts](Compendium/spells/encode-thoughts-ggr.md), [mage hand](Compendium/spells/mage-hand.md) |
+| 1st | [disguise self](Compendium/spells/disguise-self.md), [sleep](Compendium/spells/sleep.md) |
+| 2nd | [detect thoughts](Compendium/spells/detect-thoughts.md), [pass without trace](Compendium/spells/pass-without-trace.md) |
+| 3rd | [gaseous form](Compendium/spells/gaseous-form.md), [meld into stone](Compendium/spells/meld-into-stone.md), [nondetection](Compendium/spells/nondetection.md) |
+| 4th | [arcane eye](Compendium/spells/arcane-eye.md), [freedom of movement](Compendium/spells/freedom-of-movement.md) |
+| 5th | [modify memory](Compendium/spells/modify-memory.md) |
 ^dimir-guild-spells
 
-Your magic is meant to be subtle and undetectable, but it might pull shadows or clouds of mist around you as you cast your spells. Using the [encode thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/encode-thoughts-ggr.md) cantrip described below, you can turn a creature's thoughts (including your own) into a thought strand that others can potentially read, share, or steal. These thought strands are treated as valuable currency among the Dimir.
+Your magic is meant to be subtle and undetectable, but it might pull shadows or clouds of mist around you as you cast your spells. Using the [encode thoughts](Compendium/spells/encode-thoughts-ggr.md) cantrip described below, you can turn a creature's thoughts (including your own) into a thought strand that others can potentially read, share, or steal. These thought strands are treated as valuable currency among the Dimir.
 
 ## Suggested Characteristics
 

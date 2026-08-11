@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/16
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Spawn Larva Mage
+- "Star Spawn Larva Mage"
 ---
-# [Star Spawn Larva Mage](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/star-spawn-larva-mage-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235, The Book of Many Things*  
+# [Star Spawn Larva Mage](Compendium/bestiary/aberration/star-spawn-larva-mage-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*  
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
 
@@ -64,41 +65,35 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 16"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [restrained](Rules/conditions.md#Restrained)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 16"
 "languages": "Deep Speech"
 "cr": "16"
 "traits":
   - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
-      \ of insects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/swarm-of-insects.md)\
-      \ in the same space. Unless the swarm is destroyed, the mage reforms from it\
-      \ 24 hours later."
+      \ of insects](Compendium/bestiary/beast/swarm-of-insects.md) in the same space.\
+      \ Unless the swarm is destroyed, the mage reforms from it 24 hours later."
     "name": "Return to Worms"
 "actions":
   - "desc": "The mage makes three Slam or Eldritch Bolt attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 7\
       \ (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 19 Constitution\
-      \ saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ until the end of its next turn."
+      \ saving throw or be [poisoned](Rules/conditions.md#Poisoned) until the end\
+      \ of its next turn."
     "name": "Slam"
   - "desc": "*Ranged Spell Attack:* +8 to hit, range 60 ft., one target. *Hit:* 19\
       \ (3d10 + 3) force damage."
     "name": "Eldritch Bolt"
   - "desc": "Each creature other than a star spawn within 10 feet of the mage must\
       \ succeed on a DC 19 Dexterity saving throw or take 22 (5d8) necrotic damage\
-      \ and be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ and be [blinded](Rules/conditions.md#Blinded) and [restrained](Rules/conditions.md#Restrained)\
       \ by masses of swarming worms. The affected creature takes 22 (5d8) necrotic\
       \ damage at the start of each of the mage's turns. The creature can repeat the\
       \ saving throw at the end of each of its turns, ending the effect on itself\
@@ -106,10 +101,9 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Plague of Worms (Recharge 6)"
   - "desc": "The mage casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\n**At\
-      \ will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md)\n\
-      \n**1/day:** [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md)"
+      \ will:** [mage hand](Compendium/spells/mage-hand.md), [message](Compendium/spells/message.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md)\n\n**1/day:** [dominate\
+      \ monster](Compendium/spells/dominate-monster.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 20 feet of the mage fails a saving throw, the\
@@ -124,15 +118,14 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Slam"
   - "desc": "The mage makes one Eldritch Bolt attack."
     "name": "Eldritch Bolt (Costs 2 Actions)"
-  - "desc": "Each creature [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by the mage's Plague of Worms takes 13 (3d8) necrotic damage, and the mage\
-      \ gains 6 temporary hit points."
+  - "desc": "Each creature [restrained](Rules/conditions.md#Restrained) by the mage's\
+      \ Plague of Worms takes 13 (3d8) necrotic damage, and the mage gains 6 temporary\
+      \ hit points."
     "name": "Feed (Costs 3 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/star-spawn-larva-mage-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/star-spawn-larva-mage-mpmm.webp"
 ```
 ^statblock
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Polar Bear
+- "Polar Bear"
 ---
-# [Polar Bear](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/polar-bear.md)
-*Source: Monster Manual p. 334, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Polar Bear](Compendium/bestiary/beast/polar-bear.md)
+*Source: Monster Manual p. 334. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Polar Bear"
@@ -35,13 +36,13 @@ aliases:
   - !!int "7"
 "speed": "40 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The bear has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The bear has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
@@ -55,8 +56,7 @@ aliases:
     "name": "Claws"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/polar-bear.webp"
+"image": "Compendium/bestiary/beast/token/polar-bear.webp"
 ```
 ^statblock
 

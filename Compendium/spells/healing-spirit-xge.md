@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Druid
 - Ranger
 aliases:
-- Healing Spirit
+- "Healing Spirit"
 level: 2
 school: conjuration
 ritual: false
@@ -41,6 +42,6 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by `1d6` for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Xanathar's Guide to Everything p. 157*

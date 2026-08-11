@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/4
@@ -9,18 +10,20 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mind Drinker Vampire
+- "Mind Drinker Vampire"
 ---
-# [Mind Drinker Vampire](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/mind-drinker-vampire-ggr.md)
+# [Mind Drinker Vampire](Compendium/bestiary/undead/mind-drinker-vampire-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 224*  
+
+## Mind Drinker Vampire
 
 When vampires join House Dimir, they can learn to siphon mental energy and memories along with the blood of their victims. They also study the magic favored by Dimir mind mages, giving them a powerful combination of abilities ideal for espionage and infiltration.
 
-## Szadek's Heirs
+### Szadek's Heirs
 
 The founder of House Dimir, Szadek, was the first of the so-called mind drinkers. His secrets are passed on only to other members of his guild, and mind drinkers who leave House Dimir become enemies of the guild-the only exceptions to a rule that prohibits mind drinkers from feeding on others of their kind.
 
-## Cell Leaders
+### Cell Leaders
 
 Thanks to their particular gifts, mind drinkers are often placed as leaders of small cells of covert Dimir operatives. They rarely trust their own agents, though, and often follow their cell members to make sure those members carry out missions as ordered. The most suspicious vampires might even siphon thoughts from their subordinates to detect any hint of betrayal.
 
@@ -52,44 +55,40 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
   - "intelligence": !!int "6"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "4"
 "traits":
   - "desc": "The vampire's innate spellcasting ability is Intelligence (spell save\
       \ DC 14). It can innately cast the following spells, requiring no components:\n\
-      \n**At will:** [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md)\n\
-      \n**3/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md)\n\
-      \n**1/day each:** [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md)"
+      \n**At will:** [message](Compendium/spells/message.md)\n\n**3/day each:** [charm\
+      \ person](Compendium/spells/charm-person.md), [hold person](Compendium/spells/hold-person.md),\
+      \ [mirror image](Compendium/spells/mirror-image.md), [sleep](Compendium/spells/sleep.md)\n\
+      \n**1/day each:** [gaseous form](Compendium/spells/gaseous-form.md), [major\
+      \ image](Compendium/spells/major-image.md)"
     "name": "Innate Spellcasting (Psionics)"
-  - "desc": "While in dim light or darkness, the vampire can take the Hide action\
-      \ as a bonus action."
+  - "desc": "While in dim light or darkness, the vampire can take the [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the vampire has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The vampire makes two attacks, only one of which can be a bite attack."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature,\
-      \ or a creature that is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by the vampire, [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
-      \ or [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ or a creature that is [grappled](Rules/conditions.md#Grappled) by the vampire,\
+      \ [incapacitated](Rules/conditions.md#Incapacitated), or [restrained](Rules/conditions.md#Restrained).\
       \ *Hit:* 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's\
       \ hit point maximum is reduced by an amount equal to the necrotic damage taken,\
       \ and the vampire regains hit points equal to that amount. The reduction lasts\
@@ -110,6 +109,6 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
     "name": "Mind Siphon (Recharge 5-6)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/mind-drinker-vampire-ggr.webp"
+"image": "Compendium/bestiary/undead/token/mind-drinker-vampire-ggr.webp"
 ```
 ^statblock

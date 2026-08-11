@@ -6,11 +6,11 @@ tags:
 - source/compendium/src/5e/xge
 - source/optional-feature/ei
 aliases:
-- Eldritch Smite
+- "Eldritch Smite"
 ---
 # Eldritch Smite
 *Source: Xanathar's Guide to Everything p. 56*  
 
 **Prerequisite**: Level 5, Pact of the Blade
 
-Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra `1d8` force damage to the target, plus another `1d8` per level of the spell slot, and you can knock the target [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) if it is Huge or smaller.
+Once per turn when you hit a creature with your pact weapon, you can expend a warlock spell slot to deal an extra `1d8` force damage to the target, plus another `1d8` per level of the spell slot, and you can knock the target [prone](Rules/conditions.md#Prone) if it is Huge or smaller.

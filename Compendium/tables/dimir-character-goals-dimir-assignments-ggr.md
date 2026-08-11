@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Dimir Character Goals; Dimir Assignments
+- "Dimir Character Goals; Dimir Assignments"
 ---
 # Dimir Character Goals; Dimir Assignments
 *Source: Guildmasters' Guide to Ravnica p. 137* 

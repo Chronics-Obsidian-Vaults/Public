@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Violet Fungus
+- "Violet Fungus"
 ---
-# [Violet Fungus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/violet-fungus.md)
+# [Violet Fungus](Compendium/bestiary/plant/violet-fungus.md)
 *Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `2d6` days.
@@ -42,11 +43,10 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft. (blind beyond this radius), passive Perception 6"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft. (blind beyond this radius),\
+  \ passive Perception 6"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -61,7 +61,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
     "name": "Rotting Touch"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/violet-fungus.webp"
+"image": "Compendium/bestiary/plant/token/violet-fungus.webp"
 ```
 ^statblock
 

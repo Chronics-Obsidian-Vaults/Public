@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dolphin Delighter
+- "Dolphin Delighter"
 ---
-# [Dolphin Delighter](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/dolphin-delighter-mpmm.md)
+# [Dolphin Delighter](Compendium/bestiary/fey/dolphin-delighter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
 
 In the Feywild, dolphin delighters brighten the moods of those who travel the seas of the Domains of Delight. Telepathically singing sea chanteys, these dolphins leap and teleport through the luminous waters of Faerie and the Material Plane, and they are faithful allies to any who battle the forces of gloom and brutality under the waves.
@@ -46,12 +47,11 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
   - "wisdom": !!int "3"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+5"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., passive Perception 13"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., passive Perception 13"
 "languages": "Aquan, telepathy 120 ft."
 "cr": "3"
 "traits":
@@ -61,7 +61,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
   - "desc": "The dolphin makes two Dazzling Slam attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage plus 7 (2d6) psychic damage, and the target is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ + 2) bludgeoning damage plus 7 (2d6) psychic damage, and the target is [blinded](Rules/conditions.md#Blinded)\
       \ until the start of the dolphin's next turn."
     "name": "Dazzling Slam"
 "bonus_actions":
@@ -76,7 +76,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
     "name": "Fey Leap"
 "source":
   - "MPMM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/dolphin-delighter-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/dolphin-delighter-mpmm.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Party Formation; Party Origin
+- "Party Formation; Party Origin"
 ---
 # Party Formation; Party Origin
 *Source: Tasha's Cauldron of Everything p. 139* 

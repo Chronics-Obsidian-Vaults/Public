@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -14,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Lizard (Hold Breath and Spider Climb)
+- "Giant Lizard (Hold Breath and Spider Climb)"
 ---
-# [Giant Lizard (Hold Breath and Spider Climb)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-lizard-hold-breath-and-spider-climb.md)
+# [Giant Lizard (Hold Breath and Spider Climb)](Compendium/bestiary/beast/giant-lizard-hold-breath-and-spider-climb.md)
 *Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -37,8 +38,7 @@ aliases:
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., climb 30 ft., swim 30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":

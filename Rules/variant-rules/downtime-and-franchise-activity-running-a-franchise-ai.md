@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Running a Franchise
+- "Downtime and Franchise Activity: Running a Franchise"
 ---
 # Downtime and Franchise Activity: Running a Franchise
 *Source: Acquisitions Incorporated p. 42* 

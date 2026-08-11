@@ -8,12 +8,12 @@ tags:
 - source/domain/forge
 - source/domain/knowledge
 - source/domain/trickery
-aliases: 
-- The Traveler
+aliases:
+- "The Traveler"
 ---
 # The Traveler
 *Source: Eberron: Rising from the Last War p. 141* 
-![The Dark Six](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/erlw-the-dark-six.webp#symbol)
+![The Dark Six](Compendium/deities/img/erlw-the-dark-six.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Dark Six

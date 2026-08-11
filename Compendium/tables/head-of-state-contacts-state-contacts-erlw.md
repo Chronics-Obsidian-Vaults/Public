@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Head of State Contacts; State Contacts
+- "Head of State Contacts; State Contacts"
 ---
 # Head of State Contacts; State Contacts
 *Source: Eberron: Rising from the Last War p. 81* 

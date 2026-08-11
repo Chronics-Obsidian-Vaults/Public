@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/14
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deathpact Angel
+- "Deathpact Angel"
 ---
-# [Deathpact Angel](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/deathpact-angel-ggr.md)
+# [Deathpact Angel](Compendium/bestiary/celestial/deathpact-angel-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 192*  
 
 Deathpact angels dwell in the grandest of Orzhov cathedrals, where they surround themselves with wealth and wretched vassals that are utterly in their thrall.
@@ -55,34 +56,31 @@ Orzhov angels might claim positions as executioners, commanders, or power broker
   - "wisdom": !!int "10"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+11"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+11"
 "damage_resistances": "necrotic; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 20"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 20"
 "languages": "all"
 "cr": "14"
 "traits":
   - "desc": "The angel's innate spellcasting ability is Charisma (spell save DC 19,\
       \ +11 to hit with spell attacks). The angel can innately cast the following\
-      \ spells, requiring no material components:\n\n**At will:** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md)\
-      \ (as a 2nd-level spell), [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md)\n\
-      \n**3/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md)\
-      \ (as a 5th-level spell), [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**1/day:** [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md)"
+      \ spells, requiring no material components:\n\n**At will:** [command](Compendium/spells/command.md)\
+      \ (as a 2nd-level spell), [detect evil and good](Compendium/spells/detect-evil-and-good.md)\n\
+      \n**3/day each:** [charm person](Compendium/spells/charm-person.md) (as a 5th-level\
+      \ spell), [darkness](Compendium/spells/darkness.md), [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**1/day:** [raise dead](Compendium/spells/raise-dead.md)"
     "name": "Innate Spellcasting"
-  - "desc": "As a bonus action, the angel targets a creature [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+  - "desc": "As a bonus action, the angel targets a creature [charmed](Rules/conditions.md#Charmed)\
       \ by it that it can see within 30 feet of it. The angel deals 11 (2d10) necrotic\
       \ damage to the target, and the angel gains temporary hit points equal to the\
       \ damage dealt."
@@ -100,13 +98,13 @@ Orzhov angels might claim positions as executioners, commanders, or power broker
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 9\
       \ (2d4 + 4) slashing damage plus 27 (6d8) necrotic damage."
     "name": "Scythe"
-  - "desc": "The angel targets one creature [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+  - "desc": "The angel targets one creature [charmed](Rules/conditions.md#Charmed)\
       \ by it that it can see within 90 feet of it. The target must succeed on a DC\
-      \ 19 Charisma saving throw or become [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ 19 Charisma saving throw or become [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute or until it takes any damage."
     "name": "Chains of Obligation"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/deathpact-angel-ggr.webp"
+"image": "Compendium/bestiary/celestial/token/deathpact-angel-ggr.webp"
 ```
 ^statblock

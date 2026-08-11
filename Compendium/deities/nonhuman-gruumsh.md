@@ -7,8 +7,8 @@ tags:
 - source/deity/nonhuman
 - source/domain/tempest
 - source/domain/war
-aliases: 
-- Gruumsh
+aliases:
+- "Gruumsh"
 ---
 # Gruumsh
 *Source: Player's Handbook p. 296* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xvart Warlock of Raxivort
+- "Xvart Warlock of Raxivort"
 ---
-# [Xvart Warlock of Raxivort](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/xvart-warlock-of-raxivort-mpmm.md)
+# [Xvart Warlock of Raxivort](Compendium/bestiary/monstrosity/xvart-warlock-of-raxivort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 
 Some xvarts are spawned with a trace of Raxivort's divine energy. These xvarts usually form a pact with him and wield magic in his service as warlocks.
@@ -42,20 +43,20 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 10"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 10"
 "languages": "Abyssal"
 "cr": "1"
 "traits":
   - "desc": "When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary\
       \ hit points."
     "name": "Raxivort's Blessing"
-  - "desc": "The xvart can communicate with ordinary [bats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/bat.md)\
-      \ and [rats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/rat.md),\
-      \ as well as [giant bats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-bat.md)\
-      \ and [giant rats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-rat.md)."
+  - "desc": "The xvart can communicate with ordinary [bats](Compendium/bestiary/beast/bat.md)\
+      \ and [rats](Compendium/bestiary/beast/rat.md), as well as [giant bats](Compendium/bestiary/beast/giant-bat.md)\
+      \ and [giant rats](Compendium/bestiary/beast/giant-rat.md)."
     "name": "Raxivort's Tongue"
 "actions":
   - "desc": "The xvart makes two Scimitar or Raxivort's Bite attacks."
@@ -68,22 +69,18 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
     "name": "Raxivort's Bite"
   - "desc": "The xvart casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 11):\n\n**At\
-      \ will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\
-      \ (self only), [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1/day each:** [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)"
+      \ will:** [detect magic](Compendium/spells/detect-magic.md), [mage armor](Compendium/spells/mage-armor.md)\
+      \ (self only), [mage hand](Compendium/spells/mage-hand.md), [minor illusion](Compendium/spells/minor-illusion.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**1/day each:**\
+      \ [burning hands](Compendium/spells/burning-hands.md), [invisibility](Compendium/spells/invisibility.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The xvart takes the [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage)\
-      \ action."
+  - "desc": "The xvart takes the [Disengage](Rules/actions.md#Disengage) action."
     "name": "Low Cunning"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/xvart-warlock-of-raxivort-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/xvart-warlock-of-raxivort-mpmm.webp"
 ```
 ^statblock
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/1-4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kalashtar
+- "Kalashtar"
 ---
-# [Kalashtar](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/kalashtar-erlw.md)
+# [Kalashtar](Compendium/bestiary/humanoid/kalashtar-erlw.md)
 *Source: Eberron: Rising from the Last War p. 317*  
 
 The kalashtar have bonded with good-aligned quori spirits, which communicate with their hosts through dreams and visions. Descended from monks who offered their bodies as sanctuaries to those quori escaping the evil of Dal Quor, the kalashtar now fight to herald in a new age of light and balance.
@@ -35,13 +36,15 @@ The kalashtar have bonded with good-aligned quori spirits, which communicate wit
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+4"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+6"
 "damage_resistances": "psychic"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
 "senses": "passive Perception 12"
 "languages": "Common, telepathy 20 ft."
 "cr": "1/4"
@@ -58,6 +61,6 @@ The kalashtar have bonded with good-aligned quori spirits, which communicate wit
     "name": "Mind Thrust"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/kalashtar-erlw.webp"
+"image": "Compendium/bestiary/humanoid/token/kalashtar-erlw.webp"
 ```
 ^statblock

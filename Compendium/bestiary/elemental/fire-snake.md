@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Snake
+- "Fire Snake"
 ---
-# [Fire Snake](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/fire-snake.md)
+# [Fire Snake](Compendium/bestiary/elemental/fire-snake.md)
 *Source: Monster Manual p. 265*  
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
@@ -64,8 +65,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 "damage_vulnerabilities": "cold"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands Ignan but can't speak"
 "cr": "1"
 "traits":
@@ -83,7 +83,7 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
     "name": "Tail"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/fire-snake.webp"
+"image": "Compendium/bestiary/elemental/token/fire-snake.webp"
 ```
 ^statblock
 

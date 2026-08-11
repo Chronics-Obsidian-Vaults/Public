@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/smpl
 aliases:
-- Net Trap
+- "Net Trap"
 ---
 # Net Trap
 *Generic Hazard*  

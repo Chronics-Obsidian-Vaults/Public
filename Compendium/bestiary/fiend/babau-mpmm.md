@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/4
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Babau
+- "Babau"
 ---
-# [Babau](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/babau-mpmm.md)
+# [Babau](Compendium/bestiary/fiend/babau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
 
 > [!quote] A quote from Mordenkainen  
@@ -44,16 +45,15 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
   - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 15"
 "languages": "Abyssal"
 "cr": "4"
 "actions":
@@ -71,16 +71,14 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
     "name": "Weakening Gaze"
   - "desc": "The babau casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\n**At will:**\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md),\
-      \ [heat metal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heat-metal.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)"
+      \ [darkness](Compendium/spells/darkness.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [fear](Compendium/spells/fear.md), [heat metal](Compendium/spells/heat-metal.md),\
+      \ [levitate](Compendium/spells/levitate.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/babau-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/babau-mpmm.webp"
 ```
 ^statblock
 

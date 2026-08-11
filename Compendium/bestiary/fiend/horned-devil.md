@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/11
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Horned Devil
+- "Horned Devil"
 ---
-# [Horned Devil](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/horned-devil.md)
+# [Horned Devil](Compendium/bestiary/fiend/horned-devil.md)
 *Source: Monster Manual p. 74. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
@@ -114,7 +115,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -165,9 +166,8 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 13"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 13"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "11"
 "traits":
@@ -189,7 +189,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
       \ 10 (3d6) hit points at the start of each of its turns due to an infernal wound.\
       \ Each time the devil hits the wounded target with this attack, the damage dealt\
       \ by the wound increases by 10 (3d6). Any creature can take an action to stanch\
-      \ the wound with a successful DC 12 Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine))\
+      \ the wound with a successful DC 12 Wisdom ([Medicine](Rules/skills.md#Medicine))\
       \ check. The wound also closes if the target receives magical healing."
     "name": "Tail"
   - "desc": "*Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:* 14\
@@ -198,6 +198,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     "name": "Hurl Flame"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/horned-devil.webp"
+"image": "Compendium/bestiary/fiend/token/horned-devil.webp"
 ```
 ^statblock

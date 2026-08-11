@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/tce
 - source/spell/class/bard/magical-secrets
@@ -11,6 +12,7 @@ tags:
 - source/spell/feat/magic-initiate/wizard-spells
 - source/spell/level/cantrip
 - source/spell/optfeature/pact-of-the-tome
+- source/spell/race/khoravar
 - source/spell/race/kobold
 - source/spell/school/enchantment
 - source/spell/subclass/aberrant-mind
@@ -29,7 +31,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Mind Sliver
+- "Mind Sliver"
 level: 0
 school: enchantment
 ritual: false
@@ -42,7 +44,7 @@ components_vsm: [V]
 ---
 # Mind Sliver
 *cantrip, Enchantment*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/img/mind-sliver.webp#right)
+![](Compendium/spells/img/mind-sliver.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -53,6 +55,6 @@ You drive a disorienting spike of psychic energy into the mind of one creature y
 
 This spell's damage increases by `1d6` when you reach certain levels: 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Aberrant Mind)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Aberrant Mind)](Compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Tasha's Cauldron of Everything p. 108*

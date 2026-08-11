@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Xarrorn
+- "Duergar Xarrorn"
 ---
-# [Duergar Xarrorn](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/duergar-xarrorn-mpmm.md)
+# [Duergar Xarrorn](Compendium/bestiary/humanoid/duergar-xarrorn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 193*  
 
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.
@@ -45,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -58,19 +59,17 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-      \ and [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](Rules/conditions.md#Charmed),\
+      \ [paralyzed](Rules/conditions.md#Paralyzed), and [poisoned](Rules/conditions.md#Poisoned)\
       \ conditions."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 9\
@@ -82,11 +81,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save,\
       \ or half as much damage on a successful one."
     "name": "Fire Spray (Recharge 5-6)"
-  - "desc": "The duergar magically turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The duergar magically turns [invisible](Rules/conditions.md#Invisible)\
       \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-      \ throw, or its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ is broken (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). Any equipment the duergar wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+      \ throw, or its [concentration](Rules/conditions.md#Concentration) is broken\
+      \ (as if [concentrating](Rules/conditions.md#Concentration) on a spell). Any\
+      \ equipment the duergar wears or carries is [invisible](Rules/conditions.md#Invisible)\
       \ with it."
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "bonus_actions":
@@ -100,7 +99,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/duergar-xarrorn-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/duergar-xarrorn-mpmm.webp"
 ```
 ^statblock
 

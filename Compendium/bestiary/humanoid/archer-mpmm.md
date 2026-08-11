@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Archer
+- "Archer"
 ---
-# [Archer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/archer-mpmm.md)
+# [Archer](Compendium/bestiary/humanoid/archer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210*  
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
@@ -44,7 +45,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "75"
 "hit_dice": "10d8 + 30"
 "modifier": !!int "4"
@@ -57,10 +58,13 @@ Some renowned archers and groups of archers are known for the special fletching 
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -80,7 +84,7 @@ Some renowned archers and groups of archers are known for the special fletching 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/archer-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/archer-mpmm.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Backstory; Ally Relationships
+- "Backstory; Ally Relationships"
 ---
 # Backstory; Ally Relationships
 *Source: Explorer's Guide to Wildemount p. 191* 

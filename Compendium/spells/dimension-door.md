@@ -1,12 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/warlock
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
+- source/spell/feat/mark-of-passage
 - source/spell/level/4th-level
 - source/spell/school/conjuration
 - source/spell/subclass/arcane-trickster
@@ -14,7 +17,6 @@ tags:
 - source/spell/subclass/fey-wanderer
 - source/spell/subclass/oath-of-vengeance
 - source/spell/subclass/trickery-domain
-- source/spell/subrace/human-mark-of-passage
 classes:
 - Bard (Magical Secrets)
 - Cleric (Trickery Domain)
@@ -26,7 +28,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Dimension Door
+- "Dimension Door"
 level: 4
 school: conjuration
 ritual: false
@@ -39,7 +41,7 @@ components_vsm: [V]
 ---
 # Dimension Door
 *4th-level, Conjuration*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/img/dimension-door.webp#right)
+![](Compendium/spells/img/dimension-door.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 500 feet
@@ -52,6 +54,6 @@ You can bring along objects as long as their weight doesn't exceed what you can 
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take `4d6` force damage, and the spell fails to teleport you.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-trickery-domain.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Vengeance)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-vengeance.md); [Ranger (Fey Wanderer)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-fey-wanderer-tce.md "subclass=TCE"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Compendium/lists/list-spells-classes-trickery-domain.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Vengeance)](Compendium/lists/list-spells-classes-oath-of-vengeance.md); [Ranger (Fey Wanderer)](Compendium/lists/list-spells-classes-fey-wanderer-tce.md "subclass=TCE"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

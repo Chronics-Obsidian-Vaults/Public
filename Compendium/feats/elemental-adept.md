@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Elemental Adept
+- "Elemental Adept"
 ---
 # Elemental Adept
 *Source: Player's Handbook p. 166*  

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Dragonmarked House Adventure Hooks
+- "Dragonmarked House Adventure Hooks"
 ---
 # Dragonmarked House Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 192* 

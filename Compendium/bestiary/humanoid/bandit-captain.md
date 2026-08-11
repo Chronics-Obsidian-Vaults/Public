@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -15,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bandit Captain
+- "Bandit Captain"
 ---
-# [Bandit Captain](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/bandit-captain.md)
-*Source: Monster Manual p. 344, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Bandit Captain](Compendium/bestiary/humanoid/bandit-captain.md)
+*Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
 
@@ -33,7 +34,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 "subtype": "any race"
 "alignment": "Any Non-Lawful alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -50,10 +51,13 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+4"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+  - "[scimitar](Compendium/items/scimitar.md)"
 "senses": "passive Perception 10"
 "languages": "any two languages"
 "cr": "2"
@@ -73,10 +77,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/bandit-captain.webp"
+"image": "Compendium/bestiary/humanoid/token/bandit-captain.webp"
 ```
 ^statblock
 

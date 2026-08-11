@@ -7,8 +7,8 @@ tags:
 - source/deity/celtic
 - source/domain/death
 - source/domain/life
-aliases: 
-- Arawn
+aliases:
+- "Arawn"
 ---
 # Arawn
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

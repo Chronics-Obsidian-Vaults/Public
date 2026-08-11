@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/10
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sunder Shaman
+- "Sunder Shaman"
 ---
-# [Sunder Shaman](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/sunder-shaman-ggr.md)
+# [Sunder Shaman](Compendium/bestiary/giant/sunder-shaman-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 202*  
 
 Gruul sunder shamans are angry giants that channel their rage into brutal attacks that deal overwhelming damage to foes and structures alike.
@@ -45,12 +46,11 @@ Giants use their tremendous size and strength to advance the cause of no less th
   - "constitution": !!int "9"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "Giant"
 "cr": "10"
 "traits":
@@ -60,7 +60,7 @@ Giants use their tremendous size and strength to advance the cause of no less th
     "name": "Reckless"
   - "desc": "The giant deals double damage to objects and structures."
     "name": "Siege Monster"
-  - "desc": "The giant has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The giant has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
@@ -73,10 +73,10 @@ Giants use their tremendous size and strength to advance the cause of no less th
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +10 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 18 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ on a DC 18 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Rock"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/sunder-shaman-ggr.webp"
+"image": "Compendium/bestiary/giant/token/sunder-shaman-ggr.webp"
 ```
 ^statblock

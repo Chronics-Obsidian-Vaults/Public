@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Downtime Revisited
+- "Downtime Revisited"
 ---
 # Downtime Revisited
 *Source: Xanathar's Guide to Everything p. 123* 
@@ -104,16 +104,16 @@ The following activities are suitable for any character who can afford to pursue
 
 See the following entries for details:
 
-- [Buying a Magic Item](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-buying-a-magic-item-xge.md)  
-- [Carousing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-carousing-xge.md)  
-- [Crafting an Item](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-crafting-an-item-xge.md)  
-- [Crime](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-crime-xge.md)  
-- [Gambling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-gambling-xge.md)  
-- [Pit Fighting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-pit-fighting-xge.md)  
-- [Relaxation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-relaxation-xge.md)  
-- [Religious Service](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-religious-service-xge.md)  
-- [Research](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-research-xge.md)  
-- [Scribing a Spell Scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md)  
-- [Selling a Magic Item](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md)  
-- [Training](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-training-xge.md)  
-- [Work](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-work-xge.md)
+- [Buying a Magic Item](Rules/variant-rules/downtime-activity-buying-a-magic-item-xge.md)  
+- [Carousing](Rules/variant-rules/downtime-activity-carousing-xge.md)  
+- [Crafting an Item](Rules/variant-rules/downtime-activity-crafting-an-item-xge.md)  
+- [Crime](Rules/variant-rules/downtime-activity-crime-xge.md)  
+- [Gambling](Rules/variant-rules/downtime-activity-gambling-xge.md)  
+- [Pit Fighting](Rules/variant-rules/downtime-activity-pit-fighting-xge.md)  
+- [Relaxation](Rules/variant-rules/downtime-activity-relaxation-xge.md)  
+- [Religious Service](Rules/variant-rules/downtime-activity-religious-service-xge.md)  
+- [Research](Rules/variant-rules/downtime-activity-research-xge.md)  
+- [Scribing a Spell Scroll](Rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md)  
+- [Selling a Magic Item](Rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md)  
+- [Training](Rules/variant-rules/downtime-activity-training-xge.md)  
+- [Work](Rules/variant-rules/downtime-activity-work-xge.md)

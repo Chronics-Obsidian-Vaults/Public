@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/18
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Asteria
+- "Asteria"
 ---
-# [Asteria](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/asteria-bmt.md)
+# [Asteria](Compendium/bestiary/npc/asteria-bmt.md)
 *Source: The Book of Many Things p. 188*  
 
 Though she now travels alone, Asteria still draws much of her power from her bond with Euryale. Asteria is foremost a protector and warrior, traveling the multiverse to uproot injustice, defend innocents, and inspire hope. She believes everyone deserves a chance to write their own story on their own terms, and her deeds have inspired countless heroic tales.
@@ -28,8 +29,7 @@ Asteria hasn't aged since Istus drew her future from the first Deck of Many Thin
 "subtype": "human, paladin"
 "alignment": "Chaotic Good"
 "ac": !!int "18"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "195"
 "hit_dice": "26d8 + 78"
 "modifier": !!int "5"
@@ -47,38 +47,36 @@ Asteria hasn't aged since Istus drew her future from the first Deck of Many Thin
   - "wisdom": !!int "6"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+11"
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+14"
-  - "name": "[Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)"
+  - "name": "[Investigation](Rules/skills.md#Investigation)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+11"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
 "senses": "passive Perception 22"
 "languages": "Common, Druidic"
 "cr": "18"
 "traits":
   - "desc": "Whenever a creature of Asteria's choice within 30 feet of her makes a\
       \ saving throw, Asteria can give the creature advantage on the saving throw\
-      \ (no action required). This trait doesn't function if Asteria has the [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ (no action required). This trait doesn't function if Asteria has the [incapacitated](Rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Guardian Aura"
   - "desc": "If Asteria fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "Asteria wears [Winged Boots](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/winged-boots.md),\
-      \ which grant her a flying speed (included in her statistics). She also carries\
-      \ one half of a pair of [Sending Stones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sending-stones.md);\
-      \ the other half of the pair is held by Euryale."
+  - "desc": "Asteria wears [Winged Boots](Compendium/items/winged-boots.md), which\
+      \ grant her a flying speed (included in her statistics). She also carries one\
+      \ half of a pair of [Sending Stones](Compendium/items/sending-stones.md); the\
+      \ other half of the pair is held by Euryale."
     "name": "Special Equipment"
 "actions":
   - "desc": "Asteria makes two Radiant Blade attacks and uses Bursting Benediction."
@@ -94,23 +92,20 @@ Asteria hasn't aged since Istus drew her future from the first Deck of Many Thin
     "name": "Bursting Benediction"
   - "desc": "Asteria casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 19):\n\n**At\
-      \ will:** [Guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [Thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**2/day each:** [Bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md),\
-      \ [Freedom of Movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md),\
-      \ [Greater Restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md),\
-      \ [Plane Shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ (self only), [Protection from Evil and Good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md),\
-      \ [Revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md)"
+      \ will:** [Guidance](Compendium/spells/guidance.md), [Light](Compendium/spells/light.md),\
+      \ [Thaumaturgy](Compendium/spells/thaumaturgy.md)\n\n**2/day each:** [Bless](Compendium/spells/bless.md),\
+      \ [Freedom of Movement](Compendium/spells/freedom-of-movement.md), [Greater\
+      \ Restoration](Compendium/spells/greater-restoration.md), [Plane Shift](Compendium/spells/plane-shift.md)\
+      \ (self only), [Protection from Evil and Good](Compendium/spells/protection-from-evil-and-good.md),\
+      \ [Revivify](Compendium/spells/revivify.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Asteria summons a spectral version of her shield, which orbits and bolsters\
       \ one creature of Asteria's choice that she can see within 60 feet of herself.\
       \ The spectral shield lasts until the start of Asteria's next turn. While the\
       \ shield is orbiting the creature, the creature has half cover, is immune to\
-      \ the [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ condition, and makes weapon attack rolls with advantage."
+      \ the [frightened](Rules/conditions.md#Frightened) condition, and makes weapon\
+      \ attack rolls with advantage."
     "name": "Empowering Aegis (Recharge 4-6)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Asteria can expend a use to take one of the following actions. Asteria regains\
@@ -125,6 +120,6 @@ Asteria hasn't aged since Istus drew her future from the first Deck of Many Thin
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/asteria-bmt.webp"
+"image": "Compendium/bestiary/npc/token/asteria-bmt.webp"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/7
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bheur Hag
+- "Bheur Hag"
 ---
-# [Bheur Hag](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/bheur-hag-mpmm.md)
+# [Bheur Hag](Compendium/bestiary/fey/bheur-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -44,21 +45,20 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+4"
 "damage_immunities": "cold"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Auran, Common, Giant"
 "cr": "7"
 "traits":
-  - "desc": "The hag can cast the [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md)\
+  - "desc": "The hag can cast the [control weather](Compendium/spells/control-weather.md)\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (1/Day)"
@@ -69,7 +69,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
     "name": "Graystaff Magic"
   - "desc": "The hag can move across and climb icy surfaces without needing to make\
       \ an ability check, and difficult terrain composed of ice or snow doesn't cost\
-      \ the hag extra moment."
+      \ the hag extra movement."
     "name": "Ice Walk"
 "actions":
   - "desc": "The hag makes two Slam or Frost Shard attacks."
@@ -84,9 +84,8 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
   - "desc": "The hag feeds on the corpse of one enemy within reach that died within\
       \ the past minute. Each creature of the hag's choice that is within 60 feet\
       \ and able to see the feeding must succeed on a DC 15 Wisdom saving throw or\
-      \ be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of the hag for 1 minute. While [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ in this way, a creature is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
+      \ be [frightened](Rules/conditions.md#Frightened) of the hag for 1 minute. While\
+      \ [frightened](Rules/conditions.md#Frightened) in this way, a creature is [incapacitated](Rules/conditions.md#Incapacitated),\
       \ can't understand what others say, can't read, and speaks only in gibberish.\
       \ A creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a creature's saving throw is successful\
@@ -95,15 +94,14 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
     "name": "Horrific Feast"
   - "desc": "While holding or riding the graystaff, the hag casts one of the following\
       \ spells, requiring no material components and using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\n**At will:** [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md)\n\
-      \n**1/day each:** [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md),\
-      \ [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md),\
-      \ [wall of ice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-ice.md)"
+      \ ability (spell save DC 14):\n\n**At will:** [hold person](Compendium/spells/hold-person.md)\n\
+      \n**1/day each:** [cone of cold](Compendium/spells/cone-of-cold.md), [ice storm](Compendium/spells/ice-storm.md),\
+      \ [wall of ice](Compendium/spells/wall-of-ice.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/bheur-hag-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/bheur-hag-mpmm.webp"
 ```
 ^statblock
 

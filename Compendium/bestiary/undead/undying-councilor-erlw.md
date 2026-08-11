@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/10
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undying Councilor
+- "Undying Councilor"
 ---
-# [Undying Councilor](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/undying-councilor-erlw.md)
+# [Undying Councilor](Compendium/bestiary/undead/undying-councilor-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying councilors guide and protect the people of Aerenal. They are the most powerful members of the Undying Court who still maintain their physical forms. While many undying councilors spend their days advising the living, some devote years projecting their consciousness into the Astral Plane, seeking new knowledge to share with their people. Still, not all minds are capable of assimilating immortality, and undying councilors sometimes buckle under the strain and go mad.
@@ -63,53 +64,43 @@ An undying doesn't require air, food, drink, or sleep.
   - "intelligence": !!int "7"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+11"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+7"
 "damage_vulnerabilities": "necrotic"
 "damage_immunities": "poison, radiant"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 19"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 19"
 "languages": "Common, Elvish"
 "cr": "10"
 "traits":
   - "desc": "The councilor is a 13th-level spellcaster. Its spellcasting ability is\
       \ Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mending.md),\
-      \ [sacred flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sacred-flame.md),\
-      \ [spare the dying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spare-the-dying.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md),\
-      \ [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [create or destroy water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-or-destroy-water.md)\n\
-      \n**2nd level (3 slots):** [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md),\
-      \ [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md)\n\
-      \n**3rd level (3 slots):** [daylight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/daylight.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [spirit guardians](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spirit-guardians.md)\n\
-      \n**4th level (3 slots):** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md),\
-      \ [guardian of faith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guardian-of-faith.md)\n\
-      \n**5th level (2 slots):** [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md),\
-      \ [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md)\
-      \ (see \"Actions\" below), [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)\n\
-      \n**6th level (1 slots):** [forbiddance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/forbiddance.md),\
-      \ [planar ally](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/planar-ally.md)\n\
-      \n**7th level (1 slots):** [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](Compendium/spells/guidance.md),\
+      \ [mending](Compendium/spells/mending.md), [sacred flame](Compendium/spells/sacred-flame.md),\
+      \ [spare the dying](Compendium/spells/spare-the-dying.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [bless](Compendium/spells/bless.md), [command](Compendium/spells/command.md),\
+      \ [create or destroy water](Compendium/spells/create-or-destroy-water.md)\n\n\
+      **2nd level (3 slots):** [augury](Compendium/spells/augury.md), [calm emotions](Compendium/spells/calm-emotions.md),\
+      \ [hold person](Compendium/spells/hold-person.md)\n\n**3rd level (3 slots):**\
+      \ [daylight](Compendium/spells/daylight.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [spirit guardians](Compendium/spells/spirit-guardians.md)\n\n**4th level (3\
+      \ slots):** [banishment](Compendium/spells/banishment.md), [divination](Compendium/spells/divination.md),\
+      \ [guardian of faith](Compendium/spells/guardian-of-faith.md)\n\n**5th level\
+      \ (2 slots):** [dispel evil and good](Compendium/spells/dispel-evil-and-good.md),\
+      \ [flame strike](Compendium/spells/flame-strike.md) (see \"Actions\" below),\
+      \ [scrying](Compendium/spells/scrying.md)\n\n**6th level (1 slots):** [forbiddance](Compendium/spells/forbiddance.md),\
+      \ [planar ally](Compendium/spells/planar-ally.md)\n\n**7th level (1 slots):**\
+      \ [plane shift](Compendium/spells/plane-shift.md)"
     "name": "Spellcasting"
   - "desc": "The councilor magically sheds bright light in a 15-foot radius and dim\
       \ light for an additional 15 feet. The councilor can extinguish or restore this\
@@ -148,11 +139,11 @@ An undying doesn't require air, food, drink, or sleep.
       \ the end of the councilor's next turn, it sheds bright light in a 30-foot radius\
       \ and dim light for an additional 30 feet. Any creature that starts its turn\
       \ in the bright light must succeed on a DC 17 Constitution saving throw or be\
-      \ [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ until the end of the councilor's next turn."
+      \ [blinded](Rules/conditions.md#Blinded) until the end of the councilor's next\
+      \ turn."
     "name": "Shimmering Aura (Costs 2 Actions)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/undying-councilor-erlw.webp"
+"image": "Compendium/bestiary/undead/token/undying-councilor-erlw.webp"
 ```
 ^statblock

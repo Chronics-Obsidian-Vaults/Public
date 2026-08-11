@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Scholarly Missions
+- "Scholarly Missions"
 ---
 # Scholarly Missions
 *Source: Eberron: Rising from the Last War p. 100* 

@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/arcana
 - source/domain/knowledge
-aliases: 
-- Vecna
+aliases:
+- "Vecna"
 ---
 # Vecna
 *Source: Player's Handbook p. 295, Sword Coast Adventurer's Guide p. 125* 

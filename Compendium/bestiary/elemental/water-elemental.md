@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Water Elemental
+- "Water Elemental"
 ---
-# [Water Elemental](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/water-elemental.md)
-*Source: Monster Manual p. 125, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Water Elemental](Compendium/bestiary/elemental/water-elemental.md)
+*Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
 
@@ -59,16 +60,11 @@ An elemental doesn't require air, food, drink, or sleep.
 "speed": "30 ft., swim 90 ft."
 "damage_resistances": "acid; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained), [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Aquan"
 "cr": "5"
 "traits":
@@ -86,21 +82,19 @@ An elemental doesn't require air, food, drink, or sleep.
     "name": "Slam"
   - "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
       \ throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it\
-      \ is Large or smaller, it is also [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 14). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ is Large or smaller, it is also [grappled](Rules/conditions.md#Grappled) (escape\
+      \ DC 14). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained)\
       \ and unable to breathe unless it can breathe water. If the saving throw is\
       \ successful, the target is pushed out of the elemental's space.\n\nThe elemental\
       \ can grapple one Large creature or up to two Medium or smaller creatures at\
-      \ one time. At the start of each of the elemental's turns, each target [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ one time. At the start of each of the elemental's turns, each target [grappled](Rules/conditions.md#Grappled)\
       \ by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the\
       \ elemental can pull a creature or object out of it by taking an action to make\
       \ a DC 14 Strength check and succeeding."
     "name": "Whelm (Recharge 4-6)"
 "source":
   - "MM"
-  - "MOT"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/water-elemental.webp"
+"image": "Compendium/bestiary/elemental/token/water-elemental.webp"
 ```
 ^statblock
 

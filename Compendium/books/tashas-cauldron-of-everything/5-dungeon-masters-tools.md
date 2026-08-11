@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Dungeon Master's Tools
+- "Dungeon Master's Tools"
 ---
 # Dungeon Master's Tools
 *Source: Tasha's Cauldron of Everything, p. 139* 
@@ -14,7 +14,7 @@ The Dungeon Master employs many tools when preparing and running a D&D campaign.
 
 The tools herein build on the material in the "Dungeon Master's Guide" and the "Monster Manual". You may use some, all, or none of these tools, and feel free to customize how they work. Your group's enjoyment is paramount, so make these rules your own, aiming to match your group's tastes.
 
-![Tasha prepares to win anot...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/090-04-001.webp#center "Tasha prepares to win another game of wizardly chess against her rival Mordenkainen.")
+![Tasha prepares to win another game of wizardly chess against her rival Mordenkainen.](Compendium/books/tashas-cauldron-of-everything/img/090-04-001.webp#center)
 
 ## Session Zero
 
@@ -41,7 +41,7 @@ During session zero, your role is to let the players build the characters they w
 
 If the players are having trouble coming up with a story for how their characters met, they may choose an option from the Party Origin table or let a `d6` roll choose it for them. You should spend part of session zero helping the players flesh out the details. For example, if the characters came together to overcome a common foe, the identity of this enemy needs to be determined. If a funeral gathered the group, the identity of the deceased and each character's relationship to them will need to be fleshed out.
 
-![Party Formation; Party Origin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/party-formation-party-origin-tce.md)
+![Party Formation; Party Origin](Compendium/tables/party-formation-party-origin-tce.md)
 
 #### Running a Game for One Player
 
@@ -52,7 +52,7 @@ You might need to help the player run the sidekick for the first few sessions an
 - Sidekicks are stalwart companions who can perform tasks both in and out of combat, including things such as setting up camp and carrying gear.  
 - Ideally, a sidekick's abilities should complement those of the main character. For example, a spellcaster makes a good sidekick for a fighter or rogue.  
 
-![During a festival below on...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/091-04-002.webp#center "During a festival below one of the walking statues of Waterdeep, young friends dream of embarking on adventures together.")
+![During a festival below one of the walking statues of Waterdeep, young friends dream of embarking on adventures together.](Compendium/books/tashas-cauldron-of-everything/img/091-04-002.webp#center)
 
 ### Social Contract
 
@@ -85,7 +85,7 @@ While session zero is the perfect place to start this discussion, it might not b
 
 ### Game Customization
 
-In addition to shaping the game around the characters in the adventuring party, you should be prepared to customize the game to suit the players' tastes. The ""Know Your Players"" section in the introduction of the "Dungeon Master's Guide" provides some guidance for doing so, based on known player archetypes. To help identity what types of players are in the group, you can ask each player any or all of the following questions:
+In addition to shaping the game around the characters in the adventuring party, you should be prepared to customize the game to suit the players' tastes. The ""Know Your Players"" section in the introduction of the "Dungeon Master's Guide" provides some guidance for doing so, based on known player archetypes. To help identify what types of players are in the group, you can ask each player any or all of the following questions:
 
 - Which of the three pillars of adventuring (combat, exploration, roleplaying) interest you the most?  
 - How much humor do you like in the game?  
@@ -142,7 +142,7 @@ Whenever a group's average level goes up, the sidekick gains a level. It doesn't
 
 Whenever the sidekick gains a level, it gains one Hit Die, and its hit point maximum increases. To determine the amount of the increase, roll the Hit Die (the type of die appears in the sidekick's stat block), and add its Constitution modifier. It gains a minimum of 1 hit point per level.
 
-If the sidekick drops to 0 hit points and isn't killed outright, it falls [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) and subsequently makes death saving throws, just like a player character.
+If the sidekick drops to 0 hit points and isn't killed outright, it falls [unconscious](Rules/conditions.md#Unconscious) and subsequently makes death saving throws, just like a player character.
 
 #### Proficiency Bonus
 
@@ -156,14 +156,14 @@ Whenever the sidekick gains the Ability Score Improvement feature, adjust anythi
 
 If it's unclear whether a melee attack in the stat block uses Strength or Dexterity, the attack can use either.
 
-- [Expert Sidekick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/expert-sidekick-tce.md)  
-- [Spellcaster Sidekick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/spellcaster-sidekick-tce.md)  
-- [Warrior Sidekick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/warrior-sidekick-tce.md)  
+- [Expert Sidekick](Compendium/classes/expert-sidekick-tce.md)  
+- [Spellcaster Sidekick](Compendium/classes/spellcaster-sidekick-tce.md)  
+- [Warrior Sidekick](Compendium/classes/warrior-sidekick-tce.md)  
 
 > [!gallery]
-> ![Experts, Left to Right: a ...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/092-04-003.webp#gallery "Experts, Left to Right: a Tortle, a Winged Kobold, and a Kenku")
-> ![Spellcasters, Left to Righ...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/093-04-004.webp#gallery "Spellcasters, Left to Right: a Bullywug, a Goblin, and a Tabaxi")
-> ![Warriors, Left to Right: a...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/094-04-005.webp#gallery "Warriors, Left to Right: an Aasimar, a Firbolg, and a Wolf")
+> ![Experts, Left to Right: a Tortle, a Winged Kobold, and a Kenku](Compendium/books/tashas-cauldron-of-everything/img/092-04-003.webp#gallery)
+> ![Spellcasters, Left to Right: a Bullywug, a Goblin, and a Tabaxi](Compendium/books/tashas-cauldron-of-everything/img/093-04-004.webp#gallery)
+> ![Warriors, Left to Right: an Aasimar, a Firbolg, and a Wolf](Compendium/books/tashas-cauldron-of-everything/img/094-04-005.webp#gallery)
 
 ## Parleying with Monsters
 
@@ -173,43 +173,43 @@ If it's unclear whether a melee attack in the stat block uses Strength or Dexter
 
 Meeting a monster doesn't have to spark a fight. An offering, like food, can calm some hostile monsters, and sapient creatures often prefer to talk than to draw weapons. If the adventurers try to parley with a monster, you may improvise the encounter or use the "social interaction rules" in the "Dungeon Master's Guide". Consider granting the characters advantage on any ability check they make to communicate with a creature if they offer something it wants. The "Monsters' Desires" section below suggest things that a creature might like, depending on its type.
 
-![Adventurers offer meat to an owlbear.](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/095-04-006.webp#center)
+![Adventurers offer meat to an owlbear.](Compendium/books/tashas-cauldron-of-everything/img/095-04-006.webp#center)
 
 ### Monster Research
 
 Adventurers can research what a creature is likely to desire. The Monster Research table suggests which skills can be used to learn about a creature of a particular type. The DC for a relevant ability check equals 10 + the creature's challenge rating.
 
-![Monster Research](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monster-research-tce.md)
+![Monster Research](Compendium/tables/monster-research-tce.md)
 
 ### Monsters' Desires
 
-![Monsters' Desires; Aberrations](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-aberrations-tce.md)
+![Monsters' Desires; Aberrations](Compendium/tables/monsters-desires-aberrations-tce.md)
 
-![Monsters' Desires; Beasts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-beasts-tce.md)
+![Monsters' Desires; Beasts](Compendium/tables/monsters-desires-beasts-tce.md)
 
-![Monsters' Desires; Celestials](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-celestials-tce.md)
+![Monsters' Desires; Celestials](Compendium/tables/monsters-desires-celestials-tce.md)
 
-![Monsters' Desires; Constructs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-constructs-tce.md)
+![Monsters' Desires; Constructs](Compendium/tables/monsters-desires-constructs-tce.md)
 
-![Monsters' Desires; Dragons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-dragons-tce.md)
+![Monsters' Desires; Dragons](Compendium/tables/monsters-desires-dragons-tce.md)
 
-![Monsters' Desires; Elementals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-elementals-tce.md)
+![Monsters' Desires; Elementals](Compendium/tables/monsters-desires-elementals-tce.md)
 
-![Monsters' Desires; Fey](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-fey-tce.md)
+![Monsters' Desires; Fey](Compendium/tables/monsters-desires-fey-tce.md)
 
-![Monsters' Desires; Fiends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-fiends-tce.md)
+![Monsters' Desires; Fiends](Compendium/tables/monsters-desires-fiends-tce.md)
 
-![Monsters' Desires; Giants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-giants-tce.md)
+![Monsters' Desires; Giants](Compendium/tables/monsters-desires-giants-tce.md)
 
-![Monsters' Desires; Humanoids](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-humanoids-tce.md)
+![Monsters' Desires; Humanoids](Compendium/tables/monsters-desires-humanoids-tce.md)
 
-![Monsters' Desires; Monstrosities](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-monstrosities-tce.md)
+![Monsters' Desires; Monstrosities](Compendium/tables/monsters-desires-monstrosities-tce.md)
 
-![Monsters' Desires; Oozes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-oozes-tce.md)
+![Monsters' Desires; Oozes](Compendium/tables/monsters-desires-oozes-tce.md)
 
-![Monsters' Desires; Plants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-plants-tce.md)
+![Monsters' Desires; Plants](Compendium/tables/monsters-desires-plants-tce.md)
 
-![Monsters' Desires; Undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-desires-undead-tce.md)
+![Monsters' Desires; Undead](Compendium/tables/monsters-desires-undead-tce.md)
 
 ## Environmental Hazards
 
@@ -247,9 +247,9 @@ The grace of the Upper Planes touches this region. Consider rolling on the Bless
 - A creature scores a critical hit against a fiend or an undead  
 - A creature experiences an epiphany or inspiring triumph in the service of righteousness or in defiance of wickedness  
 
-![A Blessed Ki-rin Shrine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/096-04-007.webp#center)
+![A Blessed Ki-rin Shrine](Compendium/books/tashas-cauldron-of-everything/img/096-04-007.webp#center)
 
-![Blessed Radiance Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/blessed-radiance-effects-tce.md)
+![Blessed Radiance Effects](Compendium/tables/blessed-radiance-effects-tce.md)
 
 #### Far Realm
 
@@ -263,9 +263,9 @@ Consider rolling on the Far Realm Effects table when the following circumstances
 - The characters take a short or long rest in the region.  
 - A creature spends more than an hour reading an eldritch tome written by those who have seen or otherwise interacted with the Far Realm.  
 
-![A Far Realm Incursion with Mind Flayer Nautiloids](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/097-04-008.webp#center)
+![A Far Realm Incursion with Mind Flayer Nautiloids](Compendium/books/tashas-cauldron-of-everything/img/097-04-008.webp#center)
 
-![Far Realm Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/far-realm-effects-tce.md)
+![Far Realm Effects](Compendium/tables/far-realm-effects-tce.md)
 
 #### Haunted
 
@@ -273,15 +273,15 @@ Haunted environs include homes burdened by dark deeds, the sites of mass killing
 
 Consider rolling on the Haunted Effects table when the following circumstances occur in the region:
 
-- A creature gains the [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) condition.  
+- A creature gains the [frightened](Rules/conditions.md#Frightened) condition.  
 - Multiple creatures are unable to see.  
 - A creature is alone.  
 - Midnight or another ominous hour arrives.  
 - A ghost or other creature tied to the region's grim history menaces the party.  
 
-![A Haunted Manor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/098-04-009.webp#center)
+![A Haunted Manor](Compendium/books/tashas-cauldron-of-everything/img/098-04-009.webp#center)
 
-![Haunted Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/haunted-effects-tce.md)
+![Haunted Effects](Compendium/tables/haunted-effects-tce.md)
 
 #### Infested
 
@@ -292,12 +292,12 @@ The following effects represent a region overrun by insects or hives of similar 
 Consider rolling on the Infested Effects table when the following circumstances occur in the region:
 
 - Webs, cocoons, hives, anthills, or other insect dwellings are disturbed.  
-- A creature attacks an insect swarm or a Small or larger insect, such as a [giant centipede](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-centipede.md) or [giant spider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-spider.md), in the region.  
+- A creature attacks an insect swarm or a Small or larger insect, such as a [giant centipede](Compendium/bestiary/beast/giant-centipede.md) or [giant spider](Compendium/bestiary/beast/giant-spider.md), in the region.  
 - A creature begins a short or long rest.  
 
-![An Infested City](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/099-04-010.webp#center)
+![An Infested City](Compendium/books/tashas-cauldron-of-everything/img/099-04-010.webp#center)
 
-![Infested Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/infested-effects-tce.md)
+![Infested Effects](Compendium/tables/infested-effects-tce.md)
 
 #### Mirror Zone
 
@@ -310,9 +310,9 @@ Consider rolling on the Mirror Zone Effects table when the following circumstanc
 - An illusion appears.  
 - A creature impersonates another creature.  
 
-![A Tailor Shop in a Mirror Zone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/100-04-011.webp#center)
+![A Tailor Shop in a Mirror Zone](Compendium/books/tashas-cauldron-of-everything/img/100-04-011.webp#center)
 
-![Mirror Zone Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/mirror-zone-effects-tce.md)
+![Mirror Zone Effects](Compendium/tables/mirror-zone-effects-tce.md)
 
 #### Psychic Resonance
 
@@ -322,16 +322,16 @@ Consider rolling on the Psychic Resonance Effects table when the following circu
 
 - A creature endures a powerful emotional experience.  
 - A creature takes an amount of psychic damage greater than its Constitution score.  
-- A creature becomes [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).  
+- A creature becomes [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened).  
 - A creature experiences telepathic communication.  
 
-![Animals converse after gai...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/101-04-012.webp#center "Animals converse after gaining sapience from ambient psychic energy.")
+![Animals converse after gaining sapience from ambient psychic energy.](Compendium/books/tashas-cauldron-of-everything/img/101-04-012.webp#center)
 
-![Psychic Resonance Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/psychic-resonance-effects-tce.md)
+![Psychic Resonance Effects](Compendium/tables/psychic-resonance-effects-tce.md)
 
 > [!note] Awaken Anything
 > 
-> Legends are filled with natural forces and mundane objects that take on humanoid characteristics to guide or confound heroes: statues that sing, animals that whisper secrets, clouds that speak their mind. While monsters like elementals, [galeb duhr](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/galeb-duhr.md), and [treants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/treant.md) represent natural forces brought to life, not every chatty rock or sagacious stream needs a stat block. Perhaps your adventures take a party to a land where plants speak freely or a cursed realm where petrified souls beg for help. Don't feel restricted by the options in the "Monster Manual" or by the limitations of the [animate object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-objects.md) spell should you want to breathe extra life into your story. Filling a witch's redoubt with murmuring relics, a fey forest with eavesdropping vegetation, or a sky god's temple with avian choirs makes a place especially memorable. Spells such as [animate objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-objects.md), [awaken](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/awaken.md), [speak with animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-animals.md), [speak with plants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-plants.md), and the like provide guidance on how to bring commonplace creatures and objects to life.
+> Legends are filled with natural forces and mundane objects that take on humanoid characteristics to guide or confound heroes: statues that sing, animals that whisper secrets, clouds that speak their mind. While monsters like elementals, [galeb duhr](Compendium/bestiary/elemental/galeb-duhr.md), and [treants](Compendium/bestiary/plant/treant.md) represent natural forces brought to life, not every chatty rock or sagacious stream needs a stat block. Perhaps your adventures take a party to a land where plants speak freely or a cursed realm where petrified souls beg for help. Don't feel restricted by the options in the "Monster Manual" or by the limitations of the [animate object](Compendium/spells/animate-objects.md) spell should you want to breathe extra life into your story. Filling a witch's redoubt with murmuring relics, a fey forest with eavesdropping vegetation, or a sky god's temple with avian choirs makes a place especially memorable. Spells such as [animate objects](Compendium/spells/animate-objects.md), [awaken](Compendium/spells/awaken.md), [speak with animals](Compendium/spells/speak-with-animals.md), [speak with plants](Compendium/spells/speak-with-plants.md), and the like provide guidance on how to bring commonplace creatures and objects to life.
 ^awaken-anything
 
 #### Unraveling Magic
@@ -344,28 +344,28 @@ Consider rolling on the Unraveling Magic Effects table when the following circum
 - A spell slot of 1st level or higher is expended.  
 - A dragon, a fey, or an elemental of challenge rating 5 or higher dies.  
 
-![A wood elf child reaches for unraveling magic.](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/102-04-013.webp#center)
+![A wood elf child reaches for unraveling magic.](Compendium/books/tashas-cauldron-of-everything/img/102-04-013.webp#center)
 
-![Unraveling Magic Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/unraveling-magic-effects-tce.md)
+![Unraveling Magic Effects](Compendium/tables/unraveling-magic-effects-tce.md)
 
 ### Magical Phenomena
 
 Magic has the ability to make even the most serene natural settings unpredictable. Whether the result of magical calamities, otherworldly influences, or nexuses of inexplicable forces, the subsequent effects range from whimsical to deadly.
 
-![Eldritch Storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/103-04-014.webp#center)
+![Eldritch Storm](Compendium/books/tashas-cauldron-of-everything/img/103-04-014.webp#center)
 
 #### Eldritch Storms
 
 When magical currents become trapped amid winds and clouds, eldritch storms can result.
 
-- [Flaywind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/flaywind-tce.md)  
-- [Flame Storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/flame-storm-tce.md)  
-- [Necrotic Tempest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/necrotic-tempest-tce.md)  
-- [Thrym's Howl](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/thryms-howl-tce.md)  
+- [Flaywind](Compendium/traps-hazards/flaywind-tce.md)  
+- [Flame Storm](Compendium/traps-hazards/flame-storm-tce.md)  
+- [Necrotic Tempest](Compendium/traps-hazards/necrotic-tempest-tce.md)  
+- [Thrym's Howl](Compendium/traps-hazards/thryms-howl-tce.md)  
 
 #### Emotional Echoes
 
-Occasionally a place becomes infused with the powerful emotions of those who once dwelt, worked, celebrated, or suffered there. Areas with emotional echoes are typically associated with one common emotion, such as joy or sorrow. Such an area might be as small as a room in a house or as large as a forest. Once per day, if a creature within the area expresses even the faintest hint of the prevailing emotion, the land seeks to hold onto that creature and inspire it to produce more of the feeling tied to the emotional echo. The creature is targeted by a [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md) spell (DC 16), with the intent of making it linger in the area and perform an act related to its associated emotion. The effect lasts 24 hours.
+Occasionally a place becomes infused with the powerful emotions of those who once dwelt, worked, celebrated, or suffered there. Areas with emotional echoes are typically associated with one common emotion, such as joy or sorrow. Such an area might be as small as a room in a house or as large as a forest. Once per day, if a creature within the area expresses even the faintest hint of the prevailing emotion, the land seeks to hold onto that creature and inspire it to produce more of the feeling tied to the emotional echo. The creature is targeted by a [suggestion](Compendium/spells/suggestion.md) spell (DC 16), with the intent of making it linger in the area and perform an act related to its associated emotion. The effect lasts 24 hours.
 
 The following list notes some of the most common emotional echoes, where they tend to appear, and how they typically influence creatures:
 
@@ -411,21 +411,21 @@ Regardless of whether a spring is pure or tainted, creatures might need to drink
 
 Bottling an enchanted spring's water removes its magical properties, unless the bottle is a specially prepared vial blessed by whatever being enchanted the spring in the first place.
 
-![Enchanted Spring](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/104-04-015.webp#center)
+![Enchanted Spring](Compendium/books/tashas-cauldron-of-everything/img/104-04-015.webp#center)
 
-![Enchanted Springs; Enchanted Spring Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/enchanted-springs-enchanted-spring-effects-tce.md)
+![Enchanted Springs; Enchanted Spring Effects](Compendium/tables/enchanted-springs-enchanted-spring-effects-tce.md)
 
-![Magic Mushrooms](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/105-04-016.webp#center)
+![Magic Mushrooms](Compendium/books/tashas-cauldron-of-everything/img/105-04-016.webp#center)
 
 #### Magic Mushrooms
 
 Mushrooms can be deadly, delicious, or both. Some have magical properties, especially those that grow in areas suffused by mystical energy, such as the Underdark and the Feywild.
 
-Creatures proficient in the [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), or [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival) skills might be versed on the subject of fungi, especially the magical kind, since the beneficial effects can save lives or bestow unusual powers. But when an unknown variety of fungus is encountered, only an expert can identify it and determine its properties.
+Creatures proficient in the [Medicine](Rules/skills.md#Medicine), [Nature](Rules/skills.md#Nature), or [Survival](Rules/skills.md#Survival) skills might be versed on the subject of fungi, especially the magical kind, since the beneficial effects can save lives or bestow unusual powers. But when an unknown variety of fungus is encountered, only an expert can identify it and determine its properties.
 
 To determine the effects of eating such fungus, roll on the Magic Mushroom Effects table.
 
-![Magic Mushrooms; Magic Mushroom Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/magic-mushrooms-magic-mushroom-effects-tce.md)
+![Magic Mushrooms; Magic Mushroom Effects](Compendium/tables/magic-mushrooms-magic-mushroom-effects-tce.md)
 
 #### Mimic Colonies
 
@@ -433,7 +433,7 @@ Mimics imitate terrain and dungeon dressing to hunt for food. Rare specimens dev
 
 ##### Mimic Communication
 
-Members of the colony develop telepathy and the ability to speak. While within 10 miles of the colony, any mimic can communicate telepathically with other creatures within 120 feet of it and can speak Common and Undercommon fluently (or two other languages of the DM's choice). The colony's offspring gain these abilities innately and can use them even away from the colony, as shown in the [Juvenile Mimic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/juvenile-mimic-tce.md) stat block.
+Members of the colony develop telepathy and the ability to speak. While within 10 miles of the colony, any mimic can communicate telepathically with other creatures within 120 feet of it and can speak Common and Undercommon fluently (or two other languages of the DM's choice). The colony's offspring gain these abilities innately and can use them even away from the colony, as shown in the [Juvenile Mimic](Compendium/bestiary/monstrosity/juvenile-mimic-tce.md) stat block.
 
 ##### Confronting a Colony
 
@@ -441,14 +441,14 @@ A mimic colony's primary goal is survival. If threatened by a force the mimics c
 
 If the colony's survival is threatened and it thinks it has a chance of surviving a fight, it can leverage its combined might using special lair actions. On initiative count 20 (losing all ties), the mimic colony takes a lair action, causing one of the following effects; it can't use the same effect two rounds in a row:
 
-- The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a DC 15 Strength saving throw or have its speed reduced to 0 until initiative count 20 on the following round, as pieces of the environment grasp the target. If a target fails the save by 5 or more, it is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) instead for that duration.  
-- The mimic colony uses the [Help](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Help) action, aiding a creature of its choice within 300 feet of it.  
+- The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a DC 15 Strength saving throw or have its speed reduced to 0 until initiative count 20 on the following round, as pieces of the environment grasp the target. If a target fails the save by 5 or more, it is [restrained](Rules/conditions.md#Restrained) instead for that duration.  
+- The mimic colony uses the [Help](Rules/actions.md#Help) action, aiding a creature of its choice within 300 feet of it.  
 - The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a DC 15 Dexterity saving throw or take 13 (`3d8`) acid damage, as orifices appear on surfaces in the environment and launch caustic spittle.  
 - The mimic colony chooses a cube of nonmagical, inanimate material in physical contact with it. The cube can be up to 15 feet on a side. The colony reshapes that material however it likes. This transformation lasts for 1 hour.  
 
 When determining the difficulty of an encounter with a hostile mimic colony, consider the colony to be one additional creature of challenge rating 2.
 
-![Mimic Colony](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/106-04-017.webp#center)
+![Mimic Colony](Compendium/books/tashas-cauldron-of-everything/img/106-04-017.webp#center)
 
 #### Primal Fruit
 
@@ -456,35 +456,35 @@ In wild places brimming with nature's power, gardens meticulously tended by ecce
 
 A fruit-bearing plant that is suffused with magic might produce `1d6` pieces of primal fruit every week. Primal fruit remains potent for 1 week, after which it loses its magical properties but remains edible.
 
-As an action, a creature can eat a piece of primal fruit to gain its effects. This fruit can be squeezed into juice or cooked into a dish and retains its magic. Choose an effect or roll on the Primal Fruit Effects table to determine what happens when a piece of the fruit is consumed. An [identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md) spell or similar magic reveals the beneficial effect of a piece of fruit before it is eaten, but it doesn't reveal a curse or side effect.
+As an action, a creature can eat a piece of primal fruit to gain its effects. This fruit can be squeezed into juice or cooked into a dish and retains its magic. Choose an effect or roll on the Primal Fruit Effects table to determine what happens when a piece of the fruit is consumed. An [identify](Compendium/spells/identify.md) spell or similar magic reveals the beneficial effect of a piece of fruit before it is eaten, but it doesn't reveal a curse or side effect.
 
-![Tressym fly around a primal tree](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/107-04-018.webp#center)
+![Tressym fly around a primal tree](Compendium/books/tashas-cauldron-of-everything/img/107-04-018.webp#center)
 
-![Primal Fruit Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/primal-fruit-effects-tce.md)
+![Primal Fruit Effects](Compendium/tables/primal-fruit-effects-tce.md)
 
 #### Unearthly Roads
 
-Currents of magic run through the world—invisible, artery-like networks that exert subtle influence and connect disparate lands. The greatest of these magical streams are persistent paths, often known by colloquial names or simply as unearthly roads. An unearthly road acts like a sort of planar portal that stretches from one place to another, be they sites on the same world or on different planes of existence. Unearthly roads allow creatures to cross great distances rapidly, moving from an entrance gate to an exit gate or visa versa. These paths operate like long tunnels, and a creature that travels on an unearthly road progresses 21 miles of distance in the time it would normally take it to travel 1 mile. While on the road, glimpses of the world beyond might be visible in blurred or distorted visions of scenery or especially prominent landmarks. Creatures or specific details are not visible beyond an unearthly road.
+Currents of magic run through the world—invisible, artery-like networks that exert subtle influence and connect disparate lands. The greatest of these magical streams are persistent paths, often known by colloquial names or simply as unearthly roads. An unearthly road acts like a sort of planar portal that stretches from one place to another, be they sites on the same world or on different planes of existence. Unearthly roads allow creatures to cross great distances rapidly, moving from an entrance gate to an exit gate or vice versa. These paths operate like long tunnels, and a creature that travels on an unearthly road progresses 21 miles of distance in the time it would normally take it to travel 1 mile. While on the road, glimpses of the world beyond might be visible in blurred or distorted visions of scenery or especially prominent landmarks. Creatures or specific details are not visible beyond an unearthly road.
 
 Some unearthly roads serve as trade routes or secret connections between distant lands. Others shift locations at noteworthy times or in response to external phenomena, like on specific anniversaries or in response to the phases of the moon. Some might also require a particular item, ritual, or action to open their gates. The Unearthly Road Keys table offers suggestions on how to enter an unearthly road.
 
-![Unearthly Roads; Unearthly Road Keys](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/unearthly-roads-unearthly-road-keys-tce.md)
+![Unearthly Roads; Unearthly Road Keys](Compendium/tables/unearthly-roads-unearthly-road-keys-tce.md)
 
 ### Natural Hazards
 
 Even without the threats of supernatural environments, the world is a dangerous place. The following natural hazards expand on those presented in the "Dungeon Master's Guide".
 
-- [Avalanche](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/avalanche-tce.md)  
-- [Falling into Water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/falling-into-water-tce.md)  
-- [Falling onto a Creature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/falling-onto-a-creature-tce.md)  
+- [Avalanche](Compendium/traps-hazards/avalanche-tce.md)  
+- [Falling into Water](Compendium/traps-hazards/falling-into-water-tce.md)  
+- [Falling onto a Creature](Compendium/traps-hazards/falling-onto-a-creature-tce.md)  
 
-![Falling into Water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/108-04-019.webp#center)
+![Falling into Water](Compendium/books/tashas-cauldron-of-everything/img/108-04-019.webp#center)
 
 #### Spell Equivalents of Natural Hazards
 
 Numerous spells emulate the wrath of nature, and you can use spell effects to represent a variety of natural hazards. The Spells as Natural Hazards table presents some common environmental dangers and the spells you may use to approximate them.
 
-![Spells as Natural Hazards](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/spells-as-natural-hazards-tce.md)
+![Spells as Natural Hazards](Compendium/tables/spells-as-natural-hazards-tce.md)
 
 ## Puzzles
 
@@ -539,7 +539,7 @@ After presenting a puzzle, encourage the party to solve it together, to pool hin
 
 ### Creature Paintings
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/109-04-020.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/109-04-020.webp#center)
 
 *Difficulty: Easy*
 
@@ -551,7 +551,7 @@ Fit this into your campaign by making the name of the creature the first item on
 > 
 > This gallery is decorated with seven framed paintings of creatures. A few chairs and benches have been placed in front of the art for viewing.
 > 
-> A plaque mounted on one of the walls bears the following dedication: "In order to gain all knowledge, one must know where to start. Count on your enemies to reveal the source of the secret. This room is dedicated to the defeat of all monsters within." 
+> A plaque mounted on one of the walls bears the following dedication: "In order to gain all knowledge, one must know where to start. Count on your enemies to reveal the source of the secret. This room is dedicated to the defeat of all monsters within."
 ^3a3
 
 Characters should be free to explore the gallery and inspect the paintings and dedication to discover the parts of the puzzle.
@@ -564,7 +564,7 @@ There are seven paintings on the walls. The paintings feature a gruesome werewol
 
 Each painting features a number of creatures of a particular kind, as summarized in the Creature Paintings table. Counting into each creature's name by the number of creatures in the painting reveals a letter. When unscrambled, the letters spell out "owlbear." Characters are likely to reveal these letters in random order. Arranging them in the correct order is part of the puzzle.
 
-![Creature Paintings](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creature-paintings-tce.md)
+![Creature Paintings](Compendium/tables/creature-paintings-tce.md)
 
 ##### Significance of "Owlbear"
 
@@ -574,9 +574,9 @@ This puzzle's solution, "owlbear," might be the passphrase to bypass a future tr
 
 Any character has the option of making these ability checks to receive a hint:
 
-**Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) DC 10**. The character deduces that the number of creatures in a painting is important and uses that number to determine which letter of the creature's name they should review.
+**Intelligence ([Investigation](Rules/skills.md#Investigation)) DC 10**. The character deduces that the number of creatures in a painting is important and uses that number to determine which letter of the creature's name they should review.
 
-**Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) DC 10**. When looking at the dedication, the words "count on" alert the character that they should count the creatures.
+**Wisdom ([Perception](Rules/skills.md#Perception)) DC 10**. When looking at the dedication, the words "count on" alert the character that they should count the creatures.
 
 #### Customizing the Puzzle
 
@@ -603,7 +603,7 @@ This puzzle features a word search on floor tiles, which might present a barrier
 
 The tiles covering the floor of this room each bear a single letter written in the Common alphabet, making the room a giant word search. Traps beneath many of the tiles threaten those who move through the room heedless of the hidden words.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/110-04-021.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/110-04-021.webp#center)
 
 #### Puzzle Features
 
@@ -623,17 +623,17 @@ Characters can attempt to jump over trapped tiles, using the "jump rules" in the
 
 The only safe tiles for characters to step on are the ones with the faded black letters in "diagram 4.1". Red letters spell out either "magic" or one of the schools of magic: abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, and transmutation. Stepping on one of these tiles triggers a poison trap, as described earlier.
 
-![Diagram 4.1: Reckless Steps Puzzle Solution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/111-04-022.webp#center)
+![Diagram 4.1: Reckless Steps Puzzle Solution](Compendium/books/tashas-cauldron-of-everything/img/111-04-022.webp#center)
 
 #### Hint Checks
 
 Any character has the option of making these ability checks to receive a hint:
 
-**Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) DC 10**. The character sees one instance of a school of magic on the floor.
+**Intelligence ([Arcana](Rules/skills.md#Arcana)) DC 10**. The character sees one instance of a school of magic on the floor.
 
-**Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) DC 10**. The character interprets the clue in the wall verse: there are eight schools of magic.
+**Intelligence ([Investigation](Rules/skills.md#Investigation)) DC 10**. The character interprets the clue in the wall verse: there are eight schools of magic.
 
-**Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) DC 10**. Each character who succeeds on this check sees an instance of the word "magic" in the floor.
+**Wisdom ([Perception](Rules/skills.md#Perception)) DC 10**. Each character who succeeds on this check sees an instance of the word "magic" in the floor.
 
 #### Customizing the Puzzle
 
@@ -650,14 +650,14 @@ You can also increase the difficulty by introducing trap variants, as described 
 Rather than have the same poison gas trap on every trapped tile, each word can have a distinct trap associated with it, as described below:
 
 - **Magic.** The trap triggers normally, as described in this puzzle's "Traps" section.  
-- **Abjuration.** The trap casts [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md) on each creature in the room, using a 9th-level spell slot.  
+- **Abjuration.** The trap casts [dispel magic](Compendium/spells/dispel-magic.md) on each creature in the room, using a 9th-level spell slot.  
 - **Conjuration.** The trap teleports the creature that triggered it back to the entrance of the room. That creature must also make a DC 15 Constitution saving throw, taking 11 (`2d10`) force damage on a failed save, or half as much damage on a successful one.  
 - **Divination.** The creature that triggered the trap must succeed on a DC 15 Intelligence saving throw or be unable to perceive any of the letters on the tiles by sight or touch. Any magic that ends a curse ends this effect on the character. A player whose character is affected by this trap should not be allowed to reference the accompanying player handout until the effect on that character ends.  
-- **Enchantment.** The trap casts [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md) (save DC 15) on the creature that triggered it. On a failed save, a gentle voice only the creature can hear tells it to move 5 feet in a random direction. This movement might cause it to trigger another trap.  
+- **Enchantment.** The trap casts [suggestion](Compendium/spells/suggestion.md) (save DC 15) on the creature that triggered it. On a failed save, a gentle voice only the creature can hear tells it to move 5 feet in a random direction. This movement might cause it to trigger another trap.  
 - **Evocation.** Magical fire erupts from the trapped tile. The creature that triggered this trap must succeed on a DC 15 Dexterity saving throw, taking 11 (`2d10`) fire damage on a failed save, or half as much damage on a successful one.  
-- **Illusion.** A suit of [animated armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/animated-armor.md) appears in an unoccupied space within 5 feet of the creature that set off this trap. The armor attacks only the creature that summoned it and can't leave the room. It doesn't set off any of the room's traps and disappears if it takes any damage. Otherwise, it lasts for 1 minute.  
+- **Illusion.** A suit of [animated armor](Compendium/bestiary/construct/animated-armor.md) appears in an unoccupied space within 5 feet of the creature that set off this trap. The armor attacks only the creature that summoned it and can't leave the room. It doesn't set off any of the room's traps and disappears if it takes any damage. Otherwise, it lasts for 1 minute.  
 - **Necromancy.** Any creature that triggers this trap hears a banshee's wail in its mind. Unless the creature is a construct or undead, it must succeed on a DC 13 Constitution saving throw. On a failure, the creature drops to 0 hit points. On a success, it takes 10 (`3d6`) psychic damage.  
-- **Transmutation.** The trap casts [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md) (save DC 15) on the creature that triggered it. On a failed save, the creature turns into a [giant frog](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-frog.md).  
+- **Transmutation.** The trap casts [polymorph](Compendium/spells/polymorph.md) (save DC 15) on the creature that triggered it. On a failed save, the creature turns into a [giant frog](Compendium/bestiary/beast/giant-frog.md).  
 
 ### Skeleton Keys
 
@@ -682,17 +682,17 @@ All four locks must be opened before the box's contents (whatever they might be)
 
 #### Puzzle Features
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/112-04-023.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/112-04-023.webp#center)
 
 Show the players puzzle handout 2 (see the end of this chapter) when their characters examine the keys. Each key has a different number of teeth: six, five, four, and three, respectively.
 
-Each lock has a creature molded in iron above it: a bat, snake, spider, or wolf, respectively. These locks can't be picked. If anything other than the correct key is placed inside a lock, creatures corresponding to the image above the lock (`1d4` [giant bats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-bat.md), `1d4` [giant poisonous snakes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-poisonous-snake.md), `1d4` [giant wolf spiders](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-wolf-spider.md), or `1d4` [wolves](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/wolf.md)) are summoned into the room. Each summoned creature is hostile and disappears after 10 minutes or when reduced to 0 hit points. These beasts can't be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).
+Each lock has a creature molded in iron above it: a bat, snake, spider, or wolf, respectively. These locks can't be picked. If anything other than the correct key is placed inside a lock, creatures corresponding to the image above the lock (`1d4` [giant bats](Compendium/bestiary/beast/giant-bat.md), `1d4` [giant poisonous snakes](Compendium/bestiary/beast/giant-poisonous-snake.md), `1d4` [giant wolf spiders](Compendium/bestiary/beast/giant-wolf-spider.md), or `1d4` [wolves](Compendium/bestiary/beast/wolf.md)) are summoned into the room. Each summoned creature is hostile and disappears after 10 minutes or when reduced to 0 hit points. These beasts can't be [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened).
 
 #### Solution
 
 Once the characters identify the creature depicted above each lock, they should count the letters in each creature's name. The number of letters in a creature's name corresponds to the number of teeth on the correct key, as shown in the Skeleton Keys Solution table.
 
-![Skeleton Keys Solution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/skeleton-keys-solution-tce.md)
+![Skeleton Keys Solution](Compendium/tables/skeleton-keys-solution-tce.md)
 
 #### Hint Checks
 
@@ -724,14 +724,14 @@ This gem-filled room can be placed in any dungeon, estate, or building with mult
 
 > [!readaloud] 
 > 
-> Dozens of gems lie strewn upon the floor. Amid the treasure stands a marble statue with its hands clasped in front of it. A placard at the statue's base reads, "Only one treasure may leave this room. Cross with another and find your tomb." 
+> Dozens of gems lie strewn upon the floor. Amid the treasure stands a marble statue with its hands clasped in front of it. A placard at the statue's base reads, "Only one treasure may leave this room. Cross with another and find your tomb."
 ^3bd
 
 #### Puzzle Features
 
-![A spirit escapes a gemstone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/113-04-024.webp#center)
+![A spirit escapes a gemstone](Compendium/books/tashas-cauldron-of-everything/img/113-04-024.webp#center)
 
-The statue, which is impervious to damage, depicts Ioun or some other god of knowledge or order. Any character who succeeds on a DC 10 Intelligence ([Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)) check can identify the figure being depicted.
+The statue, which is impervious to damage, depicts Ioun or some other god of knowledge or order. Any character who succeeds on a DC 10 Intelligence ([Religion](Rules/skills.md#Religion)) check can identify the figure being depicted.
 
 ##### Diamond
 
@@ -741,7 +741,7 @@ Between the palms of the statue's clasped hands is a diamond, which can only be 
 
 An inventory of the room reveals the following gemstones scattered across the floor: eighteen pieces of jade, sixteen onyxes, fourteen amethysts, thirteen sapphires, twelve rubies, nine pieces of amber, eight citrines, five garnets, and one piece of quartz.
 
-If a creature attempts to leave the room with any of these stones, the gem disappears and an angry spirit trapped inside it is released. The spirit manifests as a hostile undead creature of your choice, such as a [ghost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghost.md), [specter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/specter.md), or [skeleton](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/skeleton.md). When this creature is reduced to 0 hit points, its form dissipates, leaving no trace of itself behind.
+If a creature attempts to leave the room with any of these stones, the gem disappears and an angry spirit trapped inside it is released. The spirit manifests as a hostile undead creature of your choice, such as a [ghost](Compendium/bestiary/undead/ghost.md), [specter](Compendium/bestiary/undead/specter.md), or [skeleton](Compendium/bestiary/undead/skeleton.md). When this creature is reduced to 0 hit points, its form dissipates, leaving no trace of itself behind.
 
 ##### Named Spirits
 
@@ -765,7 +765,7 @@ An inventory of the room reveals gemstones in the amounts shown in the Gem Inven
 
 Each type of gem is associated with a letter of the alphabet, and each gem's letter is revealed by counting into the alphabet by a number of letters equal to the number of gems of its type. For example, there is one piece of quartz, so "quartz" corresponds to the first letter of the alphabet (A), while there are fourteen amethysts, so "amethyst" corresponds to the fourteenth letter of the alphabet (N).
 
-![Solution; Gem Inventory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/solution-gem-inventory-tce.md)
+![Solution; Gem Inventory](Compendium/tables/solution-gem-inventory-tce.md)
 
 Once the gems are sorted by type and alphabetized, characters can count into the alphabet by how many of each are in the room to reveal the words "in her palm." When a character speaks this phrase aloud, the statue's folded hands open, revealing the previously hidden diamond.
 
@@ -791,7 +791,7 @@ This puzzle explores how to use groups of objects to disguise a message. So long
 
 ##### Lowering the Difficulty
 
-To make the puzzle easier to solve, a spirit can provide a hint in addition to giving its name. Coaxing a hint from a spirit requires a successful DC 15 Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) or [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)) check. Consider hints like "A is the first letter in the alphabet" and "The gemstones, in order, will help for a spell."
+To make the puzzle easier to solve, a spirit can provide a hint in addition to giving its name. Coaxing a hint from a spirit requires a successful DC 15 Charisma ([Persuasion](Rules/skills.md#Persuasion) or [Intimidation](Rules/skills.md#Intimidation)) check. Consider hints like "A is the first letter in the alphabet" and "The gemstones, in order, will help for a spell."
 
 ##### Releasing the Spirits
 
@@ -809,16 +809,16 @@ This map puzzle is designed to lead a party through a dungeon where a roaming be
 > 
 > Out of the gloom appears a hooded goblin carrying a lantern.
 > 
-> "Hello, friends!" the goblin says. "I can help you through these parts—if you can figure out my riddles. You don't want to make a wrong turn in here, as there are eyes everywhere. Solve the riddles and follow my directions to the letter." 
+> "Hello, friends!" the goblin says. "I can help you through these parts—if you can figure out my riddles. You don't want to make a wrong turn in here, as there are eyes everywhere. Solve the riddles and follow my directions to the letter."
 ^3cc
 
-The [goblin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/goblin.md) is friendly, and its offer is genuine. It's name is Igor (pronounced *eye*-gor), which it reveals only if asked. The characters find themselves in a maze that emits magical darkness that can't be dispelled. No vision can penetrate this darkness, and only the goblin's lantern can illuminate it. Igor's lantern emits light in a 5-foot radius, but only so long as the goblin holds it. The lantern goes dark if any other creature takes custody of it.
+The [goblin](Compendium/bestiary/humanoid/goblin.md) is friendly, and its offer is genuine. It's name is Igor (pronounced *eye*-gor), which it reveals only if asked. The characters find themselves in a maze that emits magical darkness that can't be dispelled. No vision can penetrate this darkness, and only the goblin's lantern can illuminate it. Igor's lantern emits light in a 5-foot radius, but only so long as the goblin holds it. The lantern goes dark if any other creature takes custody of it.
 
 #### Puzzle Features
 
-The magical maze the characters find themselves in is comprised of an endless series of identical chambers. Each chamber has four passages, one at each cardinal direction. The goblin guide poses riddles that can lead the party along the path that ultimately exits the maze. Each time the party moves through the correct passage and enters a new room, the goblin provides them with a new riddle that hints which direction to travel in next. If they make an error, the characters encounter a monster of your choice and then must backtrack from their last correct turn. After three wrong turns, the party encounters the [beholder](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/beholder.md).
+The magical maze the characters find themselves in is comprised of an endless series of identical chambers. Each chamber has four passages, one at each cardinal direction. The goblin guide poses riddles that can lead the party along the path that ultimately exits the maze. Each time the party moves through the correct passage and enters a new room, the goblin provides them with a new riddle that hints which direction to travel in next. If they make an error, the characters encounter a monster of your choice and then must backtrack from their last correct turn. After three wrong turns, the party encounters the [beholder](Compendium/bestiary/aberration/beholder.md).
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/114-04-025.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/114-04-025.webp#center)
 
 ##### Hallways
 
@@ -826,7 +826,7 @@ The halls of this maze are 60 feet long and 10 feet wide. If the characters move
 
 ##### The Goblin's Riddles
 
-Upon meeting the characters (and to discourage them from attacking), the goblin makes it clear there is no way out of the maze without his help. Characters can determine that the goblin is sincere in wanting to help with a successful DC 10 Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check.
+Upon meeting the characters (and to discourage them from attacking), the goblin makes it clear there is no way out of the maze without his help. Characters can determine that the goblin is sincere in wanting to help with a successful DC 10 Wisdom ([Insight](Rules/skills.md#Insight)) check.
 
 Once the goblin has the characters' attention, it provides the first riddle, then waits for the party to venture down a passage of its choice. The goblin stops at each intersection and either provides the next riddle (if the party chose the correct path) or avoids the monster the group encounters (if the party chose the incorrect path), leading the characters back to the last correct chamber along the path after any battle.
 
@@ -866,7 +866,7 @@ The characters can easily persuade the goblin to join their party. What other se
 
 ### Four by Four
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/115-04-026.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/115-04-026.webp#center)
 
 *Difficulty: Medium*
 
@@ -891,7 +891,7 @@ Solving this puzzle causes a secret compartment in the altar to open, revealing 
 
 Nine dwarf skulls rest near a grid of 1-foot-square tiles, as shown in puzzle handout 3 (see the end of this chapter). Columns and rows in the grid are labeled with the markings I, II, or III.
 
-![Diagram 4.2: Four by Four Puzzle Solution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/116-04-027.webp#center)
+![Diagram 4.2: Four by Four Puzzle Solution](Compendium/books/tashas-cauldron-of-everything/img/116-04-027.webp#center)
 
 #### Solution
 
@@ -946,7 +946,7 @@ The directions are written on a single sheet of parchment and recount the route 
 
 Characters who follow the directions and trace their paths on the map reveal three numbers: 3, 4, and 8 (see diagram 4.3). Turning the dials to these numbers in the same order opens the locked object.
 
-![Diagram 4.3: Illusive Island Puzzle Solution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/117-04-028.webp#center)
+![Diagram 4.3: Illusive Island Puzzle Solution](Compendium/books/tashas-cauldron-of-everything/img/117-04-028.webp#center)
 
 #### Hint Checks
 
@@ -993,23 +993,23 @@ Give the players a copy of puzzle handout 5 (see the end of this chapter).
 
 The wizard's study is filled with spell components, books, potions, and various odds and ends. While the various supplies might help characters solve the puzzle, the only item the characters need is the parchment. If the puzzle is giving them grief, they can take the parchment with them and find others who can help them solve it.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/118-04-030.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/118-04-030.webp#center)
 
 ##### Bookcases
 
-All around the wizard's study are shelves and cases filled with books, scrolls, and other supplies. A character who makes a successful DC 12 Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check notices a spell component with no gp value from the list (such as a chip of mica or a bit of bat fur).
+All around the wizard's study are shelves and cases filled with books, scrolls, and other supplies. A character who makes a successful DC 12 Intelligence ([Arcana](Rules/skills.md#Arcana)) check notices a spell component with no gp value from the list (such as a chip of mica or a bit of bat fur).
 
 ##### Lists
 
 The parchment has a list of spells and a list of material components. However, the components to the right don't match with the adjacent spells to the left. The parchment itself doesn't have any magical qualities, but the word it reveals potentially does.
 
-Wizards and other spellcasters can identify the correct spell components for any spell they know, but they must succeed on the Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) checks noted in the "Hint Checks" section below to recall the correct material components for any less familiar spells.
+Wizards and other spellcasters can identify the correct spell components for any spell they know, but they must succeed on the Intelligence ([Arcana](Rules/skills.md#Arcana)) checks noted in the "Hint Checks" section below to recall the correct material components for any less familiar spells.
 
 #### Solution
 
-Drawing a line from a spell to its material component crosses out letters that fall between the columns, as shown in diagram 4.4. Once all spells are connected to components, the untouched letters spell out "presto," which, when said aloud with the paper in hand, causes one or more [spell scrolls](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-scroll.md) (or some other treasure of your choice) to magically appear.
+Drawing a line from a spell to its material component crosses out letters that fall between the columns, as shown in diagram 4.4. Once all spells are connected to components, the untouched letters spell out "presto," which, when said aloud with the paper in hand, causes one or more [spell scrolls](Compendium/items/spell-scroll.md) (or some other treasure of your choice) to magically appear.
 
-![Diagram 4.4: Material Components Puzzle Solution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/119-04-029.webp#center)
+![Diagram 4.4: Material Components Puzzle Solution](Compendium/books/tashas-cauldron-of-everything/img/119-04-029.webp#center)
 
 #### Hint Checks
 
@@ -1062,7 +1062,7 @@ The door is made of oak reinforced with 3-inch-wide iron bars. Three deadbolts s
 
 ##### Guard
 
-A guard stands on the other side of the door around the clock, and the only way to speak with the guard is through the door's slide window. The guard can be any sort of talking creature, such as an [assassin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/assassin.md), a [cult fanatic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/cult-fanatic.md), or a [thug](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/thug.md). More monstrous options include a [bugbear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/bugbear.md), [wereboar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/wereboar.md), or [nycaloth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nycaloth.md).
+A guard stands on the other side of the door around the clock, and the only way to speak with the guard is through the door's slide window. The guard can be any sort of talking creature, such as an [assassin](Compendium/bestiary/humanoid/assassin.md), a [cult fanatic](Compendium/bestiary/humanoid/cult-fanatic.md), or a [thug](Compendium/bestiary/humanoid/thug.md). More monstrous options include a [bugbear](Compendium/bestiary/humanoid/bugbear.md), [wereboar](Compendium/bestiary/humanoid/wereboar.md), or [nycaloth](Compendium/bestiary/fiend/nycaloth.md).
 
 If a character knocks on the door, the guard slides open the window and gruffly gives a number, expecting the proper response. The guard gives a different number each time someone knocks. Any proper response grants a single character entry, and the guard only allows one member to enter at a time.
 
@@ -1070,7 +1070,7 @@ Characters who provide incorrect answers and attempt to enter again must disguis
 
 ##### Members
 
-If the characters continue watching the door, they see up to four more visitors approach it. To eavesdrop on each exchange, the characters must succeed on a DC 12 group Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) check to remain hidden; if the group check fails, the visitor notices they're being observed and speaks quietly enough that their answer can't be overheard.
+If the characters continue watching the door, they see up to four more visitors approach it. To eavesdrop on each exchange, the characters must succeed on a DC 12 group Dexterity ([Stealth](Rules/skills.md#Stealth)) check to remain hidden; if the group check fails, the visitor notices they're being observed and speaks quietly enough that their answer can't be overheard.
 
 - **Second Visitor.** The guard opens the window and says, "Twelve." The visitor responds with "Six" and is allowed inside.  
 - **Third Visitor.** The guard opens the window and says, "Ten." The visitor responds with "Five" and is turned away.  
@@ -1083,7 +1083,7 @@ Each member that approaches the door is given a number by the guard. There is no
 
 For example, one member was given the number "six." There are three letters in the word "six," so the password for that member is "three." More potential answers are provided in the Potential Passwords table.
 
-![Solution; Potential Passwords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/solution-potential-passwords-tce.md)
+![Solution; Potential Passwords](Compendium/tables/solution-potential-passwords-tce.md)
 
 #### Hint Checks
 
@@ -1136,7 +1136,7 @@ Diagram 4.5 shows how to divide the forty-five coins so that every square has a 
 
 The verse explains that the door requires the amount of coins shown in the center square. Upon inserting exactly five coins, the locked door opens.
 
-![Diagram 4.5: Exact Change Puzzle Solution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/120-04-031.webp#center)
+![Diagram 4.5: Exact Change Puzzle Solution](Compendium/books/tashas-cauldron-of-everything/img/120-04-031.webp#center)
 
 #### Hint Checks
 
@@ -1175,7 +1175,7 @@ This puzzle might appear anywhere elementals of earth, air, fire, and water serv
 
 Once the characters enter this room, the door behind them slams shut. It can be opened only by completing this puzzle, and there are no other exits.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/121-04-032.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/121-04-032.webp#center)
 
 #### Puzzle Features
 
@@ -1198,20 +1198,20 @@ The statues are actual elementals magically bound in stone. The magic that turne
 
 If the characters don't replace the four fallen tiles in their proper sequence, all four statues revert to their true forms at the same time and attack the characters. The exact timing of this event is left to you, but the characters should be given enough time to take a crack at solving the puzzle. The characters can also release the elementals individually by putting titles in the wrong order or orientation.
 
-Puzzle handout 6 (see the end of this chapter) illustrates the row of tiles set into the wall above the statues. Without a check, the characters realize that four of the tiles fell down when the door slammed shut behind them. With a successful DC 15 Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check, a character can determine that these tiles are what keeps the elementals bound.
+Puzzle handout 6 (see the end of this chapter) illustrates the row of tiles set into the wall above the statues. Without a check, the characters realize that four of the tiles fell down when the door slammed shut behind them. With a successful DC 15 Intelligence ([Arcana](Rules/skills.md#Arcana)) check, a character can determine that these tiles are what keeps the elementals bound.
 
 If a tile is placed in the wrong place in the row, the corresponding elemental is freed from its stone prison and attacks. Only one of each elemental appears:
 
-- If the improperly placed tile has an open triangle pointing downward, the [water elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/water-elemental.md) is freed.  
-- If the improperly placed tile has an open triangle pointing upward, the [fire elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/fire-elemental.md) is freed.  
-- If the improperly placed tile has a triangle pointing upward with a horizontal line running through it, the [air elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/air-elemental.md) is freed.  
-- If the improperly placed tile has a triangle pointing downward with a horizontal line running through it, the [earth elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/earth-elemental.md) is freed.  
+- If the improperly placed tile has an open triangle pointing downward, the [water elemental](Compendium/bestiary/elemental/water-elemental.md) is freed.  
+- If the improperly placed tile has an open triangle pointing upward, the [fire elemental](Compendium/bestiary/elemental/fire-elemental.md) is freed.  
+- If the improperly placed tile has a triangle pointing upward with a horizontal line running through it, the [air elemental](Compendium/bestiary/elemental/air-elemental.md) is freed.  
+- If the improperly placed tile has a triangle pointing downward with a horizontal line running through it, the [earth elemental](Compendium/bestiary/elemental/earth-elemental.md) is freed.  
 
 #### Solution
 
 The correct, complete pattern is shown here:
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/122-04-033.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/122-04-033.webp#center)
 
 The odd-numbered tiles form a recurring pattern of open triangles that alternate between pointing up and down. Tiles 1, 5, 9, and 13 are upward-pointing triangles, while tiles 3, 7, and 11 are downward-pointing triangles.
 
@@ -1241,7 +1241,7 @@ When an elemental is defeated, it might leave behind a valuable gemstone, a map 
 
 To increase the difficulty of this puzzle, enforce a time factor: perhaps one elemental breaks free at the end of every five minutes of real time that pass until the puzzle is solved.
 
-You can also raise the difficulty by having statues depict genies instead of elementals. In this case, replace the four elementals with a [dao](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/dao.md), a [djinni](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/djinni.md), an [efreeti](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/efreeti.md), and a [marid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/marid.md). These genies are compelled to attack the characters and can't be reasoned with.
+You can also raise the difficulty by having statues depict genies instead of elementals. In this case, replace the four elementals with a [dao](Compendium/bestiary/elemental/dao.md), a [djinni](Compendium/bestiary/elemental/djinni.md), an [efreeti](Compendium/bestiary/elemental/efreeti.md), and a [marid](Compendium/bestiary/elemental/marid.md). These genies are compelled to attack the characters and can't be reasoned with.
 
 ### Haunted Hallway
 
@@ -1256,7 +1256,7 @@ Many unquiet spirits linger in the world because they can't bare to leave someth
 > From the hall's far end drifts a low moan. There, barely visible, sobs the apparition of a small girl hovering over a discarded rag doll. "Names, names," she cries. "I can remember them all except the one I need."
 ^41f
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/123-04-034.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/123-04-034.webp#center)
 
 The spirit, Dolora, is a harmless apparition who won't engage the party in combat. If threatened, she vanishes and reappears at the opposite end of the hall, sobbing anew.
 
@@ -1298,7 +1298,7 @@ If the characters examine the rag doll or ask Dolora about it, she imparts the f
 
 Once the characters learn all six names, they must extract one letter from each name, as noted in the Remembered Names table. An alcove's number determines which letter to extract; for example, "Alexia" is the name connected to the verse in alcove 6, and the sixth letter in that name is A.
 
-![Solution; Remembered Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/solution-remembered-names-tce.md)
+![Solution; Remembered Names](Compendium/tables/solution-remembered-names-tce.md)
 
 The doll's name is Sefina. Once Dolora is told this, she picks up the doll, speaks its name, and disappears with it, her spirit having been laid to rest. If there's some piece of information you wish to have the spirit reveal to the party, such as the location of a nearby treasure or the secret of a more dangerous spirit, Dolora whispers this as she fades away.
 
@@ -1320,7 +1320,7 @@ The character interprets Dolora's cryptic clue about the doll as follows: "all s
 
 ### What's on the Menu
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/124-04-035.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/124-04-035.webp#center)
 
 *Difficulty: Hard*
 
@@ -1345,13 +1345,13 @@ A sign at the bar declares that a meal costs 1 sp, a mug of ale costs 4 cp, a gl
 
 Characters who peruse the menu see the items listed in the Menu Items table, in the order given.
 
-![Menu Items](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/menu-items-tce.md)
+![Menu Items](Compendium/tables/menu-items-tce.md)
 
 #### Solution
 
 Arrange the menu items in alphabetical order, then count into each item by the number of letters indicated in its price, as shown in the What's On the Menu Solution table. Stringing the seven letters together forms the password: chimera.
 
-![What's on the Menu Solution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/whats-on-the-menu-solution-tce.md)
+![What's on the Menu Solution](Compendium/tables/whats-on-the-menu-solution-tce.md)
 
 The characters can figure out the password without putting the menu items in alphabetical order. Once they get all seven letters, they must solve the anagram to get the password.
 
@@ -1379,7 +1379,7 @@ The character notices the prices on the menu don't make much sense. For example,
 
 #### Customizing the Puzzle
 
-"Chimera" might not be the password but rather a reference to something or someone else in the tavern. Characters who solve the puzzle and succeed on a DC 15 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check might notice another patron wearing a cloak pin shaped like a chimera, or spot a shield emblazoned with a chimera hanging on a wall that conceals a secret door. Only after speaking to the patron or seeing what's on the other side of the secret door do the characters obtain the actual password, which can be anything you want.
+"Chimera" might not be the password but rather a reference to something or someone else in the tavern. Characters who solve the puzzle and succeed on a DC 15 Wisdom ([Perception](Rules/skills.md#Perception)) check might notice another patron wearing a cloak pin shaped like a chimera, or spot a shield emblazoned with a chimera hanging on a wall that conceals a secret door. Only after speaking to the patron or seeing what's on the other side of the secret door do the characters obtain the actual password, which can be anything you want.
 
 You can easily change "chimera" to something else by swapping out menu items, choosing different letters within the replacement items, and adjusting the prices accordingly.
 
@@ -1396,24 +1396,24 @@ A too-helpful barmaid might take pity on the struggling characters and walk them
 
 #### Puzzle Handout 1: Reckless Steps
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/125-04-036.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/125-04-036.webp#center)
 
 #### Puzzle Handout 2: Skeleton Keys
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/126-04-037.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/126-04-037.webp#center)
 
 #### Puzzle Handout 3: Four by Four
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/127-04-038.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/127-04-038.webp#center)
 
 #### Puzzle Handout 4: Illusive Island
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/128-04-039.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/128-04-039.webp#center)
 
 #### Puzzle Handout 5: Material Components
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/129-04-040.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/129-04-040.webp#center)
 
 #### Puzzle Handout 6: Four Elements
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/tashas-cauldron-of-everything/img/130-04-041.webp#center)
+![](Compendium/books/tashas-cauldron-of-everything/img/130-04-041.webp#center)

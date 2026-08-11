@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crawling Claw
+- "Crawling Claw"
 ---
-# [Crawling Claw](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/crawling-claw.md)
-*Source: Monster Manual p. 44, The Book of Many Things*  
+# [Crawling Claw](Compendium/bestiary/undead/crawling-claw.md)
+*Source: Monster Manual p. 44*  
 
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
 
@@ -65,11 +66,10 @@ A crawling claw doesn't require air, food, drink, or sleep.
   - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft. (blind beyond this radius),\
+  \ passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "0"
 "traits":
@@ -81,7 +81,6 @@ A crawling claw doesn't require air, food, drink, or sleep.
     "name": "Claw"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/crawling-claw.webp"
+"image": "Compendium/bestiary/undead/token/crawling-claw.webp"
 ```
 ^statblock

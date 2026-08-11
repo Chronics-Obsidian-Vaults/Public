@@ -7,8 +7,8 @@ tags:
 - source/deity/orc
 - source/domain/life
 - source/domain/nature
-aliases: 
-- Luthic
+aliases:
+- "Luthic"
 ---
 # Luthic
 *Source: Volo's Guide to Monsters p. 84* 

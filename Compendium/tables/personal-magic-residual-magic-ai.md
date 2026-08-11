@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Personal Magic; Residual Magic
+- "Personal Magic; Residual Magic"
 ---
 # Personal Magic; Residual Magic
 *Source: Acquisitions Incorporated p. 68* 

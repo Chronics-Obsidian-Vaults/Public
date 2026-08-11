@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/optional-feature/ed
 aliases:
-- Shape the Flowing River
+- "Shape the Flowing River"
 ---
 # Shape the Flowing River
 *Source: Player's Handbook p. 81*  

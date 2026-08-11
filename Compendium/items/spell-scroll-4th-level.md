@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/minor
 - source/item/wondrous/scroll
-aliases: 
+aliases:
 - "Spell Scroll (4th Level)"
 item_type: wondrous
 item_subtype: scroll
@@ -26,6 +27,6 @@ Once the spell is cast, the words on the scroll fade, and the scroll itself crum
 
 A spell cast from this scroll has a save DC of 15 and an attack bonus of `+7`.
 
-A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 14 Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 14 Intelligence ([Arcana](Rules/skills.md#Arcana)) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
 
 *Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

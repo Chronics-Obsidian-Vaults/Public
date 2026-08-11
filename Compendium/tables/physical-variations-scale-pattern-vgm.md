@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Scale Pattern
+- "Physical Variations; Scale Pattern"
 ---
 # Physical Variations; Scale Pattern
 *Source: Volo's Guide to Monsters p. 66* 

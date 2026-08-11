@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/11
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Enchanting Infiltrator
+- "Enchanting Infiltrator"
 ---
-# [Enchanting Infiltrator](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/enchanting-infiltrator-bmt.md)
+# [Enchanting Infiltrator](Compendium/bestiary/fey/enchanting-infiltrator-bmt.md)
 *Source: The Book of Many Things p. 46*  
 
 An antagonist for tier 2 play (levels 5 to 10), the enchanting infiltrator is a Fey that beguiles and misdirects.
@@ -46,16 +47,14 @@ The villain's challenge rating increases while the villain is in this lair:
   - "dexterity": !!int "9"
   - "intelligence": !!int "9"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+12"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+13"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., passive Perception 17"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., passive Perception 17"
 "languages": "Common, thieves' cant, plus any one language"
 "cr": "11"
 "traits":
@@ -75,10 +74,9 @@ The villain's challenge rating increases while the villain is in this lair:
     "name": "Poison Blade"
   - "desc": "The infiltrator magically whispers to a creature it can see within 30\
       \ feet of itself. The target must succeed on a DC 17 Wisdom saving throw or\
-      \ have the [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ condition due to fear or delight (the infiltrator's choice) until the end\
-      \ of the target's next turn, after which the target is immune to this Beguiling\
-      \ Whisper for 24 hours."
+      \ have the [stunned](Rules/conditions.md#Stunned) condition due to fear or delight\
+      \ (the infiltrator's choice) until the end of the target's next turn, after\
+      \ which the target is immune to this Beguiling Whisper for 24 hours."
     "name": "Beguiling Whisper"
 "reactions":
   - "desc": "When an attacker the infiltrator can see hits the infiltrator with an\
@@ -116,13 +114,13 @@ The villain's challenge rating increases while the villain is in this lair:
   \ actions. The enchanting infiltrator regains all expended uses at the start of\
   \ each of its turns."
 "legendary_actions":
-  - "desc": "The infiltrator escapes nonmagical restraints and ends the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+  - "desc": "The infiltrator escapes nonmagical restraints and ends the [grappled](Rules/conditions.md#Grappled)\
       \ condition on itself, then moves up to its speed without provoking opportunity\
       \ attacks."
     "name": "Cunning"
   - "desc": "The infiltrator makes one Poison Blade attack."
     "name": "Stab (Costs 2 Actions)"
-  - "desc": "The infiltrator magically has the [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The infiltrator magically has the [invisible](Rules/conditions.md#Invisible)\
       \ condition and creates an illusory duplicate of itself in its space, then teleports,\
       \ along with any equipment it is wearing or carrying, to an unoccupied space\
       \ within 15 feet of itself. The image flings illusory blades at two creatures\
@@ -133,6 +131,6 @@ The villain's challenge rating increases while the villain is in this lair:
     "name": "Misdirecting Escape (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/enchanting-infiltrator-bmt.webp"
+"image": "Compendium/bestiary/fey/token/enchanting-infiltrator-bmt.webp"
 ```
 ^statblock

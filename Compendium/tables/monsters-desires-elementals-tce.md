@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Elementals
+- "Monsters' Desires; Elementals"
 ---
 # Monsters' Desires; Elementals
 *Source: Tasha's Cauldron of Everything p. 148* 

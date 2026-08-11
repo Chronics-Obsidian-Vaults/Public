@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Immortal Contacts; Immortal Communication
+- "Immortal Contacts; Immortal Communication"
 ---
 # Immortal Contacts; Immortal Communication
 *Source: Eberron: Rising from the Last War p. 84* 

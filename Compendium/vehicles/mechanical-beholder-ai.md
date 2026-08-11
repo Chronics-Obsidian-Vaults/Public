@@ -10,11 +10,11 @@ tags:
 - source/vehicle/terrain/sea
 - source/vehicle/type/ship
 aliases:
-- Mechanical Beholder
+- "Mechanical Beholder"
 ---
 # Mechanical Beholder
-%%-- Embedded content starts on the next line. --%%
 *Source: Acquisitions Incorporated p. 219*  
+![](Compendium/vehicles/img/mechanical-beholder.webp#right)
 
 *When you hear the mechanical beholder click to life, it sounds like death itself snapping its fingers.*
 
@@ -23,12 +23,11 @@ A mechanical beholder takes the form of an oversized eye tyrant whose central ey
 ## Equipment and Options
 
 The mechanical beholder can be outfitted with a variety of sensors, probes, and gauges, allowing for functions as varied as determining alchemical composition, picking up on magical auras, or making masterfully dry martinis. Its range of armaments includes a disintegration ray modeled after that of its monstrous namesake (which for reasons of liability is advertised as being designed exclusively for waste removal). Portholes and hatches allow characters inside the beholder to make ranged and magical attacks from within it.
-
 ## Statblock
 
 ```ad-statblock
 title: Mechanical Beholder
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/vehicles/token/mechanical-beholder-ai.webp#token)
+![](Compendium/vehicles/token/mechanical-beholder-ai.webp#token)
 *Huge vehicle (15 ft. by 15 ft.); land, sea, air*
 
 - **Creature Capacity** 1 crew, 5 passengers
@@ -41,7 +40,7 @@ title: Mechanical Beholder
 |18 (+4)|12 (+1)|18 (+4)| 0 (-5)| 0 (-5)| 0 (-5)|
 
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened), [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed), [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified), [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned), [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone), [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned), [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)
+- **Condition Immunities** [blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened), [incapacitated](Rules/conditions.md#Incapacitated), [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone), [stunned](Rules/conditions.md#Stunned), [unconscious](Rules/conditions.md#Unconscious)
 
 ## Actions
 
@@ -79,6 +78,6 @@ Move up to the speed of the ship's magical propulsion unit, with one 90-degree t
 
 - **Enervation Ray.** The targeted creature must make a DC 15 Constitution saving throw, taking 18 (`4d8`) necrotic damage on a failed save, or half as much damage on a successful one.  
 
-- **Paralyzing Ray.** The targeted creature must succeed on a DC 15 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Paralyzing Ray.** The targeted creature must succeed on a DC 15 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 ```
 ^statblock

@@ -7,8 +7,8 @@ tags:
 - source/deity/gnome
 - source/domain/knowledge
 - source/domain/nature
-aliases: 
-- Callarduran Smoothhands
+aliases:
+- "Callarduran Smoothhands"
 ---
 # Callarduran Smoothhands
 *Source: Mordenkainen's Tome of Foes p. 111* 

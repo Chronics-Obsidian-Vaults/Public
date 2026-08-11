@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Outer Essence Shard"
 item_type: 
 item_subtype: 
@@ -13,7 +15,7 @@ rarity: rare
 attunement: required
 ---
 # Outer Essence Shard
-*Wondrous item, rare (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
 
 - **Weight**: 1.0 lbs.
@@ -26,10 +28,10 @@ Roll a `d4` and consult the Outer Essence Shards table to determine the shard's 
 
 | dice: d4 | Property | Shard |
 |----------|----------|-------|
-| 1 | Lawful | [Outer Essence Shard (Lawful)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/outer-essence-shard-lawful-tce.md) |
-| 2 | Chaotic | [Outer Essence Shard (Chaotic)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/outer-essence-shard-chaotic-tce.md) |
-| 3 | Good | [Outer Essence Shard (Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/outer-essence-shard-good-tce.md) |
-| 4 | Evil | [Outer Essence Shard (Evil)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/outer-essence-shard-evil-tce.md) |
+| 1 | Lawful | [Outer Essence Shard (Lawful)](Compendium/items/outer-essence-shard-lawful-tce.md) |
+| 2 | Chaotic | [Outer Essence Shard (Chaotic)](Compendium/items/outer-essence-shard-chaotic-tce.md) |
+| 3 | Good | [Outer Essence Shard (Good)](Compendium/items/outer-essence-shard-good-tce.md) |
+| 4 | Evil | [Outer Essence Shard (Evil)](Compendium/items/outer-essence-shard-evil-tce.md) |
 ^outer-essence-shards
 
 *Source: Tasha's Cauldron of Everything p. 133*

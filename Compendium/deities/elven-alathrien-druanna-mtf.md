@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/arcana
 - source/domain/knowledge
-aliases: 
-- Alathrien Druanna
+aliases:
+- "Alathrien Druanna"
 ---
 # Alathrien Druanna
 *Source: Mordenkainen's Tome of Foes p. 43* 

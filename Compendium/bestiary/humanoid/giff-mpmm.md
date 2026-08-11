@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giff
+- "Giff"
 ---
-# [Giff](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/giff-mpmm.md)
+# [Giff](Compendium/bestiary/humanoid/giff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 138, Mordenkainen's Tome of Foes p. 204*  
 
 > [!quote] A quote from Mordenkainen  
@@ -27,7 +28,7 @@ Muskets and grenades are the specialties of many giff regiments. The bigger the 
 
 ## Gunpowder by the Keg
 
-In addition to their personal gunpowder weapons, giff ships and mercenary companies carry spare gunpowder in kegs. In an emergency, or if a large explosion is needed, a whole keg can be detonated. A giff lights the fuse on the keg and can then throw the keg up to 15 feet as part of the same action. The keg explodes at the start of the giff's next turn. Each creature within 20 feet of the exploding keg must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 24 (`7d6`) fire damage and is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).
+In addition to their personal gunpowder weapons, giff ships and mercenary companies carry spare gunpowder in kegs. In an emergency, or if a large explosion is needed, a whole keg can be detonated. A giff lights the fuse on the keg and can then throw the keg up to 15 feet as part of the same action. The keg explodes at the start of the giff's next turn. Each creature within 20 feet of the exploding keg must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 24 (`7d6`) fire damage and is knocked [prone](Rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](Rules/conditions.md#Prone).
 
 Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent chance of also exploding. Check each keg only once per turn, no matter how many other kegs explode around it.
 
@@ -37,7 +38,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md)"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "2"
@@ -49,6 +50,10 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
   - !!int "12"
   - !!int "12"
 "speed": "30 ft."
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+  - "[musket](Compendium/items/musket.md)"
+  - "[pistol](Compendium/items/pistol.md)"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "3"
@@ -59,7 +64,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
   - "desc": "The giff can try to knock a creature over; if the giff moves at least\
       \ 20 feet in a straight line and ends within 5 feet of a Large or smaller creature,\
       \ that creature must succeed on a DC 14 Strength saving throw or take 7 (2d6)\
-      \ bludgeoning damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ bludgeoning damage and be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Headfirst Charge"
 "actions":
   - "desc": "The giff makes two Longsword, Musket, or Pistol attacks."
@@ -81,7 +86,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/giff-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/giff-mpmm.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; Container Contents
+- "Dungeon Dressing; Container Contents"
 ---
 # Dungeon Dressing; Container Contents
 *Source: Dungeon Master's Guide p. 298* 

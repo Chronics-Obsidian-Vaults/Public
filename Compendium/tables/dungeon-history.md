@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon History
+- "Dungeon History"
 ---
 # Dungeon History
 *Source: Dungeon Master's Guide p. 101* 

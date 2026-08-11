@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/10
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Summer Eladrin
+- "Summer Eladrin"
 ---
-# [Summer Eladrin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/summer-eladrin-mpmm.md)
+# [Summer Eladrin](Compendium/bestiary/fey/summer-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
 
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
@@ -34,7 +35,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](Rules/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Summer Eladrin (MPMM)"
@@ -56,23 +57,25 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - !!int "18"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+8"
 "damage_resistances": "fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"
 "traits":
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of the eladrin for 1 minute. A creature can repeat the saving throw at the\
-      \ end of each of its turns, ending the effect on itself on a success. If a creature's\
-      \ saving throw is successful or the effect ends for it, the creature is immune\
-      \ to any eladrin's Fearsome Presence for the next 24 hours."
+      \ [frightened](Rules/conditions.md#Frightened) of the eladrin for 1 minute.\
+      \ A creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success. If a creature's saving throw is successful\
+      \ or the effect ends for it, the creature is immune to any eladrin's Fearsome\
+      \ Presence for the next 24 hours."
     "name": "Fearsome Presence"
   - "desc": "The eladrin has advantage on saving throws against spells and other magical\
       \ effects."
@@ -98,7 +101,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/summer-eladrin-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/summer-eladrin-mpmm.webp"
 ```
 ^statblock
 

@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/scag
 - source/race/tiefling/winged
 aliases:
-- Tiefling (Winged)
+- "Tiefling (Winged)"
 ---
 # Tiefling (Winged)
 *Source: Sword Coast Adventurer's Guide p. 118*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/feral-tiefling.webp#right)
+![](Compendium/races/img/feral-tiefling.webp#right)
 
 - **Ability Scores**: Apply +1 to one of Dexterity or Charisma.
 - **Size**: Medium
@@ -73,4 +74,4 @@ Tiefling names fall into three broad categories. Tieflings born into another cul
 ^mutual-mistrust
 
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/tiefling.webp#center)
+![](Compendium/races/img/tiefling.webp#center)

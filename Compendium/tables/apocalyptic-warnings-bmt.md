@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Apocalyptic Warnings
+- "Apocalyptic Warnings"
 ---
 # Apocalyptic Warnings
 *Source: The Book of Many Things p. 96* 

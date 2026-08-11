@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/15
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mordakhesh
+- "Mordakhesh"
 ---
-# [Mordakhesh](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/mordakhesh-erlw.md)
+# [Mordakhesh](Compendium/bestiary/npc/mordakhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 301*  
 
 In the age when fiends and dragons waged war across Eberron, rakshasas served the fiendish lords as strategists and generals. A rakshasa named Mordakhesh rose up through the ranks to become one of the greatest commanders of his age, and a dragon-slaying specialist. For this, he earned the nickname Shadowsword, along with a legendary reputation for leaving death in his wake.
@@ -26,7 +27,7 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
 "type": "fiend"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "170"
 "hit_dice": "20d8 + 80"
 "modifier": !!int "3"
@@ -44,34 +45,32 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+10"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+10"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 18"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 18"
 "languages": "Common, Infernal"
 "cr": "15"
 "traits":
   - "desc": "Mordakhesh's spellcasting ability is Charisma (spell save DC 18, +10\
       \ to hit with spell attacks). Mordakhesh can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [chromatic orb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chromatic-orb.md)\
-      \ (see \"Actions\" below), [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)\n\
-      \n**1/day each:** [banishing smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishing-smite.md),\
-      \ [destructive wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/destructive-wave.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [mass suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-suggestion.md),\
-      \ [staggering smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/staggering-smite.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md),\
-      \ [true seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-seeing.md)"
+      \ requiring no material components:\n\n**At will:** [chromatic orb](Compendium/spells/chromatic-orb.md)\
+      \ (see \"Actions\" below), [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [disguise self](Compendium/spells/disguise-self.md)\n\n**1/day each:** [banishing\
+      \ smite](Compendium/spells/banishing-smite.md), [destructive wave](Compendium/spells/destructive-wave.md),\
+      \ [fly](Compendium/spells/fly.md), [mass suggestion](Compendium/spells/mass-suggestion.md),\
+      \ [staggering smite](Compendium/spells/staggering-smite.md), [suggestion](Compendium/spells/suggestion.md),\
+      \ [true seeing](Compendium/spells/true-seeing.md)"
     "name": "Innate Spellcasting"
   - "desc": "Mordakhesh can't be affected or detected by spells of 6th level or lower\
       \ unless he wishes to be. Mordakhesh has advantage on saving throws against\
@@ -91,7 +90,7 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
   \ turn, Mordakhesh can expend a use to take one of the following actions. Mordakhesh\
   \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Mordakhesh makes one weapon attack or casts [chromatic orb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chromatic-orb.md)."
+  - "desc": "Mordakhesh makes one weapon attack or casts [chromatic orb](Compendium/spells/chromatic-orb.md)."
     "name": "Attack"
   - "desc": "Modakhesh gains resistance to one damage type of his choice—acid, cold,\
       \ fire, lightning, poison, or thunder—until the start of his next turn."
@@ -102,6 +101,6 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
     "name": "Warlord's Command (Costs 2 Actions)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/mordakhesh-erlw.webp"
+"image": "Compendium/bestiary/npc/token/mordakhesh-erlw.webp"
 ```
 ^statblock

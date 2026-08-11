@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Dragonshield
+- "Kobold Dragonshield"
 ---
-# [Kobold Dragonshield](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/kobold-dragonshield-mpmm.md)
+# [Kobold Dragonshield](Compendium/bestiary/dragon/kobold-dragonshield-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
 
 > [!quote] A quote from Mordenkainen  
@@ -32,8 +33,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "type": "dragon"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[leather](Compendium/items/leather-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "44"
 "hit_dice": "8d6 + 16"
 "modifier": !!int "2"
@@ -46,11 +46,12 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
   - !!int "10"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+1"
 "damage_resistances": "see Dragon's Resistance below"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common, Draconic"
 "cr": "1"
 "traits":
@@ -59,8 +60,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
       \ 3–4, cold (silver or white); 5–6, fire (brass, gold, or red); 7–8, lightning\
       \ (blue or bronze); 9–10, poison (green)."
     "name": "Dragon's Resistance"
-  - "desc": "If the kobold is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ or [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+  - "desc": "If the kobold is [frightened](Rules/conditions.md#Frightened) or [paralyzed](Rules/conditions.md#Paralyzed)\
       \ by an effect that allows a saving throw, it can repeat the save at the start\
       \ of its turn to end the effect on itself and all kobolds within 30 feet of\
       \ it. Any kobold that benefits from this trait (including the dragonshield)\
@@ -68,11 +68,11 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
     "name": "Heart of the Dragon"
   - "desc": "The kobold has advantage on an attack roll against a creature if at least\
       \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The kobold makes two Spear attacks."
@@ -84,7 +84,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/kobold-dragonshield-mpmm.webp"
+"image": "Compendium/bestiary/dragon/token/kobold-dragonshield-mpmm.webp"
 ```
 ^statblock
 

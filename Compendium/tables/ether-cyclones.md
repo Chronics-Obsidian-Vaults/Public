@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Ether Cyclones
+- "Ether Cyclones"
 ---
 # Ether Cyclones
 *Source: Dungeon Master's Guide p. 49* 

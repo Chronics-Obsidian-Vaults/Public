@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/6
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undercity Medusa
+- "Undercity Medusa"
 ---
-# [Undercity Medusa](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/undercity-medusa-ggr.md)
+# [Undercity Medusa](Compendium/bestiary/monstrosity/undercity-medusa-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 222*  
 
 The medusas of Ravnica, often called gorgons, are a monstrous race of creatures that appear superficially similar to human women. In place of hair, a gorgon has a writhing mass of black, serpentine cables, and its hands are scaly claws.
@@ -41,30 +42,28 @@ Not all gorgons are so ambitious; some prefer to simply stalk the endless shadow
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Common, Elvish"
 "cr": "6"
 "traits":
   - "desc": "The medusa's innate spellcasting ability is Intelligence (spell save\
       \ DC 14). The medusa can innately cast the following spells, requiring no material\
-      \ components:\n\n**1/day each:** [expeditious retreat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/expeditious-retreat.md),\
-      \ [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md),\
-      \ [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md)"
+      \ components:\n\n**1/day each:** [expeditious retreat](Compendium/spells/expeditious-retreat.md),\
+      \ [fog cloud](Compendium/spells/fog-cloud.md), [misty step](Compendium/spells/misty-step.md)"
     "name": "Innate Spellcasting"
   - "desc": "The medusa has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
   - "desc": "During the first round of combat, the medusa has advantage on attack\
-      \ rolls against any creature that is [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised),\
+      \ rolls against any creature that is [surprised](Rules/conditions.md#Surprised),\
       \ and it deals an extra 10 (3d6) damage each time it hits such a creature with\
       \ an attack."
     "name": "Surprise Attack"
@@ -78,17 +77,16 @@ Not all gorgons are so ambitious; some prefer to simply stalk the endless shadow
   - "desc": "The medusa fixes its gaze on one creature within 60 feet of it that it\
       \ can see and that can see its eyes. The target must make a DC 14 Constitution\
       \ saving throw. If the saving throw fails by 5 or more, the creature is instantly\
-      \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified).\
-      \ Otherwise, a creature that fails the save begins to turn to stone and is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
-      \ The [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ creature must repeat the saving throw at the end of its next turn, becoming\
-      \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified)\
+      \ [petrified](Rules/conditions.md#Petrified). Otherwise, a creature that fails\
+      \ the save begins to turn to stone and is [restrained](Rules/conditions.md#Restrained).\
+      \ The [restrained](Rules/conditions.md#Restrained) creature must repeat the\
+      \ saving throw at the end of its next turn, becoming [petrified](Rules/conditions.md#Petrified)\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by a [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
+      \ the creature is freed by a [greater restoration](Compendium/spells/greater-restoration.md)\
       \ spell or similar magic."
     "name": "Petrifying Gaze"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/undercity-medusa-ggr.webp"
+"image": "Compendium/bestiary/monstrosity/token/undercity-medusa-ggr.webp"
 ```
 ^statblock

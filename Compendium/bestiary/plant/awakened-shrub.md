@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -10,12 +11,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Awakened Shrub
+- "Awakened Shrub"
 ---
-# [Awakened Shrub](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/awakened-shrub.md)
-*Source: Monster Manual p. 317, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Awakened Shrub](Compendium/bestiary/plant/awakened-shrub.md)
+*Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/awaken.md) spell or similar magic.
+An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](Compendium/spells/awaken.md) spell or similar magic.
 
 ```statblock
 "name": "Awakened Shrub"
@@ -49,8 +50,7 @@ An awakened shrub is an ordinary shrub given sentience and mobility by the [awak
     "name": "Rake"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/awakened-shrub.webp"
+"image": "Compendium/bestiary/plant/token/awakened-shrub.webp"
 ```
 ^statblock
 

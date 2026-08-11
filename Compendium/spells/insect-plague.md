@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/golgari-agent
@@ -8,10 +9,11 @@ tags:
 - source/spell/class/cleric
 - source/spell/class/druid
 - source/spell/class/sorcerer
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/5th-level
 - source/spell/school/conjuration
 - source/spell/subclass/circle-of-the-land/desert
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/nature-domain
 - source/spell/subclass/swarmkeeper
 - source/spell/subclass/tempest-domain
@@ -24,9 +26,9 @@ classes:
 - Druid (Circle of the Land, Desert)
 - Ranger (Swarmkeeper)
 - Sorcerer
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Insect Plague
+- "Insect Plague"
 level: 5
 school: conjuration
 ritual: false
@@ -39,7 +41,7 @@ components_vsm: [V, S, M]
 ---
 # Insect Plague
 *5th-level, Conjuration*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/img/insect-plague.webp#right)
+![](Compendium/spells/img/insect-plague.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 300 feet
@@ -52,6 +54,6 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `1d10` for each slot level above 5th.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-nature-domain.md); [Cleric (Tempest Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-tempest-domain.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Desert)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Ranger (Swarmkeeper)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](Compendium/lists/list-spells-classes-nature-domain.md); [Cleric (Tempest Domain)](Compendium/lists/list-spells-classes-tempest-domain.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Desert)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger (Swarmkeeper)](Compendium/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

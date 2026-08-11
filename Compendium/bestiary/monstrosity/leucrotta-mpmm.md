@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Leucrotta
+- "Leucrotta"
 ---
-# [Leucrotta](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/leucrotta-mpmm.md)
+# [Leucrotta](Compendium/bestiary/monstrosity/leucrotta-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
@@ -45,25 +46,23 @@ A leucrotta's stench would normally warn away prey long before the creature coul
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "Abyssal, Gnoll"
 "cr": "3"
 "traits":
   - "desc": "The leucrotta can mimic Beast sounds and Humanoid voices. A creature\
       \ that hears the sounds can tell they are imitations only with a successful\
-      \ DC 14 Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight))\
-      \ check."
+      \ DC 14 Wisdom ([Insight](Rules/skills.md#Insight)) check."
     "name": "Mimicry"
   - "desc": "Any creature other than a leucrotta or gnoll that starts its turn within\
       \ 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw\
-      \ or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ until the start of the creature's next turn. On a successful saving throw,\
-      \ the creature is immune to the Stench of all leucrottas for 1 hour."
+      \ or be [poisoned](Rules/conditions.md#Poisoned) until the start of the creature's\
+      \ next turn. On a successful saving throw, the creature is immune to the Stench\
+      \ of all leucrottas for 1 hour."
     "name": "Stench"
 "actions":
   - "desc": "The leucrotta makes one Bite attack and one Hooves attack."
@@ -76,13 +75,13 @@ A leucrotta's stench would normally warn away prey long before the creature coul
       \ (2d6 + 4) bludgeoning damage."
     "name": "Hooves"
 "bonus_actions":
-  - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage)\
+  - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](Rules/actions.md#Disengage)\
       \ action."
     "name": "Kicking Retreat"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/leucrotta-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/leucrotta-mpmm.webp"
 ```
 ^statblock
 

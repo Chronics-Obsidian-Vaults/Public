@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Dwarves on the Move; Purpose of Travel
+- "Dwarves on the Move; Purpose of Travel"
 ---
 # Dwarves on the Move; Purpose of Travel
 *Source: Mordenkainen's Tome of Foes p. 81* 

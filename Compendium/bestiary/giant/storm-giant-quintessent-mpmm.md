@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/16
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Storm Giant Quintessent
+- "Storm Giant Quintessent"
 ---
-# [Storm Giant Quintessent](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/storm-giant-quintessent-mpmm.md)
+# [Storm Giant Quintessent](Compendium/bestiary/giant/storm-giant-quintessent-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
@@ -51,16 +52,15 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, thunder"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 60 ft., passive Perception 20"
+"senses": "[truesight](Rules/senses.md#Truesight) 60 ft., passive Perception 20"
 "languages": "Common, Giant"
 "cr": "16"
 "traits":
@@ -86,16 +86,16 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
       \ the same lair action two rounds in a row:\n\n- **Deafening Boom.** The giant\
       \ creates a thunderclap centered on a point anywhere in their lair. Each creature\
       \ within 20 feet of that point must succeed on a DC 18 Constitution saving throw\
-      \ or be [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened)\
-      \ until the end of its next turn.  \n- **Fog.** The giant creates a 20-foot-radius\
-      \ sphere of fog (or murky water if within water) centered on a point anywhere\
-      \ in its lair. The sphere spreads around corners, and its area is heavily obscured.\
-      \ The fog lasts until the giant disperses it (no action required), and it can't\
-      \ be dispersed by wind.  \n- **Gale.** The giant creates a 60-foot-long, 10-foot-wide\
-      \ line of strong wind (or strong current within water) originating from a point\
-      \ anywhere in its lair. Each creature in that line must succeed on a DC 18 Strength\
-      \ saving throw or be pushed 15 feet in the direction the wind is blowing. The\
-      \ gust disperses gas or vapor, and it extinguishes candles, torches, and similar\
+      \ or be [deafened](Rules/conditions.md#Deafened) until the end of its next turn.\
+      \  \n- **Fog.** The giant creates a 20-foot-radius sphere of fog (or murky water\
+      \ if within water) centered on a point anywhere in its lair. The sphere spreads\
+      \ around corners, and its area is heavily obscured. The fog lasts until the\
+      \ giant disperses it (no action required), and it can't be dispersed by wind.\
+      \  \n- **Gale.** The giant creates a 60-foot-long, 10-foot-wide line of strong\
+      \ wind (or strong current within water) originating from a point anywhere in\
+      \ its lair. Each creature in that line must succeed on a DC 18 Strength saving\
+      \ throw or be pushed 15 feet in the direction the wind is blowing. The gust\
+      \ disperses gas or vapor, and it extinguishes candles, torches, and similar\
       \ unprotected flames in its area. Protected flames, such as those of lanterns,\
       \ have a 50 percent chance of being extinguished.  "
     "name": ""
@@ -132,13 +132,13 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
       \ While dispersed, the giant can't take any actions other than lair actions,\
       \ and it can't be targeted by attacks, spells, or other effects. The giant can't\
       \ use this ability outside its lair, nor can it use this ability if another\
-      \ creature is using a [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md)\
+      \ creature is using a [control weather](Compendium/spells/control-weather.md)\
       \ spell or similar magic to quell the storm."
     "name": "One with the Storm (Costs 3 Actions)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/storm-giant-quintessent-mpmm.webp"
+"image": "Compendium/bestiary/giant/token/storm-giant-quintessent-mpmm.webp"
 ```
 ^statblock
 

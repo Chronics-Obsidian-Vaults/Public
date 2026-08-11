@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/8
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Diviner Wizard
+- "Diviner Wizard"
 ---
-# [Diviner Wizard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/diviner-wizard-mpmm.md)
+# [Diviner Wizard](Compendium/bestiary/humanoid/diviner-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*  
 
 Diviners peer into the future and know that knowledge is power. They might act aloof and mysterious, hinting at omens and secrets, or they might be know-it-alls, spilling insights to advance their own status.
@@ -27,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "90"
 "hit_dice": "20d8"
 "modifier": !!int "2"
@@ -43,9 +44,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - "intelligence": !!int "7"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+7"
 "senses": "passive Perception 11"
 "languages": "any four languages"
@@ -59,23 +60,18 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - "desc": "The diviner magically creates a burst of illumination in a 10-foot-radius\
       \ sphere centered on a point within 120 feet of it. Each creature in that area\
       \ must make a DC 15 Wisdom saving throw. On a failed save, a creature takes\
-      \ 45 (10d8) psychic damage and is [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the end of the diviner's next turn. On a successful save, the creature\
-      \ takes half as much damage and isn't [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)."
+      \ 45 (10d8) psychic damage and is [stunned](Rules/conditions.md#Stunned) until\
+      \ the end of the diviner's next turn. On a successful save, the creature takes\
+      \ half as much damage and isn't [stunned](Rules/conditions.md#Stunned)."
     "name": "Overwhelming Revelation (Recharge 5-6)"
   - "desc": "The diviner casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 15):\n\n**At will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**2/day each:** [arcane eye](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-eye.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md),\
-      \ [locate object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [Rary's telepathic bond](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/rarys-telepathic-bond.md)\n\
-      \n**1/day each:** [true seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-seeing.md)"
+      \ the spellcasting ability (spell save DC 15):\n\n**At will:** [mage hand](Compendium/spells/mage-hand.md),\
+      \ [message](Compendium/spells/message.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**2/day each:** [arcane eye](Compendium/spells/arcane-eye.md), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [detect thoughts](Compendium/spells/detect-thoughts.md), [fly](Compendium/spells/fly.md),\
+      \ [lightning bolt](Compendium/spells/lightning-bolt.md), [locate object](Compendium/spells/locate-object.md),\
+      \ [mage armor](Compendium/spells/mage-armor.md), [Rary's telepathic bond](Compendium/spells/rarys-telepathic-bond.md)\n\
+      \n**1/day each:** [true seeing](Compendium/spells/true-seeing.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When the diviner or a creature it can see makes an attack roll, a saving\
@@ -86,7 +82,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/diviner-wizard-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/diviner-wizard-mpmm.webp"
 ```
 ^statblock
 

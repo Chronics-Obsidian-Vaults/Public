@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Backstory; Favorite Foods (Western Wynandir)
+- "Backstory; Favorite Foods (Western Wynandir)"
 ---
 # Backstory; Favorite Foods (Western Wynandir)
 *Source: Explorer's Guide to Wildemount p. 191* 

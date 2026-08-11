@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -17,10 +18,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Veteran
+- "Veteran"
 ---
-# [Veteran](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/veteran.md)
-*Source: Monster Manual p. 350, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Veteran](Compendium/bestiary/humanoid/veteran.md)
+*Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
 
@@ -31,7 +32,7 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "17"
-"ac_class": "[splint armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/splint-armor.md)"
+"ac_class": "[splint armor](Compendium/items/splint-armor.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -44,10 +45,14 @@ Veterans are professional fighters that take up arms for pay or to protect somet
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[heavy crossbow](Compendium/items/heavy-crossbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -66,11 +71,7 @@ Veterans are professional fighters that take up arms for pay or to protect somet
     "name": "Heavy Crossbow"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/veteran.webp"
+"image": "Compendium/bestiary/humanoid/token/veteran.webp"
 ```
 ^statblock
 

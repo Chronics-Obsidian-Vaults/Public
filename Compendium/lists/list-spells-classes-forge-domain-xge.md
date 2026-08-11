@@ -5,31 +5,31 @@ cssclasses:
 tags:
 - source/spell/list/subclass/forge-domain
 aliases:
-- Spells for Forge Domain
+- "Spells for Forge Domain"
 ---
 # Spells for Forge Domain
 
 ## 1st Level
 
-- [Identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md "PHB") at class level 9
-- [Searing Smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/searing-smite.md "PHB") at class level 9
+- [Identify](Compendium/spells/identify.md "PHB")
+- [Searing Smite](Compendium/spells/searing-smite.md "PHB")
 
 ## 2nd Level
 
-- [Heat Metal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heat-metal.md "PHB") at class level 9
-- [Magic Weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-weapon.md "PHB") at class level 9
+- [Heat Metal](Compendium/spells/heat-metal.md "PHB") at class level 3
+- [Magic Weapon](Compendium/spells/magic-weapon.md "PHB") at class level 3
 
 ## 3rd Level
 
-- [Elemental Weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/elemental-weapon.md "PHB") at class level 9
-- [Protection from Energy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-energy.md "PHB") at class level 9
+- [Elemental Weapon](Compendium/spells/elemental-weapon.md "PHB") at class level 5
+- [Protection from Energy](Compendium/spells/protection-from-energy.md "PHB") at class level 5
 
 ## 4th Level
 
-- [Fabricate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fabricate.md "PHB") at class level 9
-- [Wall of Fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md "PHB") at class level 9
+- [Fabricate](Compendium/spells/fabricate.md "PHB") at class level 7
+- [Wall of Fire](Compendium/spells/wall-of-fire.md "PHB") at class level 7
 
 ## 5th Level
 
-- [Animate Objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-objects.md "PHB") at class level 9
-- [Creation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/creation.md "PHB") at class level 9
+- [Animate Objects](Compendium/spells/animate-objects.md "PHB") at class level 9
+- [Creation](Compendium/spells/creation.md "PHB") at class level 9

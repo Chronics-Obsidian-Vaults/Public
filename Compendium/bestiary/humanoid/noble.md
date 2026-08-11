@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Noble
+- "Noble"
 ---
-# [Noble](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/noble.md)
-*Source: Monster Manual p. 348, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Noble](Compendium/bestiary/humanoid/noble.md)
+*Source: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
 
@@ -26,7 +27,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -39,12 +40,14 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+5"
+"gear":
+  - "[rapier](Compendium/items/rapier.md)"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"
@@ -58,11 +61,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
     "name": "Parry"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/noble.webp"
+"image": "Compendium/bestiary/humanoid/token/noble.webp"
 ```
 ^statblock
 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/major
-aliases: 
+aliases:
 - "Gloves of Thievery"
 item_type: 
 item_subtype: 
@@ -17,6 +18,6 @@ attunement: none
 
 
 
-These gloves are [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) while worn. While wearing them, you gain a +5 bonus to Dexterity ([Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)) checks and Dexterity checks made to pick locks.
+These gloves are [invisible](Rules/conditions.md#Invisible) while worn. While wearing them, you gain a +5 bonus to Dexterity ([Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)) checks and Dexterity checks made to pick locks.
 
 *Source: Dungeon Master's Guide p. 172*

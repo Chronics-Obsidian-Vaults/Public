@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pendragon Beestinger
+- "Pendragon Beestinger"
 ---
-# [Pendragon Beestinger](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/pendragon-beestinger-ai.md)
+# [Pendragon Beestinger](Compendium/bestiary/npc/pendragon-beestinger-ai.md)
 *Source: Acquisitions Incorporated p. 206*  
 
 Able arcanist Pendragon Beestinger took over as "B" Team cartographer after Brahma Lutier left the group. In fact, his first assignment was to assist in the team's attempts to apprehend the wandering bard. An adopted child of the "C" Team's Rosie Beestinger, Pendragon is his mother's foil in almost every way-including his goal of wanting to mainstream some of the family's rumored criminal interests. Pendragon has, in fact, attempted to kill his mother-and been killed himself in the process. Despite his having been resurrected at Rosie's request, things remain cool between the two.
@@ -25,7 +26,7 @@ Pendragon was kicked out of wizarding school as a result of the dark rumors foll
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "2"
@@ -38,30 +39,27 @@ Pendragon was kicked out of wizarding school as a result of the dark rumors foll
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)"
+  - "name": "[Investigation](Rules/skills.md#Investigation)"
     "desc": "+5"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+2"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic, Elvish, Halfling"
 "cr": "2"
 "traits":
   - "desc": "Pendragon is a 4th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 13, +5 to hit with spell attacks). He has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** [acid splash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/acid-splash.md),\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [poison spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md),\
-      \ [shocking grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md)\n\
-      \n**1st level (4 slots):** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md)\n\
-      \n**2nd level (3 slots):** [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md),\
-      \ [cloud of daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloud-of-daggers.md),\
-      \ [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [acid splash](Compendium/spells/acid-splash.md),\
+      \ [light](Compendium/spells/light.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [poison spray](Compendium/spells/poison-spray.md), [shocking grasp](Compendium/spells/shocking-grasp.md)\n\
+      \n**1st level (4 slots):** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [mage armor](Compendium/spells/mage-armor.md), [magic missile](Compendium/spells/magic-missile.md),\
+      \ [sleep](Compendium/spells/sleep.md)\n\n**2nd level (3 slots):** [blindness/deafness](Compendium/spells/blindness-deafness.md),\
+      \ [cloud of daggers](Compendium/spells/cloud-of-daggers.md), [scorching ray](Compendium/spells/scorching-ray.md)"
     "name": "Spellcasting"
   - "desc": "Pendragon can cast the spell he cast on his last turn, whose casting\
       \ time becomes 1 bonus action. This bonus casting uses a spell slot as normal."
@@ -72,6 +70,6 @@ Pendragon was kicked out of wizarding school as a result of the dark rumors foll
     "name": "Shortsword"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/pendragon-beestinger-ai.webp"
+"image": "Compendium/bestiary/npc/token/pendragon-beestinger-ai.webp"
 ```
 ^statblock

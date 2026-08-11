@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bh2020
 - source/subclass/blood-hunter/ghostslayer
 aliases:
-- Order of the Ghostslayer
+- "Order of the Ghostslayer"
 ---
 # Order of the Ghostslayer
 *[Blood Hunter](./blood-hunter-bh2020.md): Blood Hunter Order*  
@@ -43,20 +43,15 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Order of the Ghostslayer (Level 3)
-
 The Order of the Ghostslayer is the oldest of the orders, having originally rediscovered the secrets of blood magic and refined them for combat against the scourge of undeath. ghostslayers seek out and study the moment of death, obsessing over the mysteries of the transition and how it can become corrupted by unholy powers to rise once more. Tuning their abilities to annihilate such abominations, these zealous blood hunters seek out the sources of such necromantic energies, intent to destroy them wherever they arise.
+
+## Subclass Features
 
 ### Rite of the Dawn (Level 3)
 
 When you join this order at 3rd level, you learn the Rite of the Dawn esoteric rite (detailed below).
 
-#### Rite of the Dawn
-
-Your rite damage is radiant damage. While the rite is active, you gain the following benefits:
+**Rite of the Dawn.** Your rite damage is radiant damage. While the rite is active, you gain the following benefits:
 
 - Your weapon sheds bright light out to a radius of 20 feet.  
 - You have resistance to necrotic damage.  
@@ -78,7 +73,7 @@ Beginning at 11th level, your Brand of Castigation now exposes a fragment of you
 
 ### Blood Curse of the Exorcist (Level 15)
 
-At 15th level, you've honed your hemocraft to tear wicked influence from your allies, punishing those who would infiltrate their body and mind. You gain the [Blood Curse of the Exorcist](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/blood-curse-of-the-exorcist-bh2020.md) for your Blood Maledict feature. This doesn't count against your number of blood curses known.
+At 15th level, you've honed your hemocraft to tear wicked influence from your allies, punishing those who would infiltrate their body and mind. You gain the [Blood Curse of the Exorcist](Compendium/optional-features/blood-curse-of-the-exorcist-bh2020.md) for your Blood Maledict feature. This doesn't count against your number of blood curses known.
 
 ### Rite Revival (Level 18)
 

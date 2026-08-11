@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/25
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grim Champion of Desolation
+- "Grim Champion of Desolation"
 ---
-# [Grim Champion of Desolation](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/grim-champion-of-desolation-bmt.md)
+# [Grim Champion of Desolation](Compendium/bestiary/undead/grim-champion-of-desolation-bmt.md)
 *Source: The Book of Many Things p. 162*  
 
 Jyn Corvis, a former adventurer, might have been the first person to draw the Skull card from a Deck of Many Things and be slain by the avatar of death. Even Jyn doesn't know for sure, as that was so long ago that she's forgotten almost everything about her former life. Jyn's existence over so many centuries has left her in tortured misery, and now nihilism is all that drives her. More than any other member of the Grim Harrow, Jyn is desperate to destroy the deck and end her painful existence. If she could, she'd take the entire multiverse with her.
@@ -28,7 +29,7 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[studded leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather armor](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "416"
 "hit_dice": "49d8 + 196"
 "modifier": !!int "6"
@@ -45,27 +46,22 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
   - "constitution": !!int "12"
   - "wisdom": !!int "13"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+12"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+13"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+13"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+14"
 "damage_resistances": "cold; necrotic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 23"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [stunned](Rules/conditions.md#Stunned), [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 23"
 "languages": "Common, Elvish"
 "cr": "25"
 "traits":
@@ -80,17 +76,17 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
     "name": "Leeching Blade"
   - "desc": "The champion summons a hungering rift around a creature it can see within\
       \ 120 feet of itself. The creature must make a DC 22 Constitution saving throw.\
-      \ On a failed save, the creature takes 49 (11d8) force damage and has the [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ On a failed save, the creature takes 49 (11d8) force damage and has the [stunned](Rules/conditions.md#Stunned)\
       \ condition until the start of the champion's next turn. On a successful save,\
       \ the creature takes half as much damage only. If a creature is reduced to 0\
       \ hit points by this effect, the creature dies, and its body crumbles to dust."
     "name": "Hollow Void"
 "bonus_actions":
   - "desc": "The champion, along with any equipment it is wearing or carrying, has\
-      \ the [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ condition and teleports to an unoccupied space it can see within 30 feet of\
-      \ itself. The champion remains [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ until the start of its next turn or immediately after it deals damage."
+      \ the [invisible](Rules/conditions.md#Invisible) condition and teleports to\
+      \ an unoccupied space it can see within 30 feet of itself. The champion remains\
+      \ [invisible](Rules/conditions.md#Invisible) until the start of its next turn\
+      \ or immediately after it deals damage."
     "name": "Step into Nothing (Recharge 4-6)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the grim champion of desolation can expend a use to take one of the following\
@@ -99,7 +95,7 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
 "legendary_actions":
   - "desc": "The champion unleashes a burst of crushing force on a creature it can\
       \ see within 30 feet of itself. The creature must succeed on a DC 22 Strength\
-      \ saving throw or take 14 (4d6) force damage and have the [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ saving throw or take 14 (4d6) force damage and have the [prone](Rules/conditions.md#Prone)\
       \ condition."
     "name": "Crush"
   - "desc": "The champion moves up to its speed or commands its mount to move up to\
@@ -111,6 +107,6 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
     "name": "Nullify (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/grim-champion-of-desolation-bmt.webp"
+"image": "Compendium/bestiary/undead/token/grim-champion-of-desolation-bmt.webp"
 ```
 ^statblock

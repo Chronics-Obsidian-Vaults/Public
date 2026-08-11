@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/14
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Black Dragon
+- "Adult Black Dragon"
 ---
-# [Adult Black Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/adult-black-dragon.md)
+# [Adult Black Dragon](Compendium/bestiary/dragon/adult-black-dragon.md)
 *Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -115,13 +116,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "acid"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "14"
@@ -144,7 +144,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ (2d8 + 6) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -160,7 +160,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ effect two rounds in a row:\n\n- Pools of water that the dragon can see within\
       \ 120 feet of it surge outward in a grasping tide. Any creature on the ground\
       \ within 20 feet of such a pool must succeed on a DC 15 Strength saving throw\
-      \ or be pulled up to 20 feet into the water and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ or be pulled up to 20 feet into the water and knocked [prone](Rules/conditions.md#Prone).\
       \  \n- A cloud of swarming insects fills a 20-foot-radius sphere centered on\
       \ a point the dragon chooses within 120 feet of it. The cloud spreads around\
       \ corners and remains until the dragon dismisses it as an action, uses this\
@@ -171,29 +171,29 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ piercing damage.  \n- Magical darkness spreads from a point the dragon chooses\
       \ within 60 feet of it, filling a 15-foot-radius sphere until the dragon dismisses\
       \ it as an action, uses this lair action again, or dies. The darkness spreads\
-      \ around corners. A creature with [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-      \ can't see through this darkness, and nonmagical light can't illuminate it.\
-      \ If any of the effect's area overlaps with an area of light created by a spell\
-      \ of 2nd level or lower, the spell that created the light is dispelled.  \n\n\
-      **Additional Lair Actions.** At your discretion, a legendary ([adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-black-dragon.md)\
-      \ or [ancient](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-black-dragon.md))\
-      \ black dragon can use one or more of the following additional lair actions\
-      \ while in its lair:\n\n- **Filth Burst.** The dragon chooses a point on the\
-      \ ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder\
-      \ of watery filth centered on that point erupts from the ground until initiative\
-      \ count 20 on the next round. Each creature in the cylinder when it appears\
-      \ or that ends its turn there must make a DC 15 Constitution saving throw, taking\
-      \ 10 (3d6) poison damage on a failed save, or half as much damage on a successful\
+      \ around corners. A creature with [darkvision](Rules/senses.md#Darkvision) can't\
+      \ see through this darkness, and nonmagical light can't illuminate it. If any\
+      \ of the effect's area overlaps with an area of light created by a spell of\
+      \ 2nd level or lower, the spell that created the light is dispelled.  \n\n**Additional\
+      \ Lair Actions.** At your discretion, a legendary ([adult](Compendium/bestiary/dragon/adult-black-dragon.md)\
+      \ or [ancient](Compendium/bestiary/dragon/ancient-black-dragon.md)) black dragon\
+      \ can use one or more of the following additional lair actions while in its\
+      \ lair:\n\n- **Filth Burst.** The dragon chooses a point on the ground it can\
+      \ see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery\
+      \ filth centered on that point erupts from the ground until initiative count\
+      \ 20 on the next round. Each creature in the cylinder when it appears or that\
+      \ ends its turn there must make a DC 15 Constitution saving throw, taking 10\
+      \ (3d6) poison damage on a failed save, or half as much damage on a successful\
       \ one. The cylinder is \"difficult terrain\".  \n- **Grasping Muck.** Tendrils\
       \ of roiling muck extend from the dragon's lair to grasp up to three creatures\
       \ of the dragon's choice that it can see within the lair. A targeted creature\
-      \ must succeed on a DC 15 Strength saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ must succeed on a DC 15 Strength saving throw or be [restrained](Rules/conditions.md#Restrained)\
       \ until initiative count 20 on the next round.  \n- **Noxious Gas.** A bubble\
       \ of swamp gas erupts in a 20-foot-radius sphere centered on a point the dragon\
       \ can see within its lair. Each creature in the area must succeed on a DC 15\
-      \ Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success.  "
+      \ Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned) for\
+      \ 1 minute. The target can repeat the saving throw at the end of each of its\
+      \ turns, ending the effect on itself on a success.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing a legendary black dragon's lair is warped by the\
@@ -210,7 +210,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ that spend a year within 10 miles of the dragon's lair are filled with listless\
       \ despair.  \n- **Grating Spies.** Trilling, obnoxious birds, bugs, and reptiles\
       \ follow any Humanoid creatures unknown to the dragon within 6 miles of the\
-      \ lair, imposing disadvantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+      \ lair, imposing disadvantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks. The dragon can suppress this effect at will.  \n- **Rotting Domain.**\
       \ Stinging bugs are aggressive and the air is heavy with the odor of rot within\
       \ 6 miles of the lair.  "
@@ -219,19 +219,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
       \ must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ The dragon can then fly up to half its flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). The dragon can then\
+      \ fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/adult-black-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/adult-black-dragon.webp"
 ```
 ^statblock
 

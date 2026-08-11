@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greyhawk
 - source/domain/war
-aliases: 
-- Trithereon
+aliases:
+- "Trithereon"
 ---
 # Trithereon
 *Source: Player's Handbook p. 295* 

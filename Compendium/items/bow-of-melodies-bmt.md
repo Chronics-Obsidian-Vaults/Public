@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/attunement/required
@@ -9,7 +10,7 @@ tags:
 - source/item/weapon/ranged
 - source/item/weapon/simple
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Bow of Melodies"
 - "Longbow of Melodies"
 - "Shortbow of Melodies"
@@ -20,7 +21,7 @@ attunement: required
 ---
 # Bow of Melodies
 *Very rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/bow-of-melodies.webp#right)
+![](Compendium/items/img/bow-of-melodies.webp#right)
 
 
 This bow has multiple strings and resembles a lyre or small harp. By strumming the strings while setting an arrow to the bow, you imbue the arrow with magic.
@@ -29,7 +30,7 @@ You can play one of the following melodies when you use the bow to make a ranged
 
 ## Melody of Precision
 
-If you're proficient in [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance), you gain a +1 bonus to the attack roll. If you have expertise in [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance), you gain a +2 bonus instead.
+If you're proficient in [Performance](Rules/skills.md#Performance), you gain a +1 bonus to the attack roll. If you have expertise in [Performance](Rules/skills.md#Performance), you gain a +2 bonus instead.
 
 ## Melody of Reverberation
 
@@ -43,14 +44,14 @@ The melody you strum echoes loudly. On a hit, the target takes extra thunder dam
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Shortbow of Melodies
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Random Buildings; Building Type
+- "Random Buildings; Building Type"
 ---
 # Random Buildings; Building Type
 *Source: Dungeon Master's Guide p. 113* 

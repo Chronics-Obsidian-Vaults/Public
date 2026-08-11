@@ -6,11 +6,11 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/paladin/glory
 aliases:
-- Oath of Glory
+- "Oath of Glory"
 ---
 # Oath of Glory
 *[Paladin](./paladin.md): Sacred Oath*  
-*Source: Tasha's Cauldron of Everything p. 53, Mythic Odysseys of Theros p. 29*  
+*Source: Tasha's Cauldron of Everything p. 53*  
 
 > [!tldr] Class and Feature Progression
 > 
@@ -43,36 +43,23 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Oath of Glory (Level 3)
+![](Compendium/classes/img/glory-paladin.webp#right)
 
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions so they're all ready when destiny calls.
+
+## Subclass Features
 
 ### Tenets of Glory (Level 3)
 
 The tenets of the Oath of Glory drive a paladin to attempt heroics that might one day shine in legend.
 
-#### Actions over Words
-_Source: Tasha's Cauldron of Everything_
+**Actions over Words.** Strive to be known by glorious deeds, not words.
 
-Strive to be known by glorious deeds, not words.
+**Challenges Are but Tests.** Face hardships with courage, and encourage your allies to face them with you.
 
-#### Challenges Are but Tests
-_Source: Tasha's Cauldron of Everything_
+**Hone the Body.** Like raw stone, your body must be worked so its potential can be realized.
 
-Face hardships with courage, and encourage your allies to face them with you.
-
-#### Hone the Body
-_Source: Tasha's Cauldron of Everything_
-
-Like raw stone, your body must be worked so its potential can be realized.
-
-#### Discipline the Soul
-_Source: Tasha's Cauldron of Everything_
-
-You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.
+**Discipline the Soul.** You must marshal the discipline to overcome failings within yourself that threaten to dim the glory of you and your friends.
 
 ### Oath Spells (Level 3)
 
@@ -84,11 +71,11 @@ You gain oath spells at the paladin levels listed in the Oath of Glory Spells ta
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [guiding bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guiding-bolt.md), [heroism](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heroism.md) |
-| 5th | [enhance ability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enhance-ability.md), [magic weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-weapon.md) |
-| 9th | [haste](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/haste.md), [protection from energy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-energy.md) |
-| 13th | [compulsion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compulsion.md), [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md) |
-| 17th | [commune](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune.md), [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md) |
+| 3rd | [guiding bolt](Compendium/spells/guiding-bolt.md), [heroism](Compendium/spells/heroism.md) |
+| 5th | [enhance ability](Compendium/spells/enhance-ability.md), [magic weapon](Compendium/spells/magic-weapon.md) |
+| 9th | [haste](Compendium/spells/haste.md), [protection from energy](Compendium/spells/protection-from-energy.md) |
+| 13th | [compulsion](Compendium/spells/compulsion.md), [freedom of movement](Compendium/spells/freedom-of-movement.md) |
+| 17th | [commune](Compendium/spells/commune.md), [flame strike](Compendium/spells/flame-strike.md) |
 ^oath-of-glory-spells
 
 ### Channel Divinity (Level 3)
@@ -99,7 +86,7 @@ You gain the following two Channel Divinity options. See the Sacred Oath class f
 
 ### Peerless Athlete (Level 3)
 
-As a bonus action, you can use your Channel Divinity to augment your athleticism. For the next 10 minutes, you have advantage on Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) and Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your long and high jumps increases by 10 feet (this extra distance costs movement as normal).
+As a bonus action, you can use your Channel Divinity to augment your athleticism. For the next 10 minutes, you have advantage on Strength ([Athletics](Rules/skills.md#Athletics)) and Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) checks; you can carry, push, drag, and lift twice as much weight as normal; and the distance of your long and high jumps increases by 10 feet (this extra distance costs movement as normal).
 
 ### Inspiring Smite (Level 3)
 
@@ -109,7 +96,7 @@ Immediately after you deal damage to a creature with your Divine Smite feature, 
 
 *7th-level Oath of Glory feature*
 
-You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
+You emanate an aura that fills you and your companions with supernatural speed, allowing you to race across a battlefield in formation. Your walking speed increases by 10 feet. In addition, if you aren't [incapacitated](Rules/conditions.md#Incapacitated), the walking speed of any ally who starts their turn within 5 feet of you increases by 10 feet until the end of that turn.
 
 When you reach 18th level in this class, the range of the aura increases to 10 feet.
 

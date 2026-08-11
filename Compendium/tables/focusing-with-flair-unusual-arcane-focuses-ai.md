@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Focusing with Flair; Unusual Arcane Focuses
+- "Focusing with Flair; Unusual Arcane Focuses"
 ---
 # Focusing with Flair; Unusual Arcane Focuses
 *Source: Acquisitions Incorporated p. 67* 

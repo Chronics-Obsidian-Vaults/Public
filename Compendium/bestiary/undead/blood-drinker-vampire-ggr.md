@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/8
@@ -9,18 +10,20 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blood Drinker Vampire
+- "Blood Drinker Vampire"
 ---
-# [Blood Drinker Vampire](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/blood-drinker-vampire-ggr.md)
+# [Blood Drinker Vampire](Compendium/bestiary/undead/blood-drinker-vampire-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 223*  
+
+## Blood Drinker Vampire
 
 Plenty of blood drinkers haunt Ravnica's alleys and sewers, preying on those who are foolish enough to leave the relative safety of the crowds.
 
-## Orzhov Vampires
+### Orzhov Vampires
 
 Vampires thrive in the Orzhov Syndicate, where they can collect tithes and payments from their debtors in the form of blood. Their undead nature gives them the same immortality enjoyed by the oligarch spirits, but they remain capable of experiencing all the delights of their corporeal forms. In contrast to Orzhov spirits, they also retain their personalities, which are almost uniformly cruel.
 
-## Blood Bond
+### Blood Bond
 
 Consuming a creature's blood creates a sort of empathic bond that allows the blood drinker vampire to exert some magical influence over its victim.
 
@@ -53,15 +56,16 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
   - "constitution": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[rapier](Compendium/items/rapier.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"
 "actions":
@@ -69,12 +73,11 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
       \ attack."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one willing creature,\
-      \ or a creature that is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by the vampire, [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated),\
-      \ or [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ or a creature that is [grappled](Rules/conditions.md#Grappled) by the vampire,\
+      \ [incapacitated](Rules/conditions.md#Incapacitated), or [restrained](Rules/conditions.md#Restrained).\
       \ *Hit:* 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. If the target\
-      \ is humanoid, it must succeed on a DC 15 Charisma saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the vampire for 1 minute. While [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ is humanoid, it must succeed on a DC 15 Charisma saving throw or be [charmed](Rules/conditions.md#Charmed)\
+      \ by the vampire for 1 minute. While [charmed](Rules/conditions.md#Charmed)\
       \ in this way, the target is infatuated with the vampire. The target's hit point\
       \ maximum is reduced by an amount equal to the necrotic damage taken, and the\
       \ vampire regains hit points equal to that amount. The reduction lasts until\
@@ -94,6 +97,6 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
     "name": "Parry"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/blood-drinker-vampire-ggr.webp"
+"image": "Compendium/bestiary/undead/token/blood-drinker-vampire-ggr.webp"
 ```
 ^statblock

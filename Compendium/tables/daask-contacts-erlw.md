@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Daask Contacts
+- "Daask Contacts"
 ---
 # Daask Contacts
 *Source: Eberron: Rising from the Last War p. 179* 

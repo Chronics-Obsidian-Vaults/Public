@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/6
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Emissary
+- "Core Spawn Emissary"
 ---
-# [Core Spawn Emissary](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/core-spawn-emissary-egw.md)
+# [Core Spawn Emissary](Compendium/bestiary/aberration/core-spawn-emissary-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  
 
 These airborne predators serve as assassins and sentinels for the core spawn. The terrible thrum of its insectoid wings and a chittering of mandibles announces an emissary's arrival.
@@ -49,12 +50,12 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
   - "wisdom": !!int "4"
   - "charisma": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "damage_immunities": "psychic"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., tremorsense 60 ft., passive Perception 14"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., tremorsense 60 ft., passive\
+  \ Perception 14"
 "languages": "telepathy 120 ft., understands Deep Speech but can't speak"
 "cr": "6"
 "traits":
@@ -69,20 +70,20 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
     "name": "Talons"
   - "desc": "The emissary emits a dreadful yet alluring hum. Each creature within\
       \ 20 feet of the emissary that can hear it and that isn't an aberration must\
-      \ succeed on a DC 14 Constitution saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ succeed on a DC 14 Constitution saving throw or be [charmed](Rules/conditions.md#Charmed)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Alluring Thrum (Recharge 5-6)"
   - "desc": "A 15-foot-radius cloud of toxic crystalline spores extends out from the\
       \ emissary. The spores spread around corners. Each creature in the area must\
-      \ succeed on a DC 14 Constitution saving throw or become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way, a creature takes 11 (2d10) poison damage at the start of each\
-      \ of its turns. A creature can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ succeed on a DC 14 Constitution saving throw or become [poisoned](Rules/conditions.md#Poisoned).\
+      \ While [poisoned](Rules/conditions.md#Poisoned) in this way, a creature takes\
+      \ 11 (2d10) poison damage at the start of each of its turns. A creature can\
+      \ repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Crystal Spores (Recharge 6)"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/core-spawn-emissary-egw.webp"
+"image": "Compendium/bestiary/aberration/token/core-spawn-emissary-egw.webp"
 ```
 ^statblock

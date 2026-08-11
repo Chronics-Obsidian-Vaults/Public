@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guardian Giant
+- "Guardian Giant"
 ---
-# [Guardian Giant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/guardian-giant-ggr.md)
+# [Guardian Giant](Compendium/bestiary/giant/guardian-giant-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 201*  
 
 Most of the giants in the Boros Legion come from a single clan, the Skorskal, that has long been at odds with the Gruul Clans. These giants are guards and gatekeepers, well represented in the Sunhome Guard, as well as powerful muscle supporting Boros missions.
@@ -28,8 +29,7 @@ Giants use their tremendous size and strength to advance the cause of no less th
 "type": "giant"
 "alignment": "Lawful Neutral"
 "ac": !!int "19"
-"ac_class": "[half plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/half-plate-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[half plate armor](Compendium/items/half-plate-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "137"
 "hit_dice": "11d12 + 66"
 "modifier": !!int "3"
@@ -45,15 +45,17 @@ Giants use their tremendous size and strength to advance the cause of no less th
   - "dexterity": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
 "senses": "passive Perception 20"
 "languages": "Common, Giant"
 "cr": "8"
 "traits":
-  - "desc": "The giant can't be [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised)."
+  - "desc": "The giant can't be [surprised](Rules/conditions.md#Surprised)."
     "name": "Vigilant"
 "actions":
   - "desc": "The giant makes three spear attacks."
@@ -69,6 +71,6 @@ Giants use their tremendous size and strength to advance the cause of no less th
     "name": "Protection"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/guardian-giant-ggr.webp"
+"image": "Compendium/bestiary/giant/token/guardian-giant-ggr.webp"
 ```
 ^statblock

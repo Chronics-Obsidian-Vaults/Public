@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/nature
 - source/domain/war
-aliases: 
-- Solonor Thelandira
+aliases:
+- "Solonor Thelandira"
 ---
 # Solonor Thelandira
 *Source: Mordenkainen's Tome of Foes p. 43* 

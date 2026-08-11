@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/11
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Marid (Disguises)
+- "Marid (Disguises)"
 ---
-# [Marid (Disguises)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/marid-disguises.md)
-*Source: Monster Manual p. 146, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Book of Many Things*  
+# [Marid (Disguises)](Compendium/bestiary/elemental/marid-disguises.md)
+*Source: Monster Manual p. 146*  
 
 ```statblock
 "name": "Marid (Disguises)"
@@ -39,31 +40,27 @@ aliases:
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "damage_resistances": "acid, cold, lightning"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"gear":
+  - "[trident](Compendium/items/trident.md)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 13"
 "languages": "Aquan"
 "cr": "11"
 "traits":
   - "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16,\
       \ +8 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [create or destroy water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-or-destroy-water.md),\
-      \ [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md),\
-      \ [purify food and drink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/purify-food-and-drink.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)\
-      \ (often with a longer duration than is normal for that spell; see Disguises)\n\
-      \n**3/day each:** [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md),\
-      \ [water breathing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-breathing.md),\
-      \ [water walk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-walk.md),\
-      \ [true polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-polymorph.md)\
-      \ (mightier genies only; see Disguises)\n\n**1/day each:** [conjure elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-elemental.md)\
-      \ ([water elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/water-elemental.md)\
-      \ only), [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md),\
-      \ [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)"
+      \ requiring no material components:\n\n**At will:** [create or destroy water](Compendium/spells/create-or-destroy-water.md),\
+      \ [detect evil and good](Compendium/spells/detect-evil-and-good.md), [detect\
+      \ magic](Compendium/spells/detect-magic.md), [fog cloud](Compendium/spells/fog-cloud.md),\
+      \ [purify food and drink](Compendium/spells/purify-food-and-drink.md), [disguise\
+      \ self](Compendium/spells/disguise-self.md) (often with a longer duration than\
+      \ is normal for that spell; see Disguises)\n\n**3/day each:** [tongues](Compendium/spells/tongues.md),\
+      \ [water breathing](Compendium/spells/water-breathing.md), [water walk](Compendium/spells/water-walk.md),\
+      \ [true polymorph](Compendium/spells/true-polymorph.md) (mightier genies only;\
+      \ see Disguises)\n\n**1/day each:** [conjure elemental](Compendium/spells/conjure-elemental.md)\
+      \ ([water elemental](Compendium/bestiary/elemental/water-elemental.md) only),\
+      \ [control water](Compendium/spells/control-water.md), [gaseous form](Compendium/spells/gaseous-form.md),\
+      \ [invisibility](Compendium/spells/invisibility.md), [plane shift](Compendium/spells/plane-shift.md)"
     "name": "Innate Spellcasting"
   - "desc": "The marid can breathe air and water."
     "name": "Amphibious"
@@ -71,9 +68,9 @@ aliases:
       \ leaving behind only equipment the marid was wearing or carrying."
     "name": "Elemental Demise"
   - "desc": "Some genies can veil themselves in illusion to pass as other similarly\
-      \ shaped creatures. Such genies can innately cast the [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md)\
+      \ shaped creatures. Such genies can innately cast the [disguise self](Compendium/spells/disguise-self.md)\
       \ spell at will, often with a longer duration than is normal for that spell.\
-      \ Mightier genies can cast the [true polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-polymorph.md)\
+      \ Mightier genies can cast the [true polymorph](Compendium/spells/true-polymorph.md)\
       \ spell one to three times per day, possibly with a longer duration than normal.\
       \ Such genies can change only their own shape, but a rare few can use the spell\
       \ on other creatures and objects as well."
@@ -88,15 +85,12 @@ aliases:
   - "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide.\
       \ Each creature in that line must make a DC 16 Dexterity saving throw. On a\
       \ failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or\
-      \ smaller, is pushed up to 20 feet away from the marid and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ smaller, is pushed up to 20 feet away from the marid and knocked [prone](Rules/conditions.md#Prone).\
       \ On a success, a target takes half the bludgeoning damage, but is neither pushed\
-      \ nor knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ nor knocked [prone](Rules/conditions.md#Prone)."
     "name": "Water Jet"
 "source":
   - "MM"
-  - "EGW"
-  - "TCE"
-  - "BMT"
 ```
 ^statblock
 

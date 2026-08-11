@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Wildemount Treasures
+- "Wildemount Treasures"
 ---
 # Wildemount Treasures
 *Source: Explorer's Guide to Wildemount, p. 265* 
 
-![An undead knight bequeathe...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/125-06-01.webp#center "An undead knight bequeathes its Acheron blade to a worthy tiefling adventurer, but every great treasure has its price")
+![An undead knight bequeathes its Acheron blade to a worthy tiefling adventurer, but every great treasure has its price](Compendium/books/explorers-guide-to-wildemount/img/125-06-01.webp#center)
 
 > [!quote] A quote from Enchanter Yun  
 > 
@@ -26,37 +26,37 @@ Whether found in a subterranean tomb while searching for lost treasure, chosen a
 
 Many of the magic items in this section are relics of the flying city-state of Aeor, and can often be found in Aeorian ruins in Eiselcross. See "chapter 3" for more information on Eiselcross and Aeor.
 
-- [Acheron Blade](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/acheron-blade-egw.md)  
-- [Amulet of the Drunkard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/amulet-of-the-drunkard-egw.md)  
-- [Arcane Cannon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arcane-cannon-egw.md)  
-- [Battering Shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/battering-shield-egw.md)  
-- [Bloodaxe](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bloodaxe-egw.md)  
-- [Breathing Bubble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breathing-bubble-egw.md)  
-- [Brooch of Living Essence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/brooch-of-living-essence-egw.md)  
-- [Butcher's Bib](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/butchers-bib-egw.md)  
-- [Coin of Delving](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/coin-of-delving-egw.md)  
-- [Corpse Slayer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/corpse-slayer-egw.md)  
-- [Dispelling Stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dispelling-stone-egw.md)  
-- [Duskcrusher](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/duskcrusher-egw.md)  
-- [Dust of Deliciousness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dust-of-deliciousness-egw.md)  
-- [Goggles of Object Reading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/goggles-of-object-reading-egw.md)  
-- [Hunter's Coat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hunters-coat-egw.md)  
-- [Last Stand Armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/last-stand-armor-egw.md)  
-- [Luxon Beacon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/luxon-beacon-egw.md)  
-- [Needle of Mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/needle-of-mending-egw.md)  
-- [Nightfall Pearl](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/nightfall-pearl-egw.md)  
-- [Orb of the Veil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/orb-of-the-veil-egw.md)  
-- [Potion of Maximum Power](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-maximum-power-egw.md)  
-- [Potion of Possibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-possibility-egw.md)  
-- [Reincarnation Dust](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/reincarnation-dust-egw.md)  
-- [Ring of Obscuring](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-obscuring-egw.md)  
-- [Ring of Temporal Salvation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ring-of-temporal-salvation-egw.md)  
-- [Rod of Retribution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rod-of-retribution-egw.md)  
-- [Spell Bottle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-bottle-egw.md)  
-- [Staff of Dunamancy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/staff-of-dunamancy-egw.md)  
-- [Staff of the Ivory Claw](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/staff-of-the-ivory-claw-egw.md)  
-- [Vox Seeker](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/vox-seeker-egw.md)  
-- [Weapon of Certain Death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/weapon-of-certain-death-egw.md)  
+- [Acheron Blade](Compendium/items/acheron-blade-egw.md)  
+- [Amulet of the Drunkard](Compendium/items/amulet-of-the-drunkard-egw.md)  
+- [Arcane Cannon](Compendium/items/arcane-cannon-egw.md)  
+- [Battering Shield](Compendium/items/battering-shield-egw.md)  
+- [Bloodaxe](Compendium/items/bloodaxe-egw.md)  
+- [Breathing Bubble](Compendium/items/breathing-bubble-egw.md)  
+- [Brooch of Living Essence](Compendium/items/brooch-of-living-essence-egw.md)  
+- [Butcher's Bib](Compendium/items/butchers-bib-egw.md)  
+- [Coin of Delving](Compendium/items/coin-of-delving-egw.md)  
+- [Corpse Slayer](Compendium/items/corpse-slayer-egw.md)  
+- [Dispelling Stone](Compendium/items/dispelling-stone-egw.md)  
+- [Duskcrusher](Compendium/items/duskcrusher-egw.md)  
+- [Dust of Deliciousness](Compendium/items/dust-of-deliciousness-egw.md)  
+- [Goggles of Object Reading](Compendium/items/goggles-of-object-reading-egw.md)  
+- [Hunter's Coat](Compendium/items/hunters-coat-egw.md)  
+- [Last Stand Armor](Compendium/items/last-stand-armor-egw.md)  
+- [Luxon Beacon](Compendium/items/luxon-beacon-egw.md)  
+- [Needle of Mending](Compendium/items/needle-of-mending-egw.md)  
+- [Nightfall Pearl](Compendium/items/nightfall-pearl-egw.md)  
+- [Orb of the Veil](Compendium/items/orb-of-the-veil-egw.md)  
+- [Potion of Maximum Power](Compendium/items/potion-of-maximum-power-egw.md)  
+- [Potion of Possibility](Compendium/items/potion-of-possibility-egw.md)  
+- [Reincarnation Dust](Compendium/items/reincarnation-dust-egw.md)  
+- [Ring of Obscuring](Compendium/items/ring-of-obscuring-egw.md)  
+- [Ring of Temporal Salvation](Compendium/items/ring-of-temporal-salvation-egw.md)  
+- [Rod of Retribution](Compendium/items/rod-of-retribution-egw.md)  
+- [Spell Bottle](Compendium/items/spell-bottle-egw.md)  
+- [Staff of Dunamancy](Compendium/items/staff-of-dunamancy-egw.md)  
+- [Staff of the Ivory Claw](Compendium/items/staff-of-the-ivory-claw-egw.md)  
+- [Vox Seeker](Compendium/items/vox-seeker-egw.md)  
+- [Weapon of Certain Death](Compendium/items/weapon-of-certain-death-egw.md)  
 
 ## Vestiges of Divergence
 
@@ -66,13 +66,13 @@ Each Vestige of Divergence is a magic item that evolves with its wielder. If not
 
 This section presents a number of Vestiges of Divergence that might be found anywhere in Exandria. When Vestiges of Divergence are used in a campaign, their discovery and acquisition should always be treated with a suitable amount of weight and responsibility.
 
-- [Danoth's Visor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/danoths-visor-egw.md)  
-- [Grimoire Infinitus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/grimoire-infinitus-egw.md)  
-- [Hide of the Feral Guardian](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-of-the-feral-guardian-egw.md)  
-- [Infiltrator's Key](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/infiltrators-key-egw.md)  
-- [Stormgirdle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/stormgirdle-egw.md)  
-- [Verminshroud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/verminshroud-egw.md)  
-- [Wreath of the Prism](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wreath-of-the-prism-egw.md)  
+- [Danoth's Visor](Compendium/items/danoths-visor-egw.md)  
+- [Grimoire Infinitus](Compendium/items/grimoire-infinitus-egw.md)  
+- [Hide of the Feral Guardian](Compendium/items/hide-of-the-feral-guardian-egw.md)  
+- [Infiltrator's Key](Compendium/items/infiltrators-key-egw.md)  
+- [Stormgirdle](Compendium/items/stormgirdle-egw.md)  
+- [Verminshroud](Compendium/items/verminshroud-egw.md)  
+- [Wreath of the Prism](Compendium/items/wreath-of-the-prism-egw.md)  
 
 > [!note] Advancement of a Vestige of Divergence
 > 
@@ -104,17 +104,17 @@ Destroying any of the Arms of the Betrayers is no easy task. Most conventional m
 
 When one of the Arms of the Betrayers is destroyed, the soul of the fiend within the weapon returns to its home plane—and begins to plot the destruction of the creatures responsible.
 
-![Arms of the Betrayers Destruction](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/arms-of-the-betrayers-destruction-egw.md)
+![Arms of the Betrayers Destruction](Compendium/tables/arms-of-the-betrayers-destruction-egw.md)
 
 ## Artifact Descriptions
 
 These artifacts are presented in alphabetical order. For the rules on artifacts, see "chapter 7" of the "Dungeon Master's Guide".
 
-- [Blade of Broken Mirrors](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/blade-of-broken-mirrors-egw.md)  
-- [Grovelthrash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/grovelthrash-egw.md)  
-- [Lash of Shadows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/lash-of-shadows-egw.md)  
-- [Mace of the Black Crown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace-of-the-black-crown-egw.md)  
-- [Ruin's Wake](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ruins-wake-egw.md)  
-- [Silken Spite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/silken-spite-egw.md)  
-- [The Bloody End](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/the-bloody-end-egw.md)  
-- [Will of the Talon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/will-of-the-talon-egw.md)
+- [Blade of Broken Mirrors](Compendium/items/blade-of-broken-mirrors-egw.md)  
+- [Grovelthrash](Compendium/items/grovelthrash-egw.md)  
+- [Lash of Shadows](Compendium/items/lash-of-shadows-egw.md)  
+- [Mace of the Black Crown](Compendium/items/mace-of-the-black-crown-egw.md)  
+- [Ruin's Wake](Compendium/items/ruins-wake-egw.md)  
+- [Silken Spite](Compendium/items/silken-spite-egw.md)  
+- [The Bloody End](Compendium/items/the-bloody-end-egw.md)  
+- [Will of the Talon](Compendium/items/will-of-the-talon-egw.md)

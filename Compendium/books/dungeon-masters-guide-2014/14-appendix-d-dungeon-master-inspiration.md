@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Appendix D: Dungeon Master Inspiration
+- "Appendix D: Dungeon Master Inspiration"
 ---
 # Appendix D: Dungeon Master Inspiration
 *Source: Dungeon Master's Guide (2014), p. 316* 

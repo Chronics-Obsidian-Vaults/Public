@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Lords of Dust NPCs
+- "Lords of Dust NPCs"
 ---
 # Lords of Dust NPCs
 *Source: Eberron: Rising from the Last War p. 215* 
@@ -18,6 +18,6 @@ aliases:
 | 2 | A possessed lord or lady spreads corruption throughout the noble house. |
 | 3 | A wizard who sought to accelerate their own power by making a dark bargain must now pay the price demanded by their sinister patron. |
 | 4 | A powerful demon has corrupted the local ruler in the name of its overlord. |
-| 5 | A [succubus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/succubus.md) or [incubus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/incubus.md) tempts a mercenary warlord to engage in greater and greater battles. |
-| 6 | One of the characters' most trusted allies or servants turns out to be a [rakshasa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/rakshasa.md) in disguise. |
+| 5 | A [succubus](Compendium/bestiary/fiend/succubus.md) or [incubus](Compendium/bestiary/fiend/incubus.md) tempts a mercenary warlord to engage in greater and greater battles. |
+| 6 | One of the characters' most trusted allies or servants turns out to be a [rakshasa](Compendium/bestiary/fiend/rakshasa.md) in disguise. |
 ^lords-of-dust-npcs

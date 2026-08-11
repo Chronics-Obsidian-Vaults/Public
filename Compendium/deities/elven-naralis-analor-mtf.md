@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/grave
 - source/domain/life
-aliases: 
-- Naralis Analor
+aliases:
+- "Naralis Analor"
 ---
 # Naralis Analor
 *Source: Mordenkainen's Tome of Foes p. 43* 

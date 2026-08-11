@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Secondary Tables; Supernatural Events
+- "Secondary Tables; Supernatural Events"
 ---
 # Secondary Tables; Supernatural Events
 *Source: Xanathar's Guide to Everything p. 70* 

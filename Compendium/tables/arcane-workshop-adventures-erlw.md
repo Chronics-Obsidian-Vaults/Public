@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Arcane Workshop Adventures
+- "Arcane Workshop Adventures"
 ---
 # Arcane Workshop Adventures
 *Source: Eberron: Rising from the Last War p. 190* 

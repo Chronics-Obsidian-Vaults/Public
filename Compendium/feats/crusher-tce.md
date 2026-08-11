@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/feat
 aliases:
-- Crusher
+- "Crusher"
 ---
 # Crusher
 *Source: Tasha's Cauldron of Everything p. 79*  

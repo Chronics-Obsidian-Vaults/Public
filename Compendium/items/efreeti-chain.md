@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/armor/heavy
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/tier/major
-aliases: 
+aliases:
 - "Efreeti Chain"
 item_type: armor
 item_subtype: heavy
@@ -15,8 +16,8 @@ rarity: legendary
 attunement: required
 ---
 # Efreeti Chain
-*Heavy armor ([chain mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-mail.md)), major, legendary (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/efreeti-chain.webp#right)
+*Heavy armor ([chain mail](Compendium/items/chain-mail.md)), major, legendary (requires attunement)*  
+![](Compendium/items/img/efreeti-chain.webp#right)
 
 - **Armor Class**: 16
 - **Strength**: Requires 13 STR.

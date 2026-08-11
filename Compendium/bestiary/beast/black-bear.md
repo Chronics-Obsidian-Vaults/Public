@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Black Bear
+- "Black Bear"
 ---
-# [Black Bear](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/black-bear.md)
+# [Black Bear](Compendium/bestiary/beast/black-bear.md)
 *Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -34,13 +35,13 @@ aliases:
   - !!int "7"
 "speed": "40 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The bear has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The bear has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
@@ -54,7 +55,7 @@ aliases:
     "name": "Claws"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/black-bear.webp"
+"image": "Compendium/bestiary/beast/token/black-bear.webp"
 ```
 ^statblock
 

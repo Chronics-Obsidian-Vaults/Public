@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/scag
 aliases:
-- The Elven Pantheon
+- "The Elven Pantheon"
 ---
 # The Elven Pantheon
 *Source: Sword Coast Adventurer's Guide p. 23* 

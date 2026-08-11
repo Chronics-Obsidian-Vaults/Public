@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Darkling Elder
+- "Darkling Elder"
 ---
-# [Darkling Elder](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/darkling-elder-mpmm.md)
+# [Darkling Elder](Compendium/bestiary/fey/darkling-elder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
@@ -30,7 +31,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "[studded leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather armor](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "3"
@@ -43,16 +44,17 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 16"
 "languages": "Elvish, Sylvan"
 "cr": "2"
@@ -61,9 +63,8 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
       \ 10-foot radius as its body and possessions, other than metal or magic objects,\
       \ burn to ash. Any creature in that area must make a DC 11 Constitution saving\
       \ throw. On a failed save, the creature takes 7 (2d6) radiant damage and is\
-      \ [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ until the end of its next turn. On a successful save, the creature takes half\
-      \ as much damage and isn't [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)."
+      \ [blinded](Rules/conditions.md#Blinded) until the end of its next turn. On\
+      \ a successful save, the creature takes half as much damage and isn't [blinded](Rules/conditions.md#Blinded)."
     "name": "Death Burn"
 "actions":
   - "desc": "The darkling elder makes two Scimitar attacks."
@@ -71,13 +72,13 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage plus 7 (2d6) necrotic damage."
     "name": "Scimitar"
-  - "desc": "The darkling elder casts [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ requiring no spell components and using Wisdom as the spellcasting ability.\n"
+  - "desc": "The darkling elder casts [darkness](Compendium/spells/darkness.md), requiring\
+      \ no spell components and using Wisdom as the spellcasting ability.\n"
     "name": "Darkness (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/darkling-elder-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/darkling-elder-mpmm.webp"
 ```
 ^statblock
 

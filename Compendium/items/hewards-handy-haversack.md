@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Heward's Handy Haversack"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Heward's Handy Haversack
 *Wondrous item, minor, rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/hewards-handy-haversack.webp#right)
+![](Compendium/items/img/hewards-handy-haversack.webp#right)
 
 - **Weight**: 5.0 lbs.
 
@@ -24,6 +25,6 @@ Placing an object in the haversack follows the normal rules for interacting with
 
 The haversack has a few limitations. If it is overloaded, or if a sharp object pierces it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth, unharmed, and the haversack must be put right before it can be used again. If a breathing creature is placed within the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.
 
-Placing the haversack inside an extradimensional space created by a [bag of holding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bag-of-holding.md), [portable hole](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portable-hole.md), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10-feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+Placing the haversack inside an extradimensional space created by a [bag of holding](Compendium/items/bag-of-holding.md), [portable hole](Compendium/items/portable-hole.md), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10-feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: Dungeon Master's Guide p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Handy Haversack")*

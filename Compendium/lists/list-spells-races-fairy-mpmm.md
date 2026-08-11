@@ -5,18 +5,18 @@ cssclasses:
 tags:
 - source/spell/list/race/fairy
 aliases:
-- Spells for Fairy
+- "Spells for Fairy"
 ---
 # Spells for Fairy
 
 ## Cantrip
 
-- [Druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md "PHB") as cantrip
+- [Druidcraft](Compendium/spells/druidcraft.md "PHB") as cantrip
 
 ## 1st Level
 
-- [Faerie Fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md "PHB") as cantrip
+- [Faerie Fire](Compendium/spells/faerie-fire.md "PHB") at class level 3
 
 ## 2nd Level
 
-- [Enlarge/Reduce](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enlarge-reduce.md "PHB") as cantrip
+- [Enlarge/Reduce](Compendium/spells/enlarge-reduce.md "PHB") at class level 5

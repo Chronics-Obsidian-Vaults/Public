@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/attunement/required
 - source/item/rarity/varies
-aliases: 
+aliases:
 - "Occultant Abacus"
 item_type: 
 item_subtype: 
@@ -14,20 +15,20 @@ attunement: required
 ---
 # Occultant Abacus
 *Wondrous item (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/occultant-abacus.webp#right)
+![](Compendium/items/img/occultant-abacus.webp#right)
 
 
-Head office grants you the use of a unique item known as an occultant abacus (sometimes just referred to as an occultant), whose beads resemble tiny skulls.
+Head Office grants you the use of a unique item known as an occultant abacus (sometimes just referred to as an occultant), whose beads resemble tiny skulls.
 
 ## Read the Kill
 
 Also at rank 1, your occultant abacus not only tracks your franchise's kills, it helps you determine the impact of those kills on the franchise's fate. Over a period of 1 minute, you can study a creature killed by someone in your franchise within the last 24 hours, then grant the character who slew it a `d10`. Once within the next hour, that character can add the `d10` to an attack roll, ability check, or saving throw. If it's not clear who administered the killing blow, you grant this benefit to a random creature involved in the fight. Once you use this feature, you can't use it again until you finish a long rest.
 
-![Ways to Read the Kill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/ways-to-read-the-kill-ai.md)
+![Ways to Read the Kill](Compendium/tables/ways-to-read-the-kill-ai.md)
 
 ## Eldritch Occultant
 
-Starting at rank 2, your occultant abacus becomes an uncommon magic item that can track lives both eliminated and saved. While holding your occultant abacus within 5 feet of a creature killed within the past 24 hours, you can cast the [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md) spell. The course of action you inquire about with the spell does not need to have any connection to the dead creature. This property of the occultant abacus can't be used again until the next dawn.
+Starting at rank 2, your occultant abacus becomes an uncommon magic item that can track lives both eliminated and saved. While holding your occultant abacus within 5 feet of a creature killed within the past 24 hours, you can cast the [augury](Compendium/spells/augury.md) spell. The course of action you inquire about with the spell does not need to have any connection to the dead creature. This property of the occultant abacus can't be used again until the next dawn.
 
 ## Bring Out Your Dead
 
@@ -43,7 +44,7 @@ At rank 4, one of the beads on your occultant abacus allows you to divert karma 
 
 ## Correct the Balance
 
-As a rank 4 occultant, you learn that sometimes the death of a creature has unintended consequences. Within seven days of a creature's death, you can use your occultant abacus to divine ways to reverse or mitigate events resulting from that death. As an action, make a DC 15 Intelligence ([Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)) check. On a success, you learn the relevant information based on the nature of the creature and its place in the world.
+As a rank 4 occultant, you learn that sometimes the death of a creature has unintended consequences. Within seven days of a creature's death, you can use your occultant abacus to divine ways to reverse or mitigate events resulting from that death. As an action, make a DC 15 Intelligence ([Religion](Rules/skills.md#Religion)) check. On a success, you learn the relevant information based on the nature of the creature and its place in the world.
 
 If you fail the check, this property of the occultant abacus can't be used again until the next dawn. If you succeed on the check, this property can't be used again until dawn seven days later.
 

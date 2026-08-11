@@ -7,7 +7,7 @@ tags:
 - source/domain/arcana
 - source/subclass/cleric/arcana
 aliases:
-- Arcana Domain
+- "Arcana Domain"
 ---
 # Arcana Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,14 +44,15 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Arcana Domain (Level 1)
+![](Compendium/classes/img/arcana-cleric.webp#right)
 
 Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.
 
-The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include [Azuth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/faerunian-azuth-scag.md) and [Mystra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/faerunian-mystra-scag.md), as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes [Hecate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-hecate.md), [Math Mathonwy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/celtic-math-mathonwy.md), and [Isis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/egyptian-isis.md); the triple moon gods of [Solinari](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-solinari-phb.md), [Lunitari](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-lunitari-phb.md), and [Nuitari](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-nuitari-phb.md) of Krynn; and [Boccob](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-boccob.md), [Vecna](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-vecna.md), and [Wee Jas](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-wee-jas.md) of Greyhawk.
+The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include [Azuth](Compendium/deities/faerunian-azuth-scag.md) and [Mystra](Compendium/deities/faerunian-mystra-scag.md), as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes [Hecate](Compendium/deities/greek-hecate.md), [Math Mathonwy](Compendium/deities/celtic-math-mathonwy.md), and [Isis](Compendium/deities/egyptian-isis.md); the triple moon gods of [Solinari](Compendium/deities/dragonlance-solinari-phb.md), [Lunitari](Compendium/deities/dragonlance-lunitari-phb.md), and [Nuitari](Compendium/deities/dragonlance-nuitari-phb.md) of Krynn; and [Boccob](Compendium/deities/greyhawk-boccob.md), [Vecna](Compendium/deities/greyhawk-vecna.md), and [Wee Jas](Compendium/deities/greyhawk-wee-jas.md) of Greyhawk.
+
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -59,16 +60,16 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md), [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md) |
-| 3rd | [magic weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-weapon.md), [Nystul's magic aura](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nystuls-magic-aura.md) |
-| 5th | [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md), [magic circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-circle.md) |
-| 7th | [arcane eye](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-eye.md), [Leomund's secret chest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/leomunds-secret-chest.md) |
-| 9th | [planar binding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/planar-binding.md), [teleportation circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleportation-circle.md) |
+| 1st | [detect magic](Compendium/spells/detect-magic.md), [magic missile](Compendium/spells/magic-missile.md) |
+| 3rd | [magic weapon](Compendium/spells/magic-weapon.md), [Nystul's magic aura](Compendium/spells/nystuls-magic-aura.md) |
+| 5th | [dispel magic](Compendium/spells/dispel-magic.md), [magic circle](Compendium/spells/magic-circle.md) |
+| 7th | [arcane eye](Compendium/spells/arcane-eye.md), [Leomund's secret chest](Compendium/spells/leomunds-secret-chest.md) |
+| 9th | [planar binding](Compendium/spells/planar-binding.md), [teleportation circle](Compendium/spells/teleportation-circle.md) |
 ^arcana-domain-spells
 
 ### Arcane Initiate (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency in the [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana) skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
+When you choose this domain at 1st level, you gain proficiency in the [Arcana](Rules/skills.md#Arcana) skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
 
 ### Channel Divinity: Arcane Abjuration (Level 2)
 
@@ -76,9 +77,9 @@ Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly 
 
 As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, then the creature can use the [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge) action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](Rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, then the creature can use the [Dodge](Rules/actions.md#Dodge) action.
 
-After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md) spell, no [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) required) if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as shown below.
+After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the [banishment](Compendium/spells/banishment.md) spell, no [concentration](Rules/conditions.md#Concentration) required) if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as shown below.
 
 **Arcane Banishment**
 
@@ -102,7 +103,7 @@ Starting at 8th level, you add your Wisdom modifier to the damage you deal with 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

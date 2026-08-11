@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Ancient Being
+- "Ancient Being"
 ---
 # Ancient Being
 *Source: Tasha's Cauldron of Everything p. 86* 

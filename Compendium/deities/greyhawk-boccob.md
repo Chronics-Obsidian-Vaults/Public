@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/arcana
 - source/domain/knowledge
-aliases: 
-- Boccob
+aliases:
+- "Boccob"
 ---
 # Boccob
 *Source: Player's Handbook p. 295, Sword Coast Adventurer's Guide p. 125* 

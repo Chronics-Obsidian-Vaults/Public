@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Aurum NPCs
+- "Aurum NPCs"
 ---
 # Aurum NPCs
 *Source: Eberron: Rising from the Last War p. 187* 

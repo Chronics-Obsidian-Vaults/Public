@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightmare
+- "Nightmare"
 ---
-# [Nightmare](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/nightmare.md)
-*Source: Monster Manual p. 235, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Nightmare](Compendium/bestiary/fiend/nightmare.md)
+*Source: Monster Manual p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
 
@@ -61,8 +62,6 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
     "name": "Ethereal Stride"
 "source":
   - "MM"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/nightmare.webp"
+"image": "Compendium/bestiary/fiend/token/nightmare.webp"
 ```
 ^statblock

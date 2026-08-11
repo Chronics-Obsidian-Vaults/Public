@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/12
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aeorian Nullifier
+- "Aeorian Nullifier"
 ---
-# [Aeorian Nullifier](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/aeorian-nullifier-egw.md)
+# [Aeorian Nullifier](Compendium/bestiary/monstrosity/aeorian-nullifier-egw.md)
 *Source: Explorer's Guide to Wildemount p. 283*  
 
 Nullifiers are the bane of all magic users, with their physical forms and innate powers shaped specifically to resist and cancel magical effects. Against other foes, a nullifier is no less fearsome for the grotesque mouths filled with razor-sharp teeth that cover its torso—and which set up a cacophony of gnashing that can drive other creatures mad.
@@ -60,30 +61,28 @@ Aeorian hunters don't require food or drink.
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+6"
 "damage_immunities": "necrotic, radiant"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": "understands Draconic but can't speak"
 "cr": "12"
 "traits":
   - "desc": "The nullifier's innate spellcasting ability is Charisma (spell save DC\
       \ 16). It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md)\
-      \ (see \"Reactions\" below), [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [see invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/see-invisibility.md)\n\
-      \n**1/day:** [antimagic field](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/antimagic-field.md)"
+      \n**At will:** [counterspell](Compendium/spells/counterspell.md) (see \"Reactions\"\
+      \ below), [detect magic](Compendium/spells/detect-magic.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [see invisibility](Compendium/spells/see-invisibility.md)\n\n**1/day:** [antimagic\
+      \ field](Compendium/spells/antimagic-field.md)"
     "name": "Innate Spellcasting"
   - "desc": "The nullifier's mouths gnash incoherently while it can see any enemies.\
       \ Each creature that starts its turn within 20 feet of the nullifier and can\
       \ hear it must make a DC 16 Wisdom saving throw. Unless the save succeeds, the\
       \ creature rolls a d8 to determine what it does during the current turn:\n\n\
-      - **1-4.** The creature is [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the end of the turn.  \n- **5-6.** The creature is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      - **1-4.** The creature is [stunned](Rules/conditions.md#Stunned) until the\
+      \ end of the turn.  \n- **5-6.** The creature is [frightened](Rules/conditions.md#Frightened)\
       \ until the end of the turn and uses its movement to get as far as possible\
       \ from the nullifier.  \n- **7-8.** The creature doesn't move, and it uses its\
       \ action to make one melee attack against a random creature (other than itself)\
@@ -100,7 +99,7 @@ Aeorian hunters don't require food or drink.
       \ (2d12 + 4) piercing damage plus 11 (2d10) force damage."
     "name": "Bites"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) slashing damage plus 11 (2d10) force damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ (2d6 + 4) slashing damage plus 11 (2d10) force damage, and the target is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 16) if it's a creature. The nullifier has two claws, each of which\
       \ can grapple one creature."
     "name": "Claws"
@@ -114,6 +113,6 @@ Aeorian hunters don't require food or drink.
     "name": "Counterspell"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/aeorian-nullifier-egw.webp"
+"image": "Compendium/bestiary/monstrosity/token/aeorian-nullifier-egw.webp"
 ```
 ^statblock

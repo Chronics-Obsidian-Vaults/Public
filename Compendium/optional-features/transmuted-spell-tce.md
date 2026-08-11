@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/optional-feature/mm
 aliases:
-- Transmuted Spell
+- "Transmuted Spell"
 ---
 # Transmuted Spell
 *Source: Tasha's Cauldron of Everything p. 66*  

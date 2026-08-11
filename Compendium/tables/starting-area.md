@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Starting Area
+- "Starting Area"
 ---
 # Starting Area
 *Source: Dungeon Master's Guide p. 290* 

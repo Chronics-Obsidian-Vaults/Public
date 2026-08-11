@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Plot Points
+- "Plot Points"
 ---
 # Plot Points
 *Source: Dungeon Master's Guide p. 269* 

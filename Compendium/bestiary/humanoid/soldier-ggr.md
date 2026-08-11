@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-2
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Soldier
+- "Soldier"
 ---
-# [Soldier](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/soldier-ggr.md)
-*Source: Guildmasters' Guide to Ravnica p. 226, Mythic Odysseys of Theros*  
+# [Soldier](Compendium/bestiary/humanoid/soldier-ggr.md)
+*Source: Guildmasters' Guide to Ravnica p. 226*  
 
 Soldiers are found in many of Ravnica's guilds. The soldier stat block represents a typical member of the rank and file, though weaponry and armor can vary.
 
@@ -23,8 +24,7 @@ Soldiers are found in many of Ravnica's guilds. The soldier stat block represent
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[chain mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-mail.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[chain mail](Compendium/items/chain-mail.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "1"
@@ -37,19 +37,20 @@ Soldiers are found in many of Ravnica's guilds. The soldier stat block represent
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+3"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-  - "desc": "The soldier has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-      \ or [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ while it is within 5 feet of at least one ally."
+  - "desc": "The soldier has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
+      \ [frightened](Rules/conditions.md#Frightened), [grappled](Rules/conditions.md#Grappled),\
+      \ or [restrained](Rules/conditions.md#Restrained) while it is within 5 feet\
+      \ of at least one ally."
     "name": "Formation Tactics"
 "actions":
   - "desc": "The soldier makes two melee attacks."
@@ -59,7 +60,6 @@ Soldiers are found in many of Ravnica's guilds. The soldier stat block represent
     "name": "Longsword"
 "source":
   - "GGR"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/soldier-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/soldier-ggr.webp"
 ```
 ^statblock

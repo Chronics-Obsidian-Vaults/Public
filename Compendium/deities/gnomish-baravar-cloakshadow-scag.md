@@ -7,8 +7,8 @@ tags:
 - source/deity/gnomish
 - source/domain/arcana
 - source/domain/trickery
-aliases: 
-- Baravar Cloakshadow
+aliases:
+- "Baravar Cloakshadow"
 ---
 # Baravar Cloakshadow
 *Source: Sword Coast Adventurer's Guide p. 24* 

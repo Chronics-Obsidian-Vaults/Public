@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Weapon Master
+- "Weapon Master"
 ---
 # Weapon Master
 *Source: Player's Handbook p. 170*  

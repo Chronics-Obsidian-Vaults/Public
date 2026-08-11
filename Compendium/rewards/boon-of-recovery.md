@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/dmg
 - source/reward/boon
 aliases:
-- Boon of Recovery
+- "Boon of Recovery"
 ---
 # Boon of Recovery
 

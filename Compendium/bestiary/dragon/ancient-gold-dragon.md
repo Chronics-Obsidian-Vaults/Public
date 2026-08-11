@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/24
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Gold Dragon
+- "Ancient Gold Dragon"
 ---
-# [Ancient Gold Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/ancient-gold-dragon.md)
+# [Ancient Gold Dragon](Compendium/bestiary/dragon/ancient-gold-dragon.md)
 *Source: Monster Manual p. 113. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -108,17 +109,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "10"
   - "charisma": !!int "16"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+17"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+16"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_immunities": "fire"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "24"
@@ -141,7 +141,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ (2d8 + 10) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 24 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 24 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -180,12 +180,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ Otherwise, the effect ends on initiative count 20 on the next round. When\
       \ the effect ends, the creature reappears in the space it left or in the nearest\
       \ unoccupied space if that one is occupied.  \n\n**Additional Lair Action.**\
-      \ At your discretion, a legendary ([adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-gold-dragon.md)\
-      \ or [ancient](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-gold-dragon.md))\
-      \ gold dragon can use the following additional lair action while in its lair:\n\
-      \n- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on\
-      \ the dragon; each creature in that area must succeed on a DC 15 Wisdom saving\
-      \ throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ At your discretion, a legendary ([adult](Compendium/bestiary/dragon/adult-gold-dragon.md)\
+      \ or [ancient](Compendium/bestiary/dragon/ancient-gold-dragon.md)) gold dragon\
+      \ can use the following additional lair action while in its lair:\n\n- **Beguiling\
+      \ Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each\
+      \ creature in that area must succeed on a DC 15 Wisdom saving throw or be [charmed](Rules/conditions.md#Charmed)\
       \ by the dragon until initiative count 20 on the next round.  "
     "name": ""
 "regional_effects":
@@ -217,19 +216,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
       \ must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ The dragon can then fly up to half its flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). The dragon can then\
+      \ fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/ancient-gold-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/ancient-gold-dragon.webp"
 ```
 ^statblock
 

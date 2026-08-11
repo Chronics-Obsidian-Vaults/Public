@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Other Details; Birth Order
+- "Other Details; Birth Order"
 ---
 # Other Details; Birth Order
 *Source: Xanathar's Guide to Everything p. 62* 

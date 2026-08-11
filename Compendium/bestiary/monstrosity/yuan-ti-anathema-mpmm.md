@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/12
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Anathema
+- "Yuan-ti Anathema"
 ---
-# [Yuan-ti Anathema](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/yuan-ti-anathema-mpmm.md)
+# [Yuan-ti Anathema](Compendium/bestiary/monstrosity/yuan-ti-anathema-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 272, Volo's Guide to Monsters p. 202*  
 
 As part of their quest for godhood, a yuan-ti abomination might perform a ritual that, if successful, transforms them into an even greater form: a yuan-ti anathema. This ritual demands the sacrifice of hundreds of snakes and requires the abomination to bathe in the blood of their enemies. The transformation is quick but painful.
@@ -42,15 +43,14 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
   - !!int "20"
 "speed": "40 ft., climb 40 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "acid, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 21"
 "languages": "Abyssal, Common, Draconic"
 "cr": "12"
@@ -60,19 +60,17 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
     "name": "Magic Resistance"
   - "desc": "Any creature of the anathema's choice, other than a snake or a yuan-ti,\
       \ that starts its turn within 30 feet of the anathema must succeed on a DC 17\
-      \ Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of snakes and yuan-ti. A [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. If a target's saving throw is successful\
-      \ or the effect ends for it, the target is immune to this anathema's aura for\
-      \ the next 24 hours."
+      \ Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
+      \ of snakes and yuan-ti. A [frightened](Rules/conditions.md#Frightened) target\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. If a target's saving throw is successful or the effect\
+      \ ends for it, the target is immune to this anathema's aura for the next 24\
+      \ hours."
     "name": "Ophidiophobia Aura"
-  - "desc": "The anathema has advantage on saves against being [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-      \ or knocked [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)."
+  - "desc": "The anathema has advantage on saves against being [blinded](Rules/conditions.md#Blinded),\
+      \ [charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened),\
+      \ [frightened](Rules/conditions.md#Frightened), [stunned](Rules/conditions.md#Stunned),\
+      \ or knocked [unconscious](Rules/conditions.md#Unconscious)."
     "name": "Six Heads"
 "actions":
   - "desc": "The anathema makes two Claw attacks and one Flurry of Bites attack."
@@ -85,20 +83,18 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
     "name": "Flurry of Bites (Anathema Form Only)"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one Large or smaller\
       \ creature. *Hit:* 16 (3d6 + 6) bludgeoning damage plus 7 (2d6) acid damage,\
-      \ and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 16). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ and the target is [grappled](Rules/conditions.md#Grappled) (escape DC 16).\
+      \ Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and it takes 16 (3d6 + 6) bludgeoning damage plus 7 (2d6) acid damage at the\
       \ start of each of its turns. The anathema can constrict only one creature at\
       \ a time."
     "name": "Constrict (Snake Form Only)"
   - "desc": "The anathema casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md)\
-      \ (snakes only)\n\n**3/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md),\
-      \ [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md),\
-      \ [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)"
+      \n**At will:** [animal friendship](Compendium/spells/animal-friendship.md) (snakes\
+      \ only)\n\n**3/day each:** [darkness](Compendium/spells/darkness.md), [entangle](Compendium/spells/entangle.md),\
+      \ [fear](Compendium/spells/fear.md), [polymorph](Compendium/spells/polymorph.md),\
+      \ [suggestion](Compendium/spells/suggestion.md)"
     "name": "Spellcasting (Anathema Form Only)"
 "bonus_actions":
   - "desc": "The anathema transforms into a Huge constrictor snake or back into its\
@@ -108,7 +104,7 @@ Anathemas don't age, allowing them to pursue their goals until the end of days. 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/yuan-ti-anathema-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/yuan-ti-anathema-mpmm.webp"
 ```
 ^statblock
 

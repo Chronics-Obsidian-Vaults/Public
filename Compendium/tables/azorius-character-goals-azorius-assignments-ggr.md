@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Azorius Character Goals; Azorius Assignments
+- "Azorius Character Goals; Azorius Assignments"
 ---
 # Azorius Character Goals; Azorius Assignments
 *Source: Guildmasters' Guide to Ravnica p. 131* 

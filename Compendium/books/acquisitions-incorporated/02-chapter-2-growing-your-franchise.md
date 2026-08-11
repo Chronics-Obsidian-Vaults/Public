@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Chapter 2: Growing Your Franchise
+- "Chapter 2: Growing Your Franchise"
 ---
 # Chapter 2: Growing Your Franchise
 *Source: Acquisitions Incorporated, p. 9* 
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/002-02-01.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/002-02-01.webp#center)
 
 As a run-of-the-dungeon adventurer, your character might kick through countless locked doors, lay down ancient magics, or send any number of monsters to the afterlife in the pursuit of fame and treasure. But when you take your place as part of an Acquisitions Incorporated franchise, you become something more than a mere hero. As a member of an elite group standing on the cutting edge of the adventuring business, the brand precedes you. And sure, sometimes the blades on the cutting edge are kind of sharp. But with Head Office at your back, you know you have the best tools in the industry at your disposal. And maybe the basic funeral packages Acq Inc offers aren't that great, but there are some tasteful upgrades you might consider.
 
@@ -53,25 +53,25 @@ Your license grows to include a broad expanse of provinces, a few small kingdoms
 
 Your franchise now includes specific locations located on other planes of existence. These could include such fabled trading locations as Sigil, the City of Brass on the Elemental Plane of Fire, or a githyanki outpost in the Astral Plane. Your license to operate in these regions is not exclusive. Your region on the Material Plane might or might not expand, depending on both your performance and the goals of the campaign. The DM might establish extraplanar locations through play. Failing—or succeeding—in securing an extraplanar location could create interesting and deadly rivalries!
 
-![Franchise Advancement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/franchise-advancement-ai.md)
+![Franchise Advancement](Compendium/tables/franchise-advancement-ai.md)
 
 ### Staff
 
 "Chapter 5" of the "Player's Handbook" details the costs for characters to hire skilled and untrained hirelings. As is true of characters in any campaign, Acquisitions Incorporated franchisees are free to hire any NPCs they want, within whatever limitations the DM wants to set on such employment. But the franchise itself comes with a number of staff whose wages are part of the franchise's cost, providing not only labor but story potential.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/003-02-02.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/003-02-02.webp#center)
 
 Each franchise rank grants a number of new staff members who live in the franchise headquarters or within its geographic scope. The cost of maintaining staff is included in a franchise's costs. Each staff member has a proficiency bonus equal to 2 + the franchise's rank. For skilled hirelings or crew, the DM might substitute NPC statistics when that seems appropriate. Each time a franchise gains a rank, existing staff members can be gifted with early retirement (that is, fired), and replaced alongside new hires that fit the franchise's needs.
 
 A franchise might engage all kinds of hirelings and agents over the course of a campaign, but specialized franchise staff fall into four different categories.
 
-> [!quote] A quote from [Omin Dran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/omin-dran-ai.md)  
+> [!quote] A quote from [Omin Dran](Compendium/bestiary/npc/omin-dran-ai.md)  
 > 
 > An employee is like a friend you pay.
 
 #### Majordomo
 
-A majordomo administers a franchise headquarters. They typically reside within the headquarters and seldom leave it, sending out communications through a dedicated messenger (at no extra cost, and traveling on foot or by means the franchise provides). A majordomo is proficient in Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) and two skills of the DM's choice.
+A majordomo administers a franchise headquarters. They typically reside within the headquarters and seldom leave it, sending out communications through a dedicated messenger (at no extra cost, and traveling on foot or by means the franchise provides). A majordomo is proficient in Charisma ([Persuasion](Rules/skills.md#Persuasion)) and two skills of the DM's choice.
 
 The DM is encouraged to use the rules for creating nonplayer characters in "chapter 4" of the "Dungeon Master's Guide" to detail the majordomo, giving this individual a vibrant personality and backstory. The majordomo's goals should be aligned with the franchise and with Acquisitions Incorporated as a whole, allowing them to properly act as an ally and steward for the party.
 
@@ -97,7 +97,7 @@ Group ideals, bonds, and flaws, along with a shared history, can all add depth t
 
 #### Skilled Hirelings
 
-![Happy Franchise Staff](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/004-02-03.webp#center)
+![Happy Franchise Staff](Compendium/books/acquisitions-incorporated/img/004-02-03.webp#center)
 
 A skilled hireling has one or more skill, weapon, or tool proficiencies. A franchise can request skilled hirelings when needed (up to the maximum allowed by franchise rank), with the players describing the concept behind the hirelings and selecting one proficiency for each. The DM can then customize the hirelings as desired, perhaps by adding additional proficiencies or adjusting their combat statistics.
 
@@ -113,7 +113,7 @@ Characters can adventure with up to one skilled hireling at a time. An NPC with 
 
 Skilled hirelings can also be assigned to franchise tasks, as described in the "Franchise Tasks and Downtime" section later in this chapter.
 
-> [!quote] A quote from [Jim Darkmagic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/jim-darkmagic-ai.md)  
+> [!quote] A quote from [Jim Darkmagic](Compendium/bestiary/npc/jim-darkmagic-ai.md)  
 > 
 > Hirelings are kindling in the fire of opportunity!
 
@@ -135,7 +135,7 @@ It can be helpful to think ahead as well. Acquisitions Incorporated is known for
 
 Everything depends on the type of headquarters. The top of a wizard's tower might detach and shoot skyward like a missile. Or a franchise's headquarters might be contained within a giant statue, which over time gains the power to move farther and faster. A castle or other stationary structure could contain a portal or teleportation circle, allowing the characters to travel to distant locations while the stronghold remains behind.
 
-> [!quote] A quote from [Viari](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/viari-ai.md)  
+> [!quote] A quote from [Viari](Compendium/bestiary/npc/viari-ai.md)  
 > 
 > There are a lot of perks to being an intern that people overlook. The hours are very flexible, you get a 20 percent discount in the gift shop, you get a bathroom break every four hours as long as you ask your supervisor first. And sometimes if you go into the conference room after a meeting, there will be a bunch of soda and leftover subs. You can just take as much as you want! As long as nobody sees you.
 
@@ -166,9 +166,9 @@ Raided by orcs who left no one alive? Those are probably just stories. And even 
 
 Any franchise can take to the seas in this new (okay, very used) keelboat! Pirates killed the previous owners, and Head Office picked it up for an excellent price. Most of the holes in the hull are repaired, and the sails are only a little bit moldy. Even better, there's a small covered area in the rear protected from the elements that makes a perfect living space! The keelboat holds a half-ton of cargo, and might even come with reduced docking fees at some ports of call.
 
-Statistics for a standard keelboat are found in [chapter 5](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/owning-a-ship-airborne-and-waterborne-vehicles.md) of the "Dungeon Master's Guide". The DM might adjust the number of people the boat can comfortably carry, but having such a headquarters typically implies that most franchise staff are itinerant or live elsewhere in whatever settlement is the boat's primary port of call.
+Statistics for a standard keelboat are found in [chapter 5](Compendium/tables/owning-a-ship-airborne-and-waterborne-vehicles.md) of the "Dungeon Master's Guide". The DM might adjust the number of people the boat can comfortably carry, but having such a headquarters typically implies that most franchise staff are itinerant or live elsewhere in whatever settlement is the boat's primary port of call.
 
-> [!quote] A quote from [Omin Dran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/omin-dran-ai.md)  
+> [!quote] A quote from [Omin Dran](Compendium/bestiary/npc/omin-dran-ai.md)  
 > 
 > I don't have rivals. I have partners who simply don't know it yet.
 
@@ -180,11 +180,11 @@ With just a little work and some better furniture, this place could be the talk 
 
 This humble, worn carriage, previously owned by a now-defunct trading company, makes a perfect starter headquarters. The carriage's exterior is weathered wood, and the interior seats and cushions have seen better days. Still, it offers all the perks of home plus the ability to change the neighbors every time you take to the road.
 
-The rear of the carriage features a generous cargo space for up to 500 pounds of goods, and is protected from the weather. The horses are hardworking and love apples. The carriage has AC 11 and 75 hit points, and moves at the speed of its [draft horses](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/draft-horse.md) (40 feet). Four passengers can ride inside, two up front with one steering, and two atop the rear cargo area. Up to three people can also sit on the roof of the cabin, for an especially exciting perch when the cart is moving quickly!
+The rear of the carriage features a generous cargo space for up to 500 pounds of goods, and is protected from the weather. The horses are hardworking and love apples. The carriage has AC 11 and 75 hit points, and moves at the speed of its [draft horses](Compendium/bestiary/beast/draft-horse.md) (40 feet). Four passengers can ride inside, two up front with one steering, and two atop the rear cargo area. Up to three people can also sit on the roof of the cabin, for an especially exciting perch when the cart is moving quickly!
 
 Because this sort of franchise typically can't hold the characters and all their staff (at least not comfortably), such staff are often itinerant or based in whatever settlement the carriage returns to most often.
 
-![The &quot;C&quot; Team's Wagon Headquarters](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/005-02-04.webp#center)
+![The &quot;C&quot; Team's Wagon Headquarters](Compendium/books/acquisitions-incorporated/img/005-02-04.webp#center)
 
 #### Cosmetic Features
 
@@ -228,7 +228,7 @@ The DM has final approval over the method of locomotion, and can put in place an
 
 A 100-foot-tall stone statue has stairs and rooms carved within its interior. When a character sits at the helm located in a room within the statue's head, the statue can be directed to walk across the land. The statue ignores difficult terrain, usually by simply crashing through it. However, the navigator has a limited sight line while peering out through the statue's large eyes. When the terrain is cluttered or subject to combat conditions, it can be hard to avoid creatures or objects smaller than a large building.
 
-> [!quote] A quote from [Donaar Blit'zen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/donaar-blitzen-ai.md)  
+> [!quote] A quote from [Donaar Blit'zen](Compendium/bestiary/npc/donaar-blitzen-ai.md)  
 > 
 > A good idea is to swim in the wake of an existing business. Somebody else did the market research and decided this was a good location? Awesome! Now use that decision against them. Set up direct competition. Then spread rumors about them until they're forced to leave the area in shame. Now the market is yours. That's how you business.
 
@@ -257,7 +257,7 @@ A seemingly simple wagon drawn by an old horse channels powerful magic. The wago
 
 #### Weapon Features
 
-At rank 2, the members of a franchise can add a weapon to their headquarters, choosing from the options in the ""Siege Equipment"" section of chapter 8 of the "Dungeon Master's Guide". The DM can limit those options or change the details of specific choices, and players can also design unique offensive features, subject to approval by the DM. For example, a walking statue that strikes with a fist could be treated as a ram—or the DM and the players might agree that it would be fun to use some of the effects of [Bigby's hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bigbys-hand.md) for such an attack.
+At rank 2, the members of a franchise can add a weapon to their headquarters, choosing from the options in the ""Siege Equipment"" section of chapter 8 of the "Dungeon Master's Guide". The DM can limit those options or change the details of specific choices, and players can also design unique offensive features, subject to approval by the DM. For example, a walking statue that strikes with a fist could be treated as a ram—or the DM and the players might agree that it would be fun to use some of the effects of [Bigby's hand](Compendium/spells/bigbys-hand.md) for such an attack.
 
 Most siege weapons (whether mechanical or magical) require two characters, crew, or skilled hirelings to operate, and such weapons might be slow to reload or recharge. Headquarters weapons are not particularly effective against small bands of creatures (such as a group of goblins), but they can be useful against a single large threat (such as a dragon). If siege weapons are abused by franchisees, they might be targeted by enemies, break down, or require costly maintenance each time they are employed in battle.
 
@@ -267,11 +267,11 @@ A giant hollow metal statue acting as a franchise headquarters features a contro
 
 ##### Giant Fist
 
-*Melee Weapon Attack*: +8 to hit, reach 15 ft., one object or creature. *Hit*: 16 (`3d10`) bludgeoning damage.
+*Melee Weapon Attack*: `+8` to hit, reach 15 ft., one object or creature. *Hit*: 16 (`3d10`) bludgeoning damage.
 
 ##### Lighthouse Energy Blast
 
-Magical power can be focused through a lighthouse beacon, requiring 1 round to gather energy and aim. The following round, the energy can be released. The beacon has AC 12, 75 hit points, immunity to poison and psychic damage, and vulnerability to cold. The explosion of energy can be treated as a [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md), [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md), or [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md) spell, as the DM determines. More powerful features might require more time to recharge, or could be usable only a certain number of times per day. Such attacks might function at longer range but be unable to target creatures or objects within 60 feet of the lighthouse.
+Magical power can be focused through a lighthouse beacon, requiring 1 round to gather energy and aim. The following round, the energy can be released. The beacon has AC 12, 75 hit points, immunity to poison and psychic damage, and vulnerability to cold. The explosion of energy can be treated as a [scorching ray](Compendium/spells/scorching-ray.md), [fireball](Compendium/spells/fireball.md), or [lightning bolt](Compendium/spells/lightning-bolt.md) spell, as the DM determines. More powerful features might require more time to recharge, or could be usable only a certain number of times per day. Such attacks might function at longer range but be unable to target creatures or objects within 60 feet of the lighthouse.
 
 #### Arcane Features
 
@@ -279,21 +279,21 @@ At rank 3, an arcane feature provides a unique magical capability to a headquart
 
 An arcane feature should be something that doesn't fit within another category (specifically, a transportation or weapon feature), though the DM is the final judge of what arcane features are acceptable.
 
-> [!quote] A quote from [K'thriss Drow'b](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/kthriss-drowb-ai.md)  
+> [!quote] A quote from [K'thriss Drow'b](Compendium/bestiary/npc/kthriss-drowb-ai.md)  
 > 
 > Money is an attempt to discretize the ephemeral—an impossible task. When Head Office comes knocking, tell them that money is an attempt to discretize the ephemeral.
 
 ##### Ever-Changing Ship
 
-Whether an oceangoing vessel or an airship, this headquarters can alter its appearance with illusion magic. Additionally, the appearance of some or all creatures aboard can be changed as if they were affected by a [seeming](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/seeming.md) spell. Franchisees can alter the appearance of the ship and its occupants a number of times per day, or can drop the illusory effects as needs be. The nature of the illusion magic means that the ship's size and features do not change, and individuals interacting with the ship or investigating its appearance have a chance to see the true form of the ship and its crew.
+Whether an oceangoing vessel or an airship, this headquarters can alter its appearance with illusion magic. Additionally, the appearance of some or all creatures aboard can be changed as if they were affected by a [seeming](Compendium/spells/seeming.md) spell. Franchisees can alter the appearance of the ship and its occupants a number of times per day, or can drop the illusory effects as needs be. The nature of the illusion magic means that the ship's size and features do not change, and individuals interacting with the ship or investigating its appearance have a chance to see the true form of the ship and its crew.
 
 ##### Spectral Wait Staff
 
-A tavern headquarters (which already has a cosmetic feature to make it appear haunted) now gains spectral wait staff. The spectral staff serve customers expertly, and speak and understand speech as if intelligent. However, they are magical creations similar to those conjured by the [unseen servant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/unseen-servant.md) spell, able to perform all the functions of such a creation and any other functions agreed to by the DM. Spectral staff can momentarily become insubstantial, along with anything they carry, allowing them to serve food and drink through walls. Any member of the franchise can spend an action to telepathically command one or more spectral staff members.
+A tavern headquarters (which already has a cosmetic feature to make it appear haunted) now gains spectral wait staff. The spectral staff serve customers expertly, and speak and understand speech as if intelligent. However, they are magical creations similar to those conjured by the [unseen servant](Compendium/spells/unseen-servant.md) spell, able to perform all the functions of such a creation and any other functions agreed to by the DM. Spectral staff can momentarily become insubstantial, along with anything they carry, allowing them to serve food and drink through walls. Any member of the franchise can spend an action to telepathically command one or more spectral staff members.
 
 #### Defensive Features
 
-Also at rank 3, the headquarters gains one defensive feature, planned out by the players in collaboration with the DM. Ships and other vessels with statistics can gain an increase to hit points or AC. Or a general defensive feature could include the choice of any two effects noted in the [guards and wards](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guards-and-wards.md) spell, which can be enabled or disabled by any franchise member.
+Also at rank 3, the headquarters gains one defensive feature, planned out by the players in collaboration with the DM. Ships and other vessels with statistics can gain an increase to hit points or AC. Or a general defensive feature could include the choice of any two effects noted in the [guards and wards](Compendium/spells/guards-and-wards.md) spell, which can be enabled or disabled by any franchise member.
 
 Players are encouraged to be creative in thinking about defensive features. An airship might have a deck that can channel lightning to repel boarders. A wagon might have transparent windows as strong as steel, and the ability to retract any rails or platforms upon which attacking foes could stand. Defensive features might impose conditions on enemies, or even deal damage. The DM should limit damaging effects to dealing 10 damage to a single target (5 damage for a multi-target or area effect) per franchise rank. When a saving throw is required, a good DC is 12 + franchise rank.
 
@@ -307,7 +307,7 @@ Specific areas of a ship or airship's floor and railings are warded with element
 
 ##### Grease Compartment
 
-Whether a building, a vessel, or some other structure, a franchise is equipped with a compartment holding grease. When activated, nozzles release the grease either in a 30-foot cone or into a specific area no larger than 20 by 20 feet—typically focusing on an area through which attacking creatures are likely to move. Any creature entering the greased area must succeed on a Dexterity saving throw or fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) and end its movement that turn. A creature driving a vehicle that enters the greased area must make an appropriate ability check against the save DC. On a failure, the vehicle veers `3d10 + 10` feet in a random direction, then ends its movement for the round.
+Whether a building, a vessel, or some other structure, a franchise is equipped with a compartment holding grease. When activated, nozzles release the grease either in a 30-foot cone or into a specific area no larger than 20 by 20 feet—typically focusing on an area through which attacking creatures are likely to move. Any creature entering the greased area must succeed on a Dexterity saving throw or fall [prone](Rules/conditions.md#Prone) and end its movement that turn. A creature driving a vehicle that enters the greased area must make an appropriate ability check against the save DC. On a failure, the vehicle veers `3d10 + 10` feet in a random direction, then ends its movement for the round.
 
 #### Franchise Choice Features
 
@@ -315,7 +315,7 @@ At ranks 3 and 4, a franchise can outfit its headquarters with any one feature f
 
 #### Secret Features
 
-A secret feature, gained at rank 4, is one that remains unnoticed to most inspection, typically requiring a successful DC 25 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check or Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check to notice. A headquarters might have a secret exit that guarantees escape and allows franchise members or staff to leave and enter without detection. A secret feature should usually add in-game benefits, such as a potion-brewing laboratory in a secret level of a castle, or a secret cargo hold within a ship that can keep perishables fresh and provide endless stocks of food and water to crew and passengers.
+A secret feature, gained at rank 4, is one that remains unnoticed to most inspection, typically requiring a successful DC 25 Intelligence ([Investigation](Rules/skills.md#Investigation)) check or Wisdom ([Perception](Rules/skills.md#Perception)) check to notice. A headquarters might have a secret exit that guarantees escape and allows franchise members or staff to leave and enter without detection. A secret feature should usually add in-game benefits, such as a potion-brewing laboratory in a secret level of a castle, or a secret cargo hold within a ship that can keep perishables fresh and provide endless stocks of food and water to crew and passengers.
 
 ##### Escape Pod
 
@@ -341,7 +341,7 @@ The baseline monthly cost of a franchise is calculated based on the franchise's 
 
 Baseline costs are for representative dwellings, and can be adjusted by the DM as needs be. A noble estate that is the envy of other nobles might demand expenditures of double or triple the baseline cost. A franchise's baseline costs might also change during the course of the campaign. A party might initially start out headquartered in an abandoned lighthouse with monthly expenses of 250 gp. But as time passes and headquarters features are added, that lighthouse might grow in size, weapon features, and magic to resemble a fortified tower. The DM will modify baseline costs as needed to fit the headquarters and the campaign style.
 
-![Baseline Costs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/baseline-costs-ai.md)
+![Baseline Costs](Compendium/tables/baseline-costs-ai.md)
 
 Some characters might decide to maintain more than one headquarters for their franchise, or to control additional sites as part of the franchise's overall operation. A franchise might use a ship as its headquarters, while also owning a number of remote trading posts run by franchise staff. The costs for all such "virtual headquarters" should be added together to derive one monthly baseline cost.
 
@@ -377,7 +377,7 @@ Accepting a company position with Acquisitions Incorporated means more than just
 
 > [!note] Company Tools
 > 
-> The tools and items that are granted to a character as part of a company position are unique objects created and bestowed by Head Office on trusted franchisees. A set of Acquisitions Incorporated tools might resemble mundane tools, but they are never the same. Countless mundane cartographers in the world have proficiency with cartographer's tools. But only an Acquisitions Incorporated cartographer has access to a [cartographer's map case](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cartographers-map-case-ai.md) and the ability to use it.
+> The tools and items that are granted to a character as part of a company position are unique objects created and bestowed by Head Office on trusted franchisees. A set of Acquisitions Incorporated tools might resemble mundane tools, but they are never the same. Countless mundane cartographers in the world have proficiency with cartographer's tools. But only an Acquisitions Incorporated cartographer has access to a [cartographer's map case](Compendium/items/cartographers-map-case-ai.md) and the ability to use it.
 > 
 > Magic items gained as part of a company position always require attunement, but they do not count against the number of magic items a character can normally attune to. Each item can be attuned to only by the character to whom it has been granted by Head Office. If the tools of other Acq Inc franchisees are ever found, they cannot be attuned even by characters with the applicable position. (It goes without saying that such tools found at large are expected to be returned to Head Office immediately.)
 > 
@@ -398,33 +398,33 @@ Acquisitions Incorporated missions can lead across vast tracts of wilderness, in
 
 As a cartographer, you have a sharp eye for detail and take an interest in people, history, and natural features. You help advance your franchise by discovering and mapping new locations or hidden features, acquiring rare maps, and using different modes of transportation in secure and clever ways.
 
-**Noteworthy Cartographers**: [Rosie Beestinger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rosie-beestinger-ai.md) ("C" Team), [Brahma Lutier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/brahma-lutier-ai.md) ("B" Team, retired), [Pendragon Beestinger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/pendragon-beestinger-ai.md) ("B" Team), Purnagh Grost
+**Noteworthy Cartographers**: [Rosie Beestinger](Compendium/bestiary/npc/rosie-beestinger-ai.md) ("C" Team), [Brahma Lutier](Compendium/bestiary/npc/brahma-lutier-ai.md) ("B" Team, retired), [Pendragon Beestinger](Compendium/bestiary/npc/pendragon-beestinger-ai.md) ("B" Team), Purnagh Grost
 
 **Essential Functions**: Create and maintain maps of a franchise's journeys; dictate directions
 
 **Position Proficiency**: In addition to the proficiencies noted below, you can add your proficiency bonus when you make an ability check to create or examine maps, search for new paths in the wild, or assess a route for possible dangers.
 
-![The Cartographer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-cartographer-ai.md)
+![The Cartographer](Compendium/tables/the-cartographer-ai.md)
 
 #### Proficiencies and Starting Equipment
 
-As a rank 1 cartographer, you gain proficiency with [cartographer's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cartographers-tools.md), and your choice of vehicles (land) or vehicles (water).
+As a rank 1 cartographer, you gain proficiency with [cartographer's tools](Compendium/items/cartographers-tools.md), and your choice of vehicles (land) or vehicles (water).
 
 Head Office also grants you the use of cartographer's supplies (quill, ink, parchment, a pair of compasses, calipers, and a ruler), a waterproof leather map case, a spyglass, and a supply of colored inks.
 
 #### It's a Rental
 
-At rank 1, at the start of any mission, you can requisition a second-hand [draft horse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/draft-horse.md) and [cart](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cart.md) (barely functional), [riding horses](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/riding-horse.md) and [ponies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/pony.md) (typically well aged, one for each party member), passage on a ship or ferry (might require minor labor as part of the fare), and similar transportation. Any damage or losses to requisitioned equipment is expected to be repaid to Head Office.
+At rank 1, at the start of any mission, you can requisition a second-hand [draft horse](Compendium/bestiary/beast/draft-horse.md) and [cart](Compendium/items/cart.md) (barely functional), [riding horses](Compendium/bestiary/beast/riding-horse.md) and [ponies](Compendium/bestiary/beast/pony.md) (typically well aged, one for each party member), passage on a ship or ferry (might require minor labor as part of the fare), and similar transportation. Any damage or losses to requisitioned equipment is expected to be repaid to Head Office.
 
 #### Spyglass of Clairvoyance
 
-At rank 2, your Head Office-supplied spyglass becomes a common magic item. As an action, you can look through the [spyglass of clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spyglass-of-clairvoyance-ai.md) at a location within 1 mile of you that is obstructing your view, such as a mountain, castle, or forest. You must then succeed on a DC 15 Wisdom check using [cartographer's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cartographers-tools.md) to map the natural terrain found within three miles of that chosen point. You do not gain any knowledge of creatures, structures, or anything other than natural terrain. This property of the spyglass cannot be used again until the next dawn.
+At rank 2, your Head Office-supplied spyglass becomes a common magic item. As an action, you can look through the [spyglass of clairvoyance](Compendium/items/spyglass-of-clairvoyance-ai.md) at a location within 1 mile of you that is obstructing your view, such as a mountain, castle, or forest. You must then succeed on a DC 15 Wisdom check using [cartographer's tools](Compendium/items/cartographers-tools.md) to map the natural terrain found within three miles of that chosen point. You do not gain any knowledge of creatures, structures, or anything other than natural terrain. This property of the spyglass cannot be used again until the next dawn.
 
 #### Tale of Safe Travel
 
-Starting at rank 2, you gain the ability to perform a 45-minute ritual using your [cartographer's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cartographers-tools.md), maps, and 50 gp in consumed material components. By doing so, you ensure safe travel for you and other creatures, from your current location to another location you could normally reach within one day. The destination must be one to which you have traveled previously, or for which you have an accurate route and map.
+Starting at rank 2, you gain the ability to perform a 45-minute ritual using your [cartographer's tools](Compendium/items/cartographers-tools.md), maps, and 50 gp in consumed material components. By doing so, you ensure safe travel for you and other creatures, from your current location to another location you could normally reach within one day. The destination must be one to which you have traveled previously, or for which you have an accurate route and map.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/006-02-05.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/006-02-05.webp#center)
 
 If your tale is told with reverence and precision, you and up to six other creatures plus their gear (including vehicles or mounts) become encircled in a magical bubble and are pulled into the "Border Ethereal" (see chapter 2 of the "Dungeon Master's Guide"). During the ritual, you tell a story of your future journey, relating details of what will be seen en route. The DM can choose to add to the story, imparting additional details or planting seeds for future adventures. If you wish, the ritual can be ended early, allowing the party to encounter what's being described by the DM.
 
@@ -432,7 +432,7 @@ Whenever the ritual is ended or interrupted by you, all the travelers arrive saf
 
 #### Map of Shortcuts
 
-At rank 3, your map case becomes a common magic item. In addition to storing normal maps, your [cartographer's map case](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cartographers-map-case-ai.md) can be used to generate a special map identifying a shortcut. You can use your action to make a DC 15 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check, with a success revealing a map buried in your *cartographer's map case* noting a relevant shortcut . Your travel time is reduced by half while you follow that route. If you succeed at the check by 5 or more, the map includes notes on the terrain, granting you advantage on the next ability check you make to travel through the mapped area in the next hour. Once you use this feature, you cannot use it again until you finish a long rest.
+At rank 3, your map case becomes a common magic item. In addition to storing normal maps, your [cartographer's map case](Compendium/items/cartographers-map-case-ai.md) can be used to generate a special map identifying a shortcut. You can use your action to make a DC 15 Wisdom ([Perception](Rules/skills.md#Perception)) check, with a success revealing a map buried in your *cartographer's map case* noting a relevant shortcut. Your travel time is reduced by half while you follow that route. If you succeed at the check by 5 or more, the map includes notes on the terrain, granting you advantage on the next ability check you make to travel through the mapped area in the next hour. Once you use this feature, you cannot use it again until you finish a long rest.
 
 > [!quote]  
 > 
@@ -442,25 +442,25 @@ At rank 3, your map case becomes a common magic item. In addition to storing nor
 
 #### Map of the Moment
 
-Starting at rank 3, you can use an action to make a DC 15 Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check and search your [cartographer's map case](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cartographers-map-case-ai.md) to find a map either related to your current mission or inspiring a new one. On a success, you find a map with a prominent landmark. The map has information on the natural terrain within one mile of the landmark. Once you use this feature, you cannot use it again until dawn seven days later.
+Starting at rank 3, you can use an action to make a DC 15 Wisdom ([Perception](Rules/skills.md#Perception)) check and search your [cartographer's map case](Compendium/items/cartographers-map-case-ai.md) to find a map either related to your current mission or inspiring a new one. On a success, you find a map with a prominent landmark. The map has information on the natural terrain within one mile of the landmark. Once you use this feature, you cannot use it again until dawn seven days later.
 
-![Map of the Moment; Possible Map Mission Landmarks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/map-of-the-moment-possible-map-mission-landmarks-ai.md)
+![Map of the Moment; Possible Map Mission Landmarks](Compendium/tables/map-of-the-moment-possible-map-mission-landmarks-ai.md)
 
 #### Elder Cartographer's Glossography
 
-When you attain rank 4, you gain a small tome that is an uncommon magic item. The [elder cartographer's glossography](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/elder-cartographers-glossography-ai.md) grants advantage on Intelligence or Wisdom checks related to geographical features or locations.
+When you attain rank 4, you gain a small tome that is an uncommon magic item. The [elder cartographer's glossography](Compendium/items/elder-cartographers-glossography-ai.md) grants advantage on Intelligence or Wisdom checks related to geographical features or locations.
 
-![Cartographer's Map Case](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/007-02-06.webp#center)
+![Cartographer's Map Case](Compendium/books/acquisitions-incorporated/img/007-02-06.webp#center)
 
 #### Greater Tale of Safe Travel
 
 Also at rank 4, your Tale of Safe Travel feature can now span up to three days of travel. If your franchise headquarters is mobile, you can include it in your Tale of Safe Travel, and can also include items or goods weighing up to 2,000 pounds.
 
-> [!quote] A quote from [Rosie Beestinger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rosie-beestinger-ai.md)  
+> [!quote] A quote from [Rosie Beestinger](Compendium/bestiary/npc/rosie-beestinger-ai.md)  
 > 
 > It's of the utmost importance to remember that a good cartographer knows how to tell a story to a horse. The story does not have to be accurate, but it does have to entertain the horse.
 
-![Why Be a Cartographer?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/why-be-a-cartographer-ai.md)
+![Why Be a Cartographer?](Compendium/tables/why-be-a-cartographer-ai.md)
 
 ### Decisionist
 
@@ -472,9 +472,9 @@ A decisionist brings decisive leadership to an Acquisitions Incorporated franchi
 
 All decisionists vary in their approach to the task. You might primarily attempt to convince others through charismatic arguments, or through force of will or intellectual cunning. You might lead by example, or by extolling the examples of other people who've done the things you haven't quite gotten around to yet. Many decisionists go on to publish famous tomes, such as the best-selling *Habits of Effective Adventuring Parties* and *I Don't Care If the Rogue Stole Your Coins, We Have a Job to Do*. You help advance the franchise by calling for votes, making sure you're always on the side with the most votes, and resolving disputes within the franchise party.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/008-02-07.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/008-02-07.webp#center)
 
-**Noteworthy Decisionists**: [Donaar Blit'zen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/donaar-blitzen-ai.md) ("C" Team), Kelshi Annab
+**Noteworthy Decisionists**: [Donaar Blit'zen](Compendium/bestiary/npc/donaar-blitzen-ai.md) ("C" Team), Kelshi Annab
 
 **Essential Functions**: Receive one extra vote on franchise matters; resolve inter-party conflicts
 
@@ -486,19 +486,19 @@ All decisionists vary in their approach to the task. You might primarily attempt
 
 ^human-decisionist-ranger
 
-![The Decisionist](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-decisionist-ai.md)
+![The Decisionist](Compendium/tables/the-decisionist-ai.md)
 
 #### Proficiencies and Starting Equipment
 
 As a rank 1 decisionist, you gain proficiency with a musical instrument (horn).
 
-Head office also grants you the use of a musical instrument (your choice of [horn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/horn.md)), a voting kit (ballots, a ballot box, an "I Voted" sticker set), and a [coin of decisionry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/coin-of-decisionry-ai.md). This large gold coin is emblazoned with the sigil of Acquisitions Incorporated as "heads," and has a "tails" image that varies.
+Head Office also grants you the use of a musical instrument (your choice of [horn](Compendium/items/horn.md)), a voting kit (ballots, a ballot box, an "I Voted" sticker set), and a [coin of decisionry](Compendium/items/coin-of-decisionry-ai.md). This large gold coin is emblazoned with the sigil of Acquisitions Incorporated as "heads," and has a "tails" image that varies.
 
-![Proficiencies and Starting Equipment; Coin of Decisionry "Tails" Image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/proficiencies-and-starting-equipment-coin-of-decisionry-tails-image-ai.md)
+![Proficiencies and Starting Equipment; Coin of Decisionry "Tails" Image](Compendium/tables/proficiencies-and-starting-equipment-coin-of-decisionry-tails-image-ai.md)
 
 #### Tiebreaker
 
-Starting at rank 1, whenever the members of your franchise take a vote, you can present your [coin of decisionry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/coin-of-decisionry-ai.md) and cast two votes.
+Starting at rank 1, whenever the members of your franchise take a vote, you can present your [coin of decisionry](Compendium/items/coin-of-decisionry-ai.md) and cast two votes.
 
 #### Absentee Ballot
 
@@ -506,37 +506,37 @@ Starting at rank 2, if a member of your franchise party is absent, you gain thei
 
 #### Coin of Decisionry
 
-Starting at rank 2, your [coin of decisionry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/coin-of-decisionry-ai.md) becomes a common magic item. When you flip the coin, it always lands with the Acquisitions Incorporated sigil face down, and a message appears on the "tails" face. Roll a `d4` on the following table to determine the message.
+Starting at rank 2, your [coin of decisionry](Compendium/items/coin-of-decisionry-ai.md) becomes a common magic item. When you flip the coin, it always lands with the Acquisitions Incorporated sigil face down, and a message appears on the "tails" face. Roll a `d4` on the following table to determine the message.
 
-![Coin of Decisionry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/coin-of-decisionry-ai.md)
+![Coin of Decisionry](Compendium/tables/coin-of-decisionry-ai.md)
 
-The coin has absolutely no divination abilities, and its results when you use it are random. But nobody else knows that. When a creature within 10 feet of you flips the coin (after having had its powerful prognostication powers dutifully explained), you can exert your will to control its operation as a bonus action, choosing the result that appears after it lands as a means of gently coercing the user toward a specific course of action. The creature flipping the coin can detect your manipulation with a successful DC 13 Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check.
+The coin has absolutely no divination abilities, and its results when you use it are random. But nobody else knows that. When a creature within 10 feet of you flips the coin (after having had its powerful prognostication powers dutifully explained), you can exert your will to control its operation as a bonus action, choosing the result that appears after it lands as a means of gently coercing the user toward a specific course of action. The creature flipping the coin can detect your manipulation with a successful DC 13 Wisdom ([Insight](Rules/skills.md#Insight)) check.
 
 #### Better Odds
 
-When you reach rank 3, your [coin of decisionry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/coin-of-decisionry-ai.md) gains a measure of actual divination power and becomes an uncommon magic item. In addition to its normal function, you can use an action to flip the [coin of decisionry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/coin-of-decisionry-ai.md) twice while pondering a specific plan or objective, noting both random results. If you succeed on a DC 15 Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check, you learn which of the two results is more applicable to the course of action. This property of the coin can't be used again until the next dawn.
+When you reach rank 3, your [coin of decisionry](Compendium/items/coin-of-decisionry-ai.md) gains a measure of actual divination power and becomes an uncommon magic item. In addition to its normal function, you can use an action to flip the [coin of decisionry](Compendium/items/coin-of-decisionry-ai.md) twice while pondering a specific plan or objective, noting both random results. If you succeed on a DC 15 Intelligence ([Arcana](Rules/skills.md#Arcana)) check, you learn which of the two results is more applicable to the course of action. This property of the coin can't be used again until the next dawn.
 
-![Coin Of Decisionry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/009-02-08.webp#center)
+![Coin Of Decisionry](Compendium/books/acquisitions-incorporated/img/009-02-08.webp#center)
 
 #### Inspired Decision
 
-Starting at rank 3, whenever a serious franchise vote is taken and the result goes the way you voted, you can inspire the rest of the franchise team with a brief speech. Make a DC 15 Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) check. On a success, each franchise member of your choice who can hear you gains advantage on the next ability check, attack roll, or saving throw they make in the next hour. Once you use this feature, you can't use it again until you finish a long rest.
+Starting at rank 3, whenever a serious franchise vote is taken and the result goes the way you voted, you can inspire the rest of the franchise team with a brief speech. Make a DC 15 Charisma ([Persuasion](Rules/skills.md#Persuasion)) check. On a success, each franchise member of your choice who can hear you gains advantage on the next ability check, attack roll, or saving throw they make in the next hour. Once you use this feature, you can't use it again until you finish a long rest.
 
 #### Charming Misdemeanor
 
-As a rank 4 decisionist, you can present your [coin of decisionry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/coin-of-decisionry-ai.md) to grant yourself an extra vote when your franchise votes, for a total of three votes. Once you do so, you cannot do so again until dawn seven days later.
+As a rank 4 decisionist, you can present your [coin of decisionry](Compendium/items/coin-of-decisionry-ai.md) to grant yourself an extra vote when your franchise votes, for a total of three votes. Once you do so, you cannot do so again until dawn seven days later.
 
 #### Clandestine Kit
 
-At rank 4, your [voting kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/voting-kit-ai.md) becomes a common magic item that conceals an extradimensional space. As a bonus action, you can place one tool kit that you are proficient with into the *voting kit*, or can remove it. No other type of object can be placed into the extradimensional space. A creature searching the *voting kit* finds and extracts the tool kit with a successful DC 20 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) or Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check.
+At rank 4, your [voting kit](Compendium/items/voting-kit-ai.md) becomes a common magic item that conceals an extradimensional space. As a bonus action, you can place one tool kit that you are proficient with into the *voting kit*, or can remove it. No other type of object can be placed into the extradimensional space. A creature searching the *voting kit* finds and extracts the tool kit with a successful DC 20 Intelligence ([Investigation](Rules/skills.md#Investigation)) or Wisdom ([Perception](Rules/skills.md#Perception)) check.
 
-Additionally, you can use the [voting kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/voting-kit-ai.md) to cast [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md) (save DC 15). This property of the kit can't be used again until the next dawn.
+Additionally, you can use the [voting kit](Compendium/items/voting-kit-ai.md) to cast [charm person](Compendium/spells/charm-person.md) (save DC 15). This property of the kit can't be used again until the next dawn.
 
-> [!quote] A quote from [Donaar Blit'zen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/donaar-blitzen-ai.md)  
+> [!quote] A quote from [Donaar Blit'zen](Compendium/bestiary/npc/donaar-blitzen-ai.md)  
 > 
 > Decisionists work best when a verdict is unilateral and in direct contradiction to the rest of their team. Do the opposite of whatever they want, even if you want to do that thing too. It's about setting an example and establishing a pecking order.
 
-![Why Be a Decisionist?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/why-be-a-decisionist-ai.md)
+![Why Be a Decisionist?](Compendium/tables/why-be-a-decisionist-ai.md)
 
 ### Documancer
 
@@ -548,15 +548,15 @@ Every great Acquisitions Incorporated quest begins with a contract from Head Off
 
 As a documancer, you are respected for having the commitment and mental fortitude required to work with Head Office. You advance your franchise by using documancy for communication, insisting on recording all deals in writing, retaining records, destroying other records, and recalling vital information.
 
-> [!quote] A quote from [Walnut Dankgrass](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/walnut-dankgrass-ai.md)  
+> [!quote] A quote from [Walnut Dankgrass](Compendium/bestiary/npc/walnut-dankgrass-ai.md)  
 > 
 > Not everyone truly appreciates the art of documancy, and only the best and brightest are chosen for this most important work. Come to think of it, I'm not sure you make the cut.
 
-![Documancer; Favorite Methods to Destroy Documents](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/documancer-favorite-methods-to-destroy-documents-ai.md)
+![Documancer; Favorite Methods to Destroy Documents](Compendium/tables/documancer-favorite-methods-to-destroy-documents-ai.md)
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/010-02-09.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/010-02-09.webp#center)
 
-**Noteworthy Documancers**: [Walnut Dankgrass](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/walnut-dankgrass-ai.md) ("C" Team), Brynshal Flume
+**Noteworthy Documancers**: [Walnut Dankgrass](Compendium/bestiary/npc/walnut-dankgrass-ai.md) ("C" Team), Brynshal Flume
 
 **Essential Functions**: Record information; track job and quest details within the franchise
 
@@ -564,7 +564,7 @@ As a documancer, you are respected for having the commitment and mental fortitud
 
 > [!quote]  
 > 
-> When other children borrowed her toys, Brynshal kept unnervingly robust records—duration, wear, remittance in case of loss, that kind of thing. In time, this hunger to define and make official the rhythm of daily life found its expression in documancy, a kind of mystic bureaucratic art founded by [Omin Dran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/omin-dran-ai.md). Anything you put a signature to has power. And Brynshal wields that power with ease.
+> When other children borrowed her toys, Brynshal kept unnervingly robust records—duration, wear, remittance in case of loss, that kind of thing. In time, this hunger to define and make official the rhythm of daily life found its expression in documancy, a kind of mystic bureaucratic art founded by [Omin Dran](Compendium/bestiary/npc/omin-dran-ai.md). Anything you put a signature to has power. And Brynshal wields that power with ease.
 
 > [!quote]  
 > 
@@ -572,13 +572,13 @@ As a documancer, you are respected for having the commitment and mental fortitud
 
 ^air-genasi-documancer-sorcerer
 
-![The Documancer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-documancer-ai.md)
+![The Documancer](Compendium/tables/the-documancer-ai.md)
 
 #### Proficiencies and Starting Equipment
 
-As a rank 1 documancer, you gain proficiency with [calligrapher's supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/calligraphers-supplies.md).
+As a rank 1 documancer, you gain proficiency with [calligrapher's supplies](Compendium/items/calligraphers-supplies.md).
 
-Head office also grants you the use of [calligrapher's supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/calligraphers-supplies.md) (ink, a dozen sheets of parchment, and three quills), a [documancy satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/documancy-satchel-ai.md) for your calligrapher's supplies, a ledger, [sealing wax](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sealing-wax.md), copper and silver leaf, a documancer's seal of limited authority, and a [scroll case](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/map-or-scroll-case.md).
+Head Office also grants you the use of [calligrapher's supplies](Compendium/items/calligraphers-supplies.md) (ink, a dozen sheets of parchment, and three quills), a [documancy satchel](Compendium/items/documancy-satchel-ai.md) for your calligrapher's supplies, a ledger, [sealing wax](Compendium/items/sealing-wax.md), copper and silver leaf, a documancer's seal of limited authority, and a [scroll case](Compendium/items/map-or-scroll-case.md).
 
 #### Gift of Words
 
@@ -586,33 +586,33 @@ At rank 1, you are fluent in the semi-arcane language of documancy. This knowled
 
 #### Documancy Satchel
 
-At rank 2, your [documancy satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/documancy-satchel-ai.md) becomes a common magic item, allowing you to magically send and receive documents to and from Head Office through a special pouch. Your [documancy satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/documancy-satchel-ai.md) magically produces prewritten and signature-ready contracts at your request, covering most common contractual needs. It also occasionally produces sticky notes printed with useful information and inspirational quotes from Head Office.
+At rank 2, your [documancy satchel](Compendium/items/documancy-satchel-ai.md) becomes a common magic item, allowing you to magically send and receive documents to and from Head Office through a special pouch. Your [documancy satchel](Compendium/items/documancy-satchel-ai.md) magically produces prewritten and signature-ready contracts at your request, covering most common contractual needs. It also occasionally produces sticky notes printed with useful information and inspirational quotes from Head Office.
 
 #### Fluent in Boss
 
-Also at rank 2, your documancer training allows you to better process Head Office communications, as well as to understand what pleases your superiors. You can cast the [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md) spell, with the spell's omens of weal or woe based solely on the perspective of Head Office. (It should be noted that Head Office at times has a surprisingly high disregard for potential woe to its employees.) Once you use this feature, you cannot use it again until dawn seven days later.
+Also at rank 2, your documancer training allows you to better process Head Office communications, as well as to understand what pleases your superiors. You can cast the [augury](Compendium/spells/augury.md) spell, with the spell's omens of weal or woe based solely on the perspective of Head Office. (It should be noted that Head Office at times has a surprisingly high disregard for potential woe to its employees.) Once you use this feature, you cannot use it again until dawn seven days later.
 
 #### Satchel of Holding
 
-At rank 3, your [documancy satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/documancy-satchel-ai.md) gains additional features and becomes an uncommon magic item. One of the satchel's pouches now functions as a [bag of holding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bag-of-holding.md).
+At rank 3, your [documancy satchel](Compendium/items/documancy-satchel-ai.md) gains additional features and becomes an uncommon magic item. One of the satchel's pouches now functions as a [bag of holding](Compendium/items/bag-of-holding.md).
 
-Additionally, you can use an action to draw forth from the [documancy satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/documancy-satchel-ai.md) a [spell scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-scroll.md) of [comprehend languages](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/comprehend-languages.md). The scroll vanishes when used, or ten minutes after it appears. This property of the bag can't be used again until the next dawn.
+Additionally, you can use an action to draw forth from the [documancy satchel](Compendium/items/documancy-satchel-ai.md) a [spell scroll](Compendium/items/spell-scroll.md) of [comprehend languages](Compendium/spells/comprehend-languages.md). The scroll vanishes when used, or ten minutes after it appears. This property of the bag can't be used again until the next dawn.
 
 #### Document Flexibility
 
-Also at rank 3, you gain proficiency with a [forgery kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/forgery-kit.md). One such kit (containing several different types of ink, a variety of parchments and papers, several quills, seals and sealing wax, gold and silver leaf, and small tools to sculpt melted wax to mimic a seal) is always contained within the extradimensional space of your [documancy satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/documancy-satchel-ai.md).
+Also at rank 3, you gain proficiency with a [forgery kit](Compendium/items/forgery-kit.md). One such kit (containing several different types of ink, a variety of parchments and papers, several quills, seals and sealing wax, gold and silver leaf, and small tools to sculpt melted wax to mimic a seal) is always contained within the extradimensional space of your [documancy satchel](Compendium/items/documancy-satchel-ai.md).
 
-![Documancy Satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/011-02-10.webp#center)
+![Documancy Satchel](Compendium/books/acquisitions-incorporated/img/011-02-10.webp#center)
 
 #### Scroll Humidor
 
-At rank 4, your [documancy satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/documancy-satchel-ai.md) gains additional power and becomes a rare magic item. Within the satchel, a dedicated extradimensional space can hold up to thirty documents or [spell scrolls](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-scroll.md). Placing a single document into the scroll humidor is an action. Drawing forth a desired scroll is a bonus action.
+At rank 4, your [documancy satchel](Compendium/items/documancy-satchel-ai.md) gains additional power and becomes a rare magic item. Within the satchel, a dedicated extradimensional space can hold up to thirty documents or [spell scrolls](Compendium/items/spell-scroll.md). Placing a single document into the scroll humidor is an action. Drawing forth a desired scroll is a bonus action.
 
 #### Scroll Service
 
-Also at rank 4, you can use an action to request one [spell scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-scroll.md) containing a spell of up to 3rd level from Head Office. If you succeed on a DC 15 Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check, the scroll instantly appears within your [documancy satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/documancy-satchel-ai.md). Only you can use this scroll. The scroll vanishes when used, or ten minutes after it has been summoned. After a successful use, this property of the satchel can't be used again until dawn seven days later. If you failed the check, this property can't be used again until the next dawn.
+Also at rank 4, you can use an action to request one [spell scroll](Compendium/items/spell-scroll.md) containing a spell of up to 3rd level from Head Office. If you succeed on a DC 15 Intelligence ([Arcana](Rules/skills.md#Arcana)) check, the scroll instantly appears within your [documancy satchel](Compendium/items/documancy-satchel-ai.md). Only you can use this scroll. The scroll vanishes when used, or ten minutes after it has been summoned. After a successful use, this property of the satchel can't be used again until dawn seven days later. If you failed the check, this property can't be used again until the next dawn.
 
-![Why Be a Documancer?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/why-be-a-documancer-ai.md)
+![Why Be a Documancer?](Compendium/tables/why-be-a-documancer-ai.md)
 
 ### Hoardsperson
 
@@ -624,27 +624,27 @@ As the name suggests, Acquisitions Incorporated is all about the acquiring, and 
 
 As a hoardsperson, you are known as a trustworthy and responsible individual. You support your franchise by demonstrating accuracy, avoiding shortfalls, and anticipating resource needs.
 
-**Noteworthy Hoardspersons**: [K'thriss Drow'b](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/kthriss-drowb-ai.md) ("C" Team), [Phoenix Anvil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/phoenix-anvil-ai.md) ("B" Team), Two Dry Cloaks
+**Noteworthy Hoardspersons**: [K'thriss Drow'b](Compendium/bestiary/npc/kthriss-drowb-ai.md) ("C" Team), [Phoenix Anvil](Compendium/bestiary/npc/phoenix-anvil-ai.md) ("B" Team), Two Dry Cloaks
 
 **Essential Functions**: Manage stores and items; track resources
 
 **Position Proficiency**: In addition to the proficiencies noted below, you can add your proficiency bonus to an ability check to negotiate a price for goods and services, assess the quality of equipment and treasure, or analyze resources in a local area.
 
-![The Hoardsperson](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-hoardsperson-ai.md)
+![The Hoardsperson](Compendium/tables/the-hoardsperson-ai.md)
 
 #### Proficiencies and Starting Equipment
 
 As a rank 1 hoardsperson, you gain proficiency with jeweler's tools.
 
-Head office also grants you the use of [jeweler's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/jewelers-tools.md) (a small saw and hammer, files, pliers, and tweezers) and an account ledger, as well as up to 5 gp worth of equipment from the following options: [barrel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/barrel.md), [basket](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/basket.md), [block and tackle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/block-and-tackle.md), [bucket](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bucket.md), [chest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chest.md), [flask or tankard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/tankard.md), [jug or pitcher](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/jug.md), [iron pot](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/iron-pot.md), [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md), [sack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sack.md), [saddlebags](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/saddlebags.md), [vial](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/vial.md), and [waterskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/waterskin.md).
+Head Office also grants you the use of [jeweler's tools](Compendium/items/jewelers-tools.md) (a small saw and hammer, files, pliers, and tweezers) and an account ledger, as well as up to 5 gp worth of equipment from the following options: [barrel](Compendium/items/barrel.md), [basket](Compendium/items/basket.md), [block and tackle](Compendium/items/block-and-tackle.md), [bucket](Compendium/items/bucket.md), [chest](Compendium/items/chest.md), [flask or tankard](Compendium/items/tankard.md), [jug or pitcher](Compendium/items/jug.md), [iron pot](Compendium/items/iron-pot.md), [pouch](Compendium/items/pouch.md), [sack](Compendium/items/sack.md), [saddlebags](Compendium/items/saddlebags.md), [vial](Compendium/items/vial.md), and [waterskin](Compendium/items/waterskin.md).
 
 #### What a Deal
 
-Also at rank 1, you can use your extensive supply network to buy one item found on any table in the ""Mounts and Vehicles"" or ""Trade Goods"" sections in chapter 5 of the "Player's Handbook" and have it delivered to your franchise headquarters within one day. With a successful DC 15 Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) check, you also negotiate a 50 percent discount on the item.
+Also at rank 1, you can use your extensive supply network to buy one item found on any table in the ""Mounts and Vehicles"" or ""Trade Goods"" sections in chapter 5 of the "Player's Handbook" and have it delivered to your franchise headquarters within one day. With a successful DC 15 Charisma ([Persuasion](Rules/skills.md#Persuasion)) check, you also negotiate a 50 percent discount on the item.
 
 If you fail the check, you cannot use this feature again until you finish a long rest. When you use this feature successfully twice, you cannot use it again until your franchise attains the next rank.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/012-02-11.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/012-02-11.webp#center)
 
 > [!quote]  
 > 
@@ -652,19 +652,19 @@ If you fail the check, you cannot use this feature again until you finish a long
 
 > [!quote]  
 > 
-> (The [tabaxi](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/tabaxi-mpmm.md) can be found in "Volo's Guide to Monsters".)
+> (The [tabaxi](Compendium/races/tabaxi-mpmm.md) can be found in "Volo's Guide to Monsters".)
 
 ^tabaxi-hoardsperson-rogue
 
 #### Living Loot Satchel
 
-As a rank 2 hoardsperson, you are granted the use of a [living loot satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-loot-satchel-ai.md), which is an uncommon magic item. It functions as a [bag of holding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bag-of-holding.md) and is available in a variety of colors and styles.
+As a rank 2 hoardsperson, you are granted the use of a [living loot satchel](Compendium/items/living-loot-satchel-ai.md), which is an uncommon magic item. It functions as a [bag of holding](Compendium/items/bag-of-holding.md) and is available in a variety of colors and styles.
 
-![Class-Based Living Loot Satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/class-based-living-loot-satchel-ai.md)
+![Class-Based Living Loot Satchel](Compendium/tables/class-based-living-loot-satchel-ai.md)
 
-![Living Loot Satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/013-02-12.webp#center)
+![Living Loot Satchel](Compendium/books/acquisitions-incorporated/img/013-02-12.webp#center)
 
-The [living loot satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-loot-satchel-ai.md) is a kind of magical being that safeguards the franchise's funds and valuables. Its innards are connected to a secure coffer within Head Office's vault in Waterdeep, to which the satchel periodically transfers the franchise's wealth. As an action, you can transfer any amount of your franchise funds back to your satchel with a successful DC 15 Dexterity ([Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)) check.
+The [living loot satchel](Compendium/items/living-loot-satchel-ai.md) is a kind of magical being that safeguards the franchise's funds and valuables. Its innards are connected to a secure coffer within Head Office's vault in Waterdeep, to which the satchel periodically transfers the franchise's wealth. As an action, you can transfer any amount of your franchise funds back to your satchel with a successful DC 15 Dexterity ([Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)) check.
 
 #### Living the Good Life
 
@@ -672,25 +672,25 @@ Also at rank 2, Head Office trusts that as long as your needs are met, you have 
 
 #### Secret Satchel
 
-As a rank 3 hoardsperson, your [living loot satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-loot-satchel-ai.md) gets an upgrade to function as the replica chest used for the [Leomund's secret chest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/leomunds-secret-chest.md) spell, becoming a rare magic item. You can open the secret chest through your [living loot satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-loot-satchel-ai.md) to deposit or withdraw items—even items that wouldn't normally fit in your satchel, but which fit within the chest. Thanks to Head Office striking deals you don't want to know about with extraplanar creatures you really don't want to know about, there is no chance for the spell to end.
+As a rank 3 hoardsperson, your [living loot satchel](Compendium/items/living-loot-satchel-ai.md) gets an upgrade to function as the replica chest used for the [Leomund's secret chest](Compendium/spells/leomunds-secret-chest.md) spell, becoming a rare magic item. You can open the secret chest through your [living loot satchel](Compendium/items/living-loot-satchel-ai.md) to deposit or withdraw items—even items that wouldn't normally fit in your satchel, but which fit within the chest. Thanks to Head Office striking deals you don't want to know about with extraplanar creatures you really don't want to know about, there is no chance for the spell to end.
 
 #### That Thing You Need
 
-At rank 3, you can use a bonus action to reach into your [living loot satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-loot-satchel-ai.md) and make a DC 15 Dexterity ([Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)) check. On a success, you draw forth an item of your choice on the "Adventuring Gear" table in chapter 5 of the "Player's Handbook". The item must be of a size that can fit into your secret chest and be worth no more than 15 gp. Once you attempt to draw five items from your satchel, you cannot draw forth any more items until the next dawn.
+At rank 3, you can use a bonus action to reach into your [living loot satchel](Compendium/items/living-loot-satchel-ai.md) and make a DC 15 Dexterity ([Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)) check. On a success, you draw forth an item of your choice on the "Adventuring Gear" table in chapter 5 of the "Player's Handbook". The item must be of a size that can fit into your secret chest and be worth no more than 15 gp. Once you attempt to draw five items from your satchel, you cannot draw forth any more items until the next dawn.
 
 #### Portable Hole Satchel
 
-At rank 4, your [living loot satchel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/living-loot-satchel-ai.md) receives another upgrade, becoming a very rare magic item. The secret chest accessed by your satchel now has the storage capacity of a [portable hole](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portable-hole.md)—6 feet in diameter and 10 feet deep. As before, you can place any appropriately sized object into the *portable-hole*-sized chest, even if it wouldn't normally fit into your satchel.
+At rank 4, your [living loot satchel](Compendium/items/living-loot-satchel-ai.md) receives another upgrade, becoming a very rare magic item. The secret chest accessed by your satchel now has the storage capacity of a [portable hole](Compendium/items/portable-hole.md)—6 feet in diameter and 10 feet deep. As before, you can place any appropriately sized object into the [portable-hole](Compendium/items/portable-hole.md)-sized chest, even if it wouldn't normally fit into your satchel.
 
-> [!quote] A quote from [K'thriss Drow'b](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/kthriss-drowb-ai.md)  
+> [!quote] A quote from [K'thriss Drow'b](Compendium/bestiary/npc/kthriss-drowb-ai.md)  
 > 
 > The key to the hoardsperson's job is cataloging all goods that enter the party's possession. You may also catalog goods that do not belong to the party. Sometimes it works.
 
 #### That Expensive Thing You Need
 
-Also at rank 4, when you use your That Thing You Need feature, you can requisition any item of up to 250 gp in value, as long as it would fit into the confines of your satchel's [portable hole](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portable-hole.md).
+Also at rank 4, when you use your That Thing You Need feature, you can requisition any item of up to 250 gp in value, as long as it would fit into the confines of your satchel's [portable hole](Compendium/items/portable-hole.md).
 
-![Why Be a Hoardsperson?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/why-be-a-hoardsperson-ai.md)
+![Why Be a Hoardsperson?](Compendium/tables/why-be-a-hoardsperson-ai.md)
 
 ### Loremonger
 
@@ -708,33 +708,33 @@ As a loremonger, you are a studious individual, usually with an interest in hist
 
 **Position Proficiency**: In addition to the proficiencies noted below, you can add your proficiency bonus to an ability check to analyze the operation of a franchise, assess historical records, or decipher codes.
 
-> [!quote] A quote from [Omin Dran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/omin-dran-ai.md)  
+> [!quote] A quote from [Omin Dran](Compendium/bestiary/npc/omin-dran-ai.md)  
 > 
 > Loremongers talk a lot. It's best to let them.
 
-![The Loremonger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-loremonger-ai.md)
+![The Loremonger](Compendium/tables/the-loremonger-ai.md)
 
 #### Proficiencies and Starting Equipment
 
-As a rank 1 loremonger, you gain one of the following proficiencies of your choice: artisan's tools (choose type), [navigator's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/navigators-tools.md), vehicles (land), or vehicles (water).
+As a rank 1 loremonger, you gain one of the following proficiencies of your choice: artisan's tools (choose type), [navigator's tools](Compendium/items/navigators-tools.md), vehicles (land), or vehicles (water).
 
-Head office also grants you the use of an appropriate tool kit if you chose a tool proficiency, as well as ink and an ink pen.
+Head Office also grants you the use of an appropriate tool kit if you chose a tool proficiency, as well as ink and an ink pen.
 
 #### Whisper Jar
 
-Also at rank 1, you are the beneficiary of a [whisper jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whisper-jar-ai.md)—a common magic item resembling an ether-filled jar with a long tap hose. The jar is used to record others' stories and your own observations, like a verbal notebook with unlimited space. The *whisper jar* records as fast as a creature can speak into it, and whispers back words at the same pace they were recorded. Activating the playback of a particular recording is an action.
+Also at rank 1, you are the beneficiary of a [whisper jar](Compendium/items/whisper-jar-ai.md)—a common magic item resembling an ether-filled jar with a long tap hose. The jar is used to record others' stories and your own observations, like a verbal notebook with unlimited space. The *whisper jar* records as fast as a creature can speak into it, and whispers back words at the same pace they were recorded. Activating the playback of a particular recording is an action.
 
-![Things Recorded in Your Whisper Jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/things-recorded-in-your-whisper-jar-ai.md)
+![Things Recorded in Your Whisper Jar](Compendium/tables/things-recorded-in-your-whisper-jar-ai.md)
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/014-02-13.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/014-02-13.webp#center)
 
 #### Need to Know
 
-At rank 2, your insight grants you preternatural knowledge of the creatures around you. As an action, select one humanoid you can see and make a DC 15 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check. On a success, you learn the following information: the creature's name, up to three aliases it has used within the past month, its primary profession, and its skill proficiencies. Once you use this feature, you can't use it again until you finish a long rest. You can use this feature only once on any creature.
+At rank 2, your insight grants you preternatural knowledge of the creatures around you. As an action, select one humanoid you can see and make a DC 15 Intelligence ([Investigation](Rules/skills.md#Investigation)) check. On a success, you learn the following information: the creature's name, up to three aliases it has used within the past month, its primary profession, and its skill proficiencies. Once you use this feature, you can't use it again until you finish a long rest. You can use this feature only once on any creature.
 
 #### Whispered Encyclopedia
 
-At rank 2, your [whisper jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whisper-jar-ai.md) becomes an uncommon magic item that can tap into the broader lore of Acquisitions Incorporated. As a bonus action, you ask the jar for information on a specific subject and make a DC 15 Intelligence ([History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)) check. On a success, the jar plays back a recording on that subject, made somewhere, sometime by another Acq Inc loremonger. This property of the [whisper jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whisper-jar-ai.md) can't be used again until the next dawn.
+At rank 2, your [whisper jar](Compendium/items/whisper-jar-ai.md) becomes an uncommon magic item that can tap into the broader lore of Acquisitions Incorporated. As a bonus action, you ask the jar for information on a specific subject and make a DC 15 Intelligence ([History](Rules/skills.md#History)) check. On a success, the jar plays back a recording on that subject, made somewhere, sometime by another Acq Inc loremonger. This property of the [whisper jar](Compendium/items/whisper-jar-ai.md) can't be used again until the next dawn.
 
 > [!quote]  
 > 
@@ -742,7 +742,7 @@ At rank 2, your [whisper jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Pu
 
 ^gnome-loremonger-druid
 
-![Whisper Jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/015-02-14.webp#center)
+![Whisper Jar](Compendium/books/acquisitions-incorporated/img/015-02-14.webp#center)
 
 #### Construction Permits
 
@@ -752,7 +752,7 @@ In addition, choose one room in your franchise headquarters that belongs to you 
 
 #### Whispered Warnings
 
-Also at rank 3, your [whisper jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whisper-jar-ai.md) gains additional power and becomes a rare magic item. As an action, you can cause the jar to function as a [wand of enemy detection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wand-of-enemy-detection.md), whereupon it whispers the direction to foes within range. This property of the [whisper jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whisper-jar-ai.md) can't be used again until the next dawn.
+Also at rank 3, your [whisper jar](Compendium/items/whisper-jar-ai.md) gains additional power and becomes a rare magic item. As an action, you can cause the jar to function as a [wand of enemy detection](Compendium/items/wand-of-enemy-detection.md), whereupon it whispers the direction to foes within range. This property of the [whisper jar](Compendium/items/whisper-jar-ai.md) can't be used again until the next dawn.
 
 #### Efficient Upgrades
 
@@ -760,9 +760,9 @@ At rank 4, your knowledge of franchise lore and development yields further divid
 
 #### Whispered Arcana
 
-Also at rank 4, your [whisper jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whisper-jar-ai.md) gains access to even more magic. By whispering the name of one of the following spells into the jar as an action, you can cast that spell from the jar: [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md), [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md), [detect poison and disease](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-poison-and-disease.md), [find traps](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/find-traps.md), [identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md), or [locate animals or plants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-animals-or-plants.md). This property of the [whisper jar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whisper-jar-ai.md) can't be used again until the next dawn.
+Also at rank 4, your [whisper jar](Compendium/items/whisper-jar-ai.md) gains access to even more magic. By whispering the name of one of the following spells into the jar as an action, you can cast that spell from the jar: [detect evil and good](Compendium/spells/detect-evil-and-good.md), [detect magic](Compendium/spells/detect-magic.md), [detect poison and disease](Compendium/spells/detect-poison-and-disease.md), [find traps](Compendium/spells/find-traps.md), [identify](Compendium/spells/identify.md), or [locate animals or plants](Compendium/spells/locate-animals-or-plants.md). This property of the [whisper jar](Compendium/items/whisper-jar-ai.md) can't be used again until the next dawn.
 
-![Why Be a Loremonger?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/why-be-a-loremonger-ai.md)
+![Why Be a Loremonger?](Compendium/tables/why-be-a-loremonger-ai.md)
 
 ### Obviator
 
@@ -780,19 +780,19 @@ As an obviator, you hatch convoluted plots to fight the overwhelming odds presen
 
 **Position Proficiency**: In addition to the proficiencies noted below, you can add your proficiency bonus to an ability check to make sense of an enemy's tactics, discern a hidden threat, or intimidate a foe whose weaknesses you have previously assessed (see "Read the Opposition" below).
 
-![The Obviator](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-obviator-ai.md)
+![The Obviator](Compendium/tables/the-obviator-ai.md)
 
 #### Proficiencies and Starting Equipment
 
-As a rank 1 obviator, you gain proficiency with [alchemist's supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/alchemists-supplies.md).
+As a rank 1 obviator, you gain proficiency with [alchemist's supplies](Compendium/items/alchemists-supplies.md).
 
-Head office also grants you the use of [alchemist's supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/alchemists-supplies.md) (two glass beakers, a metal frame to hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and a pouch of common alchemical ingredients including salt, powdered iron, and purified water); your choice of a [vial of acid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/acid-vial.md), a [flask of alchemist's fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/alchemists-fire-flask.md), or a [vial of antitoxin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/antitoxin-vial.md); and a [hunting trap](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hunting-trap.md).
+Head Office also grants you the use of [alchemist's supplies](Compendium/items/alchemists-supplies.md) (two glass beakers, a metal frame to hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and a pouch of common alchemical ingredients including salt, powdered iron, and purified water); your choice of a [vial of acid](Compendium/items/acid-vial.md), a [flask of alchemist's fire](Compendium/items/alchemists-fire-flask.md), or a [vial of antitoxin](Compendium/items/antitoxin-vial.md); and a [hunting trap](Compendium/items/hunting-trap.md).
 
 #### Read the Opposition
 
-Also at rank 1, you can attempt to get a reading on one creature you can see, trying to learn useful information about it. As a bonus action, make a DC 15 Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check. On a success, you learn three details of your choice about the creature. Once you use this feature, you can't use it again until you finish a long rest. You can use this feature only once on any creature.
+Also at rank 1, you can attempt to get a reading on one creature you can see, trying to learn useful information about it. As a bonus action, make a DC 15 Wisdom ([Insight](Rules/skills.md#Insight)) check. On a success, you learn three details of your choice about the creature. Once you use this feature, you can't use it again until you finish a long rest. You can use this feature only once on any creature.
 
-> [!quote] A quote from [Omin Dran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/omin-dran-ai.md)  
+> [!quote] A quote from [Omin Dran](Compendium/bestiary/npc/omin-dran-ai.md)  
 > 
 > Obviation is as much a philosophy as it is a practice. It's not a good fit for those who want to remain... you know, fully alive.
 
@@ -802,13 +802,13 @@ Possible details you might learn include the creature's goals or motivation, bon
 
 At rank 2, you can use an action to use your alchemist's supplies to identify any unknown substance (including alchemical items, potions, and other magical substances). Once you use this feature, you cannot use it again until you finish a long rest.
 
-![Alchemist's Insight; Where You First Dabbled in Alchemy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/alchemists-insight-where-you-first-dabbled-in-alchemy-ai.md)
+![Alchemist's Insight; Where You First Dabbled in Alchemy](Compendium/tables/alchemists-insight-where-you-first-dabbled-in-alchemy-ai.md)
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/016-02-15.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/016-02-15.webp#center)
 
 #### Obviator's Lenses
 
-Also at rank 2, you gain the use of an uncommon magic item taking the form of a pair of spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look through the [obviator's lenses](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/obviators-lenses-ai.md), you use a bonus action to make them function as [eyes of minute seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eyes-of-minute-seeing.md) or [eyes of the eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eyes-of-the-eagle.md). Once you make this choice, it cannot be changed until the next dawn.
+Also at rank 2, you gain the use of an uncommon magic item taking the form of a pair of spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look through the [obviator's lenses](Compendium/items/obviators-lenses-ai.md), you use a bonus action to make them function as [eyes of minute seeing](Compendium/items/eyes-of-minute-seeing.md) or [eyes of the eagle](Compendium/items/eyes-of-the-eagle.md). Once you make this choice, it cannot be changed until the next dawn.
 
 > [!quote]  
 > 
@@ -818,19 +818,19 @@ Also at rank 2, you gain the use of an uncommon magic item taking the form of a 
 
 #### Advanced Preparations
 
-At rank 3, you gain the ability to declare that you're totally prepared. This preparedness takes the from of asking yourself one question, then making a DC 15 Intelligence ([History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)) check. On a success, you recall information you could have uncovered through earlier research about your mission. The information can be a discreet revelation, a vague hint, or even a riddle. Once you use this feature, you cannot use it again until you finish a long rest.
+At rank 3, you gain the ability to declare that you're totally prepared. This preparedness takes the from of asking yourself one question, then making a DC 15 Intelligence ([History](Rules/skills.md#History)) check. On a success, you recall information you could have uncovered through earlier research about your mission. The information can be a discreet revelation, a vague hint, or even a riddle. Once you use this feature, you cannot use it again until you finish a long rest.
 
-![Travel Alchemical Kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/017-02-16.webp#center)
+![Travel Alchemical Kit](Compendium/books/acquisitions-incorporated/img/017-02-16.webp#center)
 
 #### Travel Alchemical Kit
 
-Also at rank 3, Head Office provides you with a [travel alchemical kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/travel-alchemical-kit-ai.md)—an uncommon magic item containing miniaturized versions of both [alchemist's supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/alchemists-supplies.md) and a [poisoner's kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/poisoners-kit.md) (glass vials, a mortar and pestle, chemicals, and a glass stirring rod). You gain proficiency with a [poisoner's kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/poisoners-kit.md) as part of this upgrade.
+Also at rank 3, Head Office provides you with a [travel alchemical kit](Compendium/items/travel-alchemical-kit-ai.md)—an uncommon magic item containing miniaturized versions of both [alchemist's supplies](Compendium/items/alchemists-supplies.md) and a [poisoner's kit](Compendium/items/poisoners-kit.md) (glass vials, a mortar and pestle, chemicals, and a glass stirring rod). You gain proficiency with a [poisoner's kit](Compendium/items/poisoners-kit.md) as part of this upgrade.
 
-You can use this magical kit as long as it is on your person, with no need to draw or stow it. If you are ever searched, finding your [travel alchemical kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/travel-alchemical-kit-ai.md) requires a successful DC 20 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) or Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check.
+You can use this magical kit as long as it is on your person, with no need to draw or stow it. If you are ever searched, finding your [travel alchemical kit](Compendium/items/travel-alchemical-kit-ai.md) requires a successful DC 20 Intelligence ([Investigation](Rules/skills.md#Investigation)) or Wisdom ([Insight](Rules/skills.md#Insight)) check.
 
 #### Enhanced Lenses
 
-At rank 4, your [obviator's lenses](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/obviators-lenses-ai.md) gain additional power and become a rare magic item. The lenses now function as both [eyes of the eagle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eyes-of-the-eagle.md) and [eyes of minute seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eyes-of-minute-seeing.md).
+At rank 4, your [obviator's lenses](Compendium/items/obviators-lenses-ai.md) gain additional power and become a rare magic item. The lenses now function as both [eyes of the eagle](Compendium/items/eyes-of-the-eagle.md) and [eyes of minute seeing](Compendium/items/eyes-of-minute-seeing.md).
 
 Additionally, you can focus the power of the lenses to gain accuracy in combat, gaining advantage on a weapon attack roll (no action required). If that attack hits, roll one additional weapon damage die. This property of the lenses can't be used again until the next dawn.
 
@@ -838,7 +838,7 @@ Additionally, you can focus the power of the lenses to gain accuracy in combat, 
 
 Also at rank 4, when you use your Read the Opposition feature and fail the check, you still learn one detail about the target creature, as chosen by the DM. Additionally, you can use Read the Opposition more than once on the same creature, but if you do so, you cannot use that feature again on the same creature until you finish a long rest.
 
-![Why Be an Obviator?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/why-be-an-obviator-ai.md)
+![Why Be an Obviator?](Compendium/tables/why-be-an-obviator-ai.md)
 
 ### Occultant
 
@@ -856,19 +856,19 @@ Like all occultants, you are a grim and enigmatic figure. Even your closest comp
 
 **Position Proficiency**: In addition to the proficiencies noted below, you can add your proficiency bonus to an ability check to intimidate a creature close to death, assess what disease or poison killed a creature, or explain what that dead body is doing under your bed at the inn.
 
-![The Occultant](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-occultant-ai.md)
+![The Occultant](Compendium/tables/the-occultant-ai.md)
 
 #### Proficiencies and Starting Equipment
 
-As a rank 1 occultant, you gain proficiency with one of the following of your choice: [cook's utensils](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cooks-utensils.md), [leatherworker's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leatherworkers-tools.md), or [weaver's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/weavers-tools.md).
+As a rank 1 occultant, you gain proficiency with one of the following of your choice: [cook's utensils](Compendium/items/cooks-utensils.md), [leatherworker's tools](Compendium/items/leatherworkers-tools.md), or [weaver's tools](Compendium/items/weavers-tools.md).
 
-Head office also grants you the use of a tool kit for your chosen proficiency, a merchant's scale, five waterproof belt pouches in which to store creature parts or other tools, and a unique item known as an [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) (sometimes just referred to as an occultant), whose beads resemble tiny skulls.
+Head Office also grants you the use of a tool kit for your chosen proficiency, a merchant's scale, five waterproof belt pouches in which to store creature parts or other tools, and a unique item known as an [occultant abacus](Compendium/items/occultant-abacus-ai.md) (sometimes just referred to as an occultant), whose beads resemble tiny skulls.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/018-02-17.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/018-02-17.webp#center)
 
 #### Read the Kill
 
-Also at rank 1, your [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) not only tracks your franchise's kills, it helps you determine the impact of those kills on the franchise's fate. Over a period of 1 minute, you can study a creature killed by someone in your franchise within the last 24 hours, then grant the character who slew it a `d10`. Once within the next hour, that character can add the `d10` to an attack roll, ability check, or saving throw. If it's not clear who administered the killing blow, you grant this benefit to a random creature involved in the fight. Once you use this feature, you can't use it again until you finish a long rest.
+Also at rank 1, your [occultant abacus](Compendium/items/occultant-abacus-ai.md) not only tracks your franchise's kills, it helps you determine the impact of those kills on the franchise's fate. Over a period of 1 minute, you can study a creature killed by someone in your franchise within the last 24 hours, then grant the character who slew it a `d10`. Once within the next hour, that character can add the `d10` to an attack roll, ability check, or saving throw. If it's not clear who administered the killing blow, you grant this benefit to a random creature involved in the fight. Once you use this feature, you can't use it again until you finish a long rest.
 
 > [!quote]  
 > 
@@ -876,41 +876,41 @@ Also at rank 1, your [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%2
 
 ^tiefling-occultant-paladin
 
-![Ways to Read the Kill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/ways-to-read-the-kill-ai.md)
+![Ways to Read the Kill](Compendium/tables/ways-to-read-the-kill-ai.md)
 
 #### Eldritch Occultant
 
-Starting at rank 2, your [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) becomes an uncommon magic item that can track lives both eliminated and saved. While holding your *occultant abacus* within 5 feet of a creature killed within the past 24 hours, you can cast the [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md) spell. The course of action you inquire about with the spell does not need to have any connection to the dead creature. This property of the [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) can't be used again until the next dawn.
+Starting at rank 2, your [occultant abacus](Compendium/items/occultant-abacus-ai.md) becomes an uncommon magic item that can track lives both eliminated and saved. While holding your *occultant abacus* within 5 feet of a creature killed within the past 24 hours, you can cast the [augury](Compendium/spells/augury.md) spell. The course of action you inquire about with the spell does not need to have any connection to the dead creature. This property of the [occultant abacus](Compendium/items/occultant-abacus-ai.md) can't be used again until the next dawn.
 
 #### Bring Out Your Dead
 
 Also at rank 2, you regain the use of your Read the Kill feature after you finish a short or long rest.
 
-![Occultant Abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/019-02-18.webp#center)
+![Occultant Abacus](Compendium/books/acquisitions-incorporated/img/019-02-18.webp#center)
 
 #### Bead of Instant Karma
 
-At rank 3, one of the beads on your [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) channels the power of instant karma, turning the *occultant abacus* into a rare magic item. As a reaction, you can target one creature you can see that is about to attempt an ability check, attack roll, or saving throw, either granting advantage or imposing disadvantage on the roll. The bead crumbles to dust when used, reappearing on your [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) at the next dawn.
+At rank 3, one of the beads on your [occultant abacus](Compendium/items/occultant-abacus-ai.md) channels the power of instant karma, turning the *occultant abacus* into a rare magic item. As a reaction, you can target one creature you can see that is about to attempt an ability check, attack roll, or saving throw, either granting advantage or imposing disadvantage on the roll. The bead crumbles to dust when used, reappearing on your [occultant abacus](Compendium/items/occultant-abacus-ai.md) at the next dawn.
 
 #### Death's Omen
 
-Also at rank 3, you gain the ability to read the grim portents of a creature's demise. As a bonus action, choose a creature you can see that is below its hit point maximum and make a DC 15 Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check. On a success, you determine whether this creature's immediate death would have neutral, negative, or positive ramifications for you and your franchise. If the ramifications are different for you and the franchise, you learn this as well.
+Also at rank 3, you gain the ability to read the grim portents of a creature's demise. As a bonus action, choose a creature you can see that is below its hit point maximum and make a DC 15 Wisdom ([Insight](Rules/skills.md#Insight)) check. On a success, you determine whether this creature's immediate death would have neutral, negative, or positive ramifications for you and your franchise. If the ramifications are different for you and the franchise, you learn this as well.
 
 #### Bead of Diverted Karma
 
-At rank 4, one of the beads on your [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) allows you to divert karma to where it's needed, turning the [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) into a very rare magic item. While the bead is unused, you know automatically when any creature you can see is about to make an ability check, attack roll, or saving throw with disadvantage. When such a roll is made, you can use a reaction to grant a `d10` to a different creature you can see. That creature can add the `d10` to any ability check, attack roll, or saving throw it makes within the next minute. The bead crumbles to dust when used, reappearing on your [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) at the next dawn.
+At rank 4, one of the beads on your [occultant abacus](Compendium/items/occultant-abacus-ai.md) allows you to divert karma to where it's needed, turning the [occultant abacus](Compendium/items/occultant-abacus-ai.md) into a very rare magic item. While the bead is unused, you know automatically when any creature you can see is about to make an ability check, attack roll, or saving throw with disadvantage. When such a roll is made, you can use a reaction to grant a `d10` to a different creature you can see. That creature can add the `d10` to any ability check, attack roll, or saving throw it makes within the next minute. The bead crumbles to dust when used, reappearing on your [occultant abacus](Compendium/items/occultant-abacus-ai.md) at the next dawn.
 
 #### Correct the Balance
 
-As a rank 4 occultant, you learn that sometimes the death of a creature has unintended consequences. Within seven days of a creature's death, you can use your [occultant abacus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/occultant-abacus-ai.md) to divine ways to reverse or mitigate events resulting from that death. As an action, make a DC 15 Intelligence ([Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)) check. On a success, you learn the relevant information based on the nature of the creature and its place in the world.
+As a rank 4 occultant, you learn that sometimes the death of a creature has unintended consequences. Within seven days of a creature's death, you can use your [occultant abacus](Compendium/items/occultant-abacus-ai.md) to divine ways to reverse or mitigate events resulting from that death. As an action, make a DC 15 Intelligence ([Religion](Rules/skills.md#Religion)) check. On a success, you learn the relevant information based on the nature of the creature and its place in the world.
 
 If you fail the check, this property of the *occultant abacus* can't be used again until the next dawn. If you succeed on the check, this property can't be used again until dawn seven days later.
 
-> [!quote] A quote from [Jim Darkmagic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/jim-darkmagic-ai.md)  
+> [!quote] A quote from [Jim Darkmagic](Compendium/bestiary/npc/jim-darkmagic-ai.md)  
 > 
 > I don't really understand occultants, and to be honest, they scare the Abyss out of me.
 
-![Why Be an Occultant?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/why-be-an-occultant-ai.md)
+![Why Be an Occultant?](Compendium/tables/why-be-an-occultant-ai.md)
 
 ### Secretarian
 
@@ -928,33 +928,33 @@ As a secretarian, you are respected for having the fortitude to listen to both c
 
 **Position Proficiency**: In addition to the proficiencies noted below, you can add your proficiency bonus to an ability check to convince a suspicious crowd of your good (or at least non-evil) intentions, encourage franchise hirelings to work faster, or improvise a jingle extolling the virtues of your franchise.
 
-![The Secretarian](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-secretarian-ai.md)
+![The Secretarian](Compendium/tables/the-secretarian-ai.md)
 
 #### Proficiencies and Starting Equipment
 
-As a rank 1 secretarian, you gain proficiency with one of the following of your choice: gaming set, musical instrument, or [disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md).
+As a rank 1 secretarian, you gain proficiency with one of the following of your choice: gaming set, musical instrument, or [disguise kit](Compendium/items/disguise-kit.md).
 
-Head office also grants you the use of a tool kit for your chosen proficiency, a collection of sales brochures, a set of business cards, a metal bell, and a [set of fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md).
+Head Office also grants you the use of a tool kit for your chosen proficiency, a collection of sales brochures, a set of business cards, a metal bell, and a [set of fine clothes](Compendium/items/fine-clothes.md).
 
-> [!quote] A quote from [Omin Dran](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/omin-dran-ai.md)  
+> [!quote] A quote from [Omin Dran](Compendium/bestiary/npc/omin-dran-ai.md)  
 > 
 > My daughter Certainty created the secretarian role. Proved it out as a concept. I told her we didn't need them. I was wrong.
 
 #### Sending Stone
 
-Also at rank 1, you are given use of an Acquisitions Incorporated [sending stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sending-stone-ai.md), an uncommon magic item that resembles a gemstone in a bold setting. It functions like a normal [sending stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sending-stones.md), except that it has no matching stone and allows communication with Head Office, specific secretarians you know, and the secretarian nearest your location. You must succeed on a DC 15 Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check to establish contact. Once the stone is successfully used, it can't be used again until the next dawn.
+Also at rank 1, you are given use of an Acquisitions Incorporated [sending stone](Compendium/items/sending-stone-ai.md), an uncommon magic item that resembles a gemstone in a bold setting. It functions like a normal [sending stone](Compendium/items/sending-stones.md), except that it has no matching stone and allows communication with Head Office, specific secretarians you know, and the secretarian nearest your location. You must succeed on a DC 15 Intelligence ([Arcana](Rules/skills.md#Arcana)) check to establish contact. Once the stone is successfully used, it can't be used again until the next dawn.
 
-Making contact with another secretarian assumes that they are in possession of their own [sending stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sending-stone-ai.md).
+Making contact with another secretarian assumes that they are in possession of their own [sending stone](Compendium/items/sending-stone-ai.md).
 
-![Quirks of Your Sending Stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/quirks-of-your-sending-stone-ai.md)
+![Quirks of Your Sending Stone](Compendium/tables/quirks-of-your-sending-stone-ai.md)
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/020-02-19.webp#center)
+![](Compendium/books/acquisitions-incorporated/img/020-02-19.webp#center)
 
 #### Portfolio Keeper
 
-At rank 2, you gain the use of a weathered leather pouch that is an uncommon magic item. The [portfolio keeper](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portfolio-keeper-ai.md) holds and organizes notes, brochures, and business cards bearing your contact information. It also has an inexhaustible supply of brochures related to your franchise's current branding scheme.
+At rank 2, you gain the use of a weathered leather pouch that is an uncommon magic item. The [portfolio keeper](Compendium/items/portfolio-keeper-ai.md) holds and organizes notes, brochures, and business cards bearing your contact information. It also has an inexhaustible supply of brochures related to your franchise's current branding scheme.
 
-When you meet someone for the first time, their details and a rough sketch are magically stored on a small parchment card in the [portfolio keeper](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portfolio-keeper-ai.md). You can access the details of any such stored card as a bonus action.
+When you meet someone for the first time, their details and a rough sketch are magically stored on a small parchment card in the [portfolio keeper](Compendium/items/portfolio-keeper-ai.md). You can access the details of any such stored card as a bonus action.
 
 > [!quote]  
 > 
@@ -964,15 +964,15 @@ When you meet someone for the first time, their details and a rough sketch are m
 
 #### Rumor Mill
 
-Also at rank 2, whenever your franchise begins a major quest or mission, make a DC 15 Intelligence ([History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)) check. On a success, you can learn up to three rumors related to creatures or organizations involved in the mission, which come to you through your [sending stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sending-stone-ai.md). These rumors reflect current or historical knowledge possessed by Acquisitions Incorporated or the organization's many contacts.
+Also at rank 2, whenever your franchise begins a major quest or mission, make a DC 15 Intelligence ([History](Rules/skills.md#History)) check. On a success, you can learn up to three rumors related to creatures or organizations involved in the mission, which come to you through your [sending stone](Compendium/items/sending-stone-ai.md). These rumors reflect current or historical knowledge possessed by Acquisitions Incorporated or the organization's many contacts.
 
-![Sending Stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/acquisitions-incorporated/img/021-02-20.webp#center)
+![Sending Stone](Compendium/books/acquisitions-incorporated/img/021-02-20.webp#center)
 
 #### Cards of Sending
 
-At rank 3, the power of your *portfolio keeper* becomes more potent, making it a rare magic item. When you give out a business card stored in your [portfolio keeper](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portfolio-keeper-ai.md), you can choose to have the card allow its recipient to contact you through your [sending stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sending-stone-ai.md) as if they had cast a [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md) spell. A business card loses this power seven days after it has been given out, and no more than five cards can have this power at one time.
+At rank 3, the power of your *portfolio keeper* becomes more potent, making it a rare magic item. When you give out a business card stored in your [portfolio keeper](Compendium/items/portfolio-keeper-ai.md), you can choose to have the card allow its recipient to contact you through your [sending stone](Compendium/items/sending-stone-ai.md) as if they had cast a [sending](Compendium/spells/sending.md) spell. A business card loses this power seven days after it has been given out, and no more than five cards can have this power at one time.
 
-You can also use your [sending stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sending-stone-ai.md) to cast [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md) and contact anyone who has one of your business cards. Once you use this feature of the stone, you cannot use it again until dawn seven days later.
+You can also use your [sending stone](Compendium/items/sending-stone-ai.md) to cast [sending](Compendium/spells/sending.md) and contact anyone who has one of your business cards. Once you use this feature of the stone, you cannot use it again until dawn seven days later.
 
 #### Improved Rumor Mill
 
@@ -980,15 +980,15 @@ At rank 3, when you use your Rumor Mill feature, the DM provides you with a sens
 
 #### Always Hiring
 
-At rank 4, you have little trouble finding the right people for the job. As an action, while in a populated area, you can make a DC 15 Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) check to locate an NPC who can provide a service immediately, no questions asked, for the standard fee (see ""Services"" in chapter 5 of the "Player's Handbook"). On a successful check, information regarding the potential hire comes to you as supernatural insight, word of mouth, an advertisement blowing into your face, or a similarly convenient method. Once you use this feature, you cannot use it again until you finish a long rest.
+At rank 4, you have little trouble finding the right people for the job. As an action, while in a populated area, you can make a DC 15 Charisma ([Persuasion](Rules/skills.md#Persuasion)) check to locate an NPC who can provide a service immediately, no questions asked, for the standard fee (see ""Services"" in chapter 5 of the "Player's Handbook"). On a successful check, information regarding the potential hire comes to you as supernatural insight, word of mouth, an advertisement blowing into your face, or a similarly convenient method. Once you use this feature, you cannot use it again until you finish a long rest.
 
 Hirelings acquired through this feature are in addition to any franchise staff. They can be invited to bolster existing staff or fill a sudden need, but they are not part of the baseline staff gained through a franchise's rank. Their pay is not covered by the franchise's normal costs.
 
 #### Charming Introduction
 
-Also at rank 4, you are able to make a focused effort to keep a potential customer's attention. When you provide a humanoid with a business card from your [portfolio keeper](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portfolio-keeper-ai.md), you can cast [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md) on them (save DC 15). The spell ends prematurely if the character loses the business card.
+Also at rank 4, you are able to make a focused effort to keep a potential customer's attention. When you provide a humanoid with a business card from your [portfolio keeper](Compendium/items/portfolio-keeper-ai.md), you can cast [charm person](Compendium/spells/charm-person.md) on them (save DC 15). The spell ends prematurely if the character loses the business card.
 
-![Why Be a Secretarian?](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/why-be-a-secretarian-ai.md)
+![Why Be a Secretarian?](Compendium/tables/why-be-a-secretarian-ai.md)
 
 ## Franchise Tasks and Downtime
 
@@ -1020,7 +1020,7 @@ Staff allocated to a franchise task are no longer available for other needs, inc
 
 For example, a rank 2 franchise can undertake two concurrent franchise tasks. If the characters are setting out to explore the Swamp of Lingering Malaise, they might order their majordomo to send messages to various noble families while they're away, carrying out the sowing rumors activity from the "Dungeon Master's Guide". The task follows the regular rules for that downtime activity, but is carried out by the majordomo. At the same time, the characters might send out another staff member to engage in the explore territory activity (a new activity detailed below).
 
-> [!quote] A quote from [Rosie Beestinger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rosie-beestinger-ai.md)  
+> [!quote] A quote from [Rosie Beestinger](Compendium/bestiary/npc/rosie-beestinger-ai.md)  
 > 
 > You can't expect to get everything done yourself. Delegation is key. And the consequences for fumbling a simple task should be real, immediate, and serve as a lesson to others who serve you. No dessert for a tenday! That'll teach 'em.
 
@@ -1066,7 +1066,7 @@ Rather than treating franchise tasks as isolated episodes, the DM can weave the 
 > 
 > "Dungeon Master's Guide" (chapter 6): "Building a stronghold", "carousing", "crafting a magic item", "gaining renown", "performing sacred rites", "running a business", "selling magic items", "sowing rumors", "training to gain levels"
 > 
-> "Xanathar's Guide to Everything" (chapter 2): [Buying a magic item](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-buying-a-magic-item-xge.md), [carousing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-carousing-xge.md), [crafting an item](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-crafting-an-item-xge.md), [crime](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-crime-xge.md), [gambling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-gambling-xge.md), [pit fighting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-pit-fighting-xge.md), [relaxation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-relaxation-xge.md), [religious service](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-religious-service-xge.md), [research](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-research-xge.md), [scribing a spell scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md), [selling a magic item](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md), [training](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-training-xge.md), [work](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-activity-work-xge.md)
+> "Xanathar's Guide to Everything" (chapter 2): [Buying a magic item](Rules/variant-rules/downtime-activity-buying-a-magic-item-xge.md), [carousing](Rules/variant-rules/downtime-activity-carousing-xge.md), [crafting an item](Rules/variant-rules/downtime-activity-crafting-an-item-xge.md), [crime](Rules/variant-rules/downtime-activity-crime-xge.md), [gambling](Rules/variant-rules/downtime-activity-gambling-xge.md), [pit fighting](Rules/variant-rules/downtime-activity-pit-fighting-xge.md), [relaxation](Rules/variant-rules/downtime-activity-relaxation-xge.md), [religious service](Rules/variant-rules/downtime-activity-religious-service-xge.md), [research](Rules/variant-rules/downtime-activity-research-xge.md), [scribing a spell scroll](Rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md), [selling a magic item](Rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md), [training](Rules/variant-rules/downtime-activity-training-xge.md), [work](Rules/variant-rules/downtime-activity-work-xge.md)
 ^downtime-activities
 
 ### Complications and Rivals
@@ -1101,13 +1101,13 @@ The length of time required for these new downtime or franchise activities varie
 
 Some downtime and franchise activities alter a franchise's monthly costs. See the ""Franchise Advancement"" section earlier in this chapter for how to determine a franchise's base monthly costs, and see the ""Running a Franchise"" section below for more information on how that activity modifies the base cost.
 
-- [Explore Territory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-explore-territory-ai.md)  
-- [Franchise Restructuring](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-franchise-restructuring-ai.md)  
-- [Headquarters Modification](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-headquarters-modification-ai.md)  
-- [Marketeering](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-marketeering-ai.md)  
-- [Philanthropic Enterprise](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-philanthropic-enterprise-ai.md)  
-- [Running a Franchise](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-running-a-franchise-ai.md)  
-- [Scrutineering](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-scrutineering-ai.md)  
-- [Shady Business Practice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-shady-business-practice-ai.md)  
-- [Schmoozing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-schmoozing-ai.md)  
-- [Team Building](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/downtime-and-franchise-activity-team-building-ai.md)
+- [Explore Territory](Rules/variant-rules/downtime-and-franchise-activity-explore-territory-ai.md)  
+- [Franchise Restructuring](Rules/variant-rules/downtime-and-franchise-activity-franchise-restructuring-ai.md)  
+- [Headquarters Modification](Rules/variant-rules/downtime-and-franchise-activity-headquarters-modification-ai.md)  
+- [Marketeering](Rules/variant-rules/downtime-and-franchise-activity-marketeering-ai.md)  
+- [Philanthropic Enterprise](Rules/variant-rules/downtime-and-franchise-activity-philanthropic-enterprise-ai.md)  
+- [Running a Franchise](Rules/variant-rules/downtime-and-franchise-activity-running-a-franchise-ai.md)  
+- [Scrutineering](Rules/variant-rules/downtime-and-franchise-activity-scrutineering-ai.md)  
+- [Shady Business Practice](Rules/variant-rules/downtime-and-franchise-activity-shady-business-practice-ai.md)  
+- [Schmoozing](Rules/variant-rules/downtime-and-franchise-activity-schmoozing-ai.md)  
+- [Team Building](Rules/variant-rules/downtime-and-franchise-activity-team-building-ai.md)

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/7
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadar-kai Shadow Dancer
+- "Shadar-kai Shadow Dancer"
 ---
-# [Shadar-kai Shadow Dancer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/shadar-kai-shadow-dancer-mpmm.md)
+# [Shadar-kai Shadow Dancer](Compendium/bestiary/humanoid/shadar-kai-shadow-dancer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225*  
 
 Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
@@ -42,7 +43,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "subtype": "elf"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "3"
@@ -58,17 +59,15 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
   - "dexterity": !!int "6"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common, Elvish"
 "cr": "7"
 "traits":
-  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put it to sleep."
     "name": "Fey Ancestry"
 "actions":
@@ -79,12 +78,10 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
       \ (2d6 + 3) piercing damage. The target must succeed on a DC 14 Dexterity saving\
       \ throw or suffer one of the following effects (choose one or roll a d6):\n\n\
       - **1–2 Decay.** The target takes 22 (4d10) necrotic damage.  \n- **3–4 Grapple.**\
-      \ The target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends,\
-      \ the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ The target is [grappled](Rules/conditions.md#Grappled) (escape DC 14) if it\
+      \ is a Medium or smaller creature. Until the grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the shadar-kai can't grapple another target.  \n- **5–6 Topple.** The\
-      \ target is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \  "
+      \ target is knocked [prone](Rules/conditions.md#Prone).  "
     "name": "Spiked Chain"
 "bonus_actions":
   - "desc": "The shadar-kai teleports, along with any equipment is it wearing or carrying,\
@@ -94,7 +91,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/shadar-kai-shadow-dancer-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/shadar-kai-shadow-dancer-mpmm.webp"
 ```
 ^statblock
 

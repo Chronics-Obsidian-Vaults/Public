@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Guild Locations; Guild Location Goals
+- "Guild Locations; Guild Location Goals"
 ---
 # Guild Locations; Guild Location Goals
 *Source: Guildmasters' Guide to Ravnica p. 123* 

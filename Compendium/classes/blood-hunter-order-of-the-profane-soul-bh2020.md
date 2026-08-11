@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bh2020
 - source/subclass/blood-hunter/profane-soul
 aliases:
-- Order of the Profane Soul
+- "Order of the Profane Soul"
 ---
 # Order of the Profane Soul
 *[Blood Hunter](./blood-hunter-bh2020.md): Blood Hunter Order*  
@@ -43,12 +43,9 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Order of the Profane Soul (Level 3)
-
 Those who have taken to the Order of the Profane Soul have seen the limits of hemocraft against some of the most ancient and cruel fiends and terrors of the world. Unable to pursue beings of such power, creatures able to vanish amongst the nobles without a trace, or bend the mind of the most stalwart warrior with but a glance, this order trusted in the irresilience and delved into this same well of corrupting arcane knowledge, making pacts with lesser evils to better combat the greater. While they may have traded a part of themselves, members of this order believe the power gained far outweighs the price, for even devils now quake when they know they've drawn the attention of the Order of the Profane Soul.
+
+## Subclass Features
 
 ### Otherworldly Patron (Level 3)
 
@@ -58,27 +55,19 @@ When you reach 3rd level, you strike a bargain with an otherworldly being of you
 
 When you reach 3rd level, you can augment your combat techniques with the ability to cast spells. See "chapter 10" of the Player's Handbook for the general rules of spell casting and chapter 11 of the Player's Handbook for the Warlock spell list.
 
-#### Cantrips
+**Cantrips.** You learn two cantrips of your choice from the Warlock spell list. You learn an additional warlock cantrip of your choice at 10th level.
 
-You learn two cantrips of your choice from the Warlock spell list. You learn an additional warlock cantrip of your choice at 10th level.
-
-#### Spell Slots
-
-The Profane Soul Spellcasting table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your Warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+**Spell Slots.** The Profane Soul Spellcasting table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your Warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
 For example, when you are 8th level, you have two 2nd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 2nd-level spell.
 
-#### Spells Known of 1st Level and Higher
-
-At 3rd level, you know two 1st-level spells of your choice from the Warlock spell list.
+**Spells Known of 1st Level and Higher.** At 3rd level, you know two 1st-level spells of your choice from the Warlock spell list.
 
 The Spells Known column of the Profane Soul table shows when you learn more Warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 11th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.
 
 Additionally, when you gain a level in this class and order, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots.
 
-#### Spellcasting Ability
-
-Intelligence is your spell casting ability for your warlock spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Intelligence is your spell casting ability for your warlock spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC save DC**: Intelligence + Proficiency Bonus</span>
 
@@ -88,29 +77,17 @@ Intelligence is your spell casting ability for your warlock spells, so you use y
 
 Beginning at 3rd level, your weapon becomes a core to your pact with your chosen dark patron. While you have an active Crimson Rite, you can use your weapon as a spellcasting focus (found in "chapter 5" of the Player's Handbook) for your warlock spells, and you gain a specific benefit based on your chosen pact (outlined below).
 
-#### The Archfey
+**The Archfey.** When you deal rite damage to a creature, it glows with faint light until the end of your next turn. For the duration, the creature can't benefit from half cover, three-quarters cover, or being invisible.
 
-When you deal rite damage to a creature, it glows with faint light until the end of your next turn. For the duration, the creature can't benefit from half cover, three-quarters cover, or being invisible.
+**The Fiend.** When you hit a creature with your Rite of the Flame, if you roll a 1 or 2 on your hemocraft die, you can reroll the die. If you do so, you must use the new roll.
 
-#### The Fiend
+**The Great Old One.** When you score a critical hit against a creature while using the weapon, that creature is frightened of you until the end of your next turn.
 
-When you hit a creature with your Rite of the Flame, if you roll a 1 or 2 on your hemocraft die, you can reroll the die. If you do so, you must use the new roll.
+**The Undying.** Whenever you reduce a hostile creature to 0 hit points using a weapon, you regain a number of hit points equal to one roll of your hemocraft die.
 
-#### The Great Old One
+**The Celestial.** You can expend a use of your Blood Maledict feature as a bonus action to heal one creature that you can see within 60 feet of you. They regain a number of hit points equal to one roll of your hemocraft die + your Intelligence modifier (minimum of 1).
 
-When you score a critical hit against a creature while using the weapon, that creature is frightened of you until the end of your next turn.
-
-#### The Undying
-
-Whenever you reduce a hostile creature to 0 hit points using a weapon, you regain a number of hit points equal to one roll of your hemocraft die.
-
-#### The Celestial
-
-You can expend a use of your Blood Maledict feature as a bonus action to heal one creature that you can see within 60 feet of you. They regain a number of hit points equal to one roll of your hemocraft die + your Intelligence modifier (minimum of 1).
-
-#### The Hexblade
-
-Whenever you target a creature with a blood curse, your next attack against the cursed creature deals additional damage equal to your proficiency modifier.
+**The Hexblade.** Whenever you target a creature with a blood curse, your next attack against the cursed creature deals additional damage equal to your proficiency modifier.
 
 ### Mystic Frenzy (Level 7)
 
@@ -120,29 +97,17 @@ Starting at 7th level, when you use your action to cast a cantrip, you can immed
 
 At 7th level, your dark patron grants you the rare use of a dangerous arcane spell based on your pact.
 
-#### The Archfey
+**The Archfey.** You can cast [blur](Compendium/spells/blur.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
 
-You can cast [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
+**The Fiend.** You can cast [scorching ray](Compendium/spells/scorching-ray.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
 
-#### The Fiend
+**The Great Old One.** You can cast [detect thoughts](Compendium/spells/detect-thoughts.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
 
-You can cast [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
+**The Undying.** You can cast [blindness/deafness](Compendium/spells/blindness-deafness.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
 
-#### The Great Old One
+**The Celestial.** You can cast [lesser restoration](Compendium/spells/lesser-restoration.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
 
-You can cast [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
-
-#### The Undying
-
-You can cast [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
-
-#### The Celestial
-
-You can cast [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
-
-#### The Hexblade
-
-You can cast [branding smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/branding-smite.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
+**The Hexblade.** You can cast [branding smite](Compendium/spells/branding-smite.md) once using a pact magic spell slot. You can't do so again until you finish a long rest.
 
 ### Brand of the Sapping Scar (Level 11)
 
@@ -152,30 +117,18 @@ Upon reaching 11th level, your Brand of Castigation feature now digs dark, arcan
 
 At 15th level, your patron grants you the rare use of an additional arcane spell based on your pact.
 
-#### The Archfey
+**The Archfey.** You can cast [slow](Compendium/spells/slow.md) once without expending a spell slot. You can't do so again until you finish a long rest.
 
-You can cast [slow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/slow.md) once without expending a spell slot. You can't do so again until you finish a long rest.
+**The Fiend.** You can cast [fireball](Compendium/spells/fireball.md) once without expending a spell slot. You can't do so again until you finish a long rest.
 
-#### The Fiend
+**The Great Old One.** You can cast [haste](Compendium/spells/haste.md) once without expending a spell slot. You can't do so again until you finish a long rest.
 
-You can cast [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) once without expending a spell slot. You can't do so again until you finish a long rest.
+**The Undying.** You can cast [bestow curse](Compendium/spells/bestow-curse.md) once without expending a spell slot. You can't do so again until you finish a long rest.
 
-#### The Great Old One
+**The Celestial.** You can cast [revivify](Compendium/spells/revivify.md) once without expending a spell slot. You can't do so again until you finish a long rest.
 
-You can cast [haste](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/haste.md) once without expending a spell slot. You can't do so again until you finish a long rest.
-
-#### The Undying
-
-You can cast [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md) once without expending a spell slot. You can't do so again until you finish a long rest.
-
-#### The Celestial
-
-You can cast [revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md) once without expending a spell slot. You can't do so again until you finish a long rest.
-
-#### The Hexblade
-
-You can cast [blink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blink.md) once without expending a spell slot. You can't do so again until you finish a long rest.
+**The Hexblade.** You can cast [blink](Compendium/spells/blink.md) once without expending a spell slot. You can't do so again until you finish a long rest.
 
 ### Blood Curse of the Souleater (Level 18)
 
-Starting at 18th level, you've learned to siphon the soul from your fallen prey. You gain the [Blood Curse of the Souleater](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/blood-curse-of-the-souleater-bh2020.md) for your Blood Maledict feature. This does not count against your number of blood curses known.
+Starting at 18th level, you've learned to siphon the soul from your fallen prey. You gain the [Blood Curse of the Souleater](Compendium/optional-features/blood-curse-of-the-souleater-bh2020.md) for your Blood Maledict feature. This does not count against your number of blood curses known.

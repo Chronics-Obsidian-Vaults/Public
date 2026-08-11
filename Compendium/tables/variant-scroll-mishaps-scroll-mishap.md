@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Variant: Scroll Mishaps; Scroll Mishap
+- "Variant: Scroll Mishaps; Scroll Mishap"
 ---
 # Variant: Scroll Mishaps; Scroll Mishap
 *Source: Dungeon Master's Guide p. 140* 

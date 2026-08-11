@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/shield/
 - source/item/tier/major
-aliases: 
+aliases:
 - "Spellguard Shield"
 item_type: 
 item_subtype: 
@@ -15,8 +16,8 @@ rarity: very-rare
 attunement: required
 ---
 # Spellguard Shield
-*Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), major, very rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/spellguard-shield.webp#right)
+*Armor ([shield](Compendium/items/shield.md)), major, very rare (requires attunement)*  
+![](Compendium/items/img/spellguard-shield.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

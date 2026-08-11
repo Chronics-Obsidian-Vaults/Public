@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/dmg
 - source/reward/boon
 aliases:
-- Boon of Fortitude
+- "Boon of Fortitude"
 ---
 # Boon of Fortitude
 

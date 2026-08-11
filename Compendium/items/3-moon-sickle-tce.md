@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/weapon/melee
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "+3 Moon Sickle"
 item_type: weapon
 item_subtype: "melee, simple"
@@ -15,11 +16,11 @@ rarity: very-rare
 attunement: required
 ---
 # +3 Moon Sickle
-*Weapon ([sickle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sickle.md)), very rare (requires attunement by a druid or ranger)*  
+*Weapon ([sickle](Compendium/items/sickle.md)), very rare (requires attunement by a druid or ranger)*  
 
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Light](Rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 This silver-bladed sickle glimmers softly with moonlight. While holding this magic weapon, you gain a +3 bonus to attack and damage rolls made with it, and you gain a +3 bonus to spell attack rolls and the saving throw DCs of your druid and ranger spells. In addition, you can use the sickle as a spellcasting focus for your druid and ranger spells.

@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/rarity/common
-aliases: 
+aliases:
 - "Shiftweave"
 item_type: 
 item_subtype: 

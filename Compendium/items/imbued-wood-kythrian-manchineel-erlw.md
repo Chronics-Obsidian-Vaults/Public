@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/attunement/required
@@ -8,7 +9,7 @@ tags:
 - source/item/rarity/common
 - source/item/weapon/simple
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Imbued Wood (Kythrian Manchineel)"
 - "Kythrian Manchineel Rod"
 - "Kythrian Manchineel Staff"
@@ -41,7 +42,7 @@ When you cast a damage-dealing spell using this item as your spellcasting focus,
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Kythrian Manchineel Wand

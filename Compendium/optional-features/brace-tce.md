@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/optional-feature/mv-b
 aliases:
-- Brace
+- "Brace"
 ---
 # Brace
 *Source: Tasha's Cauldron of Everything p. 42*  

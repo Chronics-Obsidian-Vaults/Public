@@ -9,7 +9,7 @@ tags:
 - source/optional-feature/fs-p
 - source/optional-feature/fs-r
 aliases:
-- Dueling
+- "Dueling"
 ---
 # Dueling
 *Source: Player's Handbook, Xanathar's Guide to Everything p. 15. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Azer
+- "Azer"
 ---
-# [Azer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/azer.md)
+# [Azer](Compendium/bestiary/elemental/azer.md)
 *Source: Monster Manual p. 22. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
@@ -49,7 +50,7 @@ An azer doesn't require food, drink, or sleep.
 "type": "elemental"
 "alignment": "Lawful Neutral"
 "ac": !!int "17"
-"ac_class": "natural armor, [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "natural armor, [shield](Compendium/items/shield.md)"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "1"
@@ -64,7 +65,9 @@ An azer doesn't require food, drink, or sleep.
 "saves":
   - "constitution": !!int "4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[warhammer](Compendium/items/warhammer.md)"
 "senses": "passive Perception 11"
 "languages": "Ignan"
 "cr": "2"
@@ -85,6 +88,6 @@ An azer doesn't require food, drink, or sleep.
     "name": "Warhammer"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/azer.webp"
+"image": "Compendium/bestiary/elemental/token/azer.webp"
 ```
 ^statblock

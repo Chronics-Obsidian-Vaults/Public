@@ -1,15 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/egw
 - source/spell/class/bard/magical-secrets
 - source/spell/level/1st-level
 - source/spell/school/transmutation
+- source/spell/subclass/chronurgy-magic
+- source/spell/subclass/graviturgy-magic
 classes:
 - Bard (Magical Secrets)
+- Wizard (Chronurgy Magic)
+- Wizard (Graviturgy Magic)
 aliases:
-- Magnify Gravity
+- "Magnify Gravity"
 level: 1
 school: transmutation
 ritual: false
@@ -35,6 +40,6 @@ Until the start of your next turn, any object that isn't being worn or carried i
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d8` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Wizard (Chronurgy Magic)](Compendium/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW"); [Wizard (Graviturgy Magic)](Compendium/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW")
 
 *Source: Explorer's Guide to Wildemount p. 188*

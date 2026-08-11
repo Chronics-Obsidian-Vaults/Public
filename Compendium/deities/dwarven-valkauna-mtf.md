@@ -7,8 +7,8 @@ tags:
 - source/deity/dwarven
 - source/domain/grave
 - source/domain/life
-aliases: 
-- Valkauna
+aliases:
+- "Valkauna"
 ---
 # Valkauna
 *Source: Mordenkainen's Tome of Foes p. 73* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rosie Beestinger
+- "Rosie Beestinger"
 ---
-# [Rosie Beestinger](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/rosie-beestinger-ai.md)
+# [Rosie Beestinger](Compendium/bestiary/npc/rosie-beestinger-ai.md)
 *Source: Acquisitions Incorporated p. 203*  
 
 > [!quote]  
@@ -45,13 +46,13 @@ Rosie's goals have always been more complex than merely seeking after adventure.
   - "strength": !!int "1"
   - "dexterity": !!int "5"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+3"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "senses": "passive Perception 12"
 "languages": "Common, Draconic, Elvish, Halfling"
@@ -59,16 +60,13 @@ Rosie's goals have always been more complex than merely seeking after adventure.
 "traits":
   - "desc": "Rosie's innate spellcasting ability is Wisdom (spell save DC 12). She\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [sacred flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sacred-flame.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1/day each:** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkvision.md),\
-      \ [pass without trace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pass-without-trace.md),\
-      \ [silence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silence.md)"
+      \n**At will:** [minor illusion](Compendium/spells/minor-illusion.md), [sacred\
+      \ flame](Compendium/spells/sacred-flame.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1/day each:** [command](Compendium/spells/command.md), [darkness](Compendium/spells/darkness.md),\
+      \ [darkvision](Compendium/spells/darkvision.md), [pass without trace](Compendium/spells/pass-without-trace.md),\
+      \ [silence](Compendium/spells/silence.md)"
     "name": "Innate Spellcasting"
-  - "desc": "Rosie has advantage on saving throws against being [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+  - "desc": "Rosie has advantage on saving throws against being [frightened](Rules/conditions.md#Frightened)."
     "name": "Brave"
   - "desc": "Rosie can move through the space of any creature that is of a size larger\
       \ than hers."
@@ -76,7 +74,7 @@ Rosie's goals have always been more complex than merely seeking after adventure.
   - "desc": "If Rosie is subjected to an effect that allows her to make a Dexterity\
       \ saving throw to take only half damage, she instead takes no damage if she\
       \ succeeds on the saving throw, and only half damage if she fails. She can't\
-      \ use this trait if she's [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ use this trait if she's [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Evasion"
   - "desc": "When Rosie is in dim light or darkness, she can use a bonus action to\
       \ teleport 60 feet to an unoccupied space she can see that is also in dim light\
@@ -101,6 +99,6 @@ Rosie's goals have always been more complex than merely seeking after adventure.
     "name": "Deflect Missiles"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/rosie-beestinger-ai.webp"
+"image": "Compendium/bestiary/npc/token/rosie-beestinger-ai.webp"
 ```
 ^statblock

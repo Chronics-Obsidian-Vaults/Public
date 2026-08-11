@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shifter
+- "Shifter"
 ---
-# [Shifter](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/shifter-erlw.md)
+# [Shifter](Compendium/bestiary/humanoid/shifter-erlw.md)
 *Source: Eberron: Rising from the Last War p. 319*  
 
 Shifters are tied to primal spirits, which most of them refer to as the beast within. They are lithe of form and have bestial features: large eyes, flat noses, pointed ears, and light fur over much of their bodies. When a shifter fully embraces the beast within by "shifting," these features become even more pronounced.
@@ -23,7 +24,7 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
 "subtype": "shifter"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "19"
 "hit_dice": "3d8 + 6"
 "modifier": !!int "3"
@@ -36,16 +37,17 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Common"
 "cr": "1/2"
 "traits":
@@ -63,6 +65,6 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
     "name": "Bite"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/shifter-erlw.webp"
+"image": "Compendium/bestiary/humanoid/token/shifter-erlw.webp"
 ```
 ^statblock

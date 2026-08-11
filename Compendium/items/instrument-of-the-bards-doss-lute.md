@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/gear/instrument
 - source/item/rarity/uncommon
 - source/item/tier/major
-aliases: 
+aliases:
 - "Instrument of the Bards, Doss Lute"
 item_type: 
 item_subtype: 
@@ -15,8 +16,8 @@ rarity: uncommon
 attunement: required
 ---
 # Instrument of the Bards, Doss Lute
-*Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/instrument-of-the-bards-doss-lute.webp#right)
+*Wondrous item, instrument ([lute](Compendium/items/lute.md)), major, uncommon (requires attunement by a bard)*  
+![](Compendium/items/img/instrument-of-the-bards-doss-lute.webp#right)
 
 - **Weight**: 2.0 lbs.
 
@@ -24,10 +25,10 @@ An instrument of the bards is an exquisite example of its kind, superior to an o
 
 You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
-You can play the instrument while casting a spell that causes any of its targets to be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component.
+You can play the instrument while casting a spell that causes any of its targets to be [charmed](Rules/conditions.md#Charmed) on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component.
 
-All instruments of the bards can be used to cast the following spells: [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md), [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md), [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md), and [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md).
+All instruments of the bards can be used to cast the following spells: [fly](Compendium/spells/fly.md), [invisibility](Compendium/spells/invisibility.md), [levitate](Compendium/spells/levitate.md), and [protection from evil and good](Compendium/spells/protection-from-evil-and-good.md).
 
-In addition, the Doss lute can be used to cast [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md), [protection from energy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-energy.md) (fire only), and [protection from poison](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-poison.md).
+In addition, the Doss lute can be used to cast [animal friendship](Compendium/spells/animal-friendship.md), [protection from energy](Compendium/spells/protection-from-energy.md) (fire only), and [protection from poison](Compendium/spells/protection-from-poison.md).
 
 *Source: Dungeon Master's Guide p. 176*

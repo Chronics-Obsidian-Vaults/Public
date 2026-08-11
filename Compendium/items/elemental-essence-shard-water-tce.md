@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Elemental Essence Shard (Water)"
 item_type: 
 item_subtype: 
@@ -13,7 +15,7 @@ rarity: rare
 attunement: required
 ---
 # Elemental Essence Shard (Water)
-*Wondrous item, rare (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
 
 - **Weight**: 1.0 lbs.
@@ -24,6 +26,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes `2d6` cold damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).
+You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes `2d6` cold damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall [prone](Rules/conditions.md#Prone).
 
 *Source: Tasha's Cauldron of Everything p. 127*

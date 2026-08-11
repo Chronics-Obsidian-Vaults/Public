@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/very-rare
 - source/item/tier/minor
 - source/item/wondrous/potion
-aliases: 
+aliases:
 - "Oil of Sharpness"
 item_type: wondrous
 item_subtype: potion

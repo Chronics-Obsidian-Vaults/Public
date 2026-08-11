@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Tiefling Names – Male
+- "Tiefling Names – Male"
 ---
 # Tiefling Names – Male
 *Source: Xanathar's Guide to Everything p. 180* 

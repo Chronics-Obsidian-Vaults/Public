@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/treasure-coinage
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Platinum (pp)"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Platinum (pp)
 *Treasure (coinage)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/platinum-pp.webp#right)
+![](Compendium/items/img/platinum-pp.webp#right)
 
 - **Cost**: 10 gp
 - **Weight**: 0.02 lbs.

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/rarity/common
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Heward's Handy Spice Pouch"
 item_type: 
 item_subtype: 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- What Happens Next?; Home Base
+- "What Happens Next?; Home Base"
 ---
 # What Happens Next?; Home Base
 *Source: Eberron: Rising from the Last War p. 240* 

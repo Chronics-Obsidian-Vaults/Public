@@ -1,12 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/warlock
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/5th-level
 - source/spell/school/enchantment
 classes:
@@ -15,7 +17,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Synaptic Static
+- "Synaptic Static"
 level: 5
 school: enchantment
 ritual: false
@@ -37,8 +39,8 @@ components_vsm: [V, S]
 
 You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence saving throw. A creature with an Intelligence score of 2 or lower can't be affected by this spell. A target takes `8d6` psychic damage on a failed save, or half as much damage on a successful one.
 
-After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a `d6` and subtracts the number rolled from all its attack rolls and ability checks, as well as its Constitution saving throws to maintain [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration). The target can make an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
+After a failed save, a target has muddled thoughts for 1 minute. During that time, it rolls a `d6` and subtracts the number rolled from all its attack rolls and ability checks, as well as its Constitution saving throws to maintain [concentration](Rules/conditions.md#Concentration). The target can make an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 167*

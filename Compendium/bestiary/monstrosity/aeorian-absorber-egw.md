@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/10
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aeorian Absorber
+- "Aeorian Absorber"
 ---
-# [Aeorian Absorber](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/aeorian-absorber-egw.md)
+# [Aeorian Absorber](Compendium/bestiary/monstrosity/aeorian-absorber-egw.md)
 *Source: Explorer's Guide to Wildemount p. 283*  
 
 Resembling some sort of canine or feline quadruped at a distance, the absorber's monstrous nature becomes quickly apparent as it closes in. Named for its ability to draw magical energy into its body, the absorber can release that energy in devastating blasts through its tail, whose eye is constantly on the lookout for prey.
@@ -60,15 +61,14 @@ Aeorian hunters don't require food or drink.
   - "wisdom": !!int "6"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+6"
 "damage_immunities": "necrotic, radiant"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": "understands Draconic but can't speak"
 "cr": "10"
 "traits":
@@ -77,9 +77,9 @@ Aeorian hunters don't require food or drink.
     "name": "Magic Resistance"
   - "desc": "If the absorber moves at least 20 feet straight toward a creature and\
       \ then hits its claws attack on the same turn, that target must succeed on a\
-      \ DC 17 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ If the target is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ the absorber can make one bite attack against it as a bonus action."
+      \ DC 17 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
+      \ If the target is [prone](Rules/conditions.md#Prone), the absorber can make\
+      \ one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
   - "desc": "The absorber makes three attacks: one with its bite or Mind Bolt and\
@@ -102,6 +102,6 @@ Aeorian hunters don't require food or drink.
     "name": "Tail Ray"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/aeorian-absorber-egw.webp"
+"image": "Compendium/bestiary/monstrosity/token/aeorian-absorber-egw.webp"
 ```
 ^statblock

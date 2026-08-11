@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/22
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Illithilich
+- "Illithilich"
 ---
-# [Illithilich](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/illithilich-vgm.md)
+# [Illithilich](Compendium/bestiary/undead/illithilich-vgm.md)
 *Source: Volo's Guide to Monsters p. 172*  
 
 Mind flayers that pursue arcane magic are exiled as deviants, and for them no eternal communion with an elder brain is possible. The road to lichdom offers a way to escape the permanency of death, but that path is long and solitary. Alhoons are mind flayers that use a shortcut.
@@ -53,7 +54,7 @@ Unlike with true lichdom, the periapt of mind trapping doesn't restore the alhoo
 
 ## Variant: Mind Flayer Lich (Illithilich)
 
-The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [imprisonment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/imprisonment.md) spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
+The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [imprisonment](Compendium/spells/imprisonment.md) spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
 
 - It has a challenge rating of 22 (41,000 XP).  
 - It speaks Deep Speech and Undercommon, and has telepathy out to a range of 120 feet.  
@@ -76,15 +77,15 @@ The lich's innate spellcasting ability is Intelligence (spell save DC 20). It ca
 
 ### Tentacles
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 21 (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned) until this grapple ends.
+Melee Weapon Attack: `+12` to hit, reach 5 ft., one creature. Hit: 21 (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [grappled](Rules/conditions.md#Grappled) (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [stunned](Rules/conditions.md#Stunned) until this grapple ends.
 
 ### Extract Brain
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) humanoid [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) by the lich. Hit: 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
+Melee Weapon Attack: `+12` to hit, reach 5 ft., one [incapacitated](Rules/conditions.md#Incapacitated) humanoid [grappled](Rules/conditions.md#Grappled) by the lich. Hit: 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
 
 ### Mind Blast (Recharge 5-6)
 
-The lich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (`5d8 + 5`) psychic damage and be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+The lich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (`5d8 + 5`) psychic damage and be [stunned](Rules/conditions.md#Stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Illithilich Legendary Actions
 
@@ -129,63 +130,49 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
   - "intelligence": !!int "12"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+19"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+12"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 19"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 19"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "22"
 "traits":
   - "desc": "The illithilich is an 18th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich\
       \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [mage\
-      \ hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md),\
-      \ [ray of frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md)\n\
-      \n**1st level (4 slots):** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md),\
-      \ [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md)\n\
-      \n**2nd level (3 slots):** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [Melf's acid arrow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/melfs-acid-arrow.md),\
-      \ [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md)\n\
-      \n**3rd level (3 slots):** [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md),\
-      \ [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)\n\
-      \n**4th level (3 slots):** [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md),\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md)\n\
-      \n**5th level (3 slots):** [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)\n\
-      \n**6th level (1 slots):** [disintegrate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disintegrate.md),\
-      \ [globe of invulnerability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/globe-of-invulnerability.md)\n\
-      \n**7th level (1 slots):** [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\n\
-      \n**8th level (1 slots):** [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md),\
-      \ [power word stun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-stun.md)\n\
-      \n**9th level (1 slots):** [power word kill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-kill.md)"
+      \ hand](Compendium/spells/mage-hand.md), [prestidigitation](Compendium/spells/prestidigitation.md),\
+      \ [ray of frost](Compendium/spells/ray-of-frost.md)\n\n**1st level (4 slots):**\
+      \ [detect magic](Compendium/spells/detect-magic.md), [magic missile](Compendium/spells/magic-missile.md),\
+      \ [shield](Compendium/spells/shield.md), [thunderwave](Compendium/spells/thunderwave.md)\n\
+      \n**2nd level (3 slots):** [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [invisibility](Compendium/spells/invisibility.md), [Melf's acid arrow](Compendium/spells/melfs-acid-arrow.md),\
+      \ [mirror image](Compendium/spells/mirror-image.md)\n\n**3rd level (3 slots):**\
+      \ [animate dead](Compendium/spells/animate-dead.md), [counterspell](Compendium/spells/counterspell.md),\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [fireball](Compendium/spells/fireball.md)\n\
+      \n**4th level (3 slots):** [blight](Compendium/spells/blight.md), [dimension\
+      \ door](Compendium/spells/dimension-door.md)\n\n**5th level (3 slots):** [cloudkill](Compendium/spells/cloudkill.md),\
+      \ [scrying](Compendium/spells/scrying.md)\n\n**6th level (1 slots):** [disintegrate](Compendium/spells/disintegrate.md),\
+      \ [globe of invulnerability](Compendium/spells/globe-of-invulnerability.md)\n\
+      \n**7th level (1 slots):** [finger of death](Compendium/spells/finger-of-death.md),\
+      \ [plane shift](Compendium/spells/plane-shift.md)\n\n**8th level (1 slots):**\
+      \ [dominate monster](Compendium/spells/dominate-monster.md), [power word stun](Compendium/spells/power-word-stun.md)\n\
+      \n**9th level (1 slots):** [power word kill](Compendium/spells/power-word-kill.md)"
     "name": "Spellcasting"
   - "desc": "The illithilich's innate spellcasting ability is Intelligence (spell\
       \ save DC 20). It can innately cast the following spells, requiring no components.\n\
-      \n**At will:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\n\
-      \n**1/day each:** [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ (self only)"
+      \n**At will:** [detect thoughts](Compendium/spells/detect-thoughts.md), [levitate](Compendium/spells/levitate.md)\n\
+      \n**1/day each:** [dominate monster](Compendium/spells/dominate-monster.md),\
+      \ [plane shift](Compendium/spells/plane-shift.md) (self only)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "If the illithilich fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -202,25 +189,23 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 "actions":
   - "desc": "*Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10\
       \ (3d6) cold damage. The target must succeed on a DC 18 Constitution saving\
-      \ throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ throw or be [paralyzed](Rules/conditions.md#Paralyzed) for 1 minute. The target\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Paralyzing Touch"
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one creature. *Hit:*\
-      \ 21 (3d10 + 5) psychic damage. If the target is Large or smaller, it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ 21 (3d10 + 5) psychic damage. If the target is Large or smaller, it is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until this grapple ends."
+      \ [stunned](Rules/conditions.md#Stunned) until this grapple ends."
     "name": "Tentacles"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ humanoid [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by the lich. *Hit:* 55 (10d10) piercing damage. If this damage reduces the\
-      \ target to 0 hit points, the lich kills the target by extracting and devouring\
-      \ its brain."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one [incapacitated](Rules/conditions.md#Incapacitated)\
+      \ humanoid [grappled](Rules/conditions.md#Grappled) by the lich. *Hit:* 55 (10d10)\
+      \ piercing damage. If this damage reduces the target to 0 hit points, the lich\
+      \ kills the target by extracting and devouring its brain."
     "name": "Extract Brain"
   - "desc": "The illithilich magically emits psychic energy in a 60-foot cone. Each\
       \ creature in that area must succeed on a DC 18 Intelligence saving throw or\
-      \ take 27 (5d8 + 5) psychic damage and be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ take 27 (5d8 + 5) psychic damage and be [stunned](Rules/conditions.md#Stunned)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
@@ -259,7 +244,7 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
     "name": "Cast Spell (Costs 1–3 Actions)"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/illithilich-vgm.webp"
+"image": "Compendium/bestiary/undead/token/illithilich-vgm.webp"
 ```
 ^statblock
 

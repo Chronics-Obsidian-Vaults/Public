@@ -1,11 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
+- source/item/gear/spellcasting-focus
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Bell Branch"
 item_type: 
 item_subtype: 
@@ -13,7 +15,7 @@ rarity: rare
 attunement: required
 ---
 # Bell Branch
-*Wondrous item, rare (requires attunement by a druid or warlock)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a druid or warlock)*  
 
 
 
@@ -22,6 +24,6 @@ This silver implement is shaped like a tree branch and is strung with small gold
 The branch has 3 charges, and it regains `1d3` expended charges daily at dawn. You can use the charges in the following ways while holding it:
 
 - As a bonus action, you can expend 1 charge to detect the presence of aberrations, celestials, constructs, elementals, fey, fiends, or undead within 60 feet of you. If such creatures are present and don't have total cover from you, the bells ring softly, their tone indicating the creature types present.  
-- As an action, you can expend 1 charge to cast [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md).  
+- As an action, you can expend 1 charge to cast [protection from evil and good](Compendium/spells/protection-from-evil-and-good.md).  
 
 *Source: Tasha's Cauldron of Everything p. 122*

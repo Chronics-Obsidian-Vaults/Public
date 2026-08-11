@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/cmpx
 aliases:
-- Path of Blades
+- "Path of Blades"
 ---
 # Path of Blades
 *Generic Hazard*  

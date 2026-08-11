@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Mystery Guilds
+- "Mystery Guilds"
 ---
 # Mystery Guilds
 *Source: Guildmasters' Guide to Ravnica p. 125* 

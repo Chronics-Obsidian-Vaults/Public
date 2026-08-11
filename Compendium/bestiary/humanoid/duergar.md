@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar
+- "Duergar"
 ---
-# [Duergar](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/duergar.md)
-*Source: Monster Manual p. 122, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Duergar](Compendium/bestiary/humanoid/duergar.md)
+*Source: Monster Manual p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
 
@@ -31,7 +32,7 @@ Like dwarves, duergar have strong constitutions. Adding to their physical stamin
 
 ## Born of Darkness
 
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](Rules/conditions.md#Invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](Rules/senses.md#Darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
 
 ## Infernal Master
 
@@ -44,8 +45,7 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 "subtype": "dwarf"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[scale mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scale-mail.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[scale mail](Compendium/items/scale-mail.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "0"
@@ -58,18 +58,20 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
+  - "[war pick](Compendium/items/war-pick.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "1"
 "traits":
   - "desc": "The duergar has advantage on saving throws against poison, spells, and\
-      \ illusions, as well as to resist being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)."
+      \ illusions, as well as to resist being [charmed](Rules/conditions.md#Charmed)\
+      \ or [paralyzed](Rules/conditions.md#Paralyzed)."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "For 1 minute, the duergar magically increases in size, along with anything\
@@ -86,16 +88,15 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing\
       \ damage while enlarged."
     "name": "Javelin"
-  - "desc": "The duergar magically turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ until it attacks, casts a spell, or uses its Enlarge, or until its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ is broken, up to 1 hour (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). Any equipment the duergar wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The duergar magically turns [invisible](Rules/conditions.md#Invisible)\
+      \ until it attacks, casts a spell, or uses its Enlarge, or until its [concentration](Rules/conditions.md#Concentration)\
+      \ is broken, up to 1 hour (as if [concentrating](Rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the duergar wears or carries is [invisible](Rules/conditions.md#Invisible)\
       \ with it."
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/duergar.webp"
+"image": "Compendium/bestiary/humanoid/token/duergar.webp"
 ```
 ^statblock
 

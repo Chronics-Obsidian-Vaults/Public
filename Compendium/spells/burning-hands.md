@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/rakdos-cultist
@@ -8,6 +9,7 @@ tags:
 - source/spell/class/sorcerer
 - source/spell/class/wizard
 - source/spell/feat/aberrant-dragonmark
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/feat/magic-initiate/wizard-spells
 - source/spell/level/1st-level
 - source/spell/optfeature/sweeping-cinder-strike
@@ -18,7 +20,7 @@ tags:
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/light-domain
 - source/spell/subclass/the-fiend
-- source/spell/subclass/the-genie/efreeti
+- source/spell/subclass/the-genie
 - source/spell/subclass/way-of-the-sun-soul
 - source/spell/subrace/genasi-fire
 - source/spell/subrace/tiefling-hellfire
@@ -32,10 +34,10 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock (The Fiend)
-- Warlock (The Genie, Efreeti)
+- Warlock (The Genie)
 - Wizard
 aliases:
-- Burning Hands
+- "Burning Hands"
 level: 1
 school: evocation
 ritual: false
@@ -48,7 +50,7 @@ components_vsm: [V, S]
 ---
 # Burning Hands
 *1st-level, Evocation*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/img/burning-hands.webp#right)
+![](Compendium/spells/img/burning-hands.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self (15-foot Cone)
@@ -61,6 +63,6 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-light-domain.md); [Druid (Circle of Wildfire)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Monk (Way of the Sun Soul)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-way-of-the-sun-soul-xge.md "subclass=XGE"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Fiend)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-fiend.md); [Warlock (The Genie, Efreeti)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain.md); [Druid (Circle of Wildfire)](Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Monk (Way of the Sun Soul)](Compendium/lists/list-spells-classes-way-of-the-sun-soul-xge.md "subclass=XGE"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Fiend)](Compendium/lists/list-spells-classes-the-fiend.md); [Warlock (The Genie)](Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

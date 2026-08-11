@@ -6,12 +6,12 @@ tags:
 - source/compendium/src/5e/xge
 - source/feat
 aliases:
-- Elven Accuracy
+- "Elven Accuracy"
 ---
 # Elven Accuracy
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [Elf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/elf.md) or [Half-Elf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/half-elf.md)
+**Prerequisite**: [Elf](Compendium/races/elf.md) or [Khoravar](Compendium/races/khoravar-efa.md)
 
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
 

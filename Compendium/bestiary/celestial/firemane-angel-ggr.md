@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/12
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Firemane Angel
+- "Firemane Angel"
 ---
-# [Firemane Angel](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/firemane-angel-ggr.md)
+# [Firemane Angel](Compendium/bestiary/celestial/firemane-angel-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 190*  
 
 Firemane angels are holy champions and paragons of war who specialize in single combat. They are powerful warriors who seek out the mightiest foes in any conflict, trusting lesser soldiers to handle lesser opponents.
@@ -34,7 +35,7 @@ The wisest, most visionary angels are responsible for forming and implementing t
 "type": "celestial"
 "alignment": "Chaotic Good"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
 "modifier": !!int "2"
@@ -51,26 +52,25 @@ The wisest, most visionary angels are responsible for forming and implementing t
   - "wisdom": !!int "6"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "fire; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 16"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 16"
 "languages": "all"
 "cr": "12"
 "traits":
   - "desc": "The angel's innate spellcasting ability is Charisma (spell save DC 18,\
       \ +10 to hit with spell attacks). The angel can innately cast the following\
-      \ spells, requiring no material components:\n\n**3/day each:** [compelled duel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compelled-duel.md),\
-      \ [guiding bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guiding-bolt.md)\
-      \ (as a 5th-level spell)\n\n**1/day each:** [daylight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/daylight.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)\
+      \ spells, requiring no material components:\n\n**3/day each:** [compelled duel](Compendium/spells/compelled-duel.md),\
+      \ [guiding bolt](Compendium/spells/guiding-bolt.md) (as a 5th-level spell)\n\
+      \n**1/day each:** [daylight](Compendium/spells/daylight.md), [fireball](Compendium/spells/fireball.md)\
       \ (as a 6th-level spell)"
     "name": "Innate Spellcasting"
   - "desc": "The angel doesn't provoke an opportunity attack when it flies out of\
@@ -91,6 +91,6 @@ The wisest, most visionary angels are responsible for forming and implementing t
     "name": "Longsword"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/firemane-angel-ggr.webp"
+"image": "Compendium/bestiary/celestial/token/firemane-angel-ggr.webp"
 ```
 ^statblock

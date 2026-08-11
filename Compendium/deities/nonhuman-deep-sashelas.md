@@ -7,8 +7,8 @@ tags:
 - source/deity/nonhuman
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Deep Sashelas
+aliases:
+- "Deep Sashelas"
 ---
 # Deep Sashelas
 *Source: Player's Handbook p. 296* 

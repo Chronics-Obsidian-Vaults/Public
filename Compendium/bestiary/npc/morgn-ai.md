@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Môrgæn
+- "Môrgæn"
 ---
-# [Môrgæn](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/morgn-ai.md)
+# [Môrgæn](Compendium/bestiary/npc/morgn-ai.md)
 *Source: Acquisitions Incorporated p. 199*  
 
 > [!quote]  
@@ -29,7 +30,7 @@ A child of the forest, Môrgæn defends the natural world with singular ferocity
 "subtype": "elf"
 "alignment": "Chaotic Neutral"
 "ac": !!int "16"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
 "modifier": !!int "4"
@@ -45,37 +46,37 @@ A child of the forest, Môrgæn defends the natural world with singular ferocity
   - "strength": !!int "3"
   - "dexterity": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+3"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Common, Draconic, Dwarvish, Giant, Goblin"
 "cr": "4"
 "traits":
   - "desc": "Môrgæn is a 9th-level spellcaster. Her spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). She has the following ranger\
-      \ spells prepared:\n\n**1st level (4 slots):** [alarm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alarm.md),\
-      \ [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md),\
-      \ [hunter's mark](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hunters-mark.md)\n\
-      \n**2nd level (3 slots):** [pass without trace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pass-without-trace.md),\
-      \ [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md)\n\
-      \n**3rd level (2 slots):** [conjure animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-animals.md)"
+      \ spells prepared:\n\n**1st level (4 slots):** [alarm](Compendium/spells/alarm.md),\
+      \ [animal friendship](Compendium/spells/animal-friendship.md), [hunter's mark](Compendium/spells/hunters-mark.md)\n\
+      \n**2nd level (3 slots):** [pass without trace](Compendium/spells/pass-without-trace.md),\
+      \ [spike growth](Compendium/spells/spike-growth.md)\n\n**3rd level (2 slots):**\
+      \ [conjure animals](Compendium/spells/conjure-animals.md)"
     "name": "Spellcasting"
   - "desc": "Môrgæn's spellcasting ability is Intelligence. She can innately cast\
       \ the following spells, requiring no material components:\n\n**At will:** [mage\
-      \ hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md)"
+      \ hand](Compendium/spells/mage-hand.md)"
     "name": "Innate Spellcasting"
-  - "desc": "Môrgæn has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "Môrgæn has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put her to sleep."
     "name": "Fey Ancestry"
 "actions":
@@ -89,6 +90,6 @@ A child of the forest, Môrgæn defends the natural world with singular ferocity
     "name": "Longbow"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/morgaen-ai.webp"
+"image": "Compendium/bestiary/npc/token/morgaen-ai.webp"
 ```
 ^statblock

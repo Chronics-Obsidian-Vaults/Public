@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -13,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll Fang of Yeenoghu
+- "Gnoll Fang of Yeenoghu"
 ---
-# [Gnoll Fang of Yeenoghu](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/gnoll-fang-of-yeenoghu.md)
-*Source: Monster Manual p. 163, The Book of Many Things*  
+# [Gnoll Fang of Yeenoghu](Compendium/bestiary/fiend/gnoll-fang-of-yeenoghu.md)
+*Source: Monster Manual p. 163*  
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
 
@@ -47,7 +48,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "2"
@@ -63,8 +64,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
   - "charisma": !!int "3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Abyssal, Gnoll"
 "cr": "4"
 "traits":
@@ -84,8 +84,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
     "name": "Claw"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/gnoll-fang-of-yeenoghu.webp"
+"image": "Compendium/bestiary/fiend/token/gnoll-fang-of-yeenoghu.webp"
 ```
 ^statblock
 

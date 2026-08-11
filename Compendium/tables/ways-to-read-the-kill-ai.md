@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Ways to Read the Kill
+- "Ways to Read the Kill"
 ---
 # Ways to Read the Kill
 *Source: Acquisitions Incorporated p. 31* 

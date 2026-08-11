@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/21
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pazrodine
+- "Pazrodine"
 ---
-# [Pazrodine](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/pazrodine-bmt.md)
+# [Pazrodine](Compendium/bestiary/npc/pazrodine-bmt.md)
 *Source: The Book of Many Things p. 113*  
 
 Pazrodine, a moonstone dragon with a peaceful demeanor, oversees Seelie Market. A consummate traveler, she is always searching for fey crossings, which she uses to travel between the Feywild and the Material Plane. Moonstone dragons are detailed further in Fizban's Treasury of Dragons.
@@ -48,20 +49,19 @@ If anyone comes to visit Pazrodine at her refuge, she greets them and happily an
   - "wisdom": !!int "13"
   - "charisma": !!int "15"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+13"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+15"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+11"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 23"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
   - "desc": "Pazrodine can sense when an item is stolen from Seelie Market. She knows\
-      \ the distance and direction to stolen items, as if by the [Locate Object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md)\
+      \ the distance and direction to stolen items, as if by the [Locate Object](Compendium/spells/locate-object.md)\
       \ spell."
     "name": "Guardian of the Market"
   - "desc": "If Pazrodine fails a saving throw, she can choose to succeed instead."
@@ -77,12 +77,12 @@ If anyone comes to visit Pazrodine at her refuge, she greets them and happily an
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 20 ft., one target. *Hit:* 10\
       \ (1d8 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 21 Strength saving throw or have the [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ on a DC 21 Strength saving throw or have the [prone](Rules/conditions.md#Prone)\
       \ condition."
     "name": "Tail"
   - "desc": "Pazrodine uses one of the following breath weapons:\n\n- **Dream Breath.**\
       \ Pazrodine exhales mist in a 90-foot cone. Each creature in that area must\
-      \ succeed on a DC 21 Constitution saving throw or have the [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
+      \ succeed on a DC 21 Constitution saving throw or have the [unconscious](Rules/conditions.md#Unconscious)\
       \ condition for 10 minutes. This effect ends for a creature if the creature\
       \ takes damage or someone uses an action to wake it.  \n- **Moonlight Breath.**\
       \ Pazrodine exhales a beam of moonlight in a 120-foot line that is 10 feet wide.\
@@ -92,12 +92,10 @@ If anyone comes to visit Pazrodine at her refuge, she greets them and happily an
     "name": "Breath Weapon (Recharge 5-6)"
   - "desc": "Pazrodine casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 23):\n\n**At\
-      \ will:** [Faerie Fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md)\n\
-      \n**2/day each:** [Calm Emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md),\
-      \ [Dispel Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [Invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\n\
-      \n**1/day each:** [Mass Cure Wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-cure-wounds.md),\
-      \ [Revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md)"
+      \ will:** [Faerie Fire](Compendium/spells/faerie-fire.md)\n\n**2/day each:**\
+      \ [Calm Emotions](Compendium/spells/calm-emotions.md), [Dispel Magic](Compendium/spells/dispel-magic.md),\
+      \ [Invisibility](Compendium/spells/invisibility.md)\n\n**1/day each:** [Mass\
+      \ Cure Wounds](Compendium/spells/mass-cure-wounds.md), [Revivify](Compendium/spells/revivify.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "The entire Seelie Market is Pazrodine's lair. Pazrodine's challenge rating\
@@ -132,6 +130,6 @@ If anyone comes to visit Pazrodine at her refuge, she greets them and happily an
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/pazrodine-bmt.webp"
+"image": "Compendium/bestiary/npc/token/pazrodine-bmt.webp"
 ```
 ^statblock

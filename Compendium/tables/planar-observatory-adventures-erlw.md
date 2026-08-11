@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Planar Observatory Adventures
+- "Planar Observatory Adventures"
 ---
 # Planar Observatory Adventures
 *Source: Eberron: Rising from the Last War p. 193* 

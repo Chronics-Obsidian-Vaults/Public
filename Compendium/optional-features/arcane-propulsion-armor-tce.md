@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/optional-feature/ai
 aliases:
-- Arcane Propulsion Armor
+- "Arcane Propulsion Armor"
 ---
 # Arcane Propulsion Armor
 *Source: Tasha's Cauldron of Everything p. 20*  

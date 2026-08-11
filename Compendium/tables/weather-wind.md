@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Weather; Wind
+- "Weather; Wind"
 ---
 # Weather; Wind
 *Source: Dungeon Master's Guide p. 109* 

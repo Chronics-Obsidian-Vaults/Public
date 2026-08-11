@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/11
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sphinx of Judgment
+- "Sphinx of Judgment"
 ---
-# [Sphinx of Judgment](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/sphinx-of-judgment-ggr.md)
+# [Sphinx of Judgment](Compendium/bestiary/monstrosity/sphinx-of-judgment-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 183*  
 
 ```statblock
@@ -33,44 +34,37 @@ aliases:
   - !!int "18"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+12"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+12"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 18"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 18"
 "languages": "Common, Sphinx"
 "cr": "11"
 "traits":
   - "desc": "The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 16, +8 to hit with spell attacks). It requires no material\
       \ components to cast its spells. The sphinx has the following wizard spells\
-      \ prepared:\n\n**Cantrips (at will):** [friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md)\n\
-      \n**1st level (4 slots):** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [ensnaring strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ensnaring-strike.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md)\n\
-      \n**2nd level (3 slots):** [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**3rd level (3 slots):** [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md),\
-      \ [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\n\
-      \n**4th level (3 slots):** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md)\n\
-      \n**5th level (1 slots):** [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md)"
+      \ prepared:\n\n**Cantrips (at will):** [friends](Compendium/spells/friends.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [message](Compendium/spells/message.md)\n\
+      \n**1st level (4 slots):** [command](Compendium/spells/command.md), [ensnaring\
+      \ strike](Compendium/spells/ensnaring-strike.md), [shield](Compendium/spells/shield.md)\n\
+      \n**2nd level (3 slots):** [calm emotions](Compendium/spells/calm-emotions.md),\
+      \ [hold person](Compendium/spells/hold-person.md), [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**3rd level (3 slots):** [clairvoyance](Compendium/spells/clairvoyance.md),\
+      \ [counterspell](Compendium/spells/counterspell.md), [dispel magic](Compendium/spells/dispel-magic.md)\n\
+      \n**4th level (3 slots):** [banishment](Compendium/spells/banishment.md), [divination](Compendium/spells/divination.md)\n\
+      \n**5th level (1 slots):** [dominate person](Compendium/spells/dominate-person.md)"
     "name": "Spellcasting"
   - "desc": "The sphinx is immune to any effect that would sense its emotions or read\
-      \ its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight))\
+      \ its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](Rules/skills.md#Insight))\
       \ checks made to ascertain the sphinx's intentions or sincerity have disadvantage."
     "name": "Inscrutable"
   - "desc": "The sphinx's weapon attacks are magical."
@@ -95,6 +89,6 @@ aliases:
     "name": "Cast a Spell (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/sphinx-of-judgment-ggr.webp"
+"image": "Compendium/bestiary/monstrosity/token/sphinx-of-judgment-ggr.webp"
 ```
 ^statblock

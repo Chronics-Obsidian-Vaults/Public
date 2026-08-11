@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Sidekicks
+- "Sidekicks"
 ---
 # Sidekicks
 *Source: Tasha's Cauldron of Everything p. 142* 
@@ -33,7 +33,7 @@ There's no limit on the number of sidekicks in a group, but having more than one
 
 ## Gaining a Sidekick Class
 
-When you create a sidekick, you choose the class it will have for the rest of its career: [Expert](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/expert-sidekick-tce.md), [Spellcaster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/spellcaster-sidekick-tce.md), or [Warrior](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/warrior-sidekick-tce.md). If a sidekick class contains a choice, you may make the choice or let the players make it.
+When you create a sidekick, you choose the class it will have for the rest of its career: [Expert](Compendium/classes/expert-sidekick-tce.md), [Spellcaster](Compendium/classes/spellcaster-sidekick-tce.md), or [Warrior](Compendium/classes/warrior-sidekick-tce.md). If a sidekick class contains a choice, you may make the choice or let the players make it.
 
 ### Starting Level
 
@@ -47,7 +47,7 @@ Whenever a group's average level goes up, the sidekick gains a level. It doesn't
 
 Whenever the sidekick gains a level, it gains one Hit Die, and its hit point maximum increases. To determine the amount of the increase, roll the Hit Die (the type of die appears in the sidekick's stat block), and add its Constitution modifier. It gains a minimum of 1 hit point per level.
 
-If the sidekick drops to 0 hit points and isn't killed outright, it falls [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) and subsequently makes death saving throws, just like a player character.
+If the sidekick drops to 0 hit points and isn't killed outright, it falls [unconscious](Rules/conditions.md#Unconscious) and subsequently makes death saving throws, just like a player character.
 
 ### Proficiency Bonus
 

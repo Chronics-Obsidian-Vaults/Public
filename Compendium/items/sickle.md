@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/weapon/melee
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Sickle"
 item_type: weapon
 item_subtype: "melee, simple"
@@ -18,7 +19,7 @@ attunement: none
 
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light)
+- **Properties**: [Light](Rules/item-properties.md#Light)
 - **Cost**: 1 gp
 - **Weight**: 2.0 lbs.
 

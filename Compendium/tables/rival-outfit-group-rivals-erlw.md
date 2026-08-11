@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Rival Outfit; Group Rivals
+- "Rival Outfit; Group Rivals"
 ---
 # Rival Outfit; Group Rivals
 *Source: Eberron: Rising from the Last War p. 70* 

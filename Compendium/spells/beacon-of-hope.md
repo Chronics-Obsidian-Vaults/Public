@@ -1,27 +1,28 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/boros-legionnaire
 - source/spell/class/bard/magical-secrets
 - source/spell/class/cleric
+- source/spell/feat/mark-of-handling
 - source/spell/level/3rd-level
 - source/spell/school/abjuration
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/life-domain
 - source/spell/subclass/oath-of-devotion
 - source/spell/subclass/peace-domain
-- source/spell/subrace/human-mark-of-handling
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Cleric (Life Domain)
 - Cleric (Peace Domain)
 - Paladin (Oath of Devotion)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Beacon of Hope
+- "Beacon of Hope"
 level: 3
 school: abjuration
 ritual: false
@@ -43,6 +44,6 @@ components_vsm: [V, S]
 
 This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-life-domain.md); [Cleric (Peace Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-devotion.md); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Compendium/lists/list-spells-classes-life-domain.md); [Cleric (Peace Domain)](Compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion.md); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
 
 *Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

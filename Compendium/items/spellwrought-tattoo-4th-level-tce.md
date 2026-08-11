@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/rarity/rare
 - source/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Spellwrought Tattoo (4th Level)"
 item_type: wondrous
 item_subtype: tattoo

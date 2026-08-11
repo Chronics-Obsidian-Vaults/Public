@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/tier/major
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Earth Elemental Command"
 item_type: wondrous
 item_subtype: ring
@@ -23,12 +24,12 @@ While wearing this ring, you have advantage on attack rolls against elementals f
 
 The ring has 5 charges. It regains `1d4 + 1` expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
 
-You can expend 2 of the ring's charges to cast [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md) on an [earth elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/earth-elemental.md). In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
+You can expend 2 of the ring's charges to cast [dominate monster](Compendium/spells/dominate-monster.md) on an [earth elemental](Compendium/bestiary/elemental/earth-elemental.md). In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
 
-If you help slay an [earth elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/earth-elemental.md) while attuned to the ring, you gain access to the following additional properties:
+If you help slay an [earth elemental](Compendium/bestiary/elemental/earth-elemental.md) while attuned to the ring, you gain access to the following additional properties:
 
 - You have resistance to acid damage.  
 - You can move through solid earth or rock as if those areas were difficult terrain. If you end your turn there, you are shunted out to the nearest unoccupied space you last occupied.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [stone shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stone-shape.md) (2 charges), [stoneskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stoneskin.md) (3 charges), or [wall of stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-stone.md) (3 charges).  
+- You can cast the following spells from the ring, expending the necessary number of charges: [stone shape](Compendium/spells/stone-shape.md) (2 charges), [stoneskin](Compendium/spells/stoneskin.md) (3 charges), or [wall of stone](Compendium/spells/wall-of-stone.md) (3 charges).  
 
 *Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

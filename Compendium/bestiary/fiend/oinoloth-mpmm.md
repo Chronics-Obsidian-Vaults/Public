@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/12
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Oinoloth
+- "Oinoloth"
 ---
-# [Oinoloth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/oinoloth-mpmm.md)
+# [Oinoloth](Compendium/bestiary/fiend/oinoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202, Mordenkainen's Tome of Foes p. 251*  
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
@@ -43,18 +44,17 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
   - "constitution": !!int "8"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+8"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 17"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "12"
@@ -70,14 +70,12 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     "name": "Claw"
   - "desc": "The oinoloth touches one willing creature within 5 feet of it. The target\
       \ regains all its hit points. In addition, the oinoloth can end one disease\
-      \ on the target or remove one of the following conditions from it: [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-      \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-      \ or [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ The target then gains 1 level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-      \ and its hit point maximum is reduced by 7 (2d6). This reduction can be removed\
-      \ only by a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell or by casting [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
+      \ on the target or remove one of the following conditions from it: [blinded](Rules/conditions.md#Blinded),\
+      \ [deafened](Rules/conditions.md#Deafened), [paralyzed](Rules/conditions.md#Paralyzed),\
+      \ or [poisoned](Rules/conditions.md#Poisoned). The target then gains 1 level\
+      \ of [exhaustion](Rules/conditions.md#Exhaustion), and its hit point maximum\
+      \ is reduced by 7 (2d6). This reduction can be removed only by a [wish](Compendium/spells/wish.md)\
+      \ spell or by casting [greater restoration](Compendium/spells/greater-restoration.md)\
       \ on the target three times within the same hour. The target dies if its hit\
       \ point maximum is reduced to 0."
     "name": "Corrupted Healing (Recharge 6)"
@@ -86,13 +84,10 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     "name": "Teleport"
   - "desc": "The oinoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only)\n\n**1/day each:** [feeblemind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feeblemind.md),\
-      \ [globe of invulnerability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/globe-of-invulnerability.md)"
+      \n**At will:** [darkness](Compendium/spells/darkness.md), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [hold monster](Compendium/spells/hold-monster.md),\
+      \ [invisibility](Compendium/spells/invisibility.md) (self only)\n\n**1/day each:**\
+      \ [feeblemind](Compendium/spells/feeblemind.md), [globe of invulnerability](Compendium/spells/globe-of-invulnerability.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The oinoloth blights the area in a 30-foot-radius sphere centered on\
@@ -100,10 +95,10 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
       \ plants there wither and die.\n\nFurthermore, when a creature moves into the\
       \ blighted area or starts its turn there, that creature must make a DC 16 Constitution\
       \ saving throw. On a failed save, the creature takes 14 (4d6) poison damage\
-      \ and is [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ On a successful save, the creature is immune to the oinoloth's Bringer of\
-      \ Plagues for the next 24 hours.\n\nThe [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ creature can't regain hit points. After every 24 hours that elapse, the [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ and is [poisoned](Rules/conditions.md#Poisoned). On a successful save, the\
+      \ creature is immune to the oinoloth's Bringer of Plagues for the next 24 hours.\n\
+      \nThe [poisoned](Rules/conditions.md#Poisoned) creature can't regain hit points.\
+      \ After every 24 hours that elapse, the [poisoned](Rules/conditions.md#Poisoned)\
       \ creature can repeat the saving throw. On a failed save, the creature's hit\
       \ point maximum is reduced by 5 (1d10). This reduction lasts until the poison\
       \ ends, and the target dies if its hit point maximum is reduced to 0. The poison\
@@ -112,7 +107,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/oinoloth-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/oinoloth-mpmm.webp"
 ```
 ^statblock
 

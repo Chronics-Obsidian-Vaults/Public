@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hybrid Spy
+- "Hybrid Spy"
 ---
-# [Hybrid Spy](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/hybrid-spy-ggr.md)
+# [Hybrid Spy](Compendium/bestiary/humanoid/hybrid-spy-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 218*  
 
 ## Simic Hybrids
@@ -22,7 +23,7 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
 "name": "Hybrid Spy (GGR)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "Simic hybrid"
+"subtype": "simic hybrid"
 "alignment": "Neutral Good"
 "ac": !!int "13"
 "hp": !!int "22"
@@ -37,16 +38,17 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
   - !!int "9"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Common plus any one language"
 "cr": "1/2"
 "traits":
-  - "desc": "The hybrid has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The hybrid has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide."
     "name": "Chameleon Skin"
   - "desc": "The hybrid can climb difficult surfaces, including upside down on ceilings,\
@@ -60,6 +62,6 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
     "name": "Shortsword"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/hybrid-spy-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/hybrid-spy-ggr.webp"
 ```
 ^statblock

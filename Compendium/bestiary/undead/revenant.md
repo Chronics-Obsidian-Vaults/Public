@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -15,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Revenant
+- "Revenant"
 ---
-# [Revenant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/revenant.md)
-*Source: Monster Manual p. 259, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things*  
+# [Revenant](Compendium/bestiary/undead/revenant.md)
+*Source: Monster Manual p. 259*  
 
 A revenant forms from the soul of a mortal who met a cruel and undeserving fate. It claws its way back into the world to seek revenge against the one who wronged it. The revenant reclaims its mortal body and superficially resembles a zombie. However, instead of lifeless eyes, a revenant's eyes burn with resolve and flare in the presence of its adversary. If the revenant's original body was destroyed or is otherwise unavailable, the spirit of the revenant enters another humanoid corpse. Regardless of the body the revenant uses as a vessel, its adversary always recognizes the revenant for what it truly is.
 
@@ -40,7 +41,7 @@ A revenant doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "136"
 "hit_dice": "16d8 + 64"
 "modifier": !!int "2"
@@ -59,14 +60,10 @@ A revenant doesn't require air, food, drink, or sleep.
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [stunned](Rules/conditions.md#Stunned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
@@ -77,7 +74,7 @@ A revenant doesn't require air, food, drink, or sleep.
     "name": "Regeneration"
   - "desc": "When the revenant's body is destroyed, its soul lingers. After 24 hours,\
       \ the soul inhabits and animates another humanoid corpse on the same plane of\
-      \ existence and regains all its hit points. While the soul is bodiless, a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
+      \ existence and regains all its hit points. While the soul is bodiless, a [wish](Compendium/spells/wish.md)\
       \ spell can be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
   - "desc": "The revenant is immune to effects that turn undead."
@@ -98,21 +95,17 @@ A revenant doesn't require air, food, drink, or sleep.
     "name": "Fist"
   - "desc": "The revenant targets one creature it can see within 30 feet of it and\
       \ against which it has sworn vengeance. The target must make a DC 15 Wisdom\
-      \ saving throw. On a failure, the target is [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ saving throw. On a failure, the target is [paralyzed](Rules/conditions.md#Paralyzed)\
       \ until the revenant deals damage to it, or until the end of the revenant's\
-      \ next turn. When the paralysis ends, the target is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of the revenant for 1 minute. The [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ next turn. When the paralysis ends, the target is [frightened](Rules/conditions.md#Frightened)\
+      \ of the revenant for 1 minute. The [frightened](Rules/conditions.md#Frightened)\
       \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-      \ if it can see the revenant, ending the [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ if it can see the revenant, ending the [frightened](Rules/conditions.md#Frightened)\
       \ condition on itself on a success."
     "name": "Vengeful Glare"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/revenant.webp"
+"image": "Compendium/bestiary/undead/token/revenant.webp"
 ```
 ^statblock
 

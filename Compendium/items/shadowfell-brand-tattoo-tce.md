@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Shadowfell Brand Tattoo"
 item_type: wondrous
 item_subtype: tattoo
@@ -28,7 +29,7 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 ## Shadow Essence
 
-You gain [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) with a range of 60 feet, and you have advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks.
+You gain [darkvision](Rules/senses.md#Darkvision) with a range of 60 feet, and you have advantage on Dexterity ([Stealth](Rules/skills.md#Stealth)) checks.
 
 ## Shadowy Defense
 

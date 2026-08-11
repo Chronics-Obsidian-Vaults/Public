@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Dreaming Dark NPCs
+- "Dreaming Dark NPCs"
 ---
 # Dreaming Dark NPCs
 *Source: Eberron: Rising from the Last War p. 197* 

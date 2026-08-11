@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/tier/major
 - source/item/wondrous/rod
-aliases: 
+aliases:
 - "+3 Rod of the Pact Keeper"
 item_type: wondrous
 item_subtype: rod

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dimetrodon
+- "Dimetrodon"
 ---
-# [Dimetrodon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/dimetrodon-mpmm.md)
+# [Dimetrodon](Compendium/bestiary/beast/dimetrodon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
 This sail-backed reptile is commonly found in areas where dinosaurs live. It hunts on shores and in shallow water, filling a similar role to a crocodile.
@@ -38,7 +39,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
   - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""
@@ -50,7 +51,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/dimetrodon-mpmm.webp"
+"image": "Compendium/bestiary/beast/token/dimetrodon-mpmm.webp"
 ```
 ^statblock
 

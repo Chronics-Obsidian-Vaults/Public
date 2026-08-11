@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merrow
+- "Merrow"
 ---
-# [Merrow](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/merrow.md)
+# [Merrow](Compendium/bestiary/monstrosity/merrow.md)
 *Source: Monster Manual p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.
@@ -48,8 +49,7 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
   - !!int "10"
   - !!int "9"
 "speed": "10 ft., swim 40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Abyssal, Aquan"
 "cr": "2"
 "traits":
@@ -72,7 +72,7 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
     "name": "Harpoon"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/merrow.webp"
+"image": "Compendium/bestiary/monstrosity/token/merrow.webp"
 ```
 ^statblock
 

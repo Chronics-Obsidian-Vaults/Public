@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Magic Item Sale Complications
+- "Magic Item Sale Complications"
 ---
 # Magic Item Sale Complications
 *Source: Xanathar's Guide to Everything p. 133* 

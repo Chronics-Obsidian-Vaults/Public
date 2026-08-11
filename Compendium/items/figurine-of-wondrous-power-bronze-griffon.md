@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Figurine of Wondrous Power, Bronze Griffon"
 item_type: 
 item_subtype: 
@@ -25,6 +26,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Bronze Griffon
 
-This bronze statuette is of a [griffon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/griffon.md) rampant. It can become a [griffon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/griffon.md) for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
+This bronze statuette is of a [griffon](Compendium/bestiary/monstrosity/griffon.md) rampant. It can become a [griffon](Compendium/bestiary/monstrosity/griffon.md) for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 
 *Source: Dungeon Master's Guide p. 169. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

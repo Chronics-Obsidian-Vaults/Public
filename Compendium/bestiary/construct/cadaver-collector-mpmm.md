@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/14
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cadaver Collector
+- "Cadaver Collector"
 ---
-# [Cadaver Collector](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/cadaver-collector-mpmm.md)
+# [Cadaver Collector](Compendium/bestiary/construct/cadaver-collector-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*  
 
 The ancient war machines known as cadaver collectors lumber aimlessly across the blasted plains of Acheron until they are called upon by a necromancer to bolster the ranks of a conquering army on the Material Plane. These fearsome Constructs obey their summoners until they are dismissed back to Acheron, but if a summoner comes to a bad end, a cadaver collector might wander the Material Plane for centuries, collecting corpses while searching for a way to return home.
@@ -41,14 +42,10 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "speed": "30 ft."
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands all languages but can't speak"
 "cr": "14"
 "traits":
@@ -65,22 +62,21 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
     "name": "Slam"
   - "desc": "The collector releases paralyzing gas in a 30-foot cone. Each creature\
       \ in that area must make a successful DC 18 Constitution saving throw or be\
-      \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ for 1 minute. A [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ [paralyzed](Rules/conditions.md#Paralyzed) for 1 minute. A [paralyzed](Rules/conditions.md#Paralyzed)\
       \ creature repeats the saving throw at the end of each of its turns, ending\
       \ the effect on itself with a success."
     "name": "Paralyzing Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The collector calls up the enslaved spirits of those it has slain; 1d4\
-      \ [specters](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/specter.md)\
-      \ (without Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of\
-      \ it. The specters act right after the collector on the same initiative count\
-      \ and fight until they're destroyed. They disappear when the collector is destroyed."
+      \ [specters](Compendium/bestiary/undead/specter.md) (without Sunlight Sensitivity)\
+      \ arise in unoccupied spaces within 15 feet of it. The specters act right after\
+      \ the collector on the same initiative count and fight until they're destroyed.\
+      \ They disappear when the collector is destroyed."
     "name": "Summon Specters (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/cadaver-collector-mpmm.webp"
+"image": "Compendium/bestiary/construct/token/cadaver-collector-mpmm.webp"
 ```
 ^statblock
 

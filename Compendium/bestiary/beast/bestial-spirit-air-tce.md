@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bestial Spirit (Air)
+- "Bestial Spirit (Air)"
 ---
-# [Bestial Spirit (Air)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/bestial-spirit-air-tce.md)
+# [Bestial Spirit (Air)](Compendium/bestiary/beast/bestial-spirit-air-tce.md)
 *Source: Tasha's Cauldron of Everything p. 109*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "beast"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor)"
+"hp": "20 + 5 for each spell level above 2nd"
 "modifier": !!int "0"
 "stats":
   - !!int "18"
@@ -29,8 +31,7 @@ aliases:
   - !!int "14"
   - !!int "5"
 "speed": "30 ft., fly 60 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "The beast doesn't provoke opportunity attacks when it flies out of an\

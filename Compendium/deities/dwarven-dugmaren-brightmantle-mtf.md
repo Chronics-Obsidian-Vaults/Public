@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/dwarven
 - source/domain/knowledge
-aliases: 
-- Dugmaren Brightmantle
+aliases:
+- "Dugmaren Brightmantle"
 ---
 # Dugmaren Brightmantle
 *Source: Mordenkainen's Tome of Foes p. 73* 

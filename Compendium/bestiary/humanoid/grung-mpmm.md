@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grung
+- "Grung"
 ---
-# [Grung](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/grung-mpmm.md)
+# [Grung](Compendium/bestiary/humanoid/grung-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*  
 
 The grung stat block represents a typical grung warrior or hunter, met either in a grung community or traveling elsewhere as a mercenary, game warden, guard, or bandit.
@@ -43,16 +44,18 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "saves":
   - "dexterity": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+2"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
 "senses": "passive Perception 12"
 "languages": "Grung"
 "cr": "1/4"
@@ -61,8 +64,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
     "name": "Amphibious"
   - "desc": "Any creature that grapples the grung or otherwise comes into direct contact\
       \ with the grung's skin must succeed on a DC 12 Constitution saving throw or\
-      \ become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. A [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ become [poisoned](Rules/conditions.md#Poisoned) for 1 minute. A [poisoned](Rules/conditions.md#Poisoned)\
       \ creature no longer in direct contact with the grung can repeat the saving\
       \ throw at the end of each of its turns, ending the effect on itself on a success."
     "name": "Poisonous Skin"
@@ -70,8 +72,8 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
       \ feet, with or without a running start."
     "name": "Standing Leap"
   - "desc": "If the grung isn't immersed in water for at least 1 hour during a day,\
-      \ it suffers 1 level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
-      \ at the end of that day. The grung can recover from this [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
+      \ it suffers 1 level of [exhaustion](Rules/conditions.md#Exhaustion) at the\
+      \ end of that day. The grung can recover from this [exhaustion](Rules/conditions.md#Exhaustion)\
       \ only through magic or by immersing itself in water for at least 1 hour."
     "name": "Water Dependency"
 "actions":
@@ -81,7 +83,7 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/grung-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/grung-mpmm.webp"
 ```
 ^statblock
 

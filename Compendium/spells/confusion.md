@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/rakdos-cultist
@@ -8,6 +9,8 @@ tags:
 - source/spell/class/druid
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
+- source/spell/feat/mark-of-scribing
 - source/spell/level/4th-level
 - source/spell/optfeature/dreadful-word
 - source/spell/school/enchantment
@@ -16,7 +19,6 @@ tags:
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/knowledge-domain
 - source/spell/subclass/oathbreaker
-- source/spell/subrace/gnome-mark-of-scribing
 classes:
 - Bard (Magical Secrets)
 - Cleric (Knowledge Domain)
@@ -28,7 +30,7 @@ classes:
 - Sorcerer
 - Wizard
 aliases:
-- Confusion
+- "Confusion"
 level: 4
 school: enchantment
 ritual: false
@@ -66,6 +68,6 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-knowledge-domain.md); [Druid (Circle of Spores)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oathbreaker)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](Compendium/lists/list-spells-classes-knowledge-domain.md); [Druid (Circle of Spores)](Compendium/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oathbreaker)](Compendium/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

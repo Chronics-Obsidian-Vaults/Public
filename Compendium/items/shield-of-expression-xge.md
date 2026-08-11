@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/xge
 - source/item/rarity/common
 - source/item/shield/
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Shield of Expression"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ rarity: common
 attunement: none
 ---
 # Shield of Expression
-*Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), minor, common*  
+*Armor ([shield](Compendium/items/shield.md)), minor, common*  
 
 
 - **Armor Class**: 2

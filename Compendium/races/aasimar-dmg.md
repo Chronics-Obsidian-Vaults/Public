@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/aasimar
 aliases:
-- Aasimar
+- "Aasimar"
 ---
 # Aasimar
 *Source: Dungeon Master's Guide p. 286*  
@@ -36,7 +37,7 @@ You have resistance to necrotic and radiant damage.
 
 ### Celestial Legacy
 
-You know the [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md) cantrip. Once you reach 3rd level, you can cast the [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md) spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the [daylight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/daylight.md) spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [light](Compendium/spells/light.md) cantrip. Once you reach 3rd level, you can cast the [lesser restoration](Compendium/spells/lesser-restoration.md) spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the [daylight](Compendium/spells/daylight.md) spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Language
 

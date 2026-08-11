@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Sage
+- "Sage"
 ---
 # Sage
 *Source: Player's Handbook p. 137. Available in the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)  
+- **Skill Proficiencies.** [Arcana](Rules/skills.md#Arcana), [History](Rules/skills.md#History)  
 - **Languages.** Two of your choice  
-- **Equipment.** A [bottle of black ink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ink-1-ounce-bottle.md), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** A [bottle of black ink](Compendium/items/ink-1-ounce-bottle.md), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 You spent years learning the lore of the multiverse. You scoured manuscripts, studied scrolls, and listened to the greatest experts on the subjects that interest you. Your efforts have made you a master in your fields of study.
 

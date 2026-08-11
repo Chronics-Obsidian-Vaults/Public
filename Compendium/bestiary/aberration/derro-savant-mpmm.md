@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Derro Savant
+- "Derro Savant"
 ---
-# [Derro Savant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/derro-savant-mpmm.md)
+# [Derro Savant](Compendium/bestiary/aberration/derro-savant-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  
 
 > [!quote] A quote from Mordenkainen  
@@ -36,7 +37,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "subtype": "sorcerer"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "2"
@@ -49,10 +50,11 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 7"
+"gear":
+  - "[quarterstaff](Compendium/items/quarterstaff.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 7"
 "languages": "Dwarvish, Undercommon"
 "cr": "3"
 "traits":
@@ -60,8 +62,8 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ effects."
     "name": "Magic Resistance"
   - "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
@@ -73,17 +75,15 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ much damage on a successful one."
     "name": "Chromatic Beam"
   - "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1/day each:** [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md),\
-      \ [spider climb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spider-climb.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [mage hand](Compendium/spells/mage-hand.md),\
+      \ [message](Compendium/spells/message.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**1/day each:** [invisibility](Compendium/spells/invisibility.md), [sleep](Compendium/spells/sleep.md),\
+      \ [spider climb](Compendium/spells/spider-climb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/derro-savant-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/derro-savant-mpmm.webp"
 ```
 ^statblock
 

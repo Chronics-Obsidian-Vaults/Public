@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/7
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Ape
+- "Giant Ape"
 ---
-# [Giant Ape](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-ape.md)
+# [Giant Ape](Compendium/bestiary/beast/giant-ape.md)
 *Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -33,9 +34,9 @@ aliases:
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -51,7 +52,7 @@ aliases:
     "name": "Rock"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-ape.webp"
+"image": "Compendium/bestiary/beast/token/giant-ape.webp"
 ```
 ^statblock
 

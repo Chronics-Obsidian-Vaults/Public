@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/1-4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cow
+- "Cow"
 ---
-# [Cow](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/cow-vgm.md)
+# [Cow](Compendium/bestiary/beast/cow-vgm.md)
 *Source: Volo's Guide to Monsters p. 207*  
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.
@@ -48,7 +49,7 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
     "name": "Gore"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/cow-vgm.webp"
+"image": "Compendium/bestiary/beast/token/cow-vgm.webp"
 ```
 ^statblock
 

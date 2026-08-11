@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Peryton
+- "Peryton"
 ---
-# [Peryton](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/peryton.md)
+# [Peryton](Compendium/bestiary/monstrosity/peryton.md)
 *Source: Monster Manual p. 251*  
 
 Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured.
@@ -51,7 +52,7 @@ Established settlements are attractive to perytons as a renewable food source. A
   - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "passive Perception 15"
@@ -65,7 +66,7 @@ Established settlements are attractive to perytons as a renewable food source. A
   - "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
       \ an enemy's reach."
     "name": "Flyby"
-  - "desc": "The peryton has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The peryton has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight or smell."
     "name": "Keen Sight and Smell"
 "actions":
@@ -79,7 +80,7 @@ Established settlements are attractive to perytons as a renewable food source. A
     "name": "Talons"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/peryton.webp"
+"image": "Compendium/bestiary/monstrosity/token/peryton.webp"
 ```
 ^statblock
 

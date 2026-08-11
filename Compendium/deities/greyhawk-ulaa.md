@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/life
 - source/domain/war
-aliases: 
-- Ulaa
+aliases:
+- "Ulaa"
 ---
 # Ulaa
 *Source: Player's Handbook p. 295* 

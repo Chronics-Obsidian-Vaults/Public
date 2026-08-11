@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon Creator; NPC Class
+- "Dungeon Creator; NPC Class"
 ---
 # Dungeon Creator; NPC Class
 *Source: Dungeon Master's Guide p. 99* 

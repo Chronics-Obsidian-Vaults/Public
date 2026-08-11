@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/1-8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Raegrin Mau
+- "Raegrin Mau"
 ---
-# [Raegrin Mau](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/raegrin-mau-egw.md)
+# [Raegrin Mau](Compendium/bestiary/npc/raegrin-mau-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  
 
 ```statblock
@@ -21,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "12"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -34,17 +35,18 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+2"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+2"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "any one language (usually Common), Elvish"
 "cr": "1/8"
 "traits":
-  - "desc": "Raegrin has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+  - "desc": "Raegrin has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed)\
+      \ or [frightened](Rules/conditions.md#Frightened)."
     "name": "Dark Devotion"
   - "desc": "Raegrin"
     "name": "Fey Ancestry"
@@ -56,6 +58,6 @@ aliases:
     "name": "Scimitar"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/raegrin-mau-egw.webp"
+"image": "Compendium/bestiary/npc/token/raegrin-mau-egw.webp"
 ```
 ^statblock

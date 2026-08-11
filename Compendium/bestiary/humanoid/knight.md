@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Knight
+- "Knight"
 ---
-# [Knight](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/knight.md)
-*Source: Monster Manual p. 347, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Knight](Compendium/bestiary/humanoid/knight.md)
+*Source: Monster Manual p. 347. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
 
@@ -24,7 +25,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -39,11 +40,14 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "saves":
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+  - "[heavy crossbow](Compendium/items/heavy-crossbow.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-  - "desc": "The knight has advantage on saving throws against being [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)."
+  - "desc": "The knight has advantage on saving throws against being [frightened](Rules/conditions.md#Frightened)."
     "name": "Brave"
 "actions":
   - "desc": "The knight makes two melee attacks."
@@ -58,7 +62,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
       \ a nonhostile creature that it can see within 30 feet of it makes an attack\
       \ roll or a saving throw. The creature can add a d4 to its roll provided it\
       \ can hear and understand the knight. A creature can benefit from only one Leadership\
-      \ die at a time. This effect ends if the knight is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ die at a time. This effect ends if the knight is [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
   - "desc": "The knight adds 2 to its AC against one melee attack that would hit it.\
@@ -66,10 +70,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/knight.webp"
+"image": "Compendium/bestiary/humanoid/token/knight.webp"
 ```
 ^statblock
 

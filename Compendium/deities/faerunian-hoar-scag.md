@@ -6,14 +6,14 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/war
-aliases: 
-- Hoar
-- The Doombringer
-- Poet of Justice
+aliases:
+- "Hoar"
+- "The Doombringer"
+- "Poet of Justice"
 ---
 # Hoar
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-hoar.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-hoar.webp#symbol)
 
 - **Alternate Names**: The Doombringer, Poet of Justice
 - **Alignment**: Lawful Neutral

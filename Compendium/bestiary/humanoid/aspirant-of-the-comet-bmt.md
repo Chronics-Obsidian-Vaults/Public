@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aspirant of the Comet
+- "Aspirant of the Comet"
 ---
-# [Aspirant of the Comet](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/aspirant-of-the-comet-bmt.md)
+# [Aspirant of the Comet](Compendium/bestiary/humanoid/aspirant-of-the-comet-bmt.md)
 *Source: The Book of Many Things p. 91*  
 
 Aspirants aren't yet initiated into the mysteries of the Heralds of the Comet, but they are firmly in the group's clutches, both socially and metaphysically. If an aspirant is killed, the hapless individual is drawn into the Void and devoured, body and soul.
@@ -33,6 +34,8 @@ Aspirants aren't yet initiated into the mysteries of the Heralds of the Comet, b
   - !!int "10"
   - !!int "13"
 "speed": "30 ft."
+"gear":
+  - "[spear](Compendium/items/spear.md)"
 "senses": "passive Perception 10"
 "languages": "Common plus any one language"
 "cr": "1/2"
@@ -44,9 +47,8 @@ Aspirants aren't yet initiated into the mysteries of the Heralds of the Comet, b
       \ 10 (3d6) necrotic damage and is pulled 10 feet straight toward the aspirant's\
       \ space. On a successful save, a creature takes half as much damage only."
     "name": "Hunger of the Void"
-  - "desc": "The aspirant has advantage on saving throws against the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ and [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ conditions."
+  - "desc": "The aspirant has advantage on saving throws against the [charmed](Rules/conditions.md#Charmed)\
+      \ and [frightened](Rules/conditions.md#Frightened) conditions."
     "name": "Sinister Devotion"
 "actions":
   - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
@@ -55,6 +57,6 @@ Aspirants aren't yet initiated into the mysteries of the Heralds of the Comet, b
     "name": "Spear"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/aspirant-of-the-comet-bmt.webp"
+"image": "Compendium/bestiary/humanoid/token/aspirant-of-the-comet-bmt.webp"
 ```
 ^statblock

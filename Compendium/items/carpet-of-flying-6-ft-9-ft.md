@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/very-rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Carpet of Flying, 6 ft. × 9 ft."
 item_type: 
 item_subtype: 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Soulblade
+- "Duergar Soulblade"
 ---
-# [Duergar Soulblade](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/duergar-soulblade-mpmm.md)
+# [Duergar Soulblade](Compendium/bestiary/humanoid/duergar-soulblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190*  
 
 Soulblades are duergar combatants whose mastery of psionics allows them to manifest blades of psychic energy to slice apart their foes.
@@ -45,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "3"
@@ -58,30 +59,28 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "12"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "1"
 "traits":
-  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-      \ and [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](Rules/conditions.md#Charmed),\
+      \ [paralyzed](Rules/conditions.md#Paralyzed), and [poisoned](Rules/conditions.md#Poisoned)\
       \ conditions."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6\
       \ + 3) force damage, or 13 (3d6 + 3) force damage while under the effect of\
       \ Enlarge."
     "name": "Soulblade"
-  - "desc": "The duergar magically turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The duergar magically turns [invisible](Rules/conditions.md#Invisible)\
       \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-      \ throw, or its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ is broken (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). Any equipment the duergar wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+      \ throw, or its [concentration](Rules/conditions.md#Concentration) is broken\
+      \ (as if [concentrating](Rules/conditions.md#Concentration) on a spell). Any\
+      \ equipment the duergar wears or carries is [invisible](Rules/conditions.md#Invisible)\
       \ with it."
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "bonus_actions":
@@ -95,7 +94,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/duergar-soulblade-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/duergar-soulblade-mpmm.webp"
 ```
 ^statblock
 

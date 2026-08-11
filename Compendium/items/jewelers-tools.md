@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/artisans-tools
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Jeweler's Tools"
 item_type: 
 item_subtype: 

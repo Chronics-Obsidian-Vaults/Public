@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/23
@@ -9,16 +10,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Baphomet
+- "Baphomet"
 ---
-# [Baphomet](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/baphomet-mpmm.md)
+# [Baphomet](Compendium/bestiary/npc/baphomet-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 58, Mordenkainen's Tome of Foes p. 143*  
 
 Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
 
 Cults devoted to Baphomet use mazes and complex knots as their emblems. They create secret places to indulge themselves, including labyrinths of the sort their master favors. Bloodstained crowns and weapons of iron and brass decorate their profane altars.
 
-Over time, a MPMM becomes tainted by his influence, gaining bloodshot eyes and coarse, thickening hair. Small horns eventually sprout from the cultist's forehead. In time, a devoted cultist might transform entirely into a minotaur, which is considered the greatest gift of the Prince of Beasts.
+Over time, a cultist of Baphomet becomes tainted by his influence, gaining bloodshot eyes and coarse, thickening hair. Small horns eventually sprout from the cultist's forehead. In time, a devoted cultist might transform entirely into a minotaur, which is considered the greatest gift of the Prince of Beasts.
 
 Baphomet appears as a fearsome, 20-foot-tall minotaur with six iron horns. A fiendish light burns in his red eyes. Although he is filled with bestial blood lust, there lies within him a cruel and cunning intellect devoted to subverting all civilization.
 
@@ -31,7 +32,7 @@ Baphomet wields a great glaive called Heartcleaver. He also charges his enemies 
 
 ## Baphomet's Lair
 
-Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [minotaurs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/minotaur.md), [goristros](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/goristro.md), and [quasits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/quasit.md).
+Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [minotaurs](Compendium/bestiary/monstrosity/minotaur.md), [goristros](Compendium/bestiary/fiend/goristro.md), and [quasits](Compendium/bestiary/fiend/quasit.md).
 
 ```statblock
 "name": "Baphomet (MPMM)"
@@ -57,24 +58,20 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
   - "constitution": !!int "15"
   - "wisdom": !!int "14"
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+17"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+14"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 24"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "23"
 "traits":
   - "desc": "Baphomet can perfectly recall any path he has traveled, and he is immune\
-      \ to the [maze](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/maze.md)\
-      \ spell."
+      \ to the [maze](Compendium/spells/maze.md) spell."
     "name": "Labyrinthine Recall"
   - "desc": "If Baphomet fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -92,27 +89,25 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
       \ (2d6 + 10) piercing damage. If Baphomet moved at least 10 feet straight toward\
       \ the target immediately before the hit, the target takes an extra 16 (3d10)\
       \ piercing damage. If the target is a creature, it must succeed on a DC 25 Strength\
-      \ saving throw or be pushed up to 10 feet away and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ saving throw or be pushed up to 10 feet away and knocked [prone](Rules/conditions.md#Prone)."
     "name": "Gore"
   - "desc": "*Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21\
       \ (2d10 + 10) force damage."
     "name": "Heartcleaver"
   - "desc": "Each creature of Baphomet's choice within 120 feet of him and aware of\
-      \ him must succeed on a DC 18 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ for 1 minute. A [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. These later saves have disadvantage if\
-      \ Baphomet is within line of sight of the creature.\n\nIf a creature succeeds\
-      \ on any of these saves or the effect ends on it, the creature is immune to\
-      \ Baphomet's Frightful Presence for the next 24 hours."
+      \ him must succeed on a DC 18 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
+      \ for 1 minute. A [frightened](Rules/conditions.md#Frightened) creature can\
+      \ repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. These later saves have disadvantage if Baphomet is\
+      \ within line of sight of the creature.\n\nIf a creature succeeds on any of\
+      \ these saves or the effect ends on it, the creature is immune to Baphomet's\
+      \ Frightful Presence for the next 24 hours."
     "name": "Frightful Presence"
   - "desc": "Baphomet casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 18):\n\n**3/day\
-      \ each:** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [dominate beast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-beast.md),\
-      \ [maze](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/maze.md),\
-      \ [wall of stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-stone.md)\n\
-      \n**1/day:** [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md)"
+      \ each:** [dispel magic](Compendium/spells/dispel-magic.md), [dominate beast](Compendium/spells/dominate-beast.md),\
+      \ [maze](Compendium/spells/maze.md), [wall of stone](Compendium/spells/wall-of-stone.md)\n\
+      \n**1/day:** [teleport](Compendium/spells/teleport.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Baphomet can take one\
@@ -134,17 +129,16 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
 "regional_effects":
   - "desc": "The region containing Baphomet's lair is warped by his magic, creating\
       \ one or more of the following effects:\n\n- **Beguiling Realm.** Within 6 miles\
-      \ of the lair, all Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion))\
-      \ and Charisma ([Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance))\
-      \ checks have disadvantage, and all Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception))\
-      \ and Charisma ([Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation))\
+      \ of the lair, all Charisma ([Persuasion](Rules/skills.md#Persuasion)) and Charisma\
+      \ ([Performance](Rules/skills.md#Performance)) checks have disadvantage, and\
+      \ all Charisma ([Deception](Rules/skills.md#Deception)) and Charisma ([Intimidation](Rules/skills.md#Intimidation))\
       \ checks have advantage.  \n- **Hedge Mazes.** Plant life within 1 mile of the\
       \ lair grows thick and forms walls of trees, hedges, and other flora in the\
       \ form of small mazes.  \n- **Panicked Beasts.** Beasts within 1 mile of the\
-      \ lair become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ and disoriented, as though constantly under threat of being hunted, and might\
-      \ lash out or panic even when no visible threat is nearby.  \n\nIf Baphomet\
-      \ dies, these effects fade over the course of 1d10 days."
+      \ lair become [frightened](Rules/conditions.md#Frightened) and disoriented,\
+      \ as though constantly under threat of being hunted, and might lash out or panic\
+      \ even when no visible threat is nearby.  \n\nIf Baphomet dies, these effects\
+      \ fade over the course of 1d10 days."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Baphomet can expend a use to take one of the following actions. Baphomet\
@@ -152,12 +146,12 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
 "legendary_actions":
   - "desc": "Baphomet makes one Heartcleaver attack."
     "name": "Heartcleaver Attack"
-  - "desc": "Baphomet moves up to his speed without provoking [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack),\
+  - "desc": "Baphomet moves up to his speed without provoking [opportunity attacks](Rules/actions.md#Opportunity%20Attack),\
       \ then makes a Gore attack."
     "name": "Charge (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/baphomet-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/baphomet-mpmm.webp"
 ```
 ^statblock

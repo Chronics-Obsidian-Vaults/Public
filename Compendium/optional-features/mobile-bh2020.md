@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bh2020
 - source/optional-feature/mutagen
 aliases:
-- Mobile
+- "Mobile"
 ---
 # Mobile
 *Source: Blood Hunter 2020*  

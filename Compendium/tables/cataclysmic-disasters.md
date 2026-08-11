@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Cataclysmic Disasters
+- "Cataclysmic Disasters"
 ---
 # Cataclysmic Disasters
 *Source: Dungeon Master's Guide p. 28* 

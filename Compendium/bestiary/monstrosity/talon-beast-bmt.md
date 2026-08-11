@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/7
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Talon Beast
+- "Talon Beast"
 ---
-# [Talon Beast](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/talon-beast-bmt.md)
+# [Talon Beast](Compendium/bestiary/monstrosity/talon-beast-bmt.md)
 *Source: The Book of Many Things p. 183*  
 
 Talon beasts are hairless quadrupeds that have vulturelike heads and talons. They can sense the presence of magic and feed on it, absorbing spells and the power of magic items. But magic isn't enough to sustain them, so they also hunt other living things. A talon beast thrives in the wilderness, but in its search for magic, it often prowls settlements, ruins, catacombs, or the Underdark.
@@ -37,11 +38,10 @@ Many scholars agree there's a link between talon beasts, the constellation of th
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": ""
 "cr": "7"
 "traits":
@@ -64,12 +64,12 @@ Many scholars agree there's a link between talon beasts, the constellation of th
       \ or scroll, it becomes nonmagical instead."
     "name": "Beak"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d8 + 6) slashing damage, and the target has the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ condition (escape DC 17). Until the grapple ends, the target has the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ (2d8 + 6) slashing damage, and the target has the [grappled](Rules/conditions.md#Grappled)\
+      \ condition (escape DC 17). Until the grapple ends, the target has the [restrained](Rules/conditions.md#Restrained)\
       \ condition, and the talon beast can't use Talon on another target."
     "name": "Talon"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/talon-beast-bmt.webp"
+"image": "Compendium/bestiary/monstrosity/token/talon-beast-bmt.webp"
 ```
 ^statblock

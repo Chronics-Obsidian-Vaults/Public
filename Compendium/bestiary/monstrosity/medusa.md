@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -10,16 +11,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Medusa
+- "Medusa"
 ---
-# [Medusa](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/medusa.md)
-*Source: Monster Manual p. 214, Eberron: Rising from the Last War, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Medusa](Compendium/bestiary/monstrosity/medusa.md)
+*Source: Monster Manual p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
 
 ## Immortal Splendor
 
-Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified), becoming stone monuments to its corruption.
+Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [petrified](Rules/conditions.md#Petrified), becoming stone monuments to its corruption.
 
 ## Medusa Lairs
 
@@ -46,31 +47,32 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Common"
 "cr": "6"
 "traits":
   - "desc": "When a creature that can see the medusa's eyes starts its turn within\
       \ 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution\
-      \ saving throw if the medusa isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ saving throw if the medusa isn't [incapacitated](Rules/conditions.md#Incapacitated)\
       \ and can see the creature. If the saving throw fails by 5 or more, the creature\
-      \ is instantly [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified).\
-      \ Otherwise, a creature that fails the save begins to turn to stone and is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
-      \ The [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ creature must repeat the saving throw at the end of its next turn, becoming\
-      \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified)\
+      \ is instantly [petrified](Rules/conditions.md#Petrified). Otherwise, a creature\
+      \ that fails the save begins to turn to stone and is [restrained](Rules/conditions.md#Restrained).\
+      \ The [restrained](Rules/conditions.md#Restrained) creature must repeat the\
+      \ saving throw at the end of its next turn, becoming [petrified](Rules/conditions.md#Petrified)\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the  [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
-      \ spell or other magic.\n\nUnless [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised),\
+      \ the creature is freed by the [greater restoration](Compendium/spells/greater-restoration.md)\
+      \ spell or other magic.\n\nUnless [surprised](Rules/conditions.md#Surprised),\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see the medusa until the start of\
       \ its next turn, when it can avert its eyes again. If the creature looks at\
@@ -94,9 +96,7 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
     "name": "Longbow"
 "source":
   - "MM"
-  - "ERLW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/medusa.webp"
+"image": "Compendium/bestiary/monstrosity/token/medusa.webp"
 ```
 ^statblock
 

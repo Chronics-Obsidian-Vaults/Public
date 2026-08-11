@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Elf Names – Male Adult
+- "Elf Names – Male Adult"
 ---
 # Elf Names – Male Adult
 *Source: Xanathar's Guide to Everything p. 176* 

@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Amulet of Health"
 item_type: 
 item_subtype: 
@@ -15,7 +16,7 @@ attunement: required
 ---
 # Amulet of Health
 *Wondrous item, major, rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/amulet-of-health.webp#right)
+![](Compendium/items/img/amulet-of-health.webp#right)
 
 - **Weight**: 1.0 lbs.
 

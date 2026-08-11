@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/barbarian/beast
 aliases:
-- Path of the Beast
+- "Path of the Beast"
 ---
 # Path of the Beast
 *[Barbarian](./barbarian.md): Primal Path*  
@@ -43,10 +43,7 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Path of the Beast (Level 3)
+![](Compendium/classes/img/beast-barbarian.webp#right)
 
 Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.
 
@@ -62,6 +59,8 @@ Such a barbarian might be inhabited by a primal spirit or be descended from shap
 | 4 | An ancient animal spirit dwells within you, allowing you to walk this path. |
 ^origin-of-the-beast
 
+## Subclass Features
+
 ### Form of the Beast (Level 3)
 
 *3rd-level Path of the Beast feature*
@@ -71,7 +70,7 @@ When you enter your rage, you can transform, revealing the bestial power within 
 You choose the weapon's form each time you rage:
 
 - **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals `1d8` piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.  
-- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `1d6` slashing damage on a hit. Once on each of your turns when you attack with a claw using the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action, you can make one additional claw attack as part of the same action.  
+- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `1d6` slashing damage on a hit. Once on each of your turns when you attack with a claw using the [Attack](Rules/actions.md#Attack) action, you can make one additional claw attack as part of the same action.  
 - **Tail.** You grow a lashing, spiny tail, which deals `1d8` piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a `d8`, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.  
 
 ### Bestial Soul (Level 6)
@@ -84,7 +83,7 @@ You can also alter your form to help you adapt to your surroundings. When you fi
 
 - You gain a swimming speed equal to your walking speed, and you can breathe underwater.  
 - You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
-- When you jump, you can make a Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.  
+- When you jump, you can make a Strength ([Athletics](Rules/skills.md#Athletics)) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.  
 
 ### Infectious Fury (Level 10)
 

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/rogue/phantom
 aliases:
-- Phantom
+- "Phantom"
 ---
 # Phantom
 *[Rogue](./rogue.md): Roguish Archetype*  
@@ -43,16 +43,15 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Phantom (Level 3)
+![](Compendium/classes/img/phantom-rogue.webp#right)
 
 Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.
 
 Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay in the Forgotten Realms and Karrnath in Eberron, where many necromancers practice their craft, a Phantom can become a wizard's confidant and right hand. In temples of gods of death, the Phantom might work as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.
 
 How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves' guild dedicated to a deity of death?
+
+## Subclass Features
 
 ### Whispers of the Dead (Level 3)
 
@@ -72,7 +71,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 *9th-level Phantom feature*
 
-When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket's form or has you roll on the [Trinkets](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trinket.md) table in the *Player's Handbook* to generate it. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum.
+When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket's form or has you roll on the [Trinkets](Compendium/items/trinket.md) table in the *Player's Handbook* to generate it. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum.
 
 You can use soul trinkets in the following ways:
 

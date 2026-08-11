@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
@@ -8,7 +9,7 @@ tags:
 - source/item/tier/major
 - source/item/weapon/melee
 - source/item/wondrous/rod
-aliases: 
+aliases:
 - "Rod of Lordly Might"
 item_type: wondrous
 item_subtype: "melee, rod"
@@ -16,8 +17,8 @@ rarity: legendary
 attunement: required
 ---
 # Rod of Lordly Might
-*Rod ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), melee weapon ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), major, legendary (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/rod-of-lordly-might.webp#right)
+*Rod ([mace](Compendium/items/mace.md)), melee weapon ([mace](Compendium/items/mace.md)), major, legendary (requires attunement)*  
+![](Compendium/items/img/rod-of-lordly-might.webp#right)
 
 - **Weight**: 2.0 lbs.
 
@@ -27,7 +28,7 @@ This rod has a flanged head, and it functions as a magic mace that grants a +3 b
 
 You can press one of the rod's six buttons as a bonus action. A button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
 
-If you press button 1, the rod becomes a [flame tongue](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/flame-tongue.md) as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).
+If you press button 1, the rod becomes a [flame tongue](Compendium/items/flame-tongue.md) as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).
 
 If you press button 2, the rod's flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
 
@@ -45,10 +46,10 @@ When you hit a creature with a melee attack using the rod, you can force the tar
 
 ## Paralyze
 
-When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
+When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is [paralyzed](Rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
 
 ## Terrify
 
-While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) of you for 1 minute. A [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
+While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [frightened](Rules/conditions.md#Frightened) of you for 1 minute. A [frightened](Rules/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

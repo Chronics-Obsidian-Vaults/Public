@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/gear/
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Trinket"
 item_type: 
 item_subtype: 
@@ -14,10 +15,10 @@ attunement: none
 ---
 # Trinket
 *Adventuring gear*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/trinket.webp#right)
+![](Compendium/items/img/trinket.webp#right)
 
 
-Worried that you're going to pull out your dead sprite inside a clear glass bottle at a company function only to discover that three other people in the franchise have one as well? Then consider rolling on the Acquisitions Incorporated Trinkets table instead of the [table in chapter 5 of the Player's Handbook](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trinket.md), to gain a unique trinket at character creation with a bit of Acq Inc flair.
+Worried that you're going to pull out your dead sprite inside a clear glass bottle at a company function only to discover that three other people in the franchise have one as well? Then consider rolling on the Acquisitions Incorporated Trinkets table instead of the [table in chapter 5 of the Player's Handbook](Compendium/items/trinket.md), to gain a unique trinket at character creation with a bit of Acq Inc flair.
 
 **Acquisitions Incorporated Trinkets**
 
@@ -126,8 +127,8 @@ Worried that you're going to pull out your dead sprite inside a clear glass bott
 ^acquisitions-incorporated-trinkets
 
 > [!gallery]
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/trinket-2.webp)
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/trinket-3.webp)
+![](Compendium/items/img/trinket-2.webp)
+![](Compendium/items/img/trinket-3.webp)
 
 
 *Source: Acquisitions Incorporated p. 222*

@@ -1,20 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/izzet-engineer
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/wizard
 - source/spell/level/4th-level
+- source/spell/reward/charm-of-the-donjon
 - source/spell/school/evocation
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/oath-of-redemption
 - source/spell/subclass/peace-domain
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Cleric (Peace Domain)
 - Fighter (Eldritch Knight)
@@ -22,7 +22,7 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases:
-- Otiluke's Resilient Sphere
+- "Otiluke's Resilient Sphere"
 level: 4
 school: evocation
 ritual: false
@@ -48,8 +48,8 @@ Nothing—not physical objects, energy, or other spell effects—can pass throug
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
 
-A [disintegrate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disintegrate.md) spell targeting the globe destroys it without harming anything inside it.
+A [disintegrate](Compendium/spells/disintegrate.md) spell targeting the globe destroys it without harming anything inside it.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Peace Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Redemption)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Peace Domain)](Compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Redemption)](Compendium/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE"); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 264. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Resilient Sphere")*

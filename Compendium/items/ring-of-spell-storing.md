@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/tier/major
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Spell Storing"
 item_type: wondrous
 item_subtype: ring
@@ -16,7 +17,7 @@ attunement: required
 ---
 # Ring of Spell Storing
 *Ring, major, rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/ring-of-spell-storing.webp#right)
+![](Compendium/items/img/ring-of-spell-storing.webp#right)
 
 
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains `1d6 - 1` levels of stored spells chosen by the DM.

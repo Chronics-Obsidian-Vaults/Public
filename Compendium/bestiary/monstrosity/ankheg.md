@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ankheg
+- "Ankheg"
 ---
-# [Ankheg](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/ankheg.md)
-*Source: Monster Manual p. 21, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Ankheg](Compendium/bestiary/monstrosity/ankheg.md)
+*Source: Monster Manual p. 21. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.
 
@@ -48,27 +49,26 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
   - !!int "13"
   - !!int "6"
 "speed": "30 ft., burrow 10 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., tremorsense 60 ft., passive Perception 11"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "2"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large\
-      \ or smaller creature, it is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 13). Until this grapple ends, the ankheg can bite only the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ or smaller creature, it is [grappled](Rules/conditions.md#Grappled) (escape\
+      \ DC 13). Until this grapple ends, the ankheg can bite only the [grappled](Rules/conditions.md#Grappled)\
       \ creature and has advantage on attack rolls to do so."
     "name": "Bite"
   - "desc": "The ankheg spits acid in a line that is 30 feet long and 5 feet wide,\
-      \ provided that it has no creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled).\
+      \ provided that it has no creature [grappled](Rules/conditions.md#Grappled).\
       \ Each creature in that line must make a DC 13 Dexterity saving throw, taking\
       \ 10 (3d6) acid damage on a failed save, or half as much damage on a successful\
       \ one."
     "name": "Acid Spray (Recharge 6)"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/ankheg.webp"
+"image": "Compendium/bestiary/monstrosity/token/ankheg.webp"
 ```
 ^statblock
 

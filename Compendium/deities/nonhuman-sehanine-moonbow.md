@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/nonhuman
 - source/domain/knowledge
-aliases: 
-- Sehanine Moonbow
+aliases:
+- "Sehanine Moonbow"
 ---
 # Sehanine Moonbow
 *Source: Player's Handbook p. 296* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aarakocra
+- "Aarakocra"
 ---
-# [Aarakocra](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/aarakocra.md)
-*Source: Monster Manual p. 12, Explorer's Guide to Wildemount*  
+# [Aarakocra](Compendium/bestiary/humanoid/aarakocra.md)
+*Source: Monster Manual p. 12*  
 
 Aarakocra range the Howling Gyre, an endless storm of mighty winds and lashing rains that surrounds the tranquil realm of Aaqa in the Elemental Plane of Air. Making aerial patrols, these birdlike humanoids guard the windy borders of their home against invaders from the Elemental Plane of Earth, such as gargoyles, their sworn enemies.
 
@@ -53,8 +54,10 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
   - !!int "11"
 "speed": "20 ft., fly 50 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
 "senses": "passive Perception 15"
 "languages": "Auran, Aarakocra"
 "cr": "1/4"
@@ -71,22 +74,21 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage."
     "name": "Javelin"
   - "desc": "Five aarakocra within 30 feet of each other can magically summon an [air\
-      \ elemental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/air-elemental.md).\
-      \ Each of the five must use its action and movement on three consecutive turns\
-      \ to perform an aerial dance and must maintain [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ while doing so (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). When all five have finished their third turn of the dance, the\
-      \ elemental appears in an unoccupied space within 60 feet of them. It is friendly\
-      \ toward them and obeys their spoken commands. It remains for 1 hour, until\
-      \ it or all its summoners die, or until any of its summoners dismisses it as\
-      \ a bonus action. A summoner can't perform the dance again until it finishes\
-      \ a short rest. When the elemental returns to the Elemental Plane of Air, any\
-      \ aarakocra within 5 feet of it can return with it."
+      \ elemental](Compendium/bestiary/elemental/air-elemental.md). Each of the five\
+      \ must use its action and movement on three consecutive turns to perform an\
+      \ aerial dance and must maintain [concentration](Rules/conditions.md#Concentration)\
+      \ while doing so (as if [concentrating](Rules/conditions.md#Concentration) on\
+      \ a spell). When all five have finished their third turn of the dance, the elemental\
+      \ appears in an unoccupied space within 60 feet of them. It is friendly toward\
+      \ them and obeys their spoken commands. It remains for 1 hour, until it or all\
+      \ its summoners die, or until any of its summoners dismisses it as a bonus action.\
+      \ A summoner can't perform the dance again until it finishes a short rest. When\
+      \ the elemental returns to the Elemental Plane of Air, any aarakocra within\
+      \ 5 feet of it can return with it."
     "name": "Summon Air Elemental"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/aarakocra.webp"
+"image": "Compendium/bestiary/humanoid/token/aarakocra.webp"
 ```
 ^statblock
 

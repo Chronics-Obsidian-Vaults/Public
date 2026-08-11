@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/scag
 aliases:
-- The Orc Pantheon
+- "The Orc Pantheon"
 ---
 # The Orc Pantheon
 *Source: Sword Coast Adventurer's Guide p. 24* 

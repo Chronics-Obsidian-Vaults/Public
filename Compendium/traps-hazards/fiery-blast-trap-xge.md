@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/smpl
 aliases:
-- Fiery Blast Trap
+- "Fiery Blast Trap"
 ---
 # Fiery Blast Trap
 *Generic Hazard*  

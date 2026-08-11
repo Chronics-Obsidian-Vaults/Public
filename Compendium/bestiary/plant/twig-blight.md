@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Twig Blight
+- "Twig Blight"
 ---
-# [Twig Blight](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/twig-blight.md)
+# [Twig Blight](Compendium/bestiary/plant/twig-blight.md)
 *Source: Monster Manual p. 32. Available in the Basic Rules (2014)*  
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
@@ -63,13 +64,12 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_vulnerabilities": "fire"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 9"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
@@ -82,7 +82,7 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
     "name": "Claws"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/twig-blight.webp"
+"image": "Compendium/bestiary/plant/token/twig-blight.webp"
 ```
 ^statblock
 

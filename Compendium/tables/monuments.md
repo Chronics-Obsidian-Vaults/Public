@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Monuments
+- "Monuments"
 ---
 # Monuments
 *Source: Dungeon Master's Guide p. 108* 

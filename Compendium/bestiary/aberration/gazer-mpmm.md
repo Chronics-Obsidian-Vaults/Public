@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gazer
+- "Gazer"
 ---
-# [Gazer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/gazer-mpmm.md)
+# [Gazer](Compendium/bestiary/aberration/gazer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126*  
 
 A gazer is a tiny manifestation of the dreams of a beholder. It resembles the beholder who dreamed it into existence, but its body is only 8 inches wide and it has only four eyestalks. It follows its creator like a devoted, aggressive puppy, and sometimes small packs of these creatures patrol their master's lair for vermin to kill and lone creatures to harass.
@@ -42,20 +43,18 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 "saves":
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"condition_immunities": "[prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"condition_immunities": "[prone](Rules/conditions.md#Prone)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The gazer can mimic simple sounds of speech it has heard, in any language.\
       \ A creature that hears the sounds can tell they are imitations with a successful\
-      \ DC 10 Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight))\
-      \ check."
+      \ DC 10 Wisdom ([Insight](Rules/skills.md#Insight)) check."
     "name": "Mimicry"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
@@ -64,19 +63,19 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
   - "desc": "The gazer shoots two of the following magical eye rays at random (roll\
       \ two d4s, and reroll duplicates), choosing one or two targets it can see within\
       \ 60 feet of it:\n\n- **1 Dazing Ray.** The targeted creature must succeed on\
-      \ a DC 12 Wisdom saving throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ until the start of the gazer's next turn. While the target is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ a DC 12 Wisdom saving throw or be [charmed](Rules/conditions.md#Charmed) until\
+      \ the start of the gazer's next turn. While the target is [charmed](Rules/conditions.md#Charmed)\
       \ in this way, its speed is halved, and it has disadvantage on attack rolls.\
       \  \n- **2 Fear Ray.** The targeted creature must succeed on a DC 12 Wisdom\
-      \ saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ until the start of the gazer's next turn.  \n- **3 Frost Ray.** The target\
-      \ must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.\
-      \  \n- **4 Telekinetic Ray.** If the target is a creature that is Medium or\
-      \ smaller, it must succeed on a DC 12 Strength saving throw or be moved up to\
-      \ 30 feet directly away from the gazer. If the target is a Tiny object that\
-      \ isn't being worn or carried, the gazer moves it up to 30 feet in any direction.\
-      \ The gazer can also exert fine control on objects with this ray, such as manipulating\
-      \ a simple tool or opening a container.  "
+      \ saving throw or be [frightened](Rules/conditions.md#Frightened) until the\
+      \ start of the gazer's next turn.  \n- **3 Frost Ray.** The target must succeed\
+      \ on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.  \n- **4 Telekinetic\
+      \ Ray.** If the target is a creature that is Medium or smaller, it must succeed\
+      \ on a DC 12 Strength saving throw or be moved up to 30 feet directly away from\
+      \ the gazer. If the target is a Tiny object that isn't being worn or carried,\
+      \ the gazer moves it up to 30 feet in any direction. The gazer can also exert\
+      \ fine control on objects with this ray, such as manipulating a simple tool\
+      \ or opening a container.  "
     "name": "Eye Rays"
 "bonus_actions":
   - "desc": "The gazer moves up to its speed toward a hostile creature that it can\
@@ -85,7 +84,7 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/gazer-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/gazer-mpmm.webp"
 ```
 ^statblock
 

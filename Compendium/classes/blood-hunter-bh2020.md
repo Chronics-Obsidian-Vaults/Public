@@ -6,7 +6,7 @@ tags:
 - source/class/blood-hunter
 - source/compendium/src/5e/bh2020
 aliases:
-- Blood Hunter
+- "Blood Hunter"
 ---
 # Blood Hunter
 *Source: Blood Hunter 2020*  
@@ -16,7 +16,7 @@ aliases:
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Hemocraft Die</th><th class="value"><a href="/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-blood-curse.md">Blood Curses Known</a></th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Hemocraft Die</th><th class="value"><a href="Compendium/lists/list-optfeaturetype-blood-curse.md">Blood Curses Known</a></th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Hunter's Bane (Level 1)' class='internal-link'>Hunter's Bane</a>, <a href='#Blood Maledict (Level 1)' class='internal-link'>Blood Maledict</a></td><td class="value">1d4</td><td class="value">1</td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Fighting Style (Level 2)' class='internal-link'>Fighting Style</a>, <a href='#Crimson Rite (Level 2)' class='internal-link'>Crimson Rite</a></td><td class="value">1d4</td><td class="value">1</td></tr>
@@ -51,17 +51,17 @@ aliases:
 ## Starting Blood Hunter
 
 - **Saving Throw Proficiencies**: Dexterity, Intelligence
-- **Skill Proficiencies**: *Choose 3:* [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion), or [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 3:* [Acrobatics](Rules/skills.md#Acrobatics), [Arcana](Rules/skills.md#Arcana), [Athletics](Rules/skills.md#Athletics), [History](Rules/skills.md#History), [Insight](Rules/skills.md#Insight), [Investigation](Rules/skills.md#Investigation), [Religion](Rules/skills.md#Religion), or [Survival](Rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Tool Proficiencies**: alchemist's supplies
-- **Armor Training**: [Light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor), [Medium armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Medium%20Armor), and Shields
+- **Armor Training**: [Light armor](Rules/item-types.md#Light%20Armor), [Medium armor](Rules/item-types.md#Medium%20Armor), and Shields
 
 **Starting Equipment:** You start with the following items, plus anything provided by your background.
 
 - (a) a martial weapon or (b) two simple weapons
-- (a) a [light crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/light-crossbow.md) and [20 bolts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crossbow-bolts-20.md) or (b) [hand crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hand-crossbow.md) and [20 bolts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crossbow-bolts-20.md)
-- (a) [studded leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md) or (b) [scale mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scale-mail.md) armor
-- an [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md)
+- (a) a [light crossbow](Compendium/items/light-crossbow.md) and [20 bolts](Compendium/items/crossbow-bolts-20.md) or (b) [hand crossbow](Compendium/items/hand-crossbow.md) and [20 bolts](Compendium/items/crossbow-bolts-20.md)
+- (a) [studded leather armor](Compendium/items/studded-leather-armor.md) or (b) [scale mail](Compendium/items/scale-mail.md) armor
+- an [explorer's pack](Compendium/items/explorers-pack.md)
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
@@ -71,11 +71,10 @@ Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Skill Proficiencies**: *Choose 1:* [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion), or [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)
+- **Skill Proficiencies**: *Choose 1:* [Acrobatics](Rules/skills.md#Acrobatics), [Arcana](Rules/skills.md#Arcana), [Athletics](Rules/skills.md#Athletics), [History](Rules/skills.md#History), [Insight](Rules/skills.md#Insight), [Investigation](Rules/skills.md#Investigation), [Religion](Rules/skills.md#Religion), or [Survival](Rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons, Martial weapons
 - **Tool Proficiencies**: alchemist's supplies
-- **Armor Training**: [Light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor), [Medium armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Medium%20Armor), Shields
-
+- **Armor Training**: [Light armor](Rules/item-types.md#Light%20Armor), [Medium armor](Rules/item-types.md#Medium%20Armor), Shields
 ## Blood Hunter
 
 Marred but resolute, his grimacing face dripping with sweat, a half-orc reddens a finger across his wounds to draw a glowing, ruby glyph in the air. He grips the weightless, completed sigil, twisting it to unleash dark magical energies that fire forward, cursing the stalking behemoth from within its own veins to better even the odds.
@@ -114,7 +113,7 @@ While most blood hunters follow a path of good or neutrality in their pursuits, 
 
 ### Quick Build
 
-You can make a blood hunter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons, or archery (or finesse weapons). Make Intelligence your next highest if you plan to focus on the potency of blood curses and mystical power. Choose a higher Constitution next, as you want to have extra hit points to burn on your crimson rite or amplifying blood curses. Then, select the [urchin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/urchin.md) or [soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/soldier.md) background.
+You can make a blood hunter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons, or archery (or finesse weapons). Make Intelligence your next highest if you plan to focus on the potency of blood curses and mystical power. Choose a higher Constitution next, as you want to have extra hit points to burn on your crimson rite or amplifying blood curses. Then, select the [urchin](Compendium/backgrounds/urchin.md) or [soldier](Compendium/backgrounds/soldier.md) background.
 
 ### Blood Hunter Multiclassing
 
@@ -142,7 +141,7 @@ If multiclassing Order of the Profane Soul with Warlock levels, add a third of y
 
 ### Hunter's Bane (Level 1)
 
-Beginning at 1st level, you have survived the Hunter's Bane, a dangerous, long-guarded ritual that alters your life's blood, forever binding you to the darkness and honing your senses against it. You have advantage on Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.
+Beginning at 1st level, you have survived the Hunter's Bane, a dangerous, long-guarded ritual that alters your life's blood, forever binding you to the darkness and honing your senses against it. You have advantage on Wisdom ([Survival](Rules/skills.md#Survival)) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.
 
 The Hunter's Bane also empowers your body to control and shape hemocraft magic, using your own blood and life essence to fuel your abilities. Some of your features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
 
@@ -150,7 +149,7 @@ The Hunter's Bane also empowers your body to control and shape hemocraft magic, 
 
 ### Blood Maledict (Level 1)
 
-At 1st level, you gain the ability to channel, and sometimes sacrifice, a part of your vital essence to curse and manipulate creatures through hemocraft magic. You gain one blood curse of your choice, detailed in the "[Blood Curses](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-blood-curse.md)" section at the end of the class description. You learn one additional blood curse of your choice, and you can choose one of the blood curses you know and replace it with another blood curse, at 6th, 10th, 14th, and 18th level.
+At 1st level, you gain the ability to channel, and sometimes sacrifice, a part of your vital essence to curse and manipulate creatures through hemocraft magic. You gain one blood curse of your choice, detailed in the "[Blood Curses](Compendium/lists/list-optfeaturetype-blood-curse.md)" section at the end of the class description. You learn one additional blood curse of your choice, and you can choose one of the blood curses you know and replace it with another blood curse, at 6th, 10th, 14th, and 18th level.
 
 When you use your Blood Maledict, you choose which curse to invoke. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse's description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse.
 
@@ -159,6 +158,8 @@ You can use this feature once. Beginning at 6th level, you can use your Blood Ma
 ### Fighting Style (Level 2)
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
+
+Options:
 
 - **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.  
 - **Dueling.** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.  
@@ -175,37 +176,21 @@ While active, attacks from this weapon deal an additional `1d4` damage of the ch
 
 You learn an additional Primal Rite of your choice at 7th level, and choose an Esoteric Rite to learn at 14th level.
 
-#### Primal Rites
+**Primal Rites.** Choose from the following:
 
-Choose from the following:
+**Rite of the Flame.** Your rite damage is fire damage.
 
-##### Rite of the Flame
+**Rite of the Frozen.** Your rite damage is cold damage.
 
-Your rite damage is fire damage.
+**Rite of the Storm.** Your rite damage is lightning damage.
 
-##### Rite of the Frozen
+**Esoteric Rites.** Choose from the following:
 
-Your rite damage is cold damage.
+**Rite of the Dead.** Your rite damage is necrotic damage.
 
-##### Rite of the Storm
+**Rite of the Oracle.** Your rite damage is psychic damage.
 
-Your rite damage is lightning damage.
-
-#### Esoteric Rites
-
-Choose from the following:
-
-##### Rite of the Dead
-
-Your rite damage is necrotic damage.
-
-##### Rite of the Oracle
-
-Your rite damage is psychic damage.
-
-##### Rite of the Roar
-
-Your rite damage is thunder damage.
+**Rite of the Roar.** Your rite damage is thunder damage.
 
 ### Blood Hunter Order (Level 3)
 
@@ -217,13 +202,13 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](Rules/actions.md#Attack) action on your turn.
 
 ### Brand of Castigation (Level 6)
 
 At 6th level, whenever you damage a creature with your Crimson Rite feature, you can choose to sear an arcane brand of hemocraft magic into it (requires no action). You always know the direction to the branded creature, and each time the branded creature deals damage to you or a creature you can see within 5 feet of you, the branded creature suffers psychic damage equal to your Intelligence modifier (minimum of 1 damage).
 
-Your brand lasts until you dismiss it, or you apply a brand to another creature. Your brand counts as a spell for the purposes of [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md), and the spell level is equal to half of your blood hunter level (maximum of 9th level spell).
+Your brand lasts until you dismiss it, or you apply a brand to another creature. Your brand counts as a spell for the purposes of [dispel magic](Compendium/spells/dispel-magic.md), and the spell level is equal to half of your blood hunter level (maximum of 9th level spell).
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -247,7 +232,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Grim Psychometry (Level 9)
 
-When you reach 9th level, you have a supernatural talent for discerning the history surrounding mysterious objects or places touched by evil. When making an Intelligence ([History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)) check to recall information about a darker past surrounding an object you are touching, or a location you are present in, you have advantage on the roll. The information gleaned often leans towards the more sinister influences of the past, and sometimes conveys visions of things previously unknown to the character on higher rolls.
+When you reach 9th level, you have a supernatural talent for discerning the history surrounding mysterious objects or places touched by evil. When making an Intelligence ([History](Rules/skills.md#History)) check to recall information about a darker past surrounding an object you are touching, or a location you are present in, you have advantage on the roll. The information gleaned often leans towards the more sinister influences of the past, and sometimes conveys visions of things previously unknown to the character on higher rolls.
 
 ### Dark Augmentation (Level 10)
 
@@ -312,5 +297,5 @@ In addition, whenever you score a critical hit with a weapon attack empowered by
 ## Optional Features
 
 > [!example]- Optional Features: null
-> ![null](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-blood-curse.md#null)
+> ![null](Compendium/lists/list-optfeaturetype-blood-curse.md#null)
 ^list-optfeature-blood-curse

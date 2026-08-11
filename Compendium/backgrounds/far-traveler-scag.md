@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/scag
 aliases:
-- Far Traveler
+- "Far Traveler"
 ---
 # Far Traveler
 *Source: Sword Coast Adventurer's Guide p. 148*  
 
 
-- **Skill Proficiencies.** [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)  
+- **Skill Proficiencies.** [Insight](Rules/skills.md#Insight), [Perception](Rules/skills.md#Perception)  
 - **Tool Proficiencies.** Any one musical instrument or gaming set of your choice, likely something native to your homeland  
 - **Languages.** Any one of your choice  
-- **Equipment.** One set of [traveler's clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/travelers-clothes.md), any one musical instrument or gaming set you are proficient with, poorly wrought maps from your homeland that depict where you are in Faerûn, a small piece of jewelry worth 10 gp in the style of your homeland's craftsmanship, and a [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 5 gp  
+- **Equipment.** One set of [traveler's clothes](Compendium/items/travelers-clothes.md), any one musical instrument or gaming set you are proficient with, poorly wrought maps from your homeland that depict where you are in Faerûn, a small piece of jewelry worth 10 gp in the style of your homeland's craftsmanship, and a [pouch](Compendium/items/pouch.md) containing 5 gp  
 
 Almost all of the common people and other folk that one might encounter along the Sword Coast or in the North have one thing in common: they live out their lives without ever traveling more than a few miles from where they were born.
 

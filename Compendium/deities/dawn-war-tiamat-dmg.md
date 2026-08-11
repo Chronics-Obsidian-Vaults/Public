@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/trickery
 - source/domain/war
-aliases: 
-- Tiamat
+aliases:
+- "Tiamat"
 ---
 # Tiamat
 *Source: Dungeon Master's Guide p. 10* 

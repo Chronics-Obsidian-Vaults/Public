@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -16,9 +17,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guard Drake (Blue)
+- "Guard Drake (Blue)"
 ---
-# [Guard Drake (Blue)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/guard-drake-blue-mpmm.md)
+# [Guard Drake (Blue)](Compendium/bestiary/dragon/guard-drake-blue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
 
 ```statblock
@@ -40,11 +41,10 @@ aliases:
   - !!int "7"
 "speed": "30 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
 "damage_resistances": "lightning"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "understands Draconic but can't speak"
 "cr": "2"
 "actions":

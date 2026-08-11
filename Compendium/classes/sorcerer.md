@@ -6,7 +6,7 @@ tags:
 - source/class/sorcerer
 - source/compendium/src/5e/phb
 aliases:
-- Sorcerer
+- "Sorcerer"
 ---
 # Sorcerer
 *Source: Player's Handbook p. 99. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/sorcerer.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d6 per Sorcerer level
@@ -52,23 +54,22 @@ aliases:
 
 - **Saving Throws**: Charisma, Constitution
 - **Armor**: none
-- **Weapons**: [daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md), [darts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dart.md), [slings](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sling.md), [quarterstaffs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/quarterstaff.md), [light crossbows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/light-crossbow.md)
+- **Weapons**: [daggers](Compendium/items/dagger.md), [darts](Compendium/items/dart.md), [slings](Compendium/items/sling.md), [quarterstaffs](Compendium/items/quarterstaff.md), [light crossbows](Compendium/items/light-crossbow.md)
 - **Tools**: none
-- **Skills**: choose 2 from [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion), and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)
+- **Skills**: choose 2 from [Arcana](Rules/skills.md#Arcana), [Deception](Rules/skills.md#Deception), [Insight](Rules/skills.md#Insight), [Intimidation](Rules/skills.md#Intimidation), [Persuasion](Rules/skills.md#Persuasion), and [Religion](Rules/skills.md#Religion)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [light crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/light-crossbow.md) and [20 bolts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crossbow-bolts-20.md) or (b) any simple weapon
-- (a) a [component pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/component-pouch.md) or (b) an [arcane focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arcane-focus.md)
-- (a) a [dungeoneer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md)
-- Two [daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)
+- (a) a [light crossbow](Compendium/items/light-crossbow.md) and [20 bolts](Compendium/items/crossbow-bolts-20.md) or (b) any simple weapon
+- (a) a [component pouch](Compendium/items/component-pouch.md) or (b) an [arcane focus](Compendium/items/arcane-focus.md)
+- (a) a [dungeoneer's pack](Compendium/items/dungeoneers-pack.md) or (b) an [explorer's pack](Compendium/items/explorers-pack.md)
+- Two [daggers](Compendium/items/dagger.md)
 
 Alternatively, you may start with 3d4 × 10 gp to buy your own equipment.
 
 ## Multiclassing Sorcerer
 
 **Ability Score Minimum:** Charisma 13
-
 ## Sorcerer
 
 Golden eyes flashing, a human stretches out her hand and unleashes the dragonfire that burns in her veins. As an inferno rages around her foes, leathery wings spread from her back and she takes to the air.
@@ -101,7 +102,7 @@ How do you feel about the magical power coursing through you? Do you embrace it,
 
 #### Quick Build
 
-You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md), [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md), [ray of frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md), and [shocking grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md) cantrips, along with the 1st-level spells [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md) and [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md).
+You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [light](Compendium/spells/light.md), [prestidigitation](Compendium/spells/prestidigitation.md), [ray of frost](Compendium/spells/ray-of-frost.md), and [shocking grasp](Compendium/spells/shocking-grasp.md) cantrips, along with the 1st-level spells [shield](Compendium/spells/shield.md) and [magic missile](Compendium/spells/magic-missile.md).
 
 > [!quote] A quote from Hennet, scion of Tiamat  
 > 
@@ -201,35 +202,25 @@ When your sorcerer character casts a spell, does the effort reveal itself in a s
 
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the sorcerer spell list.
 
-#### Cantrips
+**Cantrips.** At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn an additional sorcerer cantrip of your choice at 4th level and another at 10th level.
 
-At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn an additional sorcerer cantrip of your choice at 4th level and another at 10th level.
+**Spell Slots.** The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-#### Spell Slots
+For example, if you know the 1st-level spell [burning hands](Compendium/spells/burning-hands.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [burning hands](Compendium/spells/burning-hands.md) using either slot.
 
-The Sorcerer table shows how many spell slots you have to cast your sorcerer spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-
-For example, if you know the 1st-level spell [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md) using either slot.
-
-#### Spells Known of 1st Level and Higher
-
-You know two 1st-level spells of your choice from the sorcerer spell list.
+**Spells Known of 1st Level and Higher.** You know two 1st-level spells of your choice from the sorcerer spell list.
 
 You learn an additional sorcerer spell of your choice at each level except 12th, 14th, 16th, 18th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
 
-#### Spellcasting Ability
-
-Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Charisma</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-#### Spellcasting Focus
-
-You can use an [arcane focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/arcane-focus.md) as a spellcasting focus for your sorcerer spells.
+**Spellcasting Focus.** You can use an [arcane focus](Compendium/items/arcane-focus.md) as a spellcasting focus for your sorcerer spells.
 
 ### Sorcerous Origin (Level 1)
 
@@ -249,9 +240,7 @@ You have 2 sorcery points, and you gain one additional point every time you leve
 
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
 
-#### Creating Spell Slots
-
-You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
+**Creating Spell Slots.** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The created spell slots vanish at the end of a long rest. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.
 
 **Creating Spell Slots**
 
@@ -264,9 +253,7 @@ You can transform unexpended sorcery points into one spell slot as a bonus actio
 | 5th | 7 |
 ^creating-spell-slots
 
-#### Converting a Spell Slot to Sorcery Points
-
-As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+**Converting a Spell Slot to Sorcery Points.** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
 ### Metamagic (Level 3)
 
@@ -274,21 +261,28 @@ At 3rd level, you gain the ability to twist your spells to suit your needs. You 
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
-- [Careful Spell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/careful-spell.md)  
-- [Distant Spell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/distant-spell.md)  
-- [Empowered Spell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/empowered-spell.md)  
-- [Extended Spell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/extended-spell.md)  
-- [Heightened Spell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/heightened-spell.md)  
-- [Quickened Spell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/quickened-spell.md)  
-- [Subtle Spell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/subtle-spell.md)  
-- [Twinned Spell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/twinned-spell.md)  
+Options (choose 2):
+
+- [Careful Spell](Compendium/optional-features/careful-spell.md)  
+- [Distant Spell](Compendium/optional-features/distant-spell.md)  
+- [Empowered Spell](Compendium/optional-features/empowered-spell.md)  
+- [Extended Spell](Compendium/optional-features/extended-spell.md)  
+- [Heightened Spell](Compendium/optional-features/heightened-spell.md)  
+- [Quickened Spell](Compendium/optional-features/quickened-spell.md)  
+- [Subtle Spell](Compendium/optional-features/subtle-spell.md)  
+- [Twinned Spell](Compendium/optional-features/twinned-spell.md)  
 
 ### Metamagic Options (Level 3)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*3rd-level sorcerer [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level sorcerer [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 When you choose Metamagic options, you have access to the following additional options.
+
+Options:
+
+- [Seeking Spell](Compendium/optional-features/seeking-spell-tce.md)  
+- [Transmuted Spell](Compendium/optional-features/transmuted-spell-tce.md)  
 
 ### Ability Score Improvement (Level 4)
 
@@ -299,17 +293,17 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Sorcerous Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*4th-level sorcerer [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*4th-level sorcerer [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:
 
-- Replace one of the options you chose for the Metamagic feature with a different [Metamagic option](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-mm.md) available to you.  
+- Replace one of the options you chose for the Metamagic feature with a different [Metamagic option](Compendium/lists/list-optfeaturetype-mm.md) available to you.  
 - Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the sorcerer spell list.  
 
 ### Magical Guidance (Level 5)
 _Source: Tasha's Cauldron of Everything p. 65_
 
-*5th-level sorcerer [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*5th-level sorcerer [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 You can tap into your inner wellspring of magic to try to conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the `d20`, and you must use the new roll, potentially turning the failure into a success.
 
@@ -364,5 +358,5 @@ At 20th level, you regain 4 expended sorcery points whenever you finish a short 
 ## Optional Features
 
 > [!example]- Optional Features: Metamagic
-> ![Metamagic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-mm.md#Metamagic)
+> ![Metamagic](Compendium/lists/list-optfeaturetype-mm.md#Metamagic)
 ^list-optfeature-mm

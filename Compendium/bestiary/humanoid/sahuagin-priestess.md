@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Priestess
+- "Sahuagin Priestess"
 ---
-# [Sahuagin Priestess](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/sahuagin-priestess.md)
+# [Sahuagin Priestess](Compendium/bestiary/humanoid/sahuagin-priestess.md)
 *Source: Monster Manual p. 264*  
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -63,26 +64,23 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
   - "desc": "The sahuagin is a 6th-level spellcaster. Her spellcasting ability is\
       \ Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [guiding bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guiding-bolt.md)\n\
-      \n**2nd level (3 slots):** [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [spiritual weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spiritual-weapon.md)\
-      \ (trident)\n\n**3rd level (3 slots):** [mass healing word](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-healing-word.md),\
-      \ [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](Compendium/spells/guidance.md),\
+      \ [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\n**1st level (4 slots):**\
+      \ [bless](Compendium/spells/bless.md), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [guiding bolt](Compendium/spells/guiding-bolt.md)\n\n**2nd level (3 slots):**\
+      \ [hold person](Compendium/spells/hold-person.md), [spiritual weapon](Compendium/spells/spiritual-weapon.md)\
+      \ (trident)\n\n**3rd level (3 slots):** [mass healing word](Compendium/spells/mass-healing-word.md),\
+      \ [tongues](Compendium/spells/tongues.md)"
     "name": "Spellcasting"
   - "desc": "The sahuagin has advantage on melee attack rolls against any creature\
       \ that doesn't have all its hit points."
@@ -105,7 +103,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
     "name": "Claws"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/sahuagin-priestess.webp"
+"image": "Compendium/bestiary/humanoid/token/sahuagin-priestess.webp"
 ```
 ^statblock
 

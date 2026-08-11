@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/shield/
-aliases: 
+aliases:
 - "Pariah's Shield"
 item_type: 
 item_subtype: 
@@ -14,8 +15,8 @@ rarity: rare
 attunement: required
 ---
 # Pariah's Shield
-*Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/pariahs-shield.webp#right)
+*Armor ([shield](Compendium/items/shield.md)), rare (requires attunement)*  
+![](Compendium/items/img/pariahs-shield.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

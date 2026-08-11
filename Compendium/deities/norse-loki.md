@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/norse
 - source/domain/trickery
-aliases: 
-- Loki
+aliases:
+- "Loki"
 ---
 # Loki
 *Source: Player's Handbook p. 299* 

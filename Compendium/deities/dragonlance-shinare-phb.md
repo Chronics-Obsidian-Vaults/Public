@@ -7,8 +7,8 @@ tags:
 - source/deity/dragonlance
 - source/domain/knowledge
 - source/domain/trickery
-aliases: 
-- Shinare
+aliases:
+- "Shinare"
 ---
 # Shinare
 *Source: Player's Handbook p. 295* 

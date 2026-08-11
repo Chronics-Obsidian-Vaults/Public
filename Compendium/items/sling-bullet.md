@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/ammunition
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Sling Bullet"
 item_type: 
 item_subtype: 

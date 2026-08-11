@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nivix Cyclops
+- "Nivix Cyclops"
 ---
-# [Nivix Cyclops](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/nivix-cyclops-ggr.md)
+# [Nivix Cyclops](Compendium/bestiary/giant/nivix-cyclops-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 216*  
 
 Cyclopes like those described in the Monster Manual are found primarily among the Gruul Clans. They are forces of nature, and even though they have occasionally been recruited into the Boros Legion, they can never truly be tamed.
@@ -24,7 +25,7 @@ Cyclopes serve the Izzet league as workshop guardians, personal protectors, and 
 "type": "giant"
 "alignment": "Unaligned"
 "ac": !!int "14"
-"ac_class": "[half plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/half-plate-armor.md)"
+"ac_class": "[half plate armor](Compendium/items/half-plate-armor.md)"
 "hp": !!int "115"
 "hit_dice": "10d10 + 60"
 "modifier": !!int "-1"
@@ -40,14 +41,10 @@ Cyclopes serve the Izzet league as workshop guardians, personal protectors, and 
   - "constitution": !!int "9"
   - "wisdom": !!int "3"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Giant"
 "cr": "8"
 "traits":
@@ -68,6 +65,6 @@ Cyclopes serve the Izzet league as workshop guardians, personal protectors, and 
     "name": "Spell Vitalization"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/nivix-cyclops-ggr.webp"
+"image": "Compendium/bestiary/giant/token/nivix-cyclops-ggr.webp"
 ```
 ^statblock

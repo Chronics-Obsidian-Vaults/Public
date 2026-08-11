@@ -5,30 +5,30 @@ cssclasses:
 tags:
 - source/spell/list/subclass/swarmkeeper
 aliases:
-- Spells for Swarmkeeper
+- "Spells for Swarmkeeper"
 ---
 # Spells for Swarmkeeper
 
 ## Cantrip
 
-- [Mage Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md "PHB") at class level 13
+- [Mage Hand](Compendium/spells/mage-hand.md "PHB") as cantrip, at class level 3
 
 ## 1st Level
 
-- [Faerie Fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md "PHB") at class level 13
+- [Faerie Fire](Compendium/spells/faerie-fire.md "PHB") at class level 3
 
 ## 2nd Level
 
-- [Web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md "PHB") at class level 13
+- [Web](Compendium/spells/web.md "PHB") at class level 5
 
 ## 3rd Level
 
-- [Gaseous Form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md "PHB") at class level 13
+- [Gaseous Form](Compendium/spells/gaseous-form.md "PHB") at class level 9
 
 ## 4th Level
 
-- [Arcane Eye](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-eye.md "PHB") at class level 13
+- [Arcane Eye](Compendium/spells/arcane-eye.md "PHB") at class level 13
 
 ## 5th Level
 
-- [Insect Plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md "PHB") at class level 13
+- [Insect Plague](Compendium/spells/insect-plague.md "PHB") at class level 17

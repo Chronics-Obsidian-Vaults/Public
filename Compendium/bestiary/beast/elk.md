@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elk
+- "Elk"
 ---
-# [Elk](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/elk.md)
-*Source: Monster Manual p. 322, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Elk](Compendium/bestiary/beast/elk.md)
+*Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Elk"
@@ -41,19 +42,18 @@ aliases:
   - "desc": "If the elk moves at least 20 feet straight toward a target and then hits\
       \ it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage.\
       \ If the target is a creature, it must succeed on a DC 13 Strength saving throw\
-      \ or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) bludgeoning damage."
     "name": "Ram"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one [prone](Rules/conditions.md#Prone)\
       \ creature. *Hit:* 8 (2d4 + 3) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/elk.webp"
+"image": "Compendium/bestiary/beast/token/elk.webp"
 ```
 ^statblock
 

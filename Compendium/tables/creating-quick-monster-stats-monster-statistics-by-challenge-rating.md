@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Creating Quick Monster Stats; Monster Statistics by Challenge Rating
+- "Creating Quick Monster Stats; Monster Statistics by Challenge Rating"
 ---
 # Creating Quick Monster Stats; Monster Statistics by Challenge Rating
 *Source: Dungeon Master's Guide p. 274* 

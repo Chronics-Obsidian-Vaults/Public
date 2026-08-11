@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vrock
+- "Vrock"
 ---
-# [Vrock](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/vrock.md)
-*Source: Monster Manual p. 64, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Vrock](Compendium/bestiary/fiend/vrock.md)
+*Source: Monster Manual p. 64. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Vrocks are dull-witted, capricious fiends that live only to create pain and carnage. A vrock resembles a giant hybrid of humanoid and vulture, its gnarled, bestial body and broad wings stinking of offal.
 
@@ -160,7 +161,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -213,9 +214,8 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "6"
 "traits":
@@ -233,22 +233,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Talons"
   - "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
       \ spores spread around corners. Each creature in that area must succeed on a\
-      \ DC 14 Constitution saving throw or become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way, a target takes 5 (1d10) poison damage at the start of each of\
-      \ its turns. A target can repeat the saving throw at the end of each of its\
-      \ turns, ending the effect on itself on a success. Emptying a vial of holy water\
+      \ DC 14 Constitution saving throw or become [poisoned](Rules/conditions.md#Poisoned).\
+      \ While [poisoned](Rules/conditions.md#Poisoned) in this way, a target takes\
+      \ 5 (1d10) poison damage at the start of each of its turns. A target can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success. Emptying a [vial of holy water](Compendium/items/holy-water-flask.md)\
       \ on the target also ends the effect on it."
     "name": "Spores (Recharge 6)"
   - "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
       \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\
-      \ saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the end of the vrock's next turn."
+      \ saving throw or be [stunned](Rules/conditions.md#Stunned) until the end of\
+      \ the vrock's next turn."
     "name": "Stunning Screech (1/Day)"
 "source":
   - "MM"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/vrock.webp"
+"image": "Compendium/bestiary/fiend/token/vrock.webp"
 ```
 ^statblock

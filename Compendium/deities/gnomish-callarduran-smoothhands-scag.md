@@ -7,8 +7,8 @@ tags:
 - source/deity/gnomish
 - source/domain/knowledge
 - source/domain/nature
-aliases: 
-- Callarduran Smoothhands
+aliases:
+- "Callarduran Smoothhands"
 ---
 # Callarduran Smoothhands
 *Source: Sword Coast Adventurer's Guide p. 24* 

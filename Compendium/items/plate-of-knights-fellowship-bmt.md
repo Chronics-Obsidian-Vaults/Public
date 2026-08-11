@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/armor/heavy
 - source/item/attunement/required
 - source/item/rarity/uncommon
-aliases: 
+aliases:
 - "Plate of Knight's Fellowship"
 item_type: armor
 item_subtype: heavy
@@ -14,7 +15,7 @@ rarity: uncommon
 attunement: required
 ---
 # Plate of Knight's Fellowship
-*Heavy armor ([plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)), uncommon (requires attunement)*  
+*Heavy armor ([plate armor](Compendium/items/plate-armor.md)), uncommon (requires attunement)*  
 
 
 - **Armor Class**: 18
@@ -24,9 +25,9 @@ attunement: required
 
 This gleaming set of silver-and-gold plate armor never tarnishes.
 
-While wearing this armor, you can use a bonus action to summon the spirit of a warrior to your aid. The spirit's corporeal form manifests in an unoccupied space of your choice within 30 feet of you, and it uses the [knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/knight.md) stat block. The spirit disappears when it drops to 0 hit points or after 1 minute, whichever comes first.
+While wearing this armor, you can use a bonus action to summon the spirit of a warrior to your aid. The spirit's corporeal form manifests in an unoccupied space of your choice within 30 feet of you, and it uses the [knight](Compendium/bestiary/humanoid/knight.md) stat block. The spirit disappears when it drops to 0 hit points or after 1 minute, whichever comes first.
 
-The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count but takes its turn immediately after yours. The spirit obeys your commands (no action required by you); if you don't issue any commands, the spirit takes the [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge) action and uses its movement to avoid danger.
+The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count but takes its turn immediately after yours. The spirit obeys your commands (no action required by you); if you don't issue any commands, the spirit takes the [Dodge](Rules/actions.md#Dodge) action and uses its movement to avoid danger.
 
 Once this bonus action is used, it can't be used again until the next dawn.
 

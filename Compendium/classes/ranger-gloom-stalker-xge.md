@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/ranger/gloom-stalker
 aliases:
-- Gloom Stalker
+- "Gloom Stalker"
 ---
 # Gloom Stalker
 *[Ranger](./ranger.md): Ranger Archetype*  
@@ -43,16 +43,15 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/ranger.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
-> So you sneak around in the dark? You know most everything but humans can see in the dark, right? We all see you. Tiptoeing doesn't turn you [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible).
-
-## Class Features
-
-### Gloom Stalker (Level 3)
+> So you sneak around in the dark? You know most everything but humans can see in the dark, right? We all see you. Tiptoeing doesn't turn you [invisible](Rules/conditions.md#Invisible).
 
 Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows.
+
+## Subclass Features
 
 ### Gloom Stalker Magic (Level 3)
 
@@ -62,24 +61,24 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md) |
-| 5th | [rope trick](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/rope-trick.md) |
-| 9th | [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md) |
-| 13th | [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md) |
-| 17th | [seeming](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/seeming.md) |
+| 3rd | [disguise self](Compendium/spells/disguise-self.md) |
+| 5th | [rope trick](Compendium/spells/rope-trick.md) |
+| 9th | [fear](Compendium/spells/fear.md) |
+| 13th | [greater invisibility](Compendium/spells/greater-invisibility.md) |
+| 17th | [seeming](Compendium/spells/seeming.md) |
 ^gloom-stalker-spells
 
 ### Dread Ambusher (Level 3)
 
 At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
 
-At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra `1d8` damage of the weapon's damage type.
+At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the [Attack](Rules/actions.md#Attack) action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra `1d8` damage of the weapon's damage type.
 
 ### Umbral Sight (Level 3)
 
-At 3rd level, you gain [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 60 feet. If you already have [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) from your race, its range increases by 30 feet.
+At 3rd level, you gain [darkvision](Rules/senses.md#Darkvision) out to a range of 60 feet. If you already have [darkvision](Rules/senses.md#Darkvision) from your race, its range increases by 30 feet.
 
-You are also adept at evading creatures that rely on [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision). While in darkness, you are [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) to any creature that relies on [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) to see you in that darkness.
+You are also adept at evading creatures that rely on [darkvision](Rules/senses.md#Darkvision). While in darkness, you are [invisible](Rules/conditions.md#Invisible) to any creature that relies on [darkvision](Rules/senses.md#Darkvision) to see you in that darkness.
 
 ### Iron Mind (Level 7)
 

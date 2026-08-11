@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Notorious Nightclub Adventures
+- "Notorious Nightclub Adventures"
 ---
 # Notorious Nightclub Adventures
 *Source: Guildmasters' Guide to Ravnica p. 150* 
@@ -22,8 +22,8 @@ aliases:
 | 6 | Capture a performer who ran away from a prominent family to "join the circus." |
 | 7 | Use the distraction of a performance to hold a secret meeting with someone from another guild. |
 | 8 | Spy on someone who is using the distraction of a performance to hold a secret meeting. |
-| 9 | Acquire a magic item the [Rakdos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rakdos-ggr.md) are using as part of a performance. |
-| 10 | Investigate rumors that the [Rakdos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rakdos-ggr.md) have a wingless angel in their show. |
-| 11 | Find an escaped convict who is rumored to be hiding behind [Rakdos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rakdos-ggr.md) makeup. |
-| 12 | Stop a [Rakdos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rakdos-ggr.md) member who is blackmailing an important person with embarrassing information. |
+| 9 | Acquire a magic item the [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md) are using as part of a performance. |
+| 10 | Investigate rumors that the [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md) have a wingless angel in their show. |
+| 11 | Find an escaped convict who is rumored to be hiding behind [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md) makeup. |
+| 12 | Stop a [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md) member who is blackmailing an important person with embarrassing information. |
 ^notorious-nightclub-adventures

@@ -5,16 +5,16 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Chapter 4: Puzzle
+- "Chapter 4: Puzzle"
 ---
 # Chapter 4: Puzzle
 *Source: The Book of Many Things, p. 24* 
 
-This chapter includes puzzles, riddles, and traps themed to the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) for Dungeon Masters' use.
+This chapter includes puzzles, riddles, and traps themed to the [Deck of Many Things](Compendium/items/deck-of-many-things.md) for Dungeon Masters' use.
 
 ## Puzzles
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/013-03-001-puzzle.webp#center)
+![](Compendium/books/the-book-of-many-things/img/013-03-001-puzzle.webp#center)
 
 This section presents two puzzles designed to invite group participation and challenge characters (and players) of any stripe. Each puzzle can be included in your campaign as presented or customized to fit the needs of a specific adventure.
 
@@ -47,7 +47,7 @@ This sorting puzzle can be used to indicate the presence of a hidden treasure or
 
 The statue speaks whenever anyone approaches, repeating the message each time.
 
-The card on the table is a nonmagical version of the Rogue card from a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md). The four other cards mentioned in the statue's message—Sage, Jester, Knight, and Fates—are each located in a different area nearby.
+The card on the table is a nonmagical version of the Rogue card from a [Deck of Many Things](Compendium/items/deck-of-many-things.md). The four other cards mentioned in the statue's message—Sage, Jester, Knight, and Fates—are each located in a different area nearby.
 
 Grooves in the statue's palms are perfectly sized to hold the cards. Each card can fit into the palms either upright or reversed (upside down).
 
@@ -57,17 +57,17 @@ The characters must find the four missing cards, then return here. Using the clu
 
 A hollow thud emanates from the statue if the cards are arranged incorrectly in its hands. Once the cards are placed in the correct arrangement, the statue slides aside, revealing a secret door.
 
-![Diagram 4.1: The Perfect Hand Puzzle Solution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/014-03-002-diagram-4-1.webp#center)
+![Diagram 4.1: The Perfect Hand Puzzle Solution](Compendium/books/the-book-of-many-things/img/014-03-002-diagram-4-1.webp#center)
 
 #### Hint Checks
 
 Any character can make these ability checks to receive a hint:
 
-**Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) DC 10.** For the cards to face the directions indicated in the statue's instructions, some must be placed in the statue's hands upside down.
+**Intelligence ([Investigation](Rules/skills.md#Investigation)) DC 10.** For the cards to face the directions indicated in the statue's instructions, some must be placed in the statue's hands upside down.
 
-**Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) DC 10.** The statue's message explains the proper order in which to sort the cards.
+**Wisdom ([Insight](Rules/skills.md#Insight)) DC 10.** The statue's message explains the proper order in which to sort the cards.
 
-**Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) DC 10.** Grooves in the statue's palms would perfectly fit a fanned hand of five cards.
+**Wisdom ([Perception](Rules/skills.md#Perception)) DC 10.** Grooves in the statue's palms would perfectly fit a fanned hand of five cards.
 
 #### Customizing the Puzzle
 
@@ -113,14 +113,14 @@ This guessing game requires characters to use deductive reasoning to determine t
 
 > [!note] 
 > 
-> ![Diagram 4.2: Unseen Order Handout 1](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/015-03-006-diagram-42-unseen-order-1.webp#center)
+> ![Diagram 4.2: Unseen Order Handout 1](Compendium/books/the-book-of-many-things/img/015-03-006-diagram-42-unseen-order-1.webp#center)
 > 
-> ![Diagram 4.3: Unseen Order Handout 2](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/016-03-007-diagram-43-unseen-order-2.webp#center)
+> ![Diagram 4.3: Unseen Order Handout 2](Compendium/books/the-book-of-many-things/img/016-03-007-diagram-43-unseen-order-2.webp#center)
 ^050
 
 #### Puzzle Features
 
-The cards on the table are nonmagical versions of those from the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md). If the characters struggle to understand the riddle, the ghost can explain the rules more clearly:
+The cards on the table are nonmagical versions of those from the [Deck of Many Things](Compendium/items/deck-of-many-things.md). If the characters struggle to understand the riddle, the ghost can explain the rules more clearly:
 
 - **Objective.** The characters must guess which cards are in the ghost's hand and in what order.  
 - **Rules.** To make their first guess, the characters must place four cards into the empty slots of the first row on the board. The ghost's hand might consist of four different cards, or it might include two or more copies of the same card. If a card in that row is the correct card in the correct slot, the orb next to that row turns red. If a guessed card is one of the cards in the ghost's hand but is in the wrong slot, an orb turns blue. The characters can use this information to make another guess by placing four more cards in the next row down.  
@@ -139,14 +139,14 @@ The answer to this puzzle can be determined only through logic. Diagram 4.4 illu
 
 > [!note] 
 > 
-> ![Diagram 4.4: Unseen Order Solution (Example)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-book-of-many-things/img/017-03-008-diagram-44-unseen-order-solve.webp#center)
+> ![Diagram 4.4: Unseen Order Solution (Example)](Compendium/books/the-book-of-many-things/img/017-03-008-diagram-44-unseen-order-solve.webp#center)
 ^051
 
 #### Hint Checks
 
 Any character can make the following ability check to receive a hint:
 
-**Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) DC 10.** If asked politely, the ghost provides an example of how the game might play out. Show the players diagram 4.4. Choose a different solution for the actual puzzle.
+**Charisma ([Persuasion](Rules/skills.md#Persuasion)) DC 10.** If asked politely, the ghost provides an example of how the game might play out. Show the players diagram 4.4. Choose a different solution for the actual puzzle.
 
 #### Customizing the Puzzle
 
@@ -188,11 +188,11 @@ Writing new riddles for your group can be fun and satisfying—as long as the pl
 - **Give Three Clues.** A strong riddle provides multiple clues about the answer; three is a good number. To vary a riddle's difficulty, you could split the clues up, providing the first clue initially, then the second and third if the characters ask for a hint.  
 - **Rhyming.** Though it's not always possible or necessary to give a riddle rhythm and rhyme, doing so is a good way to help the characters remember the riddle. Rhyming words can also be clues, indicating which part of the riddle is most important.  
 - **Guesses and Time.** Give characters plenty of time to guess a riddle's answer, and let them make multiple guesses. In the game, characters might have hours or days to answer a particularly challenging riddle. In the real world, you could pose a riddle near the end of a game session, allowing your players to ponder guesses before reconvening. (Remind them of the clues at that time.)  
-- **Hints.** For a high-stakes riddle, consider preparing one or two hints for characters who are stumped. To earn a hint, a character might have to succeed on a DC 10 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check.  
+- **Hints.** For a high-stakes riddle, consider preparing one or two hints for characters who are stumped. To earn a hint, a character might have to succeed on a DC 10 Intelligence ([Investigation](Rules/skills.md#Investigation)) check.  
 
 ### Twenty-Two Riddles
 
-Here are twenty-two riddles you can use in any campaign. Each riddle's answer is the name of a card from the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md):
+Here are twenty-two riddles you can use in any campaign. Each riddle's answer is the name of a card from the [Deck of Many Things](Compendium/items/deck-of-many-things.md):
 
 > [!readaloud] 
 > 
@@ -356,6 +356,6 @@ Trap rooms aren't likely to be found in just any abandoned manor or forgotten te
 
 Each of the trap rooms described below includes a range of suggested character levels to match that room's difficulty. Each entry also includes information about the trap room's features and a diagram illustrating its design. You can use the "trap guidelines" in the "Dungeon Master's Guide" to adjust these traps' severity.
 
-- [Balance and Ruin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/balance-and-ruin-bmt.md)  
-- [Surface of the Sun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/surface-of-the-sun-bmt.md)  
-- [Test of the Empty Moon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/traps-hazards/test-of-the-empty-moon-bmt.md)
+- [Balance and Ruin](Compendium/traps-hazards/balance-and-ruin-bmt.md)  
+- [Surface of the Sun](Compendium/traps-hazards/surface-of-the-sun-bmt.md)  
+- [Test of the Empty Moon](Compendium/traps-hazards/test-of-the-empty-moon-bmt.md)

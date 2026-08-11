@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/17
@@ -15,9 +16,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nagpa
+- "Nagpa"
 ---
-# [Nagpa](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/nagpa-mpmm.md)
+# [Nagpa](Compendium/bestiary/monstrosity/nagpa-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*  
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -50,18 +51,17 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
   - "wisdom": !!int "10"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+12"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+12"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 20"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 20"
 "languages": "Common plus up to five other languages"
 "cr": "17"
 "actions":
@@ -75,37 +75,31 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
       \ 30 (7d6 + 6) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The nagpa casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 20):\n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md)\n\
-      \n**2/day each:** [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md)\n\
-      \n**1/day each:** [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md),\
-      \ [etherealness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/etherealness.md),\
-      \ [feeblemind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feeblemind.md)"
+      \ spellcasting ability (spell save DC 20):\n\n**At will:** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [message](Compendium/spells/message.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md)\n\n**2/day each:** [fireball](Compendium/spells/fireball.md),\
+      \ [fly](Compendium/spells/fly.md), [hold person](Compendium/spells/hold-person.md),\
+      \ [suggestion](Compendium/spells/suggestion.md), [wall of fire](Compendium/spells/wall-of-fire.md)\n\
+      \n**1/day each:** [dominate person](Compendium/spells/dominate-person.md), [etherealness](Compendium/spells/etherealness.md),\
+      \ [feeblemind](Compendium/spells/feeblemind.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\
       \ must make a DC 20 Charisma saving throw. An evil creature makes the save with\
-      \ disadvantage. On a failed save, the target is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ disadvantage. On a failed save, the target is [charmed](Rules/conditions.md#Charmed)\
       \ by the nagpa until the start of the nagpa's next turn. On a successful save,\
       \ the target becomes immune to the nagpa's Corruption for the next 24 hours."
     "name": "Corruption"
   - "desc": "The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom\
       \ saving throw, excluding Undead and Constructs. On a failed save, a target\
-      \ is [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ for 1 minute. A [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ is [paralyzed](Rules/conditions.md#Paralyzed) for 1 minute. A [paralyzed](Rules/conditions.md#Paralyzed)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Paralysis (Recharge 6-6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/nagpa-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/nagpa-mpmm.webp"
 ```
 ^statblock
 

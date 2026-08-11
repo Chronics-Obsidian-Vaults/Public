@@ -7,8 +7,8 @@ tags:
 - source/deity/gnomish
 - source/domain/peace
 - source/domain/war
-aliases: 
-- Gaerdal Ironhand
+aliases:
+- "Gaerdal Ironhand"
 ---
 # Gaerdal Ironhand
 *Source: Sword Coast Adventurer's Guide p. 24, Tasha's Cauldron of Everything p. 33* 

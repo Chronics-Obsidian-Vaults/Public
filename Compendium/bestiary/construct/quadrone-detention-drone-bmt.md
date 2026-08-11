@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quadrone Detention Drone
+- "Quadrone Detention Drone"
 ---
-# [Quadrone Detention Drone](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/quadrone-detention-drone-bmt.md)
+# [Quadrone Detention Drone](Compendium/bestiary/construct/quadrone-detention-drone-bmt.md)
 *Source: The Book of Many Things p. 135*  
 
 Detention drones vary in size, strength, and shape, though most are shaped like some kind of mechanical animal or plant.
@@ -35,10 +36,11 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
   - !!int "11"
 "speed": "30 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 12"
+"gear":
+  - "[shortbow](Compendium/items/shortbow.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 12"
 "languages": "Modron"
 "cr": "1"
 "traits":
@@ -64,7 +66,7 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
       \ breathe, eat, or drink, and it doesn't age. Nothing can pass through the orb,\
       \ nor can any creature teleport or use planar travel to enter or exit the orb.\
       \ As a bonus action, the drone can move the orb and its contents up to 30 feet\
-      \ in any direction. A successful casting of the [Dispel Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\
+      \ in any direction. A successful casting of the [Dispel Magic](Compendium/spells/dispel-magic.md)\
       \ spell on the orb (DC 15) destroys it. The orb otherwise remains intact until\
       \ the drone spends an action to end the effect or the drone is destroyed. A\
       \ drone can have only one detention orb active at a time; if the drone creates\
@@ -73,6 +75,6 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
     "name": "Detention Orb"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/quadrone-detention-drone-bmt.webp"
+"image": "Compendium/bestiary/construct/token/quadrone-detention-drone-bmt.webp"
 ```
 ^statblock

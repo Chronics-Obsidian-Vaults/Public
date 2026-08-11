@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thri-kreen (Weapons and Psionics)
+- "Thri-kreen (Weapons and Psionics)"
 ---
-# [Thri-kreen (Weapons and Psionics)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/thri-kreen-weapons-and-psionics.md)
+# [Thri-kreen (Weapons and Psionics)](Compendium/bestiary/humanoid/thri-kreen-weapons-and-psionics.md)
 *Source: Monster Manual p. 288*  
 
 ```statblock
@@ -36,30 +37,25 @@ aliases:
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Thri-kreen"
 "cr": "1"
 "traits":
   - "desc": "The thri-kreen's innate spellcasting ability is Wisdom. The thri-kreen\
       \ can innately cast the following spells, requiring no components:\n\n**At will:**\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md)\
-      \ (the hand is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible))\n\
-      \n**2/day each:** [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md),\
-      \ [magic weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-weapon.md)\n\
-      \n**1/day:** [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only)"
+      \ [mage hand](Compendium/spells/mage-hand.md) (the hand is [invisible](Rules/conditions.md#Invisible))\n\
+      \n**2/day each:** [blur](Compendium/spells/blur.md), [magic weapon](Compendium/spells/magic-weapon.md)\n\
+      \n**1/day:** [invisibility](Compendium/spells/invisibility.md) (self only)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The thri-kreen can change the color of its carapace to match the color\
       \ and texture of its surroundings. As a result, it has advantage on Dexterity\
-      \ ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
-      \ checks made to hide."
+      \ ([Stealth](Rules/skills.md#Stealth)) checks made to hide."
     "name": "Chameleon Carapace"
   - "desc": "The thri-kreen's long jump is up to 30 feet and its high jump is up to\
       \ 15 feet, with or without a running start."
@@ -70,10 +66,9 @@ aliases:
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4\
       \ (1d6 + 1) piercing damage, and the target must succeed on a DC 11 Constitution\
-      \ saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. If the saving throw fails by 5 or more, the target is also [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ while [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way. The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ saving throw or be [poisoned](Rules/conditions.md#Poisoned) for 1 minute.\
+      \ If the saving throw fails by 5 or more, the target is also [paralyzed](Rules/conditions.md#Paralyzed)\
+      \ while [poisoned](Rules/conditions.md#Poisoned) in this way. The [poisoned](Rules/conditions.md#Poisoned)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Bite"

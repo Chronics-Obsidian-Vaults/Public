@@ -6,7 +6,7 @@ tags:
 - source/class/paladin
 - source/compendium/src/5e/phb
 aliases:
-- Paladin
+- "Paladin"
 ---
 # Paladin
 *Source: Player's Handbook p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -42,6 +42,8 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/paladin.webp#right)
+
 ## Hit Points
 
 - **Hit Dice**: 1d10 per Paladin level
@@ -51,17 +53,17 @@ aliases:
 ## Starting Paladin
 
 - **Saving Throws**: Charisma, Wisdom
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor), [medium armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Medium%20Armor), [heavy armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Heavy%20Armor), [shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor), [medium armor](Rules/item-types.md#Medium%20Armor), [heavy armor](Rules/item-types.md#Heavy%20Armor), [shields](Compendium/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
 - **Tools**: none
-- **Skills**: choose 2 from [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion), and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)
+- **Skills**: choose 2 from [Athletics](Rules/skills.md#Athletics), [Insight](Rules/skills.md#Insight), [Intimidation](Rules/skills.md#Intimidation), [Medicine](Rules/skills.md#Medicine), [Persuasion](Rules/skills.md#Persuasion), and [Religion](Rules/skills.md#Religion)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a martial weapon and a [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md) or (b) two martial weapons
-- (a) five [javelins](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/javelin.md) or (b) any simple melee weapon
-- (a) a [priest's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/priests-pack.md) or (b) an [explorer's pack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/explorers-pack.md)
-- [Chain mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-mail.md) and a [holy symbol](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/holy-symbol.md)
+- (a) a martial weapon and a [shield](Compendium/items/shield.md) or (b) two martial weapons
+- (a) five [javelins](Compendium/items/javelin.md) or (b) any simple melee weapon
+- (a) a [priest's pack](Compendium/items/priests-pack.md) or (b) an [explorer's pack](Compendium/items/explorers-pack.md)
+- [Chain mail](Compendium/items/chain-mail.md) and a [holy symbol](Compendium/items/holy-symbol.md)
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -71,9 +73,8 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Light%20Armor), [medium armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-types.md#Medium%20Armor), [shields](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)
+- **Armor**: [light armor](Rules/item-types.md#Light%20Armor), [medium armor](Rules/item-types.md#Medium%20Armor), [shields](Compendium/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
-
 ## Paladin
 
 Clad in plate armor that gleams in the sunlight despite the dust and grime of long travel, a human lays down her sword and shield and places her hands on a mortally wounded man. Divine radiance shines from her hands, the man's wounds knit closed, and his eyes open wide with amazement.
@@ -106,7 +107,7 @@ As guardians against the forces of wickedness, paladins are rarely of any evil a
 
 #### Quick Build
 
-You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [noble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/noble.md) background.
+You can make a paladin quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the [noble](Compendium/backgrounds/noble.md) background.
 
 > [!quote] A quote from Isteval  
 > 
@@ -202,7 +203,7 @@ What is the temptation that your character succumbs to or finds it difficult to 
 
 ### Divine Sense (Level 1)
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [hallow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hallow.md) spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [hallow](Compendium/spells/hallow.md) spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -224,36 +225,35 @@ Starting at 2nd level, when you hit a creature with a melee weapon attack, you c
 
 At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [Defense](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/defense.md)  
-- [Dueling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/dueling.md)  
-- [Great Weapon Fighting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/great-weapon-fighting.md)  
-- [Protection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/protection.md)  
+Options (choose 1):
+
+- [Defense](Compendium/optional-features/defense.md)  
+- [Dueling](Compendium/optional-features/dueling.md)  
+- [Great Weapon Fighting](Compendium/optional-features/great-weapon-fighting.md)  
+- [Protection](Compendium/optional-features/protection.md)  
+- [Blessed Warrior](Compendium/optional-features/blessed-warrior-tce.md)  
+- [Blind Fighting](Compendium/optional-features/blind-fighting-tce.md)  
+- [Interception](Compendium/optional-features/interception-tce.md)  
 
 ### Spellcasting (Level 2)
 
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the paladin spell list.
 
-#### Preparing and Casting Spells
-
-The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Preparing and Casting Spells.** The Paladin table shows how many spell slots you have to cast your paladin spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd-level, in any combination. If you prepare the 1st-level spell [cure wounds](Compendium/spells/cure-wounds.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-#### Spellcasting Ability
-
-Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Charisma</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-#### Spellcasting Focus
-
-You can use a [holy symbol](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/holy-symbol.md) as a spellcasting focus for your paladin spells.
+**Spellcasting Focus.** You can use a [holy symbol](Compendium/items/holy-symbol.md) as a spellcasting focus for your paladin spells.
 
 ### Divine Health (Level 3)
 
@@ -265,9 +265,7 @@ When you reach 3rd level, you swear the oath that binds you as a paladin forever
 
 Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
 
-#### Oath Spells
-
-Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
+**Oath Spells.** Each oath has a list of associated spells. You gain access to these spells at the levels specified in the oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells don't count against the number of spells you can prepare each day.
 
 If you gain an oath spell that doesn't appear on the paladin spell list, the spell is nonetheless a paladin spell for you.
 
@@ -282,7 +280,7 @@ Some Channel Divinity effects require saving throws. When you use such an effect
 ### Channel Divinity: Harness Divine Power (Level 3)
 _Source: Tasha's Cauldron of Everything p. 52_
 
-*3rd-level paladin [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*3rd-level paladin [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
 You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 3rd level, once; 7th level, twice; and 15th level, thrice. You regain all expended uses when you finish a long rest.
 
@@ -304,13 +302,13 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Martial Versatility (Level 4)
 _Source: Tasha's Cauldron of Everything p. 52_
 
-*4th-level paladin [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md)*
+*4th-level paladin [optional feature](Rules/variant-rules/optional-class-features-tce.md)*
 
-Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [fighting style](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-fs-p.md) you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a [fighting style](Compendium/lists/list-optfeaturetype-fs-p.md) you know with another fighting style available to paladins. This replacement represents a shift of focus in your martial practice.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](Rules/actions.md#Attack) action on your turn.
 
 ### Aura of Protection (Level 6)
 
@@ -330,7 +328,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Aura of Courage (Level 10)
 
-Starting at 10th level, you and friendly creatures within 10 feet of you can't be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) while you are conscious.
+Starting at 10th level, you and friendly creatures within 10 feet of you can't be [frightened](Rules/conditions.md#Frightened) while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
@@ -377,5 +375,5 @@ At 20th level, you gain a feature granted to you by your Sacred Oath.
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Paladin
-> ![Fighting Style, Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-fs-p.md#Fighting%20Style,%20Paladin)
+> ![Fighting Style, Paladin](Compendium/lists/list-optfeaturetype-fs-p.md#Fighting%20Style,%20Paladin)
 ^list-optfeature-fs-p

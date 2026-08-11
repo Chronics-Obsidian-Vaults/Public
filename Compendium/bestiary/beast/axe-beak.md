@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Axe Beak
+- "Axe Beak"
 ---
-# [Axe Beak](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/axe-beak.md)
+# [Axe Beak](Compendium/bestiary/beast/axe-beak.md)
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
@@ -44,7 +45,7 @@ An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped
     "name": "Beak"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/axe-beak.webp"
+"image": "Compendium/bestiary/beast/token/axe-beak.webp"
 ```
 ^statblock
 

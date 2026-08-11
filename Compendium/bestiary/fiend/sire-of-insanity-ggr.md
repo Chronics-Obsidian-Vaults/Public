@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/12
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sire of Insanity
+- "Sire of Insanity"
 ---
-# [Sire of Insanity](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/sire-of-insanity-ggr.md)
+# [Sire of Insanity](Compendium/bestiary/fiend/sire-of-insanity-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 197*  
 
 Rakdos nightclubs, where visitors can indulge any dark desire and revel in sadistic spectacle, are the favored haunts of the demons known as sires of insanity. Lurking in an underground vault beneath a Rakdos operation, a sire of insanity feasts on the violence, torment, and depravity unfolding above. Occasionally, cultists bring would-be recruits to the demon's presence, and—true to its name—the sire of insanity breaks the new cultist's mind.
@@ -26,11 +27,11 @@ Demons are agents of destruction that work their acts of terror in plain sight u
 
 ### Demonic "Devils"
 
-The creatures called "devils" in Ravnica are minor demons akin to [quasits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/quasit.md). While the larger demons embody evil qualities such as blood lust and torment, these lesser demons reflect the whimsical and chaotic side of Rakdos and his cult. Their mischievous antics cause disorder and destruction out of proportion to the demons' small size.
+The creatures called "devils" in Ravnica are minor demons akin to [quasits](Compendium/bestiary/fiend/quasit.md). While the larger demons embody evil qualities such as blood lust and torment, these lesser demons reflect the whimsical and chaotic side of Rakdos and his cult. Their mischievous antics cause disorder and destruction out of proportion to the demons' small size.
 
 ### Diabolic Demons
 
-Many of the demons of Ravnica are monstrous, winged creatures of human-like form. They are best represented by the statistics of the [nalfeshnee](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/nalfeshnee.md), the [shadow demon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/shadow-demon.md), or the [vrock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/vrock.md) in the Monster Manual. Demons associated with the Cult of Rakdos often have fiery attacks that make them similar to barbed devils or horned devils, except that they are demons. (They are chaotic evil, they speak Abyssal and not Infernal, and they lack Devil's Sight.)
+Many of the demons of Ravnica are monstrous, winged creatures of human-like form. They are best represented by the statistics of the [nalfeshnee](Compendium/bestiary/fiend/nalfeshnee.md), the [shadow demon](Compendium/bestiary/fiend/shadow-demon.md), or the [vrock](Compendium/bestiary/fiend/vrock.md) in the Monster Manual. Demons associated with the Cult of Rakdos often have fiery attacks that make them similar to barbed devils or horned devils, except that they are demons. (They are chaotic evil, they speak Abyssal and not Infernal, and they lack Devil's Sight.)
 
 ```statblock
 "name": "Sire of Insanity (GGR)"
@@ -57,27 +58,24 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+10"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+10"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 14"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 14"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "12"
 "traits":
   - "desc": "The sire's innate spellcasting ability is Charisma (spell save DC 18,\
       \ +10 to hit with spell attacks). The sire can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md),\
-      \ [crown of madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**1/day each:** [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [mass suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-suggestion.md)"
+      \ requiring no material components:\n\n**At will:** [clairvoyance](Compendium/spells/clairvoyance.md),\
+      \ [crown of madness](Compendium/spells/crown-of-madness.md), [major image](Compendium/spells/major-image.md),\
+      \ [suggestion](Compendium/spells/suggestion.md)\n\n**1/day each:** [confusion](Compendium/spells/confusion.md),\
+      \ [mass suggestion](Compendium/spells/mass-suggestion.md)"
     "name": "Innate Spellcasting"
   - "desc": "Any creature that starts its turn within 30 feet of the sire must make\
       \ a DC 18 Wisdom saving throw. On a successful save, the creature is immune\
@@ -100,6 +98,6 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
     "name": "Claws"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/sire-of-insanity-ggr.webp"
+"image": "Compendium/bestiary/fiend/token/sire-of-insanity-ggr.webp"
 ```
 ^statblock

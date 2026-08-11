@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/rarity/legendary
-aliases: 
+aliases:
 - "Luxon Beacon"
 item_type: 
 item_subtype: 
@@ -13,7 +14,7 @@ attunement: none
 ---
 # Luxon Beacon
 *Wondrous item, legendary*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/luxon-beacon.webp#right)
+![](Compendium/items/img/luxon-beacon.webp#right)
 
 
 This dodecahedron of faintly glowing crystal is heavier than it appears. A set of handles are affixed to its sides, and it pulsates and thrums when touched.

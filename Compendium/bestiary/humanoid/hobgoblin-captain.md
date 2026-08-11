@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -14,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hobgoblin Captain
+- "Hobgoblin Captain"
 ---
-# [Hobgoblin Captain](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/hobgoblin-captain.md)
+# [Hobgoblin Captain](Compendium/bestiary/humanoid/hobgoblin-captain.md)
 *Source: Monster Manual p. 186*  
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
@@ -83,7 +84,7 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 "subtype": "goblinoid"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[half plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/half-plate-armor.md)"
+"ac_class": "[half plate armor](Compendium/items/half-plate-armor.md)"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "2"
@@ -95,14 +96,16 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
   - !!int "10"
   - !!int "13"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
   - "desc": "Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature\
       \ it hits with a weapon attack if that creature is within 5 feet of an ally\
-      \ of the hobgoblin that isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ of the hobgoblin that isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Martial Advantage"
 "actions":
   - "desc": "The hobgoblin makes two greatsword attacks."
@@ -117,11 +120,11 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
       \ a nonhostile creature that it can see within 30 feet of it makes an attack\
       \ roll or a saving throw. The creature can add a d4 to its roll provided it\
       \ can hear and understand the hobgoblin. A creature can benefit from only one\
-      \ Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Leadership (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/hobgoblin-captain.webp"
+"image": "Compendium/bestiary/humanoid/token/hobgoblin-captain.webp"
 ```
 ^statblock
 

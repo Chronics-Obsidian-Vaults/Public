@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Oblex
+- "Adult Oblex"
 ---
-# [Adult Oblex](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\ooze/adult-oblex-mpmm.md)
+# [Adult Oblex](Compendium/bestiary/ooze/adult-oblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 198, Mordenkainen's Tome of Foes p. 218*  
 
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
@@ -54,22 +55,18 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - "intelligence": !!int "7"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "desc": "\n\nOne of [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)\
-      \ +7, [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)\
-      \ +7, [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)\
-      \ +7, or [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)\
+  - "desc": "\n\nOne of [Arcana](Rules/skills.md#Arcana) +7, [History](Rules/skills.md#History)\
+      \ +7, [Nature](Rules/skills.md#Nature) +7, or [Religion](Rules/skills.md#Religion)\
       \ +7"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this distance), passive Perception 14"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [prone](Rules/conditions.md#Prone)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this distance),\
+  \ passive Perception 14"
 "languages": "Common plus two more languages"
 "cr": "5"
 "traits":
@@ -89,22 +86,21 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
       \ must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage\
       \ and become memory drained until it finishes a short or long rest or until\
-      \ it benefits from the [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
-      \ or [heal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heal.md)\
-      \ spell. Constructs, Oozes, Plants, and Undead succeed on the save automatically.\n\
-      \nWhile memory drained, the target must roll a d4 and subtract the number rolled\
-      \ from its ability checks and attack rolls. Each time the target is memory drained\
-      \ beyond the first, the die size increases by one: the d4 becomes a d6, the\
-      \ d6 becomes a d8, and so on until the die becomes a d20, at which point the\
-      \ target becomes [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
+      \ it benefits from the [greater restoration](Compendium/spells/greater-restoration.md)\
+      \ or [heal](Compendium/spells/heal.md) spell. Constructs, Oozes, Plants, and\
+      \ Undead succeed on the save automatically.\n\nWhile memory drained, the target\
+      \ must roll a d4 and subtract the number rolled from its ability checks and\
+      \ attack rolls. Each time the target is memory drained beyond the first, the\
+      \ die size increases by one: the d4 becomes a d6, the d6 becomes a d8, and so\
+      \ on until the die becomes a d20, at which point the target becomes [unconscious](Rules/conditions.md#Unconscious)\
       \ for 1 hour. The effect then ends.\n\nThe oblex learns all the languages a\
       \ memory-drained target knows and gains all its skill proficiencies."
     "name": "Eat Memories"
   - "desc": "The oblex casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      **3/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md)\
-      \ (as 5th-level spell), [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [hypnotic pattern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hypnotic-pattern.md)"
+      **3/day each:** [charm person](Compendium/spells/charm-person.md) (as 5th-level\
+      \ spell), [detect thoughts](Compendium/spells/detect-thoughts.md), [hypnotic\
+      \ pattern](Compendium/spells/hypnotic-pattern.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The oblex extrudes a piece of itself that assumes the appearance of one\
@@ -121,7 +117,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/token/adult-oblex-mpmm.webp"
+"image": "Compendium/bestiary/ooze/token/adult-oblex-mpmm.webp"
 ```
 ^statblock
 

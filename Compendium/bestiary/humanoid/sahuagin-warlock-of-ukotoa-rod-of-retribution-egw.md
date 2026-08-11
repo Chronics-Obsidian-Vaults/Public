@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Warlock of Uk'otoa (Rod of Retribution)
+- "Sahuagin Warlock of Uk'otoa (Rod of Retribution)"
 ---
-# [Sahuagin Warlock of Uk'otoa (Rod of Retribution)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/sahuagin-warlock-of-ukotoa-rod-of-retribution-egw.md)
+# [Sahuagin Warlock of Uk'otoa (Rod of Retribution)](Compendium/bestiary/humanoid/sahuagin-warlock-of-ukotoa-rod-of-retribution-egw.md)
 *Source: Explorer's Guide to Wildemount p. 297*  
 
 ```statblock
@@ -34,25 +35,22 @@ aliases:
   - !!int "16"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+1"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 9"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 9"
 "languages": "Common, Sahuagin"
 "cr": "3"
 "traits":
   - "desc": "The warlock's innate spellcasting ability is Charisma (spell save DC\
       \ 13, +5 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [eldritch blast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/eldritch-blast.md)\
-      \ (see \"Actions\" below), [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md)\n\
-      \n**1/day each:** [armor of Agathys](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/armor-of-agathys.md),\
-      \ [arms of Hadar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arms-of-hadar.md),\
-      \ [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [crown of madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [hunger of Hadar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hunger-of-hadar.md)"
+      \ requiring no material components:\n\n**At will:** [eldritch blast](Compendium/spells/eldritch-blast.md)\
+      \ (see \"Actions\" below), [minor illusion](Compendium/spells/minor-illusion.md)\n\
+      \n**1/day each:** [armor of Agathys](Compendium/spells/armor-of-agathys.md),\
+      \ [arms of Hadar](Compendium/spells/arms-of-hadar.md), [counterspell](Compendium/spells/counterspell.md),\
+      \ [crown of madness](Compendium/spells/crown-of-madness.md), [invisibility](Compendium/spells/invisibility.md),\
+      \ [hunger of Hadar](Compendium/spells/hunger-of-hadar.md)"
     "name": "Innate Spellcasting"
   - "desc": "The warlock has advantage on melee attack rolls against any creature\
       \ that doesn't have all its hit points."
@@ -63,7 +61,7 @@ aliases:
   - "desc": "The warlock can magically command any shark within 120 feet of it, using\
       \ a limited telepathy."
     "name": "Shark Telepathy"
-  - "desc": "The warlock carries a [rod of retribution](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rod-of-retribution-egw.md)."
+  - "desc": "The warlock carries a [rod of retribution](Compendium/items/rod-of-retribution-egw.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "The warlock makes two attacks: one with its bite and one with its Sword\
@@ -75,8 +73,8 @@ aliases:
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
       \ + 2) slashing damage, and if the target is a creature, it must succeed on\
       \ a DC 13 Constitution saving throw or begin choking. The choking creature is\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ until the end of its next turn, when the effect ends on it."
+      \ [incapacitated](Rules/conditions.md#Incapacitated) until the end of its next\
+      \ turn, when the effect ends on it."
     "name": "Sword of Fathoms"
   - "desc": "*Ranged Spell Attack:* +5 to hit, range 120 ft., one creature. *Hit:*\
       \ 5 (1d10) force damage."

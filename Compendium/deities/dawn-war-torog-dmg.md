@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/dmg
 - source/deity/dawn-war
 - source/domain/death
-aliases: 
-- Torog
+aliases:
+- "Torog"
 ---
 # Torog
 *Source: Dungeon Master's Guide p. 10* 

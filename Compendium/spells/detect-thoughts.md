@@ -1,22 +1,23 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/dimir-operative
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
+- source/spell/feat/mark-of-detection
 - source/spell/feat/telepathic
 - source/spell/level/2nd-level
 - source/spell/race/githzerai
-- source/spell/reward/kruphixs-votary
 - source/spell/school/divination
 - source/spell/subclass/aberrant-mind
 - source/spell/subclass/arcane-trickster
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/the-great-old-one
-- source/spell/subrace/half-elf-mark-of-detection
 - source/spell/subrace/tiefling-dispater
 classes:
 - Bard (Magical Secrets)
@@ -27,7 +28,7 @@ classes:
 - Warlock (The Great Old One)
 - Wizard
 aliases:
-- Detect Thoughts
+- "Detect Thoughts"
 level: 2
 school: divination
 ritual: false
@@ -57,6 +58,6 @@ You can also use this spell to detect the presence of thinking creatures you can
 
 Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Aberrant Mind)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Great Old One)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-great-old-one.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer (Aberrant Mind)](Compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Great Old One)](Compendium/lists/list-spells-classes-the-great-old-one.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 231. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

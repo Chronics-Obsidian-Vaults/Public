@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/artifact
-aliases: 
+aliases:
 - "Crook of Rao"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Crook of Rao
 *Wondrous item, artifact (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/crook-of-rao.webp#right)
+![](Compendium/items/img/crook-of-rao.webp#right)
 
 
 Ages ago, the serene god Rao created a tool to shield his fledgling faithful against the evils of the Lower Planes. Yet, as eons passed, mortals developed their own methods of dealing with existential threats, and the crook was largely forgotten. In recent ages, though, the Crook of Rao was rediscovered and leveraged against the rising power of the Witch Queen Iggwilv (one of the names of the wizard Tasha). Although she was defeated, Iggwilv managed to damage the crook during the battle, infecting it with an insidious curse-and the potential for future victory. In the aftermath, the crook was again lost. Occasionally it reappears, but the famed artifact is not what it was. Whether or not the artifact's bearers realize its full threat, few risk using the Crook of Rao -potentially for the final time.
@@ -23,13 +24,13 @@ Ages ago, the serene god Rao created a tool to shield his fledgling faithful aga
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor beneficial](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
-- 1 [major beneficial](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-beneficial-properties.md) property  
-- 1 [minor detrimental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-detrimental-properties.md) property  
+- 2 [minor beneficial](Compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
+- 1 [major beneficial](Compendium/tables/artifact-properties-major-beneficial-properties.md) property  
+- 1 [minor detrimental](Compendium/tables/artifact-properties-minor-detrimental-properties.md) property  
 
 ## Spells
 
-The crook has 6 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [aura of life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-life.md) (2 charges), [aura of purity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-purity.md) (2 charges), [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md) (1 charge), [beacon of hope](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/beacon-of-hope.md) (1 charge), [mass cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-cure-wounds.md) (3 charges). The crook regains `1d6` expended charges daily at dawn.
+The crook has 6 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [aura of life](Compendium/spells/aura-of-life.md) (2 charges), [aura of purity](Compendium/spells/aura-of-purity.md) (2 charges), [banishment](Compendium/spells/banishment.md) (1 charge), [beacon of hope](Compendium/spells/beacon-of-hope.md) (1 charge), [mass cure wounds](Compendium/spells/mass-cure-wounds.md) (3 charges). The crook regains `1d6` expended charges daily at dawn.
 
 ## Absolute Banishment
 
@@ -41,19 +42,19 @@ Whenever the Crook of Rao's Absolute Banishment property is used, or when its la
 
 ## Iggwilv's Curse
 
-When the Crook was last used against Iggwilv, the Witch Queen lashed out at the artifact, infecting its magical matrix. Over the years, this curse has spread within the crook, threatening to violently pervert its ancient magic. If this occurs, the Crook of Rao, as it is currently known, is destroyed, its magical matrix inverting and exploding into a 50-foot-diameter portal. This portal functions as a permanent [gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gate.md) spell cast by Iggwilv. The gate then, once per round on initiative count 20, audibly speaks a fiend's name in Iggwilv's voice, doing so until the gate calls on every fiend ever banished by the Crook of Rao. If the fiend still exists, it is drawn through the gate. This process takes eighteen years to complete, at the end of which the gate becomes a permanent portal to Pazunia, the first layer of the Abyss.
+When the Crook was last used against Iggwilv, the Witch Queen lashed out at the artifact, infecting its magical matrix. Over the years, this curse has spread within the crook, threatening to violently pervert its ancient magic. If this occurs, the Crook of Rao, as it is currently known, is destroyed, its magical matrix inverting and exploding into a 50-foot-diameter portal. This portal functions as a permanent [gate](Compendium/spells/gate.md) spell cast by Iggwilv. The gate then, once per round on initiative count 20, audibly speaks a fiend's name in Iggwilv's voice, doing so until the gate calls on every fiend ever banished by the Crook of Rao. If the fiend still exists, it is drawn through the gate. This process takes eighteen years to complete, at the end of which the gate becomes a permanent portal to Pazunia, the first layer of the Abyss.
 
 **Extraplanar Reversal**
 
 | dice: d100 | Effect |
 |------------|--------|
 | 1-25 | A portal to a random plane opens. The portal closes after 5 minutes. |
-| 26-45 | `2d4` [imps](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/imp.md) and `2d4` [quasits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/quasit.md) appear. |
-| 46-60 | `1d8` [succubi](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/succubus.md)/[incubi](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/incubus.md) appear. |
-| 61-70 | `1d10` [barbed devils](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/barbed-devil.md) and `1d10` [vrocks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/vrock.md) appear. |
-| 71-80 | 1 [arcanaloth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/arcanaloth.md), 1 [night hag](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/night-hag.md), and 1 [rakshasa](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/rakshasa.md) appear. |
-| 81-85 | 1 [ice devil](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/ice-devil.md) and 1 [marilith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/marilith.md) appear. |
-| 86-90 | 1 [balor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/balor.md) and 1 [pit fiend](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/pit-fiend.md) appear. At the DM's discretion, a portal opens into the presence of an archdevil or demon lord instead, then closes after 5 minutes. |
+| 26-45 | `2d4` [imps](Compendium/bestiary/fiend/imp.md) and `2d4` [quasits](Compendium/bestiary/fiend/quasit.md) appear. |
+| 46-60 | `1d8` [succubi](Compendium/bestiary/fiend/succubus.md)/[incubi](Compendium/bestiary/fiend/incubus.md) appear. |
+| 61-70 | `1d10` [barbed devils](Compendium/bestiary/fiend/barbed-devil.md) and `1d10` [vrocks](Compendium/bestiary/fiend/vrock.md) appear. |
+| 71-80 | 1 [arcanaloth](Compendium/bestiary/fiend/arcanaloth.md), 1 [night hag](Compendium/bestiary/fiend/night-hag.md), and 1 [rakshasa](Compendium/bestiary/fiend/rakshasa.md) appear. |
+| 81-85 | 1 [ice devil](Compendium/bestiary/fiend/ice-devil.md) and 1 [marilith](Compendium/bestiary/fiend/marilith.md) appear. |
+| 86-90 | 1 [balor](Compendium/bestiary/fiend/balor.md) and 1 [pit fiend](Compendium/bestiary/fiend/pit-fiend.md) appear. At the DM's discretion, a portal opens into the presence of an archdevil or demon lord instead, then closes after 5 minutes. |
 | 91-00 | Iggwilv's Curse (see the Iggwilv's Curse property). |
 ^extraplanar-reversal
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Dura Quarter: Noteworthy Locations
+- "Dura Quarter: Noteworthy Locations"
 ---
 # Dura Quarter: Noteworthy Locations
 *Source: Eberron: Rising from the Last War p. 166* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/17
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goristro
+- "Goristro"
 ---
-# [Goristro](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/goristro.md)
+# [Goristro](Compendium/bestiary/fiend/goristro.md)
 *Source: Monster Manual p. 59*  
 
 The goristro resembles a fiendish minotaur towering more than twenty feet tall. When controlled by a demon lord, goristros make formidable living siege engines and prized pets. Goristros possess preternatural cunning when navigating labyrinthine passages and shifting corridors, pursuing foes in a terrifying hunt.
@@ -158,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -210,21 +211,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "constitution": !!int "13"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 17"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "17"
 "traits":
   - "desc": "If the goristro moves at least 15 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 38\
       \ (7d10) piercing damage. If the target is a creature, it must succeed on a\
-      \ DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [prone](Rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The goristro can perfectly recall any path it has traveled."
     "name": "Labyrinthine Recall"
@@ -242,13 +242,13 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Fist"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23\
       \ (3d10 + 7) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 21 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ on a DC 21 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Hoof"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 45\
       \ (7d10 + 7) piercing damage."
     "name": "Gore"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/goristro.webp"
+"image": "Compendium/bestiary/fiend/token/goristro.webp"
 ```
 ^statblock

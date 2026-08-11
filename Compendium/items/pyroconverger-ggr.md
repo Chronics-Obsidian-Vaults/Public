@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/attunement/required
 - source/item/rarity/uncommon
-aliases: 
+aliases:
 - "Pyroconverger"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Pyroconverger
 *Wondrous item, uncommon (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/pyroconverger.webp#right)
+![](Compendium/items/img/pyroconverger.webp#right)
 
 
 A Pyroconverger is an Izzet-made flamethrower. It carries a risk of malfunction each time you use it.

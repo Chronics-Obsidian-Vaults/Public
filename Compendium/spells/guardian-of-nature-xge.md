@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Druid
 - Ranger
 aliases:
-- Guardian of Nature
+- "Guardian of Nature"
 level: 4
 school: transmutation
 ritual: false
@@ -40,7 +41,7 @@ A nature spirit answers your call and transforms you into a powerful guardian. T
 Bestial fur covers your body, your facial features become feral, and you gain the following benefits:
 
 - Your walking speed increases by 10 feet.  
-- You gain [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) with a range of 120 feet.  
+- You gain [darkvision](Rules/senses.md#Darkvision) with a range of 120 feet.  
 - You make Strength-based attack rolls with advantage.  
 - Your melee weapon attacks deal an extra `1d6` force damage on a hit.  
 
@@ -55,6 +56,6 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Xanathar's Guide to Everything p. 157*

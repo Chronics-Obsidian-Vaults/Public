@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Beholder Zombie
+- "Beholder Zombie"
 ---
-# [Beholder Zombie](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/beholder-zombie.md)
+# [Beholder Zombie](Compendium/bestiary/undead/beholder-zombie.md)
 *Source: Monster Manual p. 316*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -21,7 +22,7 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 
 Sinister necromantic magic infuses the remains of the dead, causing them to rise as zombies that do their creator's bidding without fear or hesitation. They move with a jerky, uneven gait, clad in the moldering apparel they wore when put to rest, and carrying the stench of decay.
 
-Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [resurrection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/resurrection.md) spell.
+Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [resurrection](Compendium/spells/resurrection.md) spell.
 
 A zombie retains no vestiges of its former self, its mind devoid of thought and imagination. A zombie left without orders simply stands in place and rots unless something comes along that it can kill. The magic animating a zombie imbues it with evil, so left without purpose, it attacks any living creature it encounters.
 
@@ -41,7 +42,7 @@ A zombie doesn't require air, food, drink, or sleep.
 
 > [!quote] A quote from Fonkin Hoodypeak  
 > 
-> After Beek died, we cast an [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
+> After Beek died, we cast an [animate dead](Compendium/spells/animate-dead.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 
 
 ```statblock
@@ -65,10 +66,8 @@ A zombie doesn't require air, food, drink, or sleep.
 "saves":
   - "wisdom": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"
 "traits":
@@ -82,10 +81,10 @@ A zombie doesn't require air, food, drink, or sleep.
     "name": "Bite"
   - "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
       \ see within 60 feet of it.\n\n- **1. Paralyzing Ray.** The targeted creature\
-      \ must succeed on a DC 14 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ must succeed on a DC 14 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- **2. Fear Ray.**\
-      \ The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- **3. Enervation\
       \ Ray.** The targeted creature must make a DC 14 Constitution saving throw,\
@@ -100,7 +99,7 @@ A zombie doesn't require air, food, drink, or sleep.
     "name": "Eye Ray"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/beholder-zombie.webp"
+"image": "Compendium/bestiary/undead/token/beholder-zombie.webp"
 ```
 ^statblock
 

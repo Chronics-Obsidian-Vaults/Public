@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Half-Orc Parents
+- "Half-Orc Parents"
 ---
 # Half-Orc Parents
 *Source: Xanathar's Guide to Everything p. 62* 

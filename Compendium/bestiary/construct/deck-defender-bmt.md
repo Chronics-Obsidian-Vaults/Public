@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deck Defender
+- "Deck Defender"
 ---
-# [Deck Defender](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/deck-defender-bmt.md)
+# [Deck Defender](Compendium/bestiary/construct/deck-defender-bmt.md)
 *Source: The Book of Many Things p. 72*  
 
 ```statblock
@@ -21,6 +22,8 @@ aliases:
 "alignment": "Unaligned"
 "ac": !!int "16"
 "ac_class": "natural armor"
+"hp": "5 + five times your level (the deck defender has a number of Hit Dice [d8s]\
+  \ equal to your level)"
 "modifier": !!int "3"
 "stats":
   - !!int "16"
@@ -31,16 +34,12 @@ aliases:
   - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (can't see beyond this radius), passive Perception 10"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (can't see beyond this\
+  \ radius), passive Perception 10"
 "languages": "understands one of your languages but can't speak"
 "traits":
   - "desc": "Some of the deck defender's statistics are based on the character who\
@@ -65,7 +64,8 @@ aliases:
       \ the deck defender until the start of its next turn have advantage."
     "name": "Reckless Strike (Berserker Form Only)"
 "bonus_actions":
-  - "desc": "The deck defender takes the Dash or Disengage action."
+  - "desc": "The deck defender takes the [Dash](Rules/actions.md#Dash) or [Disengage](Rules/actions.md#Disengage)\
+      \ action."
     "name": "Swift Step (Acrobat Form Only)"
 "reactions":
   - "desc": "When a creature the deck defender can see attacks a target other than\
@@ -74,6 +74,6 @@ aliases:
     "name": "Protection (Guardian Form Only)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/deck-defender-bmt.webp"
+"image": "Compendium/bestiary/construct/token/deck-defender-bmt.webp"
 ```
 ^statblock

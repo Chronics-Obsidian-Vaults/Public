@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/weapon/melee
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Rakdos Riteknife"
 item_type: weapon
 item_subtype: "melee, simple"
@@ -15,15 +16,15 @@ rarity: legendary
 attunement: required
 ---
 # Rakdos Riteknife
-*Weapon ([dagger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/dagger.md)), legendary (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/rakdos-riteknife.webp#right)
+*Weapon ([dagger](Compendium/items/dagger.md)), legendary (requires attunement)*  
+![](Compendium/items/img/rakdos-riteknife.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Finesse), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](Rules/item-properties.md#Finesse), [Light](Rules/item-properties.md#Light), [Thrown](Rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. Its blade is cruelly serrated, and its hilt resembles a demonic head and wings. Whenever you slay a creature with an attack using the dagger, the creature's soul is imprisoned inside the dagger, and that creature can be restored to life only by a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell. The dagger can hold a maximum of five souls.
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. Its blade is cruelly serrated, and its hilt resembles a demonic head and wings. Whenever you slay a creature with an attack using the dagger, the creature's soul is imprisoned inside the dagger, and that creature can be restored to life only by a [wish](Compendium/spells/wish.md) spell. The dagger can hold a maximum of five souls.
 
 For each soul imprisoned in the dagger, your attacks with it deal an extra `1d4` necrotic damage on a hit. While the dagger is within 5 feet of you, your dreams are haunted by whispers from the trapped souls.
 

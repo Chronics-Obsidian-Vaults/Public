@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Assassin
+- "Assassin"
 ---
-# [Assassin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/assassin.md)
-*Source: Monster Manual p. 343, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Assassin](Compendium/bestiary/humanoid/assassin.md)
+*Source: Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 
@@ -24,7 +25,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -40,23 +41,25 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
   - "dexterity": !!int "6"
   - "intelligence": !!int "4"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+6"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_resistances": "poison"
+"gear":
+  - "[light crossbow](Compendium/items/light-crossbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 13"
 "languages": "Thieves' cant plus any two languages"
 "cr": "8"
 "traits":
   - "desc": "During its first turn, the assassin has advantage on attack rolls against\
       \ any creature that hasn't taken a turn. Any hit the assassin scores against\
-      \ a [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised)\
-      \ creature is a critical hit."
+      \ a [surprised](Rules/conditions.md#Surprised) creature is a critical hit."
     "name": "Assassinate"
   - "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, the assassin instead takes no damage\
@@ -64,7 +67,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
     "name": "Evasion"
   - "desc": "The assassin deals an extra 14 (4d6) damage when it hits a target with\
       \ a weapon attack and has advantage on the attack roll, or when the target is\
-      \ within 5 feet of an ally of the assassin that isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ within 5 feet of an ally of the assassin that isn't [incapacitated](Rules/conditions.md#Incapacitated)\
       \ and the assassin doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
@@ -82,10 +85,7 @@ Trained in the use of poison, assassins are remorseless killers who work for nob
     "name": "Light Crossbow"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/assassin.webp"
+"image": "Compendium/bestiary/humanoid/token/assassin.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Stances for Success; Subtle Stances
+- "Stances for Success; Subtle Stances"
 ---
 # Stances for Success; Subtle Stances
 *Source: Acquisitions Incorporated p. 61* 

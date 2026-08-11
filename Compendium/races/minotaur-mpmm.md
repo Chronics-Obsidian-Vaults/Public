@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/minotaur
 aliases:
-- Minotaur
+- "Minotaur"
 ---
 # Minotaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 27*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/minotaur.webp#right)
+![](Compendium/races/img/minotaur.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -23,15 +24,15 @@ You have horns that you can use to make unarmed strikes. When you hit with them,
 
 ### Goring Rush
 
-Immediately after you take the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash) action on your turn and move at least 20 feet, you can make one melee attack with your Horns as a bonus action.
+Immediately after you take the [Dash](Rules/actions.md#Dash) action on your turn and move at least 20 feet, you can make one melee attack with your Horns as a bonus action.
 
 ### Hammering Horns
 
-Immediately after you hit a creature with a melee attack as part of the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn, you can use a bonus action to attempt to push that target with your horns. The target must be within 5 feet of you and no more than one size larger than you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you can push it up to 10 feet away from you.
+Immediately after you hit a creature with a melee attack as part of the [Attack](Rules/actions.md#Attack) action on your turn, you can use a bonus action to attempt to push that target with your horns. The target must be within 5 feet of you and no more than one size larger than you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you can push it up to 10 feet away from you.
 
 ### Labyrinthine Recall
 
-You always know which direction is north, and you have advantage on any Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) check you make to navigate or track.
+You always know which direction is north, and you have advantage on any Wisdom ([Survival](Rules/skills.md#Survival)) check you make to navigate or track.
 
 ## Description
 

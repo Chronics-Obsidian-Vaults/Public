@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- People on the Street—Precinct Three
+- "People on the Street—Precinct Three"
 ---
 # People on the Street—Precinct Three
 *Source: Guildmasters' Guide to Ravnica p. 111* 

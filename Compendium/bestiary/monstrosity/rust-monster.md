@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rust Monster
+- "Rust Monster"
 ---
-# [Rust Monster](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/rust-monster.md)
-*Source: Monster Manual p. 262, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Rust Monster](Compendium/bestiary/monstrosity/rust-monster.md)
+*Source: Monster Manual p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Most dwarves would rather face a squad of orcs than confront a single rust monster. These strange, normally docile creatures corrode ferrous metals, then gobble up the rust they create. In doing so, they have ruined the armor, shields, and weapons of countless adventurers.
 
@@ -54,8 +55,7 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
   - !!int "13"
   - !!int "6"
 "speed": "40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -84,8 +84,7 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
     "name": "Antennae"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/rust-monster.webp"
+"image": "Compendium/bestiary/monstrosity/token/rust-monster.webp"
 ```
 ^statblock
 

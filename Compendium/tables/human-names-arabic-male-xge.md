@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Human Names – Arabic, Male
+- "Human Names – Arabic, Male"
 ---
 # Human Names – Arabic, Male
 *Source: Xanathar's Guide to Everything p. 181* 

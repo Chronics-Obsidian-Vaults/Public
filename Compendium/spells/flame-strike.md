@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/boros-legionnaire
@@ -9,13 +10,13 @@ tags:
 - source/spell/level/5th-level
 - source/spell/school/evocation
 - source/spell/subclass/circle-of-wildfire
-- source/spell/subclass/divine-soul/good
+- source/spell/subclass/divine-soul
 - source/spell/subclass/light-domain
 - source/spell/subclass/oath-of-devotion
 - source/spell/subclass/oath-of-glory
 - source/spell/subclass/the-celestial
 - source/spell/subclass/the-fiend
-- source/spell/subclass/the-genie/efreeti
+- source/spell/subclass/the-genie
 - source/spell/subclass/war-domain
 classes:
 - Bard (Magical Secrets)
@@ -25,12 +26,12 @@ classes:
 - Druid (Circle of Wildfire)
 - Paladin (Oath of Devotion)
 - Paladin (Oath of Glory)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Warlock (The Celestial)
 - Warlock (The Fiend)
-- Warlock (The Genie, Efreeti)
+- Warlock (The Genie)
 aliases:
-- Flame Strike
+- "Flame Strike"
 level: 5
 school: evocation
 ritual: false
@@ -54,6 +55,6 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by `1d6` for each slot level above 5th.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-light-domain.md); [Cleric (War Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-war-domain.md); [Cleric](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of Wildfire)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Paladin (Oath of Devotion)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-devotion.md); [Paladin (Oath of Glory)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Sorcerer (Divine Soul, Good)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Warlock (The Fiend)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-fiend.md); [Warlock (The Genie, Efreeti)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](Compendium/lists/list-spells-classes-light-domain.md); [Cleric (War Domain)](Compendium/lists/list-spells-classes-war-domain.md); [Cleric](Compendium/lists/list-spells-classes-cleric.md); [Druid (Circle of Wildfire)](Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Paladin (Oath of Devotion)](Compendium/lists/list-spells-classes-oath-of-devotion.md); [Paladin (Oath of Glory)](Compendium/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Sorcerer (Divine Soul)](Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Warlock (The Celestial)](Compendium/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE"); [Warlock (The Fiend)](Compendium/lists/list-spells-classes-the-fiend.md); [Warlock (The Genie)](Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

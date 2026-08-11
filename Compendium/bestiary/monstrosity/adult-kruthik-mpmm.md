@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -12,12 +13,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Kruthik
+- "Adult Kruthik"
 ---
-# [Adult Kruthik](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/adult-kruthik-mpmm.md)
+# [Adult Kruthik](Compendium/bestiary/monstrosity/adult-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
-It takes six months of steady eating for a [young kruthik](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+It takes six months of steady eating for a [young kruthik](Compendium/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
 
@@ -60,16 +61,16 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
   - !!int "8"
 "speed": "40 ft., burrow 20 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., tremorsense 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive\
+  \ Perception 15"
 "languages": "Kruthik"
 "cr": "2"
 "traits":
   - "desc": "The kruthik has advantage on an attack roll against a creature if at\
       \ least one of the kruthik's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ ally isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The kruthik can burrow through solid rock at half its burrowing speed\
       \ and leaves a 5-foot-diameter tunnel in its wake."
@@ -86,7 +87,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/adult-kruthik-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/adult-kruthik-mpmm.webp"
 ```
 ^statblock
 

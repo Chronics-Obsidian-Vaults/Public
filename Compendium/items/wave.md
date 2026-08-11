@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Wave"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -15,27 +16,27 @@ rarity: legendary
 attunement: required
 ---
 # Wave
-*Weapon ([trident](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trident.md)), legendary (requires attunement by a creature that worships a god of the sea)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/wave.webp#right)
+*Weapon ([trident](Compendium/items/trident.md)), legendary (requires attunement by a creature that worships a god of the sea)*  
+![](Compendium/items/img/wave.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Thrown), [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](Rules/item-properties.md#Thrown), [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 Held in the dungeon of White Plume Mountain, this trident is an exquisite weapon engraved with images of waves, shells, and sea creatures. Although you must worship a god of the sea to attune to this weapon, Wave happily accepts new converts.
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. If you score a critical hit with it, the target takes extra necrotic damage equal to half its hit point maximum.
 
-The weapon also functions as a [trident of fish command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trident-of-fish-command.md) and a [weapon of warning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/weapon-of-warning.md). It can confer the benefit of a [cap of water breathing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cap-of-water-breathing.md) while you hold it, and you can use it as a [cube of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cube-of-force.md) by choosing the effect, instead of pressing cube sides to select it.
+The weapon also functions as a [trident of fish command](Compendium/items/trident-of-fish-command.md) and a [weapon of warning](Compendium/items/weapon-of-warning.md). It can confer the benefit of a [cap of water breathing](Compendium/items/cap-of-water-breathing.md) while you hold it, and you can use it as a [cube of force](Compendium/items/cube-of-force.md) by choosing the effect, instead of pressing cube sides to select it.
 
 ## Sentience
 
-Wave is a sentient weapon of neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 120 feet.
+Wave is a sentient weapon of neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [darkvision](Rules/senses.md#Darkvision) out to a range of 120 feet.
 
-The weapon communicates telepathically with its wielder and can speak, read, and understand Aquan. It can also speak with aquatic animals as if using a [speak with animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-animals.md) spell, using telepathy to involve its wielder in the conversation.
+The weapon communicates telepathically with its wielder and can speak, read, and understand Aquan. It can also speak with aquatic animals as if using a [speak with animals](Compendium/spells/speak-with-animals.md) spell, using telepathy to involve its wielder in the conversation.
 
 ## Personality
 

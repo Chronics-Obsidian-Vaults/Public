@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fey Spirit
+- "Fey Spirit"
 ---
-# [Fey Spirit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/fey-spirit-tce.md)
+# [Fey Spirit](Compendium/bestiary/fey/fey-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 112*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "fey"
 "alignment": "Unaligned"
 "ac_class": "12 + the level of the spell (natural armor)"
+"hp": "30 + 10 for each spell level above 3rd"
 "modifier": !!int "3"
 "stats":
   - !!int "13"
@@ -29,9 +31,10 @@ aliases:
   - !!int "11"
   - !!int "16"
 "speed": "40 ft."
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed)"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Sylvan, understands the languages you speak"
 "actions":
   - "desc": "The fey makes a number of attacks equal to half this spell's level (rounded\
@@ -47,13 +50,13 @@ aliases:
       \n- **Fuming.** The fey has advantage on the next attack roll it makes before\
       \ the end of this turn.  \n- **Mirthful.** The fey can force one creature it\
       \ can see within 10 feet of it to make a Wisdom saving throw against your spell\
-      \ save DC. Unless the save succeeds, the target is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ save DC. Unless the save succeeds, the target is [charmed](Rules/conditions.md#Charmed)\
       \ by you and the fey for 1 minute or until the target takes any damage.  \n\
       - **Tricksy.** The fey can fill a 5-foot cube within 5 feet of it with magical\
       \ darkness, which lasts until the end of its next turn.  "
     "name": "Fey Step"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/fey-spirit-tce.webp"
+"image": "Compendium/bestiary/fey/token/fey-spirit-tce.webp"
 ```
 ^statblock

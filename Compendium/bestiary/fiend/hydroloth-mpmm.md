@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/9
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hydroloth
+- "Hydroloth"
 ---
-# [Hydroloth](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/hydroloth-mpmm.md)
+# [Hydroloth](Compendium/bestiary/fiend/hydroloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*  
 
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
@@ -37,17 +38,16 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
   - !!int "14"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "9"
@@ -69,7 +69,7 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 16\
       \ (2d10 + 5) force damage plus 9 (2d10) psychic damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target.  *Hit:* 14\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d8 + 5) force damage plus 9 (2d10) psychic damage."
     "name": "Claw"
   - "desc": "The hydroloth targets one creature it can see within 60 feet of it. The\
@@ -79,27 +79,24 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
       \ it can't cast spells; it can't understand language; and if its Intelligence\
       \ and Charisma scores are higher than 5, they become 5. Each time the target\
       \ finishes a long rest, it can repeat the saving throw, ending the effect on\
-      \ itself on a success. A [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
-      \ or [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md)\
-      \ spell cast on the target ends this effect early."
+      \ itself on a success. A [greater restoration](Compendium/spells/greater-restoration.md)\
+      \ or [remove curse](Compendium/spells/remove-curse.md) spell cast on the target\
+      \ ends this effect early."
     "name": "Steal Memory (1/Day)"
   - "desc": "The hydroloth teleports, along with any equipment it is wearing or carrying,\
       \ up to 60 feet to an unoccupied space it can see."
     "name": "Teleport"
   - "desc": "The hydroloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\n**At will:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only)\n\n**3/day each:** [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md),\
-      \ [crown of madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md),\
-      \ [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)"
+      \ DC 16):\n\n**At will:** [darkness](Compendium/spells/darkness.md), [detect\
+      \ magic](Compendium/spells/detect-magic.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [invisibility](Compendium/spells/invisibility.md) (self only)\n\n**3/day each:**\
+      \ [control water](Compendium/spells/control-water.md), [crown of madness](Compendium/spells/crown-of-madness.md),\
+      \ [fear](Compendium/spells/fear.md), [suggestion](Compendium/spells/suggestion.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/hydroloth-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/hydroloth-mpmm.webp"
 ```
 ^statblock

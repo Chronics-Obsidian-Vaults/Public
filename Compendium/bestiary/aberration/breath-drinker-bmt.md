@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/14
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Breath Drinker
+- "Breath Drinker"
 ---
-# [Breath Drinker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/breath-drinker-bmt.md)
+# [Breath Drinker](Compendium/bestiary/aberration/breath-drinker-bmt.md)
 *Source: The Book of Many Things p. 154*  
 
 Breath drinkers are Aberrations that invade the multiverse from the Far Realm. They drift through reality like living voids, remaining unseen while searching for souls to consume. When they strike, breath drinkers consume a victim's personality and identity, ultimately drawing out and devouring the unfortunate being's soul. Breath drinkers avoid necrotic energy because it amplifies the void at the core of their existence, rapidly causing the creatures to devour themselves.
@@ -40,24 +41,20 @@ Cunning stalkers, breath drinkers are usually solitary. Occasionally they serve 
   - "intelligence": !!int "5"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+9"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+7"
 "damage_vulnerabilities": "necrotic"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "poison, radiant"
-"condition_immunities": "[grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., passive Perception 17"
+"condition_immunities": "[grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., passive Perception 17"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "14"
 "traits":
@@ -74,13 +71,13 @@ Cunning stalkers, breath drinkers are usually solitary. Occasionally they serve 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one creature. *Hit:*\
       \ 12 (2d6 + 5) necrotic damage, and if the target is Large or smaller, it has\
-      \ the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ condition (escape DC 18). The target must succeed on a DC 18 Constitution\
-      \ saving throw or its hit point maximum is reduced by an amount equal to the\
-      \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target dies if this effect reduces its hit point maximum to 0."
+      \ the [grappled](Rules/conditions.md#Grappled) condition (escape DC 18). The\
+      \ target must succeed on a DC 18 Constitution saving throw or its hit point\
+      \ maximum is reduced by an amount equal to the damage taken. This reduction\
+      \ lasts until the target finishes a long rest. The target dies if this effect\
+      \ reduces its hit point maximum to 0."
     "name": "Enervating Claw"
-  - "desc": "The breath drinker targets a creature that has the [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+  - "desc": "The breath drinker targets a creature that has the [incapacitated](Rules/conditions.md#Incapacitated)\
       \ condition or that the breath drinker is grappling and that isn't a Construct\
       \ or an Undead. The target must make a DC 18 Charisma saving throw. On a failed\
       \ save, the target takes 36 (8d8) necrotic damage, and its Charisma score is\
@@ -91,12 +88,12 @@ Cunning stalkers, breath drinkers are usually solitary. Occasionally they serve 
       \ half as much necrotic damage only. On a successful or failed save, the breath\
       \ drinker regains a number of hit points equal to the necrotic damage dealt."
     "name": "Drink Breath"
-  - "desc": "The breath drinker has the [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The breath drinker has the [invisible](Rules/conditions.md#Invisible)\
       \ condition. This invisibility ends immediately after the breath drinker hits\
       \ or misses with an attack roll or uses Drink Breath."
     "name": "Invisibility"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/breath-drinker-bmt.webp"
+"image": "Compendium/bestiary/aberration/token/breath-drinker-bmt.webp"
 ```
 ^statblock

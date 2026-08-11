@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greyhawk
 - source/domain/war
-aliases: 
-- Hextor
+aliases:
+- "Hextor"
 ---
 # Hextor
 *Source: Player's Handbook p. 295* 

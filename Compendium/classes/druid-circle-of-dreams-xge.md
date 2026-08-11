@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/druid/dreams
 aliases:
-- Circle of Dreams
+- "Circle of Dreams"
 ---
 # Circle of Dreams
 *[Druid](./druid.md): Druid Circle*  
@@ -43,16 +43,15 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/dreams-druid.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
 > I don't dream because I don't sleep. I'm always awake so no one can ever sneak up on me. If I dreamed, they would be bigger dreams than yours, though, because my head is bigger.
 
-## Class Features
-
-### Circle of Dreams (Level 2)
-
 Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
+
+## Subclass Features
 
 ### Balm of the Summer Court (Level 2)
 
@@ -66,7 +65,7 @@ You regain all expended dice when you finish a long rest.
 
 At 6th level, home can be wherever you are. During a short or long rest, you can invoke the shadowy power of the Gloaming Court to help guard your respite. At the start of the rest, you touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. Total cover blocks the sphere.
 
-While within the sphere, you and your allies gain a +5 bonus to Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) and Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.
+While within the sphere, you and your allies gain a +5 bonus to Dexterity ([Stealth](Rules/skills.md#Stealth)) and Wisdom ([Perception](Rules/skills.md#Perception)) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.
 
 The sphere vanishes at the end of the rest or when you leave the sphere.
 
@@ -80,8 +79,8 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 At 14th level, the magic of the Feywild grants you the ability to travel mentally or physically through dreamlands.
 
-When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [dream](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dream.md) (with you as the messenger), [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md), or [teleportation circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleportation-circle.md).
+When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [dream](Compendium/spells/dream.md) (with you as the messenger), [scrying](Compendium/spells/scrying.md), or [teleportation circle](Compendium/spells/teleportation-circle.md).
 
-This use of [teleportation circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleportation-circle.md) is special. Rather than opening a portal to a permanent [teleportation circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleportation-circle.md), it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
+This use of [teleportation circle](Compendium/spells/teleportation-circle.md) is special. Rather than opening a portal to a permanent [teleportation circle](Compendium/spells/teleportation-circle.md), it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
 
 Once you use this feature, you can't use it again until you finish a long rest.

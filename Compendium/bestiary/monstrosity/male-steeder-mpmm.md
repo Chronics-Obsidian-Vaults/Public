@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Male Steeder
+- "Male Steeder"
 ---
-# [Male Steeder](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/male-steeder-mpmm.md)
+# [Male Steeder](Compendium/bestiary/monstrosity/male-steeder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  
 
 ## Steeders
@@ -48,12 +49,11 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
   - !!int "3"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 14"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 14"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -68,14 +68,14 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
       \ + 2) piercing damage plus 4 (1d8) poison damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one Small or Tiny creature.\
-      \ *Hit:* The target is stuck to the steeder's leg and [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 12). The steeder can have only one creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ *Hit:* The target is stuck to the steeder's leg and [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 12). The steeder can have only one creature [grappled](Rules/conditions.md#Grappled)\
       \ at a time."
     "name": "Sticky Leg"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/male-steeder-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/male-steeder-mpmm.webp"
 ```
 ^statblock
 

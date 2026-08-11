@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/rarity/none
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Double-Bladed Scimitar"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -18,7 +19,7 @@ attunement: none
 
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed), [special](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Special%20Weapons)
+- **Properties**: [Two-Handed](Rules/item-properties.md#Two-Handed), [special](Rules/item-properties.md#Special%20Weapons)
 - **Cost**: 100 gp
 - **Weight**: 6.0 lbs.
 
@@ -26,6 +27,6 @@ The double-bladed scimitar is the signature weapon of Valenar elves. A haft of f
 
 ## Special
 
-If you attack with a double-bladed scimitar as part of the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals `1d4` slashing damage on a hit, instead of `2d4`.
+If you attack with a double-bladed scimitar as part of the [Attack](Rules/actions.md#Attack) action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals `1d4` slashing damage on a hit, instead of `2d4`.
 
 *Source: Eberron: Rising from the Last War p. 21*

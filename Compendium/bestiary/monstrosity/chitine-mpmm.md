@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chitine
+- "Chitine"
 ---
-# [Chitine](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/chitine-mpmm.md)
+# [Chitine](Compendium/bestiary/monstrosity/chitine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*  
 
 Dedicated to Lolth, chitines are multi-armed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.
@@ -31,7 +32,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "18"
 "hit_dice": "4d6 + 4"
 "modifier": !!int "2"
@@ -44,21 +45,22 @@ Chitines resemble spiders, but they behave more like social insects such as ants
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Undercommon"
 "cr": "1/2"
 "traits":
-  - "desc": "The chitine has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The chitine has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put the chitine to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the chitine has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
   - "desc": "While in contact with a web, the chitine knows the exact location of\
       \ any other creature in contact with the same web."
@@ -74,7 +76,7 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/chitine-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/chitine-mpmm.webp"
 ```
 ^statblock
 

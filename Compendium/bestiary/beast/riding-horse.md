@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Riding Horse
+- "Riding Horse"
 ---
-# [Riding Horse](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/riding-horse.md)
-*Source: Monster Manual p. 336, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Riding Horse](Compendium/bestiary/beast/riding-horse.md)
+*Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Riding Horse"
@@ -42,8 +43,7 @@ aliases:
     "name": "Hooves"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/riding-horse.webp"
+"image": "Compendium/bestiary/beast/token/riding-horse.webp"
 ```
 ^statblock
 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/attunement/required
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Warrior's Passkey"
 item_type: 
 item_subtype: 
@@ -14,10 +15,10 @@ attunement: required
 ---
 # Warrior's Passkey
 *Wondrous item, rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/warriors-passkey.webp#right)
+![](Compendium/items/img/warriors-passkey.webp#right)
 
 
-This silver skeleton key is warm to the touch. While holding the key in its key form, you can use an action to cast the [Knock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/knock.md) spell from the key.
+This silver skeleton key is warm to the touch. While holding the key in its key form, you can use an action to cast the [Knock](Compendium/spells/knock.md) spell from the key.
 
 ## Transforming the Key
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/armor/heavy
@@ -9,7 +10,7 @@ tags:
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Living Armor"
 - "Living Breastplate"
 - "Living Chain Mail"
@@ -42,7 +43,7 @@ While wearing this armor, you have a +1 bonus to Armor Class, and you have resis
 
 The armor can't be removed from you while you're attuned to it, and you can't voluntarily end your attunement to it. If you're targeted by a spell that ends a curse, your attunement to the armor ends, and it detaches from you.
 
-The armor requires fresh blood be fed to it. Immediately after you finish any long rest, you must either feed half of your remaining Hit Dice to the armor (round up) or take 1 level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion).
+The armor requires fresh blood be fed to it. Immediately after you finish any long rest, you must either feed half of your remaining Hit Dice to the armor (round up) or take 1 level of [exhaustion](Rules/conditions.md#Exhaustion).
 
 **Variants**:
 - [Living Breastplate](#Living%20Breastplate)

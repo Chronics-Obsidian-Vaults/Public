@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/23
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aurelia
+- "Aurelia"
 ---
-# [Aurelia](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/aurelia-ggr.md)
+# [Aurelia](Compendium/bestiary/npc/aurelia-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 230*  
 
 The angel Aurelia leads the Boros Legion. During the years of her leadership, she has shown a strong appreciation for the ordinary citizens who are often caught in the middle of interguild violence.
@@ -48,20 +49,19 @@ Aurelia doesn't require food, drink, or sleep.
   - "constitution": !!int "14"
   - "charisma": !!int "17"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+14"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+14"
 "damage_resistances": "necrotic; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 24"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 24"
 "languages": "all"
 "cr": "23"
 "traits":
@@ -91,8 +91,8 @@ Aurelia doesn't require food, drink, or sleep.
       \ To do so, Aurelia must see the attacker and be wielding a melee weapon."
     "name": "Parry"
   - "desc": "When Aurelia is subjected to an effect that would move her, knock her\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ or both, she can use her reaction to be neither moved nor knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ [prone](Rules/conditions.md#Prone), or both, she can use her reaction to be\
+      \ neither moved nor knocked [prone](Rules/conditions.md#Prone)."
     "name": "Unyielding"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Aurelia can expend a use to take one of the following actions. Aurelia regains\
@@ -105,12 +105,12 @@ Aurelia doesn't require food, drink, or sleep.
   - "desc": "Aurelia makes one longsword attack."
     "name": "Longsword Attack (Costs 2 Actions)"
   - "desc": "Aurelia targets up to five creatures she can see within 30 feet of her.\
-      \ Each target must succeed on a DC 25 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ Each target must succeed on a DC 25 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ of her until the end of her next turn. Any target within 5 feet of Aurelia\
       \ has disadvantage on the saving throw."
     "name": "Frighten Foes (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/aurelia-ggr.webp"
+"image": "Compendium/bestiary/npc/token/aurelia-ggr.webp"
 ```
 ^statblock

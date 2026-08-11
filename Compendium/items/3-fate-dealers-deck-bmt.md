@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/attunement/required
 - source/item/rarity/legendary
-aliases: 
+aliases:
 - "+3 Fate Dealer's Deck"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # +3 Fate Dealer's Deck
 *Wondrous item, legendary (requires attunement by a cleric or paladin)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/fate-dealers-deck.webp#right)
+![](Compendium/items/img/fate-dealers-deck.webp#right)
 
 
 The backs of these cards are inscribed with glyphs representing the Inner Planes, the Outer Planes, or the holy symbols of various deities. While holding this deck, you can use it as a spellcasting focus, and you gain a +3 bonus to spell attack rolls and to your spell save DC.

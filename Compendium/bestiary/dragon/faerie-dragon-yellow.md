@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerie Dragon (Yellow)
+- "Faerie Dragon (Yellow)"
 ---
-# [Faerie Dragon (Yellow)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/faerie-dragon-yellow.md)
+# [Faerie Dragon (Yellow)](Compendium/bestiary/dragon/faerie-dragon-yellow.md)
 *Source: Monster Manual p. 133*  
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
@@ -60,24 +61,21 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
   - !!int "16"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Draconic, Sylvan"
 "cr": "1"
 "traits":
   - "desc": "The dragon's innate spellcasting ability is Charisma (spell save DC 13).\
       \ It can innately cast a number of spells, requiring no material components:\n\
-      \n**1/day each:** [color spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/color-spray.md),\
-      \ [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [mirror image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirror-image.md)"
+      \n**1/day each:** [color spray](Compendium/spells/color-spray.md), [dancing\
+      \ lights](Compendium/spells/dancing-lights.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md), [mirror image](Compendium/spells/mirror-image.md)"
     "name": "Innate Spellcasting"
   - "desc": "A faerie dragon's scales change hue as it ages, moving through all the\
       \ colors of the rainbow. All faerie dragons have innate spellcasting ability,\
@@ -86,10 +84,9 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
       50 years\n\nViolet—51 years or more\n\nA green or older faerie dragon's CR increases\
       \ to 2."
     "name": "The Colors of Age"
-  - "desc": "As a bonus action, the dragon can magically turn [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ until its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ ends (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). Any equipment the dragon wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "As a bonus action, the dragon can magically turn [invisible](Rules/conditions.md#Invisible)\
+      \ until its [concentration](Rules/conditions.md#Concentration) ends (as if [concentrating](Rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the dragon wears or carries is [invisible](Rules/conditions.md#Invisible)\
       \ with it."
     "name": "Superior Invisibility"
   - "desc": "Using telepathy, the dragon can magically communicate with any other\
@@ -113,7 +110,7 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
     "name": "Euphoria Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/faerie-dragon-yellow.webp"
+"image": "Compendium/bestiary/dragon/token/faerie-dragon-yellow.webp"
 ```
 ^statblock
 

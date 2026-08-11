@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -16,7 +17,7 @@ classes:
 - Paladin
 - Ranger
 aliases:
-- Searing Smite
+- "Searing Smite"
 level: 1
 school: evocation
 ritual: false
@@ -40,6 +41,6 @@ The next time you hit a creature with a melee weapon attack during the spell's d
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the initial extra damage dealt by the attack increases by `1d6` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Paladin](Compendium/lists/list-spells-classes-paladin.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 274*

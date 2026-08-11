@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/9
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Abjurer Wizard
+- "Abjurer Wizard"
 ---
-# [Abjurer Wizard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/abjurer-wizard-mpmm.md)
+# [Abjurer Wizard](Compendium/bestiary/humanoid/abjurer-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209*  
 
 Abjurers specialize in creating protective magical wards. Monarchs, nobles, and other wealthy individuals commonly hire abjurers to provide protection.
@@ -27,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
 "modifier": !!int "2"
@@ -43,9 +44,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - "intelligence": !!int "8"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+8"
 "senses": "passive Perception 11"
 "languages": "any four languages"
@@ -53,7 +54,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "actions":
   - "desc": "The abjurer makes three Arcane Burst attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 120\
+  - "desc": "*Melee  or Ranged Spell Attack:* +8 to hit, reach 5 ft. or range 120\
       \ ft., one target. *Hit:* 20 (3d10 + 4) force damage."
     "name": "Arcane Burst"
   - "desc": "Each creature in a 20-foot cube originating from the abjurer must make\
@@ -62,18 +63,13 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ save, a creature takes half as much damage and isn't pushed."
     "name": "Force Blast"
   - "desc": "The abjurer casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 16):\n\n**At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**2/day each:** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\n\
-      \n**1/day each:** [arcane lock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-lock.md),\
-      \ [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [globe of invulnerability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/globe-of-invulnerability.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [wall of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md)"
+      \ the spellcasting ability (spell save DC 16):\n\n**At will:** [dancing lights](Compendium/spells/dancing-lights.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [message](Compendium/spells/message.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**2/day each:**\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [lightning bolt](Compendium/spells/lightning-bolt.md),\
+      \ [mage armor](Compendium/spells/mage-armor.md)\n\n**1/day each:** [arcane lock](Compendium/spells/arcane-lock.md),\
+      \ [banishment](Compendium/spells/banishment.md), [globe of invulnerability](Compendium/spells/globe-of-invulnerability.md),\
+      \ [invisibility](Compendium/spells/invisibility.md), [wall of force](Compendium/spells/wall-of-force.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When the abjurer or a creature it can see within 30 feet of it takes\
@@ -84,7 +80,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/abjurer-wizard-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/abjurer-wizard-mpmm.webp"
 ```
 ^statblock
 

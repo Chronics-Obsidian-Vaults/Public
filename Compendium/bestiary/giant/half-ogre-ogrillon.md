@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -16,10 +17,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Half-Ogre (Ogrillon)
+- "Half-Ogre (Ogrillon)"
 ---
-# [Half-Ogre (Ogrillon)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/half-ogre-ogrillon.md)
-*Source: Monster Manual p. 238, Eberron: Rising from the Last War*  
+# [Half-Ogre (Ogrillon)](Compendium/bestiary/giant/half-ogre-ogrillon.md)
+*Source: Monster Manual p. 238*  
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
@@ -67,7 +68,7 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 "type": "giant"
 "alignment": "Any Chaotic alignment"
 "ac": !!int "12"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "30"
 "hit_dice": "4d10 + 8"
 "modifier": !!int "0"
@@ -79,8 +80,10 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
   - !!int "9"
   - !!int "10"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"gear":
+  - "[battleaxe](Compendium/items/battleaxe.md)"
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "Common, Giant"
 "cr": "1"
 "actions":
@@ -93,8 +96,7 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
     "name": "Javelin"
 "source":
   - "MM"
-  - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/half-ogre-ogrillon.webp"
+"image": "Compendium/bestiary/giant/token/half-ogre-ogrillon.webp"
 ```
 ^statblock
 

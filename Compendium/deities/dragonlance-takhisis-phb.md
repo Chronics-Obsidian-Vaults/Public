@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/dragonlance
 - source/domain/death
-aliases: 
-- Takhisis
+aliases:
+- "Takhisis"
 ---
 # Takhisis
 *Source: Player's Handbook p. 295* 

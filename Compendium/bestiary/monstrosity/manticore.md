@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -14,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Manticore
+- "Manticore"
 ---
-# [Manticore](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/manticore.md)
-*Source: Monster Manual p. 213, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Manticore](Compendium/bestiary/monstrosity/manticore.md)
+*Source: Monster Manual p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.
 
@@ -56,8 +57,7 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
   - !!int "12"
   - !!int "8"
 "speed": "30 ft., fly 50 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common"
 "cr": "3"
 "traits":
@@ -79,9 +79,7 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
     "name": "Tail Spike"
 "source":
   - "MM"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/manticore.webp"
+"image": "Compendium/bestiary/monstrosity/token/manticore.webp"
 ```
 ^statblock
 

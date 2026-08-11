@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/13
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Storm Giant
+- "Storm Giant"
 ---
-# [Storm Giant](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/storm-giant.md)
-*Source: Monster Manual p. 156, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Storm Giant](Compendium/bestiary/giant/storm-giant.md)
+*Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
 
@@ -82,7 +83,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "type": "giant"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
-"ac_class": "[scale mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scale-mail.md)"
+"ac_class": "[scale mail](Compendium/items/scale-mail.md)"
 "hp": !!int "230"
 "hit_dice": "20d12 + 100"
 "modifier": !!int "2"
@@ -100,28 +101,28 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+14"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
 "senses": "passive Perception 19"
 "languages": "Common, Giant"
 "cr": "13"
 "traits":
   - "desc": "The giant's innate spellcasting ability is Charisma (spell save DC 17).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [feather fall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feather-fall.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md),\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md)\n\
-      \n**3/day each:** [control weather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-weather.md),\
-      \ [water breathing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-breathing.md)"
+      \n**At will:** [detect magic](Compendium/spells/detect-magic.md), [feather fall](Compendium/spells/feather-fall.md),\
+      \ [levitate](Compendium/spells/levitate.md), [light](Compendium/spells/light.md)\n\
+      \n**3/day each:** [control weather](Compendium/spells/control-weather.md), [water\
+      \ breathing](Compendium/spells/water-breathing.md)"
     "name": "Innate Spellcasting"
   - "desc": "The giant can breathe air and water."
     "name": "Amphibious"
@@ -141,8 +142,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
     "name": "Lightning Strike (Recharge 5-6)"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/storm-giant.webp"
+"image": "Compendium/bestiary/giant/token/storm-giant.webp"
 ```
 ^statblock
 

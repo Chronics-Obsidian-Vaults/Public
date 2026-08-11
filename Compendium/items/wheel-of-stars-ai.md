@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Wheel of Stars"
 item_type: 
 item_subtype: 
@@ -17,7 +18,7 @@ attunement: required
 
 
 
-While attuned to this device, you have a +1 bonus to Wisdom saving throws, and you can use an action to cast the [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md), [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md), or [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md) cantrips.
+While attuned to this device, you have a +1 bonus to Wisdom saving throws, and you can use an action to cast the [dancing lights](Compendium/spells/dancing-lights.md), [guidance](Compendium/spells/guidance.md), or [message](Compendium/spells/message.md) cantrips.
 
 ## Portent of the Stars
 
@@ -25,10 +26,10 @@ As a reaction when a creature you can see within 60 feet of you makes an attack 
 
 ## Alter Gravity
 
-As an action, you can cast [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md) on yourself or you can cast [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md) (save DC 15). Once you use this feature of the wheel of stars, it cannot be used again until the next dawn.
+As an action, you can cast [fly](Compendium/spells/fly.md) on yourself or you can cast [levitate](Compendium/spells/levitate.md) (save DC 15). Once you use this feature of the wheel of stars, it cannot be used again until the next dawn.
 
 ## Part of a Whole
 
-While this component is not installed in the [Orrery of the Wanderer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/orrery-of-the-wanderer-ai.md), its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+While this component is not installed in the [Orrery of the Wanderer](Compendium/items/orrery-of-the-wanderer-ai.md), its magic might function sporadically or with unpredictable side effects, as determined by the DM.
 
 *Source: Acquisitions Incorporated p. 222*

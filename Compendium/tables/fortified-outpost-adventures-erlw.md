@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Fortified Outpost Adventures
+- "Fortified Outpost Adventures"
 ---
 # Fortified Outpost Adventures
 *Source: Eberron: Rising from the Last War p. 211* 

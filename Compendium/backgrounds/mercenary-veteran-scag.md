@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/scag
 aliases:
-- Mercenary Veteran
+- "Mercenary Veteran"
 ---
 # Mercenary Veteran
 *Source: Sword Coast Adventurer's Guide p. 152*  
 
 
-- **Skill Proficiencies.** [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Athletics](Rules/skills.md#Athletics), [Persuasion](Rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  
-- **Equipment.** A uniform of your company ([traveler's clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/travelers-clothes.md) in quality), an insignia of your rank, a gaming set of your choice, and a [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing the remainder of your last wages (10 gp).  
+- **Equipment.** A uniform of your company ([traveler's clothes](Compendium/items/travelers-clothes.md) in quality), an insignia of your rank, a gaming set of your choice, and a [pouch](Compendium/items/pouch.md) containing the remainder of your last wages (10 gp).  
 
 As a sell-sword who fought battles for coin, you're well acquainted with risking life and limb for a chance at a share of treasure. Now, you look forward to fighting foes and reaping even greater rewards as an adventurer. Your experience makes you familiar with the ins and outs of mercenary life, and you likely have harrowing stories of events on the battlefield. You might have served with a large outfit such as the Zhentarim or the soldiers of Mintarn, or a smaller band of sell-swords, maybe even more than one. (See the "Mercenaries of the North" sidebar for a collection of possibilities.)
 
@@ -36,6 +37,6 @@ You know the mercenary life as only someone who has experienced it can. You are 
 
 ## Suggested Characteristics
 
-Use the tables for the [soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/soldier.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a mercenary.
+Use the tables for the [soldier](Compendium/backgrounds/soldier.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a mercenary.
 
 Your bond could be associated with the company you traveled with previously, or with some of the comrades you served with. The ideal you embrace largely depends on your worldview and your motivation for fighting.

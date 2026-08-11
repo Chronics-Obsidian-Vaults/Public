@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Ancient Being Quests
+- "Ancient Being Quests"
 ---
 # Ancient Being Quests
 *Source: Tasha's Cauldron of Everything p. 88* 

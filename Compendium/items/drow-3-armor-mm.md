@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/mm
 - source/item/armor/heavy
@@ -8,7 +9,7 @@ tags:
 - source/item/armor/medium
 - source/item/rarity/unknown/magic
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Drow +3 Armor"
 - "Drow +3 Breastplate"
 - "Drow +3 Chain Mail"

@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/common
 - source/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Masquerade Tattoo"
 item_type: wondrous
 item_subtype: tattoo
@@ -32,6 +33,6 @@ As a bonus action, you can shape the tattoo into any color or pattern and move i
 
 ## Disguise Self
 
-As an action, you can use the tattoo to cast the [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md) spell (DC 13 to discern the disguise). Once the spell is cast from the tattoo, it can't be cast from the tattoo again until the next dawn.
+As an action, you can use the tattoo to cast the [disguise self](Compendium/spells/disguise-self.md) spell (DC 13 to discern the disguise). Once the spell is cast from the tattoo, it can't be cast from the tattoo again until the next dawn.
 
 *Source: Tasha's Cauldron of Everything p. 131*

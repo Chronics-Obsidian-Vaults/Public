@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/gear/treasure-coinage
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Copper (cp)"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Copper (cp)
 *Treasure (coinage)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/copper-cp.webp#right)
+![](Compendium/items/img/copper-cp.webp#right)
 
 - **Cost**: 1 cp
 - **Weight**: 0.02 lbs.

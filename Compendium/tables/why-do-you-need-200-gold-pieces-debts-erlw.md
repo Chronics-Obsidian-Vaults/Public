@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Why Do You Need 200 Gold Pieces?; Debts
+- "Why Do You Need 200 Gold Pieces?; Debts"
 ---
 # Why Do You Need 200 Gold Pieces?; Debts
 *Source: Eberron: Rising from the Last War p. 9* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Monodrone
+- "Monodrone"
 ---
-# [Monodrone](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/monodrone.md)
+# [Monodrone](Compendium/bestiary/construct/monodrone.md)
 *Source: Monster Manual p. 224*  
 
 A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
@@ -66,8 +67,10 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., fly 30 ft."
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 10"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/8"
 "traits":
@@ -86,6 +89,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
     "name": "Javelin"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/monodrone.webp"
+"image": "Compendium/bestiary/construct/token/monodrone.webp"
 ```
 ^statblock

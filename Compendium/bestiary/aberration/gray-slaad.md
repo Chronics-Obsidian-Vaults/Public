@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/9
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gray Slaad
+- "Gray Slaad"
 ---
-# [Gray Slaad](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/gray-slaad.md)
-*Source: Monster Manual p. 277, The Book of Many Things*  
+# [Gray Slaad](Compendium/bestiary/aberration/gray-slaad.md)
+*Source: Monster Manual p. 277*  
 
 Outside of Limbo, gray slaadi act as living extensions of the will of their masters, the death slaadi. A gray slaad journeys to the Material Plane on errands of doom, often taking humanoid form. A gray slaad learns how to master the use of a greatsword and imbue it with its own innate magic.
 
@@ -43,13 +44,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](Rules/conditions.md#Charmed) while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](Compendium/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](Compendium/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)) can remove the gem from an [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](Rules/skills.md#Medicine)) can remove the gem from an [incapacitated](Rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](Rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]  
@@ -77,29 +78,25 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 17"
 "languages": "Slaad, telepathy 60 ft."
 "cr": "9"
 "traits":
   - "desc": "The slaad's innate spellcasting ability is Charisma (spell save DC 14).\
       \ The slaad can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md)\
-      \ (self only), [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md)\n\
-      \n**2/day each:** [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [tongues](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tongues.md)\n\
-      \n**1/day:** [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
+      \n**At will:** [detect magic](Compendium/spells/detect-magic.md), [detect thoughts](Compendium/spells/detect-thoughts.md),\
+      \ [invisibility](Compendium/spells/invisibility.md) (self only), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [major image](Compendium/spells/major-image.md)\n\n**2/day each:** [fear](Compendium/spells/fear.md),\
+      \ [fly](Compendium/spells/fly.md), [fireball](Compendium/spells/fireball.md),\
+      \ [tongues](Compendium/spells/tongues.md)\n\n**1/day:** [plane shift](Compendium/spells/plane-shift.md)\
       \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The slaad can use its action to polymorph into a Small or Medium humanoid,\
@@ -130,8 +127,7 @@ Some slaadi can transform into the humanoid creatures from which they were origi
     "name": "Greatsword"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/gray-slaad.webp"
+"image": "Compendium/bestiary/aberration/token/gray-slaad.webp"
 ```
 ^statblock
 

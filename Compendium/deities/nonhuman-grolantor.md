@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/nonhuman
 - source/domain/war
-aliases: 
-- Grolantor
+aliases:
+- "Grolantor"
 ---
 # Grolantor
 *Source: Player's Handbook p. 296* 

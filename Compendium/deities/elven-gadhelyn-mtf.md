@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/nature
 - source/domain/trickery
-aliases: 
-- Gadhelyn
+aliases:
+- "Gadhelyn"
 ---
 # Gadhelyn
 *Source: Mordenkainen's Tome of Foes p. 43* 

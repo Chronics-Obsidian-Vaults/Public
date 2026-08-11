@@ -8,8 +8,8 @@ tags:
 - source/domain/knowledge
 - source/domain/order
 - source/domain/war
-aliases: 
-- Athena
+aliases:
+- "Athena"
 ---
 # Athena
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

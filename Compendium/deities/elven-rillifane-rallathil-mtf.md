@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/elven
 - source/domain/nature
-aliases: 
-- Rillifane Rallathil
+aliases:
+- "Rillifane Rallathil"
 ---
 # Rillifane Rallathil
 *Source: Mordenkainen's Tome of Foes p. 46* 

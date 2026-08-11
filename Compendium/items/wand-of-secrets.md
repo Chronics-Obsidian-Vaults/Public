@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
 - source/item/wondrous/wand
-aliases: 
+aliases:
 - "Wand of Secrets"
 item_type: wondrous
 item_subtype: wand
@@ -15,7 +16,7 @@ attunement: none
 ---
 # Wand of Secrets
 *Wand, minor, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/wand-of-secrets.webp#right)
+![](Compendium/items/img/wand-of-secrets.webp#right)
 
 - **Weight**: 1.0 lbs.
 

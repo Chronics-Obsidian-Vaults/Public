@@ -8,8 +8,8 @@ tags:
 - source/domain/knowledge
 - source/domain/order
 - source/domain/war
-aliases: 
-- Tyr
+aliases:
+- "Tyr"
 ---
 # Tyr
 *Source: Player's Handbook p. 299* 

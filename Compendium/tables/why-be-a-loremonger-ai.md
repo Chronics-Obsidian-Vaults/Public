@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Why Be a Loremonger?
+- "Why Be a Loremonger?"
 ---
 # Why Be a Loremonger?
 *Source: Acquisitions Incorporated p. 28* 

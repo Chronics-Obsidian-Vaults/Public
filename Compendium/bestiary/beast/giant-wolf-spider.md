@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -14,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Wolf Spider
+- "Giant Wolf Spider"
 ---
-# [Giant Wolf Spider](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-wolf-spider.md)
-*Source: Monster Manual p. 330, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Wolf Spider](Compendium/bestiary/beast/giant-wolf-spider.md)
+*Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
 
@@ -39,12 +40,11 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
   - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/4"
@@ -62,15 +62,13 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
       \ (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 7 (2d6) poison damage on a failed save, or half as much damage\
       \ on a successful one. If the poison damage reduces the target to 0 hit points,\
-      \ the target is stable but [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 hour, even after regaining hit points, and is [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
-      \ while [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way."
+      \ the target is stable but [poisoned](Rules/conditions.md#Poisoned) for 1 hour,\
+      \ even after regaining hit points, and is [paralyzed](Rules/conditions.md#Paralyzed)\
+      \ while [poisoned](Rules/conditions.md#Poisoned) in this way."
     "name": "Bite"
 "source":
   - "MM"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-wolf-spider.webp"
+"image": "Compendium/bestiary/beast/token/giant-wolf-spider.webp"
 ```
 ^statblock
 

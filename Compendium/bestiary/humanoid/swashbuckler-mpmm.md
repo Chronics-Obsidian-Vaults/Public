@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swashbuckler
+- "Swashbuckler"
 ---
-# [Swashbuckler](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/swashbuckler-mpmm.md)
+# [Swashbuckler](Compendium/bestiary/humanoid/swashbuckler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217*  
 
 Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
@@ -40,8 +41,7 @@ Many swashbucklers have a signature flourish with which they embellish their act
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "17"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md),\
-  \ suave defense"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md), suave defense"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
 "modifier": !!int "4"
@@ -54,17 +54,20 @@ Many swashbucklers have a signature flourish with which they embellish their act
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+8"
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+6"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+  - "[rapier](Compendium/items/rapier.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-  - "desc": "While the swashbuckler is wearing light or no armor and wielding no [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md),\
+  - "desc": "While the swashbuckler is wearing light or no armor and wielding no [shield](Compendium/items/shield.md),\
       \ its AC includes its Charisma modifier."
     "name": "Suave Defense"
 "actions":
@@ -77,14 +80,13 @@ Many swashbucklers have a signature flourish with which they embellish their act
       \ + 4) piercing damage."
     "name": "Rapier"
 "bonus_actions":
-  - "desc": "The swashbuckler takes the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash)\
-      \ or [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage)\
+  - "desc": "The swashbuckler takes the [Dash](Rules/actions.md#Dash) or [Disengage](Rules/actions.md#Disengage)\
       \ action."
     "name": "Lightfooted"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/swashbuckler-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/swashbuckler-mpmm.webp"
 ```
 ^statblock
 

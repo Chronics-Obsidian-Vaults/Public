@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/life
 - source/domain/nature
-aliases: 
-- Ehlonna
+aliases:
+- "Ehlonna"
 ---
 # Ehlonna
 *Source: Player's Handbook p. 295* 

@@ -6,15 +6,15 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/nature
-aliases: 
-- Silvanus
-- Oak Father
-- The Old Oak
-- Old Father Tree
+aliases:
+- "Silvanus"
+- "Oak Father"
+- "The Old Oak"
+- "Old Father Tree"
 ---
 # Silvanus
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-silvanus.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-silvanus.webp#symbol)
 
 - **Alternate Names**: Oak Father, The Old Oak, Old Father Tree
 - **Alignment**: Neutral

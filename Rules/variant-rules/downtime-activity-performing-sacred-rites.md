@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Downtime Activity: Performing Sacred Rites
+- "Downtime Activity: Performing Sacred Rites"
 ---
 # Downtime Activity: Performing Sacred Rites
 *Source: Dungeon Master's Guide p. 129* 

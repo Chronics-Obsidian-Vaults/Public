@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/6
@@ -9,12 +10,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Booyahg Booyahg Booyahg
+- "Booyahg Booyahg Booyahg"
 ---
-# [Booyahg Booyahg Booyahg](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/booyahg-booyahg-booyahg-vgm.md)
+# [Booyahg Booyahg Booyahg](Compendium/bestiary/humanoid/booyahg-booyahg-booyahg-vgm.md)
 *Source: Volo's Guide to Monsters p. 43*  
 
-This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/wild-magic-surge-phb.md) table in the "Player's Handbook" to determine the wild magic effect.
+This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](Compendium/tables/wild-magic-surge-phb.md) table in the "Player's Handbook" to determine the wild magic effect.
 
 ## Booyahgs
 
@@ -31,7 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -47,36 +48,32 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "any four languages, Goblin"
 "cr": "6"
 "traits":
   - "desc": "The goblin is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). The goblin has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md),\
-      \ [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md)\n\
-      \n**2nd level (3 slots):** [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**3rd level (3 slots):** [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md)\n\
-      \n**4th level (3 slots):** [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md),\
-      \ [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md)\n\
-      \n**5th level (1 slots):** [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](Compendium/spells/fire-bolt.md),\
+      \ [light](Compendium/spells/light.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**1st level (4\
+      \ slots):** [detect magic](Compendium/spells/detect-magic.md), [mage armor](Compendium/spells/mage-armor.md),\
+      \ [magic missile](Compendium/spells/magic-missile.md), [shield](Compendium/spells/shield.md)\n\
+      \n**2nd level (3 slots):** [misty step](Compendium/spells/misty-step.md), [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**3rd level (3 slots):** [counterspell](Compendium/spells/counterspell.md),\
+      \ [fireball](Compendium/spells/fireball.md), [fly](Compendium/spells/fly.md)\n\
+      \n**4th level (3 slots):** [greater invisibility](Compendium/spells/greater-invisibility.md),\
+      \ [ice storm](Compendium/spells/ice-storm.md)\n\n**5th level (1 slots):** [cone\
+      \ of cold](Compendium/spells/cone-of-cold.md)"
     "name": "Spellcasting"
   - "desc": "Each time the goblin casts a spell (including cantrips), there is an\
-      \ accompanying surge of wild magic; roll on the [Wild Magic Surge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/wild-magic-surge-phb.md)\
+      \ accompanying surge of wild magic; roll on the [Wild Magic Surge](Compendium/tables/wild-magic-surge-phb.md)\
       \ table in the \"Player's Handbook\" to determine the wild magic effect."
     "name": "Wild Magic"
   - "desc": "The goblin"
@@ -87,6 +84,6 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     "name": "Dagger"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/booyahg-booyahg-booyahg-vgm.webp"
+"image": "Compendium/bestiary/humanoid/token/booyahg-booyahg-booyahg-vgm.webp"
 ```
 ^statblock

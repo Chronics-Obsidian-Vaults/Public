@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yinra Emberwind
+- "Yinra Emberwind"
 ---
-# [Yinra Emberwind](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/yinra-emberwind-egw.md)
+# [Yinra Emberwind](Compendium/bestiary/npc/yinra-emberwind-egw.md)
 *Source: Explorer's Guide to Wildemount p. 223*  
 
 ```statblock
@@ -21,7 +22,7 @@ aliases:
 "subtype": "elf"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "3"
@@ -34,21 +35,23 @@ aliases:
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)"
+  - "name": "[Investigation](Rules/skills.md#Investigation)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common, Elvish"
 "cr": "1/2"
 "traits":
-  - "desc": "Yinra has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "Yinra has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put her to sleep."
     "name": "Fey Ancestry"
-  - "desc": "Yinra has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "Yinra has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing or sight."
     "name": "Keen Hearing and Sight"
 "actions":
@@ -60,6 +63,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/yinra-emberwind-egw.webp"
+"image": "Compendium/bestiary/npc/token/yinra-emberwind-egw.webp"
 ```
 ^statblock

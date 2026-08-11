@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Rumors—Precinct Six
+- "Rumors—Precinct Six"
 ---
 # Rumors—Precinct Six
 *Source: Guildmasters' Guide to Ravnica p. 121* 

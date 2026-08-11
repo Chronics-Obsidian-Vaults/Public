@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/scag
 - source/item/gear/instrument
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Hand Drum"
 item_type: 
 item_subtype: 

@@ -7,8 +7,8 @@ tags:
 - source/deity/gnome
 - source/domain/forge
 - source/domain/light
-aliases: 
-- Bleredd
+aliases:
+- "Bleredd"
 ---
 # Bleredd
 *Source: Mordenkainen's Tome of Foes p. 110* 

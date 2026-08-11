@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/attunement/required
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Butcher's Bib"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Butcher's Bib
 *Wondrous item, rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/butchers-bib.webp#right)
+![](Compendium/items/img/butchers-bib.webp#right)
 
 
 This black leather apron is perpetually covered by blood, even after being washed off. You gain the following benefits while wearing the apron:

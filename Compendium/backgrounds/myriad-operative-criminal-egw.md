@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/egw
 aliases:
-- Myriad Operative (Criminal)
+- "Myriad Operative (Criminal)"
 ---
 # Myriad Operative (Criminal)
 *Source: Explorer's Guide to Wildemount p. 203*  
 
 
-- **Skill Proficiencies.** [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)  
-- **Tool Proficiencies.** One type of gaming set, [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)  
-- **Equipment.** A [crowbar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/crowbar.md), a set of dark [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md) including a hood, and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](Rules/skills.md#Deception), [Stealth](Rules/skills.md#Stealth)  
+- **Tool Proficiencies.** One type of gaming set, [thieves' tools](Compendium/items/thieves-tools.md)  
+- **Equipment.** A [crowbar](Compendium/items/crowbar.md), a set of dark [common clothes](Compendium/items/common-clothes.md) including a hood, and a belt [pouch](Compendium/items/pouch.md) containing 15 gp  
 
 Most criminals in Wildemount are petty thieves and cutpurses who operate out of desperation. You, however, are a criminal of a higher caliber. You are a member of the Myriad, the greatest crime syndicate to ever grace the face of Exandria. You have a network of criminal contacts and allies to help you in your crimes—but you also have rivals and superiors that would gladly throw you to the wolves to save their own skins.
 

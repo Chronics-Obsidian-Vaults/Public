@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Fortune-Telling; Fortunes
+- "Fortune-Telling; Fortunes"
 ---
 # Fortune-Telling; Fortunes
 *Source: The Book of Many Things p. 110* 

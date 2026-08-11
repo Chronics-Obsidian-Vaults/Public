@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Downtime Activity: Training
+- "Downtime Activity: Training"
 ---
 # Downtime Activity: Training
 *Source: Xanathar's Guide to Everything p. 134* 
@@ -20,4 +20,4 @@ Receiving training in a language or tool typically takes at least ten workweeks,
 
 Complications that arise while training typically involve the teacher. Every ten workweeks spent in training brings a 10 percent chance of a complication, examples of which are on the Training Complications table.
 
-![Training Complications](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/training-complications-xge.md)
+![Training Complications](Compendium/tables/training-complications-xge.md)

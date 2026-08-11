@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dolgrim
+- "Dolgrim"
 ---
-# [Dolgrim](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/dolgrim-erlw.md)
+# [Dolgrim](Compendium/bestiary/aberration/dolgrim-erlw.md)
 *Source: Eberron: Rising from the Last War p. 291*  
 
 Dolgrims are squat, deformed things. Warped by the daelkyr, a dolgrim is essentially two goblins crushed into one creature, their misshapen body boasting four arms and a pair of twisted mouths that gibber and slather at the front of a headless torso. The two mouths of a dolgrim sometimes carry on demented conversations with one another. However, a dolgrim has only a single personality—sadistic, bloodthirsty, and brutally dedicated to serving itself.
@@ -24,7 +25,7 @@ Small numbers of these creatures sometimes make their way to the surface, often 
 "type": "aberration"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "natural armor, [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "natural armor, [shield](Compendium/items/shield.md)"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"
@@ -36,17 +37,18 @@ Small numbers of these creatures sometimes make their way to the surface, often 
   - !!int "10"
   - !!int "8"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[hand crossbow](Compendium/items/hand-crossbow.md)"
+  - "[morningstar](Compendium/items/morningstar.md)"
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Deep Speech, Goblin"
 "cr": "1/2"
 "traits":
-  - "desc": "The dolgrim has advantage on saving throws against being [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-      \ and knocked [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)."
+  - "desc": "The dolgrim has advantage on saving throws against being [blinded](Rules/conditions.md#Blinded),\
+      \ [charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened),\
+      \ [frightened](Rules/conditions.md#Frightened), [stunned](Rules/conditions.md#Stunned),\
+      \ and knocked [unconscious](Rules/conditions.md#Unconscious)."
     "name": "Dual Consciousness"
 "actions":
   - "desc": "The dolgrim makes three attacks."
@@ -63,6 +65,6 @@ Small numbers of these creatures sometimes make their way to the surface, often 
     "name": "Hand Crossbow"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/dolgrim-erlw.webp"
+"image": "Compendium/bestiary/aberration/token/dolgrim-erlw.webp"
 ```
 ^statblock

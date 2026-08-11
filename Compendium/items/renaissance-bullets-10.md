@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/age/renaissance
 - source/item/gear/ammunition-firearm
 - source/item/rarity/none
-aliases: 
+aliases:
 - "Renaissance Bullets (10)"
 item_type: 
 item_subtype: 

@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/vgm
 - source/deity/orc
 - source/domain/war
-aliases: 
-- Ilneval
+aliases:
+- "Ilneval"
 ---
 # Ilneval
 *Source: Volo's Guide to Monsters p. 83* 

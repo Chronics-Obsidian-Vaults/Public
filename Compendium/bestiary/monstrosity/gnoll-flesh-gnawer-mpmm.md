@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll Flesh Gnawer
+- "Gnoll Flesh Gnawer"
 ---
-# [Gnoll Flesh Gnawer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/gnoll-flesh-gnawer-mpmm.md)
+# [Gnoll Flesh Gnawer](Compendium/bestiary/monstrosity/gnoll-flesh-gnawer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
@@ -30,7 +31,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -44,8 +45,9 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "speed": "30 ft."
 "saves":
   - "dexterity": !!int "4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "1"
 "actions":
@@ -58,7 +60,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
       \ + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and\
-      \ it doesn't provoke [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)."
+      \ it doesn't provoke [opportunity attacks](Rules/actions.md#Opportunity%20Attack)."
     "name": "Sudden Rush"
 "bonus_actions":
   - "desc": "After the gnoll reduces a creature to 0 hit points with a melee attack\
@@ -67,7 +69,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/gnoll-flesh-gnawer-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/gnoll-flesh-gnawer-mpmm.webp"
 ```
 ^statblock
 

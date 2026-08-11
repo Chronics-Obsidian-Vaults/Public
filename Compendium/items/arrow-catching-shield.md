@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/shield/
 - source/item/tier/major
-aliases: 
+aliases:
 - "Arrow-Catching Shield"
 item_type: 
 item_subtype: 
@@ -15,7 +16,7 @@ rarity: rare
 attunement: required
 ---
 # Arrow-Catching Shield
-*Armor ([shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)), major, rare (requires attunement)*  
+*Armor ([shield](Compendium/items/shield.md)), major, rare (requires attunement)*  
 
 
 - **Armor Class**: 2

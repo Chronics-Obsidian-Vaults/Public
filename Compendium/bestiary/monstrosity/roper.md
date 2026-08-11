@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Roper
+- "Roper"
 ---
-# [Roper](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/roper.md)
-*Source: Monster Manual p. 261, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Roper](Compendium/bestiary/monstrosity/roper.md)
+*Source: Monster Manual p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Living in caves and caverns throughout the Underdark, voracious ropers feast on whatever they can catch and seize. A roper eats any creature, from Underdark beasts to adventurers and their gear.
 
@@ -48,12 +49,11 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
   - !!int "6"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 16"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 16"
 "languages": ""
 "cr": "5"
 "traits":
@@ -77,18 +77,17 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
       \ (4d8 + 4) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 50 ft., one creature. *Hit:*\
-      \ The target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 15). Until the grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ The target is [grappled](Rules/conditions.md#Grappled) (escape DC 15). Until\
+      \ the grapple ends, the target is [restrained](Rules/conditions.md#Restrained)\
       \ and has disadvantage on Strength checks and Strength saving throws, and the\
       \ roper can't use the same tendril on another target."
     "name": "Tendril"
-  - "desc": "The roper pulls each creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+  - "desc": "The roper pulls each creature [grappled](Rules/conditions.md#Grappled)\
       \ by it up to 25 feet straight toward it."
     "name": "Reel"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/roper.webp"
+"image": "Compendium/bestiary/monstrosity/token/roper.webp"
 ```
 ^statblock
 

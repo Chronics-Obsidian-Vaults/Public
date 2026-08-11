@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/bmt
 aliases:
-- Heroes of Destiny; Knight Destinies
+- "Heroes of Destiny; Knight Destinies"
 ---
 # Heroes of Destiny; Knight Destinies
 *Source: The Book of Many Things p. 69* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jim Darkmagic
+- "Jim Darkmagic"
 ---
-# [Jim Darkmagic](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/jim-darkmagic-ai.md)
+# [Jim Darkmagic](Compendium/bestiary/npc/jim-darkmagic-ai.md)
 *Source: Acquisitions Incorporated p. 197*  
 
 > [!quote]  
@@ -29,7 +30,7 @@ As an entertainer and purveyor of the "Jim Darkmagic Experience," the legendary 
 "subtype": "human"
 "alignment": "Chaotic Neutral"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -45,40 +46,38 @@ As an entertainer and purveyor of the "Jim Darkmagic Experience," the legendary 
   - "intelligence": !!int "7"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling)"
+  - "name": "[Animal Handling](Rules/skills.md#Animal%20Handling)"
     "desc": "+4"
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+7"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+5"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "5"
 "traits":
   - "desc": "Jim is a 9th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 15, +7 to hit with spell attacks). He has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md),\
-      \ [friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [Jim's magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/jims-magic-missile-ai.md)*,\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\n\
-      \n**2nd level (3 slots):** [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [Jim's glowing coin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/jims-glowing-coin-ai.md)*\n\
-      \n**3rd level (3 slots):** [incite greed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/incite-greed-ai.md)*,\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md)\n\
-      \n**4th level (3 slots):** [conjure minor elementals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-minor-elementals.md),\
-      \ [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md)\n\
-      \n**5th level (1 slots):** [mislead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mislead.md)\n\
-      \n*New spell introduced in chapter 3"
+      \ spells prepared:\n\n**Cantrips (at will):** [fire bolt](Compendium/spells/fire-bolt.md),\
+      \ [friends](Compendium/spells/friends.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**1st level (4 slots):** [disguise self](Compendium/spells/disguise-self.md),\
+      \ [Jim's magic missile](Compendium/spells/jims-magic-missile-ai.md)*, [mage\
+      \ armor](Compendium/spells/mage-armor.md)\n\n**2nd level (3 slots):** [invisibility](Compendium/spells/invisibility.md),\
+      \ [Jim's glowing coin](Compendium/spells/jims-glowing-coin-ai.md)*\n\n**3rd\
+      \ level (3 slots):** [incite greed](Compendium/spells/incite-greed-ai.md)*,\
+      \ [fireball](Compendium/spells/fireball.md)\n\n**4th level (3 slots):** [conjure\
+      \ minor elementals](Compendium/spells/conjure-minor-elementals.md), [polymorph](Compendium/spells/polymorph.md)\n\
+      \n**5th level (1 slots):** [mislead](Compendium/spells/mislead.md)\n\n*New spell\
+      \ introduced in chapter 3"
     "name": "Spellcasting"
-  - "desc": "Jim carries a [wand of wonder](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wand-of-wonder.md)."
+  - "desc": "Jim carries a [wand of wonder](Compendium/items/wand-of-wonder.md)."
     "name": "Special Equipment"
   - "desc": "As a bonus action, Jim teleports up to 30 feet to a space he can see.\
       \ The space must be unoccupied or occupied by a willing Small or Medium creature.\
@@ -97,6 +96,6 @@ As an entertainer and purveyor of the "Jim Darkmagic Experience," the legendary 
     "name": "Minor Conjuration"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/jim-darkmagic-ai.webp"
+"image": "Compendium/bestiary/npc/token/jim-darkmagic-ai.webp"
 ```
 ^statblock

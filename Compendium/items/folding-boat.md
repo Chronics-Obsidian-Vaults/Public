@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Folding Boat"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Folding Boat
 *Wondrous item, minor, rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/folding-boat.webp#right)
+![](Compendium/items/img/folding-boat.webp#right)
 
 - **Weight**: 4.0 lbs.
 

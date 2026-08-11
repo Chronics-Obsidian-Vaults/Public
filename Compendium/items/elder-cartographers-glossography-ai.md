@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/rarity/uncommon
-aliases: 
+aliases:
 - "Elder Cartographer's Glossography"
 item_type: 
 item_subtype: 

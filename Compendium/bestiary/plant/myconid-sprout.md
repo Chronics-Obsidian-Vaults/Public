@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Myconid Sprout
+- "Myconid Sprout"
 ---
-# [Myconid Sprout](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/myconid-sprout.md)
-*Source: Monster Manual p. 230, The Book of Many Things*  
+# [Myconid Sprout](Compendium/bestiary/plant/myconid-sprout.md)
+*Source: Monster Manual p. 230*  
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
 
@@ -44,8 +45,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   - !!int "11"
   - !!int "5"
 "speed": "10 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -68,8 +68,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     "name": "Rapport Spores (3/Day)"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/myconid-sprout.webp"
+"image": "Compendium/bestiary/plant/token/myconid-sprout.webp"
 ```
 ^statblock
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bone Naga (Guardian)
+- "Bone Naga (Guardian)"
 ---
-# [Bone Naga (Guardian)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/bone-naga-guardian.md)
+# [Bone Naga (Guardian)](Compendium/bestiary/undead/bone-naga-guardian.md)
 *Source: Monster Manual p. 233*  
 
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
@@ -56,26 +57,21 @@ A naga doesn't require air, food, drink, or sleep.
   - !!int "16"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "4"
 "traits":
   - "desc": "The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with\
       \ spell attacks) that needs only verbal components to cast its spells. Its spellcasting\
       \ ability is Wisdom, and it has the following cleric spells prepared:\n\n**Cantrips\
-      \ (at will):** [mending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mending.md),\
-      \ [sacred flame](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sacred-flame.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [shield of faith](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield-of-faith.md)\n\
-      \n**2nd level (3 slots):** [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md)\n\
-      \n**3rd level (2 slots):** [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md)"
+      \ (at will):** [mending](Compendium/spells/mending.md), [sacred flame](Compendium/spells/sacred-flame.md),\
+      \ [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\n**1st level (4 slots):**\
+      \ [command](Compendium/spells/command.md), [shield of faith](Compendium/spells/shield-of-faith.md)\n\
+      \n**2nd level (3 slots):** [calm emotions](Compendium/spells/calm-emotions.md),\
+      \ [hold person](Compendium/spells/hold-person.md)\n\n**3rd level (2 slots):**\
+      \ [bestow curse](Compendium/spells/bestow-curse.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:*\
@@ -83,7 +79,7 @@ A naga doesn't require air, food, drink, or sleep.
     "name": "Bite"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/bone-naga-guardian.webp"
+"image": "Compendium/bestiary/undead/token/bone-naga-guardian.webp"
 ```
 ^statblock
 

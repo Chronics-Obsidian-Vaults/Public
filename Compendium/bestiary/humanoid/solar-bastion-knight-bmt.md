@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/9
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Solar Bastion Knight
+- "Solar Bastion Knight"
 ---
-# [Solar Bastion Knight](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/solar-bastion-knight-bmt.md)
+# [Solar Bastion Knight](Compendium/bestiary/humanoid/solar-bastion-knight-bmt.md)
 *Source: The Book of Many Things p. 75*  
 
 Knights of the Solar Bastion are battle-hardened veterans who operate independently across the multiverse. When word reaches the organization that a Deck of Many Things has appeared, the nearest knight investigates, but every knight has the magical means to contact the Solar Bastion's headquarters and request help. Even so, it's rare for knights to work together outside their headquarters.
@@ -29,8 +30,7 @@ In addition, Sir Jared, detailed at the end of chapter 10, can serve as a model 
 "subtype": "paladin"
 "alignment": "typically  Neutral Good"
 "ac": !!int "20"
-"ac_class": "[plate armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[plate armor](Compendium/items/plate-armor.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "150"
 "hit_dice": "20d8 + 60"
 "modifier": !!int "0"
@@ -46,19 +46,18 @@ In addition, Sir Jared, detailed at the end of chapter 10, can serve as a model 
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+6"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [frightened](Rules/conditions.md#Frightened)"
 "senses": "passive Perception 13"
 "languages": "Common plus any one language"
 "cr": "9"
 "traits":
   - "desc": "The knight and each ally within 10 feet of it have advantage on saving\
-      \ throws. This trait is suppressed while the knight has the [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ throws. This trait is suppressed while the knight has the [incapacitated](Rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Aura of Protection"
 "actions":
@@ -71,19 +70,18 @@ In addition, Sir Jared, detailed at the end of chapter 10, can serve as a model 
   - "desc": "The knight unleashes a blaze of brilliant energy that fills a 30-foot-radius\
       \ sphere centered on the knight. Each creature of the knight's choice in that\
       \ area must make a DC 15 Dexterity saving throw. On a failed save, a creature\
-      \ takes 22 (4d10) radiant damage and has the [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ takes 22 (4d10) radiant damage and has the [blinded](Rules/conditions.md#Blinded)\
       \ condition until the end of its next turn. On a successful save, a creature\
       \ takes half as much damage only. For the next minute, the affected area is\
       \ filled with bright light that is sunlight."
     "name": "Solar Flare (Recharge 5-6)"
   - "desc": "The knight casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 15):\n\n**1/day each:** [Greater Restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md),\
-      \ [Sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md),\
-      \ [Word of Recall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/word-of-recall.md)\
+      \ ability (spell save DC 15):\n\n**1/day each:** [Greater Restoration](Compendium/spells/greater-restoration.md),\
+      \ [Sending](Compendium/spells/sending.md), [Word of Recall](Compendium/spells/word-of-recall.md)\
       \ (the prepared sanctuary is the Solar Bastion)"
     "name": "Spellcasting"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/solar-bastion-knight-bmt.webp"
+"image": "Compendium/bestiary/humanoid/token/solar-bastion-knight-bmt.webp"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/23
@@ -14,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elder Tempest
+- "Elder Tempest"
 ---
-# [Elder Tempest](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/elder-tempest-mpmm.md)
+# [Elder Tempest](Compendium/bestiary/elemental/elder-tempest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121, Mordenkainen's Tome of Foes p. 200*  
 
 Terrifying storms manifest in the bodies of elder tempests. Beings carved from clouds, wind, rain, and lightning, elder tempests assume the shape of serpents that slither through the sky. They drown the land beneath them with rain and stab the earth with lances of lightning. Punishing winds scream around them as they fly, feeding the chaos they create.
@@ -43,23 +44,18 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "charisma": !!int "11"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison, thunder"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained), [stunned](Rules/conditions.md#Stunned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": ""
 "cr": "23"
 "traits":
   - "desc": "The tempest can enter a hostile creature's space and stop there. It can\
       \ move through a space as narrow as 1 inch wide without squeezing."
     "name": "Air Form"
-  - "desc": "The tempest doesn't provoke [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The tempest doesn't provoke [opportunity attacks](Rules/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "If the tempest fails a saving throw, it can choose to succeed instead."
@@ -67,7 +63,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "desc": "The tempest is always at the center of a storm 1d6 + 4 miles in diameter.\
       \ Heavy precipitation in the form of either rain or snow falls there, causing\
       \ the area to be lightly obscured. Heavy rain also extinguishes open flames\
-      \ and imposes disadvantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+      \ and imposes disadvantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing. In addition, strong winds swirl in the area covered\
       \ by the storm. The winds impose disadvantage on ranged attack rolls. They also\
       \ extinguish open flames and disperse fog."
@@ -83,8 +79,8 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "desc": "Each creature within 120 feet of the tempest must make a DC 21 Dexterity\
       \ saving throw, taking 27 (6d8) lightning damage on a failed save, or half as\
       \ much damage on a successful one. If a target's saving throw fails by 5 or\
-      \ more, the creature is also [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the end of its next turn."
+      \ more, the creature is also [stunned](Rules/conditions.md#Stunned) until the\
+      \ end of its next turn."
     "name": "Lightning Storm (Recharge 6)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the elder tempest can expend a use to take one of the following actions.\
@@ -105,12 +101,12 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
       \ wall or floor) or another creature, the target takes 3 (1d6) bludgeoning damage\
       \ for every 10 feet it was thrown before impact. If the target collides with\
       \ another creature, that other creature must succeed on a DC 19 Dexterity saving\
-      \ throw or take the same impact damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ throw or take the same impact damage and be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Screaming Gale (Costs 3 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/elder-tempest-mpmm.webp"
+"image": "Compendium/bestiary/elemental/token/elder-tempest-mpmm.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Guild Intrigue
+- "Guild Intrigue"
 ---
 # Guild Intrigue
 *Source: Guildmasters' Guide to Ravnica p. 127* 

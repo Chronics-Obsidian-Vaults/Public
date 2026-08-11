@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Adventuring Options; Firearms
+- "Adventuring Options; Firearms"
 ---
 # Adventuring Options; Firearms
 *Source: Dungeon Master's Guide p. 266* 

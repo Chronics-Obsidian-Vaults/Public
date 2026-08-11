@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mule
+- "Mule"
 ---
-# [Mule](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/mule.md)
+# [Mule](Compendium/bestiary/beast/mule.md)
 *Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -42,7 +43,7 @@ aliases:
       \ its carrying capacity."
     "name": "Beast of Burden"
   - "desc": "The mule has advantage on Strength and Dexterity saving throws made against\
-      \ effects that would knock it [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ effects that would knock it [prone](Rules/conditions.md#Prone)."
     "name": "Sure-Footed"
 "actions":
   - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
@@ -50,7 +51,7 @@ aliases:
     "name": "Hooves"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/mule.webp"
+"image": "Compendium/bestiary/beast/token/mule.webp"
 ```
 ^statblock
 

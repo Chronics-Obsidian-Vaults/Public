@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/egw
 - source/item/armor/heavy
@@ -8,7 +9,7 @@ tags:
 - source/item/armor/medium
 - source/item/rarity/very-rare
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Last Stand Armor"
 - "Last Stand Breastplate"
 - "Last Stand Chain Mail"

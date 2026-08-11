@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/18
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Trostani
+- "Trostani"
 ---
-# [Trostani](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/trostani-ggr.md)
+# [Trostani](Compendium/bestiary/npc/trostani-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 252*  
 
 The Selesnya guildmaster is an amalgamation of three dryads in body, will, and soul. Each dryad's body extends from a central trunk, so while they possess independent minds, they share a single name-Trostani and a single life force. Usually Trostani communicates the will of the Worldsoul with one voice, but she retains three distinct personalities that embody the three parts of the Selesnyan ideal: order, life, and harmony. In the midst of increasing tensions on Ravnica, the three personalities have recently been at odds over how best to navigate the conclave through such difficult times.
@@ -41,36 +42,29 @@ Trostani spends most of her time in the towering tree of Vitu-Ghazi, the Selesny
   - "wisdom": !!int "16"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+9"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+16"
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+16"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+13"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 26"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [grappled](Rules/conditions.md#Grappled)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 26"
 "languages": "Common, Druidic, Elvish, Sylvan"
 "cr": "18"
 "traits":
   - "desc": "Trostani's innate spellcasting ability is Wisdom (spell save DC 24).\
       \ She can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md)\n\
-      \n**3/day each:** [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md),\
-      \ [conjure animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-animals.md),\
-      \ [giant insect](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/giant-insect.md),\
-      \ [moonbeam](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/moonbeam.md),\
-      \ [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md),\
-      \ [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**1/day each:** [conjure fey](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-fey.md),\
-      \ [mass cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-cure-wounds.md)"
+      \n**At will:** [dispel magic](Compendium/spells/dispel-magic.md), [druidcraft](Compendium/spells/druidcraft.md)\n\
+      \n**3/day each:** [bless](Compendium/spells/bless.md), [conjure animals](Compendium/spells/conjure-animals.md),\
+      \ [giant insect](Compendium/spells/giant-insect.md), [moonbeam](Compendium/spells/moonbeam.md),\
+      \ [plant growth](Compendium/spells/plant-growth.md), [spike growth](Compendium/spells/spike-growth.md),\
+      \ [suggestion](Compendium/spells/suggestion.md)\n\n**1/day each:** [conjure\
+      \ fey](Compendium/spells/conjure-fey.md), [mass cure wounds](Compendium/spells/mass-cure-wounds.md)"
     "name": "Innate Spellcasting"
   - "desc": "If Trostani fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -91,8 +85,8 @@ Trostani spends most of her time in the towering tree of Vitu-Ghazi, the Selesny
       \ and she casts a spell with a casting time of 1 action."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one creature. *Hit:*\
-      \ 15 (3d6 + 5) bludgeoning damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 19). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ 15 (3d6 + 5) bludgeoning damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 19). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained).\
       \ Trostani can grapple no more than three targets at a time."
     "name": "Constrict"
   - "desc": "*Melee Spell Attack:* +16 to hit, reach 5 ft., one creature. *Hit:* 23\
@@ -115,20 +109,20 @@ Trostani spends most of her time in the towering tree of Vitu-Ghazi, the Selesny
   - "desc": "Trostani bestows 20 temporary hit points on another creature she can\
       \ see within 120 feet of her."
     "name": "Voice of Life"
-  - "desc": "Trostani casts [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)."
+  - "desc": "Trostani casts [dispel magic](Compendium/spells/dispel-magic.md)."
     "name": "Voice of Order"
-  - "desc": "Trostani casts [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md).\
-      \ This counts as one of her daily uses of the spell."
+  - "desc": "Trostani casts [suggestion](Compendium/spells/suggestion.md). This counts\
+      \ as one of her daily uses of the spell."
     "name": "Chorus of the Conclave (Costs 2 Actions)"
   - "desc": "Trostani animates one or two trees she can see within 120 feet of her,\
       \ causing them to uproot themselves and become awakened trees (see the Monster\
       \ Manual for their stat blocks) for 1 minute or until Trostani uses a bonus\
       \ action to end the effect. These trees understand Druidic and obey Trostani's\
       \ spoken commands, but can't speak. If she issues no commands to them, the trees\
-      \ do nothing but follow her and take the Dodge action."
+      \ do nothing but follow her and take the [Dodge](Rules/actions.md#Dodge) action."
     "name": "Awaken Grove Guardians (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/trostani-ggr.webp"
+"image": "Compendium/bestiary/npc/token/trostani-ggr.webp"
 ```
 ^statblock

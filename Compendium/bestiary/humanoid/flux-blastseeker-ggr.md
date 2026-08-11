@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flux Blastseeker
+- "Flux Blastseeker"
 ---
-# [Flux Blastseeker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/flux-blastseeker-ggr.md)
+# [Flux Blastseeker](Compendium/bestiary/humanoid/flux-blastseeker-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 242*  
 
 While chemisters focus on inventing new tools, weapons, and other devices for the guild to use, the role of a blastseeker is to put those devices to work. Despite the name, not all such devices produce explosions, but all the most interesting ones (from the Izzet perspective) do.
@@ -23,7 +24,7 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
 "subtype": "any race"
 "alignment": "Chaotic Neutral"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "55"
 "hit_dice": "10d8 + 10"
 "modifier": !!int "2"
@@ -39,10 +40,12 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
   - "dexterity": !!int "5"
   - "intelligence": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[quarterstaff](Compendium/items/quarterstaff.md)"
 "senses": "passive Perception 12"
 "languages": "Common plus any one language"
 "cr": "5"
@@ -50,13 +53,11 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
   - "desc": "The blastseeker's innate spellcasting ability is Intelligence (spell\
       \ save DC 16, +8 to hit with spell attacks). The blastseeker can innately cast\
       \ the following spells, requiring no components other than its Izzet gear, which\
-      \ doesn't function for others:\n\n**3/day each:** [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\
-      \ (self only), [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md)\n\
-      \n**1/day each:** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md),\
-      \ [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md),\
-      \ [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md)"
+      \ doesn't function for others:\n\n**3/day each:** [mage armor](Compendium/spells/mage-armor.md)\
+      \ (self only), [scorching ray](Compendium/spells/scorching-ray.md)\n\n**1/day\
+      \ each:** [banishment](Compendium/spells/banishment.md), [cone of cold](Compendium/spells/cone-of-cold.md),\
+      \ [dimension door](Compendium/spells/dimension-door.md), [fireball](Compendium/spells/fireball.md),\
+      \ [ice storm](Compendium/spells/ice-storm.md)"
     "name": "Innate Spellcasting"
   - "desc": "The blastseeker can create an additional effect immediately after casting\
       \ a spell. Roll a d6 to determine the effect: 1-3. The blastseeker teleports,\
@@ -70,6 +71,6 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
     "name": "Quarterstaff"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/flux-blastseeker-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/flux-blastseeker-ggr.webp"
 ```
 ^statblock

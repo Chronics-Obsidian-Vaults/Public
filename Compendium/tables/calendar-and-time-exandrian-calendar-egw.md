@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Calendar and Time; Exandrian Calendar
+- "Calendar and Time; Exandrian Calendar"
 ---
 # Calendar and Time; Exandrian Calendar
 *Source: Explorer's Guide to Wildemount p. 8* 

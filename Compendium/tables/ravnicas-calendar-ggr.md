@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Ravnica's Calendar
+- "Ravnica's Calendar"
 ---
 # Ravnica's Calendar
 *Source: Guildmasters' Guide to Ravnica p. 7* 

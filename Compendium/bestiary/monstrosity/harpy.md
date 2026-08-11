@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -13,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Harpy
+- "Harpy"
 ---
-# [Harpy](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/harpy.md)
-*Source: Monster Manual p. 181, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Harpy](Compendium/bestiary/monstrosity/harpy.md)
+*Source: Monster Manual p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
 
@@ -61,6 +62,8 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
   - !!int "10"
   - !!int "13"
 "speed": "20 ft., fly 40 ft."
+"gear":
+  - "[club](Compendium/items/club.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1"
@@ -75,13 +78,11 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
     "name": "Club"
   - "desc": "The harpy sings a magical melody. Every humanoid and giant within 300\
       \ feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving\
-      \ throw or be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ until the song ends. The harpy must take a bonus action on its subsequent\
-      \ turns to continue singing. It can stop singing at any time. The song ends\
-      \ if the harpy is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\n\
-      \nWhile [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the harpy, a target is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ and ignores the songs of other harpies. If the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ throw or be [charmed](Rules/conditions.md#Charmed) until the song ends. The\
+      \ harpy must take a bonus action on its subsequent turns to continue singing.\
+      \ It can stop singing at any time. The song ends if the harpy is [incapacitated](Rules/conditions.md#Incapacitated).\n\
+      \nWhile [charmed](Rules/conditions.md#Charmed) by the harpy, a target is [incapacitated](Rules/conditions.md#Incapacitated)\
+      \ and ignores the songs of other harpies. If the [charmed](Rules/conditions.md#Charmed)\
       \ target is more than 5 feet away from the harpy, the target must move on its\
       \ turn toward the harpy by the most direct route. It doesn't avoid opportunity\
       \ attacks, but before moving into damaging terrain, such as lava or a pit, and\
@@ -93,11 +94,7 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
     "name": "Luring Song"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/harpy.webp"
+"image": "Compendium/bestiary/monstrosity/token/harpy.webp"
 ```
 ^statblock
 

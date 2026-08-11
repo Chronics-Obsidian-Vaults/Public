@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greyhawk
 - source/domain/trickery
-aliases: 
-- Ralishaz
+aliases:
+- "Ralishaz"
 ---
 # Ralishaz
 *Source: Player's Handbook p. 295* 

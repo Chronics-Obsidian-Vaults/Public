@@ -8,8 +8,8 @@ tags:
 - source/domain/forge
 - source/domain/knowledge
 - source/domain/war
-aliases: 
-- Moradin
+aliases:
+- "Moradin"
 ---
 # Moradin
 *Source: Dungeon Master's Guide p. 10, Xanathar's Guide to Everything p. 18* 

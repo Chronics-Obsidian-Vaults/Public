@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/armor/heavy
 - source/item/armor/medium
 - source/item/rarity/rare
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Mithral +1 Armor"
 - "Mithral +1 Breastplate"
 - "Mithral +1 Chain Mail"
@@ -30,7 +31,7 @@ attunement: none
 
 You have a +1 bonus to AC while wearing this armor.
 
-Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
+Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ([Stealth](Rules/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
 **Variants**:
 - [Mithral +1 Breastplate](#Mithral%20+1%20Breastplate)

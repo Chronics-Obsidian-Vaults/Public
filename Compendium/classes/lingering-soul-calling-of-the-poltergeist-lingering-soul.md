@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/lingering soul
 - source/subclass/lingering-soul/poltergeist
 aliases:
-- Calling of the Poltergeist
+- "Calling of the Poltergeist"
 ---
 # Calling of the Poltergeist
 *[Lingering Soul](./lingering-soul-lingering-soul.md): Phantom Callings*  
@@ -43,16 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Calling of the Poltergeist (Level 1)
-
 When a soul lingers long enough to buck the draw to the afterlife, they begin to walk a path of transformation. The choices they made in life, and in this current state of undeath,instill their spirit with varying degrees of positive and negative energy, slowly forging the soul into a hungry specter seeking to feast on the life force of the living, a mischievous reflection of nature's trickery who can bend. the corporeal world to their will, or a divine spirit of protection using their ethereal gifts to aid their still-living allies.
 
 Those souls who wish to still exert their will on the physical world, shifting steel and flesh with their anger alone, begin walking the way of the Poltergeist. Abandoning subtlety to instead harness a maelstrom of unbridled emotion, the Poltergeist exhibits the ability to lift, push, and manipulate the substantial realm around them. The clattering of dangerous weapons and helpless attackers being invisibly flung through the air mercilessly marks the fury of these ferocious shades.
 
 Upon becoming a Poltergeist, choose either your Strength, Dexterity or Intelligence to become your Aspect. Your Aspect modifier is equal to that of the chosen Ability Score. You gain proficiency in Strength saving throws.
+
+## Subclass Features
 
 ### Implements of Anger (Level 1)
 

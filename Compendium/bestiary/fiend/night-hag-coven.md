@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/7
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Night Hag (Coven)
+- "Night Hag (Coven)"
 ---
-# [Night Hag (Coven)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/night-hag-coven.md)
-*Source: Monster Manual p. 178, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Night Hag (Coven)](Compendium/bestiary/fiend/night-hag-coven.md)
+*Source: Monster Manual p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ```statblock
 "name": "Night Hag (Coven)"
@@ -33,59 +34,55 @@ aliases:
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "7"
 "traits":
   - "desc": "While all three members of a hag coven are within 30 feet of one another,\
       \ they can each cast the following spells from the wizard's spell list but must\
-      \ share the spell slots among themselves:\n\n**1st level (4 slots):** [identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md),\
-      \ [ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md)\n\
-      \n**2nd level (3 slots):** [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [locate object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md)\n\
-      \n**3rd level (3 slots):** [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md),\
-      \ [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md)\n\
-      \n**4th level (3 slots):** [phantasmal killer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-killer.md),\
-      \ [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md)\n\
-      \n**5th level (2 slots):** [contact other plane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contact-other-plane.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)\n\
-      \n**6th level (1 slots):** [eyebite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/eyebite.md)\n\
-      \nFor casting these spells, each hag is a 12th-level spellcaster that uses Intelligence\
+      \ share the spell slots among themselves:\n\n**1st level (4 slots):** [identify](Compendium/spells/identify.md),\
+      \ [ray of sickness](Compendium/spells/ray-of-sickness.md)\n\n**2nd level (3\
+      \ slots):** [hold person](Compendium/spells/hold-person.md), [locate object](Compendium/spells/locate-object.md)\n\
+      \n**3rd level (3 slots):** [bestow curse](Compendium/spells/bestow-curse.md),\
+      \ [counterspell](Compendium/spells/counterspell.md), [lightning bolt](Compendium/spells/lightning-bolt.md)\n\
+      \n**4th level (3 slots):** [phantasmal killer](Compendium/spells/phantasmal-killer.md),\
+      \ [polymorph](Compendium/spells/polymorph.md)\n\n**5th level (2 slots):** [contact\
+      \ other plane](Compendium/spells/contact-other-plane.md), [scrying](Compendium/spells/scrying.md)\n\
+      \n**6th level (1 slots):** [eyebite](Compendium/spells/eyebite.md)\n\nFor casting\
+      \ these spells, each hag is a 12th-level spellcaster that uses Intelligence\
       \ as her spellcasting ability. The spell save DC 15, and the spell attack bonus\
       \ is +7."
     "name": "Shared Spellcasting (Coven Only)"
   - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 14,\
       \ +6 to hit with spell attacks). She can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md)\n\
-      \n**2/day each:** [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)\
-      \ (self only), [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md)"
+      \ requiring no material components:\n\n**At will:** [detect magic](Compendium/spells/detect-magic.md),\
+      \ [magic missile](Compendium/spells/magic-missile.md)\n\n**2/day each:** [plane\
+      \ shift](Compendium/spells/plane-shift.md) (self only), [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement.md),\
+      \ [sleep](Compendium/spells/sleep.md)"
     "name": "Innate Spellcasting"
   - "desc": "The hag has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
   - "desc": "A night hag carries two very rare magic items that she must craft for\
       \ herself. If either object is lost, the night hag will go to great lengths\
-      \ to retrieve it, as creating a new tool takes time and effort.\n\nHeartstone:\
+      \ to retrieve it, as creating a new tool takes time and effort.\n\n**Heartstone.**\
       \ This lustrous black gem allows a night hag to become ethereal while it is\
-      \ in her possession. The touch of a heartstone also cures any disease. Crafting\
-      \ a heartstone takes 30 days.\n\nSoul Bag: When an evil humanoid dies as a result\
-      \ of a night hag's Nightmare Haunting, the hag catches the soul in this black\
-      \ sack made of stitched flesh. A soul bag can hold only one evil soul at a time,\
+      \ in her possession. The touch of a [heartstone](Compendium/items/heartstone-mm.md)\
+      \ also cures any disease. Crafting a heartstone takes 30 days.\n\n**Soul Bag.**\
+      \ When an evil humanoid dies as a result of a night hag's Nightmare Haunting,\
+      \ the hag catches the soul in this black sack made of stitched flesh. A [soul\
+      \ bag](Compendium/items/soul-bag-mm.md) can hold only one evil soul at a time,\
       \ and only the night hag who crafted the bag can catch a soul with it. Crafting\
       \ a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make\
       \ the bag)."
@@ -103,14 +100,14 @@ aliases:
       \ or vice versa. To do so, the hag must have a heartstone in her possession."
     "name": "Etherealness"
   - "desc": "While on the Ethereal Plane, the hag magically touches a sleeping humanoid\
-      \ on the Material Plane. A [protection from evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-evil-and-good.md)\
+      \ on the Material Plane. A [protection from evil and good](Compendium/spells/protection-from-evil-and-good.md)\
       \ spell cast on the target prevents this contact, as does a magic circle. As\
       \ long as the contact persists, the target has dreadful visions. If these visions\
       \ last for at least 1 hour, the target gains no benefit from its rest, and its\
       \ hit point maximum is reduced by 5 (1d10). If this effect reduces the target's\
       \ hit point maximum to 0, the target dies, and if the target was evil, its soul\
       \ is trapped in the hag's soul bag. The reduction to the target's hit point\
-      \ maximum lasts until removed by the  [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
+      \ maximum lasts until removed by the [greater restoration](Compendium/spells/greater-restoration.md)\
       \ spell or similar magic."
     "name": "Nightmare Haunting (1/Day)"
 "lair_actions":
@@ -151,24 +148,20 @@ aliases:
       \ fell magic, which creates one or more of the following effects:\n\n- Birds,\
       \ rodents, snakes, spiders, or toads (or some other creatures appropriate to\
       \ the hag) are found in great profusion.  \n- Beasts that have an Intelligence\
-      \ score of 2 or lower are [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the hag and directed to be aggressive toward intruders in the area.  \n\
-      - Strange carved figurines, twig fetishes, or rag dolls magically appear in\
-      \ trees.  \n\nA powerful night hag creates one or more of the following additional\
-      \ regional effects within 1 mile of her lair:\n\n- Shadows seem abnormally gaunt\
-      \ and sometimes move on their own as though alive.  \n- Creatures are transported\
-      \ to a harmless but eerie demiplane filled with shadowy forms, waxy corpses,\
-      \ and cackling. The creatures are trapped there for a minute or two, and then\
-      \ returned to the place where they vanished from.  \n- Intelligent creatures\
-      \ see hallucinations of dead friends, family members, and even themselves littering\
-      \ the hag's realm. Any attempt to interact with a hallucinatory image causes\
-      \ it to disappear.  "
+      \ score of 2 or lower are [charmed](Rules/conditions.md#Charmed) by the hag\
+      \ and directed to be aggressive toward intruders in the area.  \n- Strange carved\
+      \ figurines, twig fetishes, or rag dolls magically appear in trees.  \n\nA powerful\
+      \ night hag creates one or more of the following additional regional effects\
+      \ within 1 mile of her lair:\n\n- Shadows seem abnormally gaunt and sometimes\
+      \ move on their own as though alive.  \n- Creatures are transported to a harmless\
+      \ but eerie demiplane filled with shadowy forms, waxy corpses, and cackling.\
+      \ The creatures are trapped there for a minute or two, and then returned to\
+      \ the place where they vanished from.  \n- Intelligent creatures see hallucinations\
+      \ of dead friends, family members, and even themselves littering the hag's realm.\
+      \ Any attempt to interact with a hallucinatory image causes it to disappear.\
+      \  "
     "name": ""
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "TCE"
-  - "BMT"
 ```
 ^statblock

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/bard/swords
 aliases:
-- College of Swords
+- "College of Swords"
 ---
 # College of Swords
 *[Bard](./bard.md): Bard College*  
@@ -43,10 +43,7 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### College of Swords (Level 3)
+![](Compendium/classes/img/bard.webp#right)
 
 Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. Though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.
 
@@ -54,9 +51,11 @@ Their talent with weapons inspires many blades to lead double lives. One blade m
 
 Blades who abandon their lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most troupes. With their weapon skills and magic, these blades either take up work as enforcers for thieves' guilds or strike out on their own as adventurers.
 
+## Subclass Features
+
 ### Bonus Proficiencies (Level 3)
 
-When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [scimitar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scimitar.md).
+When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [scimitar](Compendium/items/scimitar.md).
 
 If you're proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells.
 
@@ -64,30 +63,29 @@ If you're proficient with a simple or martial melee weapon, you can use it as a 
 
 At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.
 
-- [Dueling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/dueling.md)  
-- [Two-Weapon Fighting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/two-weapon-fighting.md)  
+Options (choose 1):
+
+- [Dueling](Compendium/optional-features/dueling.md)  
+- [Two-Weapon Fighting](Compendium/optional-features/two-weapon-fighting.md)  
 
 ### Blade Flourish (Level 3)
 
 At 3rd level, you learn to perform impressive displays of martial prowess and speed.
 
-Whenever you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
+Whenever you take the [Attack](Rules/actions.md#Attack) action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
+
+Options:
 
 - **Defensive Flourish**  
-
     You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.  
-
 - **Slashing Flourish**  
-
     You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any other creature of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.  
-
 - **Mobile Flourish**  
-
     You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target.  
 
 ### Extra Attack (Level 6)
 
-Starting at 6th level, you can attack twice, instead of once, whenever you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action on your turn.
+Starting at 6th level, you can attack twice, instead of once, whenever you take the [Attack](Rules/actions.md#Attack) action on your turn.
 
 ### Master's Flourish (Level 14)
 
@@ -96,5 +94,7 @@ Starting at 14th level, whenever you use a Blade Flourish option, you can roll a
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Bard
-> ![Fighting Style, Bard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-fs-b.md#Fighting%20Style,%20Bard)
+> ![Fighting Style, Bard](Compendium/lists/list-optfeaturetype-fs-b.md#Fighting%20Style,%20Bard)
 ^list-optfeature-fs-b
+
+![](Compendium/classes/img/swords-bard.webp#center)

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Physical Characteristics; Beholder Skin Texture
+- "Physical Characteristics; Beholder Skin Texture"
 ---
 # Physical Characteristics; Beholder Skin Texture
 *Source: Volo's Guide to Monsters p. 8* 

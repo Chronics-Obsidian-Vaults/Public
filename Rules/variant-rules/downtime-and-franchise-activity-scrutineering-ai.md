@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Scrutineering
+- "Downtime and Franchise Activity: Scrutineering"
 ---
 # Downtime and Franchise Activity: Scrutineering
 *Source: Acquisitions Incorporated p. 43* 

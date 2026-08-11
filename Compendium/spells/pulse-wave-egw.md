@@ -1,15 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/egw
 - source/spell/class/bard/magical-secrets
 - source/spell/level/3rd-level
 - source/spell/school/evocation
+- source/spell/subclass/chronurgy-magic
+- source/spell/subclass/graviturgy-magic
 classes:
 - Bard (Magical Secrets)
+- Wizard (Chronurgy Magic)
+- Wizard (Graviturgy Magic)
 aliases:
-- Pulse Wave
+- "Pulse Wave"
 level: 3
 school: evocation
 ritual: false
@@ -35,6 +40,6 @@ In addition, unsecured objects that are completely within the cone are likewise 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by `1d6` and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Wizard (Chronurgy Magic)](Compendium/lists/list-spells-classes-chronurgy-magic-egw.md "subclass=EGW"); [Wizard (Graviturgy Magic)](Compendium/lists/list-spells-classes-graviturgy-magic-egw.md "subclass=EGW")
 
 *Source: Explorer's Guide to Wildemount p. 188*

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -15,12 +16,12 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Soul Cage
+- "Soul Cage"
 level: 6
 school: necromancy
 ritual: false
 concentration: false
-casting_time: "1 Reaction"
+casting_time: "1 Reaction, which you take when a humanoid you can see within 60 feet of you die"
 range: "60 feet"
 components: "V, S, M (a tiny silver cage worth 100 gp)"
 duration: "8 hours"
@@ -30,7 +31,7 @@ components_vsm: [V, S, M]
 *6th-level, Necromancy*  
 
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when a humanoid you can see within 60 feet of you die
 - **Range:** 60 feet
 - **Components:** V, S, M (a tiny silver cage worth 100 gp)
 - **Duration:** 8 hours
@@ -51,12 +52,12 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 
 ## Eyes of the Dead
 
-You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [concentrating](Rules/conditions.md#Concentration) on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [see invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/see-invisibility.md) or [truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [see invisibility](Compendium/spells/see-invisibility.md) or [truesight](Rules/senses.md#Truesight)) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](Compendium/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG"); [Warlock](Compendium/lists/list-spells-classes-warlock.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 165*

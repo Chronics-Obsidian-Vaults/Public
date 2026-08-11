@@ -8,8 +8,8 @@ tags:
 - source/domain/arcana
 - source/domain/death
 - source/domain/knowledge
-aliases: 
-- Vecna
+aliases:
+- "Vecna"
 ---
 # Vecna
 *Source: Dungeon Master's Guide p. 10, Sword Coast Adventurer's Guide p. 125* 

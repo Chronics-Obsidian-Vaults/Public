@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spy
+- "Spy"
 ---
-# [Spy](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/spy.md)
-*Source: Monster Manual p. 349, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Spy](Compendium/bestiary/humanoid/spy.md)
+*Source: Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
 
@@ -36,30 +37,34 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)"
+  - "name": "[Investigation](Rules/skills.md#Investigation)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+5"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
+"gear":
+  - "[hand crossbow](Compendium/items/hand-crossbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 16"
 "languages": "any two languages"
 "cr": "1"
 "traits":
-  - "desc": "On each of its turns, the spy can use a bonus action to take the Dash,\
-      \ Disengage, or Hide action."
+  - "desc": "On each of its turns, the spy can use a bonus action to take the [Dash](Rules/actions.md#Dash),\
+      \ [Disengage](Rules/actions.md#Disengage), or [Hide](Rules/actions.md#Hide)\
+      \ action."
     "name": "Cunning Action"
   - "desc": "The spy deals an extra 7 (2d6) damage when it hits a target with a weapon\
       \ attack and has advantage on the attack roll, or when the target is within\
-      \ 5 feet of an ally of the spy that isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ 5 feet of an ally of the spy that isn't [incapacitated](Rules/conditions.md#Incapacitated)\
       \ and the spy doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
@@ -73,11 +78,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies
     "name": "Hand Crossbow"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/spy.webp"
+"image": "Compendium/bestiary/humanoid/token/spy.webp"
 ```
 ^statblock
 

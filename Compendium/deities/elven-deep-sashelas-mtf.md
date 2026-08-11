@@ -8,8 +8,8 @@ tags:
 - source/domain/knowledge
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Deep Sashelas
+aliases:
+- "Deep Sashelas"
 ---
 # Deep Sashelas
 *Source: Mordenkainen's Tome of Foes p. 48* 

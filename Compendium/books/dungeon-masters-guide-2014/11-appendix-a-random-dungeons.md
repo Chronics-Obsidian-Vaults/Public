@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Appendix A: Random Dungeons
+- "Appendix A: Random Dungeons"
 ---
 # Appendix A: Random Dungeons
 *Source: Dungeon Master's Guide (2014), p. 290* 
@@ -22,7 +22,7 @@ The Starting Area table produces a chamber or a set of corridors at the entrance
 
 Once you've selected the entrance, roll on the appropriate table for each passage or door leading away from the starting area. Passages each extend 10 feet beyond the starting area. After that point, check on the Passage table for each passage to determine what lies beyond. Use the Beyond a Door table to determine what lies behind doors and secret doors.
 
-![Starting Area](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/starting-area.md)
+![Starting Area](Compendium/tables/starting-area.md)
 
 ## Passages
 
@@ -30,17 +30,19 @@ When generating passages and corridors, roll on the Passage table multiple times
 
 Whenever you create a new passage, roll to determine its width. If the passage branches from another passage, roll a `d12` on the Passage Width table. If it comes from a chamber, roll a `d20` on that table, but the width of the passage must be at least 5 feet smaller than the longest dimension of the chamber.
 
-![Passages; Passage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/passages-passage.md)
+![Passages; Passage](Compendium/tables/passages-passage.md)
 
-![Passages; Passage Width](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/passages-passage-width.md)
+![Passages; Passage Width](Compendium/tables/passages-passage-width.md)
 
 ## Doors
 
 Whenever a table roll indicates a door, roll on the Door Type table to determine its nature, then roll on the Beyond a Door table to see what lies on the other side of it. If a door is barred, you decide which side of the door the bar is on. Unlocked doors can also be stuck, at your discretion. See chapter 5, "Adventure Environments," for information on doors and portcullises.
 
-![Doors; Door Type](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/doors-door-type.md)
+![](Compendium/books/dungeon-masters-guide-2014/img/a-1.webp#center)
 
-![Doors; Beyond a Door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/doors-beyond-a-door.md)
+![Doors; Door Type](Compendium/tables/doors-door-type.md)
+
+![Doors; Beyond a Door](Compendium/tables/doors-beyond-a-door.md)
 
 ## Chambers
 
@@ -48,21 +50,23 @@ Whenever a roll on a table indicates a chamber, use the Chamber table to define 
 
 Use the tables in the "Stocking a Dungeon" section to determine the contents of a chamber.
 
-![Chambers; Chamber](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chambers-chamber.md)
+![Chambers; Chamber](Compendium/tables/chambers-chamber.md)
 
-![Chambers; Chamber Exits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chambers-chamber-exits.md)
+![Chambers; Chamber Exits](Compendium/tables/chambers-chamber-exits.md)
 
-![Chambers; Exit Location](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chambers-exit-location.md)
+![Chambers; Exit Location](Compendium/tables/chambers-exit-location.md)
 
-![Chambers; Exit Type](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chambers-exit-type.md)
+![Chambers; Exit Type](Compendium/tables/chambers-exit-type.md)
 
 ## Stairs
 
 Stairs can include any means of going up and down, including ramps, chimneys, open shafts, elevators, and ladders. If your dungeon has more than one level, the amount of space between levels is up to you. A distance of 30 feet works fine for most dungeons.
 
-![Stairs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/stairs.md)
+![Stairs](Compendium/tables/stairs.md)
 
 ## Connecting Areas
+
+![](Compendium/books/dungeon-masters-guide-2014/img/a-2.webp#center)
 
 When your map is done, consider adding doors between chambers and passages that are next to each other but otherwise not connected. Such doors create more paths through the dungeon and expand players' options.
 
@@ -76,47 +80,55 @@ You don't need to have every last detail of your dungeon plotted out. You can ge
 
 ### Chamber Purpose
 
+![](Compendium/books/dungeon-masters-guide-2014/img/a-3.webp#center)
+
 A room's purpose can help determine its furnishings and other contents.
 
 For each chamber on your dungeon map, establish its purpose or use the tables below to generate ideas. Each type of dungeon described in the "Dungeon Purpose" section of chapter 5, "Adventure Environments," has its own table featuring chambers geared to the dungeon's purpose. For example, if you're building a tomb, use the Dungeon: Tomb table to help you determine the purpose of each chamber. These dungeon-specific tables are followed by the General Dungeon Chambers table, which you can use if your dungeon isn't an exact fit for one of the standard types of dungeon or if you want to mix things up.
 
 Relying on random rolls to stock an entire dungeon can lead to incongruous results. A tiny room might end up being identified as a temple, while the huge chamber next door serves as storage. It can be fun to try to make sense of such strange design ideas, but make changes as you see fit. You can set aside a few key rooms and create specific contents for them.
 
-![Chamber Purpose; Dungeon: Death Trap](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-dungeon-death-trap.md)
+![Chamber Purpose; Dungeon: Death Trap](Compendium/tables/chamber-purpose-dungeon-death-trap.md)
 
-![Chamber Purpose; Dungeon: Lair](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-dungeon-lair.md)
+![Chamber Purpose; Dungeon: Lair](Compendium/tables/chamber-purpose-dungeon-lair.md)
 
-![Chamber Purpose; Dungeon: Maze](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-dungeon-maze.md)
+![Chamber Purpose; Dungeon: Maze](Compendium/tables/chamber-purpose-dungeon-maze.md)
 
-![Chamber Purpose; Dungeon: Mine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-dungeon-mine.md)
+![Chamber Purpose; Dungeon: Mine](Compendium/tables/chamber-purpose-dungeon-mine.md)
 
-![Chamber Purpose; Dungeon: Planar Gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-dungeon-planar-gate.md)
+![Chamber Purpose; Dungeon: Planar Gate](Compendium/tables/chamber-purpose-dungeon-planar-gate.md)
 
-![Chamber Purpose; Dungeon: Stronghold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-dungeon-stronghold.md)
+![](Compendium/books/dungeon-masters-guide-2014/img/a-4.webp#center)
 
-![Chamber Purpose; Dungeon: Temple or Shrine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-dungeon-temple-or-shrine.md)
+![Chamber Purpose; Dungeon: Stronghold](Compendium/tables/chamber-purpose-dungeon-stronghold.md)
 
-![Chamber Purpose; Dungeon: Tomb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-dungeon-tomb.md)
+![Chamber Purpose; Dungeon: Temple or Shrine](Compendium/tables/chamber-purpose-dungeon-temple-or-shrine.md)
 
-![Chamber Purpose; Dungeon: Treasure Vault](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-dungeon-treasure-vault.md)
+![Chamber Purpose; Dungeon: Tomb](Compendium/tables/chamber-purpose-dungeon-tomb.md)
 
-![Chamber Purpose; General Dungeon Chambers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/chamber-purpose-general-dungeon-chambers.md)
+![Chamber Purpose; Dungeon: Treasure Vault](Compendium/tables/chamber-purpose-dungeon-treasure-vault.md)
+
+![Chamber Purpose; General Dungeon Chambers](Compendium/tables/chamber-purpose-general-dungeon-chambers.md)
 
 ### Current Chamber State
 
 If a dungeon has a tumultuous history, you can roll to determine the current condition of any particular area. Otherwise, if the room is still used for its intended purpose, it remains intact.
 
-![Current Chamber State](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/current-chamber-state.md)
+![Current Chamber State](Compendium/tables/current-chamber-state.md)
 
 ### Chamber Contents
+
+![](Compendium/books/dungeon-masters-guide-2014/img/a-5.webp#center)
 
 Once you have a sense of the purpose of the various dungeon chambers, you can think about the contents of those areas. The Dungeon Chamber Contents table allows you to randomly roll contents for a chamber, or you can choose contents for specific areas. If you choose contents, be sure to include an interesting, colorful assortment of things. In addition to the contents shown on this table, refer to "Dungeon Dressing" later in this appendix for additional items and elements to fill rooms.
 
 In the Dungeon Chamber Contents table, a "dominant inhabitant" is a creature that controls an area. Pets and allied creatures are subservient to the dominant inhabitant. "Random creatures" are scavengers or nuisances, usually lone monsters or small groups passing through the area. They include such creatures as carrion crawlers, dire rats, gelatinous cubes, and rust monsters. See chapter 3, "Creating Adventures," for more information on random encounters.
 
-![Dungeon Chamber Contents](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-chamber-contents.md)
+![Dungeon Chamber Contents](Compendium/tables/dungeon-chamber-contents.md)
 
 ### Monsters and Motivations
+
+![](Compendium/books/dungeon-masters-guide-2014/img/a-6.webp#center)
 
 See chapter 3, "Creating Adventures," for guidance on creating encounters with monsters. To foster variety and suspense, be sure to include encounters of varying difficulty.
 
@@ -126,13 +138,13 @@ Not all monsters are automatically hostile. When placing monsters in your dungeo
 
 For large groups of monsters encountered across multiple chambers, motivation could apply to the entire group, or each subgroup could have conflicting goals.
 
-![Monsters and Motivations; Monster Motivation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monsters-and-motivations-monster-motivation.md)
+![Monsters and Motivations; Monster Motivation](Compendium/tables/monsters-and-motivations-monster-motivation.md)
 
 ### Random Dungeon Hazards
 
 Hazards are rarely found in inhabited areas, because monsters either clear them away or avoid them. Shriekers and violet fungi are described in the *Monster Manual*. The other hazards on the table are described in chapter 5, "Adventure Environments."
 
-![Random Dungeon Hazards; Dungeon Hazards](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-dungeon-hazards-dungeon-hazards.md)
+![Random Dungeon Hazards; Dungeon Hazards](Compendium/tables/random-dungeon-hazards-dungeon-hazards.md)
 
 ### Random Obstacles
 
@@ -140,29 +152,33 @@ Obstacles block progress through the dungeon. In some cases, what adventurers co
 
 Obstacles can affect more than one room. A chasm might run through several passages and chambers, or send cracks through the stonework in a wider area around it. An area of battering winds that emanates from a magic altar could stir the air less dangerously for hundreds of feet in all directions.
 
-![Random Obstacles; Obstacles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-obstacles-obstacles.md)
+![Random Obstacles; Obstacles](Compendium/tables/random-obstacles-obstacles.md)
 
 ### Random Traps
 
 If you need a trap quickly or want to drop random traps into a dungeon, use the sample traps presented in chapter 5, "Adventure Environments" or the tables below. If you use the tables, start with the Trap Effects and Trap Trigger tables to decide the type of trap, then use the Trap Damage Severity tables to decide how deadly it should be. For more information on trap damage severity, see chapter 5.
 
-![Random Traps; Trap Trigger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-traps-trap-trigger.md)
+![Random Traps; Trap Trigger](Compendium/tables/random-traps-trap-trigger.md)
 
-![Random Traps; Trap Damage Severity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-traps-trap-damage-severity.md)
+![Random Traps; Trap Damage Severity](Compendium/tables/random-traps-trap-damage-severity.md)
 
-![Random Traps; Trap Effects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-traps-trap-effects.md)
+![Random Traps; Trap Effects](Compendium/tables/random-traps-trap-effects.md)
 
 ### Random Tricks
+
+![](Compendium/books/dungeon-masters-guide-2014/img/a-7.webp#center)
 
 Tricks are quirkier and less deadly than traps. Some are effects left behind by the dungeon's creators, while others might be manifestations of the strange magical energy suffusing the dungeon.
 
 The following tables allow you to generate random tricks. Roll first to determine an object that the trick is placed on, then roll to determine the nature of the trick. Some tricks are permanent effects that can't be dispelled; others are temporary or can be neutralized with a dispel magic spell. You decide which is which.
 
-![Random Tricks; Trick Objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-tricks-trick-objects.md)
+![Random Tricks; Trick Objects](Compendium/tables/random-tricks-trick-objects.md)
 
-![Random Tricks; Tricks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-tricks-tricks.md)
+![Random Tricks; Tricks](Compendium/tables/random-tricks-tricks.md)
 
 ### Random treasures
+
+![](Compendium/books/dungeon-masters-guide-2014/img/a-8.webp#center)
 
 Use the tables and guidelines in chapter 7, "Treasure" to determine the treasure in each area of your dungeon.
 
@@ -178,22 +194,22 @@ The tables in this section provide miscellaneous items and points of interest th
 
 To generate dungeon dressing at random, roll once on each of the following tables: Noises, Air, and Odors. Roll as often as you like on the other tables in this section, or choose appropriate furnishings for the area.
 
-![Dungeon Dressing; Noises](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-noises.md)
+![Dungeon Dressing; Noises](Compendium/tables/dungeon-dressing-noises.md)
 
-![Dungeon Dressing; Air](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-air.md)
+![Dungeon Dressing; Air](Compendium/tables/dungeon-dressing-air.md)
 
-![Dungeon Dressing; Odor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-odor.md)
+![Dungeon Dressing; Odor](Compendium/tables/dungeon-dressing-odor.md)
 
-![Dungeon Dressing; General Features](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-general-features.md)
+![Dungeon Dressing; General Features](Compendium/tables/dungeon-dressing-general-features.md)
 
-![Dungeon Dressing; General Furnishings and Appointments](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-general-furnishings-and-appointments.md)
+![Dungeon Dressing; General Furnishings and Appointments](Compendium/tables/dungeon-dressing-general-furnishings-and-appointments.md)
 
-![Dungeon Dressing; Religious Articles and Furnishings](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-religious-articles-and-furnishings.md)
+![Dungeon Dressing; Religious Articles and Furnishings](Compendium/tables/dungeon-dressing-religious-articles-and-furnishings.md)
 
-![Dungeon Dressing; Mage Furnishings](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-mage-furnishings.md)
+![Dungeon Dressing; Mage Furnishings](Compendium/tables/dungeon-dressing-mage-furnishings.md)
 
-![Dungeon Dressing; Utensils and Personal Items](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-utensils-and-personal-items.md)
+![Dungeon Dressing; Utensils and Personal Items](Compendium/tables/dungeon-dressing-utensils-and-personal-items.md)
 
-![Dungeon Dressing; Container Contents](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-container-contents.md)
+![Dungeon Dressing; Container Contents](Compendium/tables/dungeon-dressing-container-contents.md)
 
-![Dungeon Dressing; Books, Scrolls, and Tomes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dungeon-dressing-books-scrolls-and-tomes.md)
+![Dungeon Dressing; Books, Scrolls, and Tomes](Compendium/tables/dungeon-dressing-books-scrolls-and-tomes.md)

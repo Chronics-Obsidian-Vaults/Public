@@ -7,7 +7,7 @@ tags:
 - source/domain/peace
 - source/subclass/cleric/peace
 aliases:
-- Peace Domain
+- "Peace Domain"
 ---
 # Peace Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,10 +44,7 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Peace Domain (Level 1)
+![](Compendium/classes/img/peace-cleric.webp#right)
 
 The balm of peace thrives at the heart of healthy communities, between friendly nations, and in the souls of the kindhearted. The gods of peace inspire people of all sorts to resolve conflict and to stand up against those forces that try to prevent peace from flourishing. See the Peace Deities table for a list of some of the gods associated with this domain.
 
@@ -62,13 +59,14 @@ Clerics of the Peace Domain preside over the signing of treaties, and they are o
 | Boldrei | Eberron |
 | Cyrrollalee | Halfling |
 | Eldath | Forgotten Realms |
-| [Gaerdal Ironhand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/gnomish-gaerdal-ironhand-scag.md) | Gnomish |
-| [Paladine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-paladine-phb.md) | Dragonlance |
-| [Rao](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-rao.md) | Greyhawk |
+| [Gaerdal Ironhand](Compendium/deities/gnomish-gaerdal-ironhand-scag.md) | Gnomish |
+| [Paladine](Compendium/deities/dragonlance-paladine-phb.md) | Dragonlance |
+| [Rao](Compendium/deities/greyhawk-rao.md) | Greyhawk |
 ^peace-deities
 
-#### Domain Spells
-_Source: Tasha's Cauldron of Everything_
+## Subclass Features
+
+### Domain Spells (Level 1)
 
 *1st-level Peace Domain feature*
 
@@ -78,18 +76,18 @@ You gain domain spells at the cleric levels listed in the Peace Domain Spells ta
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [heroism](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/heroism.md), [sanctuary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sanctuary.md) |
-| 3rd | [aid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aid.md), [warding bond](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/warding-bond.md) |
-| 5th | [beacon of hope](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/beacon-of-hope.md), [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md) |
-| 7th | [aura of purity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-purity.md), [Otiluke's resilient sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/otilukes-resilient-sphere.md) |
-| 9th | [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md), [Rary's telepathic bond](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/rarys-telepathic-bond.md) |
+| 1st | [heroism](Compendium/spells/heroism.md), [sanctuary](Compendium/spells/sanctuary.md) |
+| 3rd | [aid](Compendium/spells/aid.md), [warding bond](Compendium/spells/warding-bond.md) |
+| 5th | [beacon of hope](Compendium/spells/beacon-of-hope.md), [sending](Compendium/spells/sending.md) |
+| 7th | [aura of purity](Compendium/spells/aura-of-purity.md), [Otiluke's resilient sphere](Compendium/spells/otilukes-resilient-sphere.md) |
+| 9th | [greater restoration](Compendium/spells/greater-restoration.md), [Rary's telepathic bond](Compendium/spells/rarys-telepathic-bond.md) |
 ^peace-domain-spells
 
 ### Implement of Peace (Level 1)
 
 *1st-level Peace Domain feature*
 
-You gain proficiency in the [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance), or [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) skill (your choice).
+You gain proficiency in the [Insight](Rules/skills.md#Insight), [Performance](Rules/skills.md#Performance), or [Persuasion](Rules/skills.md#Persuasion) skill (your choice).
 
 ### Emboldening Bond (Level 1)
 
@@ -119,7 +117,7 @@ You add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 ### Blessed Strikes (Level 8)
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Potent Spellcasting feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

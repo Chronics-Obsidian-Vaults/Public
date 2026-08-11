@@ -5,14 +5,14 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Monster Lore
+- "Monster Lore"
 ---
 # Monster Lore
 *Source: Volo's Guide to Monsters, p. 5* 
 
 Volo has encountered many monsters in his day, few as odious or as ornery as the ones described herein. This chapter takes several iconic D&D monsters and provides additional information about their origins, their dispositions and behaviors, and their lairs-above and beyond what is written in the *Monster Manual.* To give every monster such grand treatment would require too many pages to count, so we winnowed down the list to nine groups of creatures that have a lot going for them and tend to get used often in D&D campaigns:
 
-![Monster Lore](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/monster-lore-vgm.md)
+![Monster Lore](Compendium/tables/monster-lore-vgm.md)
 
 If you plunder this chapter for ideas and maps the next time you create an adventure or a villain, then this material has served its purpose. We hope that, as you explore each monster section, you'll come up with new ways to challenge and entertain your players, as well as find new things that you can borrow for your own D&D campaign. Let each entry spark your imagination!
 
@@ -60,7 +60,7 @@ Most of the beholders in the world live apart from others of their kind, and the
 
 A solitary beholder gathers (or inherits) inferior creatures that it uses as minions. These creatures help defend the lair and also serve as shock troops if the beholder vacates its lair to prey on the inhabitants of the surrounding area. Often, it plunders its neighbors' homes for knowledge and treasure. After the beholder secures the spoils it desires from its enemies, it allows its minions to divide the remaining booty.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-1.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-1.webp#center)
 
 #### Eye Tyrants
 
@@ -90,49 +90,49 @@ As a byproduct of their unique method of propagation, beholders in one part of t
 
 Use the following tables to produce a variety of different appearances for beholders if you desire.
 
-![Physical Characteristics; Beholder Body Diameter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-body-diameter-vgm.md)
+![Physical Characteristics; Beholder Body Diameter](Compendium/tables/physical-characteristics-beholder-body-diameter-vgm.md)
 
-![Physical Characteristics; Beholder Skin Color](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-skin-color-vgm.md)
+![Physical Characteristics; Beholder Skin Color](Compendium/tables/physical-characteristics-beholder-skin-color-vgm.md)
 
-![Physical Characteristics; Beholder Skin Texture](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-skin-texture-vgm.md)
+![Physical Characteristics; Beholder Skin Texture](Compendium/tables/physical-characteristics-beholder-skin-texture-vgm.md)
 
-![Physical Characteristics; Beholder Eye Color](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-eye-color-vgm.md)
+![Physical Characteristics; Beholder Eye Color](Compendium/tables/physical-characteristics-beholder-eye-color-vgm.md)
 
-![Physical Characteristics; Beholder Iris Shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-iris-shape-vgm.md)
+![Physical Characteristics; Beholder Iris Shape](Compendium/tables/physical-characteristics-beholder-iris-shape-vgm.md)
 
-![Physical Characteristics; Beholder Eye Size](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-eye-size-vgm.md)
+![Physical Characteristics; Beholder Eye Size](Compendium/tables/physical-characteristics-beholder-eye-size-vgm.md)
 
-![Physical Characteristics; Beholder Eyestalk Texture](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-eyestalk-texture-vgm.md)
+![Physical Characteristics; Beholder Eyestalk Texture](Compendium/tables/physical-characteristics-beholder-eyestalk-texture-vgm.md)
 
-![Physical Characteristics; Beholder Eyestalk Shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-eyestalk-shape-vgm.md)
+![Physical Characteristics; Beholder Eyestalk Shape](Compendium/tables/physical-characteristics-beholder-eyestalk-shape-vgm.md)
 
-![Physical Characteristics; Beholder Mouth Shape and Size](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-mouth-shape-and-size-vgm.md)
+![Physical Characteristics; Beholder Mouth Shape and Size](Compendium/tables/physical-characteristics-beholder-mouth-shape-and-size-vgm.md)
 
-![Physical Characteristics; Beholder Teeth Shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-characteristics-beholder-teeth-shape-vgm.md)
+![Physical Characteristics; Beholder Teeth Shape](Compendium/tables/physical-characteristics-beholder-teeth-shape-vgm.md)
 
 ### Roleplaying a Beholder
 
 When you're roleplaying a beholder, the following tables contain possible inspiration. They suggest characteristics that a beholder might possess.
 
-![Roleplaying a Beholder; Beholder Personality Traits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-beholder-beholder-personality-traits-vgm.md)
+![Roleplaying a Beholder; Beholder Personality Traits](Compendium/tables/roleplaying-a-beholder-beholder-personality-traits-vgm.md)
 
-![Roleplaying a Beholder; Beholder Ideals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-beholder-beholder-ideals-vgm.md)
+![Roleplaying a Beholder; Beholder Ideals](Compendium/tables/roleplaying-a-beholder-beholder-ideals-vgm.md)
 
-![Roleplaying a Beholder; Beholder Bonds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-beholder-beholder-bonds-vgm.md)
+![Roleplaying a Beholder; Beholder Bonds](Compendium/tables/roleplaying-a-beholder-beholder-bonds-vgm.md)
 
-![Roleplaying a Beholder; Beholder Flaws](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-beholder-beholder-flaws-vgm.md)
+![Roleplaying a Beholder; Beholder Flaws](Compendium/tables/roleplaying-a-beholder-beholder-flaws-vgm.md)
 
 ### Beholder Names
 
 A beholder picks its own name, piecing together sounds and syllables that have significance and meaning to it.
 
-![Beholder Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/beholder-names-vgm.md)
+![Beholder Names](Compendium/tables/beholder-names-vgm.md)
 
 ### Battle Tactics
 
 A beholder analyzes its opponents, makes note of armor, weapons, and tactics, and adjusts its strategy to eliminate the most dangerous threats as quickly as possible. Although a beholder's specific actions will vary with each encounter, the creature's behavior is largely governed by the tactics discussed below.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-02.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-02.webp#center)
 
 #### Stay out of Range and Sight
 
@@ -220,7 +220,7 @@ The most mundane function of the petrification ray is as a means of decorating a
 
 A beholder's disintegration ray is a useful tool for excavation. The beholder can also manipulate the ray with pinpoint control, enabling it to cut and shape objects as though it were wielding a fine chisel, drill holes too small for an arrow to pass through, carve masonry blocks out of raw stone, amputate limbs, or brand creatures with burn-like scars. This ray and the telekinetic ray are the basis for a beholder's ability to shape its lair to its very specific and exacting needs, whether sculpting rooms or fabricating traps.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-2.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-2.webp#center)
 
 ### Variant Abilities
 
@@ -230,17 +230,17 @@ This section provides several alternative spell effects for a beholder's eye. Ea
 
 Unless otherwise indicated, an alternative ability has the same range as the eye ray it is replacing, and it affects only one creature per use (even if the ability is based on a spell that normally affects an area or multiple targets). The saving throw for an alternative ability uses the same DC and the same ability score as the spell the eye ray is based on.
 
-- **Antimagic Cone.** [mirage arcane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mirage-arcane.md), [power word stun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/power-word-stun.md) (affecting the weakest non-stunned target in the cone each round)  
-- **Charm Ray.** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md) (1 minute), [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md) (1 minute)  
-- **Death Ray.** [circle of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-death.md) (10-foot-radius sphere; `4d6` necrotic damage to all creatures in the area), [feeblemind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feeblemind.md)  
-- **Disintegration Ray.** [chain lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chain-lightning.md) (primary target takes `6d8` lightning damage; two secondary targets within 30 feet of the primary target take `3d8` lightning damage each), [eyebite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/eyebite.md) (sickened effect; 1 minute)  
-- **Enervation Ray.** [create undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-undead.md) (usable regardless of the time of day), [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md) (1 minute)  
-- **Fear Ray.** [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md) (self or willing creature only), [moonbeam](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/moonbeam.md)  
-- **Paralyzing Ray.** [modify memory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/modify-memory.md), [silence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silence.md) (1 minute)  
-- **Petrification Ray.** [Otto's irresistible dance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ottos-irresistible-dance.md) (1 minute), [wall of ice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-ice.md) (1 minute; one 10-foot-square panel)  
-- **Sleep Ray.** [blindness/deafness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blindness-deafness.md), [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md) (self or willing creature only)   
-- **Slowing Ray.** [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md) (1 minute), [sleet storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleet-storm.md) (one 10-foot-cube)  
-- **Telekinesis Ray.** [geas](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/geas.md) (1 hour), [wall of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md) (1 minute; one 10-foot-square panel)  
+- **Antimagic Cone.** [mirage arcane](Compendium/spells/mirage-arcane.md), [power word stun](Compendium/spells/power-word-stun.md) (affecting the weakest non-stunned target in the cone each round)  
+- **Charm Ray.** [banishment](Compendium/spells/banishment.md) (1 minute), [confusion](Compendium/spells/confusion.md) (1 minute)  
+- **Death Ray.** [circle of death](Compendium/spells/circle-of-death.md) (10-foot-radius sphere; `4d6` necrotic damage to all creatures in the area), [feeblemind](Compendium/spells/feeblemind.md)  
+- **Disintegration Ray.** [chain lightning](Compendium/spells/chain-lightning.md) (primary target takes `6d8` lightning damage; two secondary targets within 30 feet of the primary target take `3d8` lightning damage each), [eyebite](Compendium/spells/eyebite.md) (sickened effect; 1 minute)  
+- **Enervation Ray.** [create undead](Compendium/spells/create-undead.md) (usable regardless of the time of day), [polymorph](Compendium/spells/polymorph.md) (1 minute)  
+- **Fear Ray.** [gaseous form](Compendium/spells/gaseous-form.md) (self or willing creature only), [moonbeam](Compendium/spells/moonbeam.md)  
+- **Paralyzing Ray.** [modify memory](Compendium/spells/modify-memory.md), [silence](Compendium/spells/silence.md) (1 minute)  
+- **Petrification Ray.** [Otto's irresistible dance](Compendium/spells/ottos-irresistible-dance.md) (1 minute), [wall of ice](Compendium/spells/wall-of-ice.md) (1 minute; one 10-foot-square panel)  
+- **Sleep Ray.** [blindness/deafness](Compendium/spells/blindness-deafness.md), [misty step](Compendium/spells/misty-step.md) (self or willing creature only)   
+- **Slowing Ray.** [bestow curse](Compendium/spells/bestow-curse.md) (1 minute), [sleet storm](Compendium/spells/sleet-storm.md) (one 10-foot-cube)  
+- **Telekinesis Ray.** [geas](Compendium/spells/geas.md) (1 hour), [wall of force](Compendium/spells/wall-of-force.md) (1 minute; one 10-foot-square panel)  
 
 ### Beholder Lairs
 
@@ -252,9 +252,9 @@ Regardless of its overall configuration, every beholder's lair is oriented to ta
 
 Minions and other creatures under a beholder's control generally have their own living spaces in the lair. Because a beholder's minions are typically not able to fly, many of these chambers are connected to others by staircases or gently sloping ramps in addition to the tunnels, so the beholder can easily move its minions around as the need arises.
 
-![Beholder Lair (DM)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/beholder-lair-dm.webp#center)
+![Beholder Lair (DM)](Compendium/books/volos-guide-to-monsters/img/beholder-lair-dm.webp#center)
 
-![Beholder Lair (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/beholder-lair-players.webp#center)
+![Beholder Lair (Players)](Compendium/books/volos-guide-to-monsters/img/beholder-lair-players.webp#center)
 
 Common rooms found in a beholder's lair are described in the sections that follow.
 
@@ -364,11 +364,11 @@ A beholder's greater minions are formidable opponents. In the lair, they might b
 
 A beholder often has one or more pets in its lair, mainly because (for whatever reason) it enjoys the company of such creatures. Pets are usually of low intelligence and are kept around because of their combat abilities, entertainment value, or trophy status.
 
-![Pets; Beholder Lesser Minions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/pets-beholder-lesser-minions-vgm.md)
+![Pets; Beholder Lesser Minions](Compendium/tables/pets-beholder-lesser-minions-vgm.md)
 
-![Pets; Beholder Greater Minions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/pets-beholder-greater-minions-vgm.md)
+![Pets; Beholder Greater Minions](Compendium/tables/pets-beholder-greater-minions-vgm.md)
 
-![Beholder Pets](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/beholder-pets-vgm.md)
+![Beholder Pets](Compendium/tables/beholder-pets-vgm.md)
 
 ### The Xanathar Guild
 
@@ -606,7 +606,7 @@ Crafting this form of magic is painstakingly slow. Imagine a wizard who crafts a
 
 Carving a magical rune into an item imbues it with power. Like any other magic item, it can be used to activate one or more magical effects. A magical rune can also be inscribed upon a surface to create effects similar to those of a glyph of warding or symbol spell. The rune itself determines what sort of magic the item or surface holds. For example, a storm rune carved into a stone might allow the stone's possessor to control the weather. The same rune carved into door or chest might deal thunder damage to anyone who opens it.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-04.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-04.webp#center)
 
 ### A Giant's Bag
 
@@ -633,7 +633,7 @@ Giants have a well-deserved reputation as living siege engines-all of them can h
 
 Most of the games that giants play involve throwing rocks in ways that hone their skills for hunting and war. One of the most popular contests, especially among fire giants, involves nothing more than taking turns trying to knock each other down with boulders. Frost giants build targets out of snow and ice and compete to see who can knock down the most with a single toss. A popular one-on-one game begins with the challenger throwing a stone as far as it can. The giant who was challenged then goes to where the stone landed and hurls it back at the challenger. A challenger who is stronger wins, because the return throw will fall short, but a giant who took on a better thrower will stumble away, nursing its injuries, as a lesson that arrogance has a price.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-05.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-05.webp#center)
 
 In battle against puny creatures, giants use boulders that fit in one hand. When giants fight enormous foes (such as dragons) or enormous targets (such as castles), they prefer to hurl stones so large that even a giant must use both arms to lift and throw one. Giants throw just as accurately with both arms as with one, a feat most humans would find impossible. These attacks are effective only at shorter ranges, however, for obvious reasons.
 
@@ -657,19 +657,19 @@ Giants live at a slower pace than humans do. In the space of four heartbeats for
 
 The life spans of the various types of giants are generally in keeping with their place in the ordning; the lowliest giants have the shortest life spans, and the noblest giants are the longest-lived. Stone giants are the exception. Because of their long life spans, despite their low position in the ordning, other giants consider stone giants to be the wisest of all giant types, just as Skoraeus Stonebones is often seen as the wisest of all the giant gods.
 
-![Living the Giant Life; Giant Life Spans](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/living-the-giant-life-giant-life-spans-vgm.md)
+![Living the Giant Life; Giant Life Spans](Compendium/tables/living-the-giant-life-giant-life-spans-vgm.md)
 
 ### Roleplaying a Giant
 
 Giving a giant a personality trait, an ideal, a bond, and a flaw helps to create a more vibrant NPC. You can also give a character background to a giant. The noble background, for example, could apply to a cloud giant.
 
-![Roleplaying a Giant; Giant Personality Traits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-giant-giant-personality-traits-vgm.md)
+![Roleplaying a Giant; Giant Personality Traits](Compendium/tables/roleplaying-a-giant-giant-personality-traits-vgm.md)
 
-![Roleplaying a Giant; Giant Ideals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-giant-giant-ideals-vgm.md)
+![Roleplaying a Giant; Giant Ideals](Compendium/tables/roleplaying-a-giant-giant-ideals-vgm.md)
 
-![Roleplaying a Giant; Giant Bonds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-giant-giant-bonds-vgm.md)
+![Roleplaying a Giant; Giant Bonds](Compendium/tables/roleplaying-a-giant-giant-bonds-vgm.md)
 
-![Roleplaying a Giant; Giant Flaws](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-giant-giant-flaws-vgm.md)
+![Roleplaying a Giant; Giant Flaws](Compendium/tables/roleplaying-a-giant-giant-flaws-vgm.md)
 
 ### Cloud Giants
 
@@ -677,7 +677,7 @@ Cloud giants are aptly named, or at least were at one time. Few of them live lit
 
 No one can build those majestic structures any longer. The methods of their construction were lost (along with much other knowledge) when Ostoria fell. Some cloud giants believe the information might yet be buried in some long-forgotten, ruined library. Rumors of its existence crop up from time to time, stirring debate and dreams of resurgent glory among the cloud giants, but definite information has proven impossible to obtain. Many cloud giants think that someday, a hero will unearth this ancient secret. Until then, they must be satisfied with watching clouds drift past their mountaintop  homes instead of living atop those clouds as in days of yore.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-06.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-06.webp#center)
 
 #### Family First
 
@@ -722,7 +722,7 @@ A mask is prized both for its material value and for its accuracy in expressing 
 
 ### Fire Giants
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-07.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-07.webp#center)
 
 The fire giants were the officers, engineers, and crafters of ancient Ostoria. Their position and unparalleled skill, along with their domineering outlook, make them haughty and arrogant.
 
@@ -765,7 +765,7 @@ Giants that stand low in the ordning are assigned to manage slaves and mining op
 
 ### Frost Giants
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-08.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-08.webp#center)
 
 Frost giants dwell in the remote, frozen places of the world. Anything warmer than the flesh of a recently killed elk is as flame to them. As a sailor fears the howl of the wind heralding a storm, the denizens of ice-capped mountains and northern steppes shudder at the war horns that presage the arrival of Thrym's blue-skinned, icy children.
 
@@ -818,7 +818,7 @@ Hill giants are the weakest of the true giants. They have the shortest stature, 
 
 Since eating is the only thing hill giants care about, a tribe is always led by its fattest, heaviest member-the most successful and thus the most admired one in the group. The qualities that other creatures expect or demand of their leaders-such as intellect, decision-making ability, and personal magnetism-have no importance to hill giants. They are neither recognized nor rewarded, except to the extent that a hill giant with slightly above average smarts might use trickery or intimidation to grab more food than its neighbors.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-3.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-3.webp#center)
 
 #### Dens of Squalor and Stench
 
@@ -912,7 +912,7 @@ Family members visit this tomb-chamber often to pay respects to their ancestors.
 
 ### Storm Giants
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-09.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-09.webp#center)
 
 Storm giants, the most powerful and majestic of giant-kind, are also the most aloof and the least understood. Uvarjotens aren't just forces of nature; they are bound to nature, and are extensions of it, in mystical ways that humans find hard to comprehend.
 
@@ -961,7 +961,7 @@ Gnolls remind the world of the horrors posed by the hordes of the Abyss, and the
 
 Whenever the demon lord Yeenoghu enters the Material Plane and goes on a rampage, he leaves a great trail of corpses in his wake. As the Lord of Savagery despoils the land, packs of hyenas trail him and feast on the victims until the dead flesh of Yeenoghu's prey leave them bloated and unable to move. Then, in a shower of blood and gristle, the hyenas transform into gnolls, which take up Yeenoghu's awful mission to kill and destroy anything in their path.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-10.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-10.webp#center)
 
 ### Yeenoghu
 
@@ -1071,7 +1071,7 @@ When gnoll leaders must share complex concepts with each other, they use a broke
 
 When you're roleplaying a cultist or gnoll of Yeenoghu, the following tables contain possible inspiration. They suggest characteristics that the NPC might possess.
 
-![Roleplaying Gnolls and Cultists of Yeenoghu](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-gnolls-and-cultists-of-yeenoghu.md)
+![Roleplaying Gnolls and Cultists of Yeenoghu](Compendium/tables/roleplaying-gnolls-and-cultists-of-yeenoghu.md)
 
 ### Gnoll Names
 
@@ -1079,7 +1079,7 @@ As befits creatures with a language that is little more than whines, growls, and
 
 Use the following tables to create a Gnoll along with Personality traits and physical characteristics or choose each characteristic individually.
 
-![Gnoll Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/gnoll-names-vgm.md)
+![Gnoll Names](Compendium/tables/gnoll-names-vgm.md)
 
 ### Anatomy of a War Band
 
@@ -1131,7 +1131,7 @@ Rarely, a war band includes orcs, humans, or other humanoids that have sworn loy
 
 Almost all cultists are brutish individuals touched by insanity, one step above the hyenas that trail behind the war band's path. They aren't gnolls, and thus don't receive their inspiration directly from Yeenoghu. Yet exceptions do occur. If an individual of great intelligence and great ability heeds Yeenoghu's call, the Lord of Savagery might elevate it to the leadership of its band. Such champions are rare, and a band led by a cultist is capable of feats that are beyond a group of gnolls-accomplishments that combine the gnolls' savagery with a humanlike level of intelligence and planning.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-11.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-11.webp#center)
 
 ### Gnoll Allies
 
@@ -1179,7 +1179,7 @@ Ghoul packs emerge from graveyards and dungeons to trail in the wake of a war ba
 
 Large packs of hyenas follow gnoll war bands. For their part, the gnolls largely ignore these animals. They tend to gather around fangs in battle, eager to partake of Yeenoghu's blessing and its horrid transformation.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-4.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-4.webp#center)
 
 #### Leucrottas
 
@@ -1201,19 +1201,19 @@ The War Band Composition table determines how many gnolls and hyenas the band co
 
 Roll once on the Special Creatures table to see which special creature is part of the war band and in what numbers. The Shared Physical Trait and Notable Behavior or Tactics tables add some distinctive flavor to the war band. Finally, the Demonic Influence table adds an abyssal tinge to the group: owing to the gnolls' supernatural link with the Abyss, their advance toward a community might be heralded by strange effects that afflict the area or the people in it a day or so before they strike the settlement.
 
-![Creating a Gnoll War Band; Gnoll War Band Name](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-a-gnoll-war-band-gnoll-war-band-name-vgm.md)
+![Creating a Gnoll War Band; Gnoll War Band Name](Compendium/tables/creating-a-gnoll-war-band-gnoll-war-band-name-vgm.md)
 
-![Creating a Gnoll War Band; Gnoll War Band Composition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-a-gnoll-war-band-gnoll-war-band-composition-vgm.md)
+![Creating a Gnoll War Band; Gnoll War Band Composition](Compendium/tables/creating-a-gnoll-war-band-gnoll-war-band-composition-vgm.md)
 
-![Creating a Gnoll War Band; War Band Leadership](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-a-gnoll-war-band-war-band-leadership-vgm.md)
+![Creating a Gnoll War Band; War Band Leadership](Compendium/tables/creating-a-gnoll-war-band-war-band-leadership-vgm.md)
 
-![Creating a Gnoll War Band; Gnoll War Band Special Creatures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-a-gnoll-war-band-gnoll-war-band-special-creatures-vgm.md)
+![Creating a Gnoll War Band; Gnoll War Band Special Creatures](Compendium/tables/creating-a-gnoll-war-band-gnoll-war-band-special-creatures-vgm.md)
 
-![Creating a Gnoll War Band; Shared Physical Trait](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-a-gnoll-war-band-shared-physical-trait-vgm.md)
+![Creating a Gnoll War Band; Shared Physical Trait](Compendium/tables/creating-a-gnoll-war-band-shared-physical-trait-vgm.md)
 
-![Creating a Gnoll War Band; Notable Behavior or Tactics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-a-gnoll-war-band-notable-behavior-or-tactics-vgm.md)
+![Creating a Gnoll War Band; Notable Behavior or Tactics](Compendium/tables/creating-a-gnoll-war-band-notable-behavior-or-tactics-vgm.md)
 
-![Creating a Gnoll War Band; Demonic Influence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/creating-a-gnoll-war-band-demonic-influence-vgm.md)
+![Creating a Gnoll War Band; Demonic Influence](Compendium/tables/creating-a-gnoll-war-band-demonic-influence-vgm.md)
 
 ## Goblinoids: The Conquering Host
 
@@ -1227,7 +1227,7 @@ On the surface, goblins, bugbears, and hobgoblins are as different as halflings,
 
 Goblins occupy an uneasy place in a dangerous world, and they react by lashing out at any creatures they believe they can bully. Cunning in battle and cruel in victory, goblins are fawning and servile in defeat, just as in their own society lower castes must scrape before those of greater status and as goblin tribes bow before other goblinoids.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-12.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-12.webp#center)
 
 #### Beast Masters and Slave Drivers
 
@@ -1276,7 +1276,7 @@ Some goblin families are the lowest of the low, composed of the most dimwitted, 
 
 Goblins love symbols of authority, and thus the tribe's boss often has such trappings wherever he or she goes. Such a symbol can take a typical form, perhaps a crown or a throne, but also can be a more distinctive objects like a high-backed wolf saddle or colorful boots. The castes in a tribe also adopt symbols to indicate membership or kinship, but the symbols used are rarely the same between different tribes and often make little sense to other creatures. Some possible status symbols are given in the Status Symbols table. A caste or a boss might display more than one of these items.
 
-![Status Symbols](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/status-symbols-vgm.md)
+![Status Symbols](Compendium/tables/status-symbols-vgm.md)
 
 #### Booyahgs
 
@@ -1292,7 +1292,7 @@ This goblin served under a hobgoblin wizard, stole a look at its master's spellb
 
 ##### Booyahg Wielder
 
-This goblin found a magic item (a [necklace of fireballs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/necklace-of-fireballs.md), a [circlet of blasting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/circlet-of-blasting.md), or the like) and learned how to use it.
+This goblin found a magic item (a [necklace of fireballs](Compendium/items/necklace-of-fireballs.md), a [circlet of blasting](Compendium/items/circlet-of-blasting.md), or the like) and learned how to use it.
 
 ##### Booyahg Whip
 
@@ -1304,7 +1304,7 @@ This goblin warlock serves a patron who can extract payment in flesh if the gobl
 
 ##### Booyahg Booyahg Booyahg
 
-This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Use the [mage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/mage.md) stat block in the "Monster Manual" to represent this goblin, adding darkvision and the Nimble Escape traits common to all goblins. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/wild-magic-surge-phb.md) table in the "Player's Handbook" to determine the wild magic effect.
+This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Use the [mage](Compendium/bestiary/humanoid/mage.md) stat block in the "Monster Manual" to represent this goblin, adding darkvision and the Nimble Escape traits common to all goblins. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](Compendium/tables/wild-magic-surge-phb.md) table in the "Player's Handbook" to determine the wild magic effect.
 
 > [!note] Who's the Boss?
 > 
@@ -1330,7 +1330,7 @@ Tribes of goblins take up residence in shrouded valleys, shadowy forests, and ca
 
 When goblins expand a mine, the tunnels they dig are narrow and warren-like. Goblins live both within these tunnels and on the surface around the outside of the area. They guard the territory around the mine for miles, sending out patrols of hunters equipped with war horns and using wolves as watchdogs to alert them to intruders.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-5.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-5.webp#center)
 
 ##### Outskirts
 
@@ -1394,9 +1394,9 @@ Bugbears have no use for priests or shamans. No one needs to tell them what thei
 
 In an act of worship that also sometimes attracts favorable attention from their gods, bugbears sever the heads of defeated foes, cut away or stitch open the eyelids, and leave the mouths hanging open. The heads are then placed on spikes or hung from cords around a bugbear den. The heads themselves are trophies that honor Hruggek, and their ever-staring eyes are an homage to sleepless Grankhul.
 
-The heads of leaders and mighty opponents are particularly sacred, and offering up such a trophy can provide a bugbear gang with a special boon. A gang that gains the favor of Hruggek and Grankhul in this way might find that the head will emit a shout when an enemy gets too close (in the fashion of an alarm spell). Sometimes the heads of people who have information the bugbears need speak their secrets amid blubbered pleas for mercy (as with the [speak with dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md) spell).
+The heads of leaders and mighty opponents are particularly sacred, and offering up such a trophy can provide a bugbear gang with a special boon. A gang that gains the favor of Hruggek and Grankhul in this way might find that the head will emit a shout when an enemy gets too close (in the fashion of an alarm spell). Sometimes the heads of people who have information the bugbears need speak their secrets amid blubbered pleas for mercy (as with the [speak with dead](Compendium/spells/speak-with-dead.md) spell).
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-13.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-13.webp#center)
 
 ### Hobgoblins
 
@@ -1424,7 +1424,7 @@ Hobgoblins don't build temples to their gods, lest they displease Maglubiyet, bu
 
 As in any strict military hierarchy, every hobgoblin in a legion has a rank, from the warlord down through a cadre of officers to the soldiers that make up most of its number. These ranks, using the titles most often applied to them, are as follows:
 
-![Rank, Status, and Title](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/rank-status-and-title-vgm.md)
+![Rank, Status, and Title](Compendium/tables/rank-status-and-title-vgm.md)
 
 A legion is organized into units called banners, each one made up of a group of interrelated families.
 
@@ -1505,7 +1505,7 @@ Every legion's headquarters includes a command center where the warlord meets wi
 
 The quarters for troops are austere but sufficient, as are the necessary stables and dens to hold the legion's animals and beasts. Legions that have need of such amenities also set aside space for a library, which can double as a school and training facility for spellcasters. If a hobgoblin lair has a prison, it's usually a small one—miscreants are incarcerated for only a short time before facing the hobgoblins' harsh justice.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-14.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-14.webp#center)
 
 ### Maglubiyet's Will Be Done
 
@@ -1561,7 +1561,7 @@ A goblinoid host that is prepared for war doesn't wait for the enemy to approach
 
 A host usually marches at night, with outriders, who carry messenger ravens, traveling ahead, behind, and on both sides of the main group. The ravens can distinguish between individuals from a great height and navigate over long distances. Thus, a raven can fly back to the main body when it is released by someone remote from the group, and it can be sent out again to look for the individual that released it in order to deliver a response.
 
-Most of the army travels on foot, and wolf-riding goblins and worg-riding hobgoblins also make up a significant portion of the force. Hobgoblins might ride horses or other mounts they could obtain, such as hippogriffs, axe beaks, or giant vultures. Bugbears don 't ride mounts, but they aren't above hitching a ride in the howdah of an enormous battle beast such as an elephant or a hydra.
+Most of the army travels on foot, and wolf-riding goblins and worg-riding hobgoblins also make up a significant portion of the force. Hobgoblins might ride horses or other mounts they could obtain, such as hippogriffs, axe beaks, or giant vultures. Bugbears don't ride mounts, but they aren't above hitching a ride in the howdah of an enormous battle beast such as an elephant or a hydra.
 
 If the host has slaves, they pull wagons or sledges in the center of the army, dragging along the equipment of war while surrounded by its users. If slaves have yet to be acquired, goblins and beasts of burden perform this function.
 
@@ -1614,9 +1614,9 @@ A war camp might be a permanent settlement that a hobgoblin legion uses as a gar
 
 The basic layout of a war camp is circular. To prepare the site, slaves, goblins, and any beasts fit for the purpose dig a ditch around the desired location, interrupted in places where wide paths provide access to the center of the enclosed area. Inside this ring of excavation are sections of a wooden palisade, each part capped with a gate and a tower on either end. These outer walls and gates aren't regularly manned or patrolled, because the occupants aren't concerned about being taken by surprise. If an enemy force does approach, though, these barriers do a good job of delaying any incursion until the goblinoids can rally their defenses.
 
-![Goblin War Camp (DM)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/goblin-war-camp-dm.webp#center)
+![Goblin War Camp (DM)](Compendium/books/volos-guide-to-monsters/img/goblin-war-camp-dm.webp#center)
 
-![Goblin War Camp (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/goblin-war-camp-players.webp#center)
+![Goblin War Camp (Players)](Compendium/books/volos-guide-to-monsters/img/goblin-war-camp-players.webp#center)
 
 Inside the surrounding bulwark, the goblinoids all have their separate quarters, organized according to their wonts. Typical of any camp are the wide paths that crisscross it, running from each gate through the center of the camp and out the other side. This configuration enables all the goblinoids to swiftly rally and exit the camp en masse to meet an approaching threat.
 
@@ -1670,7 +1670,7 @@ Near the block stands a post or a rack with various weapons that represent the s
 
 Hags are crones who represent corruption of ideals and goals, and they delight in seeing the innocent and good brought low. They are inhuman monsters, their forms twisted by evil. Shapechangers and blasphemers, they ally with other hags to form magical covens with extra powers. They collect and remember secret knowledge that is better lost and forgotten. Desperate mortals come to them looking for advice, only to have their requests fulfilled in ways that bring great suffering to themselves and their loved ones.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-16.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-16.webp#center)
 
 ### Ugly, Unpredictable, and Old
 
@@ -1728,13 +1728,13 @@ If a hag's life is threatened, she will pretend to be weak and helpless if she t
 
 Hags prefer to cajole and bargain rather than confront someone with actual violence; they reserve their aggressive outbursts for situations where they are overwhelmingly more powerful than their opponents (such as when attacking children) or have an unfair advantage (such as when their enemy is asleep). Although a hag can always resort to attacking with her claws, if it comes to that then something has gone very wrong with her plans.
 
-![Roleplaying a Hag; Hag Personality Traits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-hag-hag-personality-traits-vgm.md)
+![Roleplaying a Hag; Hag Personality Traits](Compendium/tables/roleplaying-a-hag-hag-personality-traits-vgm.md)
 
-![Roleplaying a Hag; Hag Ideals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-hag-hag-ideals-vgm.md)
+![Roleplaying a Hag; Hag Ideals](Compendium/tables/roleplaying-a-hag-hag-ideals-vgm.md)
 
-![Roleplaying a Hag; Hag Bonds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-hag-hag-bonds-vgm.md)
+![Roleplaying a Hag; Hag Bonds](Compendium/tables/roleplaying-a-hag-hag-bonds-vgm.md)
 
-![Roleplaying a Hag; Hag Flaws](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-hag-hag-flaws-vgm.md)
+![Roleplaying a Hag; Hag Flaws](Compendium/tables/roleplaying-a-hag-hag-flaws-vgm.md)
 
 ### Hag Names
 
@@ -1744,7 +1744,7 @@ The Hag Names table allows you to generate a hag's name. You can also select fro
 
 Hags always have a title followed by a first name, or a first name followed by a last name. You can randomly determine (equal chance of either) whether a hag has a title or a last name.
 
-![Hag Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/hag-names-vgm.md)
+![Hag Names](Compendium/tables/hag-names-vgm.md)
 
 ### Weird Magic
 
@@ -1752,7 +1752,7 @@ Over the course of a seemingly endless lifetime, a hag typically discovers or cr
 
 A grandmother or some other hag of great age and renown might know unique rituals that can temporarily or permanently alter or transform a creature, bring back the dead for a limited time, rewrite memories, or siphon emotions. At the other end of the spectrum, even a hag without lofty status is likely to have strange, single-use items that don't emulate common spells or even follow the normal rules of magic. For inspiration in devising the effects of such weird items, see "Charms" in chapter 7 of the *Dungeon Master's Guide.*
 
-If you want a hag to use a weird object of this sort in a combat situation, provide her with an item that produces a CR-appropriate spell effect when the hag manipulates or activates it. The effect might be a benefit to herself or an attack against her enemies. For example, a green hag (CR 3) might smash an ornate hand mirror, producing a cloud of glass shards that damages creatures like [cloud of daggers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloud-of-daggers.md) (a 2nd-level spell). She might instead uncork a bottle of wasps that surround her and stitch up her wounds with their stingers, healing her as [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md) (cast as a 2nd-level spell). Or she could take a mummified toad from her pocket and throw it into her cauldron, which immediately spews out inky blackness equivalent to [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md) (a 2nd-level spell).
+If you want a hag to use a weird object of this sort in a combat situation, provide her with an item that produces a CR-appropriate spell effect when the hag manipulates or activates it. The effect might be a benefit to herself or an attack against her enemies. For example, a green hag (CR 3) might smash an ornate hand mirror, producing a cloud of glass shards that damages creatures like [cloud of daggers](Compendium/spells/cloud-of-daggers.md) (a 2nd-level spell). She might instead uncork a bottle of wasps that surround her and stitch up her wounds with their stingers, healing her as [cure wounds](Compendium/spells/cure-wounds.md) (cast as a 2nd-level spell). Or she could take a mummified toad from her pocket and throw it into her cauldron, which immediately spews out inky blackness equivalent to [darkness](Compendium/spells/darkness.md) (a 2nd-level spell).
 
 A hag carefully shepherds her use of weird magic because the items in her repertoire are often impossible to duplicate or replace. To reflect this fact, a hag should be able to use weird magic only once or twice per encounter in her lair, or only once per encounter if she is elsewhere. A hag who is expecting a fight might be better prepared and able (or willing) to use weird magic one additional time per encounter.
 
@@ -1770,7 +1770,7 @@ Usually only the hag that obtained or created them can use her mounts and vehicl
 
 If a hag allows any other creature to use one of them as part of a bargain, she must be expecting an immense return on her investment.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-6.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-6.webp#center)
 
 ### Types of Hags
 
@@ -1827,34 +1827,34 @@ Some covens gather for a specific purpose, such as to defeat a champion of good,
 
 For a coven whose members are obsessed with death and the ability to manipulate it, an appropriate spell list would be:
 
-1st level (4 slots): [false life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/false-life.md), [inflict wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/inflict-wounds.md)  
-2nd level (3 slots): [gentle repose](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gentle-repose.md), [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md)  
-3rd level (3 slots): [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md) [revivify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/revivify.md), [speak with dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md)  
-4th level (3 slots): [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md), [death ward](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/death-ward.md)  
-5th level (2 slots): [contagion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contagion.md), [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md)  
-6th level (1 slot): [circle of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-death.md)  
+1st level (4 slots): [false life](Compendium/spells/false-life.md), [inflict wounds](Compendium/spells/inflict-wounds.md)  
+2nd level (3 slots): [gentle repose](Compendium/spells/gentle-repose.md), [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement.md)  
+3rd level (3 slots): [animate dead](Compendium/spells/animate-dead.md) [revivify](Compendium/spells/revivify.md), [speak with dead](Compendium/spells/speak-with-dead.md)  
+4th level (3 slots): [blight](Compendium/spells/blight.md), [death ward](Compendium/spells/death-ward.md)  
+5th level (2 slots): [contagion](Compendium/spells/contagion.md), [raise dead](Compendium/spells/raise-dead.md)  
+6th level (1 slot): [circle of death](Compendium/spells/circle-of-death.md)  
 
 ##### Nature
 
 Hags might seek to exert control over their environment and the creatures in it by mastering the following group of spells:
 
-1st level (4 slots): [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md), [speak with animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-animals.md)  
-2nd level (3 slots): [flaming sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flaming-sphere.md), [moonbeam](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/moonbeam.md), [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md)  
-3rd level (3 slots): [call lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/call-lightning.md), [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md)  
-4th level (3 slots): [dominate beast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-beast.md), [grasping vine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/grasping-vine.md)  
-5th level (2 slots): [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md), [tree stride](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tree-stride.md)  
-6th level (1 slot): [wall of thorns](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-thorns.md)  
+1st level (4 slots): [entangle](Compendium/spells/entangle.md), [speak with animals](Compendium/spells/speak-with-animals.md)  
+2nd level (3 slots): [flaming sphere](Compendium/spells/flaming-sphere.md), [moonbeam](Compendium/spells/moonbeam.md), [spike growth](Compendium/spells/spike-growth.md)  
+3rd level (3 slots): [call lightning](Compendium/spells/call-lightning.md), [plant growth](Compendium/spells/plant-growth.md)  
+4th level (3 slots): [dominate beast](Compendium/spells/dominate-beast.md), [grasping vine](Compendium/spells/grasping-vine.md)  
+5th level (2 slots): [insect plague](Compendium/spells/insect-plague.md), [tree stride](Compendium/spells/tree-stride.md)  
+6th level (1 slot): [wall of thorns](Compendium/spells/wall-of-thorns.md)  
 
 ##### Prophecy
 
 The power to affect the future or perceive things out of the norm could make these spells attractive to a coven:
 
-1st level (4 slots): [bane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bane.md), [bless](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bless.md)  
-2nd level (3 slots): [augury](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/augury.md), [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md)  
-3rd level (3 slots): [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md), [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md), [nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md)  
-4th level (3 slots): [arcane eye](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-eye.md), [locate creature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-creature.md)  
-5th level (2 slots): [geas](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/geas.md), [legend lore](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/legend-lore.md)  
-6th level (1 slot): [true seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-seeing.md)  
+1st level (4 slots): [bane](Compendium/spells/bane.md), [bless](Compendium/spells/bless.md)  
+2nd level (3 slots): [augury](Compendium/spells/augury.md), [detect thoughts](Compendium/spells/detect-thoughts.md)  
+3rd level (3 slots): [clairvoyance](Compendium/spells/clairvoyance.md), [dispel magic](Compendium/spells/dispel-magic.md), [nondetection](Compendium/spells/nondetection.md)  
+4th level (3 slots): [arcane eye](Compendium/spells/arcane-eye.md), [locate creature](Compendium/spells/locate-creature.md)  
+5th level (2 slots): [geas](Compendium/spells/geas.md), [legend lore](Compendium/spells/legend-lore.md)  
+6th level (1 slot): [true seeing](Compendium/spells/true-seeing.md)  
 
 > [!note] The Rule of Three
 > 
@@ -1867,9 +1867,9 @@ The power to affect the future or perceive things out of the norm could make the
 
 No matter what form it takes, a hag's home is a manifestation of her basic nature. It is ugly, eerie, or unnerving in some way, often incorporating some aspect of decay, such as a dead tree, a ruined tower, or a menacing cave entrance that resembles a skull.
 
-![Hag Lairs (DM)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/hag-lair-dm.webp#center)
+![Hag Lairs (DM)](Compendium/books/volos-guide-to-monsters/img/hag-lair-dm.webp#center)
 
-![Hag Lairs (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/hag-lair-players.webp#center)
+![Hag Lairs (Players)](Compendium/books/volos-guide-to-monsters/img/hag-lair-players.webp#center)
 
 Whether naturally or by manufactured means, the lair is well defended from intrusion. It might be reachable only by a steep mountain path, or it might be surrounded by a fence the hag builds out of posts capped with magically warded skulls. Often, a lair reflects the outlook of its primary inhabitant-a murderous hag's home might be crafted to look like a coffin or a mausoleum, and that of a gluttonous one might look like a tavern or a gingerbread house. Because such places are convenient for them, sea hags often establish their lairs inside the hulls of wrecked or abandoned ships.
 
@@ -1986,9 +1986,9 @@ The Servants table includes faithful, trusted helpers that a hag uses to protect
 
 The Brutes table gives examples of the muscle a hag might employ, mercenaries that serve the hag only so long as it benefits them. These creatures run errands and take care of roughing up enemies or patrolling areas that the hag considers beneath her personal attention. Hags prefer to employ clever, cruel creatures rather than dumb oafs.
 
-![Random Hag Minions; Servants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-hag-minions-servants-vgm.md)
+![Random Hag Minions; Servants](Compendium/tables/random-hag-minions-servants-vgm.md)
 
-![Random Hag Minions; Brutes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-hag-minions-brutes-vgm.md)
+![Random Hag Minions; Brutes](Compendium/tables/random-hag-minions-brutes-vgm.md)
 
 ### Treasure
 
@@ -2004,7 +2004,7 @@ Treasure-seekers are likely to fare better if they consider a hag's booty to be 
 
 Above and beyond the items of obvious value a hag has accumulated, she also has a few bizarre and unique items in her collection. The Hag Objects table provides a way to quickly add such weird items to a hag's home.
 
-![One-of-a-Kind Objects; Hag Objects](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/one-of-a-kind-objects-hag-objects-vgm.md)
+![One-of-a-Kind Objects; Hag Objects](Compendium/tables/one-of-a-kind-objects-hag-objects-vgm.md)
 
 ## Kobolds: Little Dragons
 
@@ -2022,7 +2022,7 @@ Some human communities hire kobolds to dig their sewer tunnels, paying them with
 
 Because the kobolds make sure they stay out of the way of anyone more dangerous than themselves, grow their own subterranean food, and prefer to sneak about at night, the people of a town might go for weeks or months without noticing evidence that kobolds are in the area, and years between actual sightings.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-7.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-7.webp#center)
 
 ### Able Scavengers
 
@@ -2110,7 +2110,7 @@ Kobolds reside most commonly in hilly or mountainous terrain. Such locations usu
 
 Kobold names are derived from the Draconic tongue and usually relate to a characteristic of the owner, such as scale color, distinctive body parts, or typical behavior. For example, "Red Foot," "White Claw," and "Scurry" are Common translations of often-used names. A kobold might change its name when it becomes an adult, or add additional word-syllables after important events such as completing its first hunt, laying its first egg, or surviving its first battle. The Kobold Names table presents kobold names suitable for any campaign.
 
-![Kobold Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/kobold-names-vgm.md)
+![Kobold Names](Compendium/tables/kobold-names-vgm.md)
 
 ### Physical Variations
 
@@ -2122,13 +2122,13 @@ Use the Scale Color table to randomly determine the  predominant appearance of k
 
 Us the tables below to generate a Kobold Name and scale color.
 
-![Physical Variations; Scale Color](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-scale-color-vgm.md)
+![Physical Variations; Scale Color](Compendium/tables/physical-variations-scale-color-vgm.md)
 
-![Physical Variations; Scale Pattern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-scale-pattern-vgm.md)
+![Physical Variations; Scale Pattern](Compendium/tables/physical-variations-scale-pattern-vgm.md)
 
 ### Tactics
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-18.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-18.webp#center)
 
 Because they are physically weak individually, kobolds know they have to use superior numbers and cunning to take down powerful foes. In addition to their Pack Tactics trait described in the Monster Manual, they use traps, ambushes, terrain, allied monsters, and any other advantage they can squeeze out of their environment. Essentially, the only way kobolds can win is not to play fair.
 
@@ -2167,9 +2167,9 @@ Kobolds are cautious and fearful of bears, since bears often seek to live in cav
 
 The lair of a kobold tribe is usually a maze of twisty little passages, sometimes stretching for hundreds of yards, and frequently guarded by traps. The area has a host of intersections, abrupt dead-ends, tunnels that cross over or under one another, concealed passages, and other features that make the lair difficult for outsiders  to navigate.
 
-![Kobold Lair (DM)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/kobold-lair-dm.webp#center)
+![Kobold Lair (DM)](Compendium/books/volos-guide-to-monsters/img/kobold-lair-dm.webp#center)
 
-![Kobold Lair (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/kobold-lair-players.webp#center)
+![Kobold Lair (Players)](Compendium/books/volos-guide-to-monsters/img/kobold-lair-players.webp#center)
 
 Creatures larger than a kobold have to squat or crawl in order to fit through the tunnels of a kobold warren, which by itself is enough to deter most hostile humanoids (such as orcs or hobgoblins) from trying to invade the kobolds' territory. Adventurers trying to eradicate a kobold infestation often find themselves stuck in low passages too narrow to turn around in, forcing them to move in single file and putting the burden of combat on the first and last people in line.
 
@@ -2278,7 +2278,7 @@ Through some quirk of the illithids' parasitic nature, the cultural sophisticati
 
 This phenomenon extends to all displays of culture, from modes of architecture to the decorations that adorn illithid funerary brain jars.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-8.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-8.webp#center)
 
 #### Ceremorphosis
 
@@ -2306,7 +2306,7 @@ An elder brain also sees itself as a savior of the mind flayer race and a living
 
 See chapter 3 for more information on elder brains.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-19.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-19.webp#center)
 
 #### Renegade Illithids
 
@@ -2374,13 +2374,13 @@ Many of the esoteric research topics pursued by a colony reflect the ambitions a
 
 When you're roleplaying a mind flayer, the following tables contain possible inspiration. They suggest characteristics that a mind flayer might possess.
 
-![Roleplaying a Mind Flayer; Mind Flayer Personality Traits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-mind-flayer-mind-flayer-personality-traits-vgm.md)
+![Roleplaying a Mind Flayer; Mind Flayer Personality Traits](Compendium/tables/roleplaying-a-mind-flayer-mind-flayer-personality-traits-vgm.md)
 
-![Roleplaying a Mind Flayer; Mind Flayer Ideals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-mind-flayer-mind-flayer-ideals-vgm.md)
+![Roleplaying a Mind Flayer; Mind Flayer Ideals](Compendium/tables/roleplaying-a-mind-flayer-mind-flayer-ideals-vgm.md)
 
-![Roleplaying a Mind Flayer; Mind Flayer Bonds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-mind-flayer-mind-flayer-bonds-vgm.md)
+![Roleplaying a Mind Flayer; Mind Flayer Bonds](Compendium/tables/roleplaying-a-mind-flayer-mind-flayer-bonds-vgm.md)
 
-![Roleplaying a Mind Flayer; Mind Flayer Flaws](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-mind-flayer-mind-flayer-flaws-vgm.md)
+![Roleplaying a Mind Flayer; Mind Flayer Flaws](Compendium/tables/roleplaying-a-mind-flayer-mind-flayer-flaws-vgm.md)
 
 ### Mind Flayer Names
 
@@ -2390,7 +2390,7 @@ Telepathic communication with a mind flayer is frequently  accompanied by a ment
 
 An illithid might adopt a name that is easier for minions and allies to speak or that makes it seem more fearsome to enemies, but each begins its life with a thought-name such as the examples in the Mind Flayer Names table, which are suitable for any campaign.
 
-![Mind Flayer Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/mind-flayer-names-vgm.md)
+![Mind Flayer Names](Compendium/tables/mind-flayer-names-vgm.md)
 
 ### Speech
 
@@ -2400,7 +2400,7 @@ The physiology of mind flayers doesn't leave them well equipped for typical huma
 
 The "writing" of mind flayers, known as Qualith, isn't as simple as a set of symbols representing sounds or ideas. An inscription in Qualith captures the thoughts of its creator and psionically transmits the thoughts to a mind flayer who later reads the inscription by touching it with its tentacles. Mind flayers write in Qualith by psionically imprinting their messages on nonmagical, nonliving material they grasp or caress with their tentacles. The imprinting causes imperceptible surface changes to the object, and abrasion or degradation of the material can cause the inscription to fade and fail.
 
-An expression in Qualith is made up of four-line stanzas packed into interlocking blocks, creating complex patterns that are indecipherable by other creatures. Someone that touches a Qualith inscription, however, can receive fragmentary insight into the multilayered thoughts contained within it. A non-illithid that wants to understand a Qualith inscription can make an Intelligence check (DC based on the complexity of the contained thoughts) to try to derive some of the inscription's meaning. Multiple successful attempts might uncover different aspects about the illithid author, its intended meaning, and its intended audience. A failed attempt results in a crushing headache and, in extreme cases, madness. A [comprehend languages](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/comprehend-languages.md) spell provides understanding of the inscription roughly equivalent to what a mind flayer would get from it.
+An expression in Qualith is made up of four-line stanzas packed into interlocking blocks, creating complex patterns that are indecipherable by other creatures. Someone that touches a Qualith inscription, however, can receive fragmentary insight into the multilayered thoughts contained within it. A non-illithid that wants to understand a Qualith inscription can make an Intelligence check (DC based on the complexity of the contained thoughts) to try to derive some of the inscription's meaning. Multiple successful attempts might uncover different aspects about the illithid author, its intended meaning, and its intended audience. A failed attempt results in a crushing headache and, in extreme cases, madness. A [comprehend languages](Compendium/spells/comprehend-languages.md) spell provides understanding of the inscription roughly equivalent to what a mind flayer would get from it.
 
 ### Mind Flayer Thralls
 
@@ -2466,13 +2466,13 @@ A neothelid arises when a tadpole pool is left untended. The tadpoles turn again
 
 See chapter 3 of this book for more information on neothelids.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-20.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-20.webp#center)
 
 ### Mind Flayer Lairs
 
 In the lair of a mind flayer colony, the safety and security of its residents is all-important. As a result, illithid lairs are always well hidden and well defended, almost always underground, and within easy reach of humanoids and their succulent brains.
 
-![Mind Flayer Colony (DM)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/mind-flayer-colony-dm.webp#center)
+![Mind Flayer Colony (DM)](Compendium/books/volos-guide-to-monsters/img/mind-flayer-colony-dm.webp#center)
 
 No two lairs are the same, as the resident elder brain drives the form and function of each one. The lair shown in the accompanying map is typical and includes many elements found in every colony's stronghold.
 
@@ -2623,7 +2623,7 @@ Each set of flensing claws is designed for a specific creature and can't be used
 
 This carapace-like augmentation encases portions of the wearer's shoulders, neck, and chest. A survival mantle is equivalent to a suit of nonmagical half plate armor and takes just as long to don or doff. It can't be worn with other kinds of armor.
 
-A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md) spell, a [stinking cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stinking-cloud.md) spell, inhaled poisons, and the breath weapons of some dragons).
+A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [cloudkill](Compendium/spells/cloudkill.md) spell, a [stinking cloud](Compendium/spells/stinking-cloud.md) spell, inhaled poisons, and the breath weapons of some dragons).
 
 ### Treasure
 
@@ -2641,7 +2641,7 @@ Every soldier who lives through a fight with orcs tells of confronting a hulking
 
 Savage and fearless, orc tribes are ever in search of elves, dwarves, and humans to destroy. Motivated by their hatred of the civilized races of the world and their need to satisfy the demands of their deities, the orcs know that if they fight well and bring glory to their tribe, Gruumsh will call them home to the plane of Acheron. It is there in the afterlife where the chosen ones will join Gruumsh and his armies in their endless extraplanar battle for supremacy.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-22.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-22.webp#center)
 
 ### Gods of the Orcs
 
@@ -2655,12 +2655,12 @@ Deep within the den of a tribe, far away from the war-hearth where warriors gath
 
 Serving as the bridge between the two parts of the tribe are the priestesses of Luthic, the orc goddess who represents both life and the grave. It is her worshipers that raise young orcs to be warriors, and then, at the end of their lives, take them to Yurtrus and Shargaas to be carried into death and the great unknown.
 
-- [Gruumsh, "He Who Watches"](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/orc-gruumsh-vgm.md)  
-- [Ilneval, "the War Maker"](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/orc-ilneval-vgm.md)  
-- [Bahgtru, "the Leg Breaker"](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/orc-bahgtru-vgm.md)  
-- [Luthic, "the Cave Mother"](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/orc-luthic-vgm.md)  
-- [Yurtrus, "the White Hand"](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/orc-yurtrus-vgm.md)  
-- [Shargaas, "the Night Lord"](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/orc-shargaas-vgm.md)  
+- [Gruumsh, "He Who Watches"](Compendium/deities/orc-gruumsh-vgm.md)  
+- [Ilneval, "the War Maker"](Compendium/deities/orc-ilneval-vgm.md)  
+- [Bahgtru, "the Leg Breaker"](Compendium/deities/orc-bahgtru-vgm.md)  
+- [Luthic, "the Cave Mother"](Compendium/deities/orc-luthic-vgm.md)  
+- [Yurtrus, "the White Hand"](Compendium/deities/orc-yurtrus-vgm.md)  
+- [Shargaas, "the Night Lord"](Compendium/deities/orc-shargaas-vgm.md)  
 
 ### Life in the Tribe
 
@@ -2696,7 +2696,7 @@ A heavily laden wagon that requires the strongest orcs to return it to the lair 
 
 The loss of a tribe's war wagon can undermine the chieftain's authority and cause the tribe to collapse into chaos, with the survivors scattering either to join new tribes or to strike out on their own. At the other extreme, warriors that return home with a heavily laden wagon or after heroically defending it from thieves gain great respect and advance higher in the tribe's pecking order.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-9.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-9.webp#center)
 
 #### All Are Fighters
 
@@ -2724,7 +2724,7 @@ An orc tribe typically has no more than a few hundred members, because a larger 
 
 On some occasions, though, tribes that have a common concern band together. The result is an orc horde-a sea of slavering killers that washes over the countryside and leaves vast tracts of devastation in its wake. Such an event is rare in the extreme, but its consequences can lay low entire nations that are unable to stand against the wave.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-23.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-23.webp#center)
 
 ### Orc Culture and Beliefs
 
@@ -2766,23 +2766,23 @@ The unwritten laws that govern the status of individual orcs within a tribe are 
 
 When you're roleplaying an orc, the following tables contain possible inspiration. They suggest characteristics that an orc might possess.
 
-![Roleplaying an Orc; Orc Personality Traits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-an-orc-orc-personality-traits-vgm.md)
+![Roleplaying an Orc; Orc Personality Traits](Compendium/tables/roleplaying-an-orc-orc-personality-traits-vgm.md)
 
-![Roleplaying an Orc; Orc Ideals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-an-orc-orc-ideals-vgm.md)
+![Roleplaying an Orc; Orc Ideals](Compendium/tables/roleplaying-an-orc-orc-ideals-vgm.md)
 
-![Roleplaying an Orc; Orc Bonds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-an-orc-orc-bonds-vgm.md)
+![Roleplaying an Orc; Orc Bonds](Compendium/tables/roleplaying-an-orc-orc-bonds-vgm.md)
 
-![Roleplaying an Orc; Orc Flaws](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-an-orc-orc-flaws-vgm.md)
+![Roleplaying an Orc; Orc Flaws](Compendium/tables/roleplaying-an-orc-orc-flaws-vgm.md)
 
 ### Orc Names
 
 Orc names don't always have meaning in the Orc language, and most noteworthy orcs are given epithets by their tribe mates.
 
-![Orc Names; Orc Male Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/orc-names-orc-male-names-vgm.md)
+![Orc Names; Orc Male Names](Compendium/tables/orc-names-orc-male-names-vgm.md)
 
-![Orc Names; Orc Female Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/orc-names-orc-female-names-vgm.md)
+![Orc Names; Orc Female Names](Compendium/tables/orc-names-orc-female-names-vgm.md)
 
-![Orc Names; Orc Epithets](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/orc-names-orc-epithets-vgm.md)
+![Orc Names; Orc Epithets](Compendium/tables/orc-names-orc-epithets-vgm.md)
 
 ### Orogs
 
@@ -2816,9 +2816,9 @@ On rare occasions, a non-orc that has gained control over a tribe performs a rit
 
 An orc tribe needs a home base of sorts-a place where warriors can reconnoiter after a raid, and ideally also a site that can be easily defended to ensure the safety of the tribe's noncombatants. Orcs establish their encampments mainly in mountainous areas, around and within deep caves or large crevasses in the rock. Although they prefer such terrain for strategic purposes, they can adapt and thrive in almost any environment.
 
-![Orc Stronghold (DM)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/orc-stronghold-dm.webp#center)
+![Orc Stronghold (DM)](Compendium/books/volos-guide-to-monsters/img/orc-stronghold-dm.webp#center)
 
-![Orc Stronghold (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/orc-stronghold-players.webp#center)
+![Orc Stronghold (Players)](Compendium/books/volos-guide-to-monsters/img/orc-stronghold-players.webp#center)
 
 Every encampment is divided along lines of worship. Those who revere Gruumsh, Ilneval, Bahgtru, and Luthic are given the best parts of the lair, while the followers of Yurtrus and Shargaas are relegated to the deep, dark recesses of the site, away from the rest of the tribe.
 
@@ -2878,7 +2878,7 @@ Each orc warrior carries its personal loot from the raid in a sack. These are th
 
 The Orc Trophies table provides a selection of items that might be found in an orc's loot sack.
 
-![Treasure; Orc Trophies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/treasure-orc-trophies-vgm.md)
+![Treasure; Orc Trophies](Compendium/tables/treasure-orc-trophies-vgm.md)
 
 ## Yuan-ti: Snake People
 
@@ -2920,7 +2920,7 @@ The detached, intellectual nature of the yuan-ti doesn't lend itself to fervent 
 
 In addition to the three primary deities discussed below, the yuan-ti worship over a dozen other "serpent gods"-lesser beings such as animal spirits, ascended heroes, divine servants of more powerful gods, and demon lords. Many of the cults devoted to these lesser gods are unique to a particular city, and followers of the three main yuan-ti deities usually consider these religious practices quaint rather than threatening.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-25.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-25.webp#center)
 
 #### Dendar
 
@@ -2965,7 +2965,7 @@ The yuan-ti's dispassionate attitude toward religion is especially evident among
 
 The serpent gods don't wish to be brought low, or to be bled of power as Merrshaulk was, so they mollify their worshipers with pronouncements that hint at what the supplicants seek. The truth is never easy to ferret out, but rarely an exceptionally clever yuan-ti succeeds in attaining divine form and vanquishing its benefactor. This cannibalistic pressure from mortals means that the lower ranks of the serpent gods experience a change every century or so, although often it is the newest yuan-ti godling that falls prey to the next one's ambitions.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-26.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-26.webp#center)
 
 ### Structured Society
 
@@ -3047,25 +3047,25 @@ No two yuan-ti look exactly the same. Both the snakelike and the humanlike porti
 
 Use the tables below to create descriptions and other details for different Yuan-ti types.
 
-![Physical Variations; Yuan-ti Snake Body Type](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-yuan-ti-snake-body-type-vgm.md)
+![Physical Variations; Yuan-ti Snake Body Type](Compendium/tables/physical-variations-yuan-ti-snake-body-type-vgm.md)
 
-![Physical Variations; Yuan-ti Humanoid Skin Color](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-yuan-ti-humanoid-skin-color-vgm.md)
+![Physical Variations; Yuan-ti Humanoid Skin Color](Compendium/tables/physical-variations-yuan-ti-humanoid-skin-color-vgm.md)
 
-![Physical Variations; Yuan-ti Scale Color](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-yuan-ti-scale-color-vgm.md)
+![Physical Variations; Yuan-ti Scale Color](Compendium/tables/physical-variations-yuan-ti-scale-color-vgm.md)
 
-![Physical Variations; Yuan-ti Scale Pattern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-yuan-ti-scale-pattern-vgm.md)
+![Physical Variations; Yuan-ti Scale Pattern](Compendium/tables/physical-variations-yuan-ti-scale-pattern-vgm.md)
 
-![Physical Variations; Yuan-ti Tongue Color](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-yuan-ti-tongue-color-vgm.md)
+![Physical Variations; Yuan-ti Tongue Color](Compendium/tables/physical-variations-yuan-ti-tongue-color-vgm.md)
 
-![Physical Variations; Pureblood Characteristics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-pureblood-characteristics-vgm.md)
+![Physical Variations; Pureblood Characteristics](Compendium/tables/physical-variations-pureblood-characteristics-vgm.md)
 
-![Physical Variations; Yuan-ti Eye Color](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-yuan-ti-eye-color-vgm.md)
+![Physical Variations; Yuan-ti Eye Color](Compendium/tables/physical-variations-yuan-ti-eye-color-vgm.md)
 
-![Physical Variations; Yuan-ti Snake Head Shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-yuan-ti-snake-head-shape-vgm.md)
+![Physical Variations; Yuan-ti Snake Head Shape](Compendium/tables/physical-variations-yuan-ti-snake-head-shape-vgm.md)
 
-![Physical Variations; Type 2 Malison: Arms](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-type-2-malison-arms-vgm.md)
+![Physical Variations; Type 2 Malison: Arms](Compendium/tables/physical-variations-type-2-malison-arms-vgm.md)
 
-![Physical Variations; Type 4 Malison: Lower Body](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/physical-variations-type-4-malison-lower-body-vgm.md)
+![Physical Variations; Type 4 Malison: Lower Body](Compendium/tables/physical-variations-type-4-malison-lower-body-vgm.md)
 
 ### Unusual Abilities
 
@@ -3097,7 +3097,7 @@ The following action options are restricted to certain kinds of yuan-ti.
 
 ##### Bite (Pureblood Only)
 
-Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (`1d4`) piercing damage plus 3 (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
+Melee Weapon Attack: `+3` to hit, reach 5 ft., one creature. Hit: 3 (`1d4`) piercing damage plus 3 (`1d6`) poison damage. If the pureblood uses Multiattack, it can make two melee attacks, but can use its bite only once.
 
 ##### Polymorph into Snake (Abomination or Malison Only;
 
@@ -3109,19 +3109,19 @@ Recharge 6). The yuan-ti targets a creature it can see within 60 feet of it. The
 
 ##### Sticks to Snakes (Abomination or Malison Only;
 
-Recharge 6). The yuan-ti transforms a pile of sticks, arrows, or similar-sized pieces of wood into a [swarm of poisonous snakes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/swarm-of-poisonous-snakes.md). The swarm acts as an ally of the yuan-ti and obeys its spoken commands. The swarm remains for 1 minute, after which it turns back into the original materials.
+Recharge 6). The yuan-ti transforms a pile of sticks, arrows, or similar-sized pieces of wood into a [swarm of poisonous snakes](Compendium/bestiary/beast/swarm-of-poisonous-snakes.md). The swarm acts as an ally of the yuan-ti and obeys its spoken commands. The swarm remains for 1 minute, after which it turns back into the original materials.
 
 ### Roleplaying a Yuan-ti
 
 When you're roleplaying a yuan-ti, the following tables contain possible inspiration. They suggest characteristics that a yuan-ti might possess.
 
-![Roleplaying a Yuan-ti; Yuan-ti Personality Traits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-yuan-ti-yuan-ti-personality-traits-vgm.md)
+![Roleplaying a Yuan-ti; Yuan-ti Personality Traits](Compendium/tables/roleplaying-a-yuan-ti-yuan-ti-personality-traits-vgm.md)
 
-![Roleplaying a Yuan-ti; Yuan-ti Ideals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-yuan-ti-yuan-ti-ideals-vgm.md)
+![Roleplaying a Yuan-ti; Yuan-ti Ideals](Compendium/tables/roleplaying-a-yuan-ti-yuan-ti-ideals-vgm.md)
 
-![Roleplaying a Yuan-ti; Yuan-ti Bonds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-yuan-ti-yuan-ti-bonds-vgm.md)
+![Roleplaying a Yuan-ti; Yuan-ti Bonds](Compendium/tables/roleplaying-a-yuan-ti-yuan-ti-bonds-vgm.md)
 
-![Roleplaying a Yuan-ti; Yuan-ti Flaws](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/roleplaying-a-yuan-ti-yuan-ti-flaws-vgm.md)
+![Roleplaying a Yuan-ti; Yuan-ti Flaws](Compendium/tables/roleplaying-a-yuan-ti-yuan-ti-flaws-vgm.md)
 
 ### Yuan-ti Names
 
@@ -3131,7 +3131,7 @@ Some yuan-ti add more sibilants to their birth names to create an exaggerated hi
 
 The Yuan-ti Names table provides yuan-ti birth names suitable for any campaign.
 
-![Yuan-ti Names](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/yuan-ti-names-vgm.md)
+![Yuan-ti Names](Compendium/tables/yuan-ti-names-vgm.md)
 
 ### Yuan-ti Cities
 
@@ -3139,7 +3139,7 @@ Most yuan-ti cities were built during the height of their empire centuries ago. 
 
 Because the yuan-ti were previously human, their architecture reflects human ideas about art and beauty. Over time this perspective was skewed toward the concept that the snake is the perfect form, so serpents are a common theme in their aesthetic.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/volo01-27.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/volo01-27.webp#center)
 
 The major buildings in a city usually have four sides and a sloped or staggered pyramid-like exterior. It is customary for stone buildings to have a series of tiles or carvings of snakes encircling the ground level at head height. These features are sometimes trapped or magically warded to prevent anyone from climbing the building's exterior. Interior walls usually have floor-level holes or tunnels that a Medium or Large snake could pass through, allowing the yuan-ti's serpentine pets, as well as abominations and malisons in snake form, to bypass human-style doors for convenience or in order to respond quickly to invaders. In well-traveled areas, ramps replace stairs, making it easier to snake-bodied yuan-ti to move between levels.
 
@@ -3153,17 +3153,17 @@ Particularly in their cities, yuan-ti rely on poison traps to keep intruders, sp
 
 In a typical yuan-ti city, one of the busiest and most prominent buildings is the temple complex that houses yuan-ti and their followers while it provides facilities for worship, sacrifice, and all the other hallmarks of daily life. The accompanying map is an example of such a location.
 
-![Yuan-Ti Temple (DM)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-dm.webp#center)
+![Yuan-Ti Temple (DM)](Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-dm.webp#center)
 
-![Yuan-Ti Temple—Level 1 (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l1.webp#center)
+![Yuan-Ti Temple—Level 1 (Players)](Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l1.webp#center)
 
-![Yuan-Ti Temple—Level 2 (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l2.webp#center)
+![Yuan-Ti Temple—Level 2 (Players)](Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l2.webp#center)
 
-![Yuan-Ti Temple—Level 3 (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l3.webp#center)
+![Yuan-Ti Temple—Level 3 (Players)](Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l3.webp#center)
 
-![Yuan-Ti Temple—Level 4 (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l4.webp#center)
+![Yuan-Ti Temple—Level 4 (Players)](Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l4.webp#center)
 
-![Yuan-Ti Temple—Level 5 (Players)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l5.webp#center)
+![Yuan-Ti Temple—Level 5 (Players)](Compendium/books/volos-guide-to-monsters/img/yuan-ti-temple-l5.webp#center)
 
 #### Cultist Level
 
@@ -3193,8 +3193,8 @@ Yuan-ti have been controlling and manipulating lesser creatures for hundreds of 
 
 Yuan-ti employ a variety of creatures as spies and protectors. The Yuan-ti Agents table lists groups of creatures that work for the yuan-ti, representing their masters' interests. Agents of the serpent folk might roam the countryside on a specific mission or operate secretly inside a humanoid community. The Yuan-ti Protectors table includes creatures that serve as guardians either within a yuan-ti city or in a yuan-ti hideout inside a humanoid city.
 
-![Random Yuan-ti Servants; Yuan-ti Agents](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-yuan-ti-servants-yuan-ti-agents-vgm.md)
+![Random Yuan-ti Servants; Yuan-ti Agents](Compendium/tables/random-yuan-ti-servants-yuan-ti-agents-vgm.md)
 
-![Random Yuan-ti Servants; Yuan-ti Protectors](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/random-yuan-ti-servants-yuan-ti-protectors-vgm.md)
+![Random Yuan-ti Servants; Yuan-ti Protectors](Compendium/tables/random-yuan-ti-servants-yuan-ti-protectors-vgm.md)
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/volos-guide-to-monsters/img/c1-10.webp#center)
+![](Compendium/books/volos-guide-to-monsters/img/c1-10.webp#center)

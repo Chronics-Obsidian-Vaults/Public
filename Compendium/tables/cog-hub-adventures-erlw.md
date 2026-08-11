@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Cog Hub Adventures
+- "Cog Hub Adventures"
 ---
 # Cog Hub Adventures
 *Source: Eberron: Rising from the Last War p. 250* 

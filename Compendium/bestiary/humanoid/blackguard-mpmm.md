@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/8
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blackguard
+- "Blackguard"
 ---
-# [Blackguard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/blackguard-mpmm.md)
+# [Blackguard](Compendium/bestiary/humanoid/blackguard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211*  
 
 Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
@@ -41,7 +42,7 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
 "subtype": "paladin"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "18"
-"ac_class": "[plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate](Compendium/items/plate-armor.md)"
 "hp": !!int "119"
 "hit_dice": "14d8 + 56"
 "modifier": !!int "0"
@@ -57,12 +58,15 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
   - "wisdom": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+5"
+"gear":
+  - "[glaive](Compendium/items/glaive.md)"
+  - "[shortbow](Compendium/items/shortbow.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "8"
@@ -76,15 +80,14 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
       \ 5 (1d6 + 2) piercing damage."
     "name": "Shortbow"
   - "desc": "Each enemy within 30 feet of the blackguard must succeed on a DC 13 Wisdom\
-      \ saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of the blackguard for 1 minute. If a [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ target ends its turn more than 30 feet away from the blackguard, the target\
-      \ can repeat the saving throw, ending the effect on itself on a success."
+      \ saving throw or be [frightened](Rules/conditions.md#Frightened) of the blackguard\
+      \ for 1 minute. If a [frightened](Rules/conditions.md#Frightened) target ends\
+      \ its turn more than 30 feet away from the blackguard, the target can repeat\
+      \ the saving throw, ending the effect on itself on a success."
     "name": "Dreadful Aspect (Recharges after a Short or Long Rest)"
   - "desc": "The blackguard casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\n**2/day each:** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [find steed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/find-steed.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**2/day each:** [command](Compendium/spells/command.md),\
+      \ [dispel magic](Compendium/spells/dispel-magic.md), [find steed](Compendium/spells/find-steed.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Immediately after the blackguard hits a target with an attack roll, the\
@@ -92,17 +95,16 @@ Blackguards often adorn their armor and weapons with dread accoutrements or are 
       \ On a failed save, the target suffers one of the following effects of the blackguard's\
       \ choice:"
     "name": "Smite"
-  - "desc": "The target is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ for 1 minute. The [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ target can repeat the save at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+  - "desc": "The target is [blinded](Rules/conditions.md#Blinded) for 1 minute. The\
+      \ [blinded](Rules/conditions.md#Blinded) target can repeat the save at the end\
+      \ of each of its turns, ending the effect on itself on a success."
     "name": "Blind"
-  - "desc": "The target is pushed up to 10 feet away and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+  - "desc": "The target is pushed up to 10 feet away and knocked [prone](Rules/conditions.md#Prone)."
     "name": "Shove"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/blackguard-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/blackguard-mpmm.webp"
 ```
 ^statblock
 

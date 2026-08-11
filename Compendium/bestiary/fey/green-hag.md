@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Green Hag
+- "Green Hag"
 ---
-# [Green Hag](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/green-hag.md)
-*Source: Monster Manual p. 177, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Green Hag](Compendium/bestiary/fey/green-hag.md)
+*Source: Monster Manual p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
 
@@ -75,18 +76,18 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 > 
-> 1st level (4 slots): [identify](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/identify.md), [ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md)  
-> 2nd level (3 slots): [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md), [locate object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md)  
-> 3rd level (3 slots): [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md), [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md), [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md)  
-> 4th level (3 slots): [phantasmal killer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-killer.md), [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md)  
-> 5th level (2 slots): [contact other plane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/contact-other-plane.md), [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md)  
-> 6th level (1 slot): [eyebite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/eyebite.md)  
+> 1st level (4 slots): [identify](Compendium/spells/identify.md), [ray of sickness](Compendium/spells/ray-of-sickness.md)  
+> 2nd level (3 slots): [hold person](Compendium/spells/hold-person.md), [locate object](Compendium/spells/locate-object.md)  
+> 3rd level (3 slots): [bestow curse](Compendium/spells/bestow-curse.md), [counterspell](Compendium/spells/counterspell.md), [lightning bolt](Compendium/spells/lightning-bolt.md)  
+> 4th level (3 slots): [phantasmal killer](Compendium/spells/phantasmal-killer.md), [polymorph](Compendium/spells/polymorph.md)  
+> 5th level (2 slots): [contact other plane](Compendium/spells/contact-other-plane.md), [scrying](Compendium/spells/scrying.md)  
+> 6th level (1 slot): [eyebite](Compendium/spells/eyebite.md)  
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](Rules/senses.md#Darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](Rules/conditions.md#Blinded) for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](Rules/conditions.md#Blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ```statblock
@@ -108,31 +109,28 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+3"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "Common, Draconic, Sylvan"
 "cr": "3"
 "traits":
   - "desc": "The hag's innate spellcasting ability is Charisma (spell save DC 12).\
       \ She can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [vicious mockery](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vicious-mockery.md)"
+      \n**At will:** [dancing lights](Compendium/spells/dancing-lights.md), [minor\
+      \ illusion](Compendium/spells/minor-illusion.md), [vicious mockery](Compendium/spells/vicious-mockery.md)"
     "name": "Innate Spellcasting"
   - "desc": "The hag can breathe air and water."
     "name": "Amphibious"
   - "desc": "The hag can mimic animal sounds and humanoid voices. A creature that\
       \ hears the sounds can tell they are imitations with a successful DC 14 Wisdom\
-      \ ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight))\
-      \ check."
+      \ ([Insight](Rules/skills.md#Insight)) check."
     "name": "Mimicry"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
@@ -145,16 +143,15 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
       \ up to physical inspection. For example, the hag could appear to have smooth\
       \ skin, but someone touching her would feel her rough flesh. Otherwise, a creature\
       \ must take an action to visually inspect the illusion and succeed on a DC 20\
-      \ Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation))\
-      \ check to discern that the hag is disguised."
+      \ Intelligence ([Investigation](Rules/skills.md#Investigation)) check to discern\
+      \ that the hag is disguised."
     "name": "Illusory Appearance"
-  - "desc": "The hag magically turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ until she attacks or casts a spell, or until her [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ ends (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). While [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible),\
-      \ she leaves no physical evidence of her passage, so she can be tracked only\
-      \ by magic. Any equipment she wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ with her."
+  - "desc": "The hag magically turns [invisible](Rules/conditions.md#Invisible) until\
+      \ she attacks or casts a spell, or until her [concentration](Rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](Rules/conditions.md#Concentration) on a spell).\
+      \ While [invisible](Rules/conditions.md#Invisible), she leaves no physical evidence\
+      \ of her passage, so she can be tracked only by magic. Any equipment she wears\
+      \ or carries is [invisible](Rules/conditions.md#Invisible) with her."
     "name": "Invisible Passage"
 "lair_actions":
   - "desc": "The following lair actions are options for grandmothers and powerful\
@@ -193,28 +190,24 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
       \ fell magic, which creates one or more of the following effects:\n\n- Birds,\
       \ rodents, snakes, spiders, or toads (or some other creatures appropriate to\
       \ the hag) are found in great profusion.  \n- Beasts that have an Intelligence\
-      \ score of 2 or lower are [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the hag and directed to be aggressive toward intruders in the area.  \n\
-      - Strange carved figurines, twig fetishes, or rag dolls magically appear in\
-      \ trees.  \n\nA powerful green hag creates one or more of the following additional\
-      \ regional effects within 1 mile of her lair:\n\n- Illusory duplicates of the\
-      \ hag appear in random places at random times (but never more than one in any\
-      \ given location). An illusory duplicate has no substance, but it looks, sounds,\
-      \ and moves like the hag. The hag can sense when one or more creatures are within\
-      \ 60 feet of her duplicate and can interact with them as if she were present\
-      \ and standing in the duplicate's space. If the illusory duplicate takes any\
-      \ damage, it disappears.  \n- The region takes twice as long as normal to traverse,\
-      \ since the plants grow thick and twisted, and the swamps are thick with reeking\
-      \ mud.  \n- Trees transform into [awakened trees](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/awakened-tree.md)\
+      \ score of 2 or lower are [charmed](Rules/conditions.md#Charmed) by the hag\
+      \ and directed to be aggressive toward intruders in the area.  \n- Strange carved\
+      \ figurines, twig fetishes, or rag dolls magically appear in trees.  \n\nA powerful\
+      \ green hag creates one or more of the following additional regional effects\
+      \ within 1 mile of her lair:\n\n- Illusory duplicates of the hag appear in random\
+      \ places at random times (but never more than one in any given location). An\
+      \ illusory duplicate has no substance, but it looks, sounds, and moves like\
+      \ the hag. The hag can sense when one or more creatures are within 60 feet of\
+      \ her duplicate and can interact with them as if she were present and standing\
+      \ in the duplicate's space. If the illusory duplicate takes any damage, it disappears.\
+      \  \n- The region takes twice as long as normal to traverse, since the plants\
+      \ grow thick and twisted, and the swamps are thick with reeking mud.  \n- Trees\
+      \ transform into [awakened trees](Compendium/bestiary/plant/awakened-tree.md)\
       \ and attack when hostile intruders are near.  "
     "name": ""
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/green-hag.webp"
+"image": "Compendium/bestiary/fey/token/green-hag.webp"
 ```
 ^statblock
 

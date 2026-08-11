@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/dwarven
 - source/domain/forge
-aliases: 
-- Ulaa
+aliases:
+- "Ulaa"
 ---
 # Ulaa
 *Source: Mordenkainen's Tome of Foes p. 73* 

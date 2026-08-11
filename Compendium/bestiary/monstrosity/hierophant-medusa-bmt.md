@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/17
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hierophant Medusa
+- "Hierophant Medusa"
 ---
-# [Hierophant Medusa](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/hierophant-medusa-bmt.md)
+# [Hierophant Medusa](Compendium/bestiary/monstrosity/hierophant-medusa-bmt.md)
 *Source: The Book of Many Things p. 179*  
 
 Sometimes deeply devout people, usually either Humanoids or medusas, dedicate themselves to a cause and are transformed by a deity or magic into hierophant medusas—beings with powerful snakelike tails for their lower body, snakes for hair, and a petrifying gaze. The first hierophant medusa was transformed by the power of the Euryale card when that individual was inspired by Euryale's story and unwavering conviction.
@@ -54,27 +55,25 @@ A medusa's lair is often decorated with the petrified bodies of creatures that r
   - "constitution": !!int "10"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+12"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+12"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+8"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+11"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
 "senses": "passive Perception 22"
 "languages": "Common plus any three languages (Abyssal, Celestial, Druidic, or Infernal\
   \ recommended)"
 "cr": "17"
 "traits":
-  - "desc": "The medusa can cast the [Resurrection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/resurrection.md)\
+  - "desc": "The medusa can cast the [Resurrection](Compendium/spells/resurrection.md)\
       \ spell, requiring no material components and using Wisdom as the spellcasting\
       \ ability."
     "name": "Devotion's Call (1/Day)"
@@ -86,8 +85,8 @@ A medusa's lair is often decorated with the petrified bodies of creatures that r
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 16\
       \ (3d6 + 6) bludgeoning damage, and if the target is a Medium or smaller creature,\
-      \ it has the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ condition (escape DC 20). Until this grapple ends, the target has the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ it has the [grappled](Rules/conditions.md#Grappled) condition (escape DC 20).\
+      \ Until this grapple ends, the target has the [restrained](Rules/conditions.md#Restrained)\
       \ condition, and the medusa can't constrict another creature."
     "name": "Constrict"
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 13\
@@ -102,35 +101,32 @@ A medusa's lair is often decorated with the petrified bodies of creatures that r
       \ (1d10 + 6) piercing damage plus 5 (1d10) poison damage."
     "name": "Snake Hair"
   - "desc": "*Ranged Spell Attack:* +12 to hit, range 120 ft., one creature. *Hit:*\
-      \ 22 (3d10 + 6) radiant damage, and the target has the [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ 22 (3d10 + 6) radiant damage, and the target has the [blinded](Rules/conditions.md#Blinded)\
       \ condition until the end of its next turn."
     "name": "Wrathful Strike"
   - "desc": "The medusa casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 20):\n\n**At will:**\
-      \ [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md),\
-      \ [Spare the Dying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spare-the-dying.md),\
-      \ [Thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**2/day:** [Mass Cure Wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-cure-wounds.md)\
-      \ (cast at 8th level)\n\n**1/day each:** [Blade Barrier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blade-barrier.md),\
-      \ [Divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md),\
-      \ [Greater Restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)"
+      \ [Light](Compendium/spells/light.md), [Spare the Dying](Compendium/spells/spare-the-dying.md),\
+      \ [Thaumaturgy](Compendium/spells/thaumaturgy.md)\n\n**2/day:** [Mass Cure Wounds](Compendium/spells/mass-cure-wounds.md)\
+      \ (cast at 8th level)\n\n**1/day each:** [Blade Barrier](Compendium/spells/blade-barrier.md),\
+      \ [Divination](Compendium/spells/divination.md), [Greater Restoration](Compendium/spells/greater-restoration.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The medusa unleashes petrifying magic from its eyes in a 30-foot cone.\
       \ Each creature in that area must make a DC 18 Constitution saving throw if\
-      \ it doesn't have the [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ condition. If the saving throw fails by 5 or more, the creature has the [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified)\
+      \ it doesn't have the [blinded](Rules/conditions.md#Blinded) condition. If the\
+      \ saving throw fails by 5 or more, the creature has the [petrified](Rules/conditions.md#Petrified)\
       \ condition. Otherwise, on a failed save, the creature takes 10 (3d6) force\
-      \ damage, begins to turn to stone, and has the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ condition. The [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ creature must repeat the saving throw at the end of its next turn. On a failed\
-      \ save, it has the [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified)\
-      \ condition, and on a successful save, the effect ends on it. The petrification\
-      \ lasts until the creature is freed by the [Greater Restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
+      \ damage, begins to turn to stone, and has the [restrained](Rules/conditions.md#Restrained)\
+      \ condition. The [restrained](Rules/conditions.md#Restrained) creature must\
+      \ repeat the saving throw at the end of its next turn. On a failed save, it\
+      \ has the [petrified](Rules/conditions.md#Petrified) condition, and on a successful\
+      \ save, the effect ends on it. The petrification lasts until the creature is\
+      \ freed by the [Greater Restoration](Compendium/spells/greater-restoration.md)\
       \ spell or other magic.\n\nA creature can use its reaction, if available, to\
       \ shut its eyes to avoid the saving throw. If the creature does so, it has the\
-      \ [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ condition until the end of its next turn."
+      \ [blinded](Rules/conditions.md#Blinded) condition until the end of its next\
+      \ turn."
     "name": "Petrifying Gaze (Recharge 4-6)"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the medusa can take\
@@ -178,6 +174,6 @@ A medusa's lair is often decorated with the petrified bodies of creatures that r
     "name": "Final Slash (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/hierophant-medusa-bmt.webp"
+"image": "Compendium/bestiary/monstrosity/token/hierophant-medusa-bmt.webp"
 ```
 ^statblock

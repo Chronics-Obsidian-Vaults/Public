@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Urban Encounters
+- "Urban Encounters"
 ---
 # Urban Encounters
 *Source: Dungeon Master's Guide p. 114* 

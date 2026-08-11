@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Precognitive Mage
+- "Precognitive Mage"
 ---
-# [Precognitive Mage](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/precognitive-mage-ggr.md)
+# [Precognitive Mage](Compendium/bestiary/humanoid/precognitive-mage-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 228*  
 
 Precognitive mages, a rarity among Azorius spellcasters, are capable of capturing glimpses of the future. They are typically employed to anticipate the actions of wanted criminals, thus aiding in their capture.
@@ -23,7 +24,7 @@ Precognitive mages, a rarity among Azorius spellcasters, are capable of capturin
 "subtype": "any race"
 "alignment": "Lawful Neutral"
 "ac": !!int "11"
-"ac_class": "14 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "14 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "63"
 "hit_dice": "14d8"
 "modifier": !!int "1"
@@ -39,19 +40,19 @@ Precognitive mages, a rarity among Azorius spellcasters, are capable of capturin
   - "intelligence": !!int "6"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 13"
+"gear":
+  - "[quarterstaff](Compendium/items/quarterstaff.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 13"
 "languages": "Common plus any one language"
 "cr": "3"
 "traits":
   - "desc": "The mage's innate spellcasting ability is Intelligence (spell save DC\
       \ 14). It can cast the following spells, requiring no material components:\n\
-      \n**3/day:** [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\n\
-      \n**1/day each:** [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md),\
-      \ [locate object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/locate-object.md)"
+      \n**3/day:** [detect thoughts](Compendium/spells/detect-thoughts.md), [mage\
+      \ armor](Compendium/spells/mage-armor.md)\n\n**1/day each:** [clairvoyance](Compendium/spells/clairvoyance.md),\
+      \ [locate object](Compendium/spells/locate-object.md)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
@@ -60,8 +61,8 @@ Precognitive mages, a rarity among Azorius spellcasters, are capable of capturin
     "name": "Quarterstaff"
   - "desc": "The mage targets one creature within 120 feet of it that it can see.\
       \ The target takes 18 (4d8) psychic damage, and it must succeed on a DC 14 Intelligence\
-      \ saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the end of its next turn."
+      \ saving throw or be [stunned](Rules/conditions.md#Stunned) until the end of\
+      \ its next turn."
     "name": "Glimpse the Temporal Flood (Recharge 5-6)"
 "reactions":
   - "desc": "When the mage or a creature it can see makes an attack roll, a saving\
@@ -70,6 +71,6 @@ Precognitive mages, a rarity among Azorius spellcasters, are capable of capturin
     "name": "Precognitive Insight (3/Day)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/precognitive-mage-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/precognitive-mage-ggr.webp"
 ```
 ^statblock

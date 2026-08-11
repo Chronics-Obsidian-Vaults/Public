@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -10,14 +11,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bard
+- "Bard"
 ---
-# [Bard](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/bard-mpmm.md)
+# [Bard](Compendium/bestiary/humanoid/bard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211*  
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
 
-Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance) Types table to determine it.
+Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [Performance](Rules/skills.md#Performance) Types table to determine it.
 
 **Bard Performance Types**
 
@@ -41,7 +42,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md)"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "modifier": !!int "2"
@@ -57,12 +58,15 @@ Each bard is a master of at least one type of performance. You may choose a bard
   - "dexterity": !!int "4"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+6"
+"gear":
+  - "[shortbow](Compendium/items/shortbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "2"
@@ -82,12 +86,10 @@ Each bard is a master of at least one type of performance. You may choose a bard
       \ save, a creature takes half as much damage and isn't pushed."
     "name": "Cacophony (Recharge 4-6)"
   - "desc": "The bard casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [dancing lights](Compendium/spells/dancing-lights.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**1/day each:** [charm person](Compendium/spells/charm-person.md), [invisibility](Compendium/spells/invisibility.md),\
+      \ [sleep](Compendium/spells/sleep.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The bard targets one creature within 30 feet of it. If the target can\
@@ -98,7 +100,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/bard-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/bard-mpmm.webp"
 ```
 ^statblock
 

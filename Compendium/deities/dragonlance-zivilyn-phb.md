@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/dragonlance
 - source/domain/knowledge
-aliases: 
-- Zivilyn
+aliases:
+- "Zivilyn"
 ---
 # Zivilyn
 *Source: Player's Handbook p. 295* 

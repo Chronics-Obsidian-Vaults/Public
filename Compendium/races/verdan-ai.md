@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/ai
 - source/race/verdan
 aliases:
-- Verdan
+- "Verdan"
 ---
 # Verdan
 *Source: Acquisitions Incorporated p. 72*  
-![Varieties of Adult Verdan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/verdan.webp#right)
+![Varieties of Adult Verdan](Compendium/races/img/verdan.webp#right)
 
 - **Ability Scores**: con +1 cha +2
 - **Size**: Varies
@@ -39,7 +40,7 @@ You can telepathically speak to any creature you can see within 30 feet of you. 
 
 ### Persuasive
 
-Your people's lack of history makes you trustworthy and humble. You have proficiency in the [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) skill.
+Your people's lack of history makes you trustworthy and humble. You have proficiency in the [Persuasion](Rules/skills.md#Persuasion) skill.
 
 ### Telepathic Insight
 

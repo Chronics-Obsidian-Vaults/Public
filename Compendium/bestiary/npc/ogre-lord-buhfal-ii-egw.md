@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre Lord Buhfal II
+- "Ogre Lord Buhfal II"
 ---
-# [Ogre Lord Buhfal II](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/ogre-lord-buhfal-ii-egw.md)
+# [Ogre Lord Buhfal II](Compendium/bestiary/npc/ogre-lord-buhfal-ii-egw.md)
 *Source: Explorer's Guide to Wildemount p. 251*  
 
 In the political absence of the champion chief of Urzin, Sunbreaker Olomon, the village's proud and protective acting leader is Ogre Lord Buhfal II.
@@ -22,7 +23,7 @@ In the political absence of the champion chief of Urzin, Sunbreaker Olomon, the 
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "11"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -34,8 +35,10 @@ In the political absence of the champion chief of Urzin, Sunbreaker Olomon, the 
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"gear":
+  - "[greatclub](Compendium/items/greatclub.md)"
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
@@ -47,6 +50,6 @@ In the political absence of the champion chief of Urzin, Sunbreaker Olomon, the 
     "name": "Javelin"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/ogre-lord-buhfal-ii-egw.webp"
+"image": "Compendium/bestiary/npc/token/ogre-lord-buhfal-ii-egw.webp"
 ```
 ^statblock

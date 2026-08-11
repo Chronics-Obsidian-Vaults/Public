@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Steam Mephit
+- "Steam Mephit"
 ---
-# [Steam Mephit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/steam-mephit.md)
-*Source: Monster Manual p. 217, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Steam Mephit](Compendium/bestiary/elemental/steam-mephit.md)
+*Source: Monster Manual p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ## Mephits
 
@@ -47,14 +48,13 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
   - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Aquan, Ignan"
 "cr": "1/4"
 "traits":
-  - "desc": "The mephit can innately cast [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md),\
-      \ requiring no material components. Its innate spellcasting ability is Charisma.\n"
+  - "desc": "The mephit can innately cast [blur](Compendium/spells/blur.md), requiring\
+      \ no material components. Its innate spellcasting ability is Charisma.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "When the mephit dies, it explodes in a cloud of steam. Each creature\
       \ within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw\
@@ -70,8 +70,7 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
     "name": "Steam Breath (Recharge 6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/steam-mephit.webp"
+"image": "Compendium/bestiary/elemental/token/steam-mephit.webp"
 ```
 ^statblock
 

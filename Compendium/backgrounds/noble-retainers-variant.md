@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Noble (Retainers) (Variant)
+- "Noble (Retainers) (Variant)"
 ---
 # Noble (Retainers) (Variant)
 *Source: Player's Handbook p. 136*  
 
 
-- **Skill Proficiencies.** [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [History](Rules/skills.md#History), [Persuasion](Rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), a [signet ring](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of [fine clothes](Compendium/items/fine-clothes.md), a [signet ring](Compendium/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
 
 You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with work or discomfort, a former merchant just elevated to the nobility, or a disinherited scoundrel with a disproportionate sense of entitlement. Or you could be an honest, hard-working landowner who cares deeply about the people who live and work on your land, keenly aware of your responsibility to them.
 
@@ -30,7 +31,7 @@ These details help establish your family and your title as features of the world
 
 ## Feature: Retainers
 
-You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are commoners who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.
+You have the service of three retainers loyal to your family. These retainers can be attendants or messengers, and one might be a majordomo. Your retainers are [commoners](Compendium/bestiary/humanoid/commoner.md) who can perform mundane tasks for you, but they do not fight for you, will not follow you into obviously dangerous areas (such as dungeons), and will leave if they are frequently endangered or abused.
 
 ## Suggested Characteristics
 

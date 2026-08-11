@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -13,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll Pack Lord
+- "Gnoll Pack Lord"
 ---
-# [Gnoll Pack Lord](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/gnoll-pack-lord.md)
-*Source: Monster Manual p. 163, The Book of Many Things*  
+# [Gnoll Pack Lord](Compendium/bestiary/humanoid/gnoll-pack-lord.md)
+*Source: Monster Manual p. 163*  
 
 The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It ornaments its body with brutal piercings and grotesque trophies, dyeing its fur with demonic sigils, hoping Yeenoghu will make it invulnerable.
 
@@ -45,7 +46,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md)"
 "hp": !!int "49"
 "hit_dice": "9d8 + 9"
 "modifier": !!int "2"
@@ -57,8 +58,10 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
   - !!int "11"
   - !!int "9"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[glaive](Compendium/items/glaive.md)"
+  - "[longbow](Compendium/items/longbow.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Gnoll"
 "cr": "2"
 "traits":
@@ -84,8 +87,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
     "name": "Incite Rampage (Recharge 5-6)"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/gnoll-pack-lord.webp"
+"image": "Compendium/bestiary/humanoid/token/gnoll-pack-lord.webp"
 ```
 ^statblock
 

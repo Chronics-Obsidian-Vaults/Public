@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/11
@@ -9,16 +10,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Radiant Idol
+- "Radiant Idol"
 ---
-# [Radiant Idol](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/radiant-idol-erlw.md)
+# [Radiant Idol](Compendium/bestiary/celestial/radiant-idol-erlw.md)
 *Source: Eberron: Rising from the Last War p. 308*  
 
 A radiant idol was an angel that was banished from the celestial realm of Syrania and cast down to the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.
 
 ## Fallen Angels
 
-The insatiable hunger to be adored can transform a fallen angel, physically and mentally. In its true form, a radiant idol appears to be a warped angel. It might have bloody stumps in place of its wings, or its wings could be weighted down with chains representing its pride. A radiant idol uses [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md) to hide its corruption, presenting an image of celestial glory.
+The insatiable hunger to be adored can transform a fallen angel, physically and mentally. In its true form, a radiant idol appears to be a warped angel. It might have bloody stumps in place of its wings, or its wings could be weighted down with chains representing its pride. A radiant idol uses [disguise self](Compendium/spells/disguise-self.md) to hide its corruption, presenting an image of celestial glory.
 
 ## The Weight of Corruption
 
@@ -50,42 +51,38 @@ A radiant idol doesn't require food, drink, or sleep.
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+9"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 19"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"gear":
+  - "[flail](Compendium/items/flail.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "11"
 "traits":
   - "desc": "The radiant idol's spellcasting ability is Charisma (spell save DC 17).\
       \ The radiant idol can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1/day each:** [commune](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune.md),\
-      \ [dominate person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md),\
-      \ [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md),\
-      \ [mass suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-suggestion.md),\
-      \ [raise dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/raise-dead.md)"
+      \ components:\n\n**At will:** [charm person](Compendium/spells/charm-person.md),\
+      \ [cure wounds](Compendium/spells/cure-wounds.md), [disguise self](Compendium/spells/disguise-self.md),\
+      \ [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\n**1/day each:** [commune](Compendium/spells/commune.md),\
+      \ [dominate person](Compendium/spells/dominate-person.md), [insect plague](Compendium/spells/insect-plague.md),\
+      \ [mass suggestion](Compendium/spells/mass-suggestion.md), [raise dead](Compendium/spells/raise-dead.md)"
     "name": "Innate Spellcasting"
   - "desc": "A creature that starts its turn within 30 feet of the radiant idol must\
-      \ make a DC 17 Wisdom saving throw, provided the radiant idol isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).\
-      \ On a failed save, the creature is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by the radiant idol. A creature [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ in this way can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. Once it succeeds on the saving throw, a\
-      \ creature is immune to this radiant idol's Aura of False Divinity for 24 hours."
+      \ make a DC 17 Wisdom saving throw, provided the radiant idol isn't [incapacitated](Rules/conditions.md#Incapacitated).\
+      \ On a failed save, the creature is [charmed](Rules/conditions.md#Charmed) by\
+      \ the radiant idol. A creature [charmed](Rules/conditions.md#Charmed) in this\
+      \ way can repeat the saving throw at the end of each of its turns, ending the\
+      \ effect on itself on a success. Once it succeeds on the saving throw, a creature\
+      \ is immune to this radiant idol's Aura of False Divinity for 24 hours."
     "name": "Aura of False Divinity"
   - "desc": "The radiant idol has advantage on saving throws against spells and other\
       \ magical effects."
@@ -105,6 +102,6 @@ A radiant idol doesn't require food, drink, or sleep.
     "name": "Radiant Strike (1/Day)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/radiant-idol-erlw.webp"
+"image": "Compendium/bestiary/celestial/token/radiant-idol-erlw.webp"
 ```
 ^statblock

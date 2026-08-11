@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Myconid Sovereign
+- "Myconid Sovereign"
 ---
-# [Myconid Sovereign](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/myconid-sovereign.md)
+# [Myconid Sovereign](Compendium/bestiary/plant/myconid-sovereign.md)
 *Source: Monster Manual p. 232*  
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -45,8 +46,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   - !!int "15"
   - !!int "10"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
@@ -70,14 +70,13 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
       \ destroyed, and it can't be animated again in this way."
     "name": "Animating Spores (3/Day)"
   - "desc": "The myconid ejects spores at one creature it can see within 5 feet of\
-      \ it. The target must succeed on a DC 12 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ target is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ it. The target must succeed on a DC 12 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned)\
+      \ for 1 minute. The [poisoned](Rules/conditions.md#Poisoned) target is [incapacitated](Rules/conditions.md#Incapacitated)\
       \ while it hallucinates. The target can repeat the saving throw at the end of\
       \ each of its turns, ending the effect on itself on a success."
     "name": "Hallucination Spores"
   - "desc": "The myconid ejects spores at one creature it can see within 5 feet of\
-      \ it. The target must succeed on a DC 12 Constitution saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ it. The target must succeed on a DC 12 Constitution saving throw or be [stunned](Rules/conditions.md#Stunned)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Pacifying Spores"
@@ -89,7 +88,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     "name": "Rapport Spores"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/myconid-sovereign.webp"
+"image": "Compendium/bestiary/plant/token/myconid-sovereign.webp"
 ```
 ^statblock
 

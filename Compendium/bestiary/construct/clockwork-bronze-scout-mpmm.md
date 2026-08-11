@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clockwork Bronze Scout
+- "Clockwork Bronze Scout"
 ---
-# [Clockwork Bronze Scout](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/clockwork-bronze-scout-mpmm.md)
+# [Clockwork Bronze Scout](Compendium/bestiary/construct/clockwork-bronze-scout-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  
 
 A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats.
@@ -32,8 +33,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d10 | Enhancement |
 |-----------|-------------|
-| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
-| 2 | **Sensors.** The range of the clockwork's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception) if it lacks that proficiency. |
+| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](Rules/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
+| 2 | **Sensors.** The range of the clockwork's [darkvision](Rules/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](Rules/skills.md#Perception) if it lacks that proficiency. |
 | 3 | **Fortified.** The clockwork's AC increases by 2. |
 | 4 | **Increased Speed.** The clockwork's speed increases by 10 feet. |
 | 5 | **Reinforced Construction.** The clockwork has resistance to force, lightning, and thunder damage. |
@@ -48,13 +49,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](Rules/conditions.md#Blinded) until the end of its turn. |
 | 2 | **Flawed Targeting.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
 | 4 | **Imprinting Loop.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
 | 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `d6`. If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) until the end of its turn. |
+| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](Rules/conditions.md#Incapacitated) until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 
@@ -76,23 +77,19 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
   - !!int "1"
 "speed": "30 ft., burrow 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 16"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 16"
 "languages": "understands one language of its creator but can't speak"
 "cr": "1"
 "traits":
-  - "desc": "The clockwork doesn't provoke [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)\
+  - "desc": "The clockwork doesn't provoke [opportunity attacks](Rules/actions.md#Opportunity%20Attack)\
       \ when it burrows."
     "name": "Earth Armor"
   - "desc": "The clockwork has advantage on saving throws against spells and other\
@@ -111,7 +108,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/clockwork-bronze-scout-mpmm.webp"
+"image": "Compendium/bestiary/construct/token/clockwork-bronze-scout-mpmm.webp"
 ```
 ^statblock
 

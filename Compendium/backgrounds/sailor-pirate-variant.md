@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/phb
 aliases:
-- Sailor (Pirate) (Variant)
+- "Sailor (Pirate) (Variant)"
 ---
 # Sailor (Pirate) (Variant)
 *Source: Player's Handbook p. 139*  
 
 
-- **Skill Proficiencies.** [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)  
-- **Tool Proficiencies.** [Navigator's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/navigators-tools.md), vehicles (water)  
-- **Equipment.** A belaying pin ([club](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/club.md)), [silk rope (50 feet)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trinket.md) on the Trinkets table in chapter 5), a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Skill Proficiencies.** [Athletics](Rules/skills.md#Athletics), [Perception](Rules/skills.md#Perception)  
+- **Tool Proficiencies.** [Navigator's tools](Compendium/items/navigators-tools.md), vehicles (water)  
+- **Equipment.** A belaying pin ([club](Compendium/items/club.md)), [silk rope (50 feet)](Compendium/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](Compendium/items/trinket.md) on the Trinkets table in chapter 5), a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
 

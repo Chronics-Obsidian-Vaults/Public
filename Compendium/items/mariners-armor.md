@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/armor/heavy
@@ -9,7 +10,7 @@ tags:
 - source/item/rarity/uncommon
 - source/item/tier/minor
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Mariner's Armor"
 - "Mariner's Breastplate"
 - "Mariner's Chain Mail"

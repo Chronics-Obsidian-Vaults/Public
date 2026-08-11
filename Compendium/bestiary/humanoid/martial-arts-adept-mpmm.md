@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Martial Arts Adept
+- "Martial Arts Adept"
 ---
-# [Martial Arts Adept](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/martial-arts-adept-mpmm.md)
+# [Martial Arts Adept](Compendium/bestiary/humanoid/martial-arts-adept-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216*  
 
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
@@ -52,12 +53,14 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
+"gear":
+  - "[dart](Compendium/items/dart.md)"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -71,7 +74,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
       \ + 3) bludgeoning damage. Once per turn, the adept can cause one of the following\
       \ additional effects (choose one or roll a d4):\n\n- **1–2 Knock Down..** The\
-      \ target must succeed on a DC 13 Dexterity saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ target must succeed on a DC 13 Dexterity saving throw or be knocked [prone](Rules/conditions.md#Prone).\
       \  \n- **3–4 Push..** The target must succeed on a DC 13 Strength saving throw\
       \ or be pushed up to 10 feet directly away from the adept.  "
     "name": "Unarmed Strike"
@@ -87,7 +90,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/martial-arts-adept-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/martial-arts-adept-mpmm.webp"
 ```
 ^statblock
 

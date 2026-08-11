@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -18,10 +19,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre
+- "Ogre"
 ---
-# [Ogre](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/ogre.md)
-*Source: Monster Manual p. 237, Eberron: Rising from the Last War, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Ogre](Compendium/bestiary/giant/ogre.md)
+*Source: Monster Manual p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
@@ -64,7 +65,7 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "[hide armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hide-armor.md)"
+"ac_class": "[hide armor](Compendium/items/hide-armor.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -76,8 +77,10 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"gear":
+  - "[greatclub](Compendium/items/greatclub.md)"
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
@@ -89,9 +92,7 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
     "name": "Javelin"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/ogre.webp"
+"image": "Compendium/bestiary/giant/token/ogre.webp"
 ```
 ^statblock
 

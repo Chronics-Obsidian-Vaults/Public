@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/golgari-agent
@@ -25,7 +26,7 @@ classes:
 - Ranger
 - Warlock (The Archfey)
 aliases:
-- Plant Growth
+- "Plant Growth"
 level: 3
 school: transmutation
 ritual: false
@@ -53,6 +54,6 @@ You can exclude one or more areas of any size within the spell's area from being
 
 If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of Wildfire)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Druid (Circle of the Land, Forest)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md); [Warlock (The Archfey)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-archfey.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of Wildfire)](Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Druid (Circle of the Land, Forest)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md); [Warlock (The Archfey)](Compendium/lists/list-spells-classes-the-archfey.md)
 
 *Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

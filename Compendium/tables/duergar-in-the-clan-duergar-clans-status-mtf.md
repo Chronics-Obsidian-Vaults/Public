@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Duergar in the Clan; Duergar Clan's Status
+- "Duergar in the Clan; Duergar Clan's Status"
 ---
 # Duergar in the Clan; Duergar Clan's Status
 *Source: Mordenkainen's Tome of Foes p. 84* 

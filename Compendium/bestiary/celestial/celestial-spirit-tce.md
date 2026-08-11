@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Celestial Spirit
+- "Celestial Spirit"
 ---
-# [Celestial Spirit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/celestial-spirit-tce.md)
+# [Celestial Spirit](Compendium/bestiary/celestial/celestial-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 110*  
 
 ```statblock
@@ -20,6 +21,7 @@ aliases:
 "type": "celestial"
 "alignment": "Unaligned"
 "ac_class": "11 + the level of the spell (natural armor) + 2 (Defender only)"
+"hp": "40 + 10 for each spell level above 5th"
 "modifier": !!int "2"
 "stats":
   - !!int "16"
@@ -30,10 +32,8 @@ aliases:
   - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Celestial, understands the languages you speak"
 "actions":
   - "desc": "The celestial makes a number of attacks equal to half this spell's level\
@@ -52,6 +52,6 @@ aliases:
     "name": "Healing Touch (1/Day)"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/celestial-spirit-tce.webp"
+"image": "Compendium/bestiary/celestial/token/celestial-spirit-tce.webp"
 ```
 ^statblock

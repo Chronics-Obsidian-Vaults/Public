@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grung Wildling (Orange)
+- "Grung Wildling (Orange)"
 ---
-# [Grung Wildling (Orange)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/grung-wildling-orange-mpmm.md)
+# [Grung Wildling (Orange)](Compendium/bestiary/humanoid/grung-wildling-orange-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
 
 ```statblock
@@ -36,35 +37,37 @@ aliases:
 "saves":
   - "dexterity": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+2"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+  - "[shortbow](Compendium/items/shortbow.md)"
 "senses": "passive Perception 14"
 "languages": "Grung"
 "cr": "1"
 "traits":
   - "desc": "The grung can breathe air and water."
     "name": "Amphibious"
-  - "desc": "A creature [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ by a grung suffers an additional effect that depends on the grung's color.\
-      \ This effect lasts until the creature is no longer [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ by the grung. The [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ creature is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+  - "desc": "A creature [poisoned](Rules/conditions.md#Poisoned) by a grung suffers\
+      \ an additional effect that depends on the grung's color. This effect lasts\
+      \ until the creature is no longer [poisoned](Rules/conditions.md#Poisoned) by\
+      \ the grung. The [poisoned](Rules/conditions.md#Poisoned) creature is [frightened](Rules/conditions.md#Frightened)\
       \ of its allies."
     "name": "Poisonous Skin"
   - "desc": "The grung's long jump is up to 25 feet and its high jump is up to 15\
       \ feet, with or without a running start."
     "name": "Standing Leap"
   - "desc": "If the grung isn't immersed in water for at least 1 hour during a day,\
-      \ it suffers 1 level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
-      \ at the end of that day. The grung can recover from this [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
+      \ it suffers 1 level of [exhaustion](Rules/conditions.md#Exhaustion) at the\
+      \ end of that day. The grung can recover from this [exhaustion](Rules/conditions.md#Exhaustion)\
       \ only through magic or by immersing itself in water for at least 1 hour."
     "name": "Water Dependency"
 "actions":
@@ -75,10 +78,9 @@ aliases:
       \ 6 (1d6 + 3) piercing damage plus 5 (2d4) poison damage."
     "name": "Shortbow"
   - "desc": "The grung casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md)\n\
-      \n**3/day each:** [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md)\n\
-      \n**2/day:** [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](Compendium/spells/druidcraft.md)\n\
+      \n**3/day each:** [cure wounds](Compendium/spells/cure-wounds.md), [spike growth](Compendium/spells/spike-growth.md)\n\
+      \n**2/day:** [plant growth](Compendium/spells/plant-growth.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"

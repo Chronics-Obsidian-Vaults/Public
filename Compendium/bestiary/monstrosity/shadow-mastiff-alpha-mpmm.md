@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow Mastiff Alpha
+- "Shadow Mastiff Alpha"
 ---
-# [Shadow Mastiff Alpha](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/shadow-mastiff-alpha-mpmm.md)
+# [Shadow Mastiff Alpha](Compendium/bestiary/monstrosity/shadow-mastiff-alpha-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
 Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha's howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.
@@ -41,14 +42,13 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks while\
   \ in dim light or darkness"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": ""
 "cr": "3"
 "traits":
@@ -60,26 +60,26 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ a DC 13 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
   - "desc": "The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it\
-      \ must succeed on a DC 11 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of it for 1 minute. A [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. If a target's save is successful or the\
-      \ effect ends for it, the target is immune to any shadow mastiff's Terrifying\
-      \ Howl for the next 24 hours."
+      \ must succeed on a DC 11 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
+      \ of it for 1 minute. A [frightened](Rules/conditions.md#Frightened) target\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. If a target's save is successful or the effect ends\
+      \ for it, the target is immune to any shadow mastiff's Terrifying Howl for the\
+      \ next 24 hours."
     "name": "Terrifying Howl (Recharge 6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible),\
+  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](Rules/conditions.md#Invisible),\
       \ along with anything it is wearing or carrying. The invisibility lasts until\
       \ the shadow mastiff uses a bonus action to end it or until the shadow mastiff\
-      \ attacks, is in bright light, or is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ attacks, is in bright light, or is [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Shadow Blend"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/shadow-mastiff-alpha-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/shadow-mastiff-alpha-mpmm.webp"
 ```
 ^statblock
 

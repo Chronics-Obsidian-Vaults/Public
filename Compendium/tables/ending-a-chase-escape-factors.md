@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Ending a Chase; Escape Factors
+- "Ending a Chase; Escape Factors"
 ---
 # Ending a Chase; Escape Factors
 *Source: Dungeon Master's Guide p. 253* 

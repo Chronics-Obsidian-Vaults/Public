@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grimlock
+- "Grimlock"
 ---
-# [Grimlock](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/grimlock.md)
+# [Grimlock](Compendium/bestiary/humanoid/grimlock.md)
 *Source: Monster Manual p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
@@ -54,26 +55,25 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception\
-  \ 13"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft. or 10 ft. while deafened\
+  \ (blind beyond this radius), passive Perception 13"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
-  - "desc": "The grimlock can't use its blindsight while [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened)\
+  - "desc": "The grimlock can't use its blindsight while [deafened](Rules/conditions.md#Deafened)\
       \ and unable to smell."
     "name": "Blind Senses"
-  - "desc": "The grimlock has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The grimlock has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
-  - "desc": "The grimlock has advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The grimlock has advantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
@@ -82,7 +82,7 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
     "name": "Spiked Bone Club"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/grimlock.webp"
+"image": "Compendium/bestiary/humanoid/token/grimlock.webp"
 ```
 ^statblock
 

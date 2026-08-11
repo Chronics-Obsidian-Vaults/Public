@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmtcrg
 aliases:
-- Divinatory Uses
+- "Divinatory Uses"
 ---
 # Divinatory Uses
 *Source: The Deck of Many Things: Card Reference Guide, p. 6* 
@@ -50,7 +50,7 @@ Alternatively, the first card might represent a problem, the second card an obst
 
 ### Five-Card Spread
 
-![Diagram 1: Five-Card Spread](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/the-deck-of-many-things-card-reference-guide/img/five-card-spread.webp#center)
+![Diagram 1: Five-Card Spread](Compendium/books/the-deck-of-many-things-card-reference-guide/img/five-card-spread.webp#center)
 
 A five-card spread (see diagram 1) allows a question to be answered with great complexity and nuance, as the cards show multiple perspectives and weave an interconnected story, Here's an example of a five-card spread you might use:
 

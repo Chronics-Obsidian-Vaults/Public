@@ -8,8 +8,8 @@ tags:
 - source/domain/life
 - source/domain/light
 - source/domain/nature
-aliases: 
-- Eilistraee
+aliases:
+- "Eilistraee"
 ---
 # Eilistraee
 *Source: Mordenkainen's Tome of Foes p. 56* 

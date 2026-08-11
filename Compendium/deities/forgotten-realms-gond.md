@@ -7,8 +7,8 @@ tags:
 - source/deity/forgotten-realms
 - source/domain/forge
 - source/domain/knowledge
-aliases: 
-- Gond
+aliases:
+- "Gond"
 ---
 # Gond
 *Source: Player's Handbook p. 294, Xanathar's Guide to Everything p. 18. Available in the Basic Rules (2014)* 

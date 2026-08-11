@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
-aliases: 
+aliases:
 - "Robe of Useful Items"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Robe of Useful Items
 *Wondrous item, minor, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/robe-of-useful-items.webp#right)
+![](Compendium/items/img/robe-of-useful-items.webp#right)
 
 
 This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
@@ -37,14 +38,14 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
 | 23-30 | 10 gems worth 100 gp each |
 | 31-44 | Wooden ladder (24 feet long) |
-| 45-51 | A [riding horse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/riding-horse.md) with saddle bags |
+| 45-51 | A [riding horse](Compendium/bestiary/beast/riding-horse.md) with saddle bags |
 | 52-59 | Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you |
-| 60-68 | 4 [potions of healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-healing.md) |
-| 69-75 | [Rowboat](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rowboat.md) (12 feet long) |
+| 60-68 | 4 [potions of healing](Compendium/items/potion-of-healing.md) |
+| 69-75 | [Rowboat](Compendium/items/rowboat.md) (12 feet long) |
 | 76-83 | Spell scroll containing one spell of 1st to 3rd level |
-| 84-90 | 2 [mastiffs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/mastiff.md) |
+| 84-90 | 2 [mastiffs](Compendium/bestiary/beast/mastiff.md) |
 | 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |
-| 97-00 | [Portable ram](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/portable-ram.md) |
+| 97-00 | [Portable ram](Compendium/items/portable-ram.md) |
 ^patch
 
 *Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

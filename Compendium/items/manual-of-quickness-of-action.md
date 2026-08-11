@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/very-rare
 - source/item/tier/major
-aliases: 
+aliases:
 - "Manual of Quickness of Action"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Manual of Quickness of Action
 *Wondrous item, major, very rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/manual-of-quickness-of-action.webp#right)
+![](Compendium/items/img/manual-of-quickness-of-action.webp#right)
 
 - **Weight**: 5.0 lbs.
 

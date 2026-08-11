@@ -1,31 +1,32 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/14
 - source/monster/environment/underdark
 - source/monster/size/medium
 - source/monster/type/humanoid/cleric
-- source/monster/type/humanoid/elf
+- source/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow Inquisitor
+- "Drow Inquisitor"
 ---
-# [Drow Inquisitor](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/drow-inquisitor-mpmm.md)
+# [Drow Inquisitor](Compendium/bestiary/humanoid/drow-inquisitor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 102, Mordenkainen's Tome of Foes p. 184*  
 
-Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [drow matron mothers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/drow-matron-mother-mpmm.md) (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
+Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [drow matron mothers](Compendium/bestiary/humanoid/drow-matron-mother-mpmm.md) (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
 
 ```statblock
 "name": "Drow Inquisitor (MPMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "cleric, elf"
+"subtype": "cleric, Drow elf"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md)"
 "hp": !!int "149"
 "hit_dice": "23d8 + 46"
 "modifier": !!int "2"
@@ -42,29 +43,28 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
   - "wisdom": !!int "10"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+8"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 20"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 20"
 "languages": "Elvish, Undercommon"
 "cr": "14"
 "traits":
   - "desc": "The drow discerns when a creature in earshot speaks a lie in a language\
       \ the drow knows."
     "name": "Discern Lie"
-  - "desc": "The drow has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The drow makes three Death Lance attacks."
@@ -75,21 +75,15 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
       \ This reduction lasts until the target finishes a long rest. The target dies\
       \ if its hit point maximum is reduced to 0."
     "name": "Death Lance"
-  - "desc": "The drow's casts one of the following spells, requiring no material components\
+  - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 18):\n\n**At\
-      \ will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1/day each:** [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md),\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\
-      \ (self only), [silence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silence.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md),\
-      \ [true seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-seeing.md)"
+      \ will:** [dancing lights](Compendium/spells/dancing-lights.md), [detect magic](Compendium/spells/detect-magic.md),\
+      \ [message](Compendium/spells/message.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1/day each:** [clairvoyance](Compendium/spells/clairvoyance.md), [darkness](Compendium/spells/darkness.md),\
+      \ [detect thoughts](Compendium/spells/detect-thoughts.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [faerie fire](Compendium/spells/faerie-fire.md), [levitate](Compendium/spells/levitate.md)\
+      \ (self only), [silence](Compendium/spells/silence.md), [suggestion](Compendium/spells/suggestion.md),\
+      \ [true seeing](Compendium/spells/true-seeing.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The drow conjures a floating, spectral dagger within 60 feet of itself.\
@@ -102,7 +96,7 @@ Lolth's worshipers expect treachery—the Spider Queen encourages it, after all.
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/drow-inquisitor-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/drow-inquisitor-mpmm.webp"
 ```
 ^statblock
 

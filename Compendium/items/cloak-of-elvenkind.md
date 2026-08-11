@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/uncommon
 - source/item/tier/major
-aliases: 
+aliases:
 - "Cloak of Elvenkind"
 item_type: 
 item_subtype: 
@@ -15,9 +16,9 @@ attunement: required
 ---
 # Cloak of Elvenkind
 *Wondrous item, major, uncommon (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/cloak-of-elvenkind.webp#right)
+![](Compendium/items/img/cloak-of-elvenkind.webp#right)
 
 
-While you wear this cloak with its hood up, Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks made to see you have disadvantage, and you have advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
+While you wear this cloak with its hood up, Wisdom ([Perception](Rules/skills.md#Perception)) checks made to see you have disadvantage, and you have advantage on Dexterity ([Stealth](Rules/skills.md#Stealth)) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
 
 *Source: Dungeon Master's Guide p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-4
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll Witherling
+- "Gnoll Witherling"
 ---
-# [Gnoll Witherling](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/gnoll-witherling-mpmm.md)
+# [Gnoll Witherling](Compendium/bestiary/undead/gnoll-witherling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  
 
 > [!quote] A quote from Mordenkainen  
@@ -47,10 +48,8 @@ Witherlings travel with their comrades and try to kill anything in their path. T
   - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 7"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 7"
 "languages": "understands Gnoll but can't speak"
 "cr": "1/4"
 "traits":
@@ -77,7 +76,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/gnoll-witherling-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/gnoll-witherling-mpmm.webp"
 ```
 ^statblock
 

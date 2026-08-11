@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hell Hound
+- "Hell Hound"
 ---
-# [Hell Hound](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/hell-hound.md)
-*Source: Monster Manual p. 182, Explorer's Guide to Wildemount, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Hell Hound](Compendium/bestiary/fiend/hell-hound.md)
+*Source: Monster Manual p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions.
 
@@ -47,20 +48,19 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "damage_immunities": "fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "understands Infernal but can't speak it"
 "cr": "3"
 "traits":
-  - "desc": "The hound has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The hound has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The hound has advantage on an attack roll against a creature if at least\
       \ one of the hound's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
@@ -72,10 +72,7 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/hell-hound.webp"
+"image": "Compendium/bestiary/fiend/token/hell-hound.webp"
 ```
 ^statblock
 

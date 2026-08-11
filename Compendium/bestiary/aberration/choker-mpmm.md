@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Choker
+- "Choker"
 ---
-# [Choker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/choker-mpmm.md)
+# [Choker](Compendium/bestiary/aberration/choker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -46,10 +47,9 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Deep Speech"
 "cr": "1"
 "traits":
@@ -66,16 +66,16 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 5\
       \ (1d4 + 3) piercing damage. If the target is a Large or smaller creature, it\
-      \ is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 15). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-      \ and the choker can't use this tentacle on another target. The choker has two\
-      \ tentacles. If this attack is a critical hit, the target also can't breathe\
-      \ or speak until the grapple ends."
+      \ is [grappled](Rules/conditions.md#Grappled) (escape DC 15). Until this grapple\
+      \ ends, the target is [restrained](Rules/conditions.md#Restrained), and the\
+      \ choker can't use this tentacle on another target. The choker has two tentacles.\
+      \ If this attack is a critical hit, the target also can't breathe or speak until\
+      \ the grapple ends."
     "name": "Tentacle"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/choker-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/choker-mpmm.webp"
 ```
 ^statblock
 

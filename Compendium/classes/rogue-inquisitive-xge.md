@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/rogue/inquisitive
 aliases:
-- Inquisitive
+- "Inquisitive"
 ---
 # Inquisitive
 *[Rogue](./rogue.md): Roguish Archetype*  
@@ -43,34 +43,33 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Inquisitive (Level 3)
+![](Compendium/classes/img/rogue.webp#right)
 
 As an archetypal Inquisitive, you excel at rooting out secrets and unraveling mysteries. You rely on your sharp eye for detail, but also on your finely honed ability to read the words and deeds of other creatures to determine their true intent. You excel at defeating creatures that hide among and prey upon ordinary folk, and your mastery of lore and your keen deductions make you well equipped to expose and end hidden evils.
 
+## Subclass Features
+
 ### Ear for Deceit (Level 3)
 
-When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check to determine whether a creature is lying, treat a roll of 7 or lower on the `d20` as an 8.
+When you choose this archetype at 3rd level, you develop a talent for picking out lies. Whenever you make a Wisdom ([Insight](Rules/skills.md#Insight)) check to determine whether a creature is lying, treat a roll of 7 or lower on the `d20` as an 8.
 
 ### Eye for Detail (Level 3)
 
-Starting at 3rd level, you can use a bonus action to make a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check to spot a hidden creature or object or to make an Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check to uncover or decipher clues.
+Starting at 3rd level, you can use a bonus action to make a Wisdom ([Perception](Rules/skills.md#Perception)) check to spot a hidden creature or object or to make an Intelligence ([Investigation](Rules/skills.md#Investigation)) check to uncover or decipher clues.
 
 ### Insightful Fighting (Level 3)
 
-At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check against a creature you can see that isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), contested by the target's Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
+At 3rd level, you gain the ability to decipher an opponent's tactics and develop a counter to them. As a bonus action, you can make a Wisdom ([Insight](Rules/skills.md#Insight)) check against a creature you can see that isn't [incapacitated](Rules/conditions.md#Incapacitated), contested by the target's Charisma ([Deception](Rules/skills.md#Deception)) check. If you succeed, you can use your Sneak Attack against that target even if you don't have advantage on the attack roll, but not if you have disadvantage on it.
 
 This benefit lasts for 1 minute or until you successfully use this feature against a different target.
 
 ### Steady Eye (Level 9)
 
-Starting at 9th level, you have advantage on any Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) or Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check if you move no more than half your speed on the same turn.
+Starting at 9th level, you have advantage on any Wisdom ([Perception](Rules/skills.md#Perception)) or Intelligence ([Investigation](Rules/skills.md#Investigation)) check if you move no more than half your speed on the same turn.
 
 ### Unerring Eye (Level 13)
 
-Beginning at 13th level, your senses are almost impossible to foil. As an action, you sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren't [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded) or [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened). You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature.
+Beginning at 13th level, your senses are almost impossible to foil. As an action, you sense the presence of illusions, shapechangers not in their original form, and other magic designed to deceive the senses within 30 feet of you, provided you aren't [blinded](Rules/conditions.md#Blinded) or [deafened](Rules/conditions.md#Deafened). You sense that an effect is attempting to trick you, but you gain no insight into what is hidden or into its true nature.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 

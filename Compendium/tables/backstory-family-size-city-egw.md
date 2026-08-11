@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Backstory; Family Size (City)
+- "Backstory; Family Size (City)"
 ---
 # Backstory; Family Size (City)
 *Source: Explorer's Guide to Wildemount p. 191* 

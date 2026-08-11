@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Physical Characteristics; Beholder Iris Shape
+- "Physical Characteristics; Beholder Iris Shape"
 ---
 # Physical Characteristics; Beholder Iris Shape
 *Source: Volo's Guide to Monsters p. 8* 

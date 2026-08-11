@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/7
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tsucora Quori
+- "Tsucora Quori"
 ---
-# [Tsucora Quori](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/tsucora-quori-erlw.md)
+# [Tsucora Quori](Compendium/bestiary/aberration/tsucora-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 307*  
 
 Tsucora quori are nightmarish creatures. Their headless torsos are covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. They are cruel and calculating, enjoying the power they wield over others as they concoct elaborate schemes to advance their own positions and discredit their rivals.
@@ -48,29 +49,26 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "Common, Quori"
 "cr": "7"
 "traits":
   - "desc": "The quori's spellcasting ability is Charisma (spell save DC 14). It can\
       \ innately cast the following spells, requiring no components:\n\n**At will:**\
-      \ [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md)\n\
-      \n**1/day:** [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md)"
+      \ [charm person](Compendium/spells/charm-person.md)\n\n**1/day:** [fear](Compendium/spells/fear.md)"
     "name": "Innate Spellcasting (Psionics)"
 "actions":
   - "desc": "The quori makes three attacks: one pincer attack, one attack with its\
       \ claws, and one stinger attack."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
-      \ + 3) bludgeoning damage. The target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ + 3) bludgeoning damage. The target is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 14) if it is a Large or smaller creature. The quori has two pincers,\
       \ each of which can grapple one target."
     "name": "Pincer"
@@ -79,22 +77,22 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     "name": "Claws"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:*\
       \ 8 (1d10 + 3) piercing damage plus 10 (3d6) psychic damage, and the target\
-      \ must succeed on a DC 14 Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ must succeed on a DC 14 Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened)\
       \ of the quori for 1 minute. The target can repeat the saving throw at the end\
       \ of each of its turns, ending the effect on itself on a success."
     "name": "Stinger"
   - "desc": "One humanoid that the quori can see within 5 feet of it must succeed\
       \ on a DC 14 Charisma saving throw or be possessed by the quori; the quori then\
-      \ disappears, and the target is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ disappears, and the target is [incapacitated](Rules/conditions.md#Incapacitated)\
       \ and loses control of its body. The quori now controls the body but doesn't\
       \ deprive the target of awareness. The quori can't be targeted by any attack,\
       \ spell, or other effect, and it retains its alignment, Intelligence, Wisdom,\
-      \ Charisma, and immunity to being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ and [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).\
-      \ It otherwise uses the possessed target's statistics, but doesn't gain access\
-      \ to the target's knowledge, class features, or proficiencies.\n\nThe possession\
-      \ lasts until the body drops to 0 hit points, the quori ends it as a bonus action,\
-      \ or the quori is forced out by an effect like the [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md)\
+      \ Charisma, and immunity to being [charmed](Rules/conditions.md#Charmed) and\
+      \ [frightened](Rules/conditions.md#Frightened). It otherwise uses the possessed\
+      \ target's statistics, but doesn't gain access to the target's knowledge, class\
+      \ features, or proficiencies.\n\nThe possession lasts until the body drops to\
+      \ 0 hit points, the quori ends it as a bonus action, or the quori is forced\
+      \ out by an effect like the [dispel evil and good](Compendium/spells/dispel-evil-and-good.md)\
       \ spell. When the possession ends, the quori reappears in an unoccupied space\
       \ within 5 feet of the body. The target is immune to this quori's Possession\
       \ for 24 hours after succeeding on the saving throw or after the possession\
@@ -102,6 +100,6 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     "name": "Possession (Recharge 6)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/tsucora-quori-erlw.webp"
+"image": "Compendium/bestiary/aberration/token/tsucora-quori-erlw.webp"
 ```
 ^statblock

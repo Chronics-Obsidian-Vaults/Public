@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Guild Villains
+- "Guild Villains"
 ---
 # Guild Villains
 *Source: Guildmasters' Guide to Ravnica p. 123* 

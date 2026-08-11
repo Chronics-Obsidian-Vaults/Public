@@ -7,7 +7,7 @@ tags:
 - source/domain/tempest
 - source/subclass/cleric/tempest
 aliases:
-- Tempest Domain
+- "Tempest Domain"
 ---
 # Tempest Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -44,12 +44,11 @@ aliases:
 
 ^class-progression
 
+Gods whose portfolios include the Tempest domain—including Talos, Umberlee, [Kord](Compendium/deities/greyhawk-kord.md), [Zeboim](Compendium/deities/dragonlance-zeboim-phb.md), the Devourer, [Zeus](Compendium/deities/greek-zeus.md), and [Thor](Compendium/deities/norse-thor.md)—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
 
-## Class Features
+## Subclass Features
 
-### Tempest Domain (Level 1)
-
-Gods whose portfolios include the Tempest domain—including Talos, Umberlee, [Kord](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greyhawk-kord.md), [Zeboim](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/dragonlance-zeboim-phb.md), the Devourer, [Zeus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/greek-zeus.md), and [Thor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/norse-thor.md)—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
+### Domain Spells (Level 1)
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -57,11 +56,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md), [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md) |
-| 3rd | [gust of wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-of-wind.md), [shatter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shatter.md) |
-| 5th | [call lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/call-lightning.md), [sleet storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleet-storm.md) |
-| 7th | [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md), [ice storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ice-storm.md) |
-| 9th | [destructive wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/destructive-wave.md), [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md) |
+| 1st | [fog cloud](Compendium/spells/fog-cloud.md), [thunderwave](Compendium/spells/thunderwave.md) |
+| 3rd | [gust of wind](Compendium/spells/gust-of-wind.md), [shatter](Compendium/spells/shatter.md) |
+| 5th | [call lightning](Compendium/spells/call-lightning.md), [sleet storm](Compendium/spells/sleet-storm.md) |
+| 7th | [control water](Compendium/spells/control-water.md), [ice storm](Compendium/spells/ice-storm.md) |
+| 9th | [destructive wave](Compendium/spells/destructive-wave.md), [insect plague](Compendium/spells/insect-plague.md) |
 ^tempest-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -91,7 +90,7 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
-*8th-level cleric [optional feature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
+*8th-level cleric [optional feature](Rules/variant-rules/optional-class-features-tce.md), which replaces the Divine Strike feature*
 
 You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 

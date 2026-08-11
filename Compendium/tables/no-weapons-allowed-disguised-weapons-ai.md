@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- No Weapons Allowed; Disguised Weapons
+- "No Weapons Allowed; Disguised Weapons"
 ---
 # No Weapons Allowed; Disguised Weapons
 *Source: Acquisitions Incorporated p. 64* 

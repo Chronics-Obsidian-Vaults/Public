@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/1-8
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xvart Speaker
+- "Xvart Speaker"
 ---
-# [Xvart Speaker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/xvart-speaker-vgm.md)
+# [Xvart Speaker](Compendium/bestiary/humanoid/xvart-speaker-vgm.md)
 *Source: Volo's Guide to Monsters p. 200*  
 
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.
@@ -41,7 +42,7 @@ Although the initial rush of enemies against him has subsided, Raxivort knows th
 
 ## Greedy Thugs
 
-Xvarts have all of their creator's flaws and few redeeming qualities. They lack the physical equipment to reproduce, as well as the inclination to do so. They are greedy, conniving, and obsessed with the acquisition of valuables-the more ornate or bizarre, the better. They know they are flawed, and this minor amount of self-awareness only magnifies their other deficiencies . They hate almost any creature they perceive as better than they are, which includes almost anyone, but they lack the courage or wherewithal to act on their hatred most of the time. Their fear has led them to dwell either in gloomy places on the far fringes of civilized lands or in areas neglected or forgotten by mightier creatures. In other words, xvarts usually live in places where normal vermin might flourish.
+Xvarts have all of their creator's flaws and few redeeming qualities. They lack the physical equipment to reproduce, as well as the inclination to do so. They are greedy, conniving, and obsessed with the acquisition of valuables-the more ornate or bizarre, the better. They know they are flawed, and this minor amount of self-awareness only magnifies their other deficiencies. They hate almost any creature they perceive as better than they are, which includes almost anyone, but they lack the courage or wherewithal to act on their hatred most of the time. Their fear has led them to dwell either in gloomy places on the far fringes of civilized lands or in areas neglected or forgotten by mightier creatures. In other words, xvarts usually live in places where normal vermin might flourish.
 
 Despite their muddled nature, all xvarts have an unshakable devotion to Raxivort. The desire to please Raxivort weighs heavily on all their decisions. When things aren't going well for them, xvarts naturally assume that Raxivort is angry. To appease their troubled lord, they stage kidnappings. They fashion nets to capture their enemies, which are dragged back to the lair and sacrificed on a makeshift altar. Raxivort can hear their supplications, but he's too afraid to come out of hiding most of the time. Occasionally, he does appear before a tribe of worshipers as a 9-foot-tall xvart carrying an empty sack. In every such instance, Raxivort takes all of the treasure that the tribe has accumulated, stuffs it in his sack, and disappears, leaving nothing behind as compensation.
 
@@ -64,7 +65,7 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 "subtype": "xvart"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -77,19 +78,21 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 8"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+  - "[sling](Compendium/items/sling.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 8"
 "languages": "Abyssal and one additional language (usually Common or Goblin)"
 "cr": "1/8"
 "traits":
-  - "desc": "The xvart can take the Disengage action as a bonus action on each of\
-      \ its turns."
+  - "desc": "The xvart can take the [Disengage](Rules/actions.md#Disengage) action\
+      \ as a bonus action on each of its turns."
     "name": "Low Cunning"
-  - "desc": "The xvart has advantage on Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics))\
+  - "desc": "The xvart has advantage on Strength ([Athletics](Rules/skills.md#Athletics))\
       \ checks to shove a creature if at least one of the xvart's allies is within\
-      \ 5 feet of the target and the ally isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ 5 feet of the target and the ally isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Overbearing Pack"
   - "desc": "The xvart can communicate with ordinary bats and rats, as well as giant\
       \ bats and giant rats."
@@ -103,7 +106,7 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
     "name": "Sling"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/xvart-speaker-vgm.webp"
+"image": "Compendium/bestiary/humanoid/token/xvart-speaker-vgm.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Fast Franchise Generator; Headquarters Locations
+- "Fast Franchise Generator; Headquarters Locations"
 ---
 # Fast Franchise Generator; Headquarters Locations
 *Source: Acquisitions Incorporated p. 7* 

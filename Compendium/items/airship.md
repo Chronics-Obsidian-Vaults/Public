@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/none
 - source/item/vehicle/airship-air
-aliases: 
+aliases:
 - "Airship"
 item_type: 
 item_subtype: 

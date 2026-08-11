@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/tempest
 - source/domain/war
-aliases: 
-- Gruumsh
+aliases:
+- "Gruumsh"
 ---
 # Gruumsh
 *Source: Dungeon Master's Guide p. 10* 

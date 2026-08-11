@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Things Best Left Unsaid; Terrible Secrets
+- "Things Best Left Unsaid; Terrible Secrets"
 ---
 # Things Best Left Unsaid; Terrible Secrets
 *Source: Acquisitions Incorporated p. 63* 

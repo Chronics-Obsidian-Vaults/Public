@@ -1,18 +1,19 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/7
 - source/monster/environment/underdark
 - source/monster/size/medium
-- source/monster/type/humanoid/elf
+- source/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow Mage
+- "Drow Mage"
 ---
-# [Drow Mage](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/drow-mage.md)
+# [Drow Mage](Compendium/bestiary/humanoid/drow-mage.md)
 *Source: Monster Manual p. 129*  
 
 ## Drow
@@ -53,7 +54,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](Rules/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 > 
@@ -73,10 +74,10 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "name": "Drow Mage"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "45"
 "hit_dice": "10d8"
 "modifier": !!int "2"
@@ -89,60 +90,52 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 14"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 14"
 "languages": "Elvish, Undercommon"
 "cr": "7"
 "traits":
   - "desc": "The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). The drow has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [poison spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md),\
-      \ [ray of frost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-frost.md)\n\
-      \n**1st level (4 slots):** [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md),\
-      \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shield.md),\
-      \ [witch bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/witch-bolt.md)\n\
-      \n**2nd level (3 slots):** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md),\
-      \ [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md),\
-      \ [web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md)\n\
-      \n**3rd level (3 slots):** [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md)\n\
-      \n**4th level (3 slots):** [Evard's black tentacles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/evards-black-tentacles.md),\
-      \ [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md)\n\
-      \n**5th level (2 slots):** [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](Compendium/spells/mage-hand.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md), [poison spray](Compendium/spells/poison-spray.md),\
+      \ [ray of frost](Compendium/spells/ray-of-frost.md)\n\n**1st level (4 slots):**\
+      \ [mage armor](Compendium/spells/mage-armor.md), [magic missile](Compendium/spells/magic-missile.md),\
+      \ [shield](Compendium/spells/shield.md), [witch bolt](Compendium/spells/witch-bolt.md)\n\
+      \n**2nd level (3 slots):** [alter self](Compendium/spells/alter-self.md), [misty\
+      \ step](Compendium/spells/misty-step.md), [web](Compendium/spells/web.md)\n\n\
+      **3rd level (3 slots):** [fly](Compendium/spells/fly.md), [lightning bolt](Compendium/spells/lightning-bolt.md)\n\
+      \n**4th level (3 slots):** [Evard's black tentacles](Compendium/spells/evards-black-tentacles.md),\
+      \ [greater invisibility](Compendium/spells/greater-invisibility.md)\n\n**5th\
+      \ level (2 slots):** [cloudkill](Compendium/spells/cloudkill.md)"
     "name": "Spellcasting"
   - "desc": "The drow's spellcasting ability is Charisma (spell save DC 12). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\
-      \ (self only)"
+      **At will:** [dancing lights](Compendium/spells/dancing-lights.md)\n\n**1/day\
+      \ each:** [darkness](Compendium/spells/darkness.md), [faerie fire](Compendium/spells/faerie-fire.md),\
+      \ [levitate](Compendium/spells/levitate.md) (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "The drow has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
       \ - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two\
       \ hands, plus 3 (1d6) poison damage."
     "name": "Staff"
-  - "desc": "The drow magically summons a [quasit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/quasit.md),\
-      \ or attempts to summon a [shadow demon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/shadow-demon.md)\
+  - "desc": "The drow magically summons a [quasit](Compendium/bestiary/fiend/quasit.md),\
+      \ or attempts to summon a [shadow demon](Compendium/bestiary/fiend/shadow-demon.md)\
       \ with a 50 percent chance of success. The summoned demon appears in an unoccupied\
       \ space within 60 feet of its summoner, acts as an ally of its summoner, and\
       \ can't summon other demons. It remains for 10 minutes, until it or its summoner\
@@ -150,7 +143,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     "name": "Summon Demon (1/Day)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/drow-mage.webp"
+"image": "Compendium/bestiary/humanoid/token/drow-mage.webp"
 ```
 ^statblock
 

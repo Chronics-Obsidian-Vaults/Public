@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Mabar, the Endless Night; Mabar Manifest Zone Features
+- "Mabar, the Endless Night; Mabar Manifest Zone Features"
 ---
 # Mabar, the Endless Night; Mabar Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 230* 
@@ -14,7 +14,7 @@ aliases:
 
 | dice: d4 | Feature |
 |----------|---------|
-| 1 | Undead animated here have 2 extra hit points per Hit Die and make saving throws against being turned or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) with advantage. |
+| 1 | Undead animated here have 2 extra hit points per Hit Die and make saving throws against being turned or [frightened](Rules/conditions.md#Frightened) with advantage. |
 | 2 | Vegetation here is sour and stunted, animals are stillborn or deformed, and a malaise hangs in the air. |
 | 3 | On nights during the month of Sypheros, when the Shadow Moon is dominant in the sky, horrific monsters stalk the area, prompting residents to leave offerings outside their doors to ward off the evil. |
 | 4 | The radius of any light source in the zone is halved, and saving throws against necromancy spells are made with disadvantage in the zone. |

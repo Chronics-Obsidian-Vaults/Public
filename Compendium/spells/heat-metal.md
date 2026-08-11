@@ -1,23 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/izzet-engineer
-- source/spell/class/artificer
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/level/2nd-level
-- source/spell/reward/purphoross-votary
 - source/spell/school/transmutation
 - source/spell/subclass/forge-domain
 classes:
-- Artificer
 - Bard (Magical Secrets)
 - Cleric (Forge Domain)
 - Druid
 aliases:
-- Heat Metal
+- "Heat Metal"
 level: 2
 school: transmutation
 ritual: false
@@ -43,6 +41,6 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `1d8` for each slot level above 2nd.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](Compendium/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE"); [Druid](Compendium/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

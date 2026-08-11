@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/fighter/arcane-archer
 aliases:
-- Arcane Archer
+- "Arcane Archer"
 ---
 # Arcane Archer
 *[Fighter](./fighter.md): Martial Archetype*  
@@ -43,6 +43,7 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/fighter.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
@@ -52,21 +53,19 @@ aliases:
 > 
 > So there are different names for different sorts of people who swing swords? Why? Let me try: big sword swinger and tiny sword swinger. No, that sounds like it's the size of the sword that matters. How about: big meat bag with a sword and little meat bag with a sword!
 
-## Class Features
-
-### Arcane Archer (Level 3)
-
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of the most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.
+
+## Subclass Features
 
 ### Arcane Archer Lore (Level 3)
 
-At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana) or the [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature) skill, and you choose to learn either the [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md) or the [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md) cantrip.
+At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [Arcana](Rules/skills.md#Arcana) or the [Nature](Rules/skills.md#Nature) skill, and you choose to learn either the [prestidigitation](Compendium/spells/prestidigitation.md) or the [druidcraft](Compendium/spells/druidcraft.md) cantrip.
 
 ### Arcane Shot (Level 3)
 
 At 3rd level, you learn to unleash special magical effects with some of your shots. When you gain this feature, you learn two Arcane Shot options of your choice (see "Arcane Shot Options" below).
 
-Once per turn when you fire an arrow from a shortbow or longbow as part of the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn't involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.
+Once per turn when you fire an arrow from a shortbow or longbow as part of the [Attack](Rules/actions.md#Attack) action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn't involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.
 
 You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.
 
@@ -77,6 +76,17 @@ The Arcane Shot feature lets you choose options for it at certain levels. The op
 If an option requires a saving throw, your Arcane Shot save DC is calculated as follows:
 
 <span class='abilityDc'>**Arcane Shot save DC**: your proficiency bonus + your Intelligence</span>
+
+Options (choose 2):
+
+- [Banishing Arrow](Compendium/optional-features/banishing-arrow-xge.md)  
+- [Beguiling Arrow](Compendium/optional-features/beguiling-arrow-xge.md)  
+- [Bursting Arrow](Compendium/optional-features/bursting-arrow-xge.md)  
+- [Enfeebling Arrow](Compendium/optional-features/enfeebling-arrow-xge.md)  
+- [Grasping Arrow](Compendium/optional-features/grasping-arrow-xge.md)  
+- [Piercing Arrow](Compendium/optional-features/piercing-arrow-xge.md)  
+- [Seeking Arrow](Compendium/optional-features/seeking-arrow-xge.md)  
+- [Shadow Arrow](Compendium/optional-features/shadow-arrow-xge.md)  
 
 ### Magic Arrow (Level 7)
 
@@ -109,5 +119,5 @@ You gain an additional Arcane Shot option of your choice when you reach 18th lev
 ## Optional Features
 
 > [!example]- Optional Features: Arcane Shot
-> ![Arcane Shot](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-as.md#Arcane%20Shot)
+> ![Arcane Shot](Compendium/lists/list-optfeaturetype-as.md#Arcane%20Shot)
 ^list-optfeature-as

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Frog
+- "Giant Frog"
 ---
-# [Giant Frog](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-frog.md)
-*Source: Monster Manual p. 325, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Frog](Compendium/bestiary/beast/giant-frog.md)
+*Source: Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Frog"
@@ -34,12 +35,11 @@ aliases:
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 12"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 12"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -50,24 +50,22 @@ aliases:
     "name": "Standing Leap"
 "actions":
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) piercing damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 11). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ + 1) piercing damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 11). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the frog can't bite another target."
     "name": "Bite"
   - "desc": "The frog makes one bite attack against a Small or smaller target it is\
       \ grappling. If the attack hits, the target is swallowed, and the grapple ends.\
-      \ The swallowed target is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ The swallowed target is [blinded](Rules/conditions.md#Blinded) and [restrained](Rules/conditions.md#Restrained),\
       \ it has total cover against attacks and other effects outside the frog, and\
       \ it takes 5 (2d4) acid damage at the start of each of the frog's turns. The\
       \ frog can have only one target swallowed at a time. If the frog dies, a swallowed\
-      \ creature is no longer [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by it and can escape from the corpse using 5 feet of movement, exiting [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ creature is no longer [restrained](Rules/conditions.md#Restrained) by it and\
+      \ can escape from the corpse using 5 feet of movement, exiting [prone](Rules/conditions.md#Prone)."
     "name": "Swallow"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-frog.webp"
+"image": "Compendium/bestiary/beast/token/giant-frog.webp"
 ```
 ^statblock
 

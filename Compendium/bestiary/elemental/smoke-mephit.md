@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Smoke Mephit
+- "Smoke Mephit"
 ---
-# [Smoke Mephit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/smoke-mephit.md)
+# [Smoke Mephit](Compendium/bestiary/elemental/smoke-mephit.md)
 *Source: Monster Manual p. 217*  
 
 ## Mephits
@@ -47,18 +48,17 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Auran, Ignan"
 "cr": "1/4"
 "traits":
-  - "desc": "The mephit can innately cast [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
+  - "desc": "The mephit can innately cast [dancing lights](Compendium/spells/dancing-lights.md),\
       \ requiring no material components. Its innate spellcasting ability is Charisma.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "When the mephit dies, it leaves behind a cloud of smoke that fills a\
@@ -70,12 +70,12 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
       \ (1d4 + 2) slashing damage."
     "name": "Claws"
   - "desc": "The mephit exhales a 15-foot cone of smoldering ash. Each creature in\
-      \ that area must succeed on a DC 10 Dexterity saving throw or be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ that area must succeed on a DC 10 Dexterity saving throw or be [blinded](Rules/conditions.md#Blinded)\
       \ until the end of the mephit's next turn."
     "name": "Cinder Breath (Recharge 6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/smoke-mephit.webp"
+"image": "Compendium/bestiary/elemental/token/smoke-mephit.webp"
 ```
 ^statblock
 

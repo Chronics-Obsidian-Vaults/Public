@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/subclass/warlock/genie
 aliases:
-- The Genie
+- "The Genie"
 ---
 # The Genie
 *[Warlock](./warlock.md): Otherworldly Patron*  
@@ -43,10 +43,7 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### The Genie (Level 1)
+![](Compendium/classes/img/genie-warlock.webp#right)
 
 You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.
 
@@ -56,14 +53,15 @@ You choose your patron's kind or determine it randomly, using the Genie Kind tab
 
 | dice: d4 | Kind | Element |
 |----------|------|---------|
-| 1 | [Dao](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/dao.md) | Earth |
-| 2 | [Djinni](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/djinni.md) | Air |
-| 3 | [Efreeti](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/efreeti.md) | Fire |
-| 4 | [Marid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/marid.md) | Water |
+| 1 | [Dao](Compendium/bestiary/elemental/dao.md) | Earth |
+| 2 | [Djinni](Compendium/bestiary/elemental/djinni.md) | Air |
+| 3 | [Efreeti](Compendium/bestiary/elemental/efreeti.md) | Fire |
+| 4 | [Marid](Compendium/bestiary/elemental/marid.md) | Water |
 ^genie-kind
 
-#### Expanded Spell List
-_Source: Tasha's Cauldron of Everything_
+## Subclass Features
+
+### Expanded Spell List (Level 1)
 
 *1st-level Genie feature*
 
@@ -73,12 +71,12 @@ The Genie lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Genie Spells | Dao Spells | Djinni Spells | Efreeti Spells | Marid Spells |
 |-------------|--------------|------------|---------------|----------------|--------------|
-| 1st | [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md) | [sanctuary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sanctuary.md) | [thunderwave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thunderwave.md) | [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md) | [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md) |
-| 2nd | [phantasmal force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-force.md) | [spike growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spike-growth.md) | [gust of wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-of-wind.md) | [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md) | [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md) |
-| 3rd | [create food and water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-food-and-water.md) | [meld into stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/meld-into-stone.md) | [wind wall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wind-wall.md) | [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) | [sleet storm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleet-storm.md) |
-| 4th | [phantasmal killer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-killer.md) | [stone shape](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stone-shape.md) | [greater invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-invisibility.md) | [fire shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-shield.md) | [control water](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/control-water.md) |
-| 5th | [creation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/creation.md) | [wall of stone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-stone.md) | [seeming](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/seeming.md) | [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md) | [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md) |
-| 9th | [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) | — | — | — | — |
+| 1st | [detect evil and good](Compendium/spells/detect-evil-and-good.md) | [sanctuary](Compendium/spells/sanctuary.md) | [thunderwave](Compendium/spells/thunderwave.md) | [burning hands](Compendium/spells/burning-hands.md) | [fog cloud](Compendium/spells/fog-cloud.md) |
+| 2nd | [phantasmal force](Compendium/spells/phantasmal-force.md) | [spike growth](Compendium/spells/spike-growth.md) | [gust of wind](Compendium/spells/gust-of-wind.md) | [scorching ray](Compendium/spells/scorching-ray.md) | [blur](Compendium/spells/blur.md) |
+| 3rd | [create food and water](Compendium/spells/create-food-and-water.md) | [meld into stone](Compendium/spells/meld-into-stone.md) | [wind wall](Compendium/spells/wind-wall.md) | [fireball](Compendium/spells/fireball.md) | [sleet storm](Compendium/spells/sleet-storm.md) |
+| 4th | [phantasmal killer](Compendium/spells/phantasmal-killer.md) | [stone shape](Compendium/spells/stone-shape.md) | [greater invisibility](Compendium/spells/greater-invisibility.md) | [fire shield](Compendium/spells/fire-shield.md) | [control water](Compendium/spells/control-water.md) |
+| 5th | [creation](Compendium/spells/creation.md) | [wall of stone](Compendium/spells/wall-of-stone.md) | [seeming](Compendium/spells/seeming.md) | [flame strike](Compendium/spells/flame-strike.md) | [cone of cold](Compendium/spells/cone-of-cold.md) |
+| 9th | [wish](Compendium/spells/wish.md) | — | — | — | — |
 ^genie-expanded-spells
 
 ### Genie's Vessel (Level 1)
@@ -101,12 +99,11 @@ Your patron gifts you a magical vessel that grants you a measure of the genie's 
 
 While you are touching the vessel, you can use it in the following ways:
 
+Options:
+
 - **Bottled Respite**  
-
     As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a long rest.  
-
 - **Genie's Wrath**  
-
     Once during each of your turns when you hit with an attack roll, you can deal extra damage to the target equal to your proficiency bonus. The type of this damage is determined by your patron: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).  
 
 The vessel's AC equals your spell save DC. Its hit points equal your warlock level plus your proficiency bonus, and it is immune to poison and psychic damage.

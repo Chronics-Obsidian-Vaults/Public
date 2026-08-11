@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Magmin
+- "Magmin"
 ---
-# [Magmin](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/magmin.md)
+# [Magmin](Compendium/bestiary/elemental/magmin.md)
 *Source: Monster Manual p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
@@ -46,8 +47,7 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Ignan"
 "cr": "1/2"
 "traits":
@@ -69,6 +69,6 @@ If it has the opportunity while in service to its master, a magmin seeks out are
     "name": "Touch"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/magmin.webp"
+"image": "Compendium/bestiary/elemental/token/magmin.webp"
 ```
 ^statblock

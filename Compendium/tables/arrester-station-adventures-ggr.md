@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Arrester Station Adventures
+- "Arrester Station Adventures"
 ---
 # Arrester Station Adventures
 *Source: Guildmasters' Guide to Ravnica p. 129* 

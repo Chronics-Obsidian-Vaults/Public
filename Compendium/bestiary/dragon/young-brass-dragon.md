@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Brass Dragon
+- "Young Brass Dragon"
 ---
-# [Young Brass Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/young-brass-dragon.md)
+# [Young Brass Dragon](Compendium/bestiary/dragon/young-brass-dragon.md)
 *Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -105,15 +106,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "3"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "fire"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "6"
@@ -131,13 +131,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire\
       \ damage on a failed save, or half as much damage on a successful one.  \n-\
       \ **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature\
-      \ in that area must succeed on a DC 14 Constitution saving throw or fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
+      \ in that area must succeed on a DC 14 Constitution saving throw or fall [unconscious](Rules/conditions.md#Unconscious)\
       \ for 5 minutes. This effect ends for a creature if the creature takes damage\
       \ or someone uses an action to wake it.  "
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/young-brass-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/young-brass-dragon.webp"
 ```
 ^statblock
 

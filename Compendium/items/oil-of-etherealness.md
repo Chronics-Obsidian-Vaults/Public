@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/minor
 - source/item/wondrous/potion
-aliases: 
+aliases:
 - "Oil of Etherealness"
 item_type: wondrous
 item_subtype: potion
@@ -18,6 +19,6 @@ attunement: none
 
 
 
-Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the [etherealness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/etherealness.md) spell for 1 hour.
+Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the [etherealness](Compendium/spells/etherealness.md) spell for 1 hour.
 
 *Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

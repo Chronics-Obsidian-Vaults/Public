@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Coin of Decisionry
+- "Coin of Decisionry"
 ---
 # Coin of Decisionry
 *Source: Acquisitions Incorporated p. 22* 

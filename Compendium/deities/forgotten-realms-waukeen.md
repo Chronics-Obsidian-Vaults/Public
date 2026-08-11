@@ -7,8 +7,8 @@ tags:
 - source/deity/forgotten-realms
 - source/domain/knowledge
 - source/domain/trickery
-aliases: 
-- Waukeen
+aliases:
+- "Waukeen"
 ---
 # Waukeen
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

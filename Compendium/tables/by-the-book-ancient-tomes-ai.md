@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- By the Book; Ancient Tomes
+- "By the Book; Ancient Tomes"
 ---
 # By the Book; Ancient Tomes
 *Source: Acquisitions Incorporated p. 61* 

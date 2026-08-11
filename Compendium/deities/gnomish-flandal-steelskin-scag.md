@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/gnomish
 - source/domain/knowledge
-aliases: 
-- Flandal Steelskin
+aliases:
+- "Flandal Steelskin"
 ---
 # Flandal Steelskin
 *Source: Sword Coast Adventurer's Guide p. 24* 

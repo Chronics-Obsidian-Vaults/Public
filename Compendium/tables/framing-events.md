@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Framing Events
+- "Framing Events"
 ---
 # Framing Events
 *Source: Dungeon Master's Guide p. 79* 

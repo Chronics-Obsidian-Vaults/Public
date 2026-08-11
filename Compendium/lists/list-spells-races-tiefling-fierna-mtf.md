@@ -5,18 +5,18 @@ cssclasses:
 tags:
 - source/spell/list/subrace/tiefling-fierna
 aliases:
-- Spells for Tiefling (Fierna)
+- "Spells for Tiefling (Fierna)"
 ---
 # Spells for Tiefling (Fierna)
 
 ## Cantrip
 
-- [Friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md "PHB") as 2nd-level, at class level 3
+- [Friends](Compendium/spells/friends.md "PHB") as cantrip
 
 ## 1st Level
 
-- [Charm Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md "PHB") as 2nd-level, at class level 3
+- [Charm Person](Compendium/spells/charm-person.md "PHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md "PHB") as 2nd-level, at class level 3
+- [Suggestion](Compendium/spells/suggestion.md "PHB") at class level 5

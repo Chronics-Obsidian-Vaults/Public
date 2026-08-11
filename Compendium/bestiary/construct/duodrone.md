@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duodrone
+- "Duodrone"
 ---
-# [Duodrone](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/duodrone.md)
+# [Duodrone](Compendium/bestiary/construct/duodrone.md)
 *Source: Monster Manual p. 225*  
 
 The blocky duodrones supervise units of monodrones and can perform up to two tasks at a time.
@@ -66,8 +67,9 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   - !!int "10"
   - !!int "7"
 "speed": "30 ft."
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 10"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/4"
 "traits":
@@ -88,6 +90,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
     "name": "Javelin"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/duodrone.webp"
+"image": "Compendium/bestiary/construct/token/duodrone.webp"
 ```
 ^statblock

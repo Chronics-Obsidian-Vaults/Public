@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1
@@ -14,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Scale Sorcerer
+- "Kobold Scale Sorcerer"
 ---
-# [Kobold Scale Sorcerer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/kobold-scale-sorcerer-mpmm.md)
+# [Kobold Scale Sorcerer](Compendium/bestiary/humanoid/kobold-scale-sorcerer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167*  
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
@@ -42,22 +43,23 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+2"
-  - "name": "[Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)"
+  - "name": "[Medicine](Rules/skills.md#Medicine)"
     "desc": "+1"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 9"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 9"
 "languages": "Common, Draconic"
 "cr": "1"
 "traits":
   - "desc": "The kobold has advantage on an attack roll against a creature if at least\
       \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The kobold makes two Dagger or Chromatic Bolt attacks. It can replace\
@@ -72,16 +74,14 @@ A scale sorcerer who resides in or near a dragon's lair may serve as that dragon
     "name": "Chromatic Bolt"
   - "desc": "The kobold casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\n**At\
-      \ will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**2/day each:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)"
+      \ will:** [mage hand](Compendium/spells/mage-hand.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**2/day each:** [charm person](Compendium/spells/charm-person.md), [fog cloud](Compendium/spells/fog-cloud.md),\
+      \ [levitate](Compendium/spells/levitate.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/kobold-scale-sorcerer-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/kobold-scale-sorcerer-mpmm.webp"
 ```
 ^statblock
 

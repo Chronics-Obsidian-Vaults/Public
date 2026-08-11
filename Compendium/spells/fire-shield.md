@@ -1,24 +1,22 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/4th-level
 - source/spell/school/evocation
 - source/spell/subclass/arcane-trickster
-- source/spell/subclass/armorer
-- source/spell/subclass/battle-smith
 - source/spell/subclass/circle-of-wildfire
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/the-fiend
-- source/spell/subclass/the-genie/efreeti
+- source/spell/subclass/the-genie
 classes:
-- Artificer (Armorer)
-- Artificer (Battle Smith)
 - Bard (Magical Secrets)
 - Druid
 - Druid (Circle of Wildfire)
@@ -26,10 +24,10 @@ classes:
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Warlock (The Fiend)
-- Warlock (The Genie, Efreeti)
+- Warlock (The Genie)
 - Wizard
 aliases:
-- Fire Shield
+- "Fire Shield"
 level: 4
 school: evocation
 ritual: false
@@ -55,6 +53,6 @@ The flames provide you with a warm shield or a chill shield, as you choose. The 
 
 In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `2d8` fire damage from a warm shield, or `2d8` cold damage from a cold shield.
 
-**Classes**: [Artificer (Armorer)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE"); [Artificer (Battle Smith)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of Wildfire)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Fiend)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-fiend.md); [Warlock (The Genie, Efreeti)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid (Circle of Wildfire)](Compendium/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE"); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Fiend)](Compendium/lists/list-spells-classes-the-fiend.md); [Warlock (The Genie)](Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Orzhov Representative
+- "Orzhov Representative"
 ---
 # Orzhov Representative
 *Source: Guildmasters' Guide to Ravnica p. 72*  
 
 
-- **Skill Proficiencies.** [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)  
+- **Skill Proficiencies.** [Intimidation](Rules/skills.md#Intimidation), [Religion](Rules/skills.md#Religion)  
 - **Languages.** Two of your choice  
-- **Equipment.** An Orzhov insignia, a foot-long chain made of ten gold coins, vestments, a set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 1 pp (an Orzhov-minted 10-zino coin)  
+- **Equipment.** An Orzhov insignia, a foot-long chain made of ten gold coins, vestments, a set of [fine clothes](Compendium/items/fine-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 1 pp (an Orzhov-minted 10-zino coin)  
 
 The prospect of immense wealth is the promise of membership in the Orzhov Syndicate. All of the guild's endeavors channel wealth from Ravnican society into the ranks of the Orzhov—and concentrates the spoils at the top of the hierarchy. As a functionary in that system, your best hope is to claim as much as possible of the money that passes through your hands on its way up, so that you can work your way into a more prominent position.
 
@@ -33,12 +34,12 @@ For you, the spells on the Orzhov Guild Spells table are added to the spell list
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md), [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md) |
-| 1st | [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md), [illusory script](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/illusory-script.md) |
-| 2nd | [enthrall](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/enthrall.md), [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md), [zone of truth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/zone-of-truth.md) |
-| 3rd | [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md), [speak with dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md), [spirit guardians](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spirit-guardians.md) |
-| 4th | [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md), [death ward](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/death-ward.md), [Leomund's secret chest](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/leomunds-secret-chest.md) |
-| 5th | [geas](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/geas.md) |
+| Cantrip | [friends](Compendium/spells/friends.md), [guidance](Compendium/spells/guidance.md) |
+| 1st | [command](Compendium/spells/command.md), [illusory script](Compendium/spells/illusory-script.md) |
+| 2nd | [enthrall](Compendium/spells/enthrall.md), [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement.md), [zone of truth](Compendium/spells/zone-of-truth.md) |
+| 3rd | [bestow curse](Compendium/spells/bestow-curse.md), [speak with dead](Compendium/spells/speak-with-dead.md), [spirit guardians](Compendium/spells/spirit-guardians.md) |
+| 4th | [blight](Compendium/spells/blight.md), [death ward](Compendium/spells/death-ward.md), [Leomund's secret chest](Compendium/spells/leomunds-secret-chest.md) |
+| 5th | [geas](Compendium/spells/geas.md) |
 ^orzhov-guild-spells
 
 Your magic tends to manifest as swirling shadows, brilliant light, or sometimes the momentary appearance of shadowy spirit forms. Your spells might draw the blood of your enemies, or even directly touch their souls.

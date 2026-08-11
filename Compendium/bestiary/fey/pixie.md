@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pixie
+- "Pixie"
 ---
-# [Pixie](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/pixie.md)
-*Source: Monster Manual p. 253, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, The Book of Many Things*  
+# [Pixie](Compendium/bestiary/fey/pixie.md)
+*Source: Monster Manual p. 253*  
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
 
@@ -62,9 +63,9 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
   - !!int "15"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "senses": "passive Perception 14"
 "languages": "Sylvan"
@@ -72,34 +73,26 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 "traits":
   - "desc": "The pixie's innate spellcasting ability is Charisma (spell save DC 12).\
       \ It can innately cast the following spells, requiring only its pixie dust as\
-      \ a component:\n\n**At will:** [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md)\n\
-      \n**1/day each:** [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md),\
-      \ [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md),\
-      \ [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md),\
-      \ [fly](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fly.md),\
-      \ [phantasmal force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-force.md),\
-      \ [polymorph](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/polymorph.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md)"
+      \ a component:\n\n**At will:** [druidcraft](Compendium/spells/druidcraft.md)\n\
+      \n**1/day each:** [confusion](Compendium/spells/confusion.md), [dancing lights](Compendium/spells/dancing-lights.md),\
+      \ [detect evil and good](Compendium/spells/detect-evil-and-good.md), [detect\
+      \ thoughts](Compendium/spells/detect-thoughts.md), [dispel magic](Compendium/spells/dispel-magic.md),\
+      \ [entangle](Compendium/spells/entangle.md), [fly](Compendium/spells/fly.md),\
+      \ [phantasmal force](Compendium/spells/phantasmal-force.md), [polymorph](Compendium/spells/polymorph.md),\
+      \ [sleep](Compendium/spells/sleep.md)"
     "name": "Innate Spellcasting"
   - "desc": "The pixie has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "The pixie magically turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ until its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ ends (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). Any equipment the pixie wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The pixie magically turns [invisible](Rules/conditions.md#Invisible)\
+      \ until its [concentration](Rules/conditions.md#Concentration) ends (as if [concentrating](Rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the pixie wears or carries is [invisible](Rules/conditions.md#Invisible)\
       \ with it."
     "name": "Superior Invisibility"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/pixie.webp"
+"image": "Compendium/bestiary/fey/token/pixie.webp"
 ```
 ^statblock
 

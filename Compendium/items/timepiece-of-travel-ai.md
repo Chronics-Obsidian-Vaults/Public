@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Timepiece of Travel"
 item_type: 
 item_subtype: 
@@ -17,7 +18,7 @@ attunement: required
 
 
 
-While attuned to this device, you have a +1 bonus to Dexterity saving throws and you always know which way is north. Additionally, you can cast the [longstrider](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/longstrider.md) spell on yourself at will.
+While attuned to this device, you have a +1 bonus to Dexterity saving throws and you always know which way is north. Additionally, you can cast the [longstrider](Compendium/spells/longstrider.md) spell on yourself at will.
 
 ## Turn-by-Turn Directions
 
@@ -27,10 +28,10 @@ The timepiece is of no use for reaching locations that are wholly secret or not 
 
 ## Get Away From It All
 
-As an action, you can cast the [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md) spell. Once you use this feature of the timepiece of travel, it cannot be used again until the next dawn.
+As an action, you can cast the [teleport](Compendium/spells/teleport.md) spell. Once you use this feature of the timepiece of travel, it cannot be used again until the next dawn.
 
 ## Part of a Whole
 
-While this component is not installed in the [Orrery of the Wanderer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/orrery-of-the-wanderer-ai.md), its magic might function sporadically or with unpredictable side effects, as determined by the DM.
+While this component is not installed in the [Orrery of the Wanderer](Compendium/items/orrery-of-the-wanderer-ai.md), its magic might function sporadically or with unpredictable side effects, as determined by the DM.
 
 *Source: Acquisitions Incorporated p. 221*

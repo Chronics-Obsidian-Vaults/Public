@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Chapter 4: The Orrery of the Wanderer
+- "Chapter 4: The Orrery of the Wanderer"
 ---
 # Chapter 4: The Orrery of the Wanderer
 *Source: Acquisitions Incorporated, p. 79* 

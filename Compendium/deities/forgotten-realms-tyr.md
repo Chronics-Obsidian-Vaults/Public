@@ -7,8 +7,8 @@ tags:
 - source/deity/forgotten-realms
 - source/domain/order
 - source/domain/war
-aliases: 
-- Tyr
+aliases:
+- "Tyr"
 ---
 # Tyr
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

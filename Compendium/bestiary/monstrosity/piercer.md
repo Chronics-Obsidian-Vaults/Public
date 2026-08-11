@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Piercer
+- "Piercer"
 ---
-# [Piercer](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/piercer.md)
+# [Piercer](Compendium/bestiary/monstrosity/piercer.md)
 *Source: Monster Manual p. 252*  
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
@@ -44,10 +45,9 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
   - !!int "3"
 "speed": "5 ft., climb 5 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
@@ -65,7 +65,7 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
     "name": "Drop"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/piercer.webp"
+"image": "Compendium/bestiary/monstrosity/token/piercer.webp"
 ```
 ^statblock
 

@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/life
 - source/domain/nature
-aliases: 
-- Elebrin Liothiel
+aliases:
+- "Elebrin Liothiel"
 ---
 # Elebrin Liothiel
 *Source: Mordenkainen's Tome of Foes p. 43* 

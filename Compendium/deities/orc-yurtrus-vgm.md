@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/vgm
 - source/deity/orc
 - source/domain/death
-aliases: 
-- Yurtrus
+aliases:
+- "Yurtrus"
 ---
 # Yurtrus
 *Source: Volo's Guide to Monsters p. 84* 

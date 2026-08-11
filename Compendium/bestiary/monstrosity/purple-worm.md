@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/15
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Purple Worm
+- "Purple Worm"
 ---
-# [Purple Worm](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/purple-worm.md)
-*Source: Monster Manual p. 255, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Purple Worm](Compendium/bestiary/monstrosity/purple-worm.md)
+*Source: Monster Manual p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The massive burrowing monster known as the purple worm terrorizes the creatures of the Underdark as it chews through solid rock in pursuit of prey. A dimwitted, ravenous force of nature, this creature regards anything it encounters as food.
 
@@ -51,8 +52,8 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
 "saves":
   - "constitution": !!int "11"
   - "wisdom": !!int "4"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., tremorsense 60 ft., passive Perception 9"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., tremorsense 60 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "15"
 "traits":
@@ -65,17 +66,15 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
   - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 22\
       \ (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it\
       \ must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm.\
-      \ A swallowed creature is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ A swallowed creature is [blinded](Rules/conditions.md#Blinded) and [restrained](Rules/conditions.md#Restrained),\
       \ it has total cover against attacks and other effects outside the worm, and\
       \ it takes 21 (6d6) acid damage at the start of each of the worm's turns.\n\n\
       If the worm takes 30 damage or more on a single turn from a creature inside\
       \ it, the worm must succeed on a DC 21 Constitution saving throw at the end\
-      \ of that turn or regurgitate all swallowed creatures, which fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ of that turn or regurgitate all swallowed creatures, which fall [prone](Rules/conditions.md#Prone)\
       \ in a space within 10 feet of the worm. If the worm dies, a swallowed creature\
-      \ is no longer [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by it and can escape from the corpse by using 20 feet of movement, exiting\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ is no longer [restrained](Rules/conditions.md#Restrained) by it and can escape\
+      \ from the corpse by using 20 feet of movement, exiting [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one creature. *Hit:*\
       \ 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution\
@@ -84,8 +83,7 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
     "name": "Tail Stinger"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/purple-worm.webp"
+"image": "Compendium/bestiary/monstrosity/token/purple-worm.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Figuring Out Alien Technology
+- "Figuring Out Alien Technology"
 ---
 # Figuring Out Alien Technology
 *Source: Dungeon Master's Guide p. 268* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1-2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Winged Kraul Warrior
+- "Winged Kraul Warrior"
 ---
-# [Winged Kraul Warrior](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/winged-kraul-warrior-ggr.md)
+# [Winged Kraul Warrior](Compendium/bestiary/humanoid/winged-kraul-warrior-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 213*  
 
 ```statblock
@@ -33,18 +34,19 @@ aliases:
   - !!int "11"
   - !!int "8"
 "speed": "30 ft., climb 30 ft., fly 40 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Kraul, understands Common but can't speak it"
 "cr": "1/2"
 "traits":
-  - "desc": "The kraul is immune to the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ and [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ conditions while within 30 feet of at least one other kraul."
+  - "desc": "The kraul is immune to the [charmed](Rules/conditions.md#Charmed) and\
+      \ [frightened](Rules/conditions.md#Frightened) conditions while within 30 feet\
+      \ of at least one other kraul."
     "name": "Hive Mind"
   - "desc": "The kraul has advantage on an attack roll against a creature if at least\
       \ one of the kraul's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The kraul can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."

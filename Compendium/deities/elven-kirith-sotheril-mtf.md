@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/knowledge
 - source/domain/trickery
-aliases: 
-- Kirith Sotheril
+aliases:
+- "Kirith Sotheril"
 ---
 # Kirith Sotheril
 *Source: Mordenkainen's Tome of Foes p. 43* 

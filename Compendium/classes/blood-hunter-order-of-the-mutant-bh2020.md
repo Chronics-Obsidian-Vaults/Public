@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bh2020
 - source/subclass/blood-hunter/mutant
 aliases:
-- Order of the Mutant
+- "Order of the Mutant"
 ---
 # Order of the Mutant
 *[Blood Hunter](./blood-hunter-bh2020.md): Blood Hunter Order*  
@@ -43,16 +43,13 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Order of the Mutant (Level 3)
-
 The process of the Hunter's Bane is a painful, scarring, and sometimes fatal experience. Those that survive find themselves irrevocably changed, enhanced. Some found this experience exalting, embracing the ability to alter one's own physiology through a combination of hemocraft and corrupted alchemy. Over generations of experimentation, a splinter order of blood hunters began to emerge, one that focused on brewing toxic elixirs to modify their capabilities in battle, altering their blood and, overtime, become something beyond what they once were. They called themselves the Order of the Mutant. Researching their targets to know their strengths and weaknesses, these blood hunters can alter their biology to be best prepared for the coming conflict.
+
+## Subclass Features
 
 ### Formulas (Level 3)
 
-You begin to uncover forbidden alchemical formulas that temporarily alter your mental and physical abilities. Beginning at 3rd level, you choose to learn four mutagen formulas. Your [formula options](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-mutagen.md) are detailed at the end of this order description. You gain an additional formula at 7th level, 11th level, 15th level, and 18th level. Additionally, when you gain a new mutagen formula, you can choose one of the formulas you already know and replace it with a new mutagen formula.
+You begin to uncover forbidden alchemical formulas that temporarily alter your mental and physical abilities. Beginning at 3rd level, you choose to learn four mutagen formulas. Your [formula options](Compendium/lists/list-optfeaturetype-mutagen.md) are detailed at the end of this order description. You gain an additional formula at 7th level, 11th level, 15th level, and 18th level. Additionally, when you gain a new mutagen formula, you can choose one of the formulas you already know and replace it with a new mutagen formula.
 
 ### Mutagencraft (Level 3)
 
@@ -66,85 +63,45 @@ Mutagens are designed for your biology and have no effect on other creatures. Th
 
 These mutagens are presented in alphabetical order. You can learn a mutagen at the same time you meet its prerequisites.
 
-#### Aether (11th Level Required)
+**Aether (11th Level Required).** You gain a flying speed of 20 feet for 1 hour. As a side effect, you gain disadvantage on Strength and Dexterity ability checks for 1 hour.
 
-You gain a flying speed of 20 feet for 1 hour. As a side effect, you gain disadvantage on Strength and Dexterity ability checks for 1 hour.
+**Alluring.** Your skin and voice become malleable, allowing you to slightly enhance your appearance and presence. You have advantage on Charisma ability checks. As a side effect, you gain disadvantage on initiative rolls.
 
-#### Alluring
+**Celerity.** Your Dexterity score increases by 3, as does your Dexterity maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you gain disadvantage on Wisdom saving throws.
 
-Your skin and voice become malleable, allowing you to slightly enhance your appearance and presence. You have advantage on Charisma ability checks. As a side effect, you gain disadvantage on initiative rolls.
+**Conversant.** You gain advantage on Intelligence ability checks. As a side effect, you gain disadvantage on Wisdom ability checks.
 
-#### Celerity
+**Cruelty (11th level required).** When you use the Attack action, you can make an additional weapon attack as a bonus action. As a side effect, you gain disadvantage on Intelligence, Wisdom, and Charisma saving throws.
 
-Your Dexterity score increases by 3, as does your Dexterity maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you gain disadvantage on Wisdom saving throws.
+**Deftness.** You gain advantage on Dexterity ability checks. As a side effect, you gain disadvantage on Wisdom ability checks.
 
-#### Conversant
+**Embers.** You gain resistance to fire damage. As a side effect, you gain vulnerability to cold damage.
 
-You gain advantage on Intelligence ability checks. As a side effect, you gain disadvantage on Wisdom ability checks.
+**Gelid.** You gain resistance to cold damage. As a side effect, you gain vulnerability to fire damage.
 
-#### Cruelty (11th level required)
+**Impermeable.** You gain resistance to piercing damage. As a side effect, you gain vulnerability to slashing damage.
 
-When you use the Attack action, you can make an additional weapon attack as a bonus action. As a side effect, you gain disadvantage on Intelligence, Wisdom, and Charisma saving throws.
+**Mobile.** You are immune to the grappled and restrained conditions. At 11th level, you also are immune to the paralyzed condition. As a side effect, you gain disadvantage on Strength ability checks.
 
-#### Deftness
+**Nighteye.** You gain darkvision for up to 60 feet. If you already have darkvision, this increases its range by 60 additional feet. As a side effect, you gain sunlight sensitivity (detailed in the Dark Elf section on page 24 in the Player's Handbook).
 
-You gain advantage on Dexterity ability checks. As a side effect, you gain disadvantage on Wisdom ability checks.
+**Percipient.** You gain advantage on Wisdom ability checks. As a side effect, you gain disadvantage on Charisma ability checks.
 
-#### Embers
+**Potency.** Your Strength score increases by 3, as does your Strength maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you have disadvantage on Dexterity saving throws.
 
-You gain resistance to fire damage. As a side effect, you gain vulnerability to cold damage.
+**Precision (11th level required).** Your weapon attacks score a critical hit on a roll of 19-20. As a side effect, you gain disadvantage on Strength saving throws.
 
-#### Gelid
+**Rapidity.** Your speed increases by 10feet. At 15th level, your speed increases by 15 feet instead. As a side effect, you gain disadvantage on Intelligence ability checks.
 
-You gain resistance to cold damage. As a side effect, you gain vulnerability to fire damage.
+**Reconstruction (7th level required).** For 1 hour, at the start of each of your turns, you regain hit points equal to your proficiency bonus if you have at least 1 hit point but no more than half of your hit points left. As a side effect, your speed decreases by 10ft for 1hour.
 
-#### Impermeable
+**Sagacity.** Your Intelligence score increases by 3, as does your Intelligence maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you gain disadvantage on Charisma saving throws.
 
-You gain resistance to piercing damage. As a side effect, you gain vulnerability to slashing damage.
+**Shielded.** You gain resistance to slashing damage. As a side effect, you gain vulnerability to bludgeoning damage.
 
-#### Mobile
+**Unbreakable.** You gain resistance to bludgeoning damage. As a side effect, you gain vulnerability to piercing damage.
 
-You are immune to the grappled and restrained conditions. At 11th level, you also are immune to the paralyzed condition. As a side effect, you gain disadvantage on Strength ability checks.
-
-#### Nighteye
-
-You gain darkvision for up to 60 feet. If you already have darkvision, this increases its range by 60 additional feet. As a side effect, you gain sunlight sensitivity (detailed in the Dark Elf section on page 24 in the Player's Handbook).
-
-#### Percipient
-
-You gain advantage on Wisdom ability checks. As a side effect, you gain disadvantage on Charisma ability checks.
-
-#### Potency
-
-Your Strength score increases by 3, as does your Strength maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you have disadvantage on Dexterity saving throws.
-
-#### Precision (11th level required)
-
-Your weapon attacks score a critical hit on a roll of 19-20. As a side effect, you gain disadvantage on Strength saving throws.
-
-#### Rapidity
-
-Your speed increases by 10feet. At 15th level, your speed increases by 15 feet instead. As a side effect, you gain disadvantage on Intelligence ability checks.
-
-#### Reconstruction (7th level required)
-
-For 1 hour, at the start of each of your turns, you regain hit points equal to your proficiency bonus if you have at least 1 hit point but no more than half of your hit points left. As a side effect, your speed decreases by 10ft for 1hour.
-
-#### Sagacity
-
-Your Intelligence score increases by 3, as does your Intelligence maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you gain disadvantage on Charisma saving throws.
-
-#### Shielded
-
-You gain resistance to slashing damage. As a side effect, you gain vulnerability to bludgeoning damage.
-
-#### Unbreakable
-
-You gain resistance to bludgeoning damage. As a side effect, you gain vulnerability to piercing damage.
-
-#### Vermillion
-
-You gain an additional use of your Blood Maledict feature. As a side effect, you gain disadvantage on death saving throws.
+**Vermillion.** You gain an additional use of your Blood Maledict feature. As a side effect, you gain disadvantage on death saving throws.
 
 ### Strange Metabolism (Level 7)
 
@@ -156,7 +113,7 @@ At 11th level, your hemocraft has altered your Brand of Castigation to enforce a
 
 ### Blood Curse of Corrosion (Level 15)
 
-Starting at 15th level, your blood curse can wrack a creature's body with terrible toxins. You gain the [Blood Curse of Corrosion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/optional-features/blood-curse-of-corrosion-bh2020.md) for your Blood Maledict feature. This does not count against your number of blood curses known.
+Starting at 15th level, your blood curse can wrack a creature's body with terrible toxins. You gain the [Blood Curse of Corrosion](Compendium/optional-features/blood-curse-of-corrosion-bh2020.md) for your Blood Maledict feature. This does not count against your number of blood curses known.
 
 ### Exalted Mutation (Level 18)
 

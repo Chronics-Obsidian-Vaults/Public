@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kuo-toa
+- "Kuo-toa"
 ---
-# [Kuo-toa](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/kuo-toa.md)
-*Source: Monster Manual p. 199, Explorer's Guide to Wildemount*  
+# [Kuo-toa](Compendium/bestiary/humanoid/kuo-toa.md)
+*Source: Monster Manual p. 199*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
 
@@ -47,9 +48,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 > 
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote] A quote from Sabal Mizzrym of Menzoberranzan  
@@ -64,7 +65,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "subtype": "kuo-toa"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
-"ac_class": "natural armor, [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "natural armor, [shield](Compendium/items/shield.md)"
 "hp": !!int "18"
 "hit_dice": "4d8"
 "modifier": !!int "0"
@@ -77,25 +78,27 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
   - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 14"
+"gear":
+  - "[net](Compendium/items/net.md)"
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 14"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
   - "desc": "The kuo-toa can sense the presence of any creature within 30 feet of\
-      \ it that is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ or on the Ethereal Plane. It can pinpoint such a creature that is moving."
+      \ it that is [invisible](Rules/conditions.md#Invisible) or on the Ethereal Plane.\
+      \ It can pinpoint such a creature that is moving."
     "name": "Otherworldly Perception"
   - "desc": "The kuo-toa has advantage on ability checks and saving throws made to\
       \ escape a grapple."
     "name": "Slippery"
   - "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
@@ -106,7 +109,7 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
       \ damage if used with two hands to make a melee attack."
     "name": "Spear"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 5/15 ft., one Large or smaller\
-      \ creature. *Hit:* The target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ creature. *Hit:* The target is [restrained](Rules/conditions.md#Restrained).\
       \ A creature can use its action to make a DC 10 Strength check to free itself\
       \ or another creature in a net, ending the effect on a success. Dealing 5 slashing\
       \ damage to the net (AC 10) frees the target without harming it and destroys\
@@ -117,15 +120,13 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
       \ uses its sticky shield to catch the weapon. The attacker must succeed on a\
       \ DC 11 Strength saving throw, or the weapon becomes stuck to the kuo-toa's\
       \ shield. If the weapon's wielder can't or won't let go of the weapon, the wielder\
-      \ is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ while the weapon is stuck. While stuck, the weapon can't be used. A creature\
-      \ can pull the weapon free by taking an action to make a DC 11 Strength check\
-      \ and succeeding."
+      \ is [grappled](Rules/conditions.md#Grappled) while the weapon is stuck. While\
+      \ stuck, the weapon can't be used. A creature can pull the weapon free by taking\
+      \ an action to make a DC 11 Strength check and succeeding."
     "name": "Sticky Shield"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/kuo-toa.webp"
+"image": "Compendium/bestiary/humanoid/token/kuo-toa.webp"
 ```
 ^statblock
 

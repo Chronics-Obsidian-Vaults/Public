@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Old Croaker
+- "Old Croaker"
 ---
-# [Old Croaker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/old-croaker-egw.md)
+# [Old Croaker](Compendium/bestiary/npc/old-croaker-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  
 
 ```statblock
@@ -32,8 +33,7 @@ aliases:
   - !!int "3"
 "speed": "20 ft., swim 40 ft."
 "damage_immunities": "cold"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
 "traits":
@@ -44,22 +44,21 @@ aliases:
     "name": "Standing Leap"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
-      \ + 2) piercing damage plus 5 (1d10) poison damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 13). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ + 2) piercing damage plus 5 (1d10) poison damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 13). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and Old Croaker can't bite another target."
     "name": "Bite"
   - "desc": "Old Croaker makes one bite attack against a Medium or smaller target\
       \ it is grappling. If the attack hits, the target is swallowed, and the grapple\
-      \ ends. The swallowed target is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ ends. The swallowed target is [blinded](Rules/conditions.md#Blinded) and [restrained](Rules/conditions.md#Restrained),\
       \ it has total cover against attacks and other effects outside Old Croaker,\
       \ and it takes 10 (3d6) acid damage at the start of each of Old Croaker's turns.\
       \ Old Croaker can have only one target swallowed at a time.\n\nIf Old Croaker\
-      \ dies, a swallowed creature is no longer [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by it and can escape from the corpse using 5 feet of movement, exiting [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ dies, a swallowed creature is no longer [restrained](Rules/conditions.md#Restrained)\
+      \ by it and can escape from the corpse using 5 feet of movement, exiting [prone](Rules/conditions.md#Prone)."
     "name": "Swallow"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/old-croaker-egw.webp"
+"image": "Compendium/bestiary/npc/token/old-croaker-egw.webp"
 ```
 ^statblock

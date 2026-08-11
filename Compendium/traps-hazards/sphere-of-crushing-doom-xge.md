@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/cmpx
 aliases:
-- Sphere of Crushing Doom
+- "Sphere of Crushing Doom"
 ---
 # Sphere of Crushing Doom
 *Generic Hazard*  

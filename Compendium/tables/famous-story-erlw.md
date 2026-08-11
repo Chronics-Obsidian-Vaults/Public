@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Famous Story
+- "Famous Story"
 ---
 # Famous Story
 *Source: Eberron: Rising from the Last War p. 94* 

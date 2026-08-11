@@ -7,15 +7,15 @@ tags:
 - source/deity/faerunian
 - source/domain/life
 - source/domain/light
-aliases: 
-- Lathander
-- The Morninglord
-- Inspiration's Dawn
-- The Rose-and-Gold God
+aliases:
+- "Lathander"
+- "The Morninglord"
+- "Inspiration's Dawn"
+- "The Rose-and-Gold God"
 ---
 # Lathander
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-lathander.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-lathander.webp#symbol)
 
 - **Alternate Names**: The Morninglord, Inspiration's Dawn, The Rose-and-Gold God
 - **Alignment**: Neutral Good

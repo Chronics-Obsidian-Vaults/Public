@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/bmt
 aliases:
-- Ruined
+- "Ruined"
 ---
 # Ruined
 *Source: The Book of Many Things p. 58*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/img/ruined.webp#right)
+![](Compendium/backgrounds/img/ruined.webp#right)
 
-- **Skill Proficiencies.** [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth), [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)  
+- **Skill Proficiencies.** [Stealth](Rules/skills.md#Stealth), [Survival](Rules/skills.md#Survival)  
 - **Languages.** One of your choice  
-- **Equipment.** A cracked [hourglass](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hourglass.md), a set of rusty [manacles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/manacles.md), a half-empty bottle, a [hunting trap](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hunting-trap.md), a [gaming set](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/gaming-set.md) (matching your chosen proficiency), a set of [traveler's clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/travelers-clothes.md), and a [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 13 gp  
+- **Equipment.** A cracked [hourglass](Compendium/items/hourglass.md), a set of rusty [manacles](Compendium/items/manacles.md), a half-empty bottle, a [hunting trap](Compendium/items/hunting-trap.md), a [gaming set](Compendium/items/gaming-set.md) (matching your chosen proficiency), a set of [traveler's clothes](Compendium/items/travelers-clothes.md), and a [pouch](Compendium/items/pouch.md) containing 13 gp  
 - **Tool Proficiencies.** One gaming set of your choice (such as playing cards or three-dragon ante cards)  
 
 Everything was going so well! You had a life of luxury, love, and comfort when you suddenly lost it all. Perhaps you were framed for crimes you didn't commit and lost your reputation, fortune, and career. Maybe a rampaging dragon or another monster wiped out everything you had in a single calamitous afternoon. Or you might have sought out a Deck of Many Things, hoping to make your successful life even more glorious—only to draw a destructive card that changed your destiny forever.
@@ -22,7 +23,7 @@ Your desperation has driven you to the career of adventurer. You don't seek out 
 
 ## Feature: Still Standing
 
-You have weathered ruinous misfortune, and you possess hidden reserves others don't expect. You gain the [Alert](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/feats/alert.md), [Skilled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/feats/skilled.md), or [Tough](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/feats/tough.md) feat (your choice). Your choice of feat reflects how you've dealt with the terrible loss that changed your life forever. If you've kept your senses sharp for every opportunity and climbed your way out of misery by seizing the tiniest scrap of hope, choose Alert. If you've redoubled your efforts to reclaim what was once yours, choose Skilled. If you've stoically persevered through your misfortune, select Tough.
+You have weathered ruinous misfortune, and you possess hidden reserves others don't expect. You gain the [Alert](Compendium/feats/alert.md), [Skilled](Compendium/feats/skilled.md), or [Tough](Compendium/feats/tough.md) feat (your choice). Your choice of feat reflects how you've dealt with the terrible loss that changed your life forever. If you've kept your senses sharp for every opportunity and climbed your way out of misery by seizing the tiniest scrap of hope, choose Alert. If you've redoubled your efforts to reclaim what was once yours, choose Skilled. If you've stoically persevered through your misfortune, select Tough.
 
 ## Suggested Characteristics
 
@@ -40,9 +41,9 @@ Rising above misfortune shapes one's perspective. The Ruined Personality Traits 
 
 ## Building a Ruined Character
 
-Ruined characters were on top of the world before misfortune struck. Many were wealthy. Others come from modest backgrounds, but they were surrounded by friends, family, and loved ones. They might have been famous, or simply never encountered serious hardship before. Some were born to privilege or rose to prominence through trickery or a false reputation. Now a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md)—or another calamity—has knocked them down like a house of cards.
+Ruined characters were on top of the world before misfortune struck. Many were wealthy. Others come from modest backgrounds, but they were surrounded by friends, family, and loved ones. They might have been famous, or simply never encountered serious hardship before. Some were born to privilege or rose to prominence through trickery or a false reputation. Now a [Deck of Many Things](Compendium/items/deck-of-many-things.md)—or another calamity—has knocked them down like a house of cards.
 
-If your character's life was ruined by a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), consider which card was responsible. Perhaps your character was imprisoned for years by the Donjon or Void card, and now everyone they knew has died. Maybe your character drew the Rogue card, and the person closest to them—a spouse, child, or parent—turned against them. A devil unleashed by the Flames card might have destroyed their life. The Ruin or Talons card might have stolen the character's material goods or saddled them with vast debt.
+If your character's life was ruined by a [Deck of Many Things](Compendium/items/deck-of-many-things.md), consider which card was responsible. Perhaps your character was imprisoned for years by the Donjon or Void card, and now everyone they knew has died. Maybe your character drew the Rogue card, and the person closest to them—a spouse, child, or parent—turned against them. A devil unleashed by the Flames card might have destroyed their life. The Ruin or Talons card might have stolen the character's material goods or saddled them with vast debt.
 
 ## Ruined Trinkets
 

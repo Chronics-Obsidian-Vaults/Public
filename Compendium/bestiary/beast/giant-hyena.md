@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Hyena
+- "Giant Hyena"
 ---
-# [Giant Hyena](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-hyena.md)
+# [Giant Hyena](Compendium/bestiary/beast/giant-hyena.md)
 *Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -36,7 +37,7 @@ aliases:
   - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
@@ -52,7 +53,7 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-hyena.webp"
+"image": "Compendium/bestiary/beast/token/giant-hyena.webp"
 ```
 ^statblock
 

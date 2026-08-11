@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/13
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Brass Dragon
+- "Adult Brass Dragon"
 ---
-# [Adult Brass Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/adult-brass-dragon.md)
+# [Adult Brass Dragon](Compendium/bestiary/dragon/adult-brass-dragon.md)
 *Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -105,17 +106,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+7"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+8"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "fire"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "13"
@@ -136,7 +136,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ (2d8 + 6) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -147,7 +147,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire\
       \ damage on a failed save, or half as much damage on a successful one.  \n-\
       \ **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature\
-      \ in that area must succeed on a DC 18 Constitution saving throw or fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
+      \ in that area must succeed on a DC 18 Constitution saving throw or fall [unconscious](Rules/conditions.md#Unconscious)\
       \ for 10 minutes. This effect ends for a creature if the creature takes damage\
       \ or someone uses an action to wake it.  "
     "name": "Breath Weapons (Recharge 5-6)"
@@ -156,30 +156,29 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ action to cause one of the following effects:\n\n- A strong wind blows around\
       \ the dragon. Each creature within 60 feet of the dragon must succeed on a DC\
       \ 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ Gases and vapors are dispersed by the wind, and unprotected flames are extinguished.\
-      \ Protected flames; such as lanterns, have a 50 percent chance of being extinguished.\
-      \  \n- A cloud of sand swirls about in a 20-foot-radius sphere centered on a\
-      \ point the dragon can see within 120 feet of it. The cloud spreads around corners.\
-      \ Each creature in it must succeed on a DC 15 Constitution saving throw or be\
-      \ [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ [prone](Rules/conditions.md#Prone). Gases and vapors are dispersed by the\
+      \ wind, and unprotected flames are extinguished. Protected flames; such as lanterns,\
+      \ have a 50 percent chance of being extinguished.  \n- A cloud of sand swirls\
+      \ about in a 20-foot-radius sphere centered on a point the dragon can see within\
+      \ 120 feet of it. The cloud spreads around corners. Each creature in it must\
+      \ succeed on a DC 15 Constitution saving throw or be [blinded](Rules/conditions.md#Blinded)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n\n**Additional Lair\
-      \ Actions.** At your discretion, a legendary ([adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-brass-dragon.md)\
-      \ or [ancient](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-brass-dragon.md))\
-      \ brass dragon can use one or more of the following additional lair actions\
-      \ while in its lair:\n\n- **Animate Statues.** The dragon chooses up to three\
-      \ statues in the lair that it can see. Each of these statues briefly animates\
-      \ and attacks one creature within 5 feet of it, with a +7 bonus to hit and dealing\
-      \ 10 (3d6) bludgeoning damage on a hit.  \n- **Blast of Wind.** A mighty wind\
-      \ sweeps through the lair in a direction of the dragon's choice, blowing along\
-      \ a line 40 feet wide and 100 feet long. Each creature in that area except the\
-      \ dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet\
-      \ in the wind's direction and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ Gases and vapors are dispersed by the wind, and unprotected flames are extinguished.\
+      \ Actions.** At your discretion, a legendary ([adult](Compendium/bestiary/dragon/adult-brass-dragon.md)\
+      \ or [ancient](Compendium/bestiary/dragon/ancient-brass-dragon.md)) brass dragon\
+      \ can use one or more of the following additional lair actions while in its\
+      \ lair:\n\n- **Animate Statues.** The dragon chooses up to three statues in\
+      \ the lair that it can see. Each of these statues briefly animates and attacks\
+      \ one creature within 5 feet of it, with a +7 bonus to hit and dealing 10 (3d6)\
+      \ bludgeoning damage on a hit.  \n- **Blast of Wind.** A mighty wind sweeps\
+      \ through the lair in a direction of the dragon's choice, blowing along a line\
+      \ 40 feet wide and 100 feet long. Each creature in that area except the dragon\
+      \ must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the\
+      \ wind's direction and be knocked [prone](Rules/conditions.md#Prone). Gases\
+      \ and vapors are dispersed by the wind, and unprotected flames are extinguished.\
       \ Protected flames, such as lanterns, have a 50 percent chance of being extinguished.\
       \ If the dragon is within the area of the wind, it can choose to be pushed 15\
-      \ feet in the wind's direction, and the wind can't knock the dragon [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ feet in the wind's direction, and the wind can't knock the dragon [prone](Rules/conditions.md#Prone).\
       \  \n- **Obscuring Sand.** Dust and sand fill the air within 120 feet of the\
       \ dragon, making the area lightly obscured until initiative count 20 on the\
       \ next round.  "
@@ -193,14 +192,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ monsters haunt the desert sands within 1 mile of the dragon's lair. These\
       \ illusions move and appear real, although they can do no harm. A creature that\
       \ examines an image from a distance can tell it's an illusion with a successful\
-      \ DC 20 Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation))\
-      \ check. Any physical interaction with an image reveals it to be an illusion,\
-      \ because objects pass through it.  \n- Whenever a creature with an Intelligence\
-      \ of 3 or higher comes within 30 feet of a water source within 1 mile of the\
-      \ dragon's lair, the dragon becomes aware of the creature's presence and location.\
-      \  \n\nIf the dragon dies, the tracks fade in 1d10 days, but the other effects\
-      \ fade immediately.\n\n**Additional Regional Effects.** Any of these effects\
-      \ might appear in the area around a brass dragon's lair, in addition to or instead\
+      \ DC 20 Intelligence ([Investigation](Rules/skills.md#Investigation)) check.\
+      \ Any physical interaction with an image reveals it to be an illusion, because\
+      \ objects pass through it.  \n- Whenever a creature with an Intelligence of\
+      \ 3 or higher comes within 30 feet of a water source within 1 mile of the dragon's\
+      \ lair, the dragon becomes aware of the creature's presence and location.  \n\
+      \nIf the dragon dies, the tracks fade in 1d10 days, but the other effects fade\
+      \ immediately.\n\n**Additional Regional Effects.** Any of these effects might\
+      \ appear in the area around a brass dragon's lair, in addition to or instead\
       \ of the effects described in the *Monster Manual*:\n\n- **Cloud Companion.**\
       \ A small, wispy cloud follows non-evil creatures as they journey within 6 miles\
       \ of the dragon's lair. It changes direction as the creatures do, remaining\
@@ -215,19 +214,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
       \ must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ The dragon can then fly up to half its flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). The dragon can then\
+      \ fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/adult-brass-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/adult-brass-dragon.webp"
 ```
 ^statblock
 

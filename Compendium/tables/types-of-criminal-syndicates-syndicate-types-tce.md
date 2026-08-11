@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Types of Criminal Syndicates; Syndicate Types
+- "Types of Criminal Syndicates; Syndicate Types"
 ---
 # Types of Criminal Syndicates; Syndicate Types
 *Source: Tasha's Cauldron of Everything p. 91* 

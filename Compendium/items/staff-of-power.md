@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/tier/major
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of Power"
 item_type: weapon
 item_subtype: simple
@@ -16,12 +17,12 @@ attunement: required
 ---
 # Staff of Power
 *Staff, weapon, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/staff-of-power.webp#right)
+![](Compendium/items/img/staff-of-power.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
@@ -34,7 +35,7 @@ When you hit with a melee attack using the staff, you can expend 1 charge to dea
 
 ## Spells
 
-While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md) (5 charges), [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) (5th-level version, 5 charges), [globe of invulnerability](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/globe-of-invulnerability.md) (6 charges), [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md) (5 charges), [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md) (2 charges), [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md) (5th-level version, 5 charges), [magic missile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-missile.md) (1 charge), [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md) (1 charge), or [wall of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md) (5 charges).
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [cone of cold](Compendium/spells/cone-of-cold.md) (5 charges), [fireball](Compendium/spells/fireball.md) (5th-level version, 5 charges), [globe of invulnerability](Compendium/spells/globe-of-invulnerability.md) (6 charges), [hold monster](Compendium/spells/hold-monster.md) (5 charges), [levitate](Compendium/spells/levitate.md) (2 charges), [lightning bolt](Compendium/spells/lightning-bolt.md) (5th-level version, 5 charges), [magic missile](Compendium/spells/magic-missile.md) (1 charge), [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement.md) (1 charge), or [wall of force](Compendium/spells/wall-of-force.md) (5 charges).
 
 ## Retributive Strike
 

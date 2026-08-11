@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/uncommon
 - source/item/tier/major
-aliases: 
+aliases:
 - "Stone of Good Luck"
 item_type: 
 item_subtype: 
@@ -15,7 +16,7 @@ attunement: required
 ---
 # Stone of Good Luck
 *Wondrous item, major, uncommon (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/stone-of-good-luck.webp#right)
+![](Compendium/items/img/stone-of-good-luck.webp#right)
 
 
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.

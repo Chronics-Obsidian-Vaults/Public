@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/artifact
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Sword of Kas"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -15,31 +16,31 @@ rarity: artifact
 attunement: required
 ---
 # Sword of Kas
-*Weapon ([longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md)), artifact (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/sword-of-kas.webp#right)
+*Weapon ([longsword](Compendium/items/longsword.md)), artifact (requires attunement)*  
+![](Compendium/items/img/sword-of-kas.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 When Vecna grew in power, he appointed an evil and ruthless lieutenant, Kas the Bloody Handed, to act as his bodyguard and right hand. This despicable villain served as advisor, warlord, and assassin. His successes earned him Vecna's admiration and a reward: a sword with as dark a pedigree as the man who would wield it.
 
-For a long time, Kas faithfully served the [lich](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/lich.md) but as Kas's power grew, so did his hubris. His sword urged him to supplant Vecna, so that they could rule the [lich's](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/lich.md) empire in Vecna's stead. Legend says Vecna's destruction came at Kas's hand, but Vecna also wrought his rebellious lieutenant's doom, leaving only Kas's sword behind. The world was made brighter thereby.
+For a long time, Kas faithfully served the [lich](Compendium/bestiary/undead/lich.md) but as Kas's power grew, so did his hubris. His sword urged him to supplant Vecna, so that they could rule the [lich's](Compendium/bestiary/undead/lich.md) empire in Vecna's stead. Legend says Vecna's destruction came at Kas's hand, but Vecna also wrought his rebellious lieutenant's doom, leaving only Kas's sword behind. The world was made brighter thereby.
 
 The Sword of Kas is a magic, sentient longsword that grants a +3 bonus to attack and damage rolls made with it. It scores a critical hit on a roll of 19 or 20, and deals an extra `2d10` slashing damage to undead.
 
-If the sword isn't bathed in blood within 1 minute of being drawn from its scabbard, its wielder must make a DC 15 Charisma saving throw. On a successful save, the wielder takes `3d6` psychic damage. On a failed save, the wielder is dominated by the sword, as if by the [dominate monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-monster.md) spell, and the sword demands that it be bathed in blood. The spell effect ends when the sword's demand is met.
+If the sword isn't bathed in blood within 1 minute of being drawn from its scabbard, its wielder must make a DC 15 Charisma saving throw. On a successful save, the wielder takes `3d6` psychic damage. On a failed save, the wielder is dominated by the sword, as if by the [dominate monster](Compendium/spells/dominate-monster.md) spell, and the sword demands that it be bathed in blood. The spell effect ends when the sword's demand is met.
 
 ## Random Properties
 
 The Sword of Kas has the following random properties:
 
-- 1 [minor beneficial property](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-beneficial-properties.md)  
-- 1 [minor detrimental property](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-detrimental-properties.md)  
-- 1 [major detrimental property](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-detrimental-properties.md)  
+- 1 [minor beneficial property](Compendium/tables/artifact-properties-minor-beneficial-properties.md)  
+- 1 [major beneficial property](Compendium/tables/artifact-properties-major-beneficial-properties.md)  
+- 1 [minor detrimental property](Compendium/tables/artifact-properties-minor-detrimental-properties.md)  
+- 1 [major detrimental property](Compendium/tables/artifact-properties-major-detrimental-properties.md)  
 
 ## Spirit of Kas
 
@@ -47,22 +48,22 @@ While the sword is on your person, you add a `d10` to your initiative at the sta
 
 ## Spells
 
-While the sword is on your person, you can use an action to cast one of the following spells (save 18) from it: [call lightning](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/call-lightning.md), [divine word](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divine-word.md), or [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md). Once you use the sword to cast a spell, you can't cast that spell again from it until the next dawn.
+While the sword is on your person, you can use an action to cast one of the following spells (save 18) from it: [call lightning](Compendium/spells/call-lightning.md), [divine word](Compendium/spells/divine-word.md), or [finger of death](Compendium/spells/finger-of-death.md). Once you use the sword to cast a spell, you can't cast that spell again from it until the next dawn.
 
 ## Sentience
 
-The Sword of Kas is a sentient chaotic evil weapon with an Intelligence of 15, a Wisdom of 13, and a Charisma of 16. It has hearing and [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 120 feet.
+The Sword of Kas is a sentient chaotic evil weapon with an Intelligence of 15, a Wisdom of 13, and a Charisma of 16. It has hearing and [darkvision](Rules/senses.md#Darkvision) out to a range of 120 feet.
 
 The weapon communicates telepathically with its wielder and can speak, read, and understand Common.
 
 ## Personality
 
-The sword's purpose is to bring ruin to Vecna. Killing Vecna's worshipers, destroying the [lich's](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/lich.md) works, and foiling his machinations all help to fulfill this goal.
+The sword's purpose is to bring ruin to Vecna. Killing Vecna's worshipers, destroying the [lich's](Compendium/bestiary/undead/lich.md) works, and foiling his machinations all help to fulfill this goal.
 
-The Sword of Kas also seeks to destroy anyone corrupted by the Eye and [Hand of Vecna](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hand-of-vecna.md). The sword's obsession with those artifacts eventually becomes a fixation for its wielder.
+The Sword of Kas also seeks to destroy anyone corrupted by the Eye and [Hand of Vecna](Compendium/items/hand-of-vecna.md). The sword's obsession with those artifacts eventually becomes a fixation for its wielder.
 
 ## Destroying the Sword
 
-A creature attuned to both the [Eye of Vecna](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/eye-of-vecna.md) and the [Hand of Vecna](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hand-of-vecna.md) can use the wish property of those combined artifacts to unmake the Sword of Kas. The creature must cast the [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell and make a Charisma check contested by the Charisma check of the sword. The sword must be within 30 feet of the creature, or the spell fails. If the sword wins the contest, nothing happens, and the [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell is wasted. If the sword loses the contest, it is destroyed.
+A creature attuned to both the [Eye of Vecna](Compendium/items/eye-of-vecna.md) and the [Hand of Vecna](Compendium/items/hand-of-vecna.md) can use the wish property of those combined artifacts to unmake the Sword of Kas. The creature must cast the [wish](Compendium/spells/wish.md) spell and make a Charisma check contested by the Charisma check of the sword. The sword must be within 30 feet of the creature, or the spell fails. If the sword wins the contest, nothing happens, and the [wish](Compendium/spells/wish.md) spell is wasted. If the sword loses the contest, it is destroyed.
 
 *Source: Dungeon Master's Guide p. 226*

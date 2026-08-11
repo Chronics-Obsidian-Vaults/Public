@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/phb
 - source/race/dwarf
 aliases:
-- Dwarf
+- "Dwarf"
 ---
 # Dwarf
 *Source: Player's Handbook p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/dwarf.webp#right)
+![](Compendium/races/img/dwarf.webp#right)
 
 - **Ability Scores**: con +2
 - **Size**: Medium
@@ -39,15 +40,15 @@ You have advantage on saving throws against poison, and you have resistance agai
 
 ### Dwarven Combat Training
 
-You have proficiency with the [battleaxe](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/battleaxe.md), [handaxe](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/handaxe.md), [light hammer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/light-hammer.md), and [warhammer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/warhammer.md).
+You have proficiency with the [battleaxe](Compendium/items/battleaxe.md), [handaxe](Compendium/items/handaxe.md), [light hammer](Compendium/items/light-hammer.md), and [warhammer](Compendium/items/warhammer.md).
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [Smith's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/smiths-tools.md), [brewer's supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/brewers-supplies.md), or [mason's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/masons-tools.md).
+You gain proficiency with the [artisan's tools](Compendium/items/artisans-tools.md) of your choice: [Smith's tools](Compendium/items/smiths-tools.md), [brewer's supplies](Compendium/items/brewers-supplies.md), or [mason's tools](Compendium/items/masons-tools.md).
 
 ### Stonecunning
 
-Whenever you make an Intelligence ([History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)) check related to the origin of stonework, you are considered proficient in the [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History) skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+Whenever you make an Intelligence ([History](Rules/skills.md#History)) check related to the origin of stonework, you are considered proficient in the [History](Rules/skills.md#History) skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 ### Languages
 

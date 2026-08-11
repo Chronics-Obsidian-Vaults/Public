@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/age/modern
 - source/item/rarity/none
 - source/item/weapon/explosive
-aliases: 
+aliases:
 - "Fragmentation Grenade"
 item_type: weapon
 item_subtype: explosive

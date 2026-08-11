@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greyhawk
 - source/domain/nature
-aliases: 
-- Beory
+aliases:
+- "Beory"
 ---
 # Beory
 *Source: Player's Handbook p. 295* 

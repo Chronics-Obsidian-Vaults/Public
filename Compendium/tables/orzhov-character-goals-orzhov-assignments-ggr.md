@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Orzhov Character Goals; Orzhov Assignments
+- "Orzhov Character Goals; Orzhov Assignments"
 ---
 # Orzhov Character Goals; Orzhov Assignments
 *Source: Guildmasters' Guide to Ravnica p. 149* 

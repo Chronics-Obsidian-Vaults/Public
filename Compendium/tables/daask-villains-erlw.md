@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Daask Villains
+- "Daask Villains"
 ---
 # Daask Villains
 *Source: Eberron: Rising from the Last War p. 250* 
@@ -14,8 +14,8 @@ aliases:
 
 | dice: d6 | Villain |
 |----------|---------|
-| 1 | Several [harpies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/harpy.md) travel to the upper wards and use their luring songs to make rich people fall to their deaths. The harpies pick the corpses for valuables. |
-| 2 | A pack of [gnolls](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/gnoll.md) rampages through the lower wards, killing any halflings they come across. The gnolls take the halflings' ears as trophies. |
+| 1 | Several [harpies](Compendium/bestiary/monstrosity/harpy.md) travel to the upper wards and use their luring songs to make rich people fall to their deaths. The harpies pick the corpses for valuables. |
+| 2 | A pack of [gnolls](Compendium/bestiary/humanoid/gnoll.md) rampages through the lower wards, killing any halflings they come across. The gnolls take the halflings' ears as trophies. |
 | 3 | A shifter priest of the Devourer wants to crash Skyway by performing a ritual to create a cataclysmic storm. Sacrifices to the Devourer fuels the ritual. |
 | 4 | A changeling agent of Daask seeks to frame the Tyrants for attacks on the Boromar Clan, driving a wedge between the two organizations. |
 | 5 | A wererat priest of the Mockery starts a cult in Lower Dura, teaching its followers the arts of assassination. |

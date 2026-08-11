@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deep Scion
+- "Deep Scion"
 ---
-# [Deep Scion](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/deep-scion-mpmm.md)
+# [Deep Scion](Compendium/bestiary/monstrosity/deep-scion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*  
 
 Deep scions began life as people who were stolen from shore or saved from sinking ships and offered a terrible bargain by an undersea power: surrender, body and soul, or drown. Those who submit are subjected to an ancient ritual widespread among evil aquatic creatures. Its methods are painful and the result never certain, but when it works, the magic transforms an air-breathing person into a shapeshifter that can take on an aquatic form.
@@ -43,16 +44,17 @@ The training to which a deep scion is subjected rids it of empathy for those the
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+3"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"gear":
+  - "[battleaxe](Compendium/items/battleaxe.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Aquan, Common, thieves' cant"
 "cr": "3"
 "traits":
@@ -73,11 +75,10 @@ The training to which a deep scion is subjected rids it of empathy for those the
     "name": "Claw (Hybrid Form Only)"
   - "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
       \ within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw\
-      \ or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the end of the deep scion's next turn. In water, the psychic screech\
-      \ also telepathically transmits the deep scion's memories of the last 24 hours\
-      \ to its master, regardless of distance, so long as it and its master are in\
-      \ the same body of water."
+      \ or be [stunned](Rules/conditions.md#Stunned) until the end of the deep scion's\
+      \ next turn. In water, the psychic screech also telepathically transmits the\
+      \ deep scion's memories of the last 24 hours to its master, regardless of distance,\
+      \ so long as it and its master are in the same body of water."
     "name": "Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest)"
 "bonus_actions":
   - "desc": "The deep scion transforms into a hybrid form (humanoid-piscine) or back\
@@ -88,7 +89,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/deep-scion-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/deep-scion-mpmm.webp"
 ```
 ^statblock
 

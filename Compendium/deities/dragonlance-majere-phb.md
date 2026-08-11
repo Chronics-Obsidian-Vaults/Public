@@ -7,8 +7,8 @@ tags:
 - source/deity/dragonlance
 - source/domain/knowledge
 - source/domain/order
-aliases: 
-- Majere
+aliases:
+- "Majere"
 ---
 # Majere
 *Source: Player's Handbook p. 295* 

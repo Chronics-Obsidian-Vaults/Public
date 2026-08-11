@@ -1,23 +1,23 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/gruul-anarch
 - source/spell/class/bard/magical-secrets
 - source/spell/class/paladin
 - source/spell/feat/fey-touched
+- source/spell/feat/mark-of-sentinel
 - source/spell/level/1st-level
-- source/spell/reward/iroass-devotee
 - source/spell/school/enchantment
 - source/spell/subclass/oath-of-the-crown
-- source/spell/subrace/human-mark-of-sentinel
 classes:
 - Bard (Magical Secrets)
 - Paladin
 - Paladin (Oath of the Crown)
 aliases:
-- Compelled Duel
+- "Compelled Duel"
 level: 1
 school: enchantment
 ritual: false
@@ -41,6 +41,6 @@ You attempt to compel a creature into a duel. One creature that you can see with
 
 The spell ends if you attack any other creature, if you cast a spell that targets a hostile creature other than the target, if a creature friendly to you damages the target or casts a harmful spell on it, or if you end your turn more than 30 feet away from the target.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Paladin (Oath of the Crown)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-crown-scag.md "subclass=SCAG"); [Paladin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Paladin (Oath of the Crown)](Compendium/lists/list-spells-classes-oath-of-the-crown-scag.md "subclass=SCAG"); [Paladin](Compendium/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 224*

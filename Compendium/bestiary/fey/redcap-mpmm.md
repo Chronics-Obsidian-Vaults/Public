@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Redcap
+- "Redcap"
 ---
-# [Redcap](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fey/redcap-mpmm.md)
+# [Redcap](Compendium/bestiary/fey/redcap-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*  
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
@@ -48,16 +49,15 @@ In any case, if a redcap works with another being, the redcap demands to be paid
   - !!int "9"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common, Sylvan"
 "cr": "3"
 "traits":
-  - "desc": "The redcap has disadvantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
+  - "desc": "The redcap has disadvantage on Dexterity ([Stealth](Rules/skills.md#Stealth))\
       \ checks."
     "name": "Iron Boots"
   - "desc": "While grappling, the redcap is considered to be Medium. Also, wielding\
@@ -71,12 +71,12 @@ In any case, if a redcap works with another being, the redcap demands to be paid
     "name": "Wicked Sickle"
   - "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
       \ its iron boots. The target must succeed on a DC 14 Dexterity saving throw\
-      \ or take 20 (3d10 + 4) bludgeoning damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ or take 20 (3d10 + 4) bludgeoning damage and be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Ironbound Pursuit"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fey/token/redcap-mpmm.webp"
+"image": "Compendium/bestiary/fey/token/redcap-mpmm.webp"
 ```
 ^statblock
 

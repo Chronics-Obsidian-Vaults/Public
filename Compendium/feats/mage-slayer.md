@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Mage Slayer
+- "Mage Slayer"
 ---
 # Mage Slayer
 *Source: Player's Handbook p. 168*  
@@ -14,5 +14,5 @@ aliases:
 You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:
 
 - When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.  
-- When you damage a creature that is [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on a spell, that creature has disadvantage on the saving throw it makes to maintain its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration).  
+- When you damage a creature that is [concentrating](Rules/conditions.md#Concentration) on a spell, that creature has disadvantage on the saving throw it makes to maintain its [concentration](Rules/conditions.md#Concentration).  
 - You have advantage on saving throws against spells cast by creatures within 5 feet of you.

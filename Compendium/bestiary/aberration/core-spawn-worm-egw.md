@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/15
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Worm
+- "Core Spawn Worm"
 ---
-# [Core Spawn Worm](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/core-spawn-worm-egw.md)
+# [Core Spawn Worm](Compendium/bestiary/aberration/core-spawn-worm-egw.md)
 *Source: Explorer's Guide to Wildemount p. 287*  
 
 This invertebrate horror has quivering, barbed tentacles set around its massive, toothy maw. The worm's cracked and stony hide pulses with a dull orange glow, as if it might be composed of primordial lava perpetually on the verge of hardening into solid rock.
@@ -46,14 +47,13 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
   - "constitution": !!int "10"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire, psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., tremorsense 60 ft., passive Perception 14"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., tremorsense 60 ft., passive\
+  \ Perception 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "15"
 "traits":
@@ -70,27 +70,25 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
       \ its bite."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 25 (5d6 + 8) piercing damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 18). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ 25 (5d6 + 8) piercing damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 18). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained).\
       \ The tentacles can grapple only one creature at a time."
     "name": "Barbed Tentacles"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 30\
       \ (5d8 + 8) piercing damage. If the target is a Large or smaller creature, it\
       \ must succeed on a DC 18 Dexterity saving throw or be swallowed by the worm.\
-      \ A swallowed creature is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ and [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ A swallowed creature is [blinded](Rules/conditions.md#Blinded) and [restrained](Rules/conditions.md#Restrained),\
       \ has total cover against attacks and other effects outside the worm, and takes\
       \ 21 (6d6) fire damage at the start of each of the worm's turns.\n\nIf the worm\
       \ takes 30 damage or more on a single turn from a creature inside it, the worm\
       \ must succeed on a DC 21 Constitution saving throw at the end of that turn\
-      \ or regurgitate all swallowed creatures, which fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ or regurgitate all swallowed creatures, which fall [prone](Rules/conditions.md#Prone)\
       \ in a space within 10 feet of the worm. If the worm dies, a swallowed creature\
-      \ is no longer [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by it and can escape from the corpse by using 20 feet of movement, exiting\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ is no longer [restrained](Rules/conditions.md#Restrained) by it and can escape\
+      \ from the corpse by using 20 feet of movement, exiting [prone](Rules/conditions.md#Prone)."
     "name": "Bite"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/core-spawn-worm-egw.webp"
+"image": "Compendium/bestiary/aberration/token/core-spawn-worm-egw.webp"
 ```
 ^statblock

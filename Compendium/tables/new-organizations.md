@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- New Organizations
+- "New Organizations"
 ---
 # New Organizations
 *Source: Dungeon Master's Guide p. 31* 

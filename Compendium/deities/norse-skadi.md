@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/norse
 - source/domain/nature
-aliases: 
-- Skadi
+aliases:
+- "Skadi"
 ---
 # Skadi
 *Source: Player's Handbook p. 299* 

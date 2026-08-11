@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Halfling Names – Male
+- "Halfling Names – Male"
 ---
 # Halfling Names – Male
 *Source: Xanathar's Guide to Everything p. 179* 

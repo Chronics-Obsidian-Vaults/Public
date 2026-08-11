@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Felidar
+- "Felidar"
 ---
-# [Felidar](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\celestial/felidar-ggr.md)
+# [Felidar](Compendium/bestiary/celestial/felidar-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 199*  
 
 A felidar is a celestial creature whose nature reflects an inherent devotion to law and order. It resembles an enormous cat with two pairs of downward-sloping horns and prominent teeth. Its blue-gray hide has a silvery, geometric pattern, and its thick white mane falls in an orderly fashion around its shoulders.
@@ -41,12 +42,11 @@ Nearly every felidar forms a close bond with one other creature. Winged felidars
   - "wisdom": !!int "6"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 16"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 16"
 "languages": "understands Celestial and Common but can't speak"
 "cr": "5"
 "traits":
@@ -61,14 +61,14 @@ Nearly every felidar forms a close bond with one other creature. Winged felidars
       \ during which time it loses its own sight and hearing. This effect lasts until\
       \ the start of its next turn."
     "name": "Bonding"
-  - "desc": "The felidar has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The felidar has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing or sight."
     "name": "Keen Hearing and Sight"
   - "desc": "If the felidar moves at least 20 feet straight toward a creature and\
       \ hits it with a claw attack on the same turn, that target must succeed on a\
-      \ DC 15 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ If the target is [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-      \ the felidar can make one claw attack against it as a bonus action."
+      \ DC 15 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone).\
+      \ If the target is [prone](Rules/conditions.md#Prone), the felidar can make\
+      \ one claw attack against it as a bonus action."
     "name": "Pounce"
 "actions":
   - "desc": "The felidar makes two attacks: one with its bite and one with its claws."
@@ -81,6 +81,6 @@ Nearly every felidar forms a close bond with one other creature. Winged felidars
     "name": "Claws"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/celestial/token/felidar-ggr.webp"
+"image": "Compendium/bestiary/celestial/token/felidar-ggr.webp"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Boar
+- "Giant Boar"
 ---
-# [Giant Boar](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-boar.md)
-*Source: Monster Manual p. 323, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Boar](Compendium/bestiary/beast/giant-boar.md)
+*Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Boar"
@@ -42,7 +43,7 @@ aliases:
   - "desc": "If the boar moves at least 20 feet straight toward a target and then\
       \ hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6)\
       \ slashing damage. If the target is a creature, it must succeed on a DC 13 Strength\
-      \ saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "If the boar takes 10 damage or less that would reduce it to 0 hit points,\
       \ it is reduced to 1 hit point instead."
@@ -53,9 +54,7 @@ aliases:
     "name": "Tusk"
 "source":
   - "MM"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-boar.webp"
+"image": "Compendium/bestiary/beast/token/giant-boar.webp"
 ```
 ^statblock
 

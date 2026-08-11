@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Creating Adventures
+- "Creating Adventures"
 ---
 # Creating Adventures
 *Source: Dungeon Master's Guide (2014), p. 71* 
@@ -17,6 +17,8 @@ Fundamentally, adventures are stories. An adventure shares many of the features 
 Whether you're creating your own adventures or using published adventures, you'll find advice in this chapter to help you create a fun and memorable experience for your players.
 
 Creating an adventure involves blending scenes of exploration, social interaction, and combat into a unified whole that meets the needs of your players and your campaign. But it's more than that. The basic elements of good storytelling should guide you throughout this process, so your players experience the adventure as a story and not a disjointed series of encounters.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/3-1.webp#center)
 
 ## Elements of a Great Adventure
 
@@ -108,25 +110,27 @@ Adventures set in crumbling dungeons and remote wilderness locations are the cor
 
 Creating a location-based adventure can be broken down into a number of steps. Each step provides tables from which you can select the basic elements of your adventure. Alternatively, roll on the tables and see how the random results inspire you. You can mix up the order of the steps.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/3-2.webp#center)
+
 #### 1. Identify the Party's Goals
 
 The Dungeon Goals table provides common goals that drive or lure adventurers into dungeons. The Wilderness Goals table provides similar inspiration for an adventure focused on outdoor exploration. The Other Goals table suggests location-based adventures that don't fit neatly into the first two categories.
 
-![Identify the Party's Goals; Dungeon Goals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/identify-the-partys-goals-dungeon-goals.md)
+![Identify the Party's Goals; Dungeon Goals](Compendium/tables/identify-the-partys-goals-dungeon-goals.md)
 
-![Identify the Party's Goals; Wilderness Goals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/identify-the-partys-goals-wilderness-goals.md)
+![Identify the Party's Goals; Wilderness Goals](Compendium/tables/identify-the-partys-goals-wilderness-goals.md)
 
-![Identify the Party's Goals; Other Goals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/identify-the-partys-goals-other-goals.md)
+![Identify the Party's Goals; Other Goals](Compendium/tables/identify-the-partys-goals-other-goals.md)
 
 #### 2. Identify Important NPCs
 
 Use the Adventure Villains, Adventure Allies, and Adventure Patrons tables to help you identify these NPCs. Chapter 4 can help you bring these NPCs to life.
 
-![Identify Important NPCs; Adventure Villains](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/identify-important-npcs-adventure-villains.md)
+![Identify Important NPCs; Adventure Villains](Compendium/tables/identify-important-npcs-adventure-villains.md)
 
-![Identify Important NPCs; Adventure Allies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/identify-important-npcs-adventure-allies.md)
+![Identify Important NPCs; Adventure Allies](Compendium/tables/identify-important-npcs-adventure-allies.md)
 
-![Identify Important NPCs; Adventure Patrons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/identify-important-npcs-adventure-patrons.md)
+![Identify Important NPCs; Adventure Patrons](Compendium/tables/identify-important-npcs-adventure-patrons.md)
 
 #### 3. Flesh Out the Location Details
 
@@ -136,13 +140,13 @@ Chapter 5 offers suggestions for creating and fleshing out an adventure location
 
 An adventure can begin with a social interaction encounter in which the adventurers find out what they must do and why. It can start with a surprise attack, or with the adventurers coming across information by accident. The best introductions arise naturally from the goals and setting of the adventure. Let the entries in the Adventure Introduction table inspire you.
 
-![Find the Ideal Introduction; Adventure Introduction](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/find-the-ideal-introduction-adventure-introduction.md)
+![Find the Ideal Introduction; Adventure Introduction](Compendium/tables/find-the-ideal-introduction-adventure-introduction.md)
 
 #### 5. Consider the Ideal Climax
 
 The climactic ending of an adventure fulfills the promise of all that came before. Although the climax must hinge on the successes and failures of the characters up to that moment, the Adventure Climax table can provide suggestions to help you shape the end of your adventure.
 
-![Consider the Ideal Climax; Adventure Climax](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/consider-the-ideal-climax-adventure-climax.md)
+![Consider the Ideal Climax; Adventure Climax](Compendium/tables/consider-the-ideal-climax-adventure-climax.md)
 
 #### 6. Plan Encounters
 
@@ -155,6 +159,8 @@ See "Creating Encounters" later in this chapter for guidance on crafting individ
 In an event-based adventure, the focus is on what the characters and villains do and what happens as a result. The question of where those things happen is of secondary importance.
 
 Building an event-based adventure is more work than building a location-based one, but the process can be simplified by following a number of straightforward steps. Several steps include tables from which you can choose adventure elements or roll randomly for inspiration. As with location-based adventures, you don't necessarily have to follow these steps in order.
+
+![Vampire Villain](Compendium/books/dungeon-masters-guide-2014/img/3-3.webp#center)
 
 #### 1. Start with a Villain
 
@@ -170,7 +176,7 @@ Building on the previous example, you might decide that your vampire villain mur
 
 If you need additional inspiration, consider a few different options for how the villain's actions unfold over the course of the adventure.
 
-![Determine the Villain's Actions; Event-Based Villain Actions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/determine-the-villains-actions-event-based-villain-actions.md)
+![Determine the Villain's Actions; Event-Based Villain Actions](Compendium/tables/determine-the-villains-actions-event-based-villain-actions.md)
 
 ##### Big Event
 
@@ -200,7 +206,7 @@ In pursuit of its goal, the villain carries out a specific set of actions in a p
 
 You can use the Event-Based Goals table to set the party's goal. A goal can also suggest ways in which the adventurers become caught up in the villain's plans, and what exactly they must do to foil those plans.
 
-![Determine the Party's Goals; Event-Based Goals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/determine-the-partys-goals-event-based-goals.md)
+![Determine the Party's Goals; Event-Based Goals](Compendium/tables/determine-the-partys-goals-event-based-goals.md)
 
 For example, you roll a 10 on the table, indicating that the party's goal is to secure aid from a ruler or council. You decide to connect that to the leadership of the order targeted by your vampire villain. Maybe the order's leaders have a chest of jewels stolen from the vampire centuries ago, and the characters can use the chest as bait to trap the villain.
 
@@ -302,7 +308,7 @@ Another way to handle influence is to treat it like renown (see chapter 1), allo
 
 You can base an entire adventure on a framing event or use such an event to grab the players' interest. The Framing Events table presents several ideas, or you can use it to inspire your own framing event.
 
-![Framing Events](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/framing-events.md)
+![Framing Events](Compendium/tables/framing-events.md)
 
 ## Complications
 
@@ -312,7 +318,9 @@ Sometimes an adventure isn't as straightforward as it might seem.
 
 If you want to give the characters a crisis that no amount of spellcasting or swordplay can resolve, add a moral quandary to the adventure. A moral quandary is a problem of conscience for which the adventurers must make a single choice-but never a simple one.
 
-![Moral Quandaries](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/moral-quandaries.md)
+![Moral Quandaries](Compendium/tables/moral-quandaries.md)
+
+![](Compendium/books/dungeon-masters-guide-2014/img/3-4.webp#center)
 
 #### Ally Quandary
 
@@ -338,13 +346,13 @@ Two important allies give conflicting directions or advice to the adventurers. P
 
 A twist can complicate a story and make it harder for the characters to complete their goals.
 
-![Twists](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/twists.md)
+![Twists](Compendium/tables/twists.md)
 
 ### Side Quests
 
 You can also add one or more side quests to your adventure, taking the characters off the main story path defined by location or events. Side quests are peripheral to the characters' primary goal, but successfully completing a side quest might provide a benefit toward completing the primary goal.
 
-![Side Quests](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/side-quests.md)
+![Side Quests](Compendium/tables/side-quests.md)
 
 ## Creating Encounters
 
@@ -355,6 +363,8 @@ First and foremost, an encounter should be fun for the players. Second, it shoul
 An encounter has one of three possible outcomes: the characters succeed, the characters partly succeed, or the characters fail. The encounter needs to account for all three possibilities, and the outcome needs to have consequences so that the players feel like their successes and failures matter.
 
 ### Character Objectives
+
+![](Compendium/books/dungeon-masters-guide-2014/img/3-5.webp#center)
 
 When players don't know what they're supposed to do in a given encounter, anticipation and excitement can quickly turn to boredom and frustration. A transparent objective alleviates the risk of players losing interest.
 
@@ -420,7 +430,7 @@ A hard encounter could go badly for the adventurers. Weaker characters might get
 
 A deadly encounter could be lethal for one or more player characters. Survival often requires good tactics and quick thinking, and the party risks defeat.
 
-![Combat Encounter Difficulty; XP Thresholds by Character Level](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/combat-encounter-difficulty-xp-thresholds-by-character-level.md)
+![Combat Encounter Difficulty; XP Thresholds by Character Level](Compendium/tables/combat-encounter-difficulty-xp-thresholds-by-character-level.md)
 
 > [!note] Challenge Rating
 > 
@@ -466,7 +476,7 @@ This adjusted value is not what the monsters are worth in terms of XP; the adjus
 
 When making this calculation, don't count any monsters whose challenge rating is significantly below the average challenge rating of the other monsters in the group unless you think the weak monsters significantly contribute to the difficulty of the encounter.
 
-![Modify Total XP for Multiple Monsters; Encounter Multipliers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/modify-total-xp-for-multiple-monsters-encounter-multipliers.md)
+![Modify Total XP for Multiple Monsters; Encounter Multipliers](Compendium/tables/modify-total-xp-for-multiple-monsters-encounter-multipliers.md)
 
 ##### 5 Compare XP
 
@@ -481,6 +491,8 @@ The preceding guidelines assume that you have a party consisting of three to fiv
 If the party contains fewer than three characters, apply the next highest multiplier on the Encounter Multipliers table. For example, apply a multiplier of 1.5 when the characters fight a single monster, and a multiplier of 5 for groups of fifteen or more monsters.
 
 If the party contains six or more characters, use the next lowest multiplier on the table. Use a multiplier of 0.5 for a single monster.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/3-6.webp#center)
 
 #### Multipart Encounters
 
@@ -498,6 +510,8 @@ For example, using the party from step 2, you can build a medium encounter by ma
 
 To assist with this approach, appendix B presents a list of all monsters in the Monster Manual organized by challenge rating.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/3-7.webp#center)
+
 #### The Adventuring Day
 
 Assuming typical adventuring conditions and average luck, most adventuring parties can handle about six to eight medium or hard encounters in a day. If the adventure has more easy encounters, the adventurers can get through more. If it has more deadly encounters, they can handle fewer.
@@ -506,7 +520,7 @@ In the same way you figure out the difficulty of an encounter, you can use the X
 
 For each character in the party, use the Adventuring Day XP table to estimate how much XP that character is expected to earn in a day. Add together the values of all party members to get a total for the party's adventuring day. This provides a rough estimate of the adjusted XP value for encounters the party can handle before the characters will need to take a long rest.
 
-![The Adventuring Day; Adventuring Day XP](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-adventuring-day-adventuring-day-xp.md)
+![The Adventuring Day; Adventuring Day XP](Compendium/tables/the-adventuring-day-adventuring-day-xp.md)
 
 #### Short Rests
 
@@ -516,7 +530,7 @@ In general, over the course of a full adventuring day, the party will likely nee
 
 An encounter can be made easier or harder based on the choice of location and the situation. Increase the difficulty of the encounter by one step (from easy to medium, for example) if the characters have a drawback that their enemies don't. Reduce the difficulty by one step if the characters have a benefit that their enemies don't. Any additional benefit or drawback pushes the encounter one step in the appropriate direction. If the characters have both a benefit and a drawback, the two cancel each other out. Situational drawbacks include the following:
 
-- The whole party is [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised), and the enemy isn't.  
+- The whole party is [surprised](Rules/conditions.md#Surprised), and the enemy isn't.  
 - The enemy has cover, and the party doesn't.  
 - The characters are unable to see the enemy.  
 - The characters are taking damage every round from some environmental effect or magical source, and the enemy isn't.  
@@ -570,6 +584,8 @@ Random encounter tables might be provided as part of the adventure you're runnin
 
 Not every run-in with another creature counts as a random encounter. Encounter tables don't usually include rabbits hopping through the undergrowth, harmless rats scurrying through dungeon halls, or average citizens walking through the streets of a city. Random encounter tables present obstacles and events that advance the plot, foreshadow important elements or themes of the adventure, and provide fun distractions.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/3-8.webp#center)
+
 ### Creating Random Encounter Tables
 
 Creating your own random encounter tables is straightforward. Determine what sort of encounters might occur in a given dungeon area, figure out the likelihood of a particular encounter occurring, then arrange the results. An "encounter" in this case could be a single monster or NPC, a group of monsters or NPCs, a random event (such as an earth tremor or a parade), or a random discovery (such as a charred corpse or a message scrawled on a wall).
@@ -592,10 +608,12 @@ A random encounter table can be created in a number of ways, ranging from simple
 
 The Sylvan Forest Encounters table is an example of a random encounter table that implements the ideas mentioned above. Creature names in bold refer to stat blocks that appear in the *Monster Manual*.
 
-![Sylvan Forest Encounters](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/sylvan-forest-encounters.md)
+![Sylvan Forest Encounters](Compendium/tables/sylvan-forest-encounters.md)
 
 ### Random Encounter Challenge
 
 Random encounters need not be level-appropriate challenges for the adventurers, but it's considered bad form to slaughter a party using a random encounter, since most players consider this ending to be an unsatisfying one.
 
 Not all random encounters with monsters need to be resolved through combat. A 1st-level party of adventurers could have a random encounter with a young dragon circling above a forest canopy in search of a quick meal, but the characters should have the option to hide or bargain for their lives if the dragon spots them. Similarly, the party might encounter a stone giant roaming the hills, but it might have no intention of harming anyone. In fact, it might shy away from the party because of its reclusive nature. The giant might attack only characters who annoy it.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/3-9.webp#center)

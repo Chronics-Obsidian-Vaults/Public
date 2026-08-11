@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/6
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mouth of Grolantor
+- "Mouth of Grolantor"
 ---
-# [Mouth of Grolantor](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/mouth-of-grolantor-mpmm.md)
+# [Mouth of Grolantor](Compendium/bestiary/giant/mouth-of-grolantor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149*  
 
 Hill giants consume spoiled food and diseased carcasses with as much enthusiasm as children eating dessert and rarely suffer for such eating habits. When one of their kind becomes incapable of keeping down food, that giant is seen, among hill giant worshipers of the god Grolantor, as the vessel of a message from the deity.
@@ -42,14 +43,14 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
   - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+1"
-"condition_immunities": "[frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
+"condition_immunities": "[frightened](Rules/conditions.md#Frightened)"
 "senses": "passive Perception 11"
 "languages": "Giant"
 "cr": "6"
 "traits":
-  - "desc": "The giant is immune to the [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md)\
+  - "desc": "The giant is immune to the [confusion](Compendium/spells/confusion.md)\
       \ spell.\n\nOn each of its turns, the giant uses all its movement to move toward\
       \ the nearest creature or whatever else it might perceive as food. Roll a d10\
       \ at the start of each of the giant's turns to determine its action for that\
@@ -60,11 +61,11 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
       \ reach. If no creatures are within reach, the giant makes one Fist attack against\
       \ itself.  \n- **6–7.** The giant makes one Bite attack against one random creature\
       \ within reach. If no other creatures are within reach, its eyes glaze over\
-      \ and it is [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the start of its next turn.  \n- **8–10.** The giant makes one Bite\
-      \ attack and two Fist attacks against one random creature within reach. If no\
-      \ creatures are within reach, the giant flies into a rage and gains advantage\
-      \ on all attack rolls until the end of its next turn.  "
+      \ and it is [stunned](Rules/conditions.md#Stunned) until the start of its next\
+      \ turn.  \n- **8–10.** The giant makes one Bite attack and two Fist attacks\
+      \ against one random creature within reach. If no creatures are within reach,\
+      \ the giant flies into a rage and gains advantage on all attack rolls until\
+      \ the end of its next turn.  "
     "name": "Mouth of Chaos"
 "actions":
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 15\
@@ -77,7 +78,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/mouth-of-grolantor-mpmm.webp"
+"image": "Compendium/bestiary/giant/token/mouth-of-grolantor-mpmm.webp"
 ```
 ^statblock
 

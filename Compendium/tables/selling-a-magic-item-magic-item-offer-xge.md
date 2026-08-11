@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Selling a Magic Item; Magic Item Offer
+- "Selling a Magic Item; Magic Item Offer"
 ---
 # Selling a Magic Item; Magic Item Offer
 *Source: Xanathar's Guide to Everything p. 133* 

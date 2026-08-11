@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/bard/magical-secrets
@@ -13,7 +14,7 @@ classes:
 - Druid
 - Ranger
 aliases:
-- Wrath of Nature
+- "Wrath of Nature"
 level: 5
 school: evocation
 ritual: false
@@ -45,14 +46,14 @@ At the start of each of your turns, each of your enemies within 10 feet of any t
 
 ## Roots and Vines
 
-At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) until the spell ends. A [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) creature can use an action to make a Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check against your spell save DC, ending the effect on itself on a success.
+At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become [restrained](Rules/conditions.md#Restrained) until the spell ends. A [restrained](Rules/conditions.md#Restrained) creature can use an action to make a Strength ([Athletics](Rules/skills.md#Athletics)) check against your spell save DC, ending the effect on itself on a success.
 
 ## Rocks
 
-As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).
+As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [prone](Rules/conditions.md#Prone).
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Xanathar's Guide to Everything p. 171*

@@ -7,8 +7,8 @@ tags:
 - source/deity/dragonlance
 - source/domain/nature
 - source/domain/tempest
-aliases: 
-- Habbakuk
+aliases:
+- "Habbakuk"
 ---
 # Habbakuk
 *Source: Player's Handbook p. 295* 

@@ -1,22 +1,22 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/druid
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/4th-level
 - source/spell/school/evocation
 - source/spell/subclass/arcane-trickster
-- source/spell/subclass/artillerist
 - source/spell/subclass/circle-of-the-land/arctic
 - source/spell/subclass/eldritch-knight
 - source/spell/subclass/oath-of-the-ancients
 - source/spell/subclass/tempest-domain
 classes:
-- Artificer (Artillerist)
 - Bard (Magical Secrets)
 - Cleric (Tempest Domain)
 - Druid
@@ -27,7 +27,7 @@ classes:
 - Sorcerer
 - Wizard
 aliases:
-- Ice Storm
+- "Ice Storm"
 level: 4
 school: evocation
 ritual: false
@@ -53,6 +53,6 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the bludgeoning damage increases by `1d8` for each slot level above 4th.
 
-**Classes**: [Artificer (Artillerist)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE"); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-tempest-domain.md); [Druid (Circle of the Land, Arctic)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of the Ancients)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-oath-of-the-ancients.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Tempest Domain)](Compendium/lists/list-spells-classes-tempest-domain.md); [Druid (Circle of the Land, Arctic)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of the Ancients)](Compendium/lists/list-spells-classes-oath-of-the-ancients.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

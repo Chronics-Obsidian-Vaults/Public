@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/kenku
 aliases:
-- Kenku
+- "Kenku"
 ---
 # Kenku
 *Source: Dungeon Master's Guide p. 282*  
@@ -19,11 +20,11 @@ aliases:
 
 ### Ambusher
 
-In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised).
+In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](Rules/conditions.md#Surprised).
 
 ### Mimicry
 
-You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check.
+You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](Rules/skills.md#Insight)) check.
 
 ### Languages
 

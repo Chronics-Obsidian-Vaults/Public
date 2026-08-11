@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/rogue/swashbuckler
 aliases:
-- Swashbuckler
+- "Swashbuckler"
 ---
 # Swashbuckler
 *[Rogue](./rogue.md): Roguish Archetype*  
@@ -43,18 +43,17 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/rogue.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
 > What's a swashbuckler? Do you swash buckles or buckle swashes? You can't tell me you don't think that word is funny.
 
-## Class Features
-
-### Swashbuckler (Level 3)
-
 You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.
 
 A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.
+
+## Subclass Features
 
 ### Fancy Footwork (Level 3)
 
@@ -68,15 +67,15 @@ You also gain an additional way to use your Sneak Attack; you don't need advanta
 
 ### Panache (Level 9)
 
-At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) check contested by a creature's Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) check. The creature must be able to hear you, and the two of you must share a language.
+At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma ([Persuasion](Rules/skills.md#Persuasion)) check contested by a creature's Wisdom ([Insight](Rules/skills.md#Insight)) check. The creature must be able to hear you, and the two of you must share a language.
 
 If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.
 
-If you succeed on the check and the creature isn't hostile to you, it is [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) by you for 1 minute. While [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
+If you succeed on the check and the creature isn't hostile to you, it is [charmed](Rules/conditions.md#Charmed) by you for 1 minute. While [charmed](Rules/conditions.md#Charmed), it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
 
 ### Elegant Maneuver (Level 13)
 
-Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) or Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check you make during the same turn.
+Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) or Strength ([Athletics](Rules/skills.md#Athletics)) check you make during the same turn.
 
 ### Master Duelist (Level 17)
 

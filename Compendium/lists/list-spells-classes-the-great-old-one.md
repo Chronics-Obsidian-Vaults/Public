@@ -5,31 +5,31 @@ cssclasses:
 tags:
 - source/spell/list/subclass/the-great-old-one
 aliases:
-- Spells for The Great Old One
+- "Spells for The Great Old One"
 ---
 # Spells for The Great Old One
 
 ## 1st Level
 
-- [Dissonant Whispers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dissonant-whispers.md "PHB") with access to 3rd-level spells
-- [Tasha's Hideous Laughter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tashas-hideous-laughter.md "PHB") with access to 3rd-level spells
+- [Dissonant Whispers](Compendium/spells/dissonant-whispers.md "PHB") with access to 1st-level spells
+- [Tasha's Hideous Laughter](Compendium/spells/tashas-hideous-laughter.md "PHB") with access to 1st-level spells
 
 ## 2nd Level
 
-- [Detect Thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md "PHB") with access to 3rd-level spells
-- [Phantasmal Force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/phantasmal-force.md "PHB") with access to 3rd-level spells
+- [Detect Thoughts](Compendium/spells/detect-thoughts.md "PHB") with access to 2nd-level spells
+- [Phantasmal Force](Compendium/spells/phantasmal-force.md "PHB") with access to 2nd-level spells
 
 ## 3rd Level
 
-- [Clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md "PHB") with access to 3rd-level spells
-- [Sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md "PHB") with access to 3rd-level spells
+- [Clairvoyance](Compendium/spells/clairvoyance.md "PHB") with access to 3rd-level spells
+- [Sending](Compendium/spells/sending.md "PHB") with access to 3rd-level spells
 
 ## 4th Level
 
-- [Dominate Beast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-beast.md "PHB") with access to 3rd-level spells
-- [Evard's Black Tentacles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/evards-black-tentacles.md "PHB") with access to 3rd-level spells
+- [Dominate Beast](Compendium/spells/dominate-beast.md "PHB") with access to 4th-level spells
+- [Evard's Black Tentacles](Compendium/spells/evards-black-tentacles.md "PHB") with access to 4th-level spells
 
 ## 5th Level
 
-- [Dominate Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dominate-person.md "PHB") with access to 3rd-level spells
-- [Telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md "PHB") with access to 3rd-level spells
+- [Dominate Person](Compendium/spells/dominate-person.md "PHB") with access to 5th-level spells
+- [Telekinesis](Compendium/spells/telekinesis.md "PHB") with access to 5th-level spells

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bulezau
+- "Bulezau"
 ---
-# [Bulezau](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/bulezau-mpmm.md)
+# [Bulezau](Compendium/bestiary/fiend/bulezau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67, Mordenkainen's Tome of Foes p. 131*  
 
 > [!quote] A quote from Tasha  
@@ -47,11 +48,9 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "speed": "40 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 9"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 9"
 "languages": "Abyssal, telepathy 60 ft."
 "cr": "3"
 "traits":
@@ -63,14 +62,13 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
       \ feet, with or without a running start."
     "name": "Standing Leap"
   - "desc": "The bulezau has advantage on Strength and Dexterity saving throws made\
-      \ against effects that would knock it [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ against effects that would knock it [prone](Rules/conditions.md#Prone)."
     "name": "Sure-Footed"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 8 (1d12\
       \ + 2) piercing damage plus 4 (1d8) necrotic damage. If the target is a creature,\
       \ it must succeed on a DC 13 Constitution saving throw against disease or become\
-      \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ until the disease ends. While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ [poisoned](Rules/conditions.md#Poisoned) until the disease ends. While [poisoned](Rules/conditions.md#Poisoned)\
       \ in this way, the target sports festering boils, coughs up flies, and sheds\
       \ rotting skin, and the target must repeat the saving throw after every 24 hours\
       \ that elapse. On a successful save, the disease ends. On a failed save, the\
@@ -80,6 +78,6 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/bulezau-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/bulezau-mpmm.webp"
 ```
 ^statblock

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Downtime Activity: Crime
+- "Downtime Activity: Crime"
 ---
 # Downtime Activity: Crime
 *Source: Xanathar's Guide to Everything p. 130* 
@@ -22,7 +22,7 @@ The character must make a series of checks, with the DC for all the checks chose
 
 The chosen DC can be 10, 15, 20, or 25. Successful completion of the crime yields a number of gold pieces, as shown on the Loot Value table.
 
-To attempt a crime, the character makes three checks: Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)), Dexterity using [thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md), and the player's choice of Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)), Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)), or Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)).
+To attempt a crime, the character makes three checks: Dexterity ([Stealth](Rules/skills.md#Stealth)), Dexterity using [thieves' tools](Compendium/items/thieves-tools.md), and the player's choice of Intelligence ([Investigation](Rules/skills.md#Investigation)), Wisdom ([Perception](Rules/skills.md#Perception)), or Charisma ([Deception](Rules/skills.md#Deception)).
 
 If none of the checks are successful, the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine.
 
@@ -32,10 +32,10 @@ If two checks are successful, the heist is a partial success, netting the charac
 
 If all three checks are successful, the character earns the full value of the loot.
 
-![Crime; Loot Value](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/crime-loot-value-xge.md)
+![Crime; Loot Value](Compendium/tables/crime-loot-value-xge.md)
 
 ## Complications
 
 A life of crime is filled with complications. Roll on the Crime Complications table (or create a complication of your own) if the character succeeds on only one check. If the character's rival is involved in crime or law enforcement, a complication ensues if the character succeeds on only two checks.
 
-![Crime Complications](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/crime-complications-xge.md)
+![Crime Complications](Compendium/tables/crime-complications-xge.md)

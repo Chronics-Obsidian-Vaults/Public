@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/dmg
 - source/monster/cr/0
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Larva
+- "Larva"
 ---
-# [Larva](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/larva-dmg.md)
+# [Larva](Compendium/bestiary/fiend/larva-dmg.md)
 *Source: Dungeon Master's Guide p. 63*  
 
 ```statblock
@@ -40,6 +41,6 @@ aliases:
     "name": "Bite"
 "source":
   - "DMG"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/larva-dmg.webp"
+"image": "Compendium/bestiary/fiend/token/larva-dmg.webp"
 ```
 ^statblock

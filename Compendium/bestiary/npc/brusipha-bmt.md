@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/3
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brusipha
+- "Brusipha"
 ---
-# [Brusipha](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/brusipha-bmt.md)
+# [Brusipha](Compendium/bestiary/npc/brusipha-bmt.md)
 *Source: The Book of Many Things p. 127*  
 
 ```statblock
@@ -38,14 +39,13 @@ aliases:
   - "wisdom": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 17"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 17"
 "languages": "Abyssal, Common"
 "cr": "3"
 "traits":
@@ -67,26 +67,24 @@ aliases:
       \ 10 feet straight toward the target immediately before she hit, the target\
       \ takes an extra 4 (1d8) piercing damage, and if the target is a creature, it\
       \ must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet from\
-      \ Brusipha and have the [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
-      \ condition."
+      \ Brusipha and have the [prone](Rules/conditions.md#Prone) condition."
     "name": "Gore"
   - "desc": "Brusipha allows each ally within 30 feet of herself that has the Unerring\
       \ Tracker trait to make one weapon attack as a reaction against the target of\
       \ that ally's Unerring Tracker."
     "name": "Incite the Hunters (Recharges after a Short or Long Rest)"
   - "desc": "Brusipha casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 13):\n\n**At will:** [Prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md),\
-      \ [Speak with Animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-animals.md)\n\
-      \n**1/day each:** [Bestow Curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md),\
-      \ [Command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [Crown of Madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md)"
+      \ ability (spell save DC 13):\n\n**At will:** [Prestidigitation](Compendium/spells/prestidigitation.md),\
+      \ [Speak with Animals](Compendium/spells/speak-with-animals.md)\n\n**1/day each:**\
+      \ [Bestow Curse](Compendium/spells/bestow-curse.md), [Command](Compendium/spells/command.md),\
+      \ [Crown of Madness](Compendium/spells/crown-of-madness.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Brusipha magically creates a psychic link with one creature she can see.\
       \ For the next hour, Brusipha knows the current distance and direction to the\
       \ target if it is on the same plane of existence. The link ends if Brusipha\
-      \ has the [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ condition or uses this ability on a different target."
+      \ has the [incapacitated](Rules/conditions.md#Incapacitated) condition or uses\
+      \ this ability on a different target."
     "name": "Unerring Tracker"
 "reactions":
   - "desc": "When Brusipha reduces a hostile creature to 0 hit points, she gains 8\
@@ -94,6 +92,6 @@ aliases:
     "name": "Baphomet's Blessing"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/brusipha-bmt.webp"
+"image": "Compendium/bestiary/npc/token/brusipha-bmt.webp"
 ```
 ^statblock

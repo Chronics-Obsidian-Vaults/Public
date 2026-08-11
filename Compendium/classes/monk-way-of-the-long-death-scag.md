@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/scag
 - source/subclass/monk/long-death
 aliases:
-- Way of the Long Death
+- "Way of the Long Death"
 ---
 # Way of the Long Death
 *[Monk](./monk.md): Monastic Tradition*  
@@ -43,12 +43,9 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Way of the Long Death (Level 3)
-
 Monks of the Way of the Long Death are obsessed with the meaning and mechanics of dying. They capture creatures and prepare elaborate experiments to capture, record, and understand the moments of their demise. They use this knowledge to guide their understanding of martial arts, yielding a deadly fighting style.
+
+## Subclass Features
 
 ### Touch of Death (Level 3)
 
@@ -56,7 +53,7 @@ Starting when you choose this tradition at 3rd level, your study of death allows
 
 ### Hour of Reaping (Level 6)
 
-At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened) of you until the end of your next turn.
+At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be [frightened](Rules/conditions.md#Frightened) of you until the end of your next turn.
 
 ### Mastery of Death (Level 11)
 

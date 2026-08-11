@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- House Tarkanan Assignments
+- "House Tarkanan Assignments"
 ---
 # House Tarkanan Assignments
 *Source: Eberron: Rising from the Last War p. 253* 

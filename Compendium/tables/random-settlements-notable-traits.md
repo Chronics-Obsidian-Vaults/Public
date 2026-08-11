@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Random Settlements; Notable Traits
+- "Random Settlements; Notable Traits"
 ---
 # Random Settlements; Notable Traits
 *Source: Dungeon Master's Guide p. 112* 

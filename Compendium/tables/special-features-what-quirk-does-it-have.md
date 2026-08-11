@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Special Features; What Quirk Does It Have
+- "Special Features; What Quirk Does It Have"
 ---
 # Special Features; What Quirk Does It Have
 *Source: Dungeon Master's Guide p. 141* 

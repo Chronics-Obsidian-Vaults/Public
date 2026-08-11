@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scorpion
+- "Scorpion"
 ---
-# [Scorpion](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/scorpion.md)
+# [Scorpion](Compendium/bestiary/beast/scorpion.md)
 *Source: Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -33,8 +34,7 @@ aliases:
   - !!int "8"
   - !!int "2"
 "speed": "10 ft."
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., passive Perception 9"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., passive Perception 9"
 "languages": ""
 "cr": "0"
 "actions":
@@ -45,7 +45,7 @@ aliases:
     "name": "Sting"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/scorpion.webp"
+"image": "Compendium/bestiary/beast/token/scorpion.webp"
 ```
 ^statblock
 

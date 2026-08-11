@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tridrone
+- "Tridrone"
 ---
-# [Tridrone](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/tridrone.md)
-*Source: Monster Manual p. 225, The Book of Many Things*  
+# [Tridrone](Compendium/bestiary/construct/tridrone.md)
+*Source: Monster Manual p. 225*  
 
 Tridrones are shaped like inverted pyramids. They lead lesser modrons in battle.
 
@@ -66,8 +67,9 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 10"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/2"
 "traits":
@@ -88,7 +90,6 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
     "name": "Javelin"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/tridrone.webp"
+"image": "Compendium/bestiary/construct/token/tridrone.webp"
 ```
 ^statblock

@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/uncommon
 - source/item/tier/major
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of the Adder"
 item_type: weapon
 item_subtype: simple
@@ -16,12 +17,12 @@ attunement: required
 ---
 # Staff of the Adder
 *Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warlock)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/staff-of-the-adder.webp#right)
+![](Compendium/items/img/staff-of-the-adder.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 You can use a bonus action to speak this staff's command word and make the head of the staff become that of an animate poisonous snake for 1 minute. By using another bonus action to speak the command word again, you return the staff to its normal inanimate form.

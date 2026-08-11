@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -11,12 +12,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Kavalrachni
+- "Duergar Kavalrachni"
 ---
-# [Duergar Kavalrachni](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/duergar-kavalrachni-mpmm.md)
+# [Duergar Kavalrachni](Compendium/bestiary/humanoid/duergar-kavalrachni-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*  
 
-Kavalrachni are duergar cavalry trained to fight while riding [female steeders](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
+Kavalrachni are duergar cavalry trained to fight while riding [female steeders](Compendium/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
 
 ## Duergar
 
@@ -45,8 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[scale mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/scale-mail.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[scale mail](Compendium/items/scale-mail.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -59,22 +59,23 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 10"
+"gear":
+  - "[heavy crossbow](Compendium/items/heavy-crossbow.md)"
+  - "[war pick](Compendium/items/war-pick.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
   - "desc": "When the duergar hits a target with a melee attack while mounted, the\
       \ mount can use its reaction to make one melee attack against the same target."
     "name": "Cavalry Training"
-  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-      \ and [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](Rules/conditions.md#Charmed),\
+      \ [paralyzed](Rules/conditions.md#Paralyzed), and [poisoned](Rules/conditions.md#Poisoned)\
       \ conditions."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The duergar makes two War Pick attacks."
@@ -85,19 +86,19 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - "desc": "*Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:*\
       \ 5 (1d10) piercing damage."
     "name": "Heavy Crossbow"
-  - "desc": "The duergar magically turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The duergar magically turns [invisible](Rules/conditions.md#Invisible)\
       \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-      \ throw, or its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ is broken (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). Any equipment the duergar wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ with it. While the [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ duergar is mounted, the mount is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ as well. The invisibility ends early on the mount immediately after it attacks."
+      \ throw, or its [concentration](Rules/conditions.md#Concentration) is broken\
+      \ (as if [concentrating](Rules/conditions.md#Concentration) on a spell). Any\
+      \ equipment the duergar wears or carries is [invisible](Rules/conditions.md#Invisible)\
+      \ with it. While the [invisible](Rules/conditions.md#Invisible) duergar is mounted,\
+      \ the mount is [invisible](Rules/conditions.md#Invisible) as well. The invisibility\
+      \ ends early on the mount immediately after it attacks."
     "name": "Shared Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/duergar-kavalrachni-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/duergar-kavalrachni-mpmm.webp"
 ```
 ^statblock
 

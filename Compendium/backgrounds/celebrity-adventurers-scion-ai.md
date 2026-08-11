@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ai
 aliases:
-- Celebrity Adventurer's Scion
+- "Celebrity Adventurer's Scion"
 ---
 # Celebrity Adventurer's Scion
 *Source: Acquisitions Incorporated p. 48*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/img/celebrity-adventurers-scion.webp#right)
+![](Compendium/backgrounds/img/celebrity-adventurers-scion.webp#right)
 
-- **Skill Proficiencies.** [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)  
-- **Tool Proficiencies.** [Disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md)  
+- **Skill Proficiencies.** [Perception](Rules/skills.md#Perception), [Performance](Rules/skills.md#Performance)  
+- **Tool Proficiencies.** [Disguise kit](Compendium/items/disguise-kit.md)  
 - **Languages.** Two of your choice  
-- **Equipment.** [Disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md), a set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 30 gp.  
+- **Equipment.** [Disguise kit](Compendium/items/disguise-kit.md), a set of [fine clothes](Compendium/items/fine-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 30 gp.  
 
 Your family name strikes fear and admiration in the hearts of the common folk—but that's got nothing to do with you. Songs and stories celebrating the adventuring exploits of your famous parent are widely known. Kids across the land grew up wishing they were you. But being the child of a famous adventurer wasn't all hugs and kisses.
 

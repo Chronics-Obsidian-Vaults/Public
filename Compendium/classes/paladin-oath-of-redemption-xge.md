@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/paladin/redemption
 aliases:
-- Oath of Redemption
+- "Oath of Redemption"
 ---
 # Oath of Redemption
 *[Paladin](./paladin.md): Sacred Oath*  
@@ -43,42 +43,29 @@ aliases:
 
 ^class-progression
 
+![](Compendium/classes/img/redemption-paladin.webp#right)
 
 > [!quote] A quote from Xanathar  
 > 
 > Redemption. So you feel bad about having done something, and then you have to do something to feel better? Why don't you just kill and eat someone? That always makes me feel better.
 
-## Class Features
-
-### Oath of Redemption (Level 3)
-
 The Oath of Redemption sets a paladin on a difficult path, one that requires a holy warrior to use violence only as a last resort. Paladins who dedicate themselves to this oath believe that any person can be redeemed and that the path of benevolence and justice is one that anyone can walk. These paladins face evil creatures in the hope of turning their foes to the light, and they slay their enemies only when such a deed will clearly save other lives. Paladins who follow this path are known as redeemers.
 
 While redeemers are idealists, they are no fools. Redeemers know that undead, demons, devils, and other supernatural threats can be inherently evil. Against such foes, paladins who swear this oath bring the full wrath of their weapons and spells to bear. Yet the redeemers still pray that, one day, even creatures of wickedness will invite their own redemption.
+
+## Subclass Features
 
 ### Tenets of Redemption (Level 3)
 
 The tenets of the Oath of Redemption hold a paladin to a high standard of peace and justice.
 
-#### Peace
-_Source: Xanathar's Guide to Everything_
+**Peace.** Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
 
-Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
+**Innocence.** All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
 
-#### Innocence
-_Source: Xanathar's Guide to Everything_
+**Patience.** Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.
 
-All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
-
-#### Patience
-_Source: Xanathar's Guide to Everything_
-
-Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.
-
-#### Wisdom
-_Source: Xanathar's Guide to Everything_
-
-Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
+**Wisdom.** Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
 
 ### Oath Spells (Level 3)
 
@@ -88,11 +75,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [sanctuary](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sanctuary.md), [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md) |
-| 5th | [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md), [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md) |
-| 9th | [counterspell](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/counterspell.md), [hypnotic pattern](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hypnotic-pattern.md) |
-| 13th | [Otiluke's resilient sphere](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/otilukes-resilient-sphere.md), [stoneskin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stoneskin.md) |
-| 17th | [hold monster](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-monster.md), [wall of force](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-force.md) |
+| 3rd | [sanctuary](Compendium/spells/sanctuary.md), [sleep](Compendium/spells/sleep.md) |
+| 5th | [calm emotions](Compendium/spells/calm-emotions.md), [hold person](Compendium/spells/hold-person.md) |
+| 9th | [counterspell](Compendium/spells/counterspell.md), [hypnotic pattern](Compendium/spells/hypnotic-pattern.md) |
+| 13th | [Otiluke's Resilient Sphere](Compendium/spells/otilukes-resilient-sphere.md), [stoneskin](Compendium/spells/stoneskin.md) |
+| 17th | [hold monster](Compendium/spells/hold-monster.md), [wall of force](Compendium/spells/wall-of-force.md) |
 ^oath-of-redemption-spells
 
 ### Channel Divinity (Level 3)
@@ -101,7 +88,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 ### Emissary of Peace (Level 3)
 
-You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ([Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) checks for the next 10 minutes.
+You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ([Persuasion](Rules/skills.md#Persuasion)) checks for the next 10 minutes.
 
 ### Rebuke the Violent (Level 3)
 
@@ -115,7 +102,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Protective Spirit (Level 15)
 
-Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `1d6` + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).
+Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `1d6` + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](Rules/conditions.md#Incapacitated).
 
 ### Emissary of Redemption (Level 20)
 

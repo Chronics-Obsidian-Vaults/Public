@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Portentia Dran
+- "Portentia Dran"
 ---
-# [Portentia Dran](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/portentia-dran-ai.md)
+# [Portentia Dran](Compendium/bestiary/npc/portentia-dran-ai.md)
 *Source: Acquisitions Incorporated p. 208*  
 
 Now the owner and driving force behind Dran Enterprises-perhaps Acquisitions Incorporated's most notable rival in the adventuring-for-profit-and-power biz—Portentia Dran is more than she appears to be. Quite literally. The person known as Portentia is actually a changeling, who took the place of the real Portentia before her fifth year.
@@ -27,7 +28,7 @@ Whether in combat or social encounters, Portentia shifts frequently between diff
 "subtype": "shapechanger"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[chain shirt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-shirt.md)"
+"ac_class": "[chain shirt](Compendium/items/chain-shirt.md)"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "4"
@@ -40,21 +41,22 @@ Whether in combat or social encounters, Portentia shifts frequently between diff
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+3"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed)"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common, Elvish"
 "cr": "3"
 "traits":
   - "desc": "Portentia deals an extra 14 (4d6) damage when she hits a target with\
       \ a weapon attack and has advantage on the attack roll, or when the target is\
-      \ within 5 feet of an ally of Portentia that isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ within 5 feet of an ally of Portentia that isn't [incapacitated](Rules/conditions.md#Incapacitated)\
       \ and Portentia doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
@@ -74,6 +76,6 @@ Whether in combat or social encounters, Portentia shifts frequently between diff
     "name": "Change Shape"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/portentia-dran-ai.webp"
+"image": "Compendium/bestiary/npc/token/portentia-dran-ai.webp"
 ```
 ^statblock

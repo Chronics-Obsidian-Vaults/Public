@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/minor
 - source/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Swimming"
 item_type: wondrous
 item_subtype: ring

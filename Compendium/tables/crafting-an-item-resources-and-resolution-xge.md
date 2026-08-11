@@ -5,15 +5,15 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Crafting an Item; Resources and Resolution
+- "Crafting an Item; Resources and Resolution"
 ---
 # Crafting an Item; Resources and Resolution
 *Source: Xanathar's Guide to Everything p. 128* 
 
 | Proficiency | Items |
 |-------------|-------|
-| [Herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md) | Antitoxin, potion of healing |
-| [Leatherworker's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leatherworkers-tools.md) | Leather armor, boots |
-| [Smith's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/smiths-tools.md) | Armor, weapons |
-| [Weaver's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/weavers-tools.md) | Cloaks, robes |
+| [Herbalism kit](Compendium/items/herbalism-kit.md) | Antitoxin, potion of healing |
+| [Leatherworker's tools](Compendium/items/leatherworkers-tools.md) | Leather armor, boots |
+| [Smith's tools](Compendium/items/smiths-tools.md) | Armor, weapons |
+| [Weaver's tools](Compendium/items/weavers-tools.md) | Cloaks, robes |
 ^proficiency-items

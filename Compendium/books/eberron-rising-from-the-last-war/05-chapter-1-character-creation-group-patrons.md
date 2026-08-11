@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Chapter 1: Character Creation - Group Patrons
+- "Chapter 1: Character Creation - Group Patrons"
 ---
 # Chapter 1: Character Creation - Group Patrons
 *Source: Eberron: Rising from the Last War, p. 64* 
@@ -60,7 +60,7 @@ When you run your own organization, you can use the Running a Business downtime 
 
 Here are the most likely types of patrons for an adventuring group in Eberron. Presented in alphabetical order, the patrons each include an example.
 
-![Patrons in Eberron; Patrons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/patrons-in-eberron-patrons-erlw.md)
+![Patrons in Eberron; Patrons](Compendium/tables/patrons-in-eberron-patrons-erlw.md)
 
 ## Adventurers' Guild
 
@@ -119,7 +119,7 @@ As members of an adventurers' guild, your group gains the following benefits:
 
 **Referrals**. The guild can recommend hired services to its members, drawing on other guild members' experiences to provide honest, reliable, and skillful hirelings.
 
-**Storage**. The guild will store items for its members. The Clifftop guild has an account with House Kundarak banks that allow its members to store valuables in secure vaults. Some guilds have access to items such as a [bag of holding](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/bag-of-holding.md) or a safe that opens into a similar extradimensional space. In the worst case, an item can be hidden in a guildhall's basement for a time.
+**Storage**. The guild will store items for its members. The Clifftop guild has an account with House Kundarak banks that allow its members to store valuables in secure vaults. Some guilds have access to items such as a [bag of holding](Compendium/items/bag-of-holding.md) or a safe that opens into a similar extradimensional space. In the worst case, an item can be hidden in a guildhall's basement for a time.
 
 ### Build Your Group
 
@@ -129,15 +129,15 @@ Membership in an adventurers' guild doesn't affect the composition of your party
 
 Typically, an adventuring group has no particular contact within the larger guild. There's a local leader or bookkeeper who collects dues, but otherwise you might interact with a variety of different members of the guild in different contexts—when looking for a contract, gathering referrals, staying in the guildhall, and so on. The Guild Contact table provides inspiration for contacts you might encounter during any given encounter with your adventurer's guild.
 
-![Adventurers' Guild Contacts; Guild Contacts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/adventurers-guild-contacts-guild-contacts-erlw.md)
+![Adventurers' Guild Contacts; Guild Contacts](Compendium/tables/adventurers-guild-contacts-guild-contacts-erlw.md)
 
-![Headquarters of the Clifftop Adventurers' Guild](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/057-1-42.webp#center)
+![Headquarters of the Clifftop Adventurers' Guild](Compendium/books/eberron-rising-from-the-last-war/img/057-1-42.webp#center)
 
 ### Guild Adventures
 
 Among its various services, the Clifftop Adventurers' Guild offers a launchpad for all manner of adventures. Potential employers bring all manner of work to the guildhall, posting messages or seeking out those with specific fields of expertise. Guild members also relate news about opportunities via word of mouth. Such jobs might resemble those assigned by any other patron. Without a patron directing your assignments, your group is free to pursue its own goals, whether you're seeking wealth, struggling against evil, pursuing a personal vendetta, or simply reacting to disastrous events around you. The Guild Adventures table refers to the descriptions of other patrons in this section; your DM can use the adventure ideas in those descriptions to flesh out job opportunities available through your guild.
 
-![Guild Adventures](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/guild-adventures-erlw.md)
+![Guild Adventures](Compendium/tables/guild-adventures-erlw.md)
 
 In any of these cases, the potential employer might represent an established organization (a crime syndicate or university, for example) or might be independent like your party. In the latter case, there's always the possibility that you could end up competing with an organization—running up against a crime syndicate while pursuing a criminal job, perhaps, or competing with university researchers to plunder a ruin. This competition might turn into a rivalry, or it could evolve into employment, with the crime syndicate or university recognizing your talent and becoming your patron.
 
@@ -206,41 +206,41 @@ With a crime syndicate as your group's patron, you gain the following benefits:
 
 Naturally, a large portion of the Boromar Clan's members come from a criminal background. There's no reason characters with other backgrounds can't be part of the syndicate, though. The Boromars recruit ex-soldiers as muscle, trained sages for research, sailors to crew smuggling vessels, and charlatans and urchins for their unique talents. Consider some or all of these roles for characters in your party:
 
-**Bruiser**. Sometimes subtlety means breaking just one of a snitch's kneecaps. The Bruiser uses force and the threat of force to make sure that the crime syndicate gets what it wants. Strength is a natural prerequisite for the role, but Charisma can also be useful, especially when combined with proficiency in [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation) to reinforce the danger inherent in the Bruiser's presence. Plenty of Bruisers have a criminal past, but former soldiers are often recruited into this role as well. Fighters and rogues make natural Bruisers.
+**Bruiser**. Sometimes subtlety means breaking just one of a snitch's kneecaps. The Bruiser uses force and the threat of force to make sure that the crime syndicate gets what it wants. Strength is a natural prerequisite for the role, but Charisma can also be useful, especially when combined with proficiency in [Intimidation](Rules/skills.md#Intimidation) to reinforce the danger inherent in the Bruiser's presence. Plenty of Bruisers have a criminal past, but former soldiers are often recruited into this role as well. Fighters and rogues make natural Bruisers.
 
-**Burglar**. Agile and nimble, the Burglar relies on Dexterity and proficiency in skills such as [Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics), [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand), and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth) to get in to a target location, take valuables, and get out without being noticed. Some Burglars specialize in certain types of theft, such as housebreaking or picking pockets. Besides characters with the criminal background, young urchins often find a place in criminal syndicates by filling this role. Rogues are natural Burglars, but anyone else with the right combination of skills and abilities can do the job.
+**Burglar**. Agile and nimble, the Burglar relies on Dexterity and proficiency in skills such as [Acrobatics](Rules/skills.md#Acrobatics), [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand), and [Stealth](Rules/skills.md#Stealth) to get in to a target location, take valuables, and get out without being noticed. Some Burglars specialize in certain types of theft, such as housebreaking or picking pockets. Besides characters with the criminal background, young urchins often find a place in criminal syndicates by filling this role. Rogues are natural Burglars, but anyone else with the right combination of skills and abilities can do the job.
 
-**Mastermind**. Somebody has to be the brains of any criminal operation—that's where the Mastermind comes in. A high Intelligence benefits this character, as does proficiency in skills such as [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight) and [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation). Masterminds often come from backgrounds such as acolyte, noble, or sage, that give them a broad range of knowledge to support their schemes. Bards, rogues, and wizards are often drawn to this role.
+**Mastermind**. Somebody has to be the brains of any criminal operation—that's where the Mastermind comes in. A high Intelligence benefits this character, as does proficiency in skills such as [Insight](Rules/skills.md#Insight) and [Investigation](Rules/skills.md#Investigation). Masterminds often come from backgrounds such as acolyte, noble, or sage, that give them a broad range of knowledge to support their schemes. Bards, rogues, and wizards are often drawn to this role.
 
 **Safecracker**. The "breaking" part of "breaking and entering" is the Safecracker's job. A typical Safecracker might have proficiency with thieves' tools, as well as the Dexterity required to use them expertly. Intelligence can be important for figuring out complicated locks and secret doors. Many Safecrackers also boast a high Strength for those cases where lockpicks fail. Safecrackers often come from criminal backgrounds, but characters with experience using other tools and devices, including guild artisans and even sailors, also fall naturally into this role. Artificer or rogue makes a natural class choice for the Safecracker.
 
-**Talker**. From con artists to fences, anyone who relies on interpersonal skills and a network of contacts falls into the role of the Talker. Charisma proves useful for this role, along with proficiencies in skills such as [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), and [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion). The charlatan background is perfect for Talkers, but criminals, urchins, and others can fill the role with the right skills. Bards are a natural fit for the job as well.
+**Talker**. From con artists to fences, anyone who relies on interpersonal skills and a network of contacts falls into the role of the Talker. Charisma proves useful for this role, along with proficiencies in skills such as [Deception](Rules/skills.md#Deception), [Intimidation](Rules/skills.md#Intimidation), and [Persuasion](Rules/skills.md#Persuasion). The charlatan background is perfect for Talkers, but criminals, urchins, and others can fill the role with the right skills. Bards are a natural fit for the job as well.
 
 ### Types of Crime
 
 Your work as syndicate members involves more than simple street swindles or pickpocketing. A team with your skills comes together for greater purposes—more dangerous risks and far more splendid rewards. As a group, consider the options on the Syndicate Crimes table and work with your DM to decide what kinds of work you do for the Boromar Clan.
 
-![Types of Crime; Syndicate Crimes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/types-of-crime-syndicate-crimes-erlw.md)
+![Types of Crime; Syndicate Crimes](Compendium/tables/types-of-crime-syndicate-crimes-erlw.md)
 
 ### Infamy
 
 Even among the notorious Boromar Clan, your group has a distinct identity and a reputation. What's the event or unique trait that makes your crew stand out? Consult the Group Infamy table for suggestions on how your group might stand out within the larger syndicate.
 
-![Group Infamy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/group-infamy-erlw.md)
+![Group Infamy](Compendium/tables/group-infamy-erlw.md)
 
 ### Rival Outfit
 
 Some criminals believe you can't do a job without betraying your partners. Perhaps you have your own share of adversaries you've angered. The Group Rivals table presents a host of groups and individuals who might—legitimately or otherwise—hold a grudge against you.
 
-![Rival Outfit; Group Rivals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/rival-outfit-group-rivals-erlw.md)
+![Rival Outfit; Group Rivals](Compendium/tables/rival-outfit-group-rivals-erlw.md)
 
-![Boromar Clan Nightclub](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/058-1-43.webp#center)
+![Boromar Clan Nightclub](Compendium/books/eberron-rising-from-the-last-war/img/058-1-43.webp#center)
 
 ### Crime Syndicate Contacts
 
 Everyone has a well-defined place in the Boromar Clan hierarchy. You report to a contact who oversees your work, giving you assignments, and collecting the syndicate's cut. This person might be a criminal mastermind who plans all your exploits, or they could leave the planning to your group. In any case, the Syndicate Contact table can help you define the personality of this contact.
 
-![Crime Syndicate Contacts; Syndicate Contact](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/crime-syndicate-contacts-syndicate-contact-erlw.md)
+![Crime Syndicate Contacts; Syndicate Contact](Compendium/tables/crime-syndicate-contacts-syndicate-contact-erlw.md)
 
 ### Other Crime Syndicates
 
@@ -289,21 +289,21 @@ Dragonmarked houses employ adventurers who suit their needs. The roles character
 
 Your group and your DM should decide together which house employs you. The nature of the missions you undertake depends in part on the house or guild you work for, but there are general categories of work that every house needs agents to perform on its behalf. The House Missions table provides suggestions for which house might employ you along with multiple possibilities for adventures that overlap with their interests. For the more general kind of work you might carry out on behalf of any dragonmarked house, consult the General House Missions table.
 
-![General House Missions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/general-house-missions-erlw.md)
+![General House Missions](Compendium/tables/general-house-missions-erlw.md)
 
-![House Missions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/house-missions-erlw.md)
+![House Missions](Compendium/tables/house-missions-erlw.md)
 
 ### House Status
 
 Politics within a dragonmarked house can be vicious. Perhaps your the house leadership's favorite scion. Perhaps you've been exiled from your house for misdeeds—your own or another's. In any case, use the Group Status table to determine your party's standing within the organization.
 
-![House Status; Group Status](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/house-status-group-status-erlw.md)
+![House Status; Group Status](Compendium/tables/house-status-group-status-erlw.md)
 
 ### Dragonmarked House Contacts
 
 Your primary contact within your patron house is another house agent—perhaps a dragonmarked heir, another family member, or a guild leader. Some contacts are devoted to the house and its interests, while others might use your group to pursue a personal agenda. Consult the House Contacts table to determine what sort of arbiter oversees your party.
 
-![Dragonmarked House Contacts; House Contacts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/dragonmarked-house-contacts-house-contacts-erlw.md)
+![Dragonmarked House Contacts; House Contacts](Compendium/tables/dragonmarked-house-contacts-house-contacts-erlw.md)
 
 ### The Twelve
 
@@ -338,7 +338,7 @@ The Twelve is headquartered in a many-spired keep that floats in the air above t
 
 With a long record of providing benefit to society at large, the Twelve is widely respected. Some of their closest allies include the following groups:
 
-![Headquarters of the Twelve](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/059-1-44.webp#center)
+![Headquarters of the Twelve](Compendium/books/eberron-rising-from-the-last-war/img/059-1-44.webp#center)
 
 **Dragonmarked Houses**. Above all, the Twelve has the almost universal support of the dragonmarked houses, which provide the funding to support its continued operation. One of the few things that all the houses agree on is that the Twelve should be allowed to do its work in peace. Agents of the Twelve can count on at least a minimal level of assistance from the houses in case of dire need.
 
@@ -370,7 +370,7 @@ The King's Citadel is based in Breland's capital city of Wroat, under the comman
 
 The Sharn office of the King's Citadel is in Andith Tower in the Ambassador Towers district. Though a knight marshal commands the office, most of the King's Citadel members in Sharn are Dark Lanterns, and thus under the authority of a scheming and ruthless gnome named Talleon Haliar Tonan.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/060-1-45.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/060-1-45.webp#center)
 
 #### Agents
 
@@ -410,7 +410,7 @@ You gain the following benefits when your group's patron is an espionage agency:
 
 Espionage agents are typically both highly trained and tightly specialized. The type of missions you undertake can shape your group's composition; you might be a team of hunters or investigators, focused on tracking people down or gathering information. More likely, you're a diverse team with a range of skills that allow you undertake a variety of different missions on your patron's behalf. Consider some or all of these roles for the characters in your party:
 
-**Chameleon**. A master of disguise, sleight of hand, and deception, the Chameleon can perform the work of the Investigator or a Confiscator right under a target's nose—or provide cover to agents with different specialties as they do their jobs. A high Charisma, proficiency with the disguise kit (or access to spells that cloak or disguise one's appearance), and proficiency with skills such as [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance), and [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand) all greatly benefit the Chameleon. Bards and rogues, as well as characters with the charlatan, entertainer, or urchin background, often excel in this role.
+**Chameleon**. A master of disguise, sleight of hand, and deception, the Chameleon can perform the work of the Investigator or a Confiscator right under a target's nose—or provide cover to agents with different specialties as they do their jobs. A high Charisma, proficiency with the disguise kit (or access to spells that cloak or disguise one's appearance), and proficiency with skills such as [Deception](Rules/skills.md#Deception), [Performance](Rules/skills.md#Performance), and [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand) all greatly benefit the Chameleon. Bards and rogues, as well as characters with the charlatan, entertainer, or urchin background, often excel in this role.
 
 > [!readaloud] Breland Ledger—Lies on trial! Karrn Spy faces justice
 > 
@@ -421,39 +421,39 @@ Espionage agents are typically both highly trained and tightly specialized. The 
 > A spokesperson for the King's Citadel vehemently denied reports that Drinn is employed by the Citadel.
 ^breland-ledgerlies-on-trial-karrn-spy-faces-justice
 
-**Confiscator**. Sometimes an espionage agency needs something stolen—a document that incriminates a public figure to a prototype war machine. The Confiscator has the key skills for such jobs. A good Dexterity score proves helpful in undertaking such tasks, especially if it's enhanced with proficiency with thieves' tools and the [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand) and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth) skills. Confiscators are often rogues, and many have a history of stealing for profit rather than national interest.
+**Confiscator**. Sometimes an espionage agency needs something stolen—a document that incriminates a public figure to a prototype war machine. The Confiscator has the key skills for such jobs. A good Dexterity score proves helpful in undertaking such tasks, especially if it's enhanced with proficiency with thieves' tools and the [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand) and [Stealth](Rules/skills.md#Stealth) skills. Confiscators are often rogues, and many have a history of stealing for profit rather than national interest.
 
-**Hunter**. The Hunter stalks humanoid prey, for purposes of assassination, abduction, or gathering information. A combination of combat prowess with stealth and interaction skills makes for well-prepared Hunters. Rangers and rogues prove particularly adept at this role, as might anyone with proficiency in the [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception) and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth) skills. A high Charisma and proficiency in [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), and [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) skills can also be useful. Hunters often come from backgrounds such as outlander or urchin.
+**Hunter**. The Hunter stalks humanoid prey, for purposes of assassination, abduction, or gathering information. A combination of combat prowess with stealth and interaction skills makes for well-prepared Hunters. Rangers and rogues prove particularly adept at this role, as might anyone with proficiency in the [Investigation](Rules/skills.md#Investigation), [Perception](Rules/skills.md#Perception) and [Stealth](Rules/skills.md#Stealth) skills. A high Charisma and proficiency in [Deception](Rules/skills.md#Deception), [Intimidation](Rules/skills.md#Intimidation), and [Persuasion](Rules/skills.md#Persuasion) skills can also be useful. Hunters often come from backgrounds such as outlander or urchin.
 
-**Investigator**. The Investigator is the archetypal spy, a master of deductive reasoning and suave interaction. Naturally, [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation) can be a crucial skill, which many characters in this role combine with magical means of scrying to learn about their enemies and objectives. Bards and wizards make natural Investigators, especially if they can acquire one or more skills from among [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion), and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth). Investigators come from backgrounds as varied as charlatans, nobles, sages, and urchins.
+**Investigator**. The Investigator is the archetypal spy, a master of deductive reasoning and suave interaction. Naturally, [Investigation](Rules/skills.md#Investigation) can be a crucial skill, which many characters in this role combine with magical means of scrying to learn about their enemies and objectives. Bards and wizards make natural Investigators, especially if they can acquire one or more skills from among [Deception](Rules/skills.md#Deception), [Perception](Rules/skills.md#Perception), [Persuasion](Rules/skills.md#Persuasion), and [Stealth](Rules/skills.md#Stealth). Investigators come from backgrounds as varied as charlatans, nobles, sages, and urchins.
 
-**Operator**. An Operator leads or organizes a team of agents in the field. Like a military officer, the Operator issues orders and bears responsibility for the agents on the team. High Charisma and Intelligence scores help make the Operator a strong leader, especially in conjunction with skill proficiencies such as [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) and [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation). The wide array of skills used by other agents are also valuable to the Operator, who might end up stepping into a different role when the need arises. The Operator is often a bard and might come from a soldier or noble background (being accustomed to leadership in one form or another).
+**Operator**. An Operator leads or organizes a team of agents in the field. Like a military officer, the Operator issues orders and bears responsibility for the agents on the team. High Charisma and Intelligence scores help make the Operator a strong leader, especially in conjunction with skill proficiencies such as [Persuasion](Rules/skills.md#Persuasion) and [Investigation](Rules/skills.md#Investigation). The wide array of skills used by other agents are also valuable to the Operator, who might end up stepping into a different role when the need arises. The Operator is often a bard and might come from a soldier or noble background (being accustomed to leadership in one form or another).
 
-**Saboteur**. The Saboteur interferes with the functioning of enemy assets. More than a reckless bomber, they combine a willingness to destroy with a knack for infiltration. Proficiency with thieves' tools and in skills such as [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth) often serve the work of sabotage. The Saboteur benefits from an understanding of craft and magic items, making artificers particularly skilled in this role. Guild artisans might also disguise tools of destruction as mundane objects or works of art. Many Saboteurs come from backgrounds such as charlatans or soldiers.
+**Saboteur**. The Saboteur interferes with the functioning of enemy assets. More than a reckless bomber, they combine a willingness to destroy with a knack for infiltration. Proficiency with thieves' tools and in skills such as [Deception](Rules/skills.md#Deception), [Investigation](Rules/skills.md#Investigation), and [Stealth](Rules/skills.md#Stealth) often serve the work of sabotage. The Saboteur benefits from an understanding of craft and magic items, making artificers particularly skilled in this role. Guild artisans might also disguise tools of destruction as mundane objects or works of art. Many Saboteurs come from backgrounds such as charlatans or soldiers.
 
 ### Types of Espionage
 
 Espionage activities can be classified in three broad categories: counterintelligence, covert action, and intelligence gathering. Your party might focus on one of those areas, or perhaps you're the team that handles situations that other teams bungle. As a group, work with your DM and consult the Espionage Missions table to decide what kinds of missions you might undertake.
 
-![Types of Espionage; Espionage Missions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/types-of-espionage-espionage-missions-erlw.md)
+![Types of Espionage; Espionage Missions](Compendium/tables/types-of-espionage-espionage-missions-erlw.md)
 
 ### Secrets
 
 Most likely, your espionage work will eventually put you in possession of secrets others don't want you to know. When the time comes, consult the Secrets table to determine what clandestine knowledge your group possesses, and how it might make life complicated for you.
 
-![Secrets](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/secrets-erlw.md)
+![Secrets](Compendium/tables/secrets-erlw.md)
 
 ### Memorable Mission
 
 You engaged in a mission that still overshadows your work. Was it the perfect operation, or do you still carry scars from a mission gone horribly wrong? Consult the Memorable Mission table to determine the details of your career-defining exploit.
 
-![Memorable Mission](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/memorable-mission-erlw.md)
+![Memorable Mission](Compendium/tables/memorable-mission-erlw.md)
 
 ### Espionage Agency Contacts
 
 Your assignments come from a superior in the agency who typically works at a desk rather than in the field—compiling intelligence into reports for their superiors and coordinating the activities of multiple groups. Use the Agency Contacts table to determine the character of your superior, which can shape the kinds of missions you undertake and the degree of support you receive.
 
-![Espionage Agency Contacts; Agency Contacts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/espionage-agency-contacts-agency-contacts-erlw.md)
+![Espionage Agency Contacts; Agency Contacts](Compendium/tables/espionage-agency-contacts-agency-contacts-erlw.md)
 
 ### Other Espionage Agencies
 
@@ -495,7 +495,7 @@ Bitter Cyran avengers who punish those they believe responsible for the Mourning
 
 **The Five Nations**. Aundairians, Karrns, and Thranes are generally unsympathetic to the plight of displaced Cyrans. Many of them bitterly bear the scars of the war, their resentments reinforced by the deeds of violent Cyran extremists. Even the Brelish, for all their practiced indifference, become guarded when confronted by Cyrans, who represent a burden foisted upon them by their leaders. They tend to treat Cyran refugees as second-class citizens and vagabonds. Among non-Cyran communities, agents of Prince Oargev can't rely on aid from any of Cyre's former enemies.
 
-**The Lord of Blades.** In the depths of the Mournland, the closest thing to a sovereign is [the Lord of Blades](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/the-lord-of-blades-erlw.md)—a heavily enhanced warforged who seeks vengeance against those who created his people to serve as weapons. He is hostile to adventurers who enter the Mournland on missions of plunder, and the idea of Prince Oargev reclaiming the Mournland fills him with fury. He shows Oargev's agents no mercy.
+**The Lord of Blades.** In the depths of the Mournland, the closest thing to a sovereign is [the Lord of Blades](Compendium/bestiary/npc/the-lord-of-blades-erlw.md)—a heavily enhanced warforged who seeks vengeance against those who created his people to serve as weapons. He is hostile to adventurers who enter the Mournland on missions of plunder, and the idea of Prince Oargev reclaiming the Mournland fills him with fury. He shows Oargev's agents no mercy.
 
 ### Patron Benefits
 
@@ -518,33 +518,33 @@ With a head of state as your group's patron, you gain the following benefits:
 
 A head of state like Prince Oargev requires a variety of adventurers to do the range of tasks they require. Depending on the kinds of work you do, your party might include some or all of these roles:
 
-![Prince Oargev ir'Wynarn](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/061-1-46.webp#center)
+![Prince Oargev ir'Wynarn](Compendium/books/eberron-rising-from-the-last-war/img/061-1-46.webp#center)
 
-**Civil Servant**. The vast majority of work performed on behalf of a head of state has very little to do with deadly adventure: it's about prosecuting and judging criminals in the courts of law, hearing the petitions and complaints of citizens, collecting taxes, and interminable amounts of paperwork. Once in a while, though, a faithful Civil Servant gets forcefully pulled from this work and thrust into life-or-death situations, with or without help from more hardened adventurers. The knowledge and experience of a Civil Servant can often be useful, with some developing skills as clerics, rogues, wizards, or other classes. Such characters often come from the sage background and have proficiency in skills that reflect their studies, such as [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion).
+**Civil Servant**. The vast majority of work performed on behalf of a head of state has very little to do with deadly adventure: it's about prosecuting and judging criminals in the courts of law, hearing the petitions and complaints of citizens, collecting taxes, and interminable amounts of paperwork. Once in a while, though, a faithful Civil Servant gets forcefully pulled from this work and thrust into life-or-death situations, with or without help from more hardened adventurers. The knowledge and experience of a Civil Servant can often be useful, with some developing skills as clerics, rogues, wizards, or other classes. Such characters often come from the sage background and have proficiency in skills that reflect their studies, such as [Arcana](Rules/skills.md#Arcana), [History](Rules/skills.md#History), [Nature](Rules/skills.md#Nature), and [Religion](Rules/skills.md#Religion).
 
-**Diplomat**. Negotiating treaties, de-escalating conflicts, and issuing ultimatums are tasks that fall within the purview of the Diplomat, who typically puts their high Charisma to work in the service of the state. These characters often come from a noble background and bring proficiency in skills such as [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation) and [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) to their work. Bards are natural fits in this role, as are paladins—as long as they aren't asked to do things that violate the tenets of their oaths.
+**Diplomat**. Negotiating treaties, de-escalating conflicts, and issuing ultimatums are tasks that fall within the purview of the Diplomat, who typically puts their high Charisma to work in the service of the state. These characters often come from a noble background and bring proficiency in skills such as [Intimidation](Rules/skills.md#Intimidation) and [Persuasion](Rules/skills.md#Persuasion) to their work. Bards are natural fits in this role, as are paladins—as long as they aren't asked to do things that violate the tenets of their oaths.
 
-**Marshal**. Combat is the specialty of the Marshal, who focuses on enforcing the law of the land and bringing fugitives to justice. Fighters and paladins make natural Marshals, many being former soldiers who continue fighting the Last War in different venues. They often have reasonable Intelligence scores or proficiency in [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation).
+**Marshal**. Combat is the specialty of the Marshal, who focuses on enforcing the law of the land and bringing fugitives to justice. Fighters and paladins make natural Marshals, many being former soldiers who continue fighting the Last War in different venues. They often have reasonable Intelligence scores or proficiency in [Investigation](Rules/skills.md#Investigation).
 
-**Warden**. The Warden's focus isn't so much on the people of the nation, but on the land encompassed within its borders, both cultivated and wild. Sometimes that extends to protecting the border from incursions, but more often a Warden contend with monstrosities and wild beasts that threaten the populace, magical corruption that harms the land, and disasters jeopardizing the nation as a whole. Wardens are often rangers or druids, with proficiency in [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature) and [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception). They might come from backgrounds as outlanders or hermits, making them more comfortable in the wilds than in cities or royal courts.
+**Warden**. The Warden's focus isn't so much on the people of the nation, but on the land encompassed within its borders, both cultivated and wild. Sometimes that extends to protecting the border from incursions, but more often a Warden contend with monstrosities and wild beasts that threaten the populace, magical corruption that harms the land, and disasters jeopardizing the nation as a whole. Wardens are often rangers or druids, with proficiency in [Nature](Rules/skills.md#Nature) and [Perception](Rules/skills.md#Perception). They might come from backgrounds as outlanders or hermits, making them more comfortable in the wilds than in cities or royal courts.
 
 ### National Affairs
 
 Sometimes there's a fine line between the missions assigned by a head of state and those of an espionage agency or a military force, but your team's central focus is politics. As a group, consult the Cyran Affairs table and work with your DM to decide what kinds of adventures you undertake on behalf of Prince Oargev. The Heads of State table at the end of the section offers additional options for leaders who might make appealing patrons.
 
-![National Affairs; Cyran Affairs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/national-affairs-cyran-affairs-erlw.md)
+![National Affairs; Cyran Affairs](Compendium/tables/national-affairs-cyran-affairs-erlw.md)
 
 ### Official Status
 
 Heads of state employ a variety of agents. Some are officially recognized, but others are expected to operate on the borders of legality. Consult the State Status table to determine the nature of your group's work
 
-![Official Status; State Status](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/official-status-state-status-erlw.md)
+![Official Status; State Status](Compendium/tables/official-status-state-status-erlw.md)
 
 ### Head of State Contacts
 
 Often, your connection to your patron is quite direct—the head of state summons you, grants you an audience, and gives you an assignment or hears your report. Heads of state are busy people, though, and if your business isn't pressing, you might be handled by a functionary of the court. The State Contacts table provides several options for what functionaries your group might work with when the head of state is indisposed.
 
-![Head of State Contacts; State Contacts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/head-of-state-contacts-state-contacts-erlw.md)
+![Head of State Contacts; State Contacts](Compendium/tables/head-of-state-contacts-state-contacts-erlw.md)
 
 ### Other Heads of State
 
@@ -552,7 +552,7 @@ The head of almost any nation described in chapter 2 could be your patron. For s
 
 The Heads of State table offers suggestions for the kind of work you might do for other national leaders in Khorvaire, if Prince Oargev isn't your patron.
 
-![Other Heads of State; Heads of State](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/other-heads-of-state-heads-of-state-erlw.md)
+![Other Heads of State; Heads of State](Compendium/tables/other-heads-of-state-heads-of-state-erlw.md)
 
 ## Immortal Being
 
@@ -564,7 +564,7 @@ A mysterious figure who appears in lofty myths and children's fables, Sora Kell 
 
 One fact is indisputable: Sora Kell is an immortal being who employs mortals to do her bidding. In exchange, she trades lore from her boundless stores of magic items, racks of scrolls, libraries of ancient spells, maps of forgotten ruins, and tomes unveiling the mysteries of the multiverse, which she has secreted away in caches across the planes.
 
-![Sora Kell and a Dreamer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/062-1-47.webp#center)
+![Sora Kell and a Dreamer](Compendium/books/eberron-rising-from-the-last-war/img/062-1-47.webp#center)
 
 #### Appearances
 
@@ -611,23 +611,23 @@ The patronage of an immortal being is a relationship built on favors, not on emp
 
 No common thread unites adventurers with an immortal patron, except perhaps uncommon openness to the mysterious and unknown. You haven't been chosen because of your capabilities; they might have been chosen to fulfill the words of a prophecy, because they were born at auspicious times and places, or because they happened to be in a particular place at a certain time. Individual characters in your group might have different relationships with your patron, though; consider some or all of these roles for your characters:
 
-**Agent**. The Agent doesn't receive direct communications from an immortal patron, but puts faith in the dreams and inspiration of others, following such omens with an eager heart. This character is under no illusions of having a special role to play in the immortal's grand plans, but is ready to make sure those with such roles play them. This is often a character with no magical ability or sometimes from a scholarly background, such as a sage or hermit—perhaps someone familiar with lore about the immortal but not directly inspired by it. Agents typically have proficiency in skills such as [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion).
+**Agent**. The Agent doesn't receive direct communications from an immortal patron, but puts faith in the dreams and inspiration of others, following such omens with an eager heart. This character is under no illusions of having a special role to play in the immortal's grand plans, but is ready to make sure those with such roles play them. This is often a character with no magical ability or sometimes from a scholarly background, such as a sage or hermit—perhaps someone familiar with lore about the immortal but not directly inspired by it. Agents typically have proficiency in skills such as [Arcana](Rules/skills.md#Arcana), [History](Rules/skills.md#History), and [Religion](Rules/skills.md#Religion).
 
 **Innocent**. Some characters have no intention of becoming adventurers and desire no connection to the machinations of the immortals, but they get caught up in schemes and prophecies anyway. The Innocent might have been identified as a key part of a prophecy, or made what seemed like an innocent bargain with a harmless old hermit, or found an artifact with mysterious powers. The folk hero background is ideal for the Innocent, combining humble origins with a sense of destiny. Any class or proficiencies are suited for this role.
 
-**Visionary**. At least one character in the party should have a particular connection to your immortal patron. The Visionary might hear the patron's voice in dreams, see waking visions that convey the immortal's will, or interpret signs in accordance with prophecy. Different backgrounds might suggest different stories for a Visionary: An acolyte might have had a revelatory experience that paved the way for the immortal's communications. A hermit might have been plagued by disturbing dreams from youth. A sage might have made a lifetime study of the Draconic Prophecy. These characters are often clerics, druids, warlocks, or wizards, and typically proficient in skills such as [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana) and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion).
+**Visionary**. At least one character in the party should have a particular connection to your immortal patron. The Visionary might hear the patron's voice in dreams, see waking visions that convey the immortal's will, or interpret signs in accordance with prophecy. Different backgrounds might suggest different stories for a Visionary: An acolyte might have had a revelatory experience that paved the way for the immortal's communications. A hermit might have been plagued by disturbing dreams from youth. A sage might have made a lifetime study of the Draconic Prophecy. These characters are often clerics, druids, warlocks, or wizards, and typically proficient in skills such as [Arcana](Rules/skills.md#Arcana) and [Religion](Rules/skills.md#Religion).
 
 ### Serving an Immortal
 
 The tasks you perform for your immortal patron can be mysterious, even trivial seeming, but they always have implications within the immortal's larger plans. Often it's hard to tell what those implications might be—and stumbling upon hints of an immortal's broader agenda might prove frightening. Your tasks could involve fulfilling prophecies in deliberate ways, preventing prophesied events from coming to pass, or even engaging in seemingly random actions that further designs invisible to mortal eyes. Immortal beings might send you on all manner of adventures, such as those shown on the Immortal Missions table.
 
-![Serving an Immortal; Immortal Missions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/serving-an-immortal-immortal-missions-erlw.md)
+![Serving an Immortal; Immortal Missions](Compendium/tables/serving-an-immortal-immortal-missions-erlw.md)
 
 ### Immortal Contacts
 
 Immortal beings sometimes use mortal intermediaries to contact their agents, but most of them possess magic powerful enough to communicate with you directly, even over impossible distances. Consult the Immortal Communication table to determine what mysterious method your patron uses to direct your party.
 
-![Immortal Contacts; Immortal Communication](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/immortal-contacts-immortal-communication-erlw.md)
+![Immortal Contacts; Immortal Communication](Compendium/tables/immortal-contacts-immortal-communication-erlw.md)
 
 ### Other Immortal Beings
 
@@ -685,7 +685,7 @@ With an inquisitive agency as your group's patron, you gain the following benefi
 
 **Contacts**. Through the Finders' Guild, each associated inquisitive agency can benefit from the knowledge and experience of not only other inquisitives, but also bounty hunters, explorers, dragonshard prospectors, and others who make use of House Tharashk's talent for finding. Thus, an affiliated agency might find helpful allies not only in cities throughout the Five Nations, but even in remote corners of the wilderness where trackers and prospectors ply their trade. At the DM's discretion, your contacts might direct you to new cases, offer you leads in the case you're working on, put you in touch with their own network of contacts, or show up suddenly to pull you out of the fire. You can call in a favor from your agency to draw on the resources of any of your contacts. At the start of the campaign, roll twice on the Contacts table to choose two contacts. You will certainly acquire new contacts in the course of your adventures, who might or might not fit the descriptions of contacts on this table.
 
-![Patron Benefits; Contacts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/patron-benefits-contacts-erlw.md)
+![Patron Benefits; Contacts](Compendium/tables/patron-benefits-contacts-erlw.md)
 
 ### Build Your Group
 
@@ -695,19 +695,19 @@ A wide variety of talents can be useful in the work of an inquisitive, leading t
 
 **Consultant**. Sometimes skilled individuals end up working alongside inquisitives for a time. Such Consultants might work for a newspaper, study an esoteric field, or write crime fiction for a living. This character is usually similar to an Investigator, but typically has an unusual background or expert knowledge. The relationship between a Consultant and the rest of the party can be a source of drama—or comedy.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/063-1-48.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/063-1-48.webp#center)
 
-**Interrogator**. The Interrogator specializes in interaction with suspects, witnesses, or others who need persuasion to reveal what they know. A high Charisma combined with proficiency in both [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) and [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation) prove helpful in this role. Bards, paladins, and sorcerers have both the requisite talents and the ability to supplement their interrogations with magic.
+**Interrogator**. The Interrogator specializes in interaction with suspects, witnesses, or others who need persuasion to reveal what they know. A high Charisma combined with proficiency in both [Persuasion](Rules/skills.md#Persuasion) and [Intimidation](Rules/skills.md#Intimidation) prove helpful in this role. Bards, paladins, and sorcerers have both the requisite talents and the ability to supplement their interrogations with magic.
 
-**Investigator**. Investigators piece evidence into a coherent whole that explains a mystery. This character combines a high Intelligence score with proficiency in skills such as [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), and sometimes [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine). The Investigator might also use divination and other forms of magic to supplement those skills, making wizards a natural fit for this role.
+**Investigator**. Investigators piece evidence into a coherent whole that explains a mystery. This character combines a high Intelligence score with proficiency in skills such as [Investigation](Rules/skills.md#Investigation), [Perception](Rules/skills.md#Perception), and sometimes [Medicine](Rules/skills.md#Medicine). The Investigator might also use divination and other forms of magic to supplement those skills, making wizards a natural fit for this role.
 
-**Tough**. An inquisitive's work is inherently dangerous, so it's often important for their group to include someone who can physically intervene when situations devolve into combat. The Tough's role might include fighting criminal thugs, kicking in doors, and even roughing up suspects, all of which suggests a high Strength score and combat ability. The [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation) skill can also helpfully supplement the Tough's work.
+**Tough**. An inquisitive's work is inherently dangerous, so it's often important for their group to include someone who can physically intervene when situations devolve into combat. The Tough's role might include fighting criminal thugs, kicking in doors, and even roughing up suspects, all of which suggests a high Strength score and combat ability. The [Intimidation](Rules/skills.md#Intimidation) skill can also helpfully supplement the Tough's work.
 
 ### Types of Inquisitive Work
 
 Much of the work done by inquisitives is relatively mundane: collecting evidence of marital infidelity, investigating insurance fraud, or finding runaways. Sometimes these relatively innocent investigations can lead into the shadowy underbelly of society and become more dangerous, but most adventurers prefer the more dangerous kinds of inquisitive work. Your group might specialize in one particular kind of work, or it might take whatever cases come its way. Roll or pick from the Investigative Expertise table to determine your agency's specialty.
 
-![Types of Inquisitive Work; Investigative Expertise](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/types-of-inquisitive-work-investigative-expertise-erlw.md)
+![Types of Inquisitive Work; Investigative Expertise](Compendium/tables/types-of-inquisitive-work-investigative-expertise-erlw.md)
 
 ### Signature Case
 
@@ -715,13 +715,13 @@ Inquisitives occupy a significant place in the popular imagination, both in thei
 
 Whether true or false, stories like these tend to cling to inquisitive agencies and color their reputations. What big story is associated with your agency (and possibly your party)? Are the stories accurate, or do they reflect only one side of a complicated situation? Roll on the Signature Case table or choose a case that cemented your reputation.
 
-![Signature Case](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/signature-case-erlw.md)
+![Signature Case](Compendium/tables/signature-case-erlw.md)
 
 ### Clientele
 
 Inquisitives tend to acquire a reputation for working with a certain type of person. Some are known for discretion, attracting wealthy clients who trust them to keep a secret. Others are known to have a soft spot for a sad story, drawing the type of client who has plenty of troubles but little money. Roll on or choose an option from the Clientele table to determine who tends to show up at your office with a case.
 
-![Clientele](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/clientele-erlw.md)
+![Clientele](Compendium/tables/clientele-erlw.md)
 
 ### Other Inquisitive Agencies
 
@@ -749,13 +749,13 @@ As an elite group of special forces, the Redcloaks don't include inexperienced a
 
 First, the Redcloaks do sometimes take inexperienced adventurers under their wings. Existing Redcloaks proved themselves on the battlefields of the Last War; if the group is to continue, the Redcloaks of the future have to learn the soldier's trade in different battles. To such ends, senior members of the battalion send your party on missions across Khorvaire to provide you with combat experience as well as to further Redcloak goals.
 
-Alternatively, your DM might decide to start the campaign with your characters at a higher level and already established as members of the Redcloaks (see ""Starting at Higher Level"" in chapter 1 of the "Dungeon Master's Guide"). In this case, you might also begin with magic items and other gear reflecting your status in the organization. The standard-issue uniform for the Redcloaks is a hooded crimson [cloak of protection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cloak-of-protection.md) bearing two badges: the seal of the Brelish crown on the left shoulder and a snarling displacer beast surrounded by the words, "First in battle, last to fall"—the Redcloak insignia and motto—on the right.
+Alternatively, your DM might decide to start the campaign with your characters at a higher level and already established as members of the Redcloaks (see ""Starting at Higher Level"" in chapter 1 of the "Dungeon Master's Guide"). In this case, you might also begin with magic items and other gear reflecting your status in the organization. The standard-issue uniform for the Redcloaks is a hooded crimson [cloak of protection](Compendium/items/cloak-of-protection.md) bearing two badges: the seal of the Brelish crown on the left shoulder and a snarling displacer beast surrounded by the words, "First in battle, last to fall"—the Redcloak insignia and motto—on the right.
 
 #### Allies
 
 As part of Breland's military forces, the Redcloaks can count on the support of the crown, the King's Citadel, and the larger Brelish army, largely summarized as the following parties:
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/064-1-49.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/064-1-49.webp#center)
 
 **King Boranel**. The king of Breland is a cautious advocate of the Redcloaks. He values their contributions but fears their power, which is why he divided the battalion after the end of the war. Still, he rewards loyalty among the Redcloaks by showing loyalty to them in return. Again and again, he has proven himself willing to exercise his power on behalf of a loyal Redcloak.
 
@@ -792,11 +792,11 @@ With a military force as your group's patron, you gain the following benefits:
 
 A military unit, like most adventuring parties, incorporates a range of useful skills while covering each member's weaknesses with another's strengths. Thus, characters of any class can find a home in such a unit, and a diversity of different skills and backgrounds benefits the group as a whole. Consider some or all of these roles for characters in your party:
 
-**Commander**. Every band of infantry has its leader, even if that person isn't a officer. The Commander earns that position through some combination of high Charisma and Intelligence—the ability to inspire and the capacity to plan. Proficiency in skills such as [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) and [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History) can be helpful as well. The Commander might be a career soldier (with that background) or someone from a noble background placed in command by virtue of birth. A Commander might be a fighter, bard, cleric, paladin, or even wizard—as magic proves valuable in military engagements.
+**Commander**. Every band of infantry has its leader, even if that person isn't a officer. The Commander earns that position through some combination of high Charisma and Intelligence—the ability to inspire and the capacity to plan. Proficiency in skills such as [Persuasion](Rules/skills.md#Persuasion) and [History](Rules/skills.md#History) can be helpful as well. The Commander might be a career soldier (with that background) or someone from a noble background placed in command by virtue of birth. A Commander might be a fighter, bard, cleric, paladin, or even wizard—as magic proves valuable in military engagements.
 
-**Medic**. Keeping soldiers alive is essential to military success, and that's the Medic's job. In an elite unit of adventurers, the Medic is often a cleric or has another class with healing ability, but these characters are also often proficient in the [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine) skill or use of a [herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md). A Medic can be a soldier who demonstrated aptitude in healing and got moved into this position, or a character from a different background (such as acolyte, sage, or even hermit) who decided to put medical expertise to military use.
+**Medic**. Keeping soldiers alive is essential to military success, and that's the Medic's job. In an elite unit of adventurers, the Medic is often a cleric or has another class with healing ability, but these characters are also often proficient in the [Medicine](Rules/skills.md#Medicine) skill or use of a [herbalism kit](Compendium/items/herbalism-kit.md). A Medic can be a soldier who demonstrated aptitude in healing and got moved into this position, or a character from a different background (such as acolyte, sage, or even hermit) who decided to put medical expertise to military use.
 
-**Scout**. Trained in navigating the wilderness and laying ambushes for enemy soldiers, the Scout melds the combat skill of a fighter with the skills of a ranger or rogue. High Dexterity and Wisdom scores, combined with proficiency in the [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth), and [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival) skills, support this character's core capabilities. Scouts are often recruited from people who are more familiar with the wilds than with city streets, including folk heroes, hermits, and outlanders.
+**Scout**. Trained in navigating the wilderness and laying ambushes for enemy soldiers, the Scout melds the combat skill of a fighter with the skills of a ranger or rogue. High Dexterity and Wisdom scores, combined with proficiency in the [Nature](Rules/skills.md#Nature), [Perception](Rules/skills.md#Perception), [Stealth](Rules/skills.md#Stealth), and [Survival](Rules/skills.md#Survival) skills, support this character's core capabilities. Scouts are often recruited from people who are more familiar with the wilds than with city streets, including folk heroes, hermits, and outlanders.
 
 **Soldier**. Soldiers make up the core of most military groups, whether they're general infantry, magical artillery, or elite special forces. These characters come from all classes and backgrounds—for some, their background before joining the military is more important than their current role. No particular set of talents is common to all soldiers, but military units often strive to avoid duplication of skills.
 
@@ -806,25 +806,25 @@ A military unit, like most adventuring parties, incorporates a range of useful s
 
 The work involved in serving as a military unit is wide-ranging. Your missions potentially run the risk of shattering the fragile peace established by the Treaty of Thronehold and plunging all of Khorvaire back into war. Alternatively, you might consider running your campaign during the Last War, so your group's missions influence the war effort and don't risk violating the treaty. As a group, consider the options on the Military Missions table and work with your DM to decide how the work you do fits into the larger picture of war and peace in Khorvaire.
 
-![Military Missions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/military-missions-erlw.md)
+![Military Missions](Compendium/tables/military-missions-erlw.md)
 
 ### Defining Mission
 
 You were there at a crucial moment that turned the tide of the Last War. Choose or roll an option on the Defining Mission table to determine what that moment was.
 
-![Defining Mission](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/defining-mission-erlw.md)
+![Defining Mission](Compendium/tables/defining-mission-erlw.md)
 
 ### Nemesis
 
 During the Last War, you had a run-in with a particularly dangerous foe, one who still haunts your nightmares. One day you'll have your revenge. Consult the Nemesis table to determine the identity of your foe.
 
-![Nemesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/nemesis-erlw.md)
+![Nemesis](Compendium/tables/nemesis-erlw.md)
 
 ### Military Contacts
 
 Your group's primary contact within your hierarchy is generally your superior officer—the person who gives you orders and is responsible for your success or failure. The Commanding Officer table offers suggestions for the personality and goals of that officer.
 
-![Military Contacts; Commanding Officer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/military-contacts-commanding-officer-erlw.md)
+![Military Contacts; Commanding Officer](Compendium/tables/military-contacts-commanding-officer-erlw.md)
 
 ### Other Military Forces
 
@@ -872,7 +872,7 @@ The *Korranberg Chronicle* is widely known and respected as a source of balanced
 
 **House Orien**. House Orien distributes the *Chronicle* along its mail and lightning rail runs across Khorvaire, helping the newspaper reach a huge audience. Employees of the *Chronicle* can travel on lightning rail coaches at a discounted rate of 15 cp/mile (instead of the usual 2 sp/mile).
 
-**House Sivis**. The newspaper also cooperates closely with House Sivis to facilitate communication between the main office and the field offices, as well as between reporters and their editors. The house bills the *Chronicle* directly for communications using [speaking stones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/speaking-stone-erlw.md) or [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md) spells directed to the newspaper's main office.
+**House Sivis**. The newspaper also cooperates closely with House Sivis to facilitate communication between the main office and the field offices, as well as between reporters and their editors. The house bills the *Chronicle* directly for communications using [speaking stones](Compendium/items/speaking-stone-erlw.md) or [sending](Compendium/spells/sending.md) spells directed to the newspaper's main office.
 
 **Zilargo**. The gnome nation of Zilargo is generally friendly to the newspaper. The senior editors, publisher, and owners of the *Chronicle* are influential people in the city of Korranberg and Zilargo as a whole. In extreme circumstances Zilargo officials might be persuaded to advocate for the newspaper's employees.
 
@@ -886,7 +886,7 @@ The *Korranberg Chronicle* is dedicated to learning and reporting the truth, and
 
 **House Thuranni**. The snoops and spies of the *Chronicle* have pried one time too many into House Thuranni's private affairs. No member or agent of the house will cooperate with *Chronicle* reporters under any circumstances.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/065-1-50.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/065-1-50.webp#center)
 
 ### Patron Benefits
 
@@ -915,37 +915,37 @@ Newspapers employ a wide range of adventurers to bring news back to the home off
 
 **Civilian**. Some groups include members whose skills are great for reporting but less useful on adventures. This could be the designated writer, a political cartoonist, or a chronicler who records the party's adventures. This might be a challenging role for a player character to fill, but an NPC could provide services to the party, making them worth keeping around.
 
-**Face**. Typically gifted with a high Charisma score and skilled in a combination of [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), and [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), the Face takes the lead in conducting interviews or talking the group's way past obstacles. A character with access to enchantment magic (such as a bard or sorcerer) can supplement natural Charisma with magical persuasion. A character with the charlatan background, proficiency in [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), or proficiency with a Disguise kit might also fill this role.
+**Face**. Typically gifted with a high Charisma score and skilled in a combination of [Persuasion](Rules/skills.md#Persuasion), [Intimidation](Rules/skills.md#Intimidation), and [Insight](Rules/skills.md#Insight), the Face takes the lead in conducting interviews or talking the group's way past obstacles. A character with access to enchantment magic (such as a bard or sorcerer) can supplement natural Charisma with magical persuasion. A character with the charlatan background, proficiency in [Deception](Rules/skills.md#Deception), or proficiency with a Disguise kit might also fill this role.
 
 **Muscle**. Sometimes sources need a bit of physical cajoling to share their stories. The Muscle has a knack for getting people to talk. Alternatively, when those in power lock away the truth, the Muscle physically wrestles it free. Any character who's proficient with armor and martial weapons (such as a fighter) makes a fine choice for this role. Characters in this role are often former soldiers or more-or-less reformed criminals.
 
 **Networker**. The Networker knows exactly who can get the party what they need. This character makes extensive use of contacts and friends to facilitate the party's work. A character with the criminal background likely has underworld contacts, while an urchin could be familiar with the ins and outs of the city. Interpersonal connections are typically more important than any particular skills or abilities for this character, although many Networkers have high Charisma scores.
 
-**Snoop**. A Snoop pries into secrets and pieces together the clues behind a sensational story. High Intelligence and proficiency in [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation) often aids the core work of the Snoop, and knowledge of [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), or [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion) can be helpful for background research. Divination magic can also prove useful (perhaps in the hands of a wizard or a cleric), while a character with the sage background might have a knack for research.
+**Snoop**. A Snoop pries into secrets and pieces together the clues behind a sensational story. High Intelligence and proficiency in [Investigation](Rules/skills.md#Investigation) often aids the core work of the Snoop, and knowledge of [Arcana](Rules/skills.md#Arcana), [History](Rules/skills.md#History), or [Religion](Rules/skills.md#Religion) can be helpful for background research. Divination magic can also prove useful (perhaps in the hands of a wizard or a cleric), while a character with the sage background might have a knack for research.
 
 ### Types of Reporting
 
 Decide as a group, in consultation with your DM, what kind of reporting you do for the newspaper. It's possible that different members of your group have different specialties, or that only some members actually write stories while the rest aid the reporters. Choose an option or roll on the Journalistic Focus table to determine what sort of reporting you specialize in.
 
-![Types of Reporting; Journalistic Focus](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/types-of-reporting-journalistic-focus-erlw.md)
+![Types of Reporting; Journalistic Focus](Compendium/tables/types-of-reporting-journalistic-focus-erlw.md)
 
 ### Famous Story
 
 Is there one story that hangs over your group's head, for good or ill? Maybe it sets a high bar you might never reach again, or ensures you'll never write a story of a different kind. Consult the Famous Story table to determine what reporting has most colored your career.
 
-![Famous Story](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/famous-story-erlw.md)
+![Famous Story](Compendium/tables/famous-story-erlw.md)
 
 ### Reporting Repercussions
 
 Your reporting changes lives—you like to think for the better. Sometimes, though, your work has drawn some fairly pointed criticism and earned you an enemy. Reference the Story Aftermath table to determine the repercussions of one of your most impactful stories.
 
-![Reporting Repercussions; Story Aftermath](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/reporting-repercussions-story-aftermath-erlw.md)
+![Reporting Repercussions; Story Aftermath](Compendium/tables/reporting-repercussions-story-aftermath-erlw.md)
 
 ### Newspaper Contacts
 
 Usually, your primary contact—the person who gives you assignments for the newspaper—is an editor of some kind, who takes the stories you write and makes them suitable for the printed page. Depending on the editor, you might not even recognize the stories when they're printed, and your editor's personality and goals can have a tremendous impact on your work for the paper. Consult the Newspaper Contact table to learn about the editor or other newspaper figure you're responsible to.
 
-![Newspaper Contact](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/newspaper-contact-erlw.md)
+![Newspaper Contact](Compendium/tables/newspaper-contact-erlw.md)
 
 ### Other Newspapers
 
@@ -982,7 +982,7 @@ As templars of the Silver Flame, you have distinctive silver tabards to wear ove
 
 The order of the Templars of the Silver Flame is represented on the Council of Cardinals that serves as the governing body of Thrane and the church. Seven commanders govern the knights of the order under the Grand Master's leadership: one for each of the Five Nations of old, one for foreign lands, and one for the seas. Their assistants carry the title of marshal, but no real division of rank exists beneath them.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/066-1-51.webp#center)
+![](Compendium/books/eberron-rising-from-the-last-war/img/066-1-51.webp#center)
 
 Knights templar are free to wander the world in pursuit of the order's aims. When leaving the jurisdiction of one commander and entering that of another, it is a knight's responsibility to promptly report to the commander of the new area, in case that commander has a pressing need for a knight to perform a mission. The commanders try to keep each other informed about where knights are operating and what they are doing, but this system works better in some places—and between some commanders—than others.
 
@@ -1008,7 +1008,7 @@ With a religious order as your group's patron, you gain the following benefits:
 
 **Equipment**. Each member of your party has a holy symbol or druidic focus, even if it isn't needed for spellcasting. Each of you also has a book containing prayers, rites, and scriptures of your faith.
 
-**Proficiencies**. Each member of your party gains proficiency in the [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion) skill, if the character doesn't already have it.
+**Proficiencies**. Each member of your party gains proficiency in the [Religion](Rules/skills.md#Religion) skill, if the character doesn't already have it.
 
 ### Build Your Group
 
@@ -1027,11 +1027,11 @@ Religious orders attract people from all walks of life. It can be fun to play ag
 
 **Fixer**. The Fixer might work for a religious order for entirely non-religious reasons. This character does the order's dirty work and clears away its problems. It's entirely possible for an entire party to be made up of Fixers, but rogues and fighters are especially well suited to this kind of work. Characters with the criminal background excel at putting their skills and contacts to use on the church's behalf.
 
-**Prophet**. The Prophet is a visionary with a more-or-less direct connection to the divine. This character might be the driving force behind the group's quests, steering them according to divine will. Proficiency in skills such as [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight) and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion) can help reflect this character's divine connection. The Prophet is often a cleric or druid, but could also be an NPC with no real adventuring skills, who needs the group's protection.
+**Prophet**. The Prophet is a visionary with a more-or-less direct connection to the divine. This character might be the driving force behind the group's quests, steering them according to divine will. Proficiency in skills such as [Insight](Rules/skills.md#Insight) and [Religion](Rules/skills.md#Religion) can help reflect this character's divine connection. The Prophet is often a cleric or druid, but could also be an NPC with no real adventuring skills, who needs the group's protection.
 
-**Scholar**. The Scholar brings academic knowledge to bear in the religious order's work, often in the form of proficiency in [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History) and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion). This character might be an expert on ancient ruins or know all the weaknesses of the demons they are hunting. Characters with access to divination magic (including clerics with the Knowledge domains as well as wizards) might excel at this role. Many Scholars come from the sage background. Unlike the Prophet and Zealot, the Scholar isn't necessarily devout, just knowledgeable.
+**Scholar**. The Scholar brings academic knowledge to bear in the religious order's work, often in the form of proficiency in [History](Rules/skills.md#History) and [Religion](Rules/skills.md#Religion). This character might be an expert on ancient ruins or know all the weaknesses of the demons they are hunting. Characters with access to divination magic (including clerics with the Knowledge domains as well as wizards) might excel at this role. Many Scholars come from the sage background. Unlike the Prophet and Zealot, the Scholar isn't necessarily devout, just knowledgeable.
 
-**Teacher**. Those in this role spread the teachings of the faith. This isn't usually an effort to win converts—though it can be, especially in the case of the Church of the Silver Flame—but rather the task of encouraging people to live according to the highest ideals of faith. Proficiency in skills such as [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) (or sometimes [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)) and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion) can be useful for this character. Many clerics fill this role, but devout bards can also be effective Teachers. Some Teachers bring skills from the entertainer background into the service of their faith.
+**Teacher**. Those in this role spread the teachings of the faith. This isn't usually an effort to win converts—though it can be, especially in the case of the Church of the Silver Flame—but rather the task of encouraging people to live according to the highest ideals of faith. Proficiency in skills such as [Persuasion](Rules/skills.md#Persuasion) (or sometimes [Intimidation](Rules/skills.md#Intimidation)) and [Religion](Rules/skills.md#Religion) can be useful for this character. Many clerics fill this role, but devout bards can also be effective Teachers. Some Teachers bring skills from the entertainer background into the service of their faith.
 
 **Zealot**. Dedicated to smiting the foes of the faith, the Zealot focuses on combat above all. Clerics, druids, and paladins make iconic Zealots, but any character can play this role; there are barbarians whose fury is fueled by their devotion, and rangers sworn to track down the enemies of the faith. The soldier and folk hero backgrounds are well suited to such champions of the faith.
 
@@ -1039,19 +1039,19 @@ Religious orders attract people from all walks of life. It can be fun to play ag
 
 What is the nature of your work for the religious order? As a group, consult the Religious Service table and work with your DM to decide what role you play—which likely shapes the kind of adventures you undertake.
 
-![Serving the Order; Religious Service](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/serving-the-order-religious-service-erlw.md)
+![Serving the Order; Religious Service](Compendium/tables/serving-the-order-religious-service-erlw.md)
 
 ### Hierarchy
 
 Some religious orders are viewed with suspicion by the priestly hierarchies of their faiths; others are viewed as champions who act as the gods' hands in the world. Within a religious order, some members are highly respected while others are seen as dangerous for one reason or another. What is your relationship to the hierarchy you're a part of? Is your entire order held in particularly high or low esteem? Or does your adventuring party stand out from the larger order for some reason? Is your behavior in line with the expectations of your religion, or is it unorthodox in some way? Reference the Order Reputation table to determine how you're viewed by your larger religious institution.
 
-![Hierarchy; Order Reputation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/hierarchy-order-reputation-erlw.md)
+![Hierarchy; Order Reputation](Compendium/tables/hierarchy-order-reputation-erlw.md)
 
 ### Religious Order Contacts
 
 Your primary contact within the religious order is usually some kind of priest—not necessarily a cleric or druid, but someone who holds a priestly office and a position of some authority in the hierarchy of the organization. This person might direct you and your adventures according to their interpretation of divine will, or they might trust the gods to lead you to do what needs to be done. Of course, some priests (as well as lay functionaries) are more interested in their own agendas than any supposed divine will. Consult the Order Contact table to determine your liaison within the religious order.
 
-![Religious Order Contacts; Order Contact](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/religious-order-contacts-order-contact-erlw.md)
+![Religious Order Contacts; Order Contact](Compendium/tables/religious-order-contacts-order-contact-erlw.md)
 
 ### Other Religious Orders
 
@@ -1103,7 +1103,7 @@ With a university as your group's patron, you gain the following benefits:
 
 **Resources**. Most universities have extensive libraries and museums, which you have access to. You can call in a favor to gain access to resources that are generally not on exhibit—dangerous relics or possibly magic items, spellbooks, and the like. Additionally, the faculty of your university might make it possible for you to consult with experts in various fields—so long as you can coax them away from their work.
 
-**Training**. Because you're associated with the university, you receive a discount on any education you wish to pursue. When you undergo training as a downtime activity (as described in the "Player's Handbook" or "Xanathar's Guide to Everything"), you pay only one-half the normal cost, assuming that what you are studying is something the university teaches. Training in languages, musical instruments, and other tools might also be available, at the DM's discretion. In addition, you can gain proficiency in the [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), or [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion) skills by this method, as if you were learning a language. A character can only learn one of these skills in this way.
+**Training**. Because you're associated with the university, you receive a discount on any education you wish to pursue. When you undergo training as a downtime activity (as described in the "Player's Handbook" or "Xanathar's Guide to Everything"), you pay only one-half the normal cost, assuming that what you are studying is something the university teaches. Training in languages, musical instruments, and other tools might also be available, at the DM's discretion. In addition, you can gain proficiency in the [Arcana](Rules/skills.md#Arcana), [History](Rules/skills.md#History), [Nature](Rules/skills.md#Nature), or [Religion](Rules/skills.md#Religion) skills by this method, as if you were learning a language. A character can only learn one of these skills in this way.
 
 ### Build Your Group
 
@@ -1111,31 +1111,31 @@ A group sponsored by a university might look very much like any other adventurin
 
 **Field Researcher**. The academic in your group might also be a character with plenty of training and experience in the dangerous life of an adventurer. Sometimes called tomb raiders or grave robbers, such characters know that groundbreaking work requires firsthand experience with the creatures, cultures, forces, and histories being investigated, and the best way to get that is in the field. This role is similar to the Scholar, but the Field Researcher is armed with combat-oriented spells that supplement the knowledge-focused capabilities of the Scholar, preparing them to face those who guard the world's greatest secrets.
 
-![Morgrave University](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/eberron-rising-from-the-last-war/img/067-1-52.webp#center)
+![Morgrave University](Compendium/books/eberron-rising-from-the-last-war/img/067-1-52.webp#center)
 
-**Financier**. Whether they're hunting for grants or seeking donations from wealthy philanthropists, the Financier seeks the funds to pay for academic expeditions. Such characters might know their ways around ballrooms, boardrooms, and seedy taverns, willing to do whats necessary to get what they need. Those in this role often exude Charisma and might be adept with the [Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), and [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion) skills. Bards and rogues make natural academic Financiers, as do those with the charlatan and noble backgrounds.
+**Financier**. Whether they're hunting for grants or seeking donations from wealthy philanthropists, the Financier seeks the funds to pay for academic expeditions. Such characters might know their ways around ballrooms, boardrooms, and seedy taverns, willing to do whats necessary to get what they need. Those in this role often exude Charisma and might be adept with the [Deception](Rules/skills.md#Deception), [Intimidation](Rules/skills.md#Intimidation), and [Persuasion](Rules/skills.md#Persuasion) skills. Bards and rogues make natural academic Financiers, as do those with the charlatan and noble backgrounds.
 
 **Research Assistant**. Whether their seeking to graduate, get published, or make their academic mark, the Research Assistant's fate is likely tied up in the success of another scholar or a specific project. Alternatively, the Research Assistant might just be along for the ride, helping a professor merely to pass a course. Regardless, such characters might come from any class or background and could have skills gathered from experiences far outside the academic sphere. While there are certainly legitimate Research Assistants who honestly pursue their studies, this role might suit characters without academic interests.
 
-**Scholar**. Likely possessing a high Intelligence score and a focus on learning and research, the Scholar in your party might represent the academic emphasis of the university. This character is often a noncombatant, a professor or student the rest of the party protects. Alternatively, they might live a dual life, shedding their academic persona as soon as they're off campus grounds. The Scholar might also be a nonplayer character, or the role could be filled by a player character whose spells and training don't include combat. A wizard whose spellbook is filled with utility-focused spells makes a fine Scholar, as might some clerics and monks. In any case, the sage background is an obvious choice for the Scholar, with acolyte and hermit also providing fine alternatives. Proficiency in skills such as [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), and [Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion) often proves useful for this character.
+**Scholar**. Likely possessing a high Intelligence score and a focus on learning and research, the Scholar in your party might represent the academic emphasis of the university. This character is often a noncombatant, a professor or student the rest of the party protects. Alternatively, they might live a dual life, shedding their academic persona as soon as they're off campus grounds. The Scholar might also be a nonplayer character, or the role could be filled by a player character whose spells and training don't include combat. A wizard whose spellbook is filled with utility-focused spells makes a fine Scholar, as might some clerics and monks. In any case, the sage background is an obvious choice for the Scholar, with acolyte and hermit also providing fine alternatives. Proficiency in skills such as [Arcana](Rules/skills.md#Arcana), [History](Rules/skills.md#History), [Investigation](Rules/skills.md#Investigation), [Nature](Rules/skills.md#Nature), and [Religion](Rules/skills.md#Religion) often proves useful for this character.
 
 ### Scholarly Missions
 
 Decide as a group, in consultation with your DM, what kind of work your group does for the university. Consult the Scholarly Missions table to determine what sort of adventures you undertake.
 
-![Scholarly Missions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/scholarly-missions-erlw.md)
+![Scholarly Missions](Compendium/tables/scholarly-missions-erlw.md)
 
 ### Scholarly Standing
 
 Academics live and die by their reputation. Some stand as embodiments of their fields of expertise, others might be considered con artists who stigmatize whole academic fields. Roll on or choose an option from the Scholarly Standing table to determine what other people think about your research.
 
-![Scholarly Standing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/scholarly-standing-erlw.md)
+![Scholarly Standing](Compendium/tables/scholarly-standing-erlw.md)
 
 ### University Contacts
 
 With a university as your patron, you are part of a sprawling bureaucracy—maybe deep in the tangles of it or, more likely, lingering at the edges. Wherever you sit in the network of colleges, administrators, and faculty, a single person serves as your primary point of contact, someone who has a significant impact on the nature of your relationship with the university. Reference the University Contact table to help determine who manages the relationship between you and the university.
 
-![University Contact](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/university-contact-erlw.md)
+![University Contact](Compendium/tables/university-contact-erlw.md)
 
 ### Other Universities
 

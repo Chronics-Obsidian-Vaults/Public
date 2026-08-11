@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Betrayer Gods
+- "Betrayer Gods"
 ---
 # Betrayer Gods
 *Source: Explorer's Guide to Wildemount p. 26* 
@@ -14,19 +14,19 @@ aliases:
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| Asmodeus | LE | God of the Nine Hells | Trickery, War | Crown of spiked onyx and curved horns |
-| Bane | LE | Conquest, tyranny | Forge,* Order,** War | Flail of chains, each ending in shackles |
-| Gruumsh | CE | Slaughter, warfare | Death, Tempest, War | Single, unblinking eye that bleeds |
-| Lolth | CE | Deceit, spiders | Knowledge, Trickery | Jeweled spider |
-| Tharizdun | CE | Darkness, destruction | Death, Grave,* Trickery | Crooked, seven-pointed star made of chains |
-| Tiamat | LE | Dragon god of evil | Order,** Trickery, War | Taloned dragon claw |
-| Torog | NE | Enslavement, torture | Death, Trickery | Three pale arms clawing from a dark void |
-| Vecna | NE | Necromancy, secrets | Arcana,*** Death, Grave,* Knowledge | Desiccated hand with an eye in the palm |
-| Zehir | CE | Assassins, poison, snakes | Nature, Trickery | Coiled serpent |
+| [Asmodeus](Compendium/deities/exandria-asmodeus.md) | LE | God of the Nine Hells | Trickery, War | Crown of spiked onyx and curved horns |
+| [Bane](Compendium/deities/exandria-bane.md) | LE | Conquest, tyranny | Forge,* Order,** War | Flail of chains, each ending in shackles |
+| [Gruumsh](Compendium/deities/exandria-gruumsh.md) | CE | Slaughter, warfare | Death, Tempest, War | Single, unblinking eye that bleeds |
+| [Lolth](Compendium/deities/exandria-lolth.md) | CE | Deceit, spiders | Knowledge, Trickery | Jeweled spider |
+| [Tharizdun](Compendium/deities/exandria-tharizdun.md) | CE | Darkness, destruction | Death, Grave,* Trickery | Crooked, seven-pointed star made of chains |
+| [Tiamat](Compendium/deities/exandria-tiamat.md) | LE | Dragon god of evil | Order,** Trickery, War | Taloned dragon claw |
+| [Torog](Compendium/deities/exandria-torog.md) | NE | Enslavement, torture | Death, Trickery | Three pale arms clawing from a dark void |
+| [Vecna](Compendium/deities/exandria-vecna.md) | NE | Necromancy, secrets | Arcana,*** Death, Grave,* Knowledge | Desiccated hand with an eye in the palm |
+| [Zehir](Compendium/deities/exandria-zehir.md) | CE | Assassins, poison, snakes | Nature, Trickery | Coiled serpent |
 ^betrayer-gods
 
-* The [Forge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/cleric-forge-domain-xge.md) and [Grave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/cleric-grave-domain-xge.md) domains appear in "Xanathar's Guide to Everything".
+* The [Forge](Compendium/classes/cleric-forge-domain-xge.md) and [Grave](Compendium/classes/cleric-grave-domain-xge.md) domains appear in "Xanathar's Guide to Everything".
 
-** The [Order](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/cleric-order-domain-tce.md) domain appears in "Guildmaster's Guide to Ravnica".
+** The [Order](Compendium/classes/cleric-order-domain-tce.md) domain appears in "Guildmaster's Guide to Ravnica".
 
-*** The [Arcana domain](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/cleric-arcana-domain-scag.md) appears in "Sword Coast Adventurer's Guide".
+*** The [Arcana domain](Compendium/classes/cleric-arcana-domain-scag.md) appears in "Sword Coast Adventurer's Guide".

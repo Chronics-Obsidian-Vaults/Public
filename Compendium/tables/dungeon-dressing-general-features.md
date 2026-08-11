@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; General Features
+- "Dungeon Dressing; General Features"
 ---
 # Dungeon Dressing; General Features
 *Source: Dungeon Master's Guide p. 298* 

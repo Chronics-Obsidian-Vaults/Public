@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/10
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gearkeeper Construct
+- "Gearkeeper Construct"
 ---
-# [Gearkeeper Construct](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/gearkeeper-construct-egw.md)
+# [Gearkeeper Construct](Compendium/bestiary/construct/gearkeeper-construct-egw.md)
 *Source: Explorer's Guide to Wildemount p. 290*  
 
 Rolling, deadly whirlwinds of metal plates and curving blades, these clockwork automatons were initially designed by tinkerers and mage engineers to be sentries and guardians in the deepest of vaults during the Age of Arcanum. While most of these majestic and deadly curiosities have fallen to rust and ruin, forgotten along with their long-destroyed and buried societies, some continue to patrol the tunnels and pathways of forgotten tombs and dungeons, following their original operations and directives to protect the contents of their domain.
@@ -40,14 +41,10 @@ Reverse engineering from the recovered shells and scraps of excavated gearkeeper
 "speed": "60 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison, psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 120 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
@@ -67,7 +64,7 @@ Reverse engineering from the recovered shells and scraps of excavated gearkeeper
       \ (3d8 + 5) slashing damage."
     "name": "Arm Blade"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 90 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) piercing damage, and the target is knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ (2d6 + 5) piercing damage, and the target is knocked [prone](Rules/conditions.md#Prone)."
     "name": "Spear Launcher"
   - "desc": "The gearkeeper jettisons a spray of jagged metal in a 30-foot cone. Each\
       \ creature in the area must make a DC 15 Dexterity saving throw, taking 21 (6d6)\
@@ -75,6 +72,6 @@ Reverse engineering from the recovered shells and scraps of excavated gearkeeper
     "name": "Shrapnel Blast (Recharge 6)"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/gearkeeper-construct-egw.webp"
+"image": "Compendium/bestiary/construct/token/gearkeeper-construct-egw.webp"
 ```
 ^statblock

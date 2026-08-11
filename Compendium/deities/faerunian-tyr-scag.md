@@ -7,15 +7,15 @@ tags:
 - source/deity/faerunian
 - source/domain/order
 - source/domain/war
-aliases: 
-- Tyr
-- Grimjaws
-- The Maimed God
-- The Evenhanded
+aliases:
+- "Tyr"
+- "Grimjaws"
+- "The Maimed God"
+- "The Evenhanded"
 ---
 # Tyr
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-tyr.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-tyr.webp#symbol)
 
 - **Alternate Names**: Grimjaws, The Maimed God, The Evenhanded
 - **Alignment**: Lawful Good

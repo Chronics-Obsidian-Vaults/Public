@@ -7,8 +7,8 @@ tags:
 - source/deity/nonhuman
 - source/domain/order
 - source/domain/war
-aliases: 
-- Maglubiyet
+aliases:
+- "Maglubiyet"
 ---
 # Maglubiyet
 *Source: Player's Handbook p. 296* 

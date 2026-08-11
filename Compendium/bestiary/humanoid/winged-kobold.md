@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -18,9 +19,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Winged Kobold
+- "Winged Kobold"
 ---
-# [Winged Kobold](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/winged-kobold.md)
+# [Winged Kobold](Compendium/bestiary/humanoid/winged-kobold.md)
 *Source: Monster Manual p. 195*  
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
@@ -55,18 +56,19 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
   - !!int "7"
   - !!int "8"
 "speed": "30 ft., fly 30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 8"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 8"
 "languages": "Common, Draconic"
 "cr": "1/4"
 "traits":
   - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
   - "desc": "The kobold has advantage on an attack roll against a creature if at least\
       \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
@@ -77,7 +79,7 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
     "name": "Dropped Rock"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/winged-kobold.webp"
+"image": "Compendium/bestiary/humanoid/token/winged-kobold.webp"
 ```
 ^statblock
 

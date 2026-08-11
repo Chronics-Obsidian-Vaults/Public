@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/artifact
-aliases: 
+aliases:
 - "Baba Yaga's Mortar and Pestle"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Baba Yaga's Mortar and Pestle
 *Wondrous item, artifact (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/baba-yagas-mortar-and-pestle.webp#right)
+![](Compendium/items/img/baba-yagas-mortar-and-pestle.webp#right)
 
 
 The creations of the immortal hag Baba Yaga defy the laws of mortal magic. Among the notorious implements that cement her legend on countless worlds are the artifacts that propel her through the planes: Baba Yaga's Mortar and Pestle. These signature tools of Baba Yaga are a single artifact for purposes of attunement. Should the two objects become separated, the pestle appears next to the mortar at the next dawn.
@@ -23,9 +24,9 @@ The creations of the immortal hag Baba Yaga defy the laws of mortal magic. Among
 
 This artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor beneficial](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
-- 1 [major beneficial](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-major-beneficial-properties.md) property  
-- 1 [minor detrimental](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/artifact-properties-minor-detrimental-properties.md) property  
+- 2 [minor beneficial](Compendium/tables/artifact-properties-minor-beneficial-properties.md) properties  
+- 1 [major beneficial](Compendium/tables/artifact-properties-major-beneficial-properties.md) property  
+- 1 [minor detrimental](Compendium/tables/artifact-properties-minor-detrimental-properties.md) property  
 
 ## Properties of the Mortar
 
@@ -41,7 +42,7 @@ The pestle has 12 charges. When you hit with a melee attack using the pestle, yo
 
 While holding the mortar and pestle, you can use your action to say the name of any nonmagical plant, mineral, or fluid and an amount of the material worth 10 gp or less. The mortar instantly fills with the desired amount of that material. Once you use this action, you can't do so again until you finish a short or long rest.
 
-You can also use the artifact as [alchemist's supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/alchemists-supplies.md), [brewer's supplies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/brewers-supplies.md), [cook's utensils](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/cooks-utensils.md), an [herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md), and a [poisoner's kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/poisoners-kit.md). You have advantage on any check you make using the artifact as one of these tools.
+You can also use the artifact as [alchemist's supplies](Compendium/items/alchemists-supplies.md), [brewer's supplies](Compendium/items/brewers-supplies.md), [cook's utensils](Compendium/items/cooks-utensils.md), an [herbalism kit](Compendium/items/herbalism-kit.md), and a [poisoner's kit](Compendium/items/poisoners-kit.md). You have advantage on any check you make using the artifact as one of these tools.
 
 ## Primal Parts
 

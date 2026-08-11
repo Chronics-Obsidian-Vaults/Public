@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/life
 - source/domain/light
-aliases: 
-- Pelor
+aliases:
+- "Pelor"
 ---
 # Pelor
 *Source: Dungeon Master's Guide p. 10* 

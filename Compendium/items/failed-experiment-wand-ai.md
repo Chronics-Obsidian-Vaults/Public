@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ai
 - source/item/attunement/required
 - source/item/rarity/rare
 - source/item/wondrous/wand
-aliases: 
+aliases:
 - "Failed Experiment Wand"
 item_type: wondrous
 item_subtype: wand
@@ -19,7 +20,7 @@ attunement: required
 
 - **Weight**: 1.0 lbs.
 
-This wand has 2 charges. While holding it, you can use an action to expend 1 or more of its charges to cast either a green-flamed [fireball](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fireball.md) or a blue [lightning bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lightning-bolt.md) at random from it (save DC 15).
+This wand has 2 charges. While holding it, you can use an action to expend 1 or more of its charges to cast either a green-flamed [fireball](Compendium/spells/fireball.md) or a blue [lightning bolt](Compendium/spells/lightning-bolt.md) at random from it (save DC 15).
 
 For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
 

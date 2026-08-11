@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/dmg
 - source/hazard/wld
 aliases:
-- Thin Ice
+- "Thin Ice"
 ---
 # Thin Ice
 *Wilderness Hazard*  

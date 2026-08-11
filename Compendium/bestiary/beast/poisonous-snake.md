@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-8
@@ -15,9 +16,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Poisonous Snake
+- "Poisonous Snake"
 ---
-# [Poisonous Snake](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/poisonous-snake.md)
+# [Poisonous Snake](Compendium/bestiary/beast/poisonous-snake.md)
 *Source: Monster Manual p. 334. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -37,8 +38,7 @@ aliases:
   - !!int "10"
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., passive Perception 10"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., passive Perception 10"
 "languages": ""
 "cr": "1/8"
 "actions":
@@ -49,7 +49,7 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/poisonous-snake.webp"
+"image": "Compendium/bestiary/beast/token/poisonous-snake.webp"
 ```
 ^statblock
 

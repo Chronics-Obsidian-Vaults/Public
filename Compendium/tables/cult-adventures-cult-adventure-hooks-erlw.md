@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Cult Adventures; Cult Adventure Hooks
+- "Cult Adventures; Cult Adventure Hooks"
 ---
 # Cult Adventures; Cult Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 189* 

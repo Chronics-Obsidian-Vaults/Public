@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Creating a Multiverse
+- "Creating a Multiverse"
 ---
 # Creating a Multiverse
 *Source: Dungeon Master's Guide (2014), p. 43* 
@@ -13,6 +13,8 @@ aliases:
 When Adventurers reach higher levels their path extends to other dimensions of reality: the planes of existence that form the multiverse. The characters might be called on to rescue a friend from the horrific depths of the Abyss or to sail the shining waters of the River Oceanus. They can hoist a tankard with the friendly giants of Ysgard or face the chaos of Limbo to contact a wizened githzerai sage.
 
 Planes of existence define the extremes of strange and often dangerous environments. The most bizarre locations present settings undreamed of in the natural world. Planar adventures offer unprecedented dangers and wonders. Adventurers walk on streets made of solid fire, or test their mettle on a battlefield where the fallen are resurrected with each dawn.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/ch2splash.webp#center)
 
 ## The Planes
 
@@ -149,6 +151,8 @@ Finally, most portals don't stand open all the time, but open only in particular
 
 Learning and meeting a portal's requirements can draw characters into further adventures as they chase down a key item, scour old libraries for command words, or consult sages to find the right time to visit the portal.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/2-1.webp#center)
+
 ### Spells
 
 > [!quote] A quote from Richard Baker  
@@ -171,9 +175,11 @@ Second, the spell doesn't send the caster to a specific location unless he or sh
 
 The gate spell opens a portal linked to a specific point on another plane of existence. The spell provides a shortcut to a planar destination, bypassing many of the guardians and trials that would normally fill such a journey. But this 9th-level spell is out of reach for all but the most powerful characters, and it does nothing to negate any obstacles that wait at the destination.
 
-The [gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gate.md) spell is powerful, but not infallible. A deity, demon lord, or other powerful entity can prevent such a portal from opening within its dominion.
+The [gate](Compendium/spells/gate.md) spell is powerful, but not infallible. A deity, demon lord, or other powerful entity can prevent such a portal from opening within its dominion.
 
 ## Astral Plane
+
+![](Compendium/books/dungeon-masters-guide-2014/img/2-2.webp#center)
 
 > [!quote] A quote from Richard Baker  
 > 
@@ -189,7 +195,7 @@ A traveler in the Astral Plane can move by simply thinking about moving, but dis
 
 ### Astral Projection
 
-Traveling through the Astral Plane by means of the [astral projection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/astral-projection.md) spell involves projecting one's consciousness there, usually in search of a gateway to an Outer Plane to visit. Since the Outer Planes are as much spiritual states of being as they are physical places, this allows a character to manifest in an Outer Plane as if he or she had physically traveled there, but as in a dream.
+Traveling through the Astral Plane by means of the [astral projection](Compendium/spells/astral-projection.md) spell involves projecting one's consciousness there, usually in search of a gateway to an Outer Plane to visit. Since the Outer Planes are as much spiritual states of being as they are physical places, this allows a character to manifest in an Outer Plane as if he or she had physically traveled there, but as in a dream.
 
 A character's death-either in the Astral Plane or on the destination plane-causes no actual harm. Only the severing of a character's silver cord while on the Astral Plane (or the death of his or her helpless physical body on the Material Plane) can result in the character's true death. Thus, high-level characters sometimes travel to the Outer Planes by way of astral projection rather than seek out a portal or use a more direct spell.
 
@@ -199,7 +205,7 @@ Only a few things can sever a traveler's silver cord, the most common being a ps
 
 Gateways leading from the Astral Plane to other planes appear as two-dimensional pools of rippling colors, `1d6 × 10` feet in diameter. Traveling to another plane requires locating a color pool that leads to the desired plane. These gateways to other planes can be identified by color, as shown on the Astral Color Pools table. Finding the right color pool is a matter of chance: locating the correct one takes `1d4 × 10` hours of travel.
 
-![Astral Color Pools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/astral-color-pools.md)
+![Astral Color Pools](Compendium/tables/astral-color-pools.md)
 
 ### Psychic Wind
 
@@ -211,7 +217,7 @@ The psychic wind has two kinds of effects: a location effect and a mental effect
 
 Each traveler affected by the wind must also make a DC 15 Intelligence saving throw. On a failed save, the traveler suffers the mental effect as well. Roll a `d20` twice and consult the Psychic Wind Effects tables to determine the location and mental effects.
 
-![Psychic Wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/psychic-wind.md)
+![Psychic Wind](Compendium/tables/psychic-wind.md)
 
 ### Astral Plane Encounters
 
@@ -227,6 +233,8 @@ The Ethereal Plane is a misty, fog-bound dimension. Its "shores," called the Bor
 
 Characters can use the etherealness spell to enter the Border Ethereal. The plane shift spell allows transport to the Border Ethereal or the Deep Ethereal, but unless the intended destination is a specific location or a teleportation circle, the point of arrival could be anywhere on the plane.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/2-3.webp#center)
+
 ### Border Ethereal
 
 From the Border Ethereal, a traveler can see into whatever plane it overlaps, but that plane appears muted and indistinct, its colors blurring into each other and its edges turning fuzzy. Ethereal denizens watch the plane as though peering through distorted and frosted glass, and can't see anything beyond 30 feet into the other plane. Conversely, the Ethereal Plane is usually invisible to those on the overlapped planes, except with the aid of magic.
@@ -239,17 +247,17 @@ To reach the Deep Ethereal, one needs a plane shift spell or arrive by means of 
 
 Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table.
 
-![Deep Ethereal; Ethereal Curtains](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/deep-ethereal-ethereal-curtains.md)
+![Deep Ethereal; Ethereal Curtains](Compendium/tables/deep-ethereal-ethereal-curtains.md)
 
 Traveling through the Deep Ethereal to journey from one plane to another is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip between planes through the Deep Ethereal takes `1d10 × 10` hours, regardless of the origin and destination. In combat, however, creatures are considered to move at their normal speeds.
 
 ### Ether Cyclones
 
-An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting ethereal forms in its path and carrying the debris for leagues. Travelers with a passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) score of 15 or more receive `1d4` rounds of warning: a deep hum in the ethereal matter.
+An ether cyclone is a serpentine column that spins through the plane. The cyclone appears abruptly, distorting and uprooting ethereal forms in its path and carrying the debris for leagues. Travelers with a passive Wisdom ([Perception](Rules/skills.md#Perception)) score of 15 or more receive `1d4` rounds of warning: a deep hum in the ethereal matter.
 
 Travelers who can't reach a curtain or portal leading elsewhere suffer the cyclone's effect. Roll a `d20` and consult the Ether Cyclone table to determine the effect on all creatures in the vicinity.
 
-![Ether Cyclones](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/ether-cyclones.md)
+![Ether Cyclones](Compendium/tables/ether-cyclones.md)
 
 The most common effect of an ether cyclone is to extend the duration of a journey. Each character in a group traveling together must make a DC 15 Charisma saving throw. If at least half the group succeeds, travel is delayed by `1d10` hours. Otherwise, the journey's travel time is doubled. Less often, a group is blown into the Border Ethereal of a random plane. Rarely, the cyclone tears a hole in the fabric of the plane and hurls the party into the Astral Plane.
 
@@ -260,6 +268,8 @@ Most encounters in the Border Ethereal are with creatures on the Material Plane 
 In the Deep Ethereal, most encounters are with other travelers, particularly ones from the Inner Planes (such as elementals, genies, and salamanders), as well as the occasional celestial, fiend, or fey.
 
 ## Feywild
+
+![](Compendium/books/dungeon-masters-guide-2014/img/2-4.webp#center)
 
 > [!quote] A quote from James Wyatt  
 > 
@@ -298,9 +308,9 @@ A creature that leaves the Feywild must make a DC 10 Wisdom saving throw. Fey cr
 
 While time seems to pass normally in the Feywild, characters might spend a day there and realize, upon leaving the plane, that less or more time has elapsed everywhere else in the multiverse.
 
-Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell can be used to remove the effect on up to ten creatures. Some powerful fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [geas](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/geas.md) spell and complete a quest after the [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell is cast.
+Whenever a creature or group of creatures leaves the Feywild after spending at least 1 day on that plane, you can choose a time change that works best for your campaign, if any, or roll on the Feywild Time Warp table. A [wish](Compendium/spells/wish.md) spell can be used to remove the effect on up to ten creatures. Some powerful fey have the ability to grant such wishes and might do so if the beneficiaries agree to subject themselves to a [geas](Compendium/spells/geas.md) spell and complete a quest after the [wish](Compendium/spells/wish.md) spell is cast.
 
-![Feywild Time Warp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/feywild-time-warp.md)
+![Feywild Time Warp](Compendium/tables/feywild-time-warp.md)
 
 ## Shadowfell
 
@@ -313,6 +323,8 @@ The Shadowfell, also called the Plane of Shadow, is a dimension of black, gray, 
 Landmarks from the Material Plane are recognizable on the Shadowfell, but they are twisted and warped—distorted reflections of what exists on the Material Plane. Where a mountain stands on the Material Plane, the corresponding feature on the Shadowfell is a jagged rock outcropping with a resemblance to a skull, a heap of rubble, or perhaps the crumbling ruin of a once-great castle. A forest on the Shadowfell is dark and twisted, its branches reaching out to snare travelers' cloaks, and its roots coiling and buckling to trip those who pass by.
 
 Shadow dragons and undead creatures haunt this bleak plane, as do other creatures that thrive in the gloom, including cloakers and darkmantles.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/2-5.webp#center)
 
 ### Shadow Crossings
 
@@ -328,11 +340,11 @@ A melancholic atmosphere pervades the Shadowfell. Extended forays to this plane 
 
 When you deem it appropriate, though usually not more than once per day, you can require a character not native to the Shadowfell to make a DC 10 Wisdom saving throw. On a failure, the character is affected by despair. Roll a `d6` to determine the effects, using the Shadowfell Despair table. You can substitute different despair effects of your own creation.
 
-![Shadowfell Despair](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/shadowfell-despair.md)
+![Shadowfell Despair](Compendium/tables/shadowfell-despair.md)
 
 If a character is already suffering a despair effect and fails the saving throw, the new despair effect replaces the old one. After finishing a long rest, a character can attempt to overcome the despair with a DC 15 Wisdom saving throw. (The DC is higher because it's harder to shake off despair once it has taken hold.) On a successful save, the despair effect ends for that character.
 
-A [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md) spell removes despair, as does any spell or other magical effect that removes a curse.
+A [calm emotions](Compendium/spells/calm-emotions.md) spell removes despair, as does any spell or other magical effect that removes a curse.
 
 > [!note] Evernight
 > 
@@ -385,6 +397,8 @@ The thick ash obscures sight beyond a few dozen feet, and the battering winds ma
 
 At the other end of the plane, near the Frostfell (the plane of ice that borders the Plane of Water), is a region of frigid winds called the **Mistral Reach**. These gales drive snowstorms into the Frostfell and away from it, toward the heart of the plane. Earth motes in the reach are covered with snow and ice.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/2-6.webp#center)
+
 ### Plane of Earth
 
 Earth symbolizes stability, rigidity, stern resolve, and tradition. The plane's position opposite the Plane of Air in the ring of the Elemental Planes reflects its opposition to almost everything air represents.
@@ -400,6 +414,8 @@ The border region between the planes of Water and Earth is a horrid swamp where 
 It is said that any object cast into the Swamp of Oblivion can't be found again for at least a century. Now and then, a desperate soul casts an artifact of power into this place, removing it from the multiverse for a time. The promise of powerful magic lures adventurers to brave the monstrous insects and hags of the swamp in search of these treasures.
 
 The region of the plane nearest the Swamp of Oblivion is called the **Mud Hills**. Landslides constantly wear away the slopes of the hills, sending cascades of earth and stone into the bottomless swamp. The Plane of Earth seems to constantly regenerate the land, pushing new hills up as the old ones erode to nothing.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/2-7.webp#center)
 
 ### Plane of Fire
 
@@ -417,6 +433,8 @@ A great range of volcanic mountains called the **Fountains of Creation** is home
 
 Lava flows through the volcanoes toward the Plane of Air and pools into a great lava sea, called the **Sea of Fire**, sailed by efreet and azers in great brass ships. Islands of obsidian and basalt jut up from the sea, dotted with ancient ruins and the lairs of powerful red dragons. On the shore of the Sea of Fire stands the **City of Brass**.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/2-8.webp#center)
+
 #### The City of Brass
 
 Perhaps the best-known location in the Inner Planes is the City of Brass, on the shores of the Sea of Fire. This is the fabled city of the efreet, and its ornate spires and metal walls reflect their grandiose and cruel nature.
@@ -428,6 +446,8 @@ Adventurers frequently come here on quests for legendary magic. If it's possible
 The heart of the city is the towering Charcoal Palace, where the tyrannical sultan of the efreet reigns supreme, surrounded by efreet nobles and a host of slaves, guardians, and sycophants.
 
 ### Plane of Water
+
+![](Compendium/books/dungeon-masters-guide-2014/img/2-9.webp#center)
 
 The nature of water is to flow, not like the gusting wind or the leaping flame, but smoothly and steadily. It is the rhythm of the tide, the nectar of life, the bitter tears of mourning, and the balm of sympathy and healing. Given time, it can erode all in its path.
 
@@ -453,6 +473,8 @@ The **Frostfell**, also called the Plane of Ice, forms the border between the pl
 
 Its dangerous monsters and bitter cold make the Frostfell a dangerous place to travel. Most planar voyagers keep to the air, braving the powerful winds and driving snow to avoid setting foot on the great glacier.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/2-10.webp#center)
+
 ## Outer Planes
 
 > [!quote] A quote from Ed Greenwood  
@@ -469,7 +491,7 @@ Distance is a virtually meaningless concept on the Outer Planes. The perceptible
 
 The default Outer Planes are a group of sixteen planes that correspond to the eight alignments (excluding neutrality, which is represented by the Outlands, described in the section on "Other Planes") and the shades of distinction between them.
 
-![The Outer Planes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-outer-planes.md)
+![The Outer Planes](Compendium/tables/the-outer-planes.md)
 
 The planes with an element of good in their nature are called the **Upper Planes**, while those with an element of evil are the **Lower Planes**. A plane's alignment is its essence, and a character whose alignment doesn't match the plane's alignment experiences a sense of dissonance there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels out of tune and more than a little uncomfortable.
 
@@ -483,13 +505,13 @@ Most portals from elsewhere reach the first layer of a multilayered plane. This 
 
 ### Traveling the Outer Planes
 
-Traveling between the Outer Planes isn't dissimilar from reaching the Outer Planes in the first place. Characters traveling by means of the [astral projection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/astral-projection.md) spell can go from one plane into the Astral Plane, and there search out a color pool leading to the desired destination. Characters can also use plane shift to reach a different plane more directly. Most often, though, characters use portals-either a portal that links the two planes directly or a portal leading to Sigil, City of Doors, which holds portals to all the planes.
+Traveling between the Outer Planes isn't dissimilar from reaching the Outer Planes in the first place. Characters traveling by means of the [astral projection](Compendium/spells/astral-projection.md) spell can go from one plane into the Astral Plane, and there search out a color pool leading to the desired destination. Characters can also use plane shift to reach a different plane more directly. Most often, though, characters use portals-either a portal that links the two planes directly or a portal leading to Sigil, City of Doors, which holds portals to all the planes.
 
 Two planar features connect multiple Outer Planes together: the River Styx and the Infinite Staircase. Other planar crossings might exist in your campaign, such as a World Tree whose roots touch the Lower Planes and whose branches reach to the Upper Planes, or it might be possible to walk from one plane to another in your cosmology.
 
 #### The River Styx
 
-This river bubbles with grease, foul flotsam, and the putrid remains of battles along its banks. Any creature other than a fiend that tastes or touches the water is affected by a [feeblemind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feeblemind.md) spell. The DC of the Intelligence saving throw to resist the effect is 15.
+This river bubbles with grease, foul flotsam, and the putrid remains of battles along its banks. Any creature other than a fiend that tastes or touches the water is affected by a [feeblemind](Compendium/spells/feeblemind.md) spell. The DC of the Intelligence saving throw to resist the effect is 15.
 
 The Styx churns through the top layers of Acheron, the Nine Hells, Gehenna, Hades, Carceri, the Abyss, and Pandemonium. Tributaries of the Styx snake onto lower layers of these planes. For example, a tendril of the Styx winds through every layer of the Nine Hells, allowing passage from one layer of that plane to the next.
 
@@ -507,9 +529,11 @@ Each of the Outer Planes has peculiar characteristics that make traveling throug
 
 #### Optional Rule: Psychic Dissonance
 
-Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment-good creatures on the Lower Planes, evil ones on the Upper Planes-if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion). Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
+Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment-good creatures on the Lower Planes, evil ones on the Upper Planes-if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [exhaustion](Rules/conditions.md#Exhaustion). Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
 
 ### Mount Celestia
+
+![](Compendium/books/dungeon-masters-guide-2014/img/2-11.webp#center)
 
 The single sacred mountain of Mount Celestia rises from a shining Silver Sea to heights barely visible and utterly incomprehensible, with seven plateaus marking its seven heavenly layers. The plane is the model of justice and order, of celestial grace and endless mercy, where angels and champions of good guard against incursions of evil. It is one of the few places on the planes where travelers can let down their guard. Its inhabitants strive constantly to be as righteous as possible. Countless creatures aim to reach the highest and most sublime peak of the mountain, but only the purest souls can. Gazing toward that peak fills even the most jaded of travelers with awe.
 
@@ -535,11 +559,13 @@ Visitors spending any time on this plane risk becoming trapped by overwhelming s
 
 ### The Beastlands
 
+![](Compendium/books/dungeon-masters-guide-2014/img/2-12.webp#center)
+
 The Beastlands is a plane of nature unbound, of forests ranging from moss-hung mangroves to snow-laden pines, of thick jungles where the branches are woven so tight that no light penetrates, of vast plains where grains and wildflowers wave in the wind with vibrant life. The plane embodies nature's wildness and beauty, but it also speaks to the animal within all living things.
 
 #### Optional Rule: Hunter's Paradise
 
-Visitors to the Beastlands find their hunting and stalking capabilities improved, and characters have advantage on Wisdom ([Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling)), Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)), and Wisdom ([Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)) checks while there.
+Visitors to the Beastlands find their hunting and stalking capabilities improved, and characters have advantage on Wisdom ([Animal Handling](Rules/skills.md#Animal%20Handling)), Wisdom ([Perception](Rules/skills.md#Perception)), and Wisdom ([Survival](Rules/skills.md#Survival)) checks while there.
 
 #### Optional Rule: Beast Transformation
 
@@ -565,6 +591,8 @@ Ysgard is the home of slain heroes who wage eternal battle on fields of glory. A
 
 ### Limbo
 
+![](Compendium/books/dungeon-masters-guide-2014/img/2-13.webp#center)
+
 Limbo is a plane of pure chaos, a roiling soup of impermanent matter and energy. Stone melts into water that freezes into metal, then turns into diamond that burns up into smoke that becomes snow, and on and on in an endless, unpredictable process of change. Fragments of more ordinary landscapes-bits of forest, meadow, ruined castles, and even burbling streams-drift through the disorder. The whole plane is a nightmarish riot.
 
 Limbo has no gravity, so creatures visiting the plane float in place. A creature can move up to its walking speed in any direction by merely thinking of the desired direction of travel.
@@ -585,7 +613,7 @@ Pandemonium is a plane of madness, a great mass of rock riddled with tunnels car
 
 #### Optional Rule: Mad Winds
 
-A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion). A creature that reaches six levels of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion) while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion) level unless the creature can somehow escape the maddening winds.
+A visitor must make a DC 10 Wisdom saving throw after each hour spent among the howling winds. On a failed save, the creature gains one level of [exhaustion](Rules/conditions.md#Exhaustion). A creature that reaches six levels of [exhaustion](Rules/conditions.md#Exhaustion) while on this plane doesn't die. Instead, the creature gains a random form of indefinite madness, as described in chapter 8, "Running the Game." Finishing a long rest doesn't reduce a creature's [exhaustion](Rules/conditions.md#Exhaustion) level unless the creature can somehow escape the maddening winds.
 
 ### The Abyss
 
@@ -599,9 +627,9 @@ A non-evil visitor that finishes a long rest in the Abyss must make a DC 10 Char
 
 After finishing a long rest, a corrupted creature can make a DC 15 Charisma saving throw. On a successful save, the corruption effect ends. A dispel evil and good spell or any magic that removes a curse also ends the effect.
 
-If a corrupted creature doesn't leave the plane within `1d4+2` days, its alignment changes to chaotic evil. Casting the [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md) spell on the creature restores its original alignment.
+If a corrupted creature doesn't leave the plane within `1d4+2` days, its alignment changes to chaotic evil. Casting the [dispel evil and good](Compendium/spells/dispel-evil-and-good.md) spell on the creature restores its original alignment.
 
-![Optional Rule: Abyssal Corruption; Abyssal Corruption](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/optional-rule-abyssal-corruption-abyssal-corruption.md)
+![Optional Rule: Abyssal Corruption; Abyssal Corruption](Compendium/tables/optional-rule-abyssal-corruption-abyssal-corruption.md)
 
 #### Important Layers
 
@@ -647,7 +675,7 @@ The layers of Hades are called the Three Glooms-places without joy, hope, or pas
 
 #### Optional Rule: Vile Transformation
 
-At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion), which can't be removed while the creature remains in Hades. If the creature reaches six levels of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion), it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion) afflicting the creature are removed.
+At the end of each long rest taken on the plane, a visitor must make a DC 10 Wisdom saving throw. On a failed save, the creature gains one level of [exhaustion](Rules/conditions.md#Exhaustion), which can't be removed while the creature remains in Hades. If the creature reaches six levels of [exhaustion](Rules/conditions.md#Exhaustion), it doesn't die. Instead, the creature permanently transforms into a larva, whereupon all levels of [exhaustion](Rules/conditions.md#Exhaustion) afflicting the creature are removed.
 
 A larva is a miserable fiend that retains the facial features of its previous form but has the body of a fat worm. A larva has only a few faint memories of its previous life and the statistics in the larva stat block.
 
@@ -668,6 +696,8 @@ The plane's cruel nature makes it difficult for visitors to help one another. Wh
 ### The Nine Hells
 
 The Nine Hells of Baator inflame the imaginations of travelers, the greed of treasure seekers, and the battle fury of all moral creatures. It is the ultimate plane of law and evil and the epitome of premeditated cruelty. The devils of the Nine Hells are bound to obey the laws of their superiors, but they rebel within their individual castes. Most undertake any plot, no matter how foul, to advance themselves. At the very top of the hierarchy is Asmodeus, who has yet to be bested. If he were to be vanquished, the victor would rule the plane in turn. Such is the law of the Nine Hells.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/2-14.webp#center)
 
 #### Optional Rule: Pervasive Evil
 
@@ -755,6 +785,8 @@ Acheron rewards a creature for harming other creatures by imbuing that creature 
 
 ### Mechanus
 
+![](Compendium/books/dungeon-masters-guide-2014/img/2-15.webp#center)
+
 On Mechanus, law is reflected in a realm of clockwork gears, all interlocked and turning according to their measure. The cogs seem to be engaged in a calculation so vast that no deity can fathom its purpose. Mechanus embodies absolute order, and its influence can be felt on those who spend time here.
 
 Modrons are the primary inhabitants of Mechanus. The plane is also home to the creator of the modrons: a godlike being called Primus.
@@ -787,6 +819,8 @@ A variety of realms exist between or beyond the other planes.
 
 ### The Outlands and Sigil
 
+![](Compendium/books/dungeon-masters-guide-2014/img/2-16.webp#center)
+
 The Outlands is the plane between the Outer Planes. It is the plane of neutrality, incorporating a little of everything and keeping all aspects in a paradoxical balance-simultaneously concordant and in opposition. The plane has varied terrain, with prairies, mountains, and shallow rivers.
 
 The Outlands is circular, like a great disk. In fact, those who envision the Outer Planes as a wheel point to the Outlands as proof, calling it a microcosm of the planes. That argument might be circular, since the arrangement of the Outlands inspired the idea of the Great Wheel in the first place.
@@ -795,7 +829,7 @@ Around the outside edge of the circle, evenly spaced, are the gate-towns: sixtee
 
 Given the fact that you can ride a horse in the Outlands from a heaven to a hell, a planar-themed campaign can be set there without the need for planar travel. The Outlands is the closest the Outer Planes come to being like a world on the Material Plane.
 
-![The Outlands and Sigil; Gate-Towns of the Outlands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/the-outlands-and-sigil-gate-towns-of-the-outlands.md)
+![The Outlands and Sigil; Gate-Towns of the Outlands](Compendium/tables/the-outlands-and-sigil-gate-towns-of-the-outlands.md)
 
 #### Sigil, City of Doors
 
@@ -809,7 +843,7 @@ The city is the domain of the inscrutable Lady of Pain, a being as old as gods a
 
 Demiplanes are extra dimensional spaces that come into being by a variety of means and boast their own physical laws. Some are created by spells. Others exist naturally, as folds of reality pinched off from the rest of the multiverse. Theoretically, a plane shift spell can carry travelers to a demiplane, but the proper frequency required for the tuning fork would be extremely hard to acquire. The gate spell is more reliable, assuming the caster knows of the demiplane.
 
-A demiplane can be as small as a single chamber or large enough to contain an entire realm. For example, a [Mordenkainen's magnificent mansion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mordenkainens-magnificent-mansion.md) spell creates a demiplane consisting of a foyer with multiple adjoining rooms, while the land of Barovia (in the Ravenloft setting) exists entirely within a demiplane under the sway of its vampire lord, Strahd von Zarovich. When a demiplane is connected to the Material Plane or some other plane, entering it can be as simple as stepping through a portal or passing through a wall of mist.
+A demiplane can be as small as a single chamber or large enough to contain an entire realm. For example, a [Mordenkainen's magnificent mansion](Compendium/spells/mordenkainens-magnificent-mansion.md) spell creates a demiplane consisting of a foyer with multiple adjoining rooms, while the land of Barovia (in the Ravenloft setting) exists entirely within a demiplane under the sway of its vampire lord, Strahd von Zarovich. When a demiplane is connected to the Material Plane or some other plane, entering it can be as simple as stepping through a portal or passing through a wall of mist.
 
 ### The Far Realm
 

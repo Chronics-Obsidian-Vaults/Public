@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; Mage Furnishings
+- "Dungeon Dressing; Mage Furnishings"
 ---
 # Dungeon Dressing; Mage Furnishings
 *Source: Dungeon Master's Guide p. 298* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dancing Item
+- "Dancing Item"
 ---
-# [Dancing Item](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/dancing-item-tce.md)
+# [Dancing Item](Compendium/bestiary/construct/dancing-item-tce.md)
 *Source: Tasha's Cauldron of Everything p. 29*  
 
 ```statblock
@@ -21,6 +22,7 @@ aliases:
 "alignment": "Unaligned"
 "ac": !!int "16"
 "ac_class": "natural armor"
+"hp": "10 + five times your bard level"
 "modifier": !!int "2"
 "stats":
   - !!int "18"
@@ -31,19 +33,16 @@ aliases:
   - !!int "6"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "The item is immune to any spell or effect that would alter its form."
     "name": "Immutable Form"
   - "desc": "When any creature starts its turn within 10 feet of the item, the item\
       \ can increase or decrease (your choice) the walking speed of that creature\
-      \ by 10 feet until the end of the turn, provided the item isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ by 10 feet until the end of the turn, provided the item isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Irrepressible Dance"
 "actions":
   - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
@@ -51,6 +50,6 @@ aliases:
     "name": "Force-Empowered Slam"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/dancing-item-tce.webp"
+"image": "Compendium/bestiary/construct/token/dancing-item-tce.webp"
 ```
 ^statblock

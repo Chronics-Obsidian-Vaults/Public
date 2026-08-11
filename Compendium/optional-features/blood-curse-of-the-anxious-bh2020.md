@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bh2020
 - source/optional-feature/blood-curse
 aliases:
-- Blood Curse of the Anxious
+- "Blood Curse of the Anxious"
 ---
 # Blood Curse of the Anxious
 *Source: Blood Hunter 2020*  

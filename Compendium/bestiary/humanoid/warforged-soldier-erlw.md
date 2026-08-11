@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warforged Soldier
+- "Warforged Soldier"
 ---
-# [Warforged Soldier](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/warforged-soldier-erlw.md)
+# [Warforged Soldier](Compendium/bestiary/humanoid/warforged-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 320*  
 
 Warforged soldiers are humanoids formed from wood and steel, then magically imbued with life and sentience. The warforged were created to fight in the Last War, and in the aftermath of that conflict, they struggle to understand their place in the world.
@@ -25,7 +26,7 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
 "subtype": "warforged"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "natural armor, [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "natural armor, [shield](Compendium/items/shield.md)"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "modifier": !!int "1"
@@ -38,19 +39,21 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+4"
 "damage_resistances": "poison"
 "condition_immunities": "disease"
+"gear":
+  - "[javelin](Compendium/items/javelin.md)"
 "senses": "passive Perception 14"
 "languages": "Common"
 "cr": "1"
 "traits":
-  - "desc": "The warforged has advantage on saving throws against being [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+  - "desc": "The warforged has advantage on saving throws against being [poisoned](Rules/conditions.md#Poisoned)\
       \ and is immune to disease. Magic can't put it to sleep."
     "name": "Warforged Resilience"
 "actions":
@@ -69,6 +72,6 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
     "name": "Protection"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/warforged-soldier-erlw.webp"
+"image": "Compendium/bestiary/humanoid/token/warforged-soldier-erlw.webp"
 ```
 ^statblock

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/optional-feature/mv-b
 aliases:
-- Evasive Footwork
+- "Evasive Footwork"
 ---
 # Evasive Footwork
 *Source: Player's Handbook p. 74*  

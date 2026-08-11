@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Slithering Tracker
+- "Slithering Tracker"
 ---
-# [Slithering Tracker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\ooze/slithering-tracker-mpmm.md)
+# [Slithering Tracker](Compendium/bestiary/ooze/slithering-tracker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191*  
 
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.
@@ -42,31 +43,26 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
   - !!int "11"
 "speed": "30 ft., climb 30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+6"
 "damage_vulnerabilities": "cold, fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 120 ft., passive Perception 12"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened),\
+  \ [exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained),\
+  \ [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 120 ft., passive Perception 12"
 "languages": "understands languages it knew in its previous form but can't speak"
 "cr": "3"
 "traits":
   - "desc": "If the slithering tracker is motionless at the start of combat, it has\
       \ advantage on its initiative roll. Moreover, if a creature hasn't observed\
       \ the slithering tracker move or act, that creature must succeed on a DC 18\
-      \ Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation))\
-      \ check to discern that the slithering tracker isn't a puddle."
+      \ Intelligence ([Investigation](Rules/skills.md#Investigation)) check to discern\
+      \ that the slithering tracker isn't a puddle."
     "name": "False Appearance"
   - "desc": "The slithering tracker can enter an enemy's space and stop there. It\
       \ can also move through a space as narrow as 1 inch wide without squeezing."
@@ -79,23 +75,23 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
       \ + 3) bludgeoning damage."
     "name": "Slam"
   - "desc": "One Large or smaller creature that the slithering tracker can see within\
-      \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 13). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ and unable to breathe unless it can breathe water. In addition, the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 13). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained)\
+      \ and unable to breathe unless it can breathe water. In addition, the [grappled](Rules/conditions.md#Grappled)\
       \ target takes 16 (3d10) necrotic damage at the start of each of its turns.\
       \ The slithering tracker can grapple only one target at a time.\n\nWhile grappling\
       \ the target, the slithering tracker takes only half any damage dealt to it\
       \ (rounded down), and the target takes the other half."
     "name": "Life Leech"
 "bonus_actions":
-  - "desc": "If underwater, the slithering tracker takes the [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide)\
-      \ action, and it makes the Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
-      \ check with advantage."
+  - "desc": "If underwater, the slithering tracker takes the [Hide](Rules/actions.md#Hide)\
+      \ action, and it makes the Dexterity ([Stealth](Rules/skills.md#Stealth)) check\
+      \ with advantage."
     "name": "Watery Stealth"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/ooze/token/slithering-tracker-mpmm.webp"
+"image": "Compendium/bestiary/ooze/token/slithering-tracker-mpmm.webp"
 ```
 ^statblock
 

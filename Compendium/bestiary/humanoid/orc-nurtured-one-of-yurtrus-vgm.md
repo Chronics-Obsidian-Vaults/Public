@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/1-2
@@ -14,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Nurtured One of Yurtrus
+- "Orc Nurtured One of Yurtrus"
 ---
-# [Orc Nurtured One of Yurtrus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/orc-nurtured-one-of-yurtrus-vgm.md)
+# [Orc Nurtured One of Yurtrus](Compendium/bestiary/humanoid/orc-nurtured-one-of-yurtrus-vgm.md)
 *Source: Volo's Guide to Monsters p. 184*  
 
 When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests then minister to those who can be saved but not healed. The hands cultivate the sickness of these nurtured ones, turning them into instruments of defense and weapons of war. When orcs go to battle, a band of nurtured ones might charge in first-to give themselves up while softening up the enemy by spreading Yurtrus's vile blessing in its ranks.
@@ -50,8 +51,7 @@ In addition, orcs have special relationships with two creatures that are sometim
   - !!int "11"
   - !!int "7"
 "speed": "30 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "1/2"
 "traits":
@@ -60,12 +60,12 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Aggressive"
   - "desc": "When the orc is reduced to 0 hit points, it explodes, and any creature\
       \ within 10 feet of it must make a DC 13 Constitution saving throw. On a failed\
-      \ save, the creature takes 14 (4d6) poison damage and becomes [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ On a success, the creature takes half as much damage and isn't [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ A creature [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ by this effect can repeat the save at the end of each of its turn, ending\
-      \ the effect on itself on a success. While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ by this effect, a creature can't regain hit points."
+      \ save, the creature takes 14 (4d6) poison damage and becomes [poisoned](Rules/conditions.md#Poisoned).\
+      \ On a success, the creature takes half as much damage and isn't [poisoned](Rules/conditions.md#Poisoned).\
+      \ A creature [poisoned](Rules/conditions.md#Poisoned) by this effect can repeat\
+      \ the save at the end of each of its turn, ending the effect on itself on a\
+      \ success. While [poisoned](Rules/conditions.md#Poisoned) by this effect, a\
+      \ creature can't regain hit points."
     "name": "Corrupted Carrier"
   - "desc": "The orc has advantage on saving throws against poison and disease."
     "name": "Nurtured One of Yurtrus"
@@ -78,7 +78,7 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Corrupted Vengeance"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus-vgm.webp"
+"image": "Compendium/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus-vgm.webp"
 ```
 ^statblock
 

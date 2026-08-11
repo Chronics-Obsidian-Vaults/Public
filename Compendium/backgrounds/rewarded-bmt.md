@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/bmt
 aliases:
-- Rewarded
+- "Rewarded"
 ---
 # Rewarded
 *Source: The Book of Many Things p. 57*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/img/rewarded.webp#right)
+![](Compendium/backgrounds/img/rewarded.webp#right)
 
-- **Skill Proficiencies.** [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Insight](Rules/skills.md#Insight), [Persuasion](Rules/skills.md#Persuasion)  
 - **Languages.** One of your choice  
-- **Equipment.** A bottle of black ink, an [ink pen](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ink-pen.md), five sheets of paper, a [gaming set](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/gaming-set.md) (matching your chosen proficiency), a [signet ring](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/signet-ring.md), a set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), and a [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 18 gp  
-- **Tool Proficiencies.** One gaming set of your choice (such as [playing cards](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/playing-card-set.md) or [three-dragon ante cards](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/three-dragon-ante-set.md))  
+- **Equipment.** A bottle of black ink, an [ink pen](Compendium/items/ink-pen.md), five sheets of paper, a [gaming set](Compendium/items/gaming-set.md) (matching your chosen proficiency), a [signet ring](Compendium/items/signet-ring.md), a set of [fine clothes](Compendium/items/fine-clothes.md), and a [pouch](Compendium/items/pouch.md) containing 18 gp  
+- **Tool Proficiencies.** One gaming set of your choice (such as [playing cards](Compendium/items/playing-card-set.md) or [three-dragon ante cards](Compendium/items/three-dragon-ante-set.md))  
 
 You were living a difficult life before your destiny suddenly changed through a miraculous turn of good fortune. Perhaps a benevolent deity gave you precisely what you most desired. You might have stumbled across a Deck of Many Things and drawn a card with a potent, positive effect. Or maybe you inherited a modest fortune from a distant relative you didn't know you had.
 
@@ -22,11 +23,11 @@ Regardless, you left the daily miseries of your old life behind in favor of a li
 
 ## Feature: Fortune's Favor
 
-Your unexpected good fortune is reflected by a minor boon. You gain the [Lucky](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/feats/lucky.md), [Magic Initiate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/feats/magic-initiate.md), or [Skilled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/feats/skilled.md) feat (your choice). Your choice of feat reflects the transformation that changed your life. An encounter with a genie who gave you three wishes might have resulted in magical powers represented by Magic Initiate. If you paid off all your family debts with a fortuitous round of three-dragon ante, you might be Lucky instead. Alternatively, you could use the Skilled feat to reflect whatever trial you endured to secure your new destiny and to model the knowledge and abilities imparted to you by whatever force transformed your life.
+Your unexpected good fortune is reflected by a minor boon. You gain the [Lucky](Compendium/feats/lucky.md), [Magic Initiate](Compendium/feats/magic-initiate.md), or [Skilled](Compendium/feats/skilled.md) feat (your choice). Your choice of feat reflects the transformation that changed your life. An encounter with a genie who gave you three wishes might have resulted in magical powers represented by Magic Initiate. If you paid off all your family debts with a fortuitous round of three-dragon ante, you might be Lucky instead. Alternatively, you could use the Skilled feat to reflect whatever trial you endured to secure your new destiny and to model the knowledge and abilities imparted to you by whatever force transformed your life.
 
 ## Suggested Characteristics
 
-Your character's perspective on life has changed thanks to their new destiny. The Rewarded Personality Traits table suggests traits you might adopt for your character and cards from the [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md) that might have prompted this trait.
+Your character's perspective on life has changed thanks to their new destiny. The Rewarded Personality Traits table suggests traits you might adopt for your character and cards from the [Deck of Many Things](Compendium/items/deck-of-many-things.md) that might have prompted this trait.
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|
@@ -42,7 +43,7 @@ Your character's perspective on life has changed thanks to their new destiny. Th
 
 Rewarded characters have varied histories, but they have one thing in common: they were down on their luck before their lives abruptly turned around. They might have given up all hope of a happier life, only to suddenly get a second chance. A rewarded character has often spent many years struggling to escape painful circumstances. Now, extricated from the (sometimes literal) prison that was their former life, they throw their cares to the wind and become adventurers.
 
-If your character's life was changed by a [Deck of Many Things](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/deck-of-many-things.md), consider which card was responsible. Perhaps the Fates card undid a tragic mistake your character made in their youth. The Gem card could have wiped out debts incurred over a lifetime. Maybe the Sage card provided the advice needed to escape a hopeless situation, the Star card increased an ability score to its current value, or a [Wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell cast after drawing the Moon card transformed your character from a peddler to a fledgling sorcerer infused with magic and new knowledge and skills. If you're making a character at higher than 1st level, magic items they have could have been granted by the Key or Sun card.
+If your character's life was changed by a [Deck of Many Things](Compendium/items/deck-of-many-things.md), consider which card was responsible. Perhaps the Fates card undid a tragic mistake your character made in their youth. The Gem card could have wiped out debts incurred over a lifetime. Maybe the Sage card provided the advice needed to escape a hopeless situation, the Star card increased an ability score to its current value, or a [Wish](Compendium/spells/wish.md) spell cast after drawing the Moon card transformed your character from a peddler to a fledgling sorcerer infused with magic and new knowledge and skills. If you're making a character at higher than 1st level, magic items they have could have been granted by the Key or Sun card.
 
 ## Rewarded Trinkets
 

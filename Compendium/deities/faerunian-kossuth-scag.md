@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/scag
 - source/deity/faerunian
 - source/domain/light
-aliases: 
-- Kossuth
+aliases:
+- "Kossuth"
 ---
 # Kossuth
 *Source: Sword Coast Adventurer's Guide p. 21* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/4
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stegosaurus
+- "Stegosaurus"
 ---
-# [Stegosaurus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/stegosaurus-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140, The Book of Many Things*  
+# [Stegosaurus](Compendium/bestiary/beast/stegosaurus-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
 
@@ -47,8 +48,7 @@ This heavily built dinosaur has rows of plates on its back and a flexible, spike
 "source":
   - "MPMM"
   - "VGM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/stegosaurus-mpmm.webp"
+"image": "Compendium/bestiary/beast/token/stegosaurus-mpmm.webp"
 ```
 ^statblock
 

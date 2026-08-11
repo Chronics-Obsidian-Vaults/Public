@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/rare
 - source/item/tier/major
 - source/item/weapon/melee
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Mace of Smiting"
 item_type: weapon
 item_subtype: "melee, simple"
@@ -15,8 +16,8 @@ rarity: rare
 attunement: none
 ---
 # Mace of Smiting
-*Weapon ([mace](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mace.md)), major, rare*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/mace-of-smiting.webp#right)
+*Weapon ([mace](Compendium/items/mace.md)), major, rare*  
+![](Compendium/items/img/mace-of-smiting.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

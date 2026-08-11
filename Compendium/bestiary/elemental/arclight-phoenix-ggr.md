@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/12
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Arclight Phoenix
+- "Arclight Phoenix"
 ---
-# [Arclight Phoenix](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/arclight-phoenix-ggr.md)
+# [Arclight Phoenix](Compendium/bestiary/elemental/arclight-phoenix-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 193*  
 
 An arclight phoenix is variously said to be a byproduct of a lightning strike on an aviary, a mishap in an effort to create a translocation device, or a successful attempt to create an elemental creature in the form of a majestic bird.
@@ -43,15 +44,11 @@ An arclight phoenix doesn't require air, food, drink, or sleep.
   - "dexterity": !!int "10"
 "damage_resistances": "thunder; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [restrained](Rules/conditions.md#Restrained),\
+  \ [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": ""
 "cr": "12"
 "traits":
@@ -90,6 +87,6 @@ An arclight phoenix doesn't require air, food, drink, or sleep.
     "name": "Arclight Touch"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/arclight-phoenix-ggr.webp"
+"image": "Compendium/bestiary/elemental/token/arclight-phoenix-ggr.webp"
 ```
 ^statblock

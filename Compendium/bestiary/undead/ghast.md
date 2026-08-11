@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ghast
+- "Ghast"
 ---
-# [Ghast](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/ghast.md)
+# [Ghast](Compendium/bestiary/undead/ghast.md)
 *Source: Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
@@ -50,16 +51,14 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 "speed": "30 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "2"
 "traits":
   - "desc": "Any creature that starts its turn within 5 feet of the ghast must succeed\
-      \ on a DC 10 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ on a DC 10 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned)\
       \ until the start of its next turn. On a successful saving throw, the creature\
       \ is immune to the ghast's Stench for 24 hours."
     "name": "Stench"
@@ -72,13 +71,13 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage. If the target is a creature other than an undead,\
-      \ it must succeed on a DC 10 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ it must succeed on a DC 10 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Claws"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/ghast.webp"
+"image": "Compendium/bestiary/undead/token/ghast.webp"
 ```
 ^statblock
 

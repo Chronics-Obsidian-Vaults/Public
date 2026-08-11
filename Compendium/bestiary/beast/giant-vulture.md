@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Vulture
+- "Giant Vulture"
 ---
-# [Giant Vulture](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/giant-vulture.md)
-*Source: Monster Manual p. 329, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Vulture](Compendium/bestiary/beast/giant-vulture.md)
+*Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
 
@@ -36,18 +37,18 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
   - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "1"
 "traits":
-  - "desc": "The vulture has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The vulture has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on sight or smell."
     "name": "Keen Sight and Smell"
   - "desc": "The vulture has advantage on an attack roll against a creature if at\
       \ least one of the vulture's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ ally isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The vulture makes two attacks: one with its beak and one with its talons."
@@ -60,8 +61,7 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
     "name": "Talons"
 "source":
   - "MM"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/giant-vulture.webp"
+"image": "Compendium/bestiary/beast/token/giant-vulture.webp"
 ```
 ^statblock
 

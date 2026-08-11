@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Transportation; Travel Services
+- "Transportation; Travel Services"
 ---
 # Transportation; Travel Services
 *Source: Eberron: Rising from the Last War p. 11* 
@@ -20,5 +20,5 @@ aliases:
 | Lightning rail, first class (House Orien) | 5 sp per mile | 30 mph |
 | Lightning rail, steerage (House Orien) | 3 cp per mile | 30 mph |
 | Magebred coach (House Orien) | 3 sp per mile | 5 mph |
-| [Teleportation circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleportation-circle.md) (House Orien) | 2,500 gp | Instant |
+| [Teleportation circle](Compendium/spells/teleportation-circle.md) (House Orien) | 2,500 gp | Instant |
 ^travel-services

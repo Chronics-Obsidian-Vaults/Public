@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -16,9 +17,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc War Chief
+- "Orc War Chief"
 ---
-# [Orc War Chief](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/orc-war-chief.md)
+# [Orc War Chief](Compendium/bestiary/humanoid/orc-war-chief.md)
 *Source: Monster Manual p. 246*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -72,7 +73,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 
 > [!quote] A quote from An account of War Chief Hartusk's brutality in the aftermath of the Battle of the Cold Vale  
 > 
-> He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions .The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
+> He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions. The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
 
 
 ```statblock
@@ -82,7 +83,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[chain mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-mail.md)"
+"ac_class": "[chain mail](Compendium/items/chain-mail.md)"
 "hp": !!int "93"
 "hit_dice": "11d8 + 44"
 "modifier": !!int "1"
@@ -99,10 +100,12 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
   - "constitution": !!int "6"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Common, Orc"
 "cr": "4"
 "traits":
@@ -123,13 +126,13 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
       \ + 4) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
   - "desc": "Each creature of the war chief's choice that is within 30 feet of it,\
-      \ can hear it, and not already affected by Battle Cry gain advantage on attack\
+      \ can hear it, and not already affected by Battle Cry gains advantage on attack\
       \ rolls until the start of the war chief's next turn. The war chief can then\
       \ make one attack as a bonus action."
     "name": "Battle Cry (1/Day)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/orc-war-chief.webp"
+"image": "Compendium/bestiary/humanoid/token/orc-war-chief.webp"
 ```
 ^statblock
 

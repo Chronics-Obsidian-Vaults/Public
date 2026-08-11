@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/egw
 - source/race/elf/pallid
 aliases:
-- Elf (Pallid)
+- "Elf (Pallid)"
 ---
 # Elf (Pallid)
 *Source: Explorer's Guide to Wildemount p. 21*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/elf-pallid.webp#right)
+![](Compendium/races/img/elf-pallid.webp#right)
 
 - **Ability Scores**: wis +1
 - **Size**: Medium
@@ -32,11 +33,11 @@ Accustomed to twilit forests and the night sky, you have superior vision in dark
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception) skill.
+You have proficiency in the [Perception](Rules/skills.md#Perception) skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](Rules/conditions.md#Charmed), and magic can't put you to sleep.
 
 ### Trance
 
@@ -51,11 +52,11 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Incisive Sense
 
-You have advantage on Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) and Wisdom ([Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)) checks.
+You have advantage on Intelligence ([Investigation](Rules/skills.md#Investigation)) and Wisdom ([Insight](Rules/skills.md#Insight)) checks.
 
 ### Blessing of the Moon Weaver
 
-You know the [light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/light.md) cantrip. When you reach 3rd level, you can cast the [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/invisibility.md) spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells.
+You know the [light](Compendium/spells/light.md) cantrip. When you reach 3rd level, you can cast the [sleep](Compendium/spells/sleep.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [invisibility](Compendium/spells/invisibility.md) spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn't require material components. Wisdom is your spellcasting ability for these spells.
 
 ## Description
 

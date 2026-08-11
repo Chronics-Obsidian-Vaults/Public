@@ -8,8 +8,8 @@ tags:
 - source/domain/arcana
 - source/domain/knowledge
 - source/domain/life
-aliases: 
-- Labelas Enoreth
+aliases:
+- "Labelas Enoreth"
 ---
 # Labelas Enoreth
 *Source: Mordenkainen's Tome of Foes p. 45* 

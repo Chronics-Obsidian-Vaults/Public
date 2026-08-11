@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/attunement/required
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "Docent"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Docent
 *Wondrous item, rare (requires attunement by a warforged)*  
-
+![A Docent](Compendium/items/img/070-04-004-docent.webp#right)
 
 
 A docent is a small metal sphere, about 2 inches across, studded with dragonshards. To attune to a docent, you must embed the item somewhere on your body, such as your chest or your eye socket.
@@ -25,7 +26,7 @@ A docent is a sentient item of any alignment with an Intelligence of 16, a Wisdo
 
 ## Life Support
 
-Whenever you end your turn with 0 hit points, the docent can make a Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)) check with a +6 bonus. If this check succeeds, the docent stabilizes you.
+Whenever you end your turn with 0 hit points, the docent can make a Wisdom ([Medicine](Rules/skills.md#Medicine)) check with a +6 bonus. If this check succeeds, the docent stabilizes you.
 
 ## Random Properties
 
@@ -33,9 +34,9 @@ A docent has the following properties:
 
 **Languages**. The docent knows Common, Giant, and `1d4` additional languages chosen by the DM. If a docent knows fewer than six languages, it can learn a new language after it hears or reads the language through your senses.
 
-**Skills**. The docent has a +7 bonus to one of the following skills (roll a `d4`): (1) [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), (2) [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), (3) [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), or (4) [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature).
+**Skills**. The docent has a +7 bonus to one of the following skills (roll a `d4`): (1) [Arcana](Rules/skills.md#Arcana), (2) [History](Rules/skills.md#History), (3) [Investigation](Rules/skills.md#Investigation), or (4) [Nature](Rules/skills.md#Nature).
 
-**Spells**. The docent knows one of the following spells and can cast it at will, requiring no components (roll a `d6`): (1–2) [detect evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-evil-and-good.md) or (3–6) [detect magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-magic.md). The docent decides when to cast the spell.
+**Spells**. The docent knows one of the following spells and can cast it at will, requiring no components (roll a `d6`): (1–2) [detect evil and good](Compendium/spells/detect-evil-and-good.md) or (3–6) [detect magic](Compendium/spells/detect-magic.md). The docent decides when to cast the spell.
 
 ## Personality
 

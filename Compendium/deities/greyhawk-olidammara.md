@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greyhawk
 - source/domain/trickery
-aliases: 
-- Olidammara
+aliases:
+- "Olidammara"
 ---
 # Olidammara
 *Source: Player's Handbook p. 295* 

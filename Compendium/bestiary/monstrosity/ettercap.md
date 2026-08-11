@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ettercap
+- "Ettercap"
 ---
-# [Ettercap](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/ettercap.md)
-*Source: Monster Manual p. 131, Explorer's Guide to Wildemount, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Ettercap](Compendium/bestiary/monstrosity/ettercap.md)
+*Source: Monster Manual p. 131. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
 
@@ -50,14 +51,13 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
@@ -74,7 +74,7 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6\
       \ (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed\
-      \ on a DC 11 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ on a DC 11 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned)\
       \ for 1 minute. The creature can repeat the saving throw at the end of each\
       \ of its turns, ending the effect on itself on a success."
     "name": "Bite"
@@ -82,8 +82,8 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
       \ + 2) slashing damage."
     "name": "Claws"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/60 ft., one Large or smaller\
-      \ creature. *Hit:* The creature is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ by webbing. As an action, the [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
+      \ creature. *Hit:* The creature is [restrained](Rules/conditions.md#Restrained)\
+      \ by webbing. As an action, the [restrained](Rules/conditions.md#Restrained)\
       \ creature can make a DC 11 Strength check, escaping from the webbing on a success.\
       \ The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit\
       \ points, is vulnerable to fire damage and immune to bludgeoning, poison and\
@@ -91,9 +91,7 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
     "name": "Web (Recharge 5-6)"
 "source":
   - "MM"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/ettercap.webp"
+"image": "Compendium/bestiary/monstrosity/token/ettercap.webp"
 ```
 ^statblock
 

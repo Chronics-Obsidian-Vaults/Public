@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/dragonlance
 - source/domain/light
-aliases: 
-- Branchala
+aliases:
+- "Branchala"
 ---
 # Branchala
 *Source: Player's Handbook p. 295* 

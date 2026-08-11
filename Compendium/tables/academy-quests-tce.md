@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Academy Quests
+- "Academy Quests"
 ---
 # Academy Quests
 *Source: Tasha's Cauldron of Everything p. 86* 

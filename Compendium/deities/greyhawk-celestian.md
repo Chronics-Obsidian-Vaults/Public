@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/knowledge
 - source/domain/twilight
-aliases: 
-- Celestian
+aliases:
+- "Celestian"
 ---
 # Celestian
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 34* 

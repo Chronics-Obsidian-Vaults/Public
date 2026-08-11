@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Creating Nonplayer Characters
+- "Creating Nonplayer Characters"
 ---
 # Creating Nonplayer Characters
 *Source: Dungeon Master's Guide (2014), p. 88* 
@@ -13,6 +13,8 @@ aliases:
 A nonplayer character is any character controlled by the Dungeon Master. NPCs can be enemies or allies, regular folk or named monsters. They include the local innkeeper, the old wizard who lives in the tower on the outskirts of town, the death knight out to destroy the kingdom, and the dragon counting gold in its cavernous lair.
 
 This chapter shows you how to flesh out nonplayer characters for your game. For guidelines on generating monster-like stat blocks for an NPC, see chapter 9, "Dungeon Master's Workshop."
+
+![](Compendium/books/dungeon-masters-guide-2014/img/4-1.webp#center)
 
 ## Designing NPCs
 
@@ -47,33 +49,33 @@ In one sentence, describe the NPC's occupation and provide a brief historical no
 
 In one sentence, describe the NPC's most distinctive physical features. You can roll on the NPC Appearance table or choose a feature that suits the character.
 
-![NPC Appearance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/npc-appearance.md)
+![NPC Appearance](Compendium/tables/npc-appearance.md)
 
 #### Abilities
 
 You don't need to roll ability scores for the NPC, but note abilities that are above or below average-great strength or monumental stupidity, for example-and use them to inform the NPC's qualities.
 
-![NPC Abilities](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/npc-abilities.md)
+![NPC Abilities](Compendium/tables/npc-abilities.md)
 
-![NPC Low Abilities](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/npc-low-abilities.md)
+![NPC Low Abilities](Compendium/tables/npc-low-abilities.md)
 
 #### Talent
 
 In one sentence, describe something that your NPC can do that is special, if anything. Roll on the NPC Talents table or use it to spur your own ideas.
 
-![NPC Talents](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/npc-talents.md)
+![NPC Talents](Compendium/tables/npc-talents.md)
 
 #### Mannerism
 
 In one sentence, describe one mannerism that will help players remember the NPC. Roll on the NPC Mannerisms and Quirks table or use it to generate your own ideas.
 
-![NPC Mannerisms](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/npc-mannerisms.md)
+![NPC Mannerisms](Compendium/tables/npc-mannerisms.md)
 
 #### Interactions with Others
 
 In one sentence, describe how the NPC interacts with others, using the NPC Interaction Traits table if necessary. An NPC's behavior can change depending on who he or she is interacting with. For example, an innkeeper might be friendly toward guests and rude to her staff.
 
-![Interactions with Others; NPC Interaction Traits](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/interactions-with-others-npc-interaction-traits.md)
+![Interactions with Others; NPC Interaction Traits](Compendium/tables/interactions-with-others-npc-interaction-traits.md)
 
 #### Useful Knowledge
 
@@ -85,7 +87,7 @@ The NPC might know something as banal as the best inn in town or as important as
 
 In a sentence, describe one ideal that the NPC holds dear and which governs his or her greater actions. Player characters who uncover an NPC's ideal can use what they've learned to influence the NPC in asocial interaction (as discussed in chapter 8, "Running the Game"). Ideals can connect to alignment, as shown on the NPC Ideals table. The alignment connections here are suggestions only; an evil character could have beauty as an ideal, for instance.
 
-![Ideals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/ideals.md)
+![Ideals](Compendium/tables/ideals.md)
 
 #### Bond
 
@@ -93,7 +95,7 @@ In a sentence, summarize the people, places, or things that are especially impor
 
 The character backgrounds in the *Player's Handbook* explore bonds in more detail, and player characters who uncover an NPC's bond can use what they've learned to influence the NPC in a social interaction (as discussed in chapter 8).
 
-![NPC Bonds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/npc-bonds.md)
+![NPC Bonds](Compendium/tables/npc-bonds.md)
 
 #### Flaw or Secret
 
@@ -101,13 +103,15 @@ In one sentence, describe the NPC's flaw-some element of the character's persona
 
 The NPC Flaws and Secrets table provides several ideas. The backgrounds in the *Player's Handbook* can be used to create more detailed flaws. Player characters who uncover an NPC's flaw or secret can use what they've learned to influence the NPC in a social interaction (as discussed in chapter 8).
 
-![Flaw or Secret; NPC Flaws and Secrets](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/flaw-or-secret-npc-flaws-and-secrets.md)
+![Flaw or Secret; NPC Flaws and Secrets](Compendium/tables/flaw-or-secret-npc-flaws-and-secrets.md)
 
 ### Monsters as NPCs
 
 Named monsters that play a significant role in an adventure deserve the same attention you would give to a humanoid NPC, with mannerisms as well as ideals, bonds, flaws, and secrets. If a beholder mastermind is behind the criminal activities in a city, don't rely solely on the entry in the Monster Manual to describe the creature's appearance and personality. Take the time to give it a bit of background, a distinctive quirk of appearance, and especially an ideal, a bond, and a flaw.
 
 As an example, consider the Xanathar, a beholder that runs extensive criminal operations in the city of Waterdeep. The Xanathar's spherical body is covered in leathery flesh with a texture similar to cobblestones. Its eyestalks are jointed like the legs of an insect, and some of the stalks have magic rings on them. The Xanathar's speech is slow and deliberate, and it prefers to turn its central eye away from creatures it speaks to. Like all beholders, it sees other creatures as inferiors, though it understands the usefulness of its humanoid minions.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/4-2.webp#center)
 
 The Xanathar uses the sewers beneath Waterdeep to access virtually any location within or under the city.
 
@@ -126,6 +130,8 @@ Appendix B of the Monster Manual contains statistics for many generic NPCs that 
 #### Using Classes and Levels
 
 You can create an NPC just as you would a player character, using the rules in the *Player's Handbook*. You can even use a character sheet to keep track of the NPC's vital information.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/4-3.webp#center)
 
 ##### Class Options
 
@@ -185,6 +191,8 @@ An NPC whose loyalty score drops to 0 is no longer loyal to the party and might 
 
 An NPC with a loyalty score of 10 or higher risks life and limb to help fellow party members. If the NPC's loyalty score is between 1 and 10, its loyalty is tenuous. An NPC whose loyalty drops to 0 no longer acts in the party's best interests. The disloyal NPC either leaves the party (attacking characters who attempt to intervene) or works in secret to bring about the party's downfall.
 
+![](Compendium/books/dungeon-masters-guide-2014/img/4-4.webp#center)
+
 ## Contacts
 
 Contacts are NPCs with close ties to one or more of the player characters. They don't go on adventures, but they can provide information, rumors, supplies, or professional advice, either for free or at a cost. Some of the backgrounds in the *Player's Handbook* suggest creating nonplayer characters contacts for beginning adventurers, and characters are likely to secure more helpful contacts over the course of their adventuring careers.
@@ -217,15 +225,15 @@ Whenever extras are present, be prepared to come up with names and mannerisms on
 
 By their actions, villains provide job security for heroes. Chapter 3 helps you determine suitable villains for your adventures, while this section helps you flesh out their evil schemes, methods, and weaknesses. Let the tables that follow inspire you.
 
-![Villains; Villain's Scheme](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/villains-villains-scheme.md)
+![Villains; Villain's Scheme](Compendium/tables/villains-villains-scheme.md)
 
-![Villains; Villain's Methods](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/villains-villains-methods.md)
+![Villains; Villain's Methods](Compendium/tables/villains-villains-methods.md)
 
 ### Villain's Secret Weakness
 
 Finding and exploiting a villain's weakness can be very gratifying for players, although a smart villain tries to conceal its weakness. A lich, for example, has a phylactery-a magical receptacle for its soul-that it keeps well hidden. Only by destroying the phylactery can the characters ensure the lich's destruction.
 
-![Villain's Secret Weakness; Villain's Weakness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/villains-secret-weakness-villains-weakness.md)
+![Villain's Secret Weakness; Villain's Weakness](Compendium/tables/villains-secret-weakness-villains-weakness.md)
 
 ## Villainous Class Options
 
@@ -237,7 +245,9 @@ The Death Domain is an additional domain choice for evil clerics, and the Oathbr
 
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as Chemosh, Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder (Anubis, Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or Morgion), and the underworld (Hades and Hel).
 
-See the [Death Domain classes page entry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/cleric-death-domain-dmg.md) for more information.
+See the [Death Domain classes page entry](Compendium/classes/cleric-death-domain-dmg.md) for more information.
+
+![](Compendium/books/dungeon-masters-guide-2014/img/4-5.webp#center)
 
 ### Paladin: Oathbreaker
 
@@ -245,4 +255,4 @@ An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some da
 
 A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.
 
-See the [Oathbreaker classes page entry](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/paladin-oathbreaker-dmg.md) for more information.
+See the [Oathbreaker classes page entry](Compendium/classes/paladin-oathbreaker-dmg.md) for more information.

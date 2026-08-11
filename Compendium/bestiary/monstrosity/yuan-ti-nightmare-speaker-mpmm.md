@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/4
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Nightmare Speaker
+- "Yuan-ti Nightmare Speaker"
 ---
-# [Yuan-ti Nightmare Speaker](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/yuan-ti-nightmare-speaker-mpmm.md)
+# [Yuan-ti Nightmare Speaker](Compendium/bestiary/monstrosity/yuan-ti-nightmare-speaker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*  
 
 Nightmare speakers are yuan-ti malison priests who make a pact with the Dendar the Night Serpent to feed their deity the fears and nightmares of their victims in exchange for power in the mortal world. These priests receive nightmarish visions from Dendar that they interpret as prophecies, and they then use their magic and influence to make these visions come true.
@@ -44,18 +45,19 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
   - "wisdom": !!int "3"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "4"
 "traits":
-  - "desc": "Magical darkness doesn't impede the yuan-ti's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the yuan-ti's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
       \ effects."
@@ -65,10 +67,10 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
       \ makes two Spectral Fangs attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) bludgeoning damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ (2d6 + 3) bludgeoning damage, and the target is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 14) if it is a Large or smaller creature. Until this grapple ends,\
-      \ the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
-      \ The yuan-ti can constrict only one creature at a time."
+      \ the target is [restrained](Rules/conditions.md#Restrained). The yuan-ti can\
+      \ constrict only one creature at a time."
     "name": "Constrict"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) slashing damage."
@@ -80,22 +82,19 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
       \ 60 feet of it and creates an illusory, immobile manifestation of the creature's\
       \ deepest fears, visible only to that creature.\n\nThe target must make a DC\
       \ 13 Intelligence saving throw. On a failed save, the target takes 22 (4d10)\
-      \ psychic damage and is [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of the manifestation, believing it to be real. The yuan-ti must concentrate\
-      \ to maintain the illusion (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell), which lasts for up to 1 minute and can't be harmed. The target\
-      \ can repeat the saving throw at the end of each of its turns, ending the illusion\
+      \ psychic damage and is [frightened](Rules/conditions.md#Frightened) of the\
+      \ manifestation, believing it to be real. The yuan-ti must concentrate to maintain\
+      \ the illusion (as if [concentrating](Rules/conditions.md#Concentration) on\
+      \ a spell), which lasts for up to 1 minute and can't be harmed. The target can\
+      \ repeat the saving throw at the end of each of its turns, ending the illusion\
       \ on a success or taking 11 (2d10) psychic damage on a failure."
     "name": "Invoke Nightmare (Recharges after a Short or Long Rest)"
   - "desc": "The yuan-ti casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 13):\n\
-      \n**At will:** [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md)\
-      \ (snakes only), [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**3/day:** [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**2/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md)"
+      \n**At will:** [animal friendship](Compendium/spells/animal-friendship.md) (snakes\
+      \ only), [mage hand](Compendium/spells/mage-hand.md), [message](Compendium/spells/message.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**3/day:** [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**2/day each:** [darkness](Compendium/spells/darkness.md), [fear](Compendium/spells/fear.md)"
     "name": "Spellcasting (Yuan-ti Form Only)"
 "bonus_actions":
   - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
@@ -105,7 +104,7 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/yuan-ti-nightmare-speaker-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/yuan-ti-nightmare-speaker-mpmm.webp"
 ```
 ^statblock
 

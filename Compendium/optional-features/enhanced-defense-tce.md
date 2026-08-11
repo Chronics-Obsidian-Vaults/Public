@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/optional-feature/ai
 aliases:
-- Enhanced Defense
+- "Enhanced Defense"
 ---
 # Enhanced Defense
 *Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62*  

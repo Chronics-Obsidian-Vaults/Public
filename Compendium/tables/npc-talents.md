@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- NPC Talents
+- "NPC Talents"
 ---
 # NPC Talents
 *Source: Dungeon Master's Guide p. 90* 

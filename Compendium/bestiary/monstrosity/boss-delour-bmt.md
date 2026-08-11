@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/9
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boss Delour
+- "Boss Delour"
 ---
-# [Boss Delour](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/boss-delour-bmt.md)
+# [Boss Delour](Compendium/bestiary/monstrosity/boss-delour-bmt.md)
 *Source: The Book of Many Things p. 83*  
 
 Delour the wererat is a sly trickster and consummate thief who rules the Moonstalkers alongside his friend Augustus. Delour's honeyed words and calculating mind make him dangerous. He can smile and shake someone's hand while simultaneously plotting to ruin that person.
@@ -41,24 +42,25 @@ Indeed, Delour never forgets a slight. He is obsessed with getting revenge on th
   - "dexterity": !!int "8"
   - "intelligence": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+8"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 20"
+"gear":
+  - "[hand crossbow](Compendium/items/hand-crossbow.md)"
+  - "[shortsword](Compendium/items/shortsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 20"
 "languages": "Common, Thieves' cant (can't speak in rat form)"
 "cr": "9"
 "traits":
   - "desc": "If Delour is subjected to an effect that allows him to make a Dexterity\
       \ saving throw to take only half damage, he instead takes no damage if he succeeds\
       \ on the saving throw and only half damage if he fails, provided he doesn't\
-      \ have the [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ condition."
+      \ have the [incapacitated](Rules/conditions.md#Incapacitated) condition."
     "name": "Evasion"
   - "desc": "Delour can move through the space of a Medium or larger creature."
     "name": "Nimbleness"
@@ -73,12 +75,12 @@ Indeed, Delour never forgets a slight. He is obsessed with getting revenge on th
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 26\
       \ (5d8 + 4) piercing damage. If the target is a Humanoid, it must succeed on\
-      \ a DC 14 Constitution saving throw or be cursed with lycanthropy. While cursed\
-      \ in this way, the target retains its alignment, languages, and equipment but\
-      \ otherwise uses the wererat stat block, excluding actions that require equipment\
-      \ the target doesn't have. During any night when there's a full moon in the\
-      \ sky, the target becomes an NPC under the DM's control and remains so until\
-      \ the night ends. A [Remove Curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md)\
+      \ a DC 14 Constitution saving throw or be cursed with [lycanthropy](Rules/variant-rules/player-characters-as-lycanthropes-mm.md).\
+      \ While cursed in this way, the target retains its alignment, languages, and\
+      \ equipment but otherwise uses the wererat stat block, excluding actions that\
+      \ require equipment the target doesn't have. During any night when there's a\
+      \ full moon in the sky, the target becomes an NPC under the DM's control and\
+      \ remains so until the night ends. A [Remove Curse](Compendium/spells/remove-curse.md)\
       \ spell or similar magic ends this curse."
     "name": "Bite (Rat or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11\
@@ -93,10 +95,11 @@ Indeed, Delour never forgets a slight. He is obsessed with getting revenge on th
       \ same in each form. Any equipment he is wearing or carrying isn't transformed.\
       \ He reverts to his humanoid form if he dies."
     "name": "Change Shape"
-  - "desc": "Delour takes the Dash, Disengage, or Hide action."
+  - "desc": "Delour takes the [Dash](Rules/actions.md#Dash), [Disengage](Rules/actions.md#Disengage),\
+      \ or [Hide](Rules/actions.md#Hide) action."
     "name": "Cunning Action"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/boss-delour-bmt.webp"
+"image": "Compendium/bestiary/monstrosity/token/boss-delour-bmt.webp"
 ```
 ^statblock

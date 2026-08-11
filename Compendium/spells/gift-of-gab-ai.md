@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/ai
 - source/spell/class/bard/magical-secrets
@@ -15,12 +16,12 @@ classes:
 - Rogue (Arcane Trickster)
 - Wizard
 aliases:
-- Gift of Gab
+- "Gift of Gab"
 level: 2
 school: enchantment
 ritual: false
 concentration: false
-casting_time: "1 Reaction"
+casting_time: "1 Reaction, which you take when you speak to another creature"
 range: Self
 components: "V, S, R"
 duration: Instantaneous
@@ -30,7 +31,7 @@ components_vsm: [V, S]
 *2nd-level, Enchantment*  
 
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when you speak to another creature
 - **Range:** Self
 - **Components:** V, S, R
 - **Duration:** Instantaneous
@@ -43,6 +44,6 @@ Jim Darkmagic is said to have invented this spell, originally calling it *I said
 
 When you cast this spell, you skillfully reshape the memories of listeners in your immediate area, so that each creature of your choice within 5 feet of you forgets everything you said within the last 6 seconds. Those creatures then remember that you actually said the words you speak as the verbal component of the spell.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Compendium/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](Compendium/lists/list-spells-classes-arcane-trickster.md); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Acquisitions Incorporated p. 76*

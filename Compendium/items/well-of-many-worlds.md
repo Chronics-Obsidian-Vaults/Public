@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/legendary
 - source/item/tier/major
-aliases: 
+aliases:
 - "Well of Many Worlds"
 item_type: 
 item_subtype: 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Mutalos Habitats
+- "Mutalos Habitats"
 ---
 # Mutalos Habitats
 *Source: Explorer's Guide to Wildemount p. 128* 

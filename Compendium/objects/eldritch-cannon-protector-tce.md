@@ -7,20 +7,23 @@ tags:
 - source/object/size/unknown
 - source/object/type/unknown
 aliases:
-- Eldritch Cannon, Protector
+- "Eldritch Cannon, Protector"
 ---
 # Eldritch Cannon, Protector
-%%-- Embedded content starts on the next line. --%%
-*Source: Tasha's Cauldron of Everything p. 17*  
+*Source: Tasha's Cauldron of Everything p. 17* 
+
+![Human Artillerist with Eldritch Cannon](Compendium/objects/img/eldritch-cannon.webp#right)
 
 > [!note]
-> Created by the [Eldritch Cannon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/artificer-artillerist-tce.md#Eldritch%20Cannon%20(Level%203)) subclass feature.
+> Created by the Eldritch Cannon subclass feature.
 
+![The Gnome Artificer Vi and Her Cockatrice-like Eldritch Cannon Battle Foes Atop a Lightning Train](Compendium/objects/img/eldritch-cannon-2.webp#center)
 ```ad-statblock
 title: Eldritch Cannon, Protector
 *Unknown Unknown*
 
-- **Armor Class** 18
+- **Armor Class** 18 
+- **Hit Points** equal to five times your artificer level (equal to five times your artificer level)
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -28,7 +31,7 @@ title: Eldritch Cannon, Protector
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded), [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened), [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion), [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened), [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled), [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated), [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible), [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed), [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified), [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned), [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone), [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained), [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned), [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)
+- **Condition Immunities** [blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened), [grappled](Rules/conditions.md#Grappled), [incapacitated](Rules/conditions.md#Incapacitated), [invisible](Rules/conditions.md#Invisible), [paralyzed](Rules/conditions.md#Paralyzed), [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned), [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained), [stunned](Rules/conditions.md#Stunned), [unconscious](Rules/conditions.md#Unconscious)
 
 ## Actions
 

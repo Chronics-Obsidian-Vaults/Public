@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Creating a Gnoll War Band; Gnoll War Band Composition
+- "Creating a Gnoll War Band; Gnoll War Band Composition"
 ---
 # Creating a Gnoll War Band; Gnoll War Band Composition
 *Source: Volo's Guide to Monsters p. 39* 

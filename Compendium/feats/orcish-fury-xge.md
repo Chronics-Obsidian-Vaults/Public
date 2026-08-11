@@ -6,12 +6,12 @@ tags:
 - source/compendium/src/5e/xge
 - source/feat
 aliases:
-- Orcish Fury
+- "Orcish Fury"
 ---
 # Orcish Fury
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [Half-Orc](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/half-orc.md)
+**Prerequisite**: [Half-Orc](Compendium/races/half-orc.md)
 
 Your fury burns tirelessly. You gain the following benefits:
 

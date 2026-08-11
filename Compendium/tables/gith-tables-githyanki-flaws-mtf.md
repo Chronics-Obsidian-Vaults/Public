@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githyanki Flaws
+- "Gith Tables; Githyanki Flaws"
 ---
 # Gith Tables; Githyanki Flaws
 *Source: Mordenkainen's Tome of Foes p. 97* 

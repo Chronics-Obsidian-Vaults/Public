@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Guild Adventures
+- "Guild Adventures"
 ---
 # Guild Adventures
 *Source: Eberron: Rising from the Last War p. 67* 

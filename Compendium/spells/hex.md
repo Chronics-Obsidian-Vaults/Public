@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -8,12 +9,13 @@ tags:
 - source/spell/feat/fey-touched
 - source/spell/feat/magic-initiate/warlock-spells
 - source/spell/level/1st-level
+- source/spell/race/hexblood
 - source/spell/school/enchantment
 classes:
 - Bard (Magical Secrets)
 - Warlock
 aliases:
-- Hex
+- "Hex"
 level: 1
 school: enchantment
 ritual: false
@@ -37,10 +39,10 @@ You place a curse on a creature that you can see within range. Until the spell e
 
 If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.
 
-A [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md) cast on the target ends this spell early.
+A [remove curse](Compendium/spells/remove-curse.md) cast on the target ends this spell early.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on the spell for up to 24 hours.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your [concentration](Rules/conditions.md#Concentration) on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your [concentration](Rules/conditions.md#Concentration) on the spell for up to 24 hours.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md)
 
 *Source: Player's Handbook p. 251*

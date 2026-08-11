@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/phb
 aliases:
-- Encumbrance
+- "Encumbrance"
 ---
 # Encumbrance
 *Source: Player's Handbook p. 176* 

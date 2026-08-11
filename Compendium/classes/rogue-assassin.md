@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/rogue/assassin
 aliases:
-- Assassin
+- "Assassin"
 ---
 # Assassin
 *[Rogue](./rogue.md): Roguish Archetype*  
@@ -43,22 +43,19 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Assassin (Level 3)
-
 You focus your training on the grim art of death. Those who adhere to this archetype are diverse—hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.
 
 Your archetype grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
+## Subclass Features
+
 ### Assassinate (Level 3)
 
-Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised) is a critical hit.
+Starting at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is [surprised](Rules/conditions.md#Surprised) is a critical hit.
 
 ### Bonus Proficiencies (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency with the [disguise kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/disguise-kit.md) and the [poisoner's kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/poisoners-kit.md).
+When you choose this archetype at 3rd level, you gain proficiency with the [disguise kit](Compendium/items/disguise-kit.md) and the [poisoner's kit](Compendium/items/poisoners-kit.md).
 
 ### Infiltration Expertise (Level 9)
 
@@ -70,8 +67,8 @@ Thereafter, if you adopt the new identity as a disguise, other creatures believe
 
 At 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior, listening to speech, examining handwriting, and observing mannerism.
 
-Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)) check you make to avoid detection.
+Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma ([Deception](Rules/skills.md#Deception)) check you make to avoid detection.
 
 ### Death Strike (Level 17)
 
-Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised), it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.
+Starting at 17th level, you become a master of instant death. When you attack and hit a creature that is [surprised](Rules/conditions.md#Surprised), it must make a Constitution saving throw (DC 8 + your Dexterity modifier + your proficiency bonus). On a failed save, double the damage of your attack against the creature.

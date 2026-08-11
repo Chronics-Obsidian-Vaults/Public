@@ -7,7 +7,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/compendium/src/5e/xge
 aliases:
-- Actions
+- "Actions"
 ---
 # Actions
 
@@ -18,7 +18,7 @@ _Source: Dungeon Master's Guide p. 141. Available in the <span title='Systems Re
 
 Activating some magic items requires a user to do something in particular, such as holding the item and uttering a command word, reading the item if it is a scroll, or drinking it if it is a potion. The description of each item category or individual item details how an item is activated. Certain items use one or more of the following rules related to their activation.
 
-If an item requires an action to activate, that action isn't a function of the [Use an Object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Use%20an%20Object) action, so a feature such as the rogue's [Fast Hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/rogue-thief.md#Fast%20Hands%20(Level%203)) can't be used to activate the item.
+If an item requires an action to activate, that action isn't a function of the [Use an Object](Rules/actions.md#Use%20an%20Object) action, so a feature such as the rogue's [Fast Hands](Compendium/classes/rogue-thief.md#Fast%20Hands%20(Level%203)) can't be used to activate the item.
 
 ### Command Word
 
@@ -30,7 +30,7 @@ Some items are used up when they are activated. A potion or elixir must be swall
 
 ### Spells
 
-Some magic items allow the user to cast a spell from the item, often by expending charges from it. The spell is cast at the lowest possible spell and caster level, doesn't expend any of the user's spell slots, and requires no components unless the item's description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration). Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
+Some magic items allow the user to cast a spell from the item, often by expending charges from it. The spell is cast at the lowest possible spell and caster level, doesn't expend any of the user's spell slots, and requires no components unless the item's description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires [concentration](Rules/conditions.md#Concentration). Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
 
 Many items, such as potions, bypass the casting of the spell and confer the spell's effects. Such an item still uses the spell's duration unless the item's description says otherwise.
 
@@ -51,7 +51,7 @@ With this action, you make one melee or ranged attack. See the ""Making an Attac
 
 Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action.
 
-See also: [Disarm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disarm), [Grapple](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Grapple), [Mark](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Mark), [Shove](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Shove), [Shove Aside](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Shove%20Aside), [Two-Weapon Fighting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Two-Weapon%20Fighting)
+See also: [Disarm](Rules/actions.md#Disarm), [Grapple](Rules/actions.md#Grapple), [Mark](Rules/actions.md#Mark), [Shove](Rules/actions.md#Shove), [Shove Aside](Rules/actions.md#Shove%20Aside), [Two-Weapon Fighting](Rules/actions.md#Two-Weapon%20Fighting)
 
 ## Cast a Spell
 _Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -65,13 +65,13 @@ _Source: Dungeon Master's Guide p. 271_
 
 - **Duration**: 1 action
 
-If one creature wants to jump onto another creature, it can do so by [grappling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Grapple). A small or Medium creature has little chance of making a successful grapple against a Huge or Gargantuan creature, however, unless magic has granted the grappler supernatural might.
+If one creature wants to jump onto another creature, it can do so by [grappling](Rules/actions.md#Grapple). A small or Medium creature has little chance of making a successful grapple against a Huge or Gargantuan creature, however, unless magic has granted the grappler supernatural might.
 
-As an alternative, a suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check contested by the target's Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check. If it wins the contest, the smaller creature successfully moves into the target creature's space, the smaller creature moves with the target and has advantage on attack rolls against it.
+As an alternative, a suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength ([Athletics](Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check contested by the target's Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check. If it wins the contest, the smaller creature successfully moves into the target creature's space, the smaller creature moves with the target and has advantage on attack rolls against it.
 
-The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action—knocking it off, scraping it against a wall, or grabbing and throwing it—by making a Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check contested by the smaller creature's Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check. The smaller creature chooses which ability to use.
+The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action—knocking it off, scraping it against a wall, or grabbing and throwing it—by making a Strength ([Athletics](Rules/skills.md#Athletics)) check contested by the smaller creature's Strength ([Athletics](Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check. The smaller creature chooses which ability to use.
 
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/action-options.md).
+This action is an optional addition to the game, from the optional/variant rule [Action Options](Rules/variant-rules/action-options.md).
 
 ## Dash
 _Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -87,13 +87,13 @@ _Source: Dungeon Master's Guide p. 271_
 
 - **Duration**: 1 action
 
-A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
+A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength ([Athletics](Rules/skills.md#Athletics)) check or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
 
 The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
-See also: [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack)
+See also: [Attack](Rules/actions.md#Attack)
 
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/action-options.md).
+This action is an optional addition to the game, from the optional/variant rule [Action Options](Rules/variant-rules/action-options.md).
 
 ## Disengage
 _Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -114,38 +114,38 @@ _Source: Player's Handbook p. 146. Available in the <span title='Systems Referen
 
 - **Duration**: 1 action
 
-The time it takes to don or doff armor [depends on the armor's category](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/getting-into-and-out-of-armor-donning-and-doffing-armor-phb.md). A [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md) can be donned or doffed as an action.
+The time it takes to don or doff armor [depends on the armor's category](Compendium/tables/getting-into-and-out-of-armor-donning-and-doffing-armor-phb.md). A [shield](Compendium/items/shield.md) can be donned or doffed as an action.
 
 ## End Concentration
 _Source: Player's Handbook p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: Free
 
-If a spell must be maintained with [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration), that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) at any time (no action required).
+If a spell must be maintained with [concentration](Rules/conditions.md#Concentration), that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [concentration](Rules/conditions.md#Concentration) at any time (no action required).
 
 ## Escape a Grapple
 _Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
-A [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) creature can use its action to escape. To do so, it must succeed on a Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check contested by your Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check.
+A [grappled](Rules/conditions.md#Grappled) creature can use its action to escape. To do so, it must succeed on a Strength ([Athletics](Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check contested by your Strength ([Athletics](Rules/skills.md#Athletics)) check.
 
-See also: [Grapple](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Grapple)
+See also: [Grapple](Rules/actions.md#Grapple)
 
 ## Grapple
 _Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
-When you want to grab a creature or wrestle with it, you can use the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action to make a special melee attack, a grapple. If you're able to make multiple attacks with the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you, and it must be within your reach.
+When you want to grab a creature or wrestle with it, you can use the [Attack](Rules/actions.md#Attack) action to make a special melee attack, a grapple. If you're able to make multiple attacks with the [Attack](Rules/actions.md#Attack) action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you, and it must be within your reach.
 
-Using at least one free hand, you try to seize the target by making a grapple check, a Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated). If you succeed, you subject the target to the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) condition (see the appendix). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+Using at least one free hand, you try to seize the target by making a grapple check, a Strength ([Athletics](Rules/skills.md#Athletics)) check contested by the target's Strength ([Athletics](Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](Rules/conditions.md#Incapacitated). If you succeed, you subject the target to the [grappled](Rules/conditions.md#Grappled) condition (see the appendix). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
 ### Moving a Grappled Target
 
-When you move, you can drag or carry the [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled) creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+When you move, you can drag or carry the [grappled](Rules/conditions.md#Grappled) creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
-See also: [Escape a Grapple](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Escape%20a%20Grapple)
+See also: [Escape a Grapple](Rules/actions.md#Escape%20a%20Grapple)
 
 ## Healing Surge
 _Source: Dungeon Master's Guide p. 266_
@@ -154,9 +154,9 @@ _Source: Dungeon Master's Guide p. 266_
 
 As an action, a character can use a healing surge and spend up to half his or her Hit Dice. For each Hit Die spent in this way, the player rolls the die and adds the character's Constitution modifier. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll.
 
-A character who uses a healing surge can't do so again until he or she finishes a short or long rest. Under this optional rule, a character regains all spent Hit Dice at the end of a long rest. With a short rest, a character regains Hit Dice equal to his or her level divided by four (minimum of one dice).
+A character who uses a healing surge can't do so again until he or she finishes a short or long rest. Under this optional rule, a character regains all spent Hit Dice at the end of a long rest. With a short rest, a character regains Hit Dice equal to his or her level divided by four (minimum of one die).
 
-This action is an optional addition to the game, from the optional/variant rule [Healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/healing.md).
+This action is an optional addition to the game, from the optional/variant rule [Healing](Rules/variant-rules/healing.md).
 
 ## Help
 _Source: Player's Handbook p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -172,7 +172,7 @@ _Source: Player's Handbook p. 192. Available in the <span title='Systems Referen
 
 - **Duration**: 1 action
 
-When you take the Hide action, you make a Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) check in an attempt to hide, following the rules in "chapter 7 " for hiding. If you succeed, you gain certain benefits, as described in the ""Unseen Attackers and Targets"" section in the Player's Handbook.
+When you take the Hide action, you make a Dexterity ([Stealth](Rules/skills.md#Stealth)) check in an attempt to hide, following the rules in "chapter 7" for hiding. If you succeed, you gain certain benefits, as described in the ""Unseen Attackers and Targets"" section in the Player's Handbook.
 
 ## Identify a Spell
 _Source: Xanathar's Guide to Everything p. 85_
@@ -181,11 +181,11 @@ _Source: Xanathar's Guide to Everything p. 85_
 
 Sometimes a character wants to identify a spell that someone else is casting or that was already cast. To do so, a character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
 
-If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check with the reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
+If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence ([Arcana](Rules/skills.md#Arcana)) check with the reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
 
-This Intelligence ([Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
+This Intelligence ([Arcana](Rules/skills.md#Arcana)) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
-This action is an optional addition to the game, from the optional/variant rule [Spellcasting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/spellcasting-xge.md).
+This action is an optional addition to the game, from the optional/variant rule [Spellcasting](Rules/variant-rules/spellcasting-xge.md).
 
 ## Improvising an Action
 _Source: Player's Handbook p. 193. Available in the Basic Rules (2014)_
@@ -201,11 +201,11 @@ _Source: Dungeon Master's Guide p. 271_
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) condition or the [shocking grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md) spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
+When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [incapacitated](Rules/conditions.md#Incapacitated) condition or the [shocking grasp](Compendium/spells/shocking-grasp.md) spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
-See also: [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack)
+See also: [Attack](Rules/actions.md#Attack)
 
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/action-options.md).
+This action is an optional addition to the game, from the optional/variant rule [Action Options](Rules/variant-rules/action-options.md).
 
 ## Opportunity Attack
 _Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -216,7 +216,7 @@ In a fight, everyone is constantly watching for enemies to drop their guard. You
 
 You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
 
-You can avoid provoking an opportunity attack by taking the [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage) action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
+You can avoid provoking an opportunity attack by taking the [Disengage](Rules/actions.md#Disengage) action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
 
 ## Other Activity
 _Source: Player's Handbook p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -265,11 +265,11 @@ _Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action, 1 bonus
 
-When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check contested by the hostile creature's Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
+When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([Athletics](Rules/skills.md#Athletics)) check contested by the hostile creature's Strength ([Athletics](Rules/skills.md#Athletics)) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
 
-See also: [Tumble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Tumble)
+See also: [Tumble](Rules/actions.md#Tumble)
 
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/action-options.md).
+This action is an optional addition to the game, from the optional/variant rule [Action Options](Rules/variant-rules/action-options.md).
 
 ## Ready
 _Source: Player's Handbook p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -282,7 +282,7 @@ First, you decide what perceivable circumstance will trigger your reaction. Then
 
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) (explained in "chapter 10"). If your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) is broken, the spell dissipates without taking effect. For example, if you are [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on the web spell and ready magic missile, your web spell ends, and if you take damage before you release magic missile with your reaction, your [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) might be broken.
+When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires [concentration](Rules/conditions.md#Concentration) (explained in "chapter 10"). If your [concentration](Rules/conditions.md#Concentration) is broken, the spell dissipates without taking effect. For example, if you are [concentrating](Rules/conditions.md#Concentration) on the web spell and ready magic missile, your web spell ends, and if you take damage before you release magic missile with your reaction, your [concentration](Rules/conditions.md#Concentration) might be broken.
 
 You have until the start of your next turn to use a readied action.
 
@@ -291,58 +291,58 @@ _Source: Player's Handbook p. 193. Available in the <span title='Systems Referen
 
 - **Duration**: 1 action
 
-When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) check or an Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check.
+When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a Wisdom ([Perception](Rules/skills.md#Perception)) check or an Intelligence ([Investigation](Rules/skills.md#Investigation)) check.
 
 ## Shove
 _Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
-Using the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action, you can make a special melee attack to shove a creature, either to knock it [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) or push it away from you. If you're able to make multiple attacks with the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action, this attack replaces one of them.
+Using the [Attack](Rules/actions.md#Attack) action, you can make a special melee attack to shove a creature, either to knock it [prone](Rules/conditions.md#Prone) or push it away from you. If you're able to make multiple attacks with the [Attack](Rules/actions.md#Attack) action, this attack replaces one of them.
 
-The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated). If you succeed, you either knock the target [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone) or push it 5 feet away from you.
+The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([Athletics](Rules/skills.md#Athletics)) check contested by the target's Strength ([Athletics](Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](Rules/conditions.md#Incapacitated). If you succeed, you either knock the target [prone](Rules/conditions.md#Prone) or push it 5 feet away from you.
 
-See also: [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack), [Shove Aside](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Shove%20Aside)
+See also: [Attack](Rules/actions.md#Attack), [Shove Aside](Rules/actions.md#Shove%20Aside)
 
 ## Shove Aside
 _Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action
 
-With this option, a creature uses the special [shove](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Shove) attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
+With this option, a creature uses the special [shove](Rules/actions.md#Shove) attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([Athletics](Rules/skills.md#Athletics)) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
 
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/action-options.md).
+This action is an optional addition to the game, from the optional/variant rule [Action Options](Rules/variant-rules/action-options.md).
 
 ## Stabilize a Creature
 _Source: Player's Handbook p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
-You can use your action to administer first aid to an [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious) creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine)) check.
+You can use your action to administer first aid to an [unconscious](Rules/conditions.md#Unconscious) creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([Medicine](Rules/skills.md#Medicine)) check.
 
-A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious). The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `1d4` hours.
+A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [unconscious](Rules/conditions.md#Unconscious). The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `1d4` hours.
 
 ## Tumble
 _Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action, 1 bonus
 
-A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check contested by the hostile creature's Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
+A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check contested by the hostile creature's Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
 
-See also: [Overrun](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Overrun)
+See also: [Overrun](Rules/actions.md#Overrun)
 
-This action is an optional addition to the game, from the optional/variant rule [Action Options](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/action-options.md).
+This action is an optional addition to the game, from the optional/variant rule [Action Options](Rules/variant-rules/action-options.md).
 
 ## Two-Weapon Fighting
 _Source: Player's Handbook p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 bonus
 
-When you take the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
+When you take the [Attack](Rules/actions.md#Attack) action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
 If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
-See also: [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack)
+See also: [Attack](Rules/actions.md#Attack)
 
 ## Use an Object
 _Source: Player's Handbook p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
@@ -358,4 +358,4 @@ _Source: Xanathar's Guide to Everything p. 77_
 
 A creature that is naturally sleeping, as opposed to being in a magically or chemically induced sleep, wakes up if it takes any damage or if someone else uses an action to shake or slap the creature awake. A sudden loud noise—such as yelling, thunder, or a ringing bell—also awakens someone that is sleeping naturally.
 
-Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) score of 15 or higher.
+Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([Perception](Rules/skills.md#Perception)) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom ([Perception](Rules/skills.md#Perception)) score of 15 or higher.

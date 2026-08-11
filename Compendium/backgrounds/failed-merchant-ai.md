@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ai
 aliases:
-- Failed Merchant
+- "Failed Merchant"
 ---
 # Failed Merchant
 *Source: Acquisitions Incorporated p. 49*  
 
 
-- **Skill Proficiencies.** [Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Investigation](Rules/skills.md#Investigation), [Persuasion](Rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** Any one of your choice  
-- **Equipment.** One set of artisan's tools, [merchant's scale](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/merchants-scale.md), a set of [fine clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/fine-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** One set of artisan's tools, [merchant's scale](Compendium/items/merchants-scale.md), a set of [fine clothes](Compendium/items/fine-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 Maybe you come from a long line of merchants. Perhaps you were an entrepreneur. Regardless, your ventures ended poorly. Whether it was because of outside influences, bad luck, or simply because your business acumen was weak, you lost everything.
 

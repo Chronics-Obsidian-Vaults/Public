@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/4
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Neogi Master
+- "Neogi Master"
 ---
-# [Neogi Master](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/neogi-master-mpmm.md)
+# [Neogi Master](Compendium/bestiary/aberration/neogi-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
@@ -50,26 +51,25 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "saves":
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+6"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 13"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 13"
 "languages": "Common, Deep Speech, Undercommon, telepathy 30 ft."
 "cr": "4"
 "traits":
-  - "desc": "Magical darkness doesn't impede the neogi's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the neogi's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
-  - "desc": "The neogi has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ and magic can't put the neogi to sleep."
+  - "desc": "The neogi has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed)\
+      \ or [frightened](Rules/conditions.md#Frightened), and magic can't put the neogi\
+      \ to sleep."
     "name": "Mental Fortitude"
   - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -80,7 +80,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
       \ + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed\
-      \ on a DC 12 Constitution saving throw or become [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ on a DC 12 Constitution saving throw or become [poisoned](Rules/conditions.md#Poisoned)\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Bite"
@@ -92,29 +92,26 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
       \ of the neogi's next turn, as a spectral tentacle clings to the target."
     "name": "Tentacle of Hadar"
   - "desc": "The neogi casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\n**At will:** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1/day each:** [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [hold person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md),\
-      \ [hunger of Hadar](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hunger-of-hadar.md)"
+      \ ability (spell save DC 14):\n\n**At will:** [guidance](Compendium/spells/guidance.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [minor illusion](Compendium/spells/minor-illusion.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md)\n\n**1/day each:**\
+      \ [dimension door](Compendium/spells/dimension-door.md), [hold person](Compendium/spells/hold-person.md),\
+      \ [hunger of Hadar](Compendium/spells/hunger-of-hadar.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
-      \ must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ must succeed on a DC 14 Wisdom saving throw or be magically [charmed](Rules/conditions.md#Charmed)\
       \ by the neogi for 1 day, or until the neogi dies or is more than 1 mile from\
-      \ the target. The [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ target obeys the neogi's commands and can't take reactions, and the neogi\
-      \ and the target can communicate telepathically with each other at a distance\
-      \ of up to 1 mile. Whenever the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ target takes damage, it can repeat the saving throw, ending the effect on\
-      \ itself on a success."
+      \ the target. The [charmed](Rules/conditions.md#Charmed) target obeys the neogi's\
+      \ commands and can't take reactions, and the neogi and the target can communicate\
+      \ telepathically with each other at a distance of up to 1 mile. Whenever the\
+      \ [charmed](Rules/conditions.md#Charmed) target takes damage, it can repeat\
+      \ the saving throw, ending the effect on itself on a success."
     "name": "Enslave (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/neogi-master-mpmm.webp"
+"image": "Compendium/bestiary/aberration/token/neogi-master-mpmm.webp"
 ```
 ^statblock
 

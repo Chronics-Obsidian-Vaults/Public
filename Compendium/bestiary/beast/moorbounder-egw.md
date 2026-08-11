@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Moorbounder
+- "Moorbounder"
 ---
-# [Moorbounder](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/moorbounder-egw.md)
+# [Moorbounder](Compendium/bestiary/beast/moorbounder-egw.md)
 *Source: Explorer's Guide to Wildemount p. 295*  
 
 One of the many predators to stalk the marshlands and muddy foothills of Xhorhas, moorbounders are known as dangerous killers to those who try to avoid them on their travels—and as prized mounts for those willing to capture and train them. Though the process of domesticating a moorbounder is fraught with peril, these creatures can become favored hunting companions and powerful war mounts.
@@ -38,8 +39,7 @@ Moorbounders hunt with elongated tusks and retractable claws. With a vague resem
   - !!int "13"
   - !!int "5"
 "speed": "70 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": ""
 "cr": "1"
 "traits":
@@ -52,6 +52,6 @@ Moorbounders hunt with elongated tusks and retractable claws. With a vague resem
     "name": "Claws"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/moorbounder-egw.webp"
+"image": "Compendium/bestiary/beast/token/moorbounder-egw.webp"
 ```
 ^statblock

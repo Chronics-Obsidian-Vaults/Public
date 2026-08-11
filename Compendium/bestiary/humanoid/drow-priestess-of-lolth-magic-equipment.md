@@ -1,28 +1,29 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
 - source/monster/environment/underdark
 - source/monster/size/medium
-- source/monster/type/humanoid/elf
+- source/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow Priestess of Lolth (Magic Equipment)
+- "Drow Priestess of Lolth (Magic Equipment)"
 ---
-# [Drow Priestess of Lolth (Magic Equipment)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/drow-priestess-of-lolth-magic-equipment.md)
+# [Drow Priestess of Lolth (Magic Equipment)](Compendium/bestiary/humanoid/drow-priestess-of-lolth-magic-equipment.md)
 *Source: Monster Manual p. 129*  
 
 ```statblock
 "name": "Drow Priestess of Lolth (Magic Equipment)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "19"
-"ac_class": "[+3 scale mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/drow-3-armor-mm.md)"
+"ac_class": "[+3 scale mail](Compendium/items/drow-3-armor-mm.md)"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "2"
@@ -39,57 +40,48 @@ aliases:
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "8"
 "traits":
   - "desc": "The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom\
       \ (save DC 14, +6 to hit with spell attacks). The drow has the following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** [guidance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/guidance.md),\
-      \ [poison spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md),\
-      \ [resistance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/resistance.md),\
-      \ [spare the dying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spare-the-dying.md),\
-      \ [thaumaturgy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/thaumaturgy.md)\n\
-      \n**1st level (4 slots):** [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md),\
-      \ [cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md),\
-      \ [detect poison and disease](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-poison-and-disease.md),\
-      \ [ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md)\n\
-      \n**2nd level (3 slots):** [lesser restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/lesser-restoration.md),\
-      \ [protection from poison](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/protection-from-poison.md),\
-      \ [web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md)\n\
-      \n**3rd level (3 slots):** [conjure animals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-animals.md)\
-      \ (2 [giant spiders](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-spider.md)),\
-      \ [dispel magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-magic.md)\n\
-      \n**4th level (3 slots):** [divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md),\
-      \ [freedom of movement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/freedom-of-movement.md)\n\
-      \n**5th level (2 slots):** [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md),\
-      \ [mass cure wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-cure-wounds.md)"
+      \ spells prepared:\n\n**Cantrips (at will):** [guidance](Compendium/spells/guidance.md),\
+      \ [poison spray](Compendium/spells/poison-spray.md), [resistance](Compendium/spells/resistance.md),\
+      \ [spare the dying](Compendium/spells/spare-the-dying.md), [thaumaturgy](Compendium/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [animal friendship](Compendium/spells/animal-friendship.md),\
+      \ [cure wounds](Compendium/spells/cure-wounds.md), [detect poison and disease](Compendium/spells/detect-poison-and-disease.md),\
+      \ [ray of sickness](Compendium/spells/ray-of-sickness.md)\n\n**2nd level (3\
+      \ slots):** [lesser restoration](Compendium/spells/lesser-restoration.md), [protection\
+      \ from poison](Compendium/spells/protection-from-poison.md), [web](Compendium/spells/web.md)\n\
+      \n**3rd level (3 slots):** [conjure animals](Compendium/spells/conjure-animals.md)\
+      \ (2 [giant spiders](Compendium/bestiary/beast/giant-spider.md)), [dispel magic](Compendium/spells/dispel-magic.md)\n\
+      \n**4th level (3 slots):** [divination](Compendium/spells/divination.md), [freedom\
+      \ of movement](Compendium/spells/freedom-of-movement.md)\n\n**5th level (2 slots):**\
+      \ [insect plague](Compendium/spells/insect-plague.md), [mass cure wounds](Compendium/spells/mass-cure-wounds.md)"
     "name": "Spellcasting"
   - "desc": "The drow's spellcasting ability is Charisma (spell save DC 15). She can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\
-      \ (self only)"
+      **At will:** [dancing lights](Compendium/spells/dancing-lights.md)\n\n**1/day\
+      \ each:** [darkness](Compendium/spells/darkness.md), [faerie fire](Compendium/spells/faerie-fire.md),\
+      \ [levitate](Compendium/spells/levitate.md) (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "The drow has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
-  - "desc": "The drow wears [+3 scale mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/drow-3-armor-mm.md).\
+  - "desc": "The drow wears [+3 scale mail](Compendium/items/drow-3-armor-mm.md).\
       \ This armor loses its enhancement bonuses permanently if it is exposed to sunlight\
       \ for 1 hour or longer."
     "name": "Special Equipment"
@@ -99,7 +91,7 @@ aliases:
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage plus 17 (5d6) poison damage."
     "name": "Scourge"
-  - "desc": "The drow attempts to magically summon a [yochlol](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/yochlol.md)\
+  - "desc": "The drow attempts to magically summon a [yochlol](Compendium/bestiary/fiend/yochlol.md)\
       \ with a 30 percent chance of success. If the attempt fails, the drow takes\
       \ 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied\
       \ space within 60 feet of its summoner, acts as an ally of its summoner, and\

@@ -8,8 +8,8 @@ tags:
 - source/domain/death
 - source/domain/grave
 - source/domain/knowledge
-aliases: 
-- Urogalan
+aliases:
+- "Urogalan"
 ---
 # Urogalan
 *Source: Mordenkainen's Tome of Foes p. 104* 

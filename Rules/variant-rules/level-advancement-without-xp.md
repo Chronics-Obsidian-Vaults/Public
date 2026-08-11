@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Level Advancement without XP
+- "Level Advancement without XP"
 ---
 # Level Advancement without XP
 *Source: Dungeon Master's Guide p. 261* 

@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/elven
 - source/domain/life
-aliases: 
-- Zandilar
+aliases:
+- "Zandilar"
 ---
 # Zandilar
 *Source: Mordenkainen's Tome of Foes p. 43* 

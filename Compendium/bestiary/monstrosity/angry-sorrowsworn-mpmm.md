@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/13
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Angry Sorrowsworn
+- "Angry Sorrowsworn"
 ---
-# [Angry Sorrowsworn](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/angry-sorrowsworn-mpmm.md)
+# [Angry Sorrowsworn](Compendium/bestiary/monstrosity/angry-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 222, Mordenkainen's Tome of Foes p. 231*  
 
 Relying on violence to sustain their existence, angry sorrowsworn—sometimes called the Angry—grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
@@ -41,20 +42,17 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 21"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 21"
 "languages": "Common"
 "cr": "13"
 "traits":
-  - "desc": "The sorrowsworn has advantage on saving throws against being [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-      \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-      \ or knocked [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)."
+  - "desc": "The sorrowsworn has advantage on saving throws against being [blinded](Rules/conditions.md#Blinded),\
+      \ [charmed](Rules/conditions.md#Charmed), [deafened](Rules/conditions.md#Deafened),\
+      \ [frightened](Rules/conditions.md#Frightened), [stunned](Rules/conditions.md#Stunned),\
+      \ or knocked [unconscious](Rules/conditions.md#Unconscious)."
     "name": "Two Heads"
   - "desc": "If another creature deals damage to the sorrowsworn, the sorrowsworn's\
       \ attack rolls have advantage until the end of its next turn, and the first\
@@ -72,7 +70,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/angry-sorrowsworn-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/angry-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

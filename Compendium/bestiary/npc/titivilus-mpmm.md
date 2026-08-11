@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/16
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Titivilus
+- "Titivilus"
 ---
-# [Titivilus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/titivilus-mpmm.md)
+# [Titivilus](Compendium/bestiary/npc/titivilus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Mordenkainen's Tome of Foes p. 179*  
 
 Dispater, the gloomy Lord of Dis, rules from his iron palace, seeming to hide behind its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. Knowing he has enemies on all sides and fearing he'll be displaced like Moloch, Geryon, and so many others, he almost never travels farther than the sprawling city that lies outside his palace.
@@ -49,23 +50,20 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
   - "wisdom": !!int "11"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+13"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+11"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+13"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+13"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": "all, telepathy 120 ft."
 "cr": "16"
 "traits":
@@ -91,12 +89,11 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
       \ is reduced by an amount equal to half the necrotic damage taken."
     "name": "Silver Sword"
   - "desc": "Titivilus targets one creature he can see within 10 feet of him. The\
-      \ target must succeed on a DC 21 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ of him for 1 minute. While [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ in this way, the target must take the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash)\
-      \ action and move away from Titivilus by the safest available route on each\
-      \ of its turns, unless there is nowhere to move, in which case it needn't take\
-      \ the [Dash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dash)\
+      \ target must succeed on a DC 21 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
+      \ of him for 1 minute. While [frightened](Rules/conditions.md#Frightened) in\
+      \ this way, the target must take the [Dash](Rules/actions.md#Dash) action and\
+      \ move away from Titivilus by the safest available route on each of its turns,\
+      \ unless there is nowhere to move, in which case it needn't take the [Dash](Rules/actions.md#Dash)\
       \ action. The target can repeat the saving throw at the end of each of its turns,\
       \ ending the effect on itself on a success."
     "name": "Frightful Word"
@@ -104,31 +101,28 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
       \ up to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Titivilus targets one creature he can see within 60 feet of him. The\
-      \ target must succeed on a DC 21 Charisma saving throw or become [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by Titivilus for 1 minute. The [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ target can repeat the saving throw if Titivilus deals any damage to it. A\
-      \ creature that succeeds on the saving throw is immune to Titivilus's Twisting\
-      \ Words for 24 hours."
+      \ target must succeed on a DC 21 Charisma saving throw or become [charmed](Rules/conditions.md#Charmed)\
+      \ by Titivilus for 1 minute. The [charmed](Rules/conditions.md#Charmed) target\
+      \ can repeat the saving throw if Titivilus deals any damage to it. A creature\
+      \ that succeeds on the saving throw is immune to Titivilus's Twisting Words\
+      \ for 24 hours."
     "name": "Twisting Words"
   - "desc": "Titivilus casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md),\
-      \ [nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md),\
-      \ [sending](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sending.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**3/day each:** [mislead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mislead.md),\
-      \ [modify memory](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/modify-memory.md)"
+      \ will:** [alter self](Compendium/spells/alter-self.md), [major image](Compendium/spells/major-image.md),\
+      \ [nondetection](Compendium/spells/nondetection.md), [sending](Compendium/spells/sending.md),\
+      \ [suggestion](Compendium/spells/suggestion.md)\n\n**3/day each:** [mislead](Compendium/spells/mislead.md),\
+      \ [modify memory](Compendium/spells/modify-memory.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Titivilus can expend a use to take one of the following actions. Titivilus\
   \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Titivilus uses Twisting Words. Alternatively, he targets one creature\
-      \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by him that is within 60 feet of him; that [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ target must succeed on a DC 21 Charisma saving throw, or Titivilus decides\
-      \ how the target acts during its next turn."
+      \ [charmed](Rules/conditions.md#Charmed) by him that is within 60 feet of him;\
+      \ that [charmed](Rules/conditions.md#Charmed) target must succeed on a DC 21\
+      \ Charisma saving throw, or Titivilus decides how the target acts during its\
+      \ next turn."
     "name": "Corrupting Guidance"
   - "desc": "Titivilus uses Teleport."
     "name": "Teleport"
@@ -137,6 +131,6 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/titivilus-mpmm.webp"
+"image": "Compendium/bestiary/npc/token/titivilus-mpmm.webp"
 ```
 ^statblock

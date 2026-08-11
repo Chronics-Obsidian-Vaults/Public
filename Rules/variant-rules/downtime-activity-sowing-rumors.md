@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Downtime Activity: Sowing Rumors
+- "Downtime Activity: Sowing Rumors"
 ---
 # Downtime Activity: Sowing Rumors
 *Source: Dungeon Master's Guide p. 131* 
@@ -23,6 +23,6 @@ Sowing a rumor about an individual or organization requires a number of days dep
 | City | `6d6` days |
 ^sowing-rumors
 
-The character must spend 1 gp per day to cover the cost of drinks, social appearances, and the like. At the end of the time spent sowing the rumor, the character must make a DC 15 Charisma ([Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception) or [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)) check. If the check succeeds, the community's prevailing attitude toward the subject shifts one step toward friendly or hostile, as the character wishes. If the check fails, the rumor gains no traction, and further attempts to propagate it fail.
+The character must spend 1 gp per day to cover the cost of drinks, social appearances, and the like. At the end of the time spent sowing the rumor, the character must make a DC 15 Charisma ([Deception](Rules/skills.md#Deception) or [Persuasion](Rules/skills.md#Persuasion)) check. If the check succeeds, the community's prevailing attitude toward the subject shifts one step toward friendly or hostile, as the character wishes. If the check fails, the rumor gains no traction, and further attempts to propagate it fail.
 
 Shifting a community's general attitude toward a person or organization doesn't affect everyone in the community. Individuals might hold to their own opinions, particularly if they have personal experience in dealing with the subject of the rumors.

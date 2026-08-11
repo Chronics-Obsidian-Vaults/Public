@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Animals are Everywhere; Urban Beast Friends
+- "Animals are Everywhere; Urban Beast Friends"
 ---
 # Animals are Everywhere; Urban Beast Friends
 *Source: Acquisitions Incorporated p. 64* 

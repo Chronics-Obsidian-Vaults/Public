@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Yuan-ti Snake Body Type
+- "Physical Variations; Yuan-ti Snake Body Type"
 ---
 # Physical Variations; Yuan-ti Snake Body Type
 *Source: Volo's Guide to Monsters p. 97* 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/egw
 - source/race/orc
 aliases:
-- Orc
+- "Orc"
 ---
 # Orc
 *Source: Explorer's Guide to Wildemount p. 178*  
@@ -39,7 +40,7 @@ As a bonus action, you can move up to your movement speed toward a hostile creat
 
 ### Primal Intuition
 
-You have proficiency in two of the following skills of your choice: [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation), [Medicine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Medicine), [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception), and [Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival).
+You have proficiency in two of the following skills of your choice: [Animal Handling](Rules/skills.md#Animal%20Handling), [Insight](Rules/skills.md#Insight), [Intimidation](Rules/skills.md#Intimidation), [Medicine](Rules/skills.md#Medicine), [Perception](Rules/skills.md#Perception), and [Survival](Rules/skills.md#Survival).
 
 ### Powerful Build
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Harrow Hound
+- "Harrow Hound"
 ---
-# [Harrow Hound](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/harrow-hound-bmt.md)
+# [Harrow Hound](Compendium/bestiary/undead/harrow-hound-bmt.md)
 *Source: The Book of Many Things p. 164*  
 
 When the Grim Harrow first found the faerie realm known as the Gardens of Delight, that place was home to a large population of blink dogs. The Undead invaders slaughtered the blink dogs and settled in the gardens, transforming the demiplane forever. In time, the necrotic magic of the Grim Harrow animated the corpses of the blink dogs as the first harrow hounds.
@@ -37,24 +38,21 @@ The Grim Harrow employs harrow hounds as trackers and companions. Harrow hounds 
   - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 16"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 16"
 "languages": "Blink Dog, understands Sylvan but can't speak it"
 "cr": "3"
 "traits":
   - "desc": "The hound has advantage on attack rolls against a creature if at least\
       \ one of the hound's allies is within 5 feet of the target and the ally doesn't\
-      \ have the [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
-      \ condition."
+      \ have the [incapacitated](Rules/conditions.md#Incapacitated) condition."
     "name": "Pack Tactics"
   - "desc": "The hound knows the distance to and direction of any creature that has\
       \ come within 30 feet of it, even if that creature is on a different plane of\
@@ -63,7 +61,7 @@ The Grim Harrow employs harrow hounds as trackers and companions. Harrow hounds 
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage plus 3 (1d6) necrotic damage. If the target is a\
-      \ creature, it must succeed on a DC 13 Strength saving throw or have the [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)\
+      \ creature, it must succeed on a DC 13 Strength saving throw or have the [prone](Rules/conditions.md#Prone)\
       \ condition."
     "name": "Bite"
 "bonus_actions":
@@ -72,6 +70,6 @@ The Grim Harrow employs harrow hounds as trackers and companions. Harrow hounds 
     "name": "Shadow Step (Recharge 4-6)"
 "source":
   - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/harrow-hound-bmt.webp"
+"image": "Compendium/bestiary/undead/token/harrow-hound-bmt.webp"
 ```
 ^statblock

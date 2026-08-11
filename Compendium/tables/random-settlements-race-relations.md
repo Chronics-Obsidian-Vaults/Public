@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Random Settlements; Race Relations
+- "Random Settlements; Race Relations"
 ---
 # Random Settlements; Race Relations
 *Source: Dungeon Master's Guide p. 112* 

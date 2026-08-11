@@ -7,15 +7,15 @@ tags:
 - source/deity/faerunian
 - source/domain/knowledge
 - source/domain/trickery
-aliases: 
-- Waukeen
-- Our Lady of Gold
-- The Coinmaiden
-- The Merchant's Friend
+aliases:
+- "Waukeen"
+- "Our Lady of Gold"
+- "The Coinmaiden"
+- "The Merchant's Friend"
 ---
 # Waukeen
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-waukeen.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-waukeen.webp#symbol)
 
 - **Alternate Names**: Our Lady of Gold, The Coinmaiden, The Merchant's Friend
 - **Alignment**: Neutral

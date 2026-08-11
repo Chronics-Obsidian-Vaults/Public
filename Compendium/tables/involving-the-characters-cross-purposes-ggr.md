@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Involving the Characters; Cross Purposes
+- "Involving the Characters; Cross Purposes"
 ---
 # Involving the Characters; Cross Purposes
 *Source: Guildmasters' Guide to Ravnica p. 126* 

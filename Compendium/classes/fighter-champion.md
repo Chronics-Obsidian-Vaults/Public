@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/fighter/champion
 aliases:
-- Champion
+- "Champion"
 ---
 # Champion
 *[Fighter](./fighter.md): Martial Archetype*  
@@ -43,12 +43,9 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Champion (Level 3)
-
 The archetypal Champion focuses on the development of raw physical power honed to deadly perfection. Those who model themselves on this archetype combine rigorous training with physical excellence to deal devastating blows.
+
+## Subclass Features
 
 ### Improved Critical (Level 3)
 
@@ -75,5 +72,5 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Fighter
-> ![Fighting Style, Fighter](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
+> ![Fighting Style, Fighter](Compendium/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
 ^list-optfeature-fs-f

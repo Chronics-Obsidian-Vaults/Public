@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vine Blight
+- "Vine Blight"
 ---
-# [Vine Blight](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/vine-blight.md)
-*Source: Monster Manual p. 32, Explorer's Guide to Wildemount, The Book of Many Things*  
+# [Vine Blight](Compendium/bestiary/plant/vine-blight.md)
+*Source: Monster Manual p. 32*  
 
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
 
@@ -59,12 +60,11 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   - !!int "3"
 "speed": "10 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+1"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 10"
 "languages": "Common"
 "cr": "1/2"
 "traits":
@@ -73,23 +73,21 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
     "name": "False Appearance"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (2d6 + 2) bludgeoning damage, and a Large or smaller target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 12). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ (2d6 + 2) bludgeoning damage, and a Large or smaller target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 12). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the blight can't constrict another target."
     "name": "Constrict"
   - "desc": "Grasping roots and vines sprout in a 15-foot radius centered on the blight,\
       \ withering away after 1 minute. For the duration, that area is difficult terrain\
       \ for nonplant creatures. In addition, each creature of the blight's choice\
       \ in that area when the plants appear must succeed on a DC 12 Strength saving\
-      \ throw or become [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
-      \ A creature can use its action to make a DC 12 Strength check, freeing itself\
-      \ or another entangled creature within reach on a success."
+      \ throw or become [restrained](Rules/conditions.md#Restrained). A creature can\
+      \ use its action to make a DC 12 Strength check, freeing itself or another entangled\
+      \ creature within reach on a success."
     "name": "Entangling Plants (Recharge 5-6)"
 "source":
   - "MM"
-  - "EGW"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/vine-blight.webp"
+"image": "Compendium/bestiary/plant/token/vine-blight.webp"
 ```
 ^statblock
 

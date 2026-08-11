@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Keg Robot
+- "Keg Robot"
 ---
-# [Keg Robot](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/keg-robot-ai.md)
+# [Keg Robot](Compendium/bestiary/construct/keg-robot-ai.md)
 *Source: Acquisitions Incorporated p. 212*  
 
 > [!quote]  
@@ -41,18 +42,14 @@ A keg robot can hold up to three different kinds of liquid in its body cavity, f
   - !!int "5"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+1"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "understands Common but can't speak"
 "cr": "2"
 "traits":
@@ -71,19 +68,18 @@ A keg robot can hold up to three different kinds of liquid in its body cavity, f
     "name": "Acid Squirt"
   - "desc": "The keg robot spews an unnaturally potent beer in a 15-foot cone or in\
       \ a 30-foot line that is 5 feet wide. Each creature in the area must succeed\
-      \ on a DC 13 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned).\
-      \ While [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way, a creature has its speed halved by exposure to the potent brew.\
-      \ An affected creature can repeat the saving throw at the end of each of its\
-      \ turns, ending the effect on itself on a success.\n\nAdditionally, the beer\
-      \ shower extinguishes any fires or open flames in its area."
+      \ on a DC 13 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned).\
+      \ While [poisoned](Rules/conditions.md#Poisoned) in this way, a creature has\
+      \ its speed halved by exposure to the potent brew. An affected creature can\
+      \ repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success.\n\nAdditionally, the beer shower extinguishes any\
+      \ fires or open flames in its area."
     "name": "Beer Shower"
   - "desc": "The keg robot sprays hot oil in a 15-foot cone or in a 30-foot line that\
       \ is 5 feet wide. Each creature in the area must make a DC 13 Dexterity saving\
       \ throw. On a failed save, a creature takes 7 (1d8 + 3) fire damage and falls\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ On a successful save, a creature takes half as much damage and doesn't fall\
-      \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\n\
+      \ [prone](Rules/conditions.md#Prone). On a successful save, a creature takes\
+      \ half as much damage and doesn't fall [prone](Rules/conditions.md#Prone).\n\
       \nAny creature affected by the hot oil spray that takes fire damage before the\
       \ oil dries (after 1 minute) takes an additional 3 (1d6) fire damage, and the\
       \ oil burns away.\n\nIf the oil that remains in the area of the spray is lit,\
@@ -92,6 +88,6 @@ A keg robot can hold up to three different kinds of liquid in its body cavity, f
     "name": "Hot Oil Spray (Recharge 5-6)"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/keg-robot-ai.webp"
+"image": "Compendium/bestiary/construct/token/keg-robot-ai.webp"
 ```
 ^statblock

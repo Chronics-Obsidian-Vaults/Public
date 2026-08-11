@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Prophecy Inspirations
+- "Prophecy Inspirations"
 ---
 # Prophecy Inspirations
 *Source: Explorer's Guide to Wildemount p. 199* 

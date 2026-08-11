@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/weapon/martial
 - source/item/weapon/ranged
-aliases: 
+aliases:
 - "Hand Crossbow"
 item_type: weapon
 item_subtype: "martial, ranged"
@@ -19,7 +20,7 @@ attunement: none
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Light](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Light), [Loading](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Light](Rules/item-properties.md#Light), [Loading](Rules/item-properties.md#Loading)
 - **Cost**: 75 gp
 - **Weight**: 3.0 lbs.
 

@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/phb
 - source/race/elf/drow
 aliases:
-- Elf (Drow)
+- "Elf (Drow)"
 ---
 # Elf (Drow)
 *Source: Player's Handbook p. 24*  
@@ -32,11 +33,11 @@ Accustomed to the depths of the Underdark, you have superior vision in dark and 
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception) skill.
+You have proficiency in the [Perception](Rules/skills.md#Perception) skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](Rules/conditions.md#Charmed), and magic can't put you to sleep.
 
 ### Trance
 
@@ -51,15 +52,15 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Sunlight Sensitivity
 
-You have disadvantage on attack rolls and on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+You have disadvantage on attack rolls and on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 ### Drow Magic
 
-You know the [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md) spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md) spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [dancing lights](Compendium/spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](Compendium/spells/faerie-fire.md) spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [darkness](Compendium/spells/darkness.md) spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Drow Weapon Training
 
-You have proficiency with [rapiers](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/rapier.md), [shortswords](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md), and [hand crossbows](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hand-crossbow.md).
+You have proficiency with [rapiers](Compendium/items/rapier.md), [shortswords](Compendium/items/shortsword.md), and [hand crossbows](Compendium/items/hand-crossbow.md).
 
 ## Description
 

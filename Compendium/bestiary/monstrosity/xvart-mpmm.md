@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/1-8
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xvart
+- "Xvart"
 ---
-# [Xvart](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/xvart-mpmm.md)
+# [Xvart](Compendium/bestiary/monstrosity/xvart-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
@@ -30,7 +31,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -43,17 +44,18 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 8"
+"gear":
+  - "[shortsword](Compendium/items/shortsword.md)"
+  - "[sling](Compendium/items/sling.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 8"
 "languages": "Abyssal"
 "cr": "1/8"
 "traits":
-  - "desc": "The xvart can communicate with ordinary [bats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/bat.md)\
-      \ and [rats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/rat.md),\
-      \ as well as [giant bats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-bat.md)\
-      \ and [giant rats](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/giant-rat.md)."
+  - "desc": "The xvart can communicate with ordinary [bats](Compendium/bestiary/beast/bat.md)\
+      \ and [rats](Compendium/bestiary/beast/rat.md), as well as [giant bats](Compendium/bestiary/beast/giant-bat.md)\
+      \ and [giant rats](Compendium/bestiary/beast/giant-rat.md)."
     "name": "Raxivort's Tongue"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
@@ -65,13 +67,12 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
       \ 4 (1d4 + 2) bludgeoning damage."
     "name": "Sling"
 "bonus_actions":
-  - "desc": "The xvart takes the [Disengage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Disengage)\
-      \ action."
+  - "desc": "The xvart takes the [Disengage](Rules/actions.md#Disengage) action."
     "name": "Low Cunning"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/xvart-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/xvart-mpmm.webp"
 ```
 ^statblock
 

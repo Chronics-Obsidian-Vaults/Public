@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wildfire Spirit
+- "Wildfire Spirit"
 ---
-# [Wildfire Spirit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/wildfire-spirit-tce.md)
+# [Wildfire Spirit](Compendium/bestiary/elemental/wildfire-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 40*  
 
 ```statblock
@@ -21,6 +22,7 @@ aliases:
 "alignment": "Unaligned"
 "ac": !!int "13"
 "ac_class": "natural armor"
+"hp": "5 + five times your druid level"
 "modifier": !!int "2"
 "stats":
   - !!int "10"
@@ -31,13 +33,10 @@ aliases:
   - !!int "11"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_immunities": "fire"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [frightened](Rules/conditions.md#Frightened),\
+  \ [grappled](Rules/conditions.md#Grappled), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "understands the languages you speak"
 "actions":
   - "desc": "*Ranged Weapon Attack:* your spell attack modifier to hit, range 60 ft.,\
@@ -50,6 +49,6 @@ aliases:
     "name": "Fiery Teleportation"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/wildfire-spirit-tce.webp"
+"image": "Compendium/bestiary/elemental/token/wildfire-spirit-tce.webp"
 ```
 ^statblock

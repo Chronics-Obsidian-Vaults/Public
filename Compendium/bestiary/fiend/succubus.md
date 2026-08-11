@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/4
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Succubus
+- "Succubus"
 ---
-# [Succubus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/succubus.md)
-*Source: Monster Manual p. 285, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Tasha's Cauldron of Everything, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Succubus](Compendium/bestiary/fiend/succubus.md)
+*Source: Monster Manual p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Succubi and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz'zt keeps succubi and incubi as advisers and consorts.
 
@@ -27,7 +28,7 @@ Inevitably, the fiend enters the mortal realm in tempting form to directly influ
 
 A mortal bequeaths its soul to the fiend not by formal pledge or contract. Instead, when a succubus or incubus has corrupted a creature completely-some say by causing the victim to commit the three betrayals of thought, word, and deed-the victim's soul belongs to the fiend. The more virtuous the fiend's prey, the longer the corruption takes, but the more rewarding the downfall. After successfully corrupting a victim, the succubus or incubus kills it, and the tainted soul descends into the Lower Planes.
 
-The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) creature isn't responsible for its actions, so forcing it to behave against its will won't bring the fiend closer to the ultimate prize: the victim's soul.
+The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A [charmed](Rules/conditions.md#Charmed) creature isn't responsible for its actions, so forcing it to behave against its will won't bring the fiend closer to the ultimate prize: the victim's soul.
 
 ## Deadly Kiss
 
@@ -35,7 +36,7 @@ The kiss of a succubus or incubus is an echo of the emptiness that is the fiend'
 
 ## Fiendish Offspring
 
-Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a [cambion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/cambion.md) child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
+Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a [cambion](Compendium/bestiary/fiend/cambion.md) child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
 
 ```statblock
 "name": "Succubus"
@@ -57,26 +58,25 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
   - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+9"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+9"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal, telepathy 60 ft."
 "cr": "4"
 "traits":
   - "desc": "The fiend ignores the range restriction on its telepathy when communicating\
-      \ with a creature it has [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed).\
-      \ The two don't even need to be on the same plane of existence."
+      \ with a creature it has [charmed](Rules/conditions.md#Charmed). The two don't\
+      \ even need to be on the same plane of existence."
     "name": "Telepathic Bond"
   - "desc": "The fiend can use its action to polymorph into a Small or Medium humanoid,\
       \ or back into its true form. Without wings, the fiend loses its flying speed.\
@@ -89,17 +89,17 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
       \ + 3) slashing damage."
     "name": "Claw (Fiend Form Only)"
   - "desc": "One humanoid the fiend can see within 30 feet of it must succeed on a\
-      \ DC 15 Wisdom saving throw or be magically [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ for 1 day. The [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ target obeys the fiend's verbal or telepathic commands. If the target suffers\
-      \ any harm or receives a suicidal command, it can repeat the saving throw, ending\
-      \ the effect on a success. If the target successfully saves against the effect,\
-      \ or if the effect on it ends, the target is immune to this fiend's Charm for\
-      \ the next 24 hours.\n\nThe fiend can have only one target [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ DC 15 Wisdom saving throw or be magically [charmed](Rules/conditions.md#Charmed)\
+      \ for 1 day. The [charmed](Rules/conditions.md#Charmed) target obeys the fiend's\
+      \ verbal or telepathic commands. If the target suffers any harm or receives\
+      \ a suicidal command, it can repeat the saving throw, ending the effect on a\
+      \ success. If the target successfully saves against the effect, or if the effect\
+      \ on it ends, the target is immune to this fiend's Charm for the next 24 hours.\n\
+      \nThe fiend can have only one target [charmed](Rules/conditions.md#Charmed)\
       \ at a time. If it charms another, the effect on the previous target ends."
     "name": "Charm"
-  - "desc": "The fiend kisses a creature [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ by it or a willing creature. The target must make a DC 15 Constitution saving\
+  - "desc": "The fiend kisses a creature [charmed](Rules/conditions.md#Charmed) by\
+      \ it or a willing creature. The target must make a DC 15 Constitution saving\
       \ throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed\
       \ save, or half as much damage on a successful one. The target's hit point maximum\
       \ is reduced by an amount equal to the damage taken. This reduction lasts until\
@@ -111,11 +111,7 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
     "name": "Etherealness"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "TCE"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/succubus.webp"
+"image": "Compendium/bestiary/fiend/token/succubus.webp"
 ```
 ^statblock
 

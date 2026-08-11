@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/mtf
 - source/deity/dwarven
 - source/domain/trickery
-aliases: 
-- Roknar
+aliases:
+- "Roknar"
 ---
 # Roknar
 *Source: Mordenkainen's Tome of Foes p. 73* 

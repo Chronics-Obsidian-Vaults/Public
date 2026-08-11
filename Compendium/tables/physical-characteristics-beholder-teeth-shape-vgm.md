@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Physical Characteristics; Beholder Teeth Shape
+- "Physical Characteristics; Beholder Teeth Shape"
 ---
 # Physical Characteristics; Beholder Teeth Shape
 *Source: Volo's Guide to Monsters p. 8* 

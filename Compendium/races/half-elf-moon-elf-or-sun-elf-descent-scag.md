@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/scag
 - source/race/half-elf/moon-elf-or-sun-elf-descent
 aliases:
-- Half-Elf (Moon Elf or Sun Elf Descent)
+- "Half-Elf (Moon Elf or Sun Elf Descent)"
 ---
 # Half-Elf (Moon Elf or Sun Elf Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  
@@ -32,13 +33,13 @@ Thanks to your elf blood, you have superior vision in dark and dim conditions. Y
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](Rules/conditions.md#Charmed), and magic can't put you to sleep.
 
 > [!note] Variant Feature (Choose 1)
 > 
 > **Skill Versatility.** You gain proficiency in two skills of your choice.
 > 
-> **Elf Weapon Training.** You have proficiency with the [longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md), [shortsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md), [shortbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortbow.md), and [longbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longbow.md).
+> **Elf Weapon Training.** You have proficiency with the [longsword](Compendium/items/longsword.md), [shortsword](Compendium/items/shortsword.md), [shortbow](Compendium/items/shortbow.md), and [longbow](Compendium/items/longbow.md).
 > 
 > **Cantrip.** You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
 ^variant-feature-choose-1

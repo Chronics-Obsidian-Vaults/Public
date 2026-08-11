@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/vgm
 - source/monster/cr/7
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Booyahg Slave of the Fiend
+- "Booyahg Slave of the Fiend"
 ---
-# [Booyahg Slave of the Fiend](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/booyahg-slave-of-the-fiend-vgm.md)
+# [Booyahg Slave of the Fiend](Compendium/bestiary/humanoid/booyahg-slave-of-the-fiend-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -31,7 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](Compendium/spells/mage-armor.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "2"
@@ -47,17 +48,18 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "wisdom": !!int "4"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+7"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+7"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+4"
 "damage_resistances": "slashing from nonmagical attacks not made with silvered weapons"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"gear":
+  - "[mace](Compendium/items/mace.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 11"
 "languages": "any two languages (usually Abyssal or Infernal), Goblin"
 "cr": "7"
@@ -65,34 +67,24 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "desc": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma\
       \ (spell save DC 15, +7 to hit with spell attacks). It regains its expended\
       \ spell slots when it finishes a short or long rest. It knows the following\
-      \ warlock spells:\n\n**Cantrips (at will):** [eldritch blast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/eldritch-blast.md),\
-      \ [fire bolt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fire-bolt.md),\
-      \ [friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md),\
-      \ [shocking grasp](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/shocking-grasp.md)\n\
-      \n**1st-5th level (4 slots):** [banishment](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/banishment.md),\
-      \ [burning hands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/burning-hands.md),\
-      \ [flame strike](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/flame-strike.md),\
-      \ [hellish rebuke](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hellish-rebuke.md),\
-      \ [magic circle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-circle.md),\
-      \ [scorching ray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scorching-ray.md),\
-      \ [scrying](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/scrying.md),\
-      \ [stinking cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/stinking-cloud.md),\
-      \ [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md),\
-      \ [wall of fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wall-of-fire.md)"
+      \ warlock spells:\n\n**Cantrips (at will):** [eldritch blast](Compendium/spells/eldritch-blast.md),\
+      \ [fire bolt](Compendium/spells/fire-bolt.md), [friends](Compendium/spells/friends.md),\
+      \ [mage hand](Compendium/spells/mage-hand.md), [minor illusion](Compendium/spells/minor-illusion.md),\
+      \ [prestidigitation](Compendium/spells/prestidigitation.md), [shocking grasp](Compendium/spells/shocking-grasp.md)\n\
+      \n**1st-5th level (4 slots):** [banishment](Compendium/spells/banishment.md),\
+      \ [burning hands](Compendium/spells/burning-hands.md), [flame strike](Compendium/spells/flame-strike.md),\
+      \ [hellish rebuke](Compendium/spells/hellish-rebuke.md), [magic circle](Compendium/spells/magic-circle.md),\
+      \ [scorching ray](Compendium/spells/scorching-ray.md), [scrying](Compendium/spells/scrying.md),\
+      \ [stinking cloud](Compendium/spells/stinking-cloud.md), [suggestion](Compendium/spells/suggestion.md),\
+      \ [wall of fire](Compendium/spells/wall-of-fire.md)"
     "name": "Spellcasting"
   - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately\
       \ cast the following spells (spell save DC 15), requiring no material components:\n\
-      \n**At will:** [alter self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/alter-self.md),\
-      \ [false life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/false-life.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\
-      \ (self only), [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md)\
-      \ (self only), [silent image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/silent-image.md)\n\
-      \n**1/day each:** [feeblemind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/feeblemind.md),\
-      \ [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md)"
+      \n**At will:** [alter self](Compendium/spells/alter-self.md), [false life](Compendium/spells/false-life.md),\
+      \ [levitate](Compendium/spells/levitate.md) (self only), [mage armor](Compendium/spells/mage-armor.md)\
+      \ (self only), [silent image](Compendium/spells/silent-image.md)\n\n**1/day\
+      \ each:** [feeblemind](Compendium/spells/feeblemind.md), [finger of death](Compendium/spells/finger-of-death.md),\
+      \ [plane shift](Compendium/spells/plane-shift.md)"
     "name": "Innate Spellcasting"
   - "desc": "When the goblin makes an ability check or saving throw, it can add a\
       \ d10 to the roll. It can do this after the roll is made but before any of the\
@@ -106,6 +98,6 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     "name": "Mace"
 "source":
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/booyahg-slave-of-the-fiend-vgm.webp"
+"image": "Compendium/bestiary/humanoid/token/booyahg-slave-of-the-fiend-vgm.webp"
 ```
 ^statblock

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/hazard/smpl
 aliases:
-- Crossbow Trap
+- "Crossbow Trap"
 ---
 # Crossbow Trap
 *Generic Hazard*  

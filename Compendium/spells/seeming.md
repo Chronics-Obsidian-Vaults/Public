@@ -1,25 +1,27 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
 - source/spell/class/sorcerer
 - source/spell/class/wizard
+- source/spell/feat/boon-of-siberys/sorcerer-spell
 - source/spell/level/5th-level
 - source/spell/school/illusion
 - source/spell/subclass/gloom-stalker
 - source/spell/subclass/the-archfey
-- source/spell/subclass/the-genie/djinni
+- source/spell/subclass/the-genie
 classes:
 - Bard (Magical Secrets)
 - Ranger (Gloom Stalker)
 - Sorcerer
 - Warlock (The Archfey)
-- Warlock (The Genie, Djinni)
+- Warlock (The Genie)
 - Wizard
 aliases:
-- Seeming
+- "Seeming"
 level: 5
 school: illusion
 ritual: false
@@ -45,8 +47,8 @@ The spell disguises physical appearance as well as clothing, armor, weapons, and
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature's head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
-A creature can use its action to inspect a target and make an Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
+A creature can use its action to inspect a target and make an Intelligence ([Investigation](Rules/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Ranger (Gloom Stalker)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [Sorcerer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Archfey)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-archfey.md); [Warlock (The Genie, Djinni)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Ranger (Gloom Stalker)](Compendium/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE"); [Sorcerer](Compendium/lists/list-spells-classes-sorcerer.md); [Warlock (The Archfey)](Compendium/lists/list-spells-classes-the-archfey.md); [Warlock (The Genie)](Compendium/lists/list-spells-classes-the-genie-tce.md "subclass=TCE"); [Wizard](Compendium/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

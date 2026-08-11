@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Kicking Off the Action; Story Kickoff
+- "Kicking Off the Action; Story Kickoff"
 ---
 # Kicking Off the Action; Story Kickoff
 *Source: Eberron: Rising from the Last War p. 186* 

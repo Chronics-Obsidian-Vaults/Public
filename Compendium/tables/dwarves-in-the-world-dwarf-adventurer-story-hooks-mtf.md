@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Dwarves in the World; Dwarf Adventurer Story Hooks
+- "Dwarves in the World; Dwarf Adventurer Story Hooks"
 ---
 # Dwarves in the World; Dwarf Adventurer Story Hooks
 *Source: Mordenkainen's Tome of Foes p. 83* 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/9
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Tree
+- "Animated Tree"
 ---
-# [Animated Tree](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/animated-tree-egw.md)
-*Source: Explorer's Guide to Wildemount p. 130, Mythic Odysseys of Theros*  
+# [Animated Tree](Compendium/bestiary/plant/animated-tree-egw.md)
+*Source: Explorer's Guide to Wildemount p. 130*  
 
 ```statblock
 "name": "Animated Tree (EGW)"
@@ -62,7 +63,6 @@ aliases:
     "name": "Animate Trees (1/Day)"
 "source":
   - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/animated-tree-egw.webp"
+"image": "Compendium/bestiary/plant/token/animated-tree-egw.webp"
 ```
 ^statblock

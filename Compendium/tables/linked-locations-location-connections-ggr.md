@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- Linked Locations; Location Connections
+- "Linked Locations; Location Connections"
 ---
 # Linked Locations; Location Connections
 *Source: Guildmasters' Guide to Ravnica p. 123* 

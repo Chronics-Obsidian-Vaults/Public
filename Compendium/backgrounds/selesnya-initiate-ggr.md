@@ -1,20 +1,21 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/ggr
 aliases:
-- Selesnya Initiate
+- "Selesnya Initiate"
 ---
 # Selesnya Initiate
 *Source: Guildmasters' Guide to Ravnica p. 86*  
 
 
-- **Skill Proficiencies.** [Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature), [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Nature](Rules/skills.md#Nature), [Persuasion](Rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of artisan's tools or one musical instrument  
 - **Languages.** Choose one of Elvish, Loxodon, or Sylvan  
-- **Equipment.** A Selesnya insignia, a [healer's kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/healers-kit.md), [robes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/robes.md), a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 5 gp (Azorius 1-zino coins)  
+- **Equipment.** A Selesnya insignia, a [healer's kit](Compendium/items/healers-kit.md), [robes](Compendium/items/robes.md), a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 5 gp (Azorius 1-zino coins)  
 
 You are a member of a blessed community, built on the ideals of harmony. Here, nature and civilization coexist peacefully, living and growing in accordance with the will of the Worldsoul, Mat'Selesnya. As a member of the Selesnya Conclave, you are surrounded by people and other creatures who share your worldview and your longing for deeper spiritual communion with the world, and you have a fervent desire to share the joy you have experienced with Ravnica. Along with the rest of the conclave, you are committed to resisting the ambitions of the other guilds—with military force if necessary.
 
@@ -34,12 +35,12 @@ For you, the spells on the Selesnya Guild Spells table are added to the spell li
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [druidcraft](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/druidcraft.md), [friends](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/friends.md) |
-| 1st | [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md), [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md) |
-| 2nd | [aid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aid.md), [animal messenger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-messenger.md), [calm emotions](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/calm-emotions.md), [warding bond](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/warding-bond.md) |
-| 3rd | [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md), [speak with plants](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-plants.md) |
-| 4th | [aura of life](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/aura-of-life.md), [conjure minor elementals](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/conjure-minor-elementals.md) |
-| 5th | [awaken](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/awaken.md), [commune with nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/commune-with-nature.md) |
+| Cantrip | [druidcraft](Compendium/spells/druidcraft.md), [friends](Compendium/spells/friends.md) |
+| 1st | [animal friendship](Compendium/spells/animal-friendship.md), [charm person](Compendium/spells/charm-person.md) |
+| 2nd | [aid](Compendium/spells/aid.md), [animal messenger](Compendium/spells/animal-messenger.md), [calm emotions](Compendium/spells/calm-emotions.md), [warding bond](Compendium/spells/warding-bond.md) |
+| 3rd | [plant growth](Compendium/spells/plant-growth.md), [speak with plants](Compendium/spells/speak-with-plants.md) |
+| 4th | [aura of life](Compendium/spells/aura-of-life.md), [conjure minor elementals](Compendium/spells/conjure-minor-elementals.md) |
+| 5th | [awaken](Compendium/spells/awaken.md), [commune with nature](Compendium/spells/commune-with-nature.md) |
 ^selesnya-guild-spells
 
 Members of the Selesnya Conclave refer to their magic as "doruvati," a Sylvan word meaning "gift." When you use these gifts of Mat'Selesnya, graceful swirls of green and silver light dance in the air around you, and phantasmal green leaves might waft through the air. A sensation of gentle warmth and the smell of spring flowers or autumn leaves might accompany your spells.

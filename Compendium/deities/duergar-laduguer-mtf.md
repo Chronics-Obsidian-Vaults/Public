@@ -7,8 +7,8 @@ tags:
 - source/deity/duergar
 - source/domain/death
 - source/domain/forge
-aliases: 
-- Laduguer
+aliases:
+- "Laduguer"
 ---
 # Laduguer
 *Source: Mordenkainen's Tome of Foes p. 79* 

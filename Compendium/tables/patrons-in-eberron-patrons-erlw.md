@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Patrons in Eberron; Patrons
+- "Patrons in Eberron; Patrons"
 ---
 # Patrons in Eberron; Patrons
 *Source: Eberron: Rising from the Last War p. 65* 

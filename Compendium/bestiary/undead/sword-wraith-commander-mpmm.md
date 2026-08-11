@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/8
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sword Wraith Commander
+- "Sword Wraith Commander"
 ---
-# [Sword Wraith Commander](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/sword-wraith-commander-mpmm.md)
+# [Sword Wraith Commander](Compendium/bestiary/undead/sword-wraith-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
@@ -28,8 +29,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "type": "undead"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -42,16 +42,16 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 14"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [poisoned](Rules/conditions.md#Poisoned), [unconscious](Rules/conditions.md#Unconscious)"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"
 "traits":
@@ -71,7 +71,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
     "name": "Longbow"
   - "desc": "If the commander has taken damage during this combat, it gives itself\
       \ advantage on attack rolls until the end of its next turn, and 1d4 + 1 [sword\
-      \ wraith warriors](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/sword-wraith-warrior-mpmm.md)\
+      \ wraith warriors](Compendium/bestiary/undead/sword-wraith-warrior-mpmm.md)\
       \ appear in unoccupied spaces within 30 feet of it. The warriors last until\
       \ they drop to 0 hit points, and they take their turns immediately after the\
       \ commander's turn on the same initiative count."
@@ -84,7 +84,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/sword-wraith-commander-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/sword-wraith-commander-mpmm.webp"
 ```
 ^statblock
 

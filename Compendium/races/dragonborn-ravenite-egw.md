@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/egw
 - source/race/dragonborn/ravenite
 aliases:
-- Dragonborn (Ravenite)
+- "Dragonborn (Ravenite)"
 ---
 # Dragonborn (Ravenite)
 *Source: Explorer's Guide to Wildemount p. 168*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/dragonborn-ravenite.webp#right)
+![](Compendium/races/img/dragonborn-ravenite.webp#right)
 
 - **Ability Scores**: str +2 con +1
 - **Size**: Medium
@@ -91,7 +92,7 @@ Dragonborn have personal names given at birth, but they put their clan names fir
 
 - **Male Names.** Arjhan, Balasar, Bharash, Donaar, Ghesh, Hesken, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn  
 - **Female Names.** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit  
-- **Childhood Names.** Climber, Earbenden Leaper, Pious, Shieldbiter, Zealous  
+- **Childhood Names.** Climber, Earbenden, Leaper, Pious, Shieldbiter, Zealous  
 - **Clan Names.** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit  
 
 > [!note] Draconians

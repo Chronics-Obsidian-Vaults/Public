@@ -1,18 +1,19 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/9
 - source/monster/environment/underdark
 - source/monster/size/medium
-- source/monster/type/humanoid/elf
+- source/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow House Captain
+- "Drow House Captain"
 ---
-# [Drow House Captain](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/drow-house-captain-mpmm.md)
+# [Drow House Captain](Compendium/bestiary/humanoid/drow-house-captain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*  
 
 > [!quote] A quote from Tasha  
@@ -27,10 +28,10 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "name": "Drow House Captain (MPMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[chain mail](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/chain-mail.md)"
+"ac_class": "[chain mail](Compendium/items/chain-mail.md)"
 "hp": !!int "162"
 "hit_dice": "25d8 + 50"
 "modifier": !!int "4"
@@ -47,21 +48,24 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
   - "constitution": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 16"
+"gear":
+  - "[hand crossbow](Compendium/items/hand-crossbow.md)"
+  - "[scimitar](Compendium/items/scimitar.md)"
+  - "[whip](Compendium/items/whip.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "9"
 "traits":
-  - "desc": "The drow has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The drow makes two Scimitar attacks and one Whip or Hand Crossbow attack."
@@ -74,26 +78,23 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
     "name": "Whip"
   - "desc": "*Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
-      \ while [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way. The target regains consciousness if it takes damage or if another\
-      \ creature takes an action to shake it."
+      \ saving throw or be [poisoned](Rules/conditions.md#Poisoned) for 1 hour. If\
+      \ the saving throw fails by 5 or more, the target is also [unconscious](Rules/conditions.md#Unconscious)\
+      \ while [poisoned](Rules/conditions.md#Poisoned) in this way. The target regains\
+      \ consciousness if it takes damage or if another creature takes an action to\
+      \ shake it."
     "name": "Hand Crossbow"
   - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md),\
-      \ [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\
-      \ (self only)"
+      \ will:** [dancing lights](Compendium/spells/dancing-lights.md)\n\n**1/day each:**\
+      \ [darkness](Compendium/spells/darkness.md), [faerie fire](Compendium/spells/faerie-fire.md),\
+      \ [levitate](Compendium/spells/levitate.md) (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Choose one creature within 30 feet of the drow that the drow can see.\
       \ If the chosen creature can see or hear the drow, that creature can use its\
-      \ reaction to make one melee attack or to take the [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge)\
-      \ or [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide)\
-      \ action."
+      \ reaction to make one melee attack or to take the [Dodge](Rules/actions.md#Dodge)\
+      \ or [Hide](Rules/actions.md#Hide) action."
     "name": "Battle Command"
 "reactions":
   - "desc": "The drow adds 3 to its AC against one melee attack roll that would hit\
@@ -102,7 +103,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/drow-house-captain-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/drow-house-captain-mpmm.webp"
 ```
 ^statblock
 

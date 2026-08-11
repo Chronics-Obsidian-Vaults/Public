@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/armor/heavy
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Clockwork Armor"
 - "Clockwork Chain Mail"
 - "Clockwork Plate Armor"

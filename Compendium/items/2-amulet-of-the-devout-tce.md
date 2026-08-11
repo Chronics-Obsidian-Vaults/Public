@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/tce
 - source/item/attunement/required
 - source/item/rarity/rare
-aliases: 
+aliases:
 - "+2 Amulet of the Devout"
 item_type: 
 item_subtype: 

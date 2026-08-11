@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/legendary
 - source/item/weapon/martial
 - source/item/weapon/melee
-aliases: 
+aliases:
 - "Blackrazor"
 item_type: weapon
 item_subtype: "martial, melee"
@@ -15,11 +16,11 @@ rarity: legendary
 attunement: required
 ---
 # Blackrazor
-*Weapon ([greatsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/greatsword.md)), legendary (requires attunement by a creature of non-lawful alignment)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/blackrazor.webp#right)
+*Weapon ([greatsword](Compendium/items/greatsword.md)), legendary (requires attunement by a creature of non-lawful alignment)*  
+![](Compendium/items/img/blackrazor.webp#right)
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Heavy), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](Rules/item-properties.md#Heavy), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of night sky filled with stars. Its black scabbard is decorated with pieces of cut obsidian.
@@ -28,7 +29,7 @@ You gain a +3 bonus to attack and damage rolls made with this magic weapon. It h
 
 ## Devour Soul
 
-Whenever you use it to reduce a creature to 0 hit points, the sword slays the creature and devours its soul, unless it is a construct or an undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md) spell.
+Whenever you use it to reduce a creature to 0 hit points, the sword slays the creature and devours its soul, unless it is a construct or an undead. A creature whose soul has been devoured by Blackrazor can be restored to life only by a [wish](Compendium/spells/wish.md) spell.
 
 When it devours a soul, Blackrazor grants you temporary hit points equal to the slain creature's hit point maximum. These hit points fade after 24 hours. As long as these temporary hit points last and you keep Blackrazor in hand, you have advantage on attack rolls, saving throws, and ability checks.
 
@@ -36,13 +37,13 @@ If you hit an undead with this weapon, you take `1d10` necrotic damage and the t
 
 ## Soul Hunter
 
-While you hold the weapon. you are aware of the presence of Tiny or larger creatures within 60 feet of you that aren't constructs or undead. You also can't be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed) or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).
+While you hold the weapon. you are aware of the presence of Tiny or larger creatures within 60 feet of you that aren't constructs or undead. You also can't be [charmed](Rules/conditions.md#Charmed) or [frightened](Rules/conditions.md#Frightened).
 
-Blackrazor can cast the [haste](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/haste.md) spell on you once per day. It decides when to cast the spell and maintains [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration) on it so that you don't have to.
+Blackrazor can cast the [haste](Compendium/spells/haste.md) spell on you once per day. It decides when to cast the spell and maintains [concentration](Rules/conditions.md#Concentration) on it so that you don't have to.
 
 ## Sentience
 
-Blackrazor is a sentient chaotic neutral weapon with an Intelligence of 17, a Wisdom of 10, and a Charisma of 19. It has hearing and [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 120 feet.
+Blackrazor is a sentient chaotic neutral weapon with an Intelligence of 17, a Wisdom of 10, and a Charisma of 19. It has hearing and [darkvision](Rules/senses.md#Darkvision) out to a range of 120 feet.
 
 The weapon can speak, read, and understand Common, and can communicate with its wielder telepathically. Its voice is deep and echoing. While you are attuned to it, Blackrazor also understands every language you know.
 
@@ -52,7 +53,7 @@ Blackrazor speaks with an imperious tone, as though accustomed to being obeyed.
 
 The sword's purpose is to consume souls. It doesn't care whose souls it eats, including the wielder's. The sword believes that all matter and energy sprang from a void of negative energy and will one day return to it. Blackrazor is meant to hurry that process along.
 
-Despite its nihilism, Blackrazor feels a strange kinship to [Wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wave.md) and [Whelm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whelm.md), two other weapons locked away under White Plume Mountain. It wants the three weapons to be united again and wielded together in combat, even though it violently disagrees with [Whelm](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/whelm.md) and finds [Wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/wave.md) tedious.
+Despite its nihilism, Blackrazor feels a strange kinship to [Wave](Compendium/items/wave.md) and [Whelm](Compendium/items/whelm.md), two other weapons locked away under White Plume Mountain. It wants the three weapons to be united again and wielded together in combat, even though it violently disagrees with [Whelm](Compendium/items/whelm.md) and finds [Wave](Compendium/items/wave.md) tedious.
 
 Blackrazor's hunger for souls must be regularly fed. If the sword goes three days or more without consuming a soul, a conflict between it and its wielder occurs at the next sunset.
 

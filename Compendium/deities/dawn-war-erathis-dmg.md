@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/knowledge
 - source/domain/order
-aliases: 
-- Erathis
+aliases:
+- "Erathis"
 ---
 # Erathis
 *Source: Dungeon Master's Guide p. 10* 

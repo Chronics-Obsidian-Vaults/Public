@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/4
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kraul Death Priest
+- "Kraul Death Priest"
 ---
-# [Kraul Death Priest](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/kraul-death-priest-ggr.md)
+# [Kraul Death Priest](Compendium/bestiary/humanoid/kraul-death-priest-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 214*  
 
 The death priests occupy the highest roles in kraul society. They lead the buzzing chants of the kraul rites. Their inscrutable clicks and buzzing can summon crippling necromantic magic, and the presence of death seems to fortify them. They draw power from the defeat of their enemies and channel it to their followers, ensuring the continuation of the cycle.
@@ -45,38 +46,37 @@ The kraul are an ascendant power group within the Golgari Swarm, long content to
   - "constitution": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+3"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 12"
+"gear":
+  - "[quarterstaff](Compendium/items/quarterstaff.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 12"
 "languages": "Common, Kraul"
 "cr": "4"
 "traits":
   - "desc": "The kraul's innate spellcasting ability is Wisdom (spell save DC 12,\
       \ +4 to hit with spell attacks). The kraul can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [chill touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chill-touch.md),\
-      \ [poison spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md)\n\
-      \n**3/day each:** [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md),\
-      \ [ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md)\n\
-      \n**1/day each:** [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md),\
-      \ [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md),\
-      \ [vampiric touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vampiric-touch.md)"
+      \ requiring no material components:\n\n**At will:** [chill touch](Compendium/spells/chill-touch.md),\
+      \ [poison spray](Compendium/spells/poison-spray.md)\n\n**3/day each:** [ray\
+      \ of enfeeblement](Compendium/spells/ray-of-enfeeblement.md), [ray of sickness](Compendium/spells/ray-of-sickness.md)\n\
+      \n**1/day each:** [animate dead](Compendium/spells/animate-dead.md), [blight](Compendium/spells/blight.md),\
+      \ [vampiric touch](Compendium/spells/vampiric-touch.md)"
     "name": "Innate Spellcasting"
   - "desc": "When a creature within 30 feet of the kraul drops to 0 hit points, the\
       \ kraul or another creature of its choice within 30 feet of it gains 5 (1d10)\
-      \ temporary hit points, provided the kraul isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ temporary hit points, provided the kraul isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Feed on Death"
-  - "desc": "The kraul is immune to the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ and [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
-      \ conditions while within 30 feet of at least one other kraul."
+  - "desc": "The kraul is immune to the [charmed](Rules/conditions.md#Charmed) and\
+      \ [frightened](Rules/conditions.md#Frightened) conditions while within 30 feet\
+      \ of at least one other kraul."
     "name": "Hive Mind"
   - "desc": "The kraul has advantage on an attack roll against a creature if at least\
       \ one of the kraul's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The kraul can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -91,6 +91,6 @@ The kraul are an ascendant power group within the Golgari Swarm, long content to
     "name": "Quarterstaff"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/kraul-death-priest-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/kraul-death-priest-ggr.webp"
 ```
 ^statblock

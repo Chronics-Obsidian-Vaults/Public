@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/15
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Deep Crow
+- "Ancient Deep Crow"
 ---
-# [Ancient Deep Crow](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/ancient-deep-crow-ai.md)
+# [Ancient Deep Crow](Compendium/bestiary/monstrosity/ancient-deep-crow-ai.md)
 *Source: Acquisitions Incorporated p. 211*  
 
 So little is known of the deep crows that even less is known of their monstrous leviathan cousins, the ancient deep crows. Whether these gargantuan specimens are elder deep crows grown to great size or some higher form that holds lesser deep crows in thrall remains to be determined. Ideally by someone else. Seriously, stay away from these things.
@@ -38,13 +39,12 @@ So little is known of the deep crows that even less is known of their monstrous 
   - "constitution": !!int "11"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+13"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 17"
 "languages": "Deep Crow"
 "cr": "15"
@@ -52,7 +52,7 @@ So little is known of the deep crows that even less is known of their monstrous 
   - "desc": "The ancient deep crow has advantage on saving throws against spells and\
       \ other magical effects."
     "name": "Magic Resistance"
-  - "desc": "While in dim light or darkness, the ancient deep crow can take the Hide\
+  - "desc": "While in dim light or darkness, the ancient deep crow can take the [Hide](Rules/actions.md#Hide)\
       \ action as a bonus action."
     "name": "Shadow Stealth"
 "actions":
@@ -60,8 +60,8 @@ So little is known of the deep crows that even less is known of their monstrous 
       \ two with its claws."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) piercing damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 19). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ (2d10 + 6) piercing damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 19). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the ancient deep crow can't use its mandibles on another target."
     "name": "Mandibles"
   - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13\
@@ -86,18 +86,18 @@ So little is known of the deep crows that even less is known of their monstrous 
   \ turn, the ancient deep crow can expend a use to take one of the following actions.\
   \ The ancient deep crow regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The deep crow makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The deep crow makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The ancient deep crow uses Shadow Caw."
     "name": "Shadow Caw (Costs 2 Actions)"
   - "desc": "The ancient deep crow beats its wings. Each creature within 10 feet of\
       \ the deep crow must succeed on a DC 19 Dexterity saving throw or take 13 (2d6\
-      \ + 6) bludgeoning damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
+      \ + 6) bludgeoning damage and be knocked [prone](Rules/conditions.md#Prone).\
       \ The ancient deep crow can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/ancient-deep-crow-ai.webp"
+"image": "Compendium/bestiary/monstrosity/token/ancient-deep-crow-ai.webp"
 ```
 ^statblock

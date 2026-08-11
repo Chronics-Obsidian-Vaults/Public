@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Orc Names; Orc Female Names
+- "Orc Names; Orc Female Names"
 ---
 # Orc Names; Orc Female Names
 *Source: Volo's Guide to Monsters p. 88* 

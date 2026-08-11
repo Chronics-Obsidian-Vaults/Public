@@ -1,19 +1,20 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-background
+cssclasses:
+- json5e-background
 tags:
 - source/background
 - source/compendium/src/5e/egw
 aliases:
-- Cobalt Scholar (Sage)
+- "Cobalt Scholar (Sage)"
 ---
 # Cobalt Scholar (Sage)
 *Source: Explorer's Guide to Wildemount p. 203*  
 
 
-- **Skill Proficiencies.** [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)  
+- **Skill Proficiencies.** [Arcana](Rules/skills.md#Arcana), [History](Rules/skills.md#History)  
 - **Languages.** Two of your choice  
-- **Equipment.** A [bottle of black ink](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/ink-1-ounce-bottle.md), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [common clothes](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/common-clothes.md), and a belt [pouch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/pouch.md) containing 10 gp  
+- **Equipment.** A [bottle of black ink](Compendium/items/ink-1-ounce-bottle.md), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [common clothes](Compendium/items/common-clothes.md), and a belt [pouch](Compendium/items/pouch.md) containing 10 gp  
 
 The Cobalt Soul is an organization of monastic scholars dedicated to preserving knowledge and recorded history, not just across Wildemount but all of Exandria. Its operations are primarily based out of the cities of Zadash and Rexxentrum in the Dwendalian Empire, and you likely studied at one of those sites.
 

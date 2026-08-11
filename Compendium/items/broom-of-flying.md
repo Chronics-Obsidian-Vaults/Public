@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/rarity/uncommon
 - source/item/tier/major
-aliases: 
+aliases:
 - "Broom of Flying"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: none
 ---
 # Broom of Flying
 *Wondrous item, major, uncommon*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/broom-of-flying.webp#right)
+![](Compendium/items/img/broom-of-flying.webp#right)
 
 - **Weight**: 3.0 lbs.
 

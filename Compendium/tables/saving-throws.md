@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Saving Throws
+- "Saving Throws"
 ---
 # Saving Throws
 *Source: Dungeon Master's Guide p. 238* 

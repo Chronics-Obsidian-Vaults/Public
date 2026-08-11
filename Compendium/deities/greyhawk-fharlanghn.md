@@ -7,8 +7,8 @@ tags:
 - source/deity/greyhawk
 - source/domain/knowledge
 - source/domain/trickery
-aliases: 
-- Fharlanghn
+aliases:
+- "Fharlanghn"
 ---
 # Fharlanghn
 *Source: Player's Handbook p. 295* 

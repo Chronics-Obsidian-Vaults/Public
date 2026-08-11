@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/xge
 - source/spell/class/artificer
@@ -9,10 +10,12 @@ tags:
 - source/spell/class/warlock
 - source/spell/feat/artificer-initiate
 - source/spell/feat/magic-initiate/warlock-spells
+- source/spell/feat/spell-sniper
 - source/spell/feat/wood-elf-magic
 - source/spell/level/cantrip
 - source/spell/optfeature/druidic-warrior
 - source/spell/optfeature/pact-of-the-tome
+- source/spell/race/khoravar
 - source/spell/school/transmutation
 - source/spell/subclass/circle-of-the-land/arctic
 - source/spell/subclass/nature-domain
@@ -24,7 +27,7 @@ classes:
 - Druid (Circle of the Land, Arctic)
 - Warlock
 aliases:
-- Magic Stone
+- "Magic Stone"
 level: 0
 school: transmutation
 ritual: false
@@ -44,10 +47,10 @@ components_vsm: [V, S]
 - **Components:** V, S
 - **Duration:** 1 minute
 
-You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a [sling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/sling.md). If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker's, to the attack roll. On a hit, the target takes bludgeoning damage equal to `1d6` + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
+You touch one to three pebbles and imbue them with magic. You or someone else can make a ranged spell attack with one of the pebbles by throwing it or hurling it with a [sling](Compendium/items/sling.md). If thrown, a pebble has a range of 60 feet. If someone else attacks with a pebble, that attacker adds your spellcasting ability modifier, not the attacker's, to the attack roll. On a hit, the target takes bludgeoning damage equal to `1d6` + your spellcasting ability modifier. Whether the attack hits or misses, the spell then ends on the stone.
 
 If you cast this spell again, the spell ends on any pebbles still affected by your previous casting.
 
-**Classes**: [Artificer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md)
+**Classes**: [Artificer](Compendium/lists/list-spells-classes-artificer.md); [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](Compendium/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](Compendium/lists/list-spells-classes-circle-of-the-land.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Warlock](Compendium/lists/list-spells-classes-warlock.md)
 
 *Source: Xanathar's Guide to Everything p. 160*

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/7
@@ -11,12 +12,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maurezhi
+- "Maurezhi"
 ---
-# [Maurezhi](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/maurezhi-mpmm.md)
+# [Maurezhi](Compendium/bestiary/fiend/maurezhi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133*  
 
-When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [ghouls](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghoul.md) and [ghasts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghast.md) on the Material Plane.
+When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [ghouls](Compendium/bestiary/undead/ghoul.md) and [ghasts](Compendium/bestiary/undead/ghast.md) on the Material Plane.
 
 When a maurezhi consumes the corpse of a Humanoid it has slain—a process that takes about 10 minutes—it instantly assumes the creature's appearance as it was in life. The new appearance begins to rot away over the next few days, eventually revealing the demon's original form.
 
@@ -42,16 +43,14 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+5"
 "damage_resistances": "cold; fire; lightning; necrotic; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Abyssal, Elvish, telepathy 120 ft."
 "cr": "7"
 "traits":
@@ -69,22 +68,22 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
       \ (2d10 + 3) piercing damage. If the target is a Humanoid, its Charisma score\
       \ is reduced by 1d4. This reduction lasts until the target finishes a short\
       \ or long rest. The target dies if this reduces its Charisma to 0. It rises\
-      \ 24 hours later as a [ghoul](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghoul.md)\
-      \  unless it has been revived or its corpse has been destroyed."
+      \ 24 hours later as a [ghoul](Compendium/bestiary/undead/ghoul.md)  unless it\
+      \ has been revived or its corpse has been destroyed."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) slashing damage. If the target is a creature other than an Undead,\
-      \ it must succeed on a DC 12 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ it must succeed on a DC 12 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Claw"
-  - "desc": "The maurezhi targets one dead ghoul or [ghast](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/ghast.md)\
+  - "desc": "The maurezhi targets one dead ghoul or [ghast](Compendium/bestiary/undead/ghast.md)\
       \ it can see within 30 feet of it. The target is revived with all its hit points."
     "name": "Raise Ghoul (Recharge 5-6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/maurezhi-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/maurezhi-mpmm.webp"
 ```
 ^statblock
 

@@ -7,8 +7,8 @@ tags:
 - source/deity/dawn-war
 - source/domain/death
 - source/domain/trickery
-aliases: 
-- Zehir
+aliases:
+- "Zehir"
 ---
 # Zehir
 *Source: Dungeon Master's Guide p. 10* 

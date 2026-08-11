@@ -6,14 +6,14 @@ tags:
 - source/compendium/src/5e/xge
 - source/feat
 aliases:
-- Prodigy
+- "Prodigy"
 ---
 # Prodigy
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [Half-Elf](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/half-elf.md), [Half-Orc](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/half-orc.md), or [Human](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/human.md)
+**Prerequisite**: [Khoravar](Compendium/races/khoravar-efa.md), [Half-Orc](Compendium/races/half-orc.md), or [Human](Compendium/races/human.md)
 
 You have a knack for learning new things. You gain the following benefits:
 
-- You gain one [skill proficiency](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/skills-phb.md) of your choice, one tool proficiency of your choice, and fluency in one language of your choice.  
+- You gain one [skill proficiency](Compendium/tables/skills-phb.md) of your choice, one tool proficiency of your choice, and fluency in one language of your choice.  
 - Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.

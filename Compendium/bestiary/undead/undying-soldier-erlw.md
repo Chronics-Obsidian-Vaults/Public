@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undying Soldier
+- "Undying Soldier"
 ---
-# [Undying Soldier](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/undying-soldier-erlw.md)
+# [Undying Soldier](Compendium/bestiary/undead/undying-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying soldiers make up the army of Aerenal's City of the Dead. They guard the temples of the Undying Court and the mansions of the noble lines of Aerenal, and Aereni ambassadors are often accompanied by undead bodyguards. Undying soldiers wear heirloom armor and wield ornate weaponry.
@@ -46,8 +47,7 @@ An undying doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral Good"
 "ac": !!int "17"
-"ac_class": "[breastplate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/breastplate.md),\
-  \ [shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shield.md)"
+"ac_class": "[breastplate](Compendium/items/breastplate.md), [shield](Compendium/items/shield.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "1"
@@ -60,22 +60,22 @@ An undying doesn't require air, food, drink, or sleep.
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Religion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Religion)"
+  - "name": "[Religion](Rules/skills.md#Religion)"
     "desc": "+4"
 "damage_vulnerabilities": "necrotic"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": "Common, Elvish"
 "cr": "2"
 "traits":
@@ -96,6 +96,6 @@ An undying doesn't require air, food, drink, or sleep.
     "name": "Spear"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/undying-soldier-erlw.webp"
+"image": "Compendium/bestiary/undead/token/undying-soldier-erlw.webp"
 ```
 ^statblock

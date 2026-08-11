@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shambling Mound
+- "Shambling Mound"
 ---
-# [Shambling Mound](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/shambling-mound.md)
-*Source: Monster Manual p. 270, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Shambling Mound](Compendium/bestiary/plant/shambling-mound.md)
+*Source: Monster Manual p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
 
@@ -61,15 +62,14 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
   - !!int "5"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [deafened](Rules/conditions.md#Deafened),\
+  \ [exhaustion](Rules/conditions.md#Exhaustion)"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft. (blind beyond this radius),\
+  \ passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
@@ -79,15 +79,14 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
     "name": "Lightning Absorption"
 "actions":
   - "desc": "The shambling mound makes two slam attacks. If both attacks hit a Medium\
-      \ or smaller target, the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
+      \ or smaller target, the target is [grappled](Rules/conditions.md#Grappled)\
       \ (escape DC 14), and the shambling mound uses its Engulf on it."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage."
     "name": "Slam"
-  - "desc": "The shambling mound engulfs a Medium or smaller creature [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ by it. The engulfed target is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-      \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+  - "desc": "The shambling mound engulfs a Medium or smaller creature [grappled](Rules/conditions.md#Grappled)\
+      \ by it. The engulfed target is [blinded](Rules/conditions.md#Blinded), [restrained](Rules/conditions.md#Restrained),\
       \ and unable to breathe, and it must succeed on a DC 14 Constitution saving\
       \ throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning\
       \ damage. If the mound moves, the engulfed target moves with it. The mound can\
@@ -95,9 +94,7 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
     "name": "Engulf"
 "source":
   - "MM"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/shambling-mound.webp"
+"image": "Compendium/bestiary/plant/token/shambling-mound.webp"
 ```
 ^statblock
 

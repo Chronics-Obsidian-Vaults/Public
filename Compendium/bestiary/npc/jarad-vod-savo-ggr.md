@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/22
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jarad Vod Savo
+- "Jarad Vod Savo"
 ---
-# [Jarad Vod Savo](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/jarad-vod-savo-ggr.md)
+# [Jarad Vod Savo](Compendium/bestiary/npc/jarad-vod-savo-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 235*  
 
 The Golgari guildmaster is a Devkarin necromancer and lich named Jarad Vod Savo. In life, Jarad was an archer and accomplished hunter, as well as the brother of the previous guildmaster, the ambitious Savra. Jarad mastered the ways of necromancy so he could rise as a lich after he sacrificed himself to save his son from the demon Rakdos.
@@ -45,50 +46,38 @@ Jarad doesn't require air, food, drink, or sleep.
   - "intelligence": !!int "12"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+12"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+10"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 20"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 20"
 "languages": "Common, Elvish, Kraul"
 "cr": "22"
 "traits":
   - "desc": "Jarad is a 14th-level Golgari spellcaster. His spellcasting ability is\
       \ Intelligence (spell save DC 20, +12 to hit with spell attacks). Jarad has\
-      \ the following wizard spells prepared:\n\n**Cantrips (at will):** [acid splash](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/acid-splash.md),\
-      \ [chill touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/chill-touch.md),\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [poison spray](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/poison-spray.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [entangle](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/entangle.md),\
-      \ [ray of sickness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-sickness.md),\
-      \ [sleep](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sleep.md)\n\
-      \n**2nd level (3 slots):** [Melf's acid arrow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/melfs-acid-arrow.md),\
-      \ [ray of enfeeblement](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ray-of-enfeeblement.md),\
-      \ [spider climb](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/spider-climb.md),\
-      \ [web](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/web.md)\n\
-      \n**3rd level (3 slots):** [animate dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animate-dead.md),\
-      \ [plant growth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plant-growth.md),\
-      \ [vampiric touch](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/vampiric-touch.md)\n\
-      \n**4th level (3 slots):** [blight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blight.md),\
-      \ [giant insect](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/giant-insect.md),\
-      \ [grasping vine](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/grasping-vine.md)\n\
-      \n**5th level (2 slots):** [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md),\
-      \ [insect plague](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/insect-plague.md)\n\
-      \n**6th level (1 slots):** [circle of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/circle-of-death.md),\
-      \ [create undead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/create-undead.md)\n\
-      \n**7th level (1 slots):** [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md),\
-      \ [forcecage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/forcecage.md)"
+      \ the following wizard spells prepared:\n\n**Cantrips (at will):** [acid splash](Compendium/spells/acid-splash.md),\
+      \ [chill touch](Compendium/spells/chill-touch.md), [mage hand](Compendium/spells/mage-hand.md),\
+      \ [poison spray](Compendium/spells/poison-spray.md), [prestidigitation](Compendium/spells/prestidigitation.md)\n\
+      \n**1st level (4 slots):** [entangle](Compendium/spells/entangle.md), [ray of\
+      \ sickness](Compendium/spells/ray-of-sickness.md), [sleep](Compendium/spells/sleep.md)\n\
+      \n**2nd level (3 slots):** [Melf's acid arrow](Compendium/spells/melfs-acid-arrow.md),\
+      \ [ray of enfeeblement](Compendium/spells/ray-of-enfeeblement.md), [spider climb](Compendium/spells/spider-climb.md),\
+      \ [web](Compendium/spells/web.md)\n\n**3rd level (3 slots):** [animate dead](Compendium/spells/animate-dead.md),\
+      \ [plant growth](Compendium/spells/plant-growth.md), [vampiric touch](Compendium/spells/vampiric-touch.md)\n\
+      \n**4th level (3 slots):** [blight](Compendium/spells/blight.md), [giant insect](Compendium/spells/giant-insect.md),\
+      \ [grasping vine](Compendium/spells/grasping-vine.md)\n\n**5th level (2 slots):**\
+      \ [cloudkill](Compendium/spells/cloudkill.md), [insect plague](Compendium/spells/insect-plague.md)\n\
+      \n**6th level (1 slots):** [circle of death](Compendium/spells/circle-of-death.md),\
+      \ [create undead](Compendium/spells/create-undead.md)\n\n**7th level (1 slots):**\
+      \ [finger of death](Compendium/spells/finger-of-death.md), [forcecage](Compendium/spells/forcecage.md)"
     "name": "Spellcasting"
   - "desc": "If Jarad fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -116,9 +105,9 @@ Jarad doesn't require air, food, drink, or sleep.
     "name": "Multiattack"
   - "desc": "*Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 28\
       \ (8d6) poison damage, and the target must succeed on a DC 20 Constitution saving\
-      \ throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ throw or be [poisoned](Rules/conditions.md#Poisoned) for 1 minute. The target\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Noxious Touch"
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) bludgeoning damage plus 13 (3d8) poison damage and 13 (3d8) necrotic\
@@ -138,6 +127,6 @@ Jarad doesn't require air, food, drink, or sleep.
     "name": "Disrupt Life (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/jarad-vod-savo-ggr.webp"
+"image": "Compendium/bestiary/npc/token/jarad-vod-savo-ggr.webp"
 ```
 ^statblock

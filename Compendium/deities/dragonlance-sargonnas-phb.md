@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/dragonlance
 - source/domain/war
-aliases: 
-- Sargonnas
+aliases:
+- "Sargonnas"
 ---
 # Sargonnas
 *Source: Player's Handbook p. 295* 

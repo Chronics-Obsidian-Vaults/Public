@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/background/golgari-agent
@@ -16,7 +17,7 @@ classes:
 - Druid
 - Ranger
 aliases:
-- Entangle
+- "Entangle"
 level: 1
 school: conjuration
 ritual: false
@@ -38,10 +39,10 @@ components_vsm: [V, S]
 
 Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
 
-A creature in the area when you cast the spell must succeed on a Strength saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) by the entangling plants until the spell ends. A creature [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained) by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+A creature in the area when you cast the spell must succeed on a Strength saving throw or be [restrained](Rules/conditions.md#Restrained) by the entangling plants until the spell ends. A creature [restrained](Rules/conditions.md#Restrained) by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 
 When the spell ends, the conjured plants wilt away.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Druid](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-druid.md); [Ranger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Druid](Compendium/lists/list-spells-classes-druid.md); [Ranger](Compendium/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 238. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

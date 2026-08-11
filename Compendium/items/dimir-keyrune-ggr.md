@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/attunement/required
 - source/item/rarity/very-rare
-aliases: 
+aliases:
 - "Dimir Keyrune"
 item_type: 
 item_subtype: 
@@ -14,14 +15,14 @@ attunement: required
 ---
 # Dimir Keyrune
 *Wondrous item, very rare (requires attunement by a member of the Dimir guild)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/dimir-keyrune.webp#right)
+![](Compendium/items/img/dimir-keyrune.webp#right)
 
 
-This keyrune, carved from black stone accented with steel, resembles a stylized horror. On command, it transforms into an [intellect devourer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/intellect-devourer.md) that resembles the Dimir guild symbol, with six bladelike legs. The creature exists for up to 24 hours. During that time, it pursues only a single mission you give it—usually an assignment to take over someone's body, either to impersonate that person for a brief time or to extract secrets from their mind. When the mission is complete, the creature returns to you, reports its success, and reverts to its keyrune form.
+This keyrune, carved from black stone accented with steel, resembles a stylized horror. On command, it transforms into an [intellect devourer](Compendium/bestiary/aberration/intellect-devourer.md) that resembles the Dimir guild symbol, with six bladelike legs. The creature exists for up to 24 hours. During that time, it pursues only a single mission you give it—usually an assignment to take over someone's body, either to impersonate that person for a brief time or to extract secrets from their mind. When the mission is complete, the creature returns to you, reports its success, and reverts to its keyrune form.
 
-When you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within 5 feet of you, the keyrune transforms into a [intellect devourer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/intellect-devourer.md). If there isn't enough space for the creature, the keyrune doesn't transform.
+When you use an action to speak the item's command word and place the keyrune on the ground in an unoccupied space within 5 feet of you, the keyrune transforms into a [intellect devourer](Compendium/bestiary/aberration/intellect-devourer.md). If there isn't enough space for the creature, the keyrune doesn't transform.
 
-The creature is friendly to you, your companions, and other members of your guild (unless those guild members are hostile to you). It understands your languages and obeys your spoken commands. If you issue no commands, the creature takes the [Dodge](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Dodge) action and moves to avoid danger.
+The creature is friendly to you, your companions, and other members of your guild (unless those guild members are hostile to you). It understands your languages and obeys your spoken commands. If you issue no commands, the creature takes the [Dodge](Rules/actions.md#Dodge) action and moves to avoid danger.
 
 At the end of the duration, the creature reverts to its keyrune form. It reverts early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature reverts to its keyrune form, it can't transform again until 36 hours have passed.
 

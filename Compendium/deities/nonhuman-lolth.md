@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/nonhuman
 - source/domain/trickery
-aliases: 
-- Lolth
+aliases:
+- "Lolth"
 ---
 # Lolth
 *Source: Player's Handbook p. 296* 

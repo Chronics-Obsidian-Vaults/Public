@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/1-8
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Expeditious Messenger
+- "Expeditious Messenger"
 ---
-# [Expeditious Messenger](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/expeditious-messenger-erlw.md)
+# [Expeditious Messenger](Compendium/bestiary/construct/expeditious-messenger-erlw.md)
 *Source: Eberron: Rising from the Last War p. 293*  
 
 An expeditious messenger is a speedy flier, designed to quickly carry messages for its creator. Their speedy and efficient attitude makes expeditious messengers quite chatty, and they natter on as fast as they move.
@@ -44,15 +45,13 @@ Each kind of homunculus has a body constructed from different kinds of materials
   - !!int "7"
 "speed": "25 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](Rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "one language spoken by its creator"
 "cr": "1/8"
 "traits":
@@ -69,6 +68,6 @@ Each kind of homunculus has a body constructed from different kinds of materials
     "name": "Bite"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/expeditious-messenger-erlw.webp"
+"image": "Compendium/bestiary/construct/token/expeditious-messenger-erlw.webp"
 ```
 ^statblock

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/7
@@ -13,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Abomination
+- "Yuan-ti Abomination"
 ---
-# [Yuan-ti Abomination](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/yuan-ti-abomination.md)
+# [Yuan-ti Abomination](Compendium/bestiary/monstrosity/yuan-ti-abomination.md)
 *Source: Monster Manual p. 308*  
 
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
@@ -50,11 +51,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 > 
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 > 
-> **Dendar, the Night Serpent.** [Dendar's](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
+> **Dendar, the Night Serpent.** [Dendar's](Compendium/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
 > 
-> **Merrshaulk, Master of the Pit.** [Merrshaulk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
+> **Merrshaulk, Master of the Pit.** [Merrshaulk](Compendium/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
 > 
-> **Sseth, the Sibilant Death.** [Sseth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
+> **Sseth, the Sibilant Death.** [Sseth](Compendium/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
 ^serpent-gods
 
 > [!quote] A quote from From Masters of the Forbidden City by Codo Vidak  
@@ -82,22 +83,24 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   - !!int "18"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[scimitar](Compendium/items/scimitar.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Draconic"
 "cr": "7"
 "traits":
   - "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC\
       \ 15). The yuan-ti can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [animal friendship](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/animal-friendship.md)\
-      \ (snakes only)\n\n**3/day:** [suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/suggestion.md)\n\
-      \n**1/day:** [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md)"
+      \ components:\n\n**At will:** [animal friendship](Compendium/spells/animal-friendship.md)\
+      \ (snakes only)\n\n**3/day:** [suggestion](Compendium/spells/suggestion.md)\n\
+      \n**1/day:** [fear](Compendium/spells/fear.md)"
     "name": "Innate Spellcasting (Abomination Form Only)"
   - "desc": "The yuan-ti can use its action to polymorph into a Large snake, or back\
       \ into its true form. Its statistics are the same in each form. Any equipment\
@@ -115,8 +118,8 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
       \ (1d6 + 4) piercing damage plus 10 (3d6) poison damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) bludgeoning damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 14). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ (2d6 + 4) bludgeoning damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 14). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ and the yuan-ti can't constrict another target."
     "name": "Constrict"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
@@ -127,7 +130,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     "name": "Longbow (Abomination Form Only)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/yuan-ti-abomination.webp"
+"image": "Compendium/bestiary/monstrosity/token/yuan-ti-abomination.webp"
 ```
 ^statblock
 

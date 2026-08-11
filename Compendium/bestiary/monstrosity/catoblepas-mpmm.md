@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/5
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Catoblepas
+- "Catoblepas"
 ---
-# [Catoblepas](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/catoblepas-mpmm.md)
+# [Catoblepas](Compendium/bestiary/monstrosity/catoblepas-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129*  
 
 The catoblepas is as loathsome as the vile swamplands in which it lives, a conglomeration of bloated buffalo, dinosaur, warthog, and hippopotamus parts. Despite its ungainly physiology, a catoblepas resembles a natural animal in its behavior, ambling through its marshy home, munching choice vegetation, eating the occasional bit of carrion, and wallowing in mire. A catoblepas might be found with the one mate it chooses for life and, on occasion, with a calf. A catoblepas attacks anyone that moves too close, especially if guarding its young.
@@ -48,24 +49,23 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 15"
 "languages": ""
 "cr": "5"
 "traits":
   - "desc": "Any creature other than a catoblepas that starts its turn within 10 feet\
       \ of the catoblepas must succeed on a DC 16 Constitution saving throw or be\
-      \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ until the start of the creature's next turn. On a successful saving throw,\
-      \ the creature is immune to the Stench of any catoblepas for 1 hour."
+      \ [poisoned](Rules/conditions.md#Poisoned) until the start of the creature's\
+      \ next turn. On a successful saving throw, the creature is immune to the Stench\
+      \ of any catoblepas for 1 hour."
     "name": "Stench"
 "actions":
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 21\
       \ (5d6 + 4) bludgeoning damage, and the target must succeed on a DC 16 Constitution\
-      \ saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
-      \ until the start of the catoblepas's next turn."
+      \ saving throw or be [stunned](Rules/conditions.md#Stunned) until the start\
+      \ of the catoblepas's next turn."
     "name": "Tail"
   - "desc": "The catoblepas targets one creature it can see within 30 feet of it.\
       \ The target must make a DC 16 Constitution saving throw, taking 36 (8d8) necrotic\
@@ -76,7 +76,7 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/catoblepas-mpmm.webp"
+"image": "Compendium/bestiary/monstrosity/token/catoblepas-mpmm.webp"
 ```
 ^statblock
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/9
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Silver Dragon
+- "Young Silver Dragon"
 ---
-# [Young Silver Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/young-silver-dragon.md)
+# [Young Silver Dragon](Compendium/bestiary/dragon/young-silver-dragon.md)
 *Source: Monster Manual p. 118. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -112,17 +113,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "4"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+6"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "cold"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 30 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 30 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "9"
@@ -140,13 +140,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage\
       \ on a failed save, or half as much damage on a successful one.  \n- **Paralyzing\
       \ Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature\
-      \ in that area must succeed on a DC 17 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ in that area must succeed on a DC 17 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  "
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/young-silver-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/young-silver-dragon.webp"
 ```
 ^statblock
 

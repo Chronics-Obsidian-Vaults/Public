@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/dmg
 - source/item/attunement/required
 - source/item/rarity/very-rare
 - source/item/tier/major
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of Thunder and Lightning"
 item_type: weapon
 item_subtype: simple
@@ -16,12 +17,12 @@ attunement: required
 ---
 # Staff of Thunder and Lightning
 *Staff, weapon, major, very rare (requires attunement)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/staff-of-thunder-and-lightning.webp#right)
+![](Compendium/items/img/staff-of-thunder-and-lightning.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](Rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
@@ -32,7 +33,7 @@ When you hit with a melee attack using the staff, you can cause the target to ta
 
 ## Thunder
 
-When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned) until the end of your next turn.
+When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become [stunned](Rules/conditions.md#Stunned) until the end of your next turn.
 
 ## Lightning Strike
 
@@ -40,7 +41,7 @@ You can use an action to cause a bolt of lightning to leap from the staff's tip 
 
 ## Thunderclap
 
-You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes `2d6` thunder damage and becomes [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened) for 1 minute. On a successful save, a creature takes half damage and isn't [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened).
+You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes `2d6` thunder damage and becomes [deafened](Rules/conditions.md#Deafened) for 1 minute. On a successful save, a creature takes half damage and isn't [deafened](Rules/conditions.md#Deafened).
 
 ## Thunder and Lightning
 

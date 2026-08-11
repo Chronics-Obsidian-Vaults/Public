@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/tce
 - source/feat
 aliases:
-- Piercer
+- "Piercer"
 ---
 # Piercer
 *Source: Tasha's Cauldron of Everything p. 80*  

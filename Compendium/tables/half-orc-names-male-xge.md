@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Half-Orc Names – Male
+- "Half-Orc Names – Male"
 ---
 # Half-Orc Names – Male
 *Source: Xanathar's Guide to Everything p. 179* 

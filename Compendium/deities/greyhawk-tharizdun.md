@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/phb
 - source/deity/greyhawk
 - source/domain/trickery
-aliases: 
-- Tharizdun
+aliases:
+- "Tharizdun"
 ---
 # Tharizdun
 *Source: Player's Handbook p. 295* 

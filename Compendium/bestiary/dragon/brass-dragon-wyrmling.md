@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brass Dragon Wyrmling
+- "Brass Dragon Wyrmling"
 ---
-# [Brass Dragon Wyrmling](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/brass-dragon-wyrmling.md)
+# [Brass Dragon Wyrmling](Compendium/bestiary/dragon/brass-dragon-wyrmling.md)
 *Source: Monster Manual p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -104,13 +105,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "2"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_immunities": "fire"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 10 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 10 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "1"
@@ -123,12 +123,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire\
       \ damage on a failed save, or half as much damage on a successful one.  \n-\
       \ **Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature\
-      \ in that area must succeed on a DC 11 Constitution saving throw or fall [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
+      \ in that area must succeed on a DC 11 Constitution saving throw or fall [unconscious](Rules/conditions.md#Unconscious)\
       \ for 1 minute. This effect ends for a creature if the creature takes damage\
       \ or someone uses an action to wake it.  "
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/brass-dragon-wyrmling.webp"
+"image": "Compendium/bestiary/dragon/token/brass-dragon-wyrmling.webp"
 ```
 ^statblock

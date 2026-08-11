@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ggr
 - source/monster/cr/1
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thought Spy
+- "Thought Spy"
 ---
-# [Thought Spy](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/thought-spy-ggr.md)
+# [Thought Spy](Compendium/bestiary/humanoid/thought-spy-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 233*  
 
 Thought spies form the backbone of House Dimir's covert operations. They are trained in stealth and infiltration, tactics that they supplement with rigorously developed mental abilities. To ensure that no secrets slip through Dimir's fingers, they infiltrate rival guilds. In addition to traditional means of gathering intelligence, thought spies use their magic to spy on the thoughts of their targets.
@@ -23,7 +24,7 @@ Thought spies form the backbone of House Dimir's covert operations. They are tra
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "2"
@@ -36,34 +37,35 @@ Thought spies form the backbone of House Dimir's covert operations. They are tra
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+3"
-  - "name": "[Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)"
+  - "name": "[Investigation](Rules/skills.md#Investigation)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+4"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 30 ft., passive Perception 13"
+"gear":
+  - "[dagger](Compendium/items/dagger.md)"
+  - "[rapier](Compendium/items/rapier.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 30 ft., passive Perception 13"
 "languages": "Common plus any one language"
 "cr": "1"
 "traits":
   - "desc": "The thought spy's innate spellcasting ability is Intelligence (spell\
       \ save DC 13). The thought spy can innately cast the following spells, requiring\
-      \ no components:\n\n**At will:** [charm person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/charm-person.md),\
-      \ [disguise self](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/disguise-self.md),\
-      \ [encode thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/encode-thoughts-ggr.md)\
-      \ (see chapter 2)\n\n**1/day each:** [blur](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/blur.md),\
-      \ [detect thoughts](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/detect-thoughts.md),\
-      \ [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md)"
+      \ no components:\n\n**At will:** [charm person](Compendium/spells/charm-person.md),\
+      \ [disguise self](Compendium/spells/disguise-self.md), [encode thoughts](Compendium/spells/encode-thoughts-ggr.md)\
+      \ (see chapter 2)\n\n**1/day each:** [blur](Compendium/spells/blur.md), [detect\
+      \ thoughts](Compendium/spells/detect-thoughts.md), [gaseous form](Compendium/spells/gaseous-form.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "On each of its turns, the thought spy can use a bonus action to take\
-      \ the Dash, Disengage, or Hide action."
+      \ the [Dash](Rules/actions.md#Dash), [Disengage](Rules/actions.md#Disengage),\
+      \ or [Hide](Rules/actions.md#Hide) action."
     "name": "Cunning Action"
 "actions":
   - "desc": "The thought spy makes two melee attacks, or it makes three ranged attacks\
@@ -77,6 +79,6 @@ Thought spies form the backbone of House Dimir's covert operations. They are tra
     "name": "Rapier"
 "source":
   - "GGR"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/thought-spy-ggr.webp"
+"image": "Compendium/bestiary/humanoid/token/thought-spy-ggr.webp"
 ```
 ^statblock

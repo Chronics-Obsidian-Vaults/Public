@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/tabaxi
 aliases:
-- Tabaxi
+- "Tabaxi"
 ---
 # Tabaxi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 33*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/tabaxi.webp#right)
+![](Compendium/races/img/tabaxi.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -31,7 +32,7 @@ You can use your claws to make unarmed strikes. When you hit with them, the stri
 
 ### Cat's Talent
 
-You have proficiency in the [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception) and [Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth) skills.
+You have proficiency in the [Perception](Rules/skills.md#Perception) and [Stealth](Rules/skills.md#Stealth) skills.
 
 ### Darkvision
 

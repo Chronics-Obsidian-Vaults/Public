@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/10
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Githzerai Enlightened
+- "Githzerai Enlightened"
 ---
-# [Githzerai Enlightened](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/githzerai-enlightened-mpmm.md)
+# [Githzerai Enlightened](Compendium/bestiary/humanoid/githzerai-enlightened-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208*  
 
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
@@ -48,11 +49,11 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
   - "intelligence": !!int "7"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Gith"
@@ -76,10 +77,9 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
     "name": "Temporal Strike (Recharge 6)"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 16):\n\n**At will:**\
-      \ [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md)\
-      \ (the hand is invisible)\n\n**3/day:** [see invisibility](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/see-invisibility.md)\n\
-      \n**1/day each:** [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md),\
-      \ [teleport](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/teleport.md)"
+      \ [mage hand](Compendium/spells/mage-hand.md) (the hand is invisible)\n\n**3/day:**\
+      \ [see invisibility](Compendium/spells/see-invisibility.md)\n\n**1/day each:**\
+      \ [plane shift](Compendium/spells/plane-shift.md), [teleport](Compendium/spells/teleport.md)"
     "name": "Spellcasting (Psionics)"
 "reactions":
   - "desc": "When the githzerai falls, it reduces any falling damage it takes by 50."
@@ -87,7 +87,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/githzerai-enlightened-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/githzerai-enlightened-mpmm.webp"
 ```
 ^statblock
 

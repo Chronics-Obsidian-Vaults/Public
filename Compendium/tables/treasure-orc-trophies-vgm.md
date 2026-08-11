@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/vgm
 aliases:
-- Treasure; Orc Trophies
+- "Treasure; Orc Trophies"
 ---
 # Treasure; Orc Trophies
 *Source: Volo's Guide to Monsters p. 90* 
@@ -23,7 +23,7 @@ aliases:
 | 7 | `1d8` eyeballs |
 | 8 | Flayed elf skin |
 | 9 | Dire wolf hide |
-| 10 | [Random trinket](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/trinket.md)* |
+| 10 | [Random trinket](Compendium/items/trinket.md)* |
 ^orc-trophies
 
 * Roll on the Trinkets table in chapter 5 of the Player's Handbook.

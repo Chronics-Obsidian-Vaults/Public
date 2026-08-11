@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/triton
 aliases:
-- Triton
+- "Triton"
 ---
 # Triton
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 35*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/triton.webp#right)
+![](Compendium/races/img/triton.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -28,7 +29,7 @@ You can breathe air and water.
 
 ### Control Air and Water
 
-You can cast [fog cloud](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fog-cloud.md) with this trait. Starting at 3rd level, you can cast the [gust of wind](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gust-of-wind.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/water-walk.md) spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
+You can cast [fog cloud](Compendium/spells/fog-cloud.md) with this trait. Starting at 3rd level, you can cast the [gust of wind](Compendium/spells/gust-of-wind.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](Compendium/spells/water-walk.md) spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/6
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- White Abishai
+- "White Abishai"
 ---
-# [White Abishai](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\fiend/white-abishai-mpmm.md)
+# [White Abishai](Compendium/bestiary/fiend/white-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41, Mordenkainen's Tome of Foes p. 163*  
 
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
@@ -50,13 +51,14 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "6"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](Rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -82,12 +84,12 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "In response to taking damage, the abishai makes one Bite attack against\
       \ a random creature within 5 feet of it. If no creature is within reach, the\
       \ abishai moves up to half its speed toward an enemy it can see, without provoking\
-      \ [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)."
+      \ [opportunity attacks](Rules/actions.md#Opportunity%20Attack)."
     "name": "Vicious Reprisal"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/fiend/token/white-abishai-mpmm.webp"
+"image": "Compendium/bestiary/fiend/token/white-abishai-mpmm.webp"
 ```
 ^statblock
 

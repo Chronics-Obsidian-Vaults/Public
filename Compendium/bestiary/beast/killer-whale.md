@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Killer Whale
+- "Killer Whale"
 ---
-# [Killer Whale](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\beast/killer-whale.md)
-*Source: Monster Manual p. 331, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Killer Whale](Compendium/bestiary/beast/killer-whale.md)
+*Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Killer Whale"
@@ -34,18 +35,17 @@ aliases:
   - !!int "7"
 "speed": "swim 60 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 120 ft., passive Perception 13"
+"senses": "[blindsight](Rules/senses.md#Blindsight) 120 ft., passive Perception 13"
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "The whale can't use its blindsight while [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened)."
+  - "desc": "The whale can't use its blindsight while [deafened](Rules/conditions.md#Deafened)."
     "name": "Echolocation"
   - "desc": "The whale can hold its breath for 30 minutes."
     "name": "Hold Breath"
-  - "desc": "The whale has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The whale has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing."
     "name": "Keen Hearing"
 "actions":
@@ -54,9 +54,7 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/beast/token/killer-whale.webp"
+"image": "Compendium/bestiary/beast/token/killer-whale.webp"
 ```
 ^statblock
 

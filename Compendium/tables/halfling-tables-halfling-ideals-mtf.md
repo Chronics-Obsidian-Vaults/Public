@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/mtf
 aliases:
-- Halfling Tables; Halfling Ideals
+- "Halfling Tables; Halfling Ideals"
 ---
 # Halfling Tables; Halfling Ideals
 *Source: Mordenkainen's Tome of Foes p. 105* 

@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/bmt
 - source/reward/blessing
 aliases:
-- Blessing of Lonely Genius
+- "Blessing of Lonely Genius"
 ---
 # Blessing of Lonely Genius
 

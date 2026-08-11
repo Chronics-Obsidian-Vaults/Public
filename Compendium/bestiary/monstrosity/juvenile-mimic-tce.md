@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/tce
 - source/monster/cr/0
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Juvenile Mimic
+- "Juvenile Mimic"
 ---
-# [Juvenile Mimic](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/juvenile-mimic-tce.md)
+# [Juvenile Mimic](Compendium/bestiary/monstrosity/juvenile-mimic-tce.md)
 *Source: Tasha's Cauldron of Everything p. 167*  
 
 ```statblock
@@ -33,12 +34,11 @@ aliases:
   - !!int "10"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "acid"
-"condition_immunities": "[prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[prone](Rules/conditions.md#Prone)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common, Undercommon, telepathy 120 ft."
 "cr": "0"
 "traits":
@@ -58,6 +58,6 @@ aliases:
     "name": "Shape-Shift"
 "source":
   - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/juvenile-mimic-tce.webp"
+"image": "Compendium/bestiary/monstrosity/token/juvenile-mimic-tce.webp"
 ```
 ^statblock

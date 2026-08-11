@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/14
@@ -12,12 +13,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Githyanki Supreme Commander
+- "Githyanki Supreme Commander"
 ---
-# [Githyanki Supreme Commander](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/githyanki-supreme-commander-mpmm.md)
+# [Githyanki Supreme Commander](Compendium/bestiary/humanoid/githyanki-supreme-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206*  
 
-Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-red-dragon.md) into battle.
+Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](Compendium/bestiary/dragon/adult-red-dragon.md) into battle.
 
 ## Githyanki
 
@@ -30,7 +31,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "subtype": "gith"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate](Compendium/items/plate-armor.md)"
 "hp": !!int "187"
 "hit_dice": "22d8 + 88"
 "modifier": !!int "3"
@@ -47,9 +48,9 @@ Githyanki descend from an ancient people who were also the progenitors of githze
   - "intelligence": !!int "8"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+9"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Gith"
@@ -62,19 +63,17 @@ Githyanki descend from an ancient people who were also the progenitors of githze
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit\
-      \ against a target in an astral body (as with the [astral projection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/astral-projection.md)\
+      \ against a target in an astral body (as with the [astral projection](Compendium/spells/astral-projection.md)\
       \ spell), the githyanki can cut the silvery cord that tethers the target to\
       \ its material body, instead of dealing damage."
     "name": "Silver Greatsword"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **At will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md)\
-      \ (the hand is invisible)\n\n**3/day each:** [levitate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/levitate.md)\
-      \ (self only), [nondetection](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/nondetection.md)\
-      \ (self only)\n\n**1/day each:** [Bigby's hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bigbys-hand.md),\
-      \ [mass suggestion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mass-suggestion.md),\
-      \ [plane shift](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/plane-shift.md),\
-      \ [telekinesis](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/telekinesis.md)"
+      **At will:** [mage hand](Compendium/spells/mage-hand.md) (the hand is invisible)\n\
+      \n**3/day each:** [levitate](Compendium/spells/levitate.md) (self only), [nondetection](Compendium/spells/nondetection.md)\
+      \ (self only)\n\n**1/day each:** [Bigby's hand](Compendium/spells/bigbys-hand.md),\
+      \ [mass suggestion](Compendium/spells/mass-suggestion.md), [plane shift](Compendium/spells/plane-shift.md),\
+      \ [telekinesis](Compendium/spells/telekinesis.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The githyanki teleports, along with any equipment it is wearing or carrying,\
@@ -99,7 +98,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/githyanki-supreme-commander-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/githyanki-supreme-commander-mpmm.webp"
 ```
 ^statblock
 

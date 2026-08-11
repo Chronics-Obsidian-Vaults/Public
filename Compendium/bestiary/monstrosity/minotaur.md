@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/3
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Minotaur
+- "Minotaur"
 ---
-# [Minotaur](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/minotaur.md)
-*Source: Monster Manual p. 223, Eberron: Rising from the Last War, Explorer's Guide to Wildemount, Mythic Odysseys of Theros. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Minotaur](Compendium/bestiary/monstrosity/minotaur.md)
+*Source: Monster Manual p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
 
@@ -54,17 +55,18 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
   - !!int "9"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 17"
+"gear":
+  - "[greataxe](Compendium/items/greataxe.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "3"
 "traits":
   - "desc": "If the minotaur moves at least 10 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
       \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-      \ saving throw or be pushed up to 10 feet away and knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ saving throw or be pushed up to 10 feet away and knocked [prone](Rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The minotaur can perfectly recall any path it has traveled."
     "name": "Labyrinthine Recall"
@@ -81,10 +83,7 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
     "name": "Gore"
 "source":
   - "MM"
-  - "ERLW"
-  - "EGW"
-  - "MOT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/minotaur.webp"
+"image": "Compendium/bestiary/monstrosity/token/minotaur.webp"
 ```
 ^statblock
 

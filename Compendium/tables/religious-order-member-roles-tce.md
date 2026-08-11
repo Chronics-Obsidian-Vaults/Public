@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Religious Order Member Roles
+- "Religious Order Member Roles"
 ---
 # Religious Order Member Roles
 *Source: Tasha's Cauldron of Everything p. 99* 
@@ -14,10 +14,10 @@ aliases:
 
 | Role | Backgrounds |
 |------|-------------|
-| Councilor | [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/acolyte.md), [Folk Hero](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/folk-hero.md), [Hermit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/hermit.md), [Sage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sage.md), [Urchin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/urchin.md) |
-| Defender | [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/acolyte.md), [Criminal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/criminal.md), [Folk Hero](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/folk-hero.md), [Outlander](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/outlander.md), [Soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/soldier.md) |
-| Ascetic | [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/acolyte.md), [Entertainer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/entertainer.md), [Hermit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/hermit.md), [Sage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sage.md), [Soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/soldier.md) |
-| Inquisitor | [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/acolyte.md), [Criminal](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/criminal.md), [Noble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/noble.md), [Sailor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sailor.md), [Soldier](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/soldier.md) |
-| Emissary | [Acolyte](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/acolyte.md), [Charlatan](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/charlatan.md), [Entertainer](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/entertainer.md), [Noble](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/noble.md), [Sailor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/sailor.md) |
+| Councilor | [Acolyte](Compendium/backgrounds/acolyte.md), [Folk Hero](Compendium/backgrounds/folk-hero.md), [Hermit](Compendium/backgrounds/hermit.md), [Sage](Compendium/backgrounds/sage.md), [Urchin](Compendium/backgrounds/urchin.md) |
+| Defender | [Acolyte](Compendium/backgrounds/acolyte.md), [Criminal](Compendium/backgrounds/criminal.md), [Folk Hero](Compendium/backgrounds/folk-hero.md), [Outlander](Compendium/backgrounds/outlander.md), [Soldier](Compendium/backgrounds/soldier.md) |
+| Ascetic | [Acolyte](Compendium/backgrounds/acolyte.md), [Entertainer](Compendium/backgrounds/entertainer.md), [Hermit](Compendium/backgrounds/hermit.md), [Sage](Compendium/backgrounds/sage.md), [Soldier](Compendium/backgrounds/soldier.md) |
+| Inquisitor | [Acolyte](Compendium/backgrounds/acolyte.md), [Criminal](Compendium/backgrounds/criminal.md), [Noble](Compendium/backgrounds/noble.md), [Sailor](Compendium/backgrounds/sailor.md), [Soldier](Compendium/backgrounds/soldier.md) |
+| Emissary | [Acolyte](Compendium/backgrounds/acolyte.md), [Charlatan](Compendium/backgrounds/charlatan.md), [Entertainer](Compendium/backgrounds/entertainer.md), [Noble](Compendium/backgrounds/noble.md), [Sailor](Compendium/backgrounds/sailor.md) |
 | Chosen One | Any |
 ^religious-order-member-roles

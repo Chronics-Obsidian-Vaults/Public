@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Downtime Activity: Crafting an Item
+- "Downtime Activity: Crafting an Item"
 ---
 # Downtime Activity: Crafting an Item
 *Source: Xanathar's Guide to Everything p. 128* 
@@ -22,10 +22,10 @@ A character needs to be proficient with the tools needed to craft an item and ha
 
 | Proficiency | Items |
 |-------------|-------|
-| [Herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md) | Antitoxin, [potion of healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-healing.md) |
-| [Leatherworker's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leatherworkers-tools.md) | Leather armor, boots |
-| [Smith's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/smiths-tools.md) | Armor, weapons |
-| [Weaver's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/weavers-tools.md) | Cloaks, robes |
+| [Herbalism kit](Compendium/items/herbalism-kit.md) | Antitoxin, [potion of healing](Compendium/items/potion-of-healing.md) |
+| [Leatherworker's tools](Compendium/items/leatherworkers-tools.md) | Leather armor, boots |
+| [Smith's tools](Compendium/items/smiths-tools.md) | Armor, weapons |
+| [Weaver's tools](Compendium/items/weavers-tools.md) | Cloaks, robes |
 ^proficiency-items
 
 If all the above requirements are met, the result of the process is an item of the desired sort. A character can sell an item crafted in this way at its listed price.
@@ -34,7 +34,7 @@ If all the above requirements are met, the result of the process is an item of t
 
 Creating a magic item requires more than just time, effort, and materials. It is a long-term process that involves one or more adventures to track down rare materials and the lore needed to create the item.
 
-Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "Brewing Potions of Healing" later in this section and the "Scribing a [Spell Scroll](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spell-scroll.md)" section, below.
+Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "Brewing Potions of Healing" later in this section and the "Scribing a [Spell Scroll](Compendium/items/spell-scroll.md)" section, below.
 
 To start with, a character needs a formula for a magic item in order to create it. The formula is like a recipe. It lists the materials needed and steps required to make the item.
 
@@ -53,13 +53,13 @@ The Magic Item Ingredients table suggests the challenge rating of a creature tha
 | Legendary | 19+ |
 ^magic-item-ingredients
 
-If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating [mariner's armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/mariners-armor.md) might require the essence of a water weird. Crafting a [staff of charming](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/staff-of-charming.md) might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a [staff of power](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/staff-of-power.md) might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
+If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating [mariner's armor](Compendium/items/mariners-armor.md) might require the essence of a water weird. Crafting a [staff of charming](Compendium/items/staff-of-charming.md) might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a [staff of power](Compendium/items/staff-of-power.md) might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
 
 In addition to facing a specific creature, creating an item comes with a gold piece cost covering other materials, tools, and so on, based on the item's rarity. Those values, as well as the time a character needs to work in order to complete the item, are shown on the Magic Item Crafting Time and Cost table. Halve the listed price and creation time for any consumable items.
 
-![Crafting Magic Items; Magic Item Crafting Time and Cost](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/crafting-magic-items-magic-item-crafting-time-and-cost-xge.md)
+![Crafting Magic Items; Magic Item Crafting Time and Cost](Compendium/tables/crafting-magic-items-magic-item-crafting-time-and-cost-xge.md)
 
-To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana) skill.
+To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [Arcana](Rules/skills.md#Arcana) skill.
 
 If all the above requirements are met, the result of the process is a magic item of the desired sort.
 
@@ -67,11 +67,11 @@ If all the above requirements are met, the result of the process is a magic item
 
 Most of the complications involved in creating something, especially a magic item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on a magic item: there's a 10 percent chance for every five workweeks spent on crafting an item that a complication occurs. The Crafting Complications table provides examples of what might happen.
 
-![Crafting Complications](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/crafting-complications-xge.md)
+![Crafting Complications](Compendium/tables/crafting-complications-xge.md)
 
 ## Brewing Potions of Healing
 
-Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the [herbalism kit](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/herbalism-kit.md) can create these potions. The times and costs for doing so are summarized on the [Potion of Healing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/potion-of-healing.md) Creation table.
+Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the [herbalism kit](Compendium/items/herbalism-kit.md) can create these potions. The times and costs for doing so are summarized on the [Potion of Healing](Compendium/items/potion-of-healing.md) Creation table.
 
 **Potion of Healing Creation**
 

@@ -8,15 +8,15 @@ tags:
 - source/domain/knowledge
 - source/domain/order
 - source/domain/trickery
-aliases: 
-- Asmodeus
-- The Lord of the Ninth
-- The Cloven
-- Old Hoof and Horn
+aliases:
+- "Asmodeus"
+- "The Lord of the Ninth"
+- "The Cloven"
+- "Old Hoof and Horn"
 ---
 # Asmodeus
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/deities/img/scag-symbol-of-asmodeus.webp#symbol)
+![](Compendium/deities/img/scag-symbol-of-asmodeus.webp#symbol)
 
 - **Alternate Names**: The Lord of the Ninth, The Cloven, Old Hoof and Horn
 - **Alignment**: Lawful Evil

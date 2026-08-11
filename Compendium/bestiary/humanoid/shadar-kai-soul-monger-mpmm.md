@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/11
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadar-kai Soul Monger
+- "Shadar-kai Soul Monger"
 ---
-# [Shadar-kai Soul Monger](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/shadar-kai-soul-monger-mpmm.md)
+# [Shadar-kai Soul Monger](Compendium/bestiary/humanoid/shadar-kai-soul-monger-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226*  
 
 Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
@@ -41,7 +42,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "subtype": "elf"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "136"
 "hit_dice": "21d8 + 42"
 "modifier": !!int "3"
@@ -58,18 +59,16 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
   - "wisdom": !!int "7"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+7"
 "damage_immunities": "necrotic, psychic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 17"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 17"
 "languages": "Common, Elvish"
 "cr": "11"
 "traits":
-  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put it to sleep."
     "name": "Fey Ancestry"
   - "desc": "The shadar-kai has advantage on saving throws against spells and other\
@@ -94,21 +93,20 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     "name": "Shadow Dagger"
   - "desc": "The shadar-kai emits weariness in a 60-foot cube. Each creature in that\
       \ area must make a DC 16 Constitution saving throw. On a failed save, a creature\
-      \ takes 45 (10d8) psychic damage and suffers 1 level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion).\
+      \ takes 45 (10d8) psychic damage and suffers 1 level of [exhaustion](Rules/conditions.md#Exhaustion).\
       \ On a successful save, it takes half as much damage and doesn't gain a level\
-      \ of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)."
+      \ of [exhaustion](Rules/conditions.md#Exhaustion)."
     "name": "Wave of Weariness (Recharge 4-6)"
   - "desc": "The shadar-kai casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\n**1/day each:** [bestow curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bestow-curse.md),\
-      \ [finger of death](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/finger-of-death.md),\
-      \ [gaseous form](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gaseous-form.md),\
-      \ [seeming](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/seeming.md)"
+      \ DC 16):\n\n**1/day each:** [bestow curse](Compendium/spells/bestow-curse.md),\
+      \ [finger of death](Compendium/spells/finger-of-death.md), [gaseous form](Compendium/spells/gaseous-form.md),\
+      \ [seeming](Compendium/spells/seeming.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/shadar-kai-soul-monger-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/shadar-kai-soul-monger-mpmm.webp"
 ```
 ^statblock
 

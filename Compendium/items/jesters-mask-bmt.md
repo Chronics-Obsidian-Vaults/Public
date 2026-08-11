@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/bmt
 - source/item/attunement/required
 - source/item/rarity/legendary
-aliases: 
+aliases:
 - "Jester's Mask"
 item_type: 
 item_subtype: 
@@ -14,7 +15,7 @@ attunement: required
 ---
 # Jester's Mask
 *Wondrous item, legendary (requires attunement by a bard, sorcerer, or warlock)*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/img/jesters-mask.webp#right)
+![](Compendium/items/img/jesters-mask.webp#right)
 
 
 This colorful, harlequin domino mask is edged with pearls. While wearing this mask, you gain the following benefits:

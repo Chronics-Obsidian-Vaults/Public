@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Salamander
+- "Salamander"
 ---
-# [Salamander](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/salamander.md)
-*Source: Monster Manual p. 266, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Salamander](Compendium/bestiary/elemental/salamander.md)
+*Source: Monster Manual p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
 
@@ -64,8 +65,9 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 "damage_vulnerabilities": "cold"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"gear":
+  - "[spear](Compendium/items/spear.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Ignan"
 "cr": "5"
 "traits":
@@ -84,15 +86,14 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
       \ damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage."
     "name": "Spear"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled)\
-      \ (escape DC 14). Until this grapple ends, the target is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
+      \ (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is [grappled](Rules/conditions.md#Grappled)\
+      \ (escape DC 14). Until this grapple ends, the target is [restrained](Rules/conditions.md#Restrained),\
       \ the salamander can automatically hit the target with its tail, and the salamander\
       \ can't make tail attacks against other targets."
     "name": "Tail"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/salamander.webp"
+"image": "Compendium/bestiary/elemental/token/salamander.webp"
 ```
 ^statblock
 

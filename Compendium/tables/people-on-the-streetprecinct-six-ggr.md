@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ggr
 aliases:
-- People on the Street—Precinct Six
+- "People on the Street—Precinct Six"
 ---
 # People on the Street—Precinct Six
 *Source: Guildmasters' Guide to Ravnica p. 121* 
@@ -19,7 +19,7 @@ aliases:
 | 3 | Devkarin elf (dark elf), on an errand |
 | 4 | Goblin cutpurse, looking for an easy mark |
 | 5 | Laborer, ready to head to the tavern |
-| 6 | Merchant, looking for a [Rakdos](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rakdos-ggr.md) club |
+| 6 | Merchant, looking for a [Rakdos](Compendium/bestiary/npc/rakdos-ggr.md) club |
 | 7 | Metalsmith, grimy from a long day's work |
 | 8 | Performer, with a child apprentice |
 | 9 | Shipwright, out buying some supplies |

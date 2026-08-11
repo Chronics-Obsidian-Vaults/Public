@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/9
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadar-kai Gloom Weaver
+- "Shadar-kai Gloom Weaver"
 ---
-# [Shadar-kai Gloom Weaver](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/shadar-kai-gloom-weaver-mpmm.md)
+# [Shadar-kai Gloom Weaver](Compendium/bestiary/humanoid/shadar-kai-gloom-weaver-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*  
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
@@ -56,17 +57,15 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
   - "dexterity": !!int "8"
   - "constitution": !!int "6"
 "damage_immunities": "necrotic"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 11"
 "languages": "Common, Elvish"
 "cr": "9"
 "traits":
   - "desc": "Beasts and Humanoids (except elves) have disadvantage on saving throws\
       \ while within 10 feet of the shadar-kai."
     "name": "Burden of Time"
-  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put it to sleep."
     "name": "Fey Ancestry"
 "actions":
@@ -80,29 +79,24 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     "name": "Shadow Spear"
   - "desc": "The shadar-kai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [arcane eye](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-eye.md),\
-      \ [mage armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-armor.md),\
-      \ [minor illusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/minor-illusion.md),\
-      \ [prestidigitation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/prestidigitation.md),\
-      \ [speak with dead](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/speak-with-dead.md)\n\
-      \n**1/day each:** [arcane gate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-gate.md),\
-      \ [bane](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/bane.md),\
-      \ [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md),\
-      \ [major image](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/major-image.md),\
-      \ [true seeing](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/true-seeing.md)"
+      \n**At will:** [arcane eye](Compendium/spells/arcane-eye.md), [mage armor](Compendium/spells/mage-armor.md),\
+      \ [minor illusion](Compendium/spells/minor-illusion.md), [prestidigitation](Compendium/spells/prestidigitation.md),\
+      \ [speak with dead](Compendium/spells/speak-with-dead.md)\n\n**1/day each:**\
+      \ [arcane gate](Compendium/spells/arcane-gate.md), [bane](Compendium/spells/bane.md),\
+      \ [confusion](Compendium/spells/confusion.md), [darkness](Compendium/spells/darkness.md),\
+      \ [fear](Compendium/spells/fear.md), [major image](Compendium/spells/major-image.md),\
+      \ [true seeing](Compendium/spells/true-seeing.md)"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "When the shadar-kai takes damage, it turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "When the shadar-kai takes damage, it turns [invisible](Rules/conditions.md#Invisible)\
       \ and teleports, along with any equipment it is wearing or carrying, up to 60\
-      \ feet to an unoccupied space it can see. It remains [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+      \ feet to an unoccupied space it can see. It remains [invisible](Rules/conditions.md#Invisible)\
       \ until the start of its next turn or until it attacks or casts a spell."
     "name": "Misty Escape (Recharge 6-6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/shadar-kai-gloom-weaver-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/shadar-kai-gloom-weaver-mpmm.webp"
 ```
 ^statblock
 

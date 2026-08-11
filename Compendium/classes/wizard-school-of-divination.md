@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/subclass/wizard/divination
 aliases:
-- School of Divination
+- "School of Divination"
 ---
 # School of Divination
 *[Wizard](./wizard.md): Arcane Tradition*  
@@ -43,12 +43,9 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### School of Divination (Level 2)
-
 The counsel of a diviner is sought by royalty and commoners alike, for all seek a clearer understanding of the past, present, and future. As a diviner, you strive to part the veils of space, time, and consciousness so that you can see clearly. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+
+## Subclass Features
 
 ### Divination Savant (Level 2)
 
@@ -66,12 +63,14 @@ Beginning at 6th level, casting divination spells comes so easily to you that it
 
 ### The Third Eye (Level 10)
 
-Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) or you take a short or long rest. You can't use the feature again until you finish a rest.
+Starting at 10th level, you can use your action to increase your powers of perception. When you do so, choose one of the following benefits, which lasts until you are [incapacitated](Rules/conditions.md#Incapacitated) or you take a short or long rest. You can't use the feature again until you finish a rest.
 
-- **Darkvision.** You gain [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision) out to a range of 60 feet.  
+Options:
+
+- **Darkvision.** You gain [darkvision](Rules/senses.md#Darkvision) out to a range of 60 feet.  
 - **Ethereal Sight.** You can see into the Ethereal Plane within 60 feet of you.  
 - **Greater Comprehension.** You can read any language.  
-- **See Invisibility.** You can see [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible) creatures and objects within 10 feet of you that are within line of sight.  
+- **See Invisibility.** You can see [invisible](Rules/conditions.md#Invisible) creatures and objects within 10 feet of you that are within line of sight.  
 
 ### Greater Portent (Level 14)
 

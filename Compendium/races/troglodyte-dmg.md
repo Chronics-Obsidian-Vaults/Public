@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/troglodyte
 aliases:
-- Troglodyte
+- "Troglodyte"
 ---
 # Troglodyte
 *Source: Dungeon Master's Guide p. 282*  
@@ -19,15 +20,15 @@ aliases:
 
 ### Chameleon Skin
 
-You have advantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)) checks made to hide.
+You have advantage on Dexterity ([Stealth](Rules/skills.md#Stealth)) checks made to hide.
 
 ### Stench
 
-Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
 
 ### Sunlight Sensitivity
 
-While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)) checks that rely on sight.
+While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on sight.
 
 ### Natural Armor
 

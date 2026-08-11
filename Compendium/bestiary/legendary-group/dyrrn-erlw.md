@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/erlw
 - source/monster/legendary-group
 aliases:
-- Dyrrn
+- "Dyrrn"
 ---
 # Dyrrn
 
@@ -16,7 +16,7 @@ _Source: Eberron: Rising from the Last War_
 While within the Palace of Sinew, Dyrrn can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), Dyrrn can take a lair action to cause one of the following effects; it can't use the same effect two rounds in a row:
 
 - Dyrrn uses its Corruption action.  
-- A 30-foot-square area of ground within 120 feet of Dyrrn sprouts tentacles until initiative count 20 on the next round. Any creature that starts or ends its turn in the area must succeed on a DC 23 Strength saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained). A creature can escape the tentacles with a successful DC 23 Strength ([Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Acrobatics)) check as an action.  
+- A 30-foot-square area of ground within 120 feet of Dyrrn sprouts tentacles until initiative count 20 on the next round. Any creature that starts or ends its turn in the area must succeed on a DC 23 Strength saving throw or be [restrained](Rules/conditions.md#Restrained). A creature can escape the tentacles with a successful DC 23 Strength ([Athletics](Rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Rules/skills.md#Acrobatics)) check as an action.  
 - Each creature of Dyrrn's choice that it can see within 120 feet of it must succeed on a DC 23 Wisdom saving throw or take 26 (`4d12`) psychic damage. Unless the target has immunity to psychic damage, its Intelligence score is reduced by `1d4` each time it fails the saving throw for this lair action. The target dies if its Intelligence score is reduced to 0. The reduction lasts until the target finishes a short or long rest.  
 
 ## Regional Effects

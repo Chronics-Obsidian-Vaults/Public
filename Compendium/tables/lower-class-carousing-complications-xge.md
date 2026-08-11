@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/xge
 aliases:
-- Lower-Class Carousing Complications
+- "Lower-Class Carousing Complications"
 ---
 # Lower-Class Carousing Complications
 *Source: Xanathar's Guide to Everything p. 128* 

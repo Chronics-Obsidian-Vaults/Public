@@ -1,12 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/phb
 - source/item/rarity/none
 - source/item/weapon/ranged
 - source/item/weapon/simple
-aliases: 
+aliases:
 - "Shortbow"
 item_type: weapon
 item_subtype: "ranged, simple"
@@ -19,7 +20,7 @@ attunement: none
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Ammunition), [Two-Handed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](Rules/item-properties.md#Ammunition), [Two-Handed](Rules/item-properties.md#Two-Handed)
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

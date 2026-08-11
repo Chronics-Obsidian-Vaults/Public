@@ -1,13 +1,14 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/ggr
 - source/item/armor/heavy
 - source/item/armor/medium
 - source/item/rarity/rare
 - source/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Mizzium Armor"
 - "Mizzium Breastplate"
 - "Mizzium Chain Mail"

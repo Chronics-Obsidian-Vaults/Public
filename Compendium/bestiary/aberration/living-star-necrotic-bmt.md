@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/bmt
 - source/monster/cr/3
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Star (Necrotic)
+- "Living Star (Necrotic)"
 ---
-# [Living Star (Necrotic)](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/living-star-necrotic-bmt.md)
+# [Living Star (Necrotic)](Compendium/bestiary/aberration/living-star-necrotic-bmt.md)
 *Source: The Book of Many Things p. 180*  
 
 ```statblock
@@ -36,18 +37,17 @@ aliases:
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Arcana)"
+  - "name": "[Arcana](Rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+6"
-  - "name": "[Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight)"
+  - "name": "[Insight](Rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
 "damage_immunities": "radiant"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 15"
 "languages": "all"
 "cr": "3"
 "traits":
@@ -71,9 +71,8 @@ aliases:
     "name": "Prophetic Blessing"
   - "desc": "The living portent casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability:\n\n**2/day:** [Cure\
-      \ Wounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cure-wounds.md)\n\
-      \n**1/day each:** [Divination](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/divination.md),\
-      \ [Greater Restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)"
+      \ Wounds](Compendium/spells/cure-wounds.md)\n\n**1/day each:** [Divination](Compendium/spells/divination.md),\
+      \ [Greater Restoration](Compendium/spells/greater-restoration.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The living portent magically transforms into a Humanoid while retaining\

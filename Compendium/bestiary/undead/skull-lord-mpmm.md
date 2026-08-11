@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/15
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skull Lord
+- "Skull Lord"
 ---
-# [Skull Lord](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/skull-lord-mpmm.md)
+# [Skull Lord](Compendium/bestiary/undead/skull-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  
 
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
@@ -28,7 +29,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "subtype": "sorcerer"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/plate-armor.md)"
+"ac_class": "[plate](Compendium/items/plate-armor.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "3"
@@ -41,34 +42,29 @@ Infighting and treachery brought skull lords into existence. The first of them a
   - !!int "21"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History)"
+  - "name": "[History](Rules/skills.md#History)"
     "desc": "+8"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "cold; necrotic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [deafened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Deafened),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 22"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [deafened](Rules/conditions.md#Deafened), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [frightened](Rules/conditions.md#Frightened), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [stunned](Rules/conditions.md#Stunned), [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 22"
 "languages": "all the languages it knew in life"
 "cr": "15"
 "traits":
   - "desc": "If the skull lord is subjected to an effect that allows it to make a\
       \ Dexterity saving throw to take only half the damage, the skull lord instead\
       \ takes no damage if it succeeds on the saving throw and only half damage if\
-      \ it fails, provided it isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+      \ it fails, provided it isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "Evasion"
   - "desc": "If the skull lord fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -88,12 +84,10 @@ Infighting and treachery brought skull lords into existence. The first of them a
       \ (5d8 + 5) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The skull, lord casts one of the following spells, using Charisma as\
-      \ the spellcasting ability (spell save DC 18):\n\n**At will:** [mage hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mage-hand.md),\
-      \ [message](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/message.md)\n\
-      \n**2/day each:** [dimension door](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dimension-door.md),\
-      \ [fear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fear.md)\n\
-      \n**1/day each:** [cloudkill](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cloudkill.md),\
-      \ [cone of cold](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/cone-of-cold.md)"
+      \ the spellcasting ability (spell save DC 18):\n\n**At will:** [mage hand](Compendium/spells/mage-hand.md),\
+      \ [message](Compendium/spells/message.md)\n\n**2/day each:** [dimension door](Compendium/spells/dimension-door.md),\
+      \ [fear](Compendium/spells/fear.md)\n\n**1/day each:** [cloudkill](Compendium/spells/cloudkill.md),\
+      \ [cone of cold](Compendium/spells/cone-of-cold.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the skull lord can expend a use to take one of the following actions. The\
@@ -101,19 +95,18 @@ Infighting and treachery brought skull lords into existence. The first of them a
 "legendary_actions":
   - "desc": "The skull lord makes one Bone Staff or Deathly Ray attack."
     "name": "Attack"
-  - "desc": "The skull lord moves up to its speed without provoking [opportunity attacks](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Opportunity%20Attack)."
+  - "desc": "The skull lord moves up to its speed without provoking [opportunity attacks](Rules/actions.md#Opportunity%20Attack)."
     "name": "Move"
-  - "desc": "The skull lord summons up to five [skeletons](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/skeleton.md)\
-      \ or [zombies](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/zombie.md)\
-      \ in unoccupied spaces within 30 feet of it. They remain until destroyed. Undead\
-      \ summoned in this way roll initiative, act in the next available turn, and\
-      \ obey the skull lord. The skull lord can have no more than five Undead summoned\
-      \ by this ability at a time."
+  - "desc": "The skull lord summons up to five [skeletons](Compendium/bestiary/undead/skeleton.md)\
+      \ or [zombies](Compendium/bestiary/undead/zombie.md) in unoccupied spaces within\
+      \ 30 feet of it. They remain until destroyed. Undead summoned in this way roll\
+      \ initiative, act in the next available turn, and obey the skull lord. The skull\
+      \ lord can have no more than five Undead summoned by this ability at a time."
     "name": "Summon Undead (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/skull-lord-mpmm.webp"
+"image": "Compendium/bestiary/undead/token/skull-lord-mpmm.webp"
 ```
 ^statblock
 

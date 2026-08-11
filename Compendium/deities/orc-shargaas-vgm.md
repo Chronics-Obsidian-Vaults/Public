@@ -6,8 +6,8 @@ tags:
 - source/compendium/src/5e/vgm
 - source/deity/orc
 - source/domain/trickery
-aliases: 
-- Shargaas
+aliases:
+- "Shargaas"
 ---
 # Shargaas
 *Source: Volo's Guide to Monsters p. 84* 

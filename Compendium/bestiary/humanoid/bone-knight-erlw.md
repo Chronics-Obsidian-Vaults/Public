@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bone Knight
+- "Bone Knight"
 ---
-# [Bone Knight](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/bone-knight-erlw.md)
+# [Bone Knight](Compendium/bestiary/humanoid/bone-knight-erlw.md)
 *Source: Eberron: Rising from the Last War p. 316*  
 
 Bone knights are the champions of the Order of the Emerald Claw. Clad in distinctive bonecraft armor—heavy armor adorned with the bones of fallen enemies—these fearsome warriors command squads of undead soldiers as they pursue the sinister goals of Lady Illmarrow.
@@ -49,28 +50,28 @@ During the Last War, many bone knights took service with the Order of the Emeral
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics)"
+  - "name": "[Athletics](Rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Intimidation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Intimidation)"
+  - "name": "[Intimidation](Rules/skills.md#Intimidation)"
     "desc": "+6"
 "damage_resistances": "necrotic, poison"
+"gear":
+  - "[greatsword](Compendium/items/greatsword.md)"
+  - "[longbow](Compendium/items/longbow.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
   - "desc": "The knight is an 8th-level spellcaster. Its spellcasting ability is Charisma\
       \ (spell save DC 14, +6 to hit with spell attacks). It has the following paladin\
-      \ spells prepared:\n\n**1st level (4 slots):** [command](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/command.md),\
-      \ [compelled duel](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/compelled-duel.md),\
-      \ [hellish rebuke](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hellish-rebuke.md),\
-      \ [wrathful smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wrathful-smite.md)\n\
-      \n**2nd level (3 slots):** [branding smite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/branding-smite.md),\
-      \ [crown of madness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/crown-of-madness.md),\
-      \ [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [find steed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/find-steed.md),\
-      \ [magic weapon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magic-weapon.md)"
+      \ spells prepared:\n\n**1st level (4 slots):** [command](Compendium/spells/command.md),\
+      \ [compelled duel](Compendium/spells/compelled-duel.md), [hellish rebuke](Compendium/spells/hellish-rebuke.md),\
+      \ [wrathful smite](Compendium/spells/wrathful-smite.md)\n\n**2nd level (3 slots):**\
+      \ [branding smite](Compendium/spells/branding-smite.md), [crown of madness](Compendium/spells/crown-of-madness.md),\
+      \ [darkness](Compendium/spells/darkness.md), [find steed](Compendium/spells/find-steed.md),\
+      \ [magic weapon](Compendium/spells/magic-weapon.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the knight can target one skeleton or zombie it can\
       \ see within 30 feet of it. The target must make a DC 14 Wisdom saving throw.\
@@ -92,6 +93,6 @@ During the Last War, many bone knights took service with the Order of the Emeral
     "name": "Longbow"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/bone-knight-erlw.webp"
+"image": "Compendium/bestiary/humanoid/token/bone-knight-erlw.webp"
 ```
 ^statblock

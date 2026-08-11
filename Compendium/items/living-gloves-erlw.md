@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-item
+cssclasses:
+- json5e-item
 tags:
 - source/compendium/src/5e/erlw
 - source/item/attunement/required
 - source/item/rarity/uncommon
-aliases: 
+aliases:
 - "Living Gloves"
 item_type: 
 item_subtype: 
@@ -21,10 +22,10 @@ These symbiotic gloves—made of thin chitin and sinew—pulse with a life of th
 
 While attuned to these gloves, you gain one of the following proficiencies (your choice when you attune to the gloves):
 
-- [Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)  
-- [Thieves' tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/thieves-tools.md)  
-- One kind of [artisan's tools](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/artisans-tools.md) of your choice  
-- One kind of [musical instrument](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/musical-instrument.md) of your choice  
+- [Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)  
+- [Thieves' tools](Compendium/items/thieves-tools.md)  
+- One kind of [artisan's tools](Compendium/items/artisans-tools.md) of your choice  
+- One kind of [musical instrument](Compendium/items/musical-instrument.md) of your choice  
 
 When you make an ability check using the chosen proficiency, you add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 

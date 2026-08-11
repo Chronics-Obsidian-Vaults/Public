@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drider
+- "Drider"
 ---
-# [Drider](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/drider.md)
+# [Drider](Compendium/bestiary/monstrosity/drider.md)
 *Source: Monster Manual p. 120. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders-a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
@@ -47,30 +48,31 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
   - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+9"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"gear":
+  - "[longbow](Compendium/items/longbow.md)"
+  - "[longsword](Compendium/items/longsword.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 15"
 "languages": "Elvish, Undercommon"
 "cr": "6"
 "traits":
   - "desc": "The drider's innate spellcasting ability is Wisdom (spell save DC 13).\
       \ The drider can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [dancing lights](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dancing-lights.md)\n\
-      \n**1/day each:** [darkness](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/darkness.md),\
-      \ [faerie fire](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/faerie-fire.md)"
+      \n**At will:** [dancing lights](Compendium/spells/dancing-lights.md)\n\n**1/day\
+      \ each:** [darkness](Compendium/spells/darkness.md), [faerie fire](Compendium/spells/faerie-fire.md)"
     "name": "Innate Spellcasting"
-  - "desc": "The drider has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "The drider has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put the drider to sleep."
     "name": "Fey Ancestry"
   - "desc": "The drider can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
     "name": "Spider Climb"
   - "desc": "While in sunlight, the drider has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
   - "desc": "The drider ignores movement restrictions caused by webbing."
     "name": "Web Walker"
@@ -89,7 +91,7 @@ On rare occasion, a drider returns to the fringes of drow society despite its cu
     "name": "Longbow"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/drider.webp"
+"image": "Compendium/bestiary/monstrosity/token/drider.webp"
 ```
 ^statblock
 

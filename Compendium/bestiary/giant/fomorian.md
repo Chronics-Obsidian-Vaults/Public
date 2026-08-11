@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/8
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fomorian
+- "Fomorian"
 ---
-# [Fomorian](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\giant/fomorian.md)
+# [Fomorian](Compendium/bestiary/giant/fomorian.md)
 *Source: Monster Manual p. 136*  
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
@@ -54,12 +55,13 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 18"
+"gear":
+  - "[greatclub](Compendium/items/greatclub.md)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 18"
 "languages": "Giant, Undercommon"
 "cr": "8"
 "actions":
@@ -82,7 +84,7 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
     "name": "Curse of the Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/giant/token/fomorian.webp"
+"image": "Compendium/bestiary/giant/token/fomorian.webp"
 ```
 ^statblock
 

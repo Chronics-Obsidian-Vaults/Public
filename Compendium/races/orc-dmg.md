@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/orc
 aliases:
-- Orc
+- "Orc"
 ---
 # Orc
 *Source: Dungeon Master's Guide p. 282*  

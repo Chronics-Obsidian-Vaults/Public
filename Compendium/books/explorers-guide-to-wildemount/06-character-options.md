@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Character Options
+- "Character Options"
 ---
 # Character Options
 *Source: Explorer's Guide to Wildemount, p. 161* 
 
-![Wizards who master the art...](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/082-04-01.webp#center "Wizards who master the art of dunamancy have infinite worlds and possibilities at their fingertips")
+![Wizards who master the art of dunamancy have infinite worlds and possibilities at their fingertips](Compendium/books/explorers-guide-to-wildemount/img/082-04-01.webp#center)
 
 > [!quote] A quote from Sunbreaker Olomon  
 > 
@@ -98,8 +98,8 @@ Elves who live outside the Luxon's cycle of rebirth are viewed with pity, for th
 
 At the DM's discretion, players have access to the pallid elf and sea elf subraces described below, in addition to the elf subraces in the "Player's Handbook".
 
-- [Elf (Pallid)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/elf-pallid-egw.md)  
-- [Elf (Sea)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/sea-elf-mpmm.md)  
+- [Elf (Pallid)](Compendium/races/elf-pallid-egw.md)  
+- [Elf (Sea)](Compendium/races/sea-elf-mpmm.md)  
 
 ## Halflings
 
@@ -125,7 +125,7 @@ Few Xhorhasians have ever seen a halfling except for the occasional halfling sol
 
 ### Halfling Subraces
 
-At the DM's discretion, players have access to the [Lotusden halfling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/halfling-lotusden-egw.md) subrace, in addition to the halfling subraces in the "Player's Handbook".
+At the DM's discretion, players have access to the [Lotusden halfling](Compendium/races/halfling-lotusden-egw.md) subrace, in addition to the halfling subraces in the "Player's Handbook".
 
 ## Humans
 
@@ -149,7 +149,7 @@ Humans are rare in Xhorhas, and those found within that land typically belong to
 
 ## Aarakocra
 
-Many people across Wildemount consider the winged [aarakocra](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/aarakocra-mpmm.md) to be a myth, so infrequently do they descend from their lofty aeries to deal with wingless folk. Where they are known, the aarakocra rarely engage with the land-bound societies of Wildemount, though some take great pleasure in traveling on the open ocean with Concord sailors and Revelry pirates. Some legends say that Melora the Wild Mother created the aarakocra as storm herders who drive the clouds across the sky, and some aarakocra tribes play a sport called *h'aara-shie*, or "cloud chasing," that reflects this ancient tale.
+Many people across Wildemount consider the winged [aarakocra](Compendium/races/aarakocra-mpmm.md) to be a myth, so infrequently do they descend from their lofty aeries to deal with wingless folk. Where they are known, the aarakocra rarely engage with the land-bound societies of Wildemount, though some take great pleasure in traveling on the open ocean with Concord sailors and Revelry pirates. Some legends say that Melora the Wild Mother created the aarakocra as storm herders who drive the clouds across the sky, and some aarakocra tribes play a sport called *h'aara-shie*, or "cloud chasing," that reflects this ancient tale.
 
 ### Aarakocra in the Dwendalian Empire
 
@@ -183,9 +183,9 @@ Those in the Kryn Dynasty who study dunamancy see aasimar as brimming with near-
 
 ### Aasimar Traits
 
-- [Aasimar (Protector)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/aasimar-mpmm.md)  
-- [Aasimar (Scourge)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/aasimar-mpmm.md)  
-- [Aasimar (Fallen)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/aasimar-mpmm.md)  
+- [Aasimar (Protector)](Compendium/races/aasimar-mpmm.md)  
+- [Aasimar (Scourge)](Compendium/races/aasimar-mpmm.md)  
+- [Aasimar (Fallen)](Compendium/races/aasimar-mpmm.md)  
 
 ## Dragonborn
 
@@ -197,8 +197,8 @@ Twenty years ago, Draconia was destroyed by the ire of the mighty Chroma Conclav
 
 You can allow a player to choose one of the following dragonborn variants.
 
-- [Dragonborn (Draconblood)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/dragonborn-draconblood-egw.md)  
-- [Dragonborn (Ravenite)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/dragonborn-ravenite-egw.md)  
+- [Dragonborn (Draconblood)](Compendium/races/dragonborn-draconblood-egw.md)  
+- [Dragonborn (Ravenite)](Compendium/races/dragonborn-ravenite-egw.md)  
 
 ### Dragonborn in the Dwendalian Empire
 
@@ -218,7 +218,7 @@ Countless draconbloods fled into the wastes of Xhorhas in search of asylum, and 
 
 ## Firbolgs
 
-[Firbolgs](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/firbolg-mpmm.md) are a forest-dwelling race native to the Greying Wildlands, particularly the mysterious Savalirwood. Their bodies are covered with thick fur ranging from tones of earthen brown and ruddy red to cool grays and blues, and even to wild hues of pink and green. Their bodies are bovine or camelid in appearance, with floppy, pointed ears and broad, pink noses, but they are bipedal and have hands that can manipulate weapons and objects.
+[Firbolgs](Compendium/races/firbolg-mpmm.md) are a forest-dwelling race native to the Greying Wildlands, particularly the mysterious Savalirwood. Their bodies are covered with thick fur ranging from tones of earthen brown and ruddy red to cool grays and blues, and even to wild hues of pink and green. Their bodies are bovine or camelid in appearance, with floppy, pointed ears and broad, pink noses, but they are bipedal and have hands that can manipulate weapons and objects.
 
 Most firbolgs live in extended family units, and it is unusual to find one living alone. However, they are introverted to the point where they seldom engage with other firbolgs outside the family unit, and firbolgs rarely form their own cities, villages, or even large tribes. Despite this, many firbolgs enjoy visiting other nations' settlements for a short time for trade, sightseeing, and to visit friends.
 
@@ -274,10 +274,10 @@ The Kryn know little about the genasi and are eager to rectify that. Their scout
 
 A genasi character has the following racial traits.
 
-- [Genasi (Air)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/genasi-air-mpmm.md)  
-- [Genasi (Earth)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/genasi-earth-mpmm.md)  
-- [Genasi (Fire)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/genasi-fire-mpmm.md)  
-- [Genasi (Water)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/genasi-water-mpmm.md)  
+- [Genasi (Air)](Compendium/races/genasi-air-mpmm.md)  
+- [Genasi (Earth)](Compendium/races/genasi-earth-mpmm.md)  
+- [Genasi (Fire)](Compendium/races/genasi-fire-mpmm.md)  
+- [Genasi (Water)](Compendium/races/genasi-water-mpmm.md)  
 
 ## Gnomes
 
@@ -323,7 +323,7 @@ People living along the northern Menagerie Coast, in cities such as Gwardan, hav
 > 
 > The term "goblinkin" refers to three types of related peoples: goblins, hobgoblins, and bugbears. All three are affected by Bane's curse of strife, allowing his foul voice to prey upon their minds from beyond the Divine Gate. Goblinkin who manage to overcome Bane's curse are freed from the compulsion that leads them to evil. Unless the goblinkin was freed near birth, however, they have likely internalized their bias toward law, chaos, or neutrality, and might retain that aspect of their alignment even after the curse is broken.
 > 
-> It is nearly impossible for a goblinkin to break Bane's curse on their own. Only those who undergo particularly traumatic events or are shown exceptional compassion typically find the inner strength to do so. Whenever a goblinkin returns to consciousness after being reduced to 0 hit points, they can make a DC 20 Wisdom saving throw, with advantage if they were brought back to life. On a success, the goblinkin breaks free from the curse of strife. A goblinkin targeted by [remove curse](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/remove-curse.md) can also make this saving throw, with advantage on the save if the caster is a trusted companion.
+> It is nearly impossible for a goblinkin to break Bane's curse on their own. Only those who undergo particularly traumatic events or are shown exceptional compassion typically find the inner strength to do so. Whenever a goblinkin returns to consciousness after being reduced to 0 hit points, they can make a DC 20 Wisdom saving throw, with advantage if they were brought back to life. On a success, the goblinkin breaks free from the curse of strife. A goblinkin targeted by [remove curse](Compendium/spells/remove-curse.md) can also make this saving throw, with advantage on the save if the caster is a trusted companion.
 > 
 > Many bugbears are cleansed of the curse from birth by a druidic order of bugbears who managed to break free from Bane's influence decades ago. These bugbears never develop a chaotic, isolationist nature, and readily band together with druids and other defenders of the wilderness.
 > 
@@ -332,31 +332,31 @@ People living along the northern Menagerie Coast, in cities such as Gwardan, hav
 
 ### Goblinkin in Xhorhas
 
-Goblins, hobgoblins, and bugbears are a common sight in Xhorhas, especially around Rosohna—for it was here that Bane first created the goblinkin from the noble dranassar. The people of the Kryn Dynasty have made efforts to forge close ties with the goblinkin who have made their home in the region, and have even managed to subvert the curse of strife by the power of the Luxon. Any creature reborn into a goblinkin body is born without the curse, and any natural-born goblin born within one hundred miles of a [Luxon beacon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/luxon-beacon-egw.md) is likewise shielded from Bane's seed of corruption.
+Goblins, hobgoblins, and bugbears are a common sight in Xhorhas, especially around Rosohna—for it was here that Bane first created the goblinkin from the noble dranassar. The people of the Kryn Dynasty have made efforts to forge close ties with the goblinkin who have made their home in the region, and have even managed to subvert the curse of strife by the power of the Luxon. Any creature reborn into a goblinkin body is born without the curse, and any natural-born goblin born within one hundred miles of a [Luxon beacon](Compendium/items/luxon-beacon-egw.md) is likewise shielded from Bane's seed of corruption.
 
 ### Bugbear Racial Traits
 
-[Bugbear](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/bugbear-mpmm.md)
+[Bugbear](Compendium/races/bugbear-mpmm.md)
 
 ### Goblin Racial Traits
 
-[Goblin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/goblin-mpmm.md)
+[Goblin](Compendium/races/goblin-mpmm.md)
 
 ### Hobgoblin Racial Traits
 
-[Hobgoblin](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/hobgoblin-mpmm.md)
+[Hobgoblin](Compendium/races/hobgoblin-mpmm.md)
 
 A hobgoblin character has the following racial traits.
 
 ## Goliaths
 
-The [goliaths](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/goliath-mpmm.md) of Exandria are a mighty people with stone giant blood running in their veins. Most stand well over seven feet tall and are blessed with a naturally powerful physique. Like their stone giant progenitors, goliaths are a rare sight in Wildemount. Most live on isolated peaks in the Cyrios Mountains, the Penumbra Range, and on the isolated land of Eiselcross. Those few goliaths who are exiled from their herds and wander into more densely peopled lands are uniformly greeted with fear and confusion.
+The [goliaths](Compendium/races/goliath-mpmm.md) of Exandria are a mighty people with stone giant blood running in their veins. Most stand well over seven feet tall and are blessed with a naturally powerful physique. Like their stone giant progenitors, goliaths are a rare sight in Wildemount. Most live on isolated peaks in the Cyrios Mountains, the Penumbra Range, and on the isolated land of Eiselcross. Those few goliaths who are exiled from their herds and wander into more densely peopled lands are uniformly greeted with fear and confusion.
 
 Goliaths have a compulsion to compete and keep score, counting their deeds and tallying their accomplishments to compare to others. Goliaths love to win, but they see defeat as a prod to improve their skills. Above all else, they are driven to outdo their past efforts. Few goliaths reach old age, as most die attempting to surpass their past achievements.
 
 Among goliaths, any adult who can't or won't contribute to the herd is expelled. A lone goliath has little chance of survival, especially an older or weaker one. Goliaths have little pity for adults who can't take care of themselves, though a sick or injured individual is treated, as a result of the goliath concept of fair play.
 
-![Goliaths](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/091-04-10.webp#center)
+![Goliaths](Compendium/books/explorers-guide-to-wildemount/img/091-04-10.webp#center)
 
 ## Half-Elves
 
@@ -376,7 +376,7 @@ Half-elves of all different ancestries dwell within the lands of the Kryn, with 
 
 ## Kenku
 
-In ancient times, [kenku](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/kenku-mpmm.md) were black-winged angels—ambassadors who served the Raven Queen as her emissaries of death. Their voices were once heard across entire planes, calling the dead to the Raven Queen's embrace. The kenku likewise served as her loyal warriors in the Calamity, and even saved her from a near-fatal encounter with the Betrayer God known as Tharizdun.
+In ancient times, [kenku](Compendium/races/kenku-mpmm.md) were black-winged angels—ambassadors who served the Raven Queen as her emissaries of death. Their voices were once heard across entire planes, calling the dead to the Raven Queen's embrace. The kenku likewise served as her loyal warriors in the Calamity, and even saved her from a near-fatal encounter with the Betrayer God known as Tharizdun.
 
 Though the kenku saved the Raven Queen from oblivion, all of her black-winged emissaries were consumed by Tharizdun's infinite void. For long years, the kenku were thought to have been annihilated, and it was only when Tharizdun was defeated and chained by the god Ioun near the Calamity's end that they were freed.
 
@@ -412,17 +412,17 @@ Most half-orcs in Xhorhas have human or drow blood. In the culture of the Xhorha
 
 ### Orc Traits
 
-Exandrian orcs are not bound to commit acts of evil by nature. See the races page for the racial traits of an [orc](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/orc-egw.md) character.
+Exandrian orcs are not bound to commit acts of evil by nature. See the races page for the racial traits of an [orc](Compendium/races/orc-egw.md) character.
 
 ## Tabaxi
 
-The catlike [tabaxi](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/tabaxi-mpmm.md) are an agile, witty, and playful folk who have long lived among the indigenous Ki'Nau people of the Menagerie Coast and in the cold northern forests of the Greying Wildlands. Said to have been born from the dreams of Melora within the jungles of Wildemount's more temperate regions, they are natural hunters with keen senses and predatory instincts. The tabaxi of Exandria are also well known for their social guile. Many are taken with a love of wordplay and debate, often engaging travelers in philosophical conversations meant to challenge the intellect and to subtly gauge the disposition of strangers.
+The catlike [tabaxi](Compendium/races/tabaxi-mpmm.md) are an agile, witty, and playful folk who have long lived among the indigenous Ki'Nau people of the Menagerie Coast and in the cold northern forests of the Greying Wildlands. Said to have been born from the dreams of Melora within the jungles of Wildemount's more temperate regions, they are natural hunters with keen senses and predatory instincts. The tabaxi of Exandria are also well known for their social guile. Many are taken with a love of wordplay and debate, often engaging travelers in philosophical conversations meant to challenge the intellect and to subtly gauge the disposition of strangers.
 
 Tabaxi can be found in small numbers throughout Wildemount and are generally well thought of. Some make up small clans in the wilderness beyond the boundaries of Wildemount's major societies. Others are content to stand out among the other folk of those larger nations. Deft at crafts, hunting, and commercial enterprises, many tabaxi find themselves drawn toward an entrepreneurial existence, while some fall naturally into the more dangerous pursuits of an adventurer's lifestyle.
 
 Politics hold a conversational curiosity for some, but only a few tabaxi are driven enough to ascend to positions of political power, most commonly along the Menagerie Coast. Even so, most catfolk are happier away from the limelight, slyly convincing others to visibly take the risks for them.
 
-![Tabaxi](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/093-04-12.webp#center)
+![Tabaxi](Compendium/books/explorers-guide-to-wildemount/img/093-04-12.webp#center)
 
 ## Tieflings
 
@@ -432,7 +432,7 @@ Exandrian tieflings have a wide array of skin tones, all of them vibrant and col
 
 ### Tieflings in the Dwendalian Empire
 
-![Tiefling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/094-04-13.webp#center)
+![Tiefling](Compendium/books/explorers-guide-to-wildemount/img/094-04-13.webp#center)
 
 Most imperial tieflings live in the cities of the empire or in small communes in the countryside. Many are encouraged by their parents to join the Crownsguard or the Righteous Brand to valiantly serve the empire, and a direct connection can be drawn between the tieflings' ancient persecution and their focus on military service. Centuries ago, countless tieflings joined the armies of the Julous Dominion in hopes of winning glory and proving themselves the equals of their oppressors. Over time, many found acceptance in the eyes of the Julous people and its government, eventually becoming hardline loyalists of the Julous Dominion. Their spirits were thus crushed when the dominion fell to the mighty armies of the invading Dwendalian Empire.
 
@@ -448,7 +448,7 @@ Some legends talk of how the first tieflings were born in Ghor Dranas. Asmodeus,
 
 ## Tortles
 
-For centuries, the people of Xhorhas and the Dwendalian Empire believed [tortles](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/tortle-mpmm.md) to be a hoax concocted by Concordian hucksters. In truth, tortles are an ancient and long-lived people who dwell within the jungles and along the beaches of the Menagerie Coast. Most tortles who journey far from the coast begin to feel pangs of homesickness, which can develop into a depression.
+For centuries, the people of Xhorhas and the Dwendalian Empire believed [tortles](Compendium/races/tortle-mpmm.md) to be a hoax concocted by Concordian hucksters. In truth, tortles are an ancient and long-lived people who dwell within the jungles and along the beaches of the Menagerie Coast. Most tortles who journey far from the coast begin to feel pangs of homesickness, which can develop into a depression.
 
 Tortles are almost unheard of beyond the sunny shores of the Menagerie Coast.
 
@@ -456,7 +456,7 @@ Tortles are almost unheard of beyond the sunny shores of the Menagerie Coast.
 
 The eastern coast of Xhorhas, known to the Kryn as Blightshore, is a land scarred by evil magic. Among the creations of that foul place are the Hollow Ones, beings whose souls have left for the afterlife, yet whose bodies still retain a fragment of their former selves.
 
-![Hollow One](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/096-04-15.webp#center)
+![Hollow One](Compendium/books/explorers-guide-to-wildemount/img/096-04-15.webp#center)
 
 The magic that sustains Hollow Ones is a mystery. Most Hollow Ones are reborn after dying in Blightshore, suggesting that the spell-scarred nature of the land brought them back for an unknown purpose. Yet some beings find that, days after they died, they awaken, clutching to life, with only a terrible emptiness inside to remind them of their death.
 
@@ -494,19 +494,19 @@ Life is an extended series of choices. Every crossroads offers paths to differen
 
 The fighter takes many forms in Wildemount, from the grizzled mercenary who earns their keep by the might of their blade, to the dedicated soldier who fights for the banner of their homeland, to the hearty treasure hunter whose skill with a weapon is their finest asset.
 
-At 3rd level, a fighter gains the Martial Archetype class feature described in the "Player's Handbook". The [Echo Knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/fighter-echo-knight-egw.md) is a new option for that feature.
+At 3rd level, a fighter gains the Martial Archetype class feature described in the "Player's Handbook". The [Echo Knight](Compendium/classes/fighter-echo-knight-egw.md) is a new option for that feature.
 
-![Echo Knight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/097-04-16.webp#center)
+![Echo Knight](Compendium/books/explorers-guide-to-wildemount/img/097-04-16.webp#center)
 
 ### Wizard
 
 The brightest minds of Wildemount often find themselves gravitating to the ancient and dangerous study of magic. Some train for decades within the halls and towers of academies, while others learn their craft in the shadows, keeping their discoveries to themselves.
 
-At 2nd level, a wizard gains the Arcane Tradition class feature described in the "Player's Handbook". [Chronurgy Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/wizard-chronurgy-magic-egw.md) and [Graviturgy Magic](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/classes/wizard-graviturgy-magic-egw.md) are two new traditions available to wizards.
+At 2nd level, a wizard gains the Arcane Tradition class feature described in the "Player's Handbook". [Chronurgy Magic](Compendium/classes/wizard-chronurgy-magic-egw.md) and [Graviturgy Magic](Compendium/classes/wizard-graviturgy-magic-egw.md) are two new traditions available to wizards.
 
 > [!gallery]
-> ![Chronurgy Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/098-04-17.webp#gallery)
-> ![Graviturgy Wizard](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/099-04-18.webp#gallery)
+> ![Chronurgy Wizard](Compendium/books/explorers-guide-to-wildemount/img/098-04-17.webp#gallery)
+> ![Graviturgy Wizard](Compendium/books/explorers-guide-to-wildemount/img/099-04-18.webp#gallery)
 
 ### Dunamancy Spells
 
@@ -514,26 +514,26 @@ This section presents a sampling of spells developed through the manipulation of
 
 #### Dunamancy Spell List
 
-- **Cantrips.** [sapping sting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sapping-sting-egw.md) (necromancy)  
-- **Level 1.** [gift of alacrity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gift-of-alacrity-egw.md)* (divination)  
+- **Cantrips.** [sapping sting](Compendium/spells/sapping-sting-egw.md) (necromancy)  
+- **Level 1.** [gift of alacrity](Compendium/spells/gift-of-alacrity-egw.md)* (divination)  
 
-    [magnify gravity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magnify-gravity-egw.md)** (transmutation)  
-- **Level 2.** [fortune's favor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fortunes-favor-egw.md) (divination)  
+    [magnify gravity](Compendium/spells/magnify-gravity-egw.md)** (transmutation)  
+- **Level 2.** [fortune's favor](Compendium/spells/fortunes-favor-egw.md) (divination)  
 
-    [immovable object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/immovable-object-egw.md)** (transmutation)  
+    [immovable object](Compendium/spells/immovable-object-egw.md)** (transmutation)  
 
-    [Wristpocket](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wristpocket-egw.md) (conjuration, ritual)  
-- **Level 3.** [pulse wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pulse-wave-egw.md) (evocation)  
-- **Level 4.** [gravity sinkhole](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gravity-sinkhole-egw.md)** (evocation)  
-- **Level 5.** [temporal shunt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/temporal-shunt-egw.md)* (transmutation)  
-- **Level 6.** [gravity fissure](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gravity-fissure-egw.md)** (evocation)  
-- **Level 7.** [tether essence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tether-essence-egw.md) (necromancy)  
-- **Level 8.** [dark star](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dark-star-egw.md)** (evocation)  
+    [Wristpocket](Compendium/spells/wristpocket-egw.md) (conjuration, ritual)  
+- **Level 3.** [pulse wave](Compendium/spells/pulse-wave-egw.md) (evocation)  
+- **Level 4.** [gravity sinkhole](Compendium/spells/gravity-sinkhole-egw.md)** (evocation)  
+- **Level 5.** [temporal shunt](Compendium/spells/temporal-shunt-egw.md)* (transmutation)  
+- **Level 6.** [gravity fissure](Compendium/spells/gravity-fissure-egw.md)** (evocation)  
+- **Level 7.** [tether essence](Compendium/spells/tether-essence-egw.md) (necromancy)  
+- **Level 8.** [dark star](Compendium/spells/dark-star-egw.md)** (evocation)  
 
-    [reality break](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/reality-break-egw.md)* (conjuration)  
-- **Level 9.** [ravenous void](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ravenous-void-egw.md)** (evocation)  
+    [reality break](Compendium/spells/reality-break-egw.md)* (conjuration)  
+- **Level 9.** [ravenous void](Compendium/spells/ravenous-void-egw.md)** (evocation)  
 
-    [time ravage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/time-ravage-egw.md)* (necromancy)  
+    [time ravage](Compendium/spells/time-ravage-egw.md)* (necromancy)  
 
 * Chronurgy spell
 
@@ -550,21 +550,21 @@ This section presents a sampling of spells developed through the manipulation of
 
 The spells are presented in alphabetical order.
 
-- [Dark Star](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dark-star-egw.md)  
-- [Fortune's Favor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/fortunes-favor-egw.md)  
-- [Gift of Alacrity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gift-of-alacrity-egw.md)  
-- [Gravity Fissure](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gravity-fissure-egw.md)  
-- [Gravity Sinkhole](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/gravity-sinkhole-egw.md)  
-- [Immovable Object](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/immovable-object-egw.md)  
-- [Magnify Gravity](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/magnify-gravity-egw.md)  
-- [Pulse Wave](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/pulse-wave-egw.md)  
-- [Ravenous Void](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/ravenous-void-egw.md)  
-- [Reality Break](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/reality-break-egw.md)  
-- [Sapping Sting](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/sapping-sting-egw.md)  
-- [Temporal Shunt](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/temporal-shunt-egw.md)  
-- [Tether Essence](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/tether-essence-egw.md)  
-- [Time Ravage](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/time-ravage-egw.md)  
-- [Wristpocket](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wristpocket-egw.md)  
+- [Dark Star](Compendium/spells/dark-star-egw.md)  
+- [Fortune's Favor](Compendium/spells/fortunes-favor-egw.md)  
+- [Gift of Alacrity](Compendium/spells/gift-of-alacrity-egw.md)  
+- [Gravity Fissure](Compendium/spells/gravity-fissure-egw.md)  
+- [Gravity Sinkhole](Compendium/spells/gravity-sinkhole-egw.md)  
+- [Immovable Object](Compendium/spells/immovable-object-egw.md)  
+- [Magnify Gravity](Compendium/spells/magnify-gravity-egw.md)  
+- [Pulse Wave](Compendium/spells/pulse-wave-egw.md)  
+- [Ravenous Void](Compendium/spells/ravenous-void-egw.md)  
+- [Reality Break](Compendium/spells/reality-break-egw.md)  
+- [Sapping Sting](Compendium/spells/sapping-sting-egw.md)  
+- [Temporal Shunt](Compendium/spells/temporal-shunt-egw.md)  
+- [Tether Essence](Compendium/spells/tether-essence-egw.md)  
+- [Time Ravage](Compendium/spells/time-ravage-egw.md)  
+- [Wristpocket](Compendium/spells/wristpocket-egw.md)  
 
 ### Heroic Chronicle
 
@@ -576,7 +576,7 @@ The "Prophecy" section of the chronicle sets out three aspirations or goals that
 
 Dungeon Masters can also use the heroic chronicle process to generate villains with histories and motivations grounded in the dangerous lands of Wildemount.
 
-![Heroic Chronicle; Social Status Relationships](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/heroic-chronicle-social-status-relationships-egw.md)
+![Heroic Chronicle; Social Status Relationships](Compendium/tables/heroic-chronicle-social-status-relationships-egw.md)
 
 #### Backstory
 
@@ -588,13 +588,13 @@ The known lands of Wildemount are divided into four major geographic regions, ea
 
 Roll a `d100` and consult the Homelands table to determine which region you were born in. If you were born in one region but grew up in another, roll twice on the table to determine your place of birth and the region you eventually settled in.
 
-![Backstory; Homelands](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-homelands-egw.md)
+![Backstory; Homelands](Compendium/tables/backstory-homelands-egw.md)
 
 ##### Background
 
 In addition to granting you items, gold, and proficiencies, your background gives you a sense of belonging in the world. You can roll on the Backgrounds table to randomly determine your character's background, or you can choose one that fits your character concept. This table includes new backgrounds and adapted backgrounds from this book (EGW) as well as the backgrounds from the "Player's Handbook" (PH). New and adapted backgrounds are described later in this chapter.
 
-![Backstory; Backgrounds](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-backgrounds-egw.md)
+![Backstory; Backgrounds](Compendium/tables/backstory-backgrounds-egw.md)
 
 ##### Social Status
 
@@ -604,7 +604,7 @@ You, however, are an adventurer. Though your social status is determined by your
 
 Each nation in Wildemount views people's backgrounds according to its cultural values. Based on your character's background, think about your social status within the context of the details of your homeland presented below. Then use the Social Status Relationships table to determine how many allies and rivals you'll roll for later on in this section.
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/102-04-21.webp#center)
+![](Compendium/books/explorers-guide-to-wildemount/img/102-04-21.webp#center)
 
 ###### Menagerie Coast
 
@@ -636,15 +636,15 @@ Once you've determined your nation and considered your social status within that
 
 Each home settlement is detailed in "chapter 3". If your home settlement doesn't make sense for your social status, you can either roll for a different settlement or think about ways to make a contradiction work for your backstory. For example, if you have the Noble background but rolled a village as a home settlement, perhaps you were raised there to protect you from your family's enemies.
 
-![Backstory; Menagerie Coast Settlements](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-menagerie-coast-settlements-egw.md)
+![Backstory; Menagerie Coast Settlements](Compendium/tables/backstory-menagerie-coast-settlements-egw.md)
 
-![Backstory; Marrow Valley Settlements](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-marrow-valley-settlements-egw.md)
+![Backstory; Marrow Valley Settlements](Compendium/tables/backstory-marrow-valley-settlements-egw.md)
 
-![Backstory; Zemni Fields Settlements](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-zemni-fields-settlements-egw.md)
+![Backstory; Zemni Fields Settlements](Compendium/tables/backstory-zemni-fields-settlements-egw.md)
 
-![Backstory; Greying Wildlands Settlements](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-greying-wildlands-settlements-egw.md)
+![Backstory; Greying Wildlands Settlements](Compendium/tables/backstory-greying-wildlands-settlements-egw.md)
 
-![Backstory; Eastern Wynandir Settlements](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-eastern-wynandir-settlements-egw.md)
+![Backstory; Eastern Wynandir Settlements](Compendium/tables/backstory-eastern-wynandir-settlements-egw.md)
 
 ##### Race
 
@@ -658,9 +658,9 @@ Families with at least three children often encourage one child, typically the e
 
 Roll twice on the appropriate Family Size table—once to determine how many living parents you have, and once to determine your living siblings. The state of your family might change over the course of your backstory, just as it might change over the course of the campaign.
 
-![Backstory; Family Size (Village)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-family-size-village-egw.md)
+![Backstory; Family Size (Village)](Compendium/tables/backstory-family-size-village-egw.md)
 
-![Backstory; Family Size (City)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-family-size-city-egw.md)
+![Backstory; Family Size (City)](Compendium/tables/backstory-family-size-city-egw.md)
 
 ##### Parents
 
@@ -682,7 +682,7 @@ Your first allies and rivals are your family. Sometimes your family members are 
 
 Roll once on the Family Relationships table for each powerful relationship you have within your family, to determine the setup of your friendship or rivalry.
 
-![Backstory; Family Relationships](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-family-relationships-egw.md)
+![Backstory; Family Relationships](Compendium/tables/backstory-family-relationships-egw.md)
 
 ##### Acquired Allies and Rivals
 
@@ -692,15 +692,15 @@ When you've determined the relationships between you and your acquired allies an
 
 If you roll a particularly powerful ally or rival on this table, their involvement in your life causes a fateful moment to occur in your backstory, as determined in the next section.
 
-![Backstory; Ally Relationships](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-ally-relationships-egw.md)
+![Backstory; Ally Relationships](Compendium/tables/backstory-ally-relationships-egw.md)
 
-![Backstory; Rival Relationships](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-rival-relationships-egw.md)
+![Backstory; Rival Relationships](Compendium/tables/backstory-rival-relationships-egw.md)
 
 ##### Secret Identities
 
 Some of these allies and rivals might keep their true identity secret from your character. The DM can decide to make one or more of the rolls on the Ally and Rival Identities table to keep the secret intact. Stat blocks appear in either appendix B of the "Monster Manual" (MM) or "chapter 7" of this book (EGW).
 
-![Backstory; Ally and Rival Identities](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-ally-and-rival-identities-egw.md)
+![Backstory; Ally and Rival Identities](Compendium/tables/backstory-ally-and-rival-identities-egw.md)
 
 ##### Fateful Moments
 
@@ -710,7 +710,7 @@ Fateful moments are the turning points in your character's life. The weight of t
 
 If a fateful moment grants you a proficiency that you already had, choose any proficiency of the same type (armor, skill, language, tool, or weapon). If a fateful moment doesn't make sense for your character (for example, if your siblings perished but you don't have any siblings), roll a new event or work with your DM to change up the details. You can also forego rolling for fateful moments entirely, instead working with your DM to create moments specifically attuned to your character's story.
 
-![Backstory; Fateful Moments](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-fateful-moments-egw.md)
+![Backstory; Fateful Moments](Compendium/tables/backstory-fateful-moments-egw.md)
 
 ##### Favorite Food
 
@@ -740,19 +740,19 @@ Much of the territory of Xhorhas is wasteland, and the most edible plants in Eas
 
 The luxurious cuisine of the Kryn court makes heavy use of mushrooms and rare meats found only in the dangerous caverns of the Underdark. The aboveground regions of Xhorhas are known for their fiery plum spirits, whereas working-class drow traditionally drink an earthy, mushroom-based beer.
 
-![Backstory; Favorite Foods (Menagerie Coast)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-favorite-foods-menagerie-coast-egw.md)
+![Backstory; Favorite Foods (Menagerie Coast)](Compendium/tables/backstory-favorite-foods-menagerie-coast-egw.md)
 
-![Backstory; Favorite Foods (Western Wynandir)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-favorite-foods-western-wynandir-egw.md)
+![Backstory; Favorite Foods (Western Wynandir)](Compendium/tables/backstory-favorite-foods-western-wynandir-egw.md)
 
-![Backstory; Favorite Foods (Greying Wildlands)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-favorite-foods-greying-wildlands-egw.md)
+![Backstory; Favorite Foods (Greying Wildlands)](Compendium/tables/backstory-favorite-foods-greying-wildlands-egw.md)
 
-![Backstory; Favorite Foods (Eastern Wynandir)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-favorite-foods-eastern-wynandir-egw.md)
+![Backstory; Favorite Foods (Eastern Wynandir)](Compendium/tables/backstory-favorite-foods-eastern-wynandir-egw.md)
 
 ##### Mysterious Secret
 
 You saw something you weren't supposed to. A note came into your possession by mysterious means. A childhood friend spoke to you of a cryptic message. Whatever its source, a secret has haunted you your entire life. What is it? You can roll on the Mysterious Secrets table or work with your DM to create a secret.
 
-![Backstory; Mysterious Secrets](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/backstory-mysterious-secrets-egw.md)
+![Backstory; Mysterious Secrets](Compendium/tables/backstory-mysterious-secrets-egw.md)
 
 #### Prophecy
 
@@ -768,7 +768,7 @@ Each time you complete a prophecy goal, your character gains a mechanical benefi
 
 If you're looking for prophecy goals for your character, you can roll on the Prophecy Inspirations table for a random goal and a consequence of that goal. If this goal isn't a perfect fit for your character, you can fine-tune it or roll again to find one that works better.
 
-![Prophecy Inspirations](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/tables/prophecy-inspirations-egw.md)
+![Prophecy Inspirations](Compendium/tables/prophecy-inspirations-egw.md)
 
 ##### For the Dungeon Master
 
@@ -781,21 +781,21 @@ If the characters are completing their goals too quickly, remember that it's mor
 Each time a character completes one of their three prophecy goals, they gain a reward of the DM's determination. Any of the following rewards are suitable for completing a goal, or the DM might decide on unique rewards of the same general level:
 
 - For the next `1d10` days, the character gains inspiration whenever they finish a long rest.  
-- For the next `1d10` days, the character has advantage on saving throws to avoid being [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).  
+- For the next `1d10` days, the character has advantage on saving throws to avoid being [frightened](Rules/conditions.md#Frightened).  
 - For the next `1d4` days, the character's weapon attacks deal an extra `1d6` damage of the weapon's type.  
 
 ### Backgrounds
 
 This section presents two new backgrounds—the Grinner and the Volstrucker Agent—as well as suggestions for adapting some of the backgrounds from the "Player's Handbook" to tie them more closely to the factions of Wildemount.
 
-Wildemount is a land of secrets, so your character's background might work best if it's kept secret from the other players—especially if you choose either the [Grinner](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/grinner-egw.md) or [Volstrucker Agent](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/volstrucker-agent-egw.md) background. Work with your DM to determine a second false background that can help hide your true background, or a cover background that can be used if your true background involves a secret identity.
+Wildemount is a land of secrets, so your character's background might work best if it's kept secret from the other players—especially if you choose either the [Grinner](Compendium/backgrounds/grinner-egw.md) or [Volstrucker Agent](Compendium/backgrounds/volstrucker-agent-egw.md) background. Work with your DM to determine a second false background that can help hide your true background, or a cover background that can be used if your true background involves a secret identity.
 
 #### Adapting Backgrounds
 
 All the backgrounds from the "Player's Handbook" fit perfectly into Wildemount. Additionally, though, a number of existing backgrounds can be adapted to represent specific factions in the campaign.
 
-- [Augen Trust (Spy)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/augen-trust-spy-egw.md)  
-- [Cobalt Scholar (Sage)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/cobalt-scholar-sage-egw.md)  
-- [Luxonborn (Acolyte)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/luxonborn-acolyte-egw.md)  
-- [Myriad Operative (Criminal)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/myriad-operative-criminal-egw.md)  
-- [Revelry Pirate (Sailor)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/backgrounds/revelry-pirate-sailor-egw.md)
+- [Augen Trust (Spy)](Compendium/backgrounds/augen-trust-spy-egw.md)  
+- [Cobalt Scholar (Sage)](Compendium/backgrounds/cobalt-scholar-sage-egw.md)  
+- [Luxonborn (Acolyte)](Compendium/backgrounds/luxonborn-acolyte-egw.md)  
+- [Myriad Operative (Criminal)](Compendium/backgrounds/myriad-operative-criminal-egw.md)  
+- [Revelry Pirate (Sailor)](Compendium/backgrounds/revelry-pirate-sailor-egw.md)

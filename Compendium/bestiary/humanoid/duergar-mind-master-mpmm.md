@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/2
@@ -11,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Mind Master
+- "Duergar Mind Master"
 ---
-# [Duergar Mind Master](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\humanoid/duergar-mind-master-mpmm.md)
+# [Duergar Mind Master](Compendium/bestiary/humanoid/duergar-mind-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 108, Mordenkainen's Tome of Foes p. 189*  
 
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
@@ -45,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/leather-armor.md)"
+"ac_class": "[leather armor](Compendium/items/leather-armor.md)"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "3"
@@ -60,25 +61,23 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "saves":
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "poison"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., [truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., [truesight](Rules/senses.md#Truesight)\
   \ 30 ft., passive Perception 12"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-      \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-      \ and [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](Rules/conditions.md#Charmed),\
+      \ [paralyzed](Rules/conditions.md#Paralyzed), and [poisoned](Rules/conditions.md#Poisoned)\
       \ conditions."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as on Wisdom ([Perception](Rules/skills.md#Perception)) checks that rely on\
+      \ sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The duergar makes two Mind-Poison Dagger attacks. It can replace one\
@@ -88,18 +87,18 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ + 3) piercing damage plus 10 (3d6) psychic damage, or 1 piercing damage plus\
       \ 10 (3d6) psychic damage while under the effect of Reduce."
     "name": "Mind-Poison Dagger"
-  - "desc": "The duergar magically turns [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+  - "desc": "The duergar magically turns [invisible](Rules/conditions.md#Invisible)\
       \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-      \ throw, or its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ is broken (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell). Any equipment the duergar wears or carries is [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
+      \ throw, or its [concentration](Rules/conditions.md#Concentration) is broken\
+      \ (as if [concentrating](Rules/conditions.md#Concentration) on a spell). Any\
+      \ equipment the duergar wears or carries is [invisible](Rules/conditions.md#Invisible)\
       \ with it."
     "name": "Invisibility (Recharge 4-6)"
   - "desc": "The duergar targets one creature it can see within 60 feet of it. The\
       \ target must succeed on a DC 12 Intelligence saving throw, or the duergar causes\
       \ it to use its reaction, if available, either to make one weapon attack against\
       \ another creature the duergar can see or to move up to 10 feet in a direction\
-      \ of the duergar's choice. Creatures that can't be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
+      \ of the duergar's choice. Creatures that can't be [charmed](Rules/conditions.md#Charmed)\
       \ are immune to this effect."
     "name": "Mind Mastery"
 "bonus_actions":
@@ -107,15 +106,14 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ it is wearing or carrying. While reduced, the duergar is Tiny, reduces its\
       \ weapon damage to 1, and makes attack rolls, ability checks, and saving throws\
       \ with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity\
-      \ ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
-      \ checks and a +5 bonus to its AC. It can also take a bonus action on each of\
-      \ its turns to take the [Hide](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Hide)\
+      \ ([Stealth](Rules/skills.md#Stealth)) checks and a +5 bonus to its AC. It can\
+      \ also take a bonus action on each of its turns to take the [Hide](Rules/actions.md#Hide)\
       \ action."
     "name": "Reduce (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/humanoid/token/duergar-mind-master-mpmm.webp"
+"image": "Compendium/bestiary/humanoid/token/duergar-mind-master-mpmm.webp"
 ```
 ^statblock
 

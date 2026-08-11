@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/13
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult White Dragon
+- "Adult White Dragon"
 ---
-# [Adult White Dragon](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\dragon/adult-white-dragon.md)
-*Source: Monster Manual p. 101, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Adult White Dragon](Compendium/bestiary/dragon/adult-white-dragon.md)
+*Source: Monster Manual p. 101. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 
@@ -121,13 +122,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "6"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "cold"
-"senses": "[blindsight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Blindsight)\
-  \ 60 ft., [darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
+"senses": "[blindsight](Rules/senses.md#Blindsight) 60 ft., [darkvision](Rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "13"
@@ -152,7 +152,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ (2d8 + 6) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 14 Wisdom saving throw or become [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 14 Wisdom saving throw or become [frightened](Rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -184,18 +184,18 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ points, vulnerability to fire damage, and immunity to acid, cold, necrotic,\
       \ poison, and psychic damage. The wall disappears when the dragon uses this\
       \ lair action again or when the dragon dies.  \n\n**Additional Lair Actions.**\
-      \ At your discretion, a legendary ([adult](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/adult-white-dragon.md)\
-      \ or [ancient](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-white-dragon.md))\
-      \ white dragon can use one or both of the following additional lair actions\
-      \ while in its lair:\n\n- **Blinding Sleet.** Driving sleet falls in a 40-foot-high,\
-      \ 20-foot-radius cylinder centered on a point the dragon can see within 120\
-      \ feet of it. Each creature in that area must succeed on a DC 15 Constitution\
-      \ saving throw or be [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
-      \ until initiative count 20 on the next round.  \n- **Whirling Wind.** A strong\
-      \ wind blows in a 30-foot-radius sphere centered on the dragon (see the \"Dungeon\
-      \ Master's Guide\" for rules on \"strong wind\"). The dragon's flying is not\
-      \ affected by this wind, which lasts until the next time the dragon uses a lair\
-      \ action or until the dragon dies.  "
+      \ At your discretion, a legendary ([adult](Compendium/bestiary/dragon/adult-white-dragon.md)\
+      \ or [ancient](Compendium/bestiary/dragon/ancient-white-dragon.md)) white dragon\
+      \ can use one or both of the following additional lair actions while in its\
+      \ lair:\n\n- **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius\
+      \ cylinder centered on a point the dragon can see within 120 feet of it. Each\
+      \ creature in that area must succeed on a DC 15 Constitution saving throw or\
+      \ be [blinded](Rules/conditions.md#Blinded) until initiative count 20 on the\
+      \ next round.  \n- **Whirling Wind.** A strong wind blows in a 30-foot-radius\
+      \ sphere centered on the dragon (see the \"Dungeon Master's Guide\" for rules\
+      \ on \"strong wind\"). The dragon's flying is not affected by this wind, which\
+      \ lasts until the next time the dragon uses a lair action or until the dragon\
+      \ dies.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing a legendary white dragon's lair is warped by the\
@@ -218,29 +218,28 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ area without immunity or resistance to cold damage disadvantage on Strength\
       \ and Dexterity checks.  \n- **Mirror Ice.** The icy surfaces in the dragon's\
       \ lair reflect light like mirrors, giving creatures in the lair other than the\
-      \ dragon disadvantage on Dexterity ([Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth))\
-      \ checks made to hide. In addition, at each intersection or branching passage,\
-      \ any creature other than the dragon has a 50 percent chance of going in a different\
+      \ dragon disadvantage on Dexterity ([Stealth](Rules/skills.md#Stealth)) checks\
+      \ made to hide. In addition, at each intersection or branching passage, any\
+      \ creature other than the dragon has a 50 percent chance of going in a different\
       \ direction from the direction it intends.  "
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](Rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
       \ must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning\
-      \ damage and be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone).\
-      \ The dragon can then fly up to half its flying speed."
+      \ damage and be knocked [prone](Rules/conditions.md#Prone). The dragon can then\
+      \ fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/token/adult-white-dragon.webp"
+"image": "Compendium/bestiary/dragon/token/adult-white-dragon.webp"
 ```
 ^statblock
 

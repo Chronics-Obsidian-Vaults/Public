@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/optional-feature/mv-b
 aliases:
-- Parry
+- "Parry"
 ---
 # Parry
 *Source: Player's Handbook p. 74*  

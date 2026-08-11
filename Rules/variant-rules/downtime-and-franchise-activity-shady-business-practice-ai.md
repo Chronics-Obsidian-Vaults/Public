@@ -5,14 +5,14 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- Downtime and Franchise Activity: Shady Business Practice
+- "Downtime and Franchise Activity: Shady Business Practice"
 ---
 # Downtime and Franchise Activity: Shady Business Practice
 *Source: Acquisitions Incorporated p. 43* 
 
 The quickest path to success often runs straight through the thickets of questionable legality. Franchises that can overcome the morally dubious aspects of certain enterprises—and can deal with the risk of being caught engaging in those enterprises—might wish to consider such time-honored practices as back-of-the-wagon discount sales, fly-by-night gambling halls, highway robbery, racketeering, and pyramid schemes. Shady business practices can also include corporate espionage against rivals and other Acq Inc franchises, including stealing goods or sabotaging commercial efforts.
 
-![A Suitably Shady Business Practice](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/variant-rules/img/ai-023-02-22.webp#center)
+![A Suitably Shady Business Practice](Rules/variant-rules/img/ai-023-02-22.webp#center)
 
 ## Resources
 
@@ -20,13 +20,13 @@ An intended shady business practice is detailed by the players and approved by t
 
 ## Resolution
 
-A shady business practice requires three ability checks, reflecting the ongoing progress of the chosen scheme. Any of the characters or staff members involved in the shady business practice can make a check. The abilities and skills applicable for each check are determined by the DM, reflecting the selected scheme and the ongoing narrative. For example, an attempt to set up a fly-by-night casino might require an Intelligence ([Investigation](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Investigation)) check to case a town for a suitable location, a Wisdom or Charisma check making use of gaming set proficiency to run the operation, and a Dexterity ([Sleight of Hand](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Sleight%20of%20Hand)) check to get away with the profits. At the DM's determination, each check gains a +1 bonus if the character making the check has a background appropriate to the shady activity.
+A shady business practice requires three ability checks, reflecting the ongoing progress of the chosen scheme. Any of the characters or staff members involved in the shady business practice can make a check. The abilities and skills applicable for each check are determined by the DM, reflecting the selected scheme and the ongoing narrative. For example, an attempt to set up a fly-by-night casino might require an Intelligence ([Investigation](Rules/skills.md#Investigation)) check to case a town for a suitable location, a Wisdom or Charisma check making use of gaming set proficiency to run the operation, and a Dexterity ([Sleight of Hand](Rules/skills.md#Sleight%20of%20Hand)) check to get away with the profits. At the DM's determination, each check gains a +1 bonus if the character making the check has a background appropriate to the shady activity.
 
 The DC of each check is determined randomly, reflecting the risky nature of criminal enterprises. The DM rolls `2d10 + 5` for the DC, generating a separate result for each check. The total number of successes determines the outcome of the activity, as noted on the Shady Business Practice table.
 
 Some outcomes of shady business provide an additional benefit, chosen by the DM and relating to the characters' chosen enterprise. For example, a franchise engaged in corporate espionage might gain insight into a rival, while a franchise selling black-market goods might learn the name of a corrupt government official.
 
-> [!quote] A quote from [Rosie Beestinger](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/rosie-beestinger-ai.md)  
+> [!quote] A quote from [Rosie Beestinger](Compendium/bestiary/npc/rosie-beestinger-ai.md)  
 > 
 > Why would I know anything about shady business practices? Why are you asking me? I'm sure I don't know what you mean. Plausible deniability certainly is not an important business tip I'd recommend.
 

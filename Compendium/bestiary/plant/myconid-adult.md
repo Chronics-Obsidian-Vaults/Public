@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-2
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Myconid Adult
+- "Myconid Adult"
 ---
-# [Myconid Adult](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\plant/myconid-adult.md)
-*Source: Monster Manual p. 232, The Book of Many Things*  
+# [Myconid Adult](Compendium/bestiary/plant/myconid-adult.md)
+*Source: Monster Manual p. 232*  
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
 
@@ -45,8 +46,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   - !!int "13"
   - !!int "7"
 "speed": "20 ft."
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 11"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 11"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -62,7 +62,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
       \ bludgeoning damage plus 5 (2d4) poison damage."
     "name": "Fist"
   - "desc": "The myconid ejects spores at one creature it can see within 5 feet of\
-      \ it. The target must succeed on a DC 11 Constitution saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ it. The target must succeed on a DC 11 Constitution saving throw or be [stunned](Rules/conditions.md#Stunned)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Pacifying Spores (3/Day)"
@@ -74,8 +74,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     "name": "Rapport Spores"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/plant/token/myconid-adult.webp"
+"image": "Compendium/bestiary/plant/token/myconid-adult.webp"
 ```
 ^statblock
 

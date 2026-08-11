@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/ai
 - source/monster/cr/2
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Oak Truestrike
+- "Oak Truestrike"
 ---
-# [Oak Truestrike](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\npc/oak-truestrike-ai.md)
+# [Oak Truestrike](Compendium/bestiary/npc/oak-truestrike-ai.md)
 *Source: Acquisitions Incorporated p. 205*  
 
 Oak Truestrike is the "B" Team's decisionist-and, depending on who you talk to, a reincarnated demigod. (It's a long story.) Those who know him acknowledge his confidence, his arrogance, and his odd ability to engage with others by somehow saying exactly what each listener wants to hear. Whether this is some subtle magical ability or simply grifter's charm, he makes good use of it either way.
@@ -25,7 +26,7 @@ Oak becomes a radically different person with each of his reincarnations, flippi
 "subtype": "elf"
 "alignment": "Neutral Good or Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/studded-leather-armor.md)"
+"ac_class": "[studded leather](Compendium/items/studded-leather-armor.md)"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
 "modifier": !!int "3"
@@ -38,24 +39,26 @@ Oak becomes a radically different person with each of his reincarnations, flippi
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Nature](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Nature)"
+  - "name": "[Nature](Rules/skills.md#Nature)"
     "desc": "+4"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance)"
+  - "name": "[Performance](Rules/skills.md#Performance)"
     "desc": "+2"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+5"
-  - "name": "[Survival](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Survival)"
+  - "name": "[Survival](Rules/skills.md#Survival)"
     "desc": "+3"
+"gear":
+  - "[hand crossbow](Compendium/items/hand-crossbow.md)"
 "senses": "passive Perception 13"
 "languages": "Common"
 "cr": "2"
 "traits":
-  - "desc": "Oak has advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
+  - "desc": "Oak has advantage on saving throws against being [charmed](Rules/conditions.md#Charmed),\
       \ and magic can't put him to sleep."
     "name": "Fey Ancestry"
-  - "desc": "Oak has advantage on Wisdom ([Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception))\
+  - "desc": "Oak has advantage on Wisdom ([Perception](Rules/skills.md#Perception))\
       \ checks that rely on hearing or sight."
     "name": "Keen Hearing and Sight"
 "actions":
@@ -73,6 +76,6 @@ Oak becomes a radically different person with each of his reincarnations, flippi
     "name": "Return the Favor (3/Day)"
 "source":
   - "AI"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/npc/token/oak-truestrike-ai.webp"
+"image": "Compendium/bestiary/npc/token/oak-truestrike-ai.webp"
 ```
 ^statblock

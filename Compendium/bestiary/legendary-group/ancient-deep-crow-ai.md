@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/ai
 - source/monster/legendary-group
 aliases:
-- Ancient Deep Crow
+- "Ancient Deep Crow"
 ---
 # Ancient Deep Crow
 

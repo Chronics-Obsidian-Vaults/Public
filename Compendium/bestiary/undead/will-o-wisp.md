@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/2
@@ -12,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Will-o'-Wisp
+- "Will-o'-Wisp"
 ---
-# [Will-o'-Wisp](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/will-o-wisp.md)
-*Source: Monster Manual p. 301, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Will-o'-Wisp](Compendium/bestiary/undead/will-o-wisp.md)
+*Source: Monster Manual p. 301. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
 
@@ -57,15 +58,11 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 "damage_resistances": "acid; cold; fire; necrotic; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained),\
-  \ [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 12"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [grappled](Rules/conditions.md#Grappled),\
+  \ [paralyzed](Rules/conditions.md#Paralyzed), [poisoned](Rules/conditions.md#Poisoned),\
+  \ [prone](Rules/conditions.md#Prone), [restrained](Rules/conditions.md#Restrained),\
+  \ [unconscious](Rules/conditions.md#Unconscious)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 120 ft., passive Perception 12"
 "languages": "the languages it knew in life"
 "cr": "2"
 "traits":
@@ -88,15 +85,13 @@ A will-o'-wisp doesn't require air, drink, or sleep.
   - "desc": "*Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9\
       \ (2d8) lightning damage."
     "name": "Shock"
-  - "desc": "The will-o'-wisp and its light magically become [invisible](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Invisible)\
-      \ until it attacks or uses its Consume Life, or until its [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ ends (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell)."
+  - "desc": "The will-o'-wisp and its light magically become [invisible](Rules/conditions.md#Invisible)\
+      \ until it attacks or uses its Consume Life, or until its [concentration](Rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](Rules/conditions.md#Concentration) on a spell)."
     "name": "Invisibility"
 "source":
   - "MM"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/will-o-wisp.webp"
+"image": "Compendium/bestiary/undead/token/will-o-wisp.webp"
 ```
 ^statblock
 

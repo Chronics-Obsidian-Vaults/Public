@@ -5,10 +5,10 @@ cssclasses:
 tags:
 - source/spell/list/optfeature/clench-of-the-north-wind
 aliases:
-- Spells for Clench of the North Wind
+- "Spells for Clench of the North Wind"
 ---
 # Spells for Clench of the North Wind
 
 ## 2nd Level
 
-- [Hold Person](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/hold-person.md "PHB")
+- [Hold Person](Compendium/spells/hold-person.md "PHB")

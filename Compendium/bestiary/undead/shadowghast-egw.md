@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/egw
 - source/monster/cr/5
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadowghast
+- "Shadowghast"
 ---
-# [Shadowghast](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\undead/shadowghast-egw.md)
+# [Shadowghast](Compendium/bestiary/undead/shadowghast-egw.md)
 *Source: Explorer's Guide to Wildemount p. 299*  
 
 A shadowghast is an undead assassin. Leaping out from the shadows and trailing tendrils of darkness, it closes in on its prey with nary a sound, then tears into a victim with its paralyzing claws and furious bite.
@@ -34,27 +35,25 @@ A shadowghast is an undead assassin. Leaping out from the shadows and trailing t
   - !!int "8"
 "speed": "35 ft."
 "skillsaves":
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [exhaustion](Rules/conditions.md#Exhaustion),\
+  \ [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 13"
 "languages": ""
 "cr": "5"
 "traits":
   - "desc": "Any creature that starts its turn within 5 feet of the shadowghast must\
-      \ succeed on a DC 12 Constitution saving throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
+      \ succeed on a DC 12 Constitution saving throw or be [poisoned](Rules/conditions.md#Poisoned)\
       \ until the start of its next turn. On a successful saving throw, the creature\
       \ is immune to this Stench for 24 hours."
     "name": "Stench"
-  - "desc": "While in dim light or darkness, the shadowghast can take the Hide action\
-      \ as a bonus action."
+  - "desc": "While in dim light or darkness, the shadowghast can take the [Hide](Rules/actions.md#Hide)\
+      \ action as a bonus action."
     "name": "Shadow Stealth"
 "actions":
   - "desc": "The shadowghast makes two attacks: one with its bite and one with its\
@@ -65,12 +64,12 @@ A shadowghast is an undead assassin. Leaping out from the shadows and trailing t
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage. If the target is a creature other than an undead,\
-      \ it must succeed on a DC 12 Constitution saving throw or be [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed)\
+      \ it must succeed on a DC 12 Constitution saving throw or be [paralyzed](Rules/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Claws"
 "source":
   - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/undead/token/shadowghast-egw.webp"
+"image": "Compendium/bestiary/undead/token/shadowghast-egw.webp"
 ```
 ^statblock

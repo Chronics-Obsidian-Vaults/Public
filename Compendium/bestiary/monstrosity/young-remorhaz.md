@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/5
@@ -10,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Remorhaz
+- "Young Remorhaz"
 ---
-# [Young Remorhaz](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\monstrosity/young-remorhaz.md)
-*Source: Monster Manual p. 258, Explorer's Guide to Wildemount*  
+# [Young Remorhaz](Compendium/bestiary/monstrosity/young-remorhaz.md)
+*Source: Monster Manual p. 258*  
 
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
 
@@ -44,8 +45,8 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
   - !!int "4"
 "speed": "30 ft., burrow 30 ft."
 "damage_immunities": "cold, fire"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., tremorsense 60 ft., passive Perception 10"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
@@ -58,8 +59,7 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/monstrosity/token/young-remorhaz.webp"
+"image": "Compendium/bestiary/monstrosity/token/young-remorhaz.webp"
 ```
 ^statblock
 

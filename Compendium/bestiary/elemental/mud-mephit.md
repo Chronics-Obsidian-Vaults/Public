@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/1-4
@@ -10,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mud Mephit
+- "Mud Mephit"
 ---
-# [Mud Mephit](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/mud-mephit.md)
+# [Mud Mephit](Compendium/bestiary/elemental/mud-mephit.md)
 *Source: Monster Manual p. 216*  
 
 ## Mephits
@@ -47,19 +48,18 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
   - !!int "7"
 "speed": "20 ft., fly 20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Stealth](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Stealth)"
+  - "name": "[Stealth](Rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "Aquan, Terran"
 "cr": "1/4"
 "traits":
   - "desc": "When the mephit dies, it explodes in a burst of sticky mud. Each Medium\
       \ or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity\
-      \ saving throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ until the end of the creature's next turn."
+      \ saving throw or be [restrained](Rules/conditions.md#Restrained) until the\
+      \ end of the creature's next turn."
     "name": "Death Burst"
   - "desc": "While the mephit remains motionless, it is indistinguishable from an\
       \ ordinary mound of mud."
@@ -70,13 +70,13 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
     "name": "Fists"
   - "desc": "The mephit belches viscid mud onto one creature within 5 feet of it.\
       \ If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving\
-      \ throw or be [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)\
-      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ throw or be [restrained](Rules/conditions.md#Restrained) for 1 minute. A creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Mud Breath (Recharge 6)"
 "source":
   - "MM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/mud-mephit.webp"
+"image": "Compendium/bestiary/elemental/token/mud-mephit.webp"
 ```
 ^statblock
 

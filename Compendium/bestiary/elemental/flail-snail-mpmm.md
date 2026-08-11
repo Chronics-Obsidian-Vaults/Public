@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mpmm
 - source/monster/cr/3
@@ -12,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flail Snail
+- "Flail Snail"
 ---
-# [Flail Snail](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/flail-snail-mpmm.md)
+# [Flail Snail](Compendium/bestiary/elemental/flail-snail-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*  
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
@@ -25,9 +26,9 @@ Left undisturbed, a flail snail moves slowly along the ground. It consumes every
 
 A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
 
-Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/spellguard-shield.md).
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](Compendium/items/spellguard-shield.md).
 
-A flail snail shell can also be used to make a [robe of scintillating colors](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/robe-of-scintillating-colors.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
+A flail snail shell can also be used to make a [robe of scintillating colors](Compendium/items/robe-of-scintillating-colors.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
 ```statblock
 "name": "Flail Snail (MPMM)"
@@ -48,9 +49,9 @@ A flail snail shell can also be used to make a [robe of scintillating colors](/C
   - !!int "5"
 "speed": "10 ft."
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., tremorsense 60 ft., passive Perception 10"
+"condition_immunities": "[poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "3"
 "traits":
@@ -74,17 +75,17 @@ A flail snail shell can also be used to make a [robe of scintillating colors](/C
       \ radius and dim light for an additional 30 feet, and creatures that can see\
       \ the snail have disadvantage on attack rolls against it. In addition, any creature\
       \ within the bright light and able to see the snail when this power is activated\
-      \ must succeed on a DC 15 Wisdom saving throw or be [stunned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Stunned)\
+      \ must succeed on a DC 15 Wisdom saving throw or be [stunned](Rules/conditions.md#Stunned)\
       \ until the light ends."
     "name": "Scintillating Shell (Recharges after a Short or Long Rest)"
   - "desc": "The flail snail withdraws into its shell. Until it emerges, it gains\
-      \ a +4 bonus to its AC and is [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained).\
+      \ a +4 bonus to its AC and is [restrained](Rules/conditions.md#Restrained).\
       \ It can emerge from its shell as a bonus action on its turn."
     "name": "Shell Defense"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/flail-snail-mpmm.webp"
+"image": "Compendium/bestiary/elemental/token/flail-snail-mpmm.webp"
 ```
 ^statblock
 

@@ -7,8 +7,8 @@ tags:
 - source/deity/elven
 - source/domain/life
 - source/domain/trickery
-aliases: 
-- Alobal Lorfiril
+aliases:
+- "Alobal Lorfiril"
 ---
 # Alobal Lorfiril
 *Source: Mordenkainen's Tome of Foes p. 43* 

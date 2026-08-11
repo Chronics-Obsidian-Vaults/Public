@@ -1,15 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/mpmm
 - source/race/goliath
 aliases:
-- Goliath
+- "Goliath"
 ---
 # Goliath
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 21*  
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/races/img/goliath.webp#right)
+![](Compendium/races/img/goliath.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -19,7 +20,7 @@ aliases:
 
 ### Little Giant
 
-You have proficiency in the [Athletics](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Athletics) skill, and you count as one size larger when determining your carrying weight and the weight you can push, drag, or lift.
+You have proficiency in the [Athletics](Rules/skills.md#Athletics) skill, and you count as one size larger when determining your carrying weight and the weight you can push, drag, or lift.
 
 ### Mountain Born
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Arms of the Betrayers Destruction
+- "Arms of the Betrayers Destruction"
 ---
 # Arms of the Betrayers Destruction
 *Source: Explorer's Guide to Wildemount p. 274* 
@@ -17,9 +17,9 @@ aliases:
 | 1 | The weapon must be bathed in the ichor of an archdevil or demon lord. |
 | 2 | A coven of twelve night hags must perform an eight-hour ritual known only to them on the plane of Gehenna to destroy the weapon. |
 | 3 | The weapon must be brought back to a forgotten forge in Xhorhas and melted down by the furnace that made it. |
-| 4 | The fiery breath of an [ancient red dragon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/dragon/ancient-red-dragon.md) is the only thing that can destroy the weapon. |
+| 4 | The fiery breath of an [ancient red dragon](Compendium/bestiary/dragon/ancient-red-dragon.md) is the only thing that can destroy the weapon. |
 | 5 | The weapon is destroyed if devoured by Uk'otoa. |
-| 6 | Thrusting the weapon into a [Luxon beacon](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/luxon-beacon-egw.md) destroys the weapon and the beacon alike. |
+| 6 | Thrusting the weapon into a [Luxon beacon](Compendium/items/luxon-beacon-egw.md) destroys the weapon and the beacon alike. |
 | 7 | The weapon can be broken only by a blow from another of the Arms of the Betrayers. |
 | 8 | Burning the remains of the first champion to wield the weapon destroys the item. |
 ^arms-of-the-betrayers-destruction

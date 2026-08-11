@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-spell
+cssclasses:
+- json5e-spell
 tags:
 - source/compendium/src/5e/phb
 - source/spell/class/bard/magical-secrets
@@ -14,7 +15,7 @@ classes:
 - Sorcerer (Aberrant Mind)
 - Warlock
 aliases:
-- Arms of Hadar
+- "Arms of Hadar"
 level: 1
 school: conjuration
 ritual: false
@@ -38,6 +39,6 @@ You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt fr
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-bard.md); [Sorcerer (Aberrant Mind)](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Warlock](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/lists/list-spells-classes-warlock.md)
+**Classes**: [Bard (Magical Secrets)](Compendium/lists/list-spells-classes-bard.md); [Sorcerer (Aberrant Mind)](Compendium/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE"); [Warlock](Compendium/lists/list-spells-classes-warlock.md)
 
 *Source: Player's Handbook p. 215*

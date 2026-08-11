@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/xge
 - source/subclass/fighter/cavalier
 aliases:
-- Cavalier
+- "Cavalier"
 ---
 # Cavalier
 *[Fighter](./fighter.md): Martial Archetype*  
@@ -43,26 +43,25 @@ aliases:
 
 ^class-progression
 
-
-## Class Features
-
-### Cavalier (Level 3)
+![](Compendium/classes/img/fighter.webp#right)
 
 The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 
+## Subclass Features
+
 ### Bonus Proficiency (Level 3)
 
-When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: [Animal Handling](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Animal%20Handling), [History](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#History), [Insight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Insight), [Performance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Performance), or [Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion). Alternatively, you learn one language of your choice.
+When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: [Animal Handling](Rules/skills.md#Animal%20Handling), [History](Rules/skills.md#History), [Insight](Rules/skills.md#Insight), [Performance](Rules/skills.md#Performance), or [Persuasion](Rules/skills.md#Persuasion). Alternatively, you learn one language of your choice.
 
 ### Born to the Saddle (Level 3)
 
-Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated).
+Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not [incapacitated](Rules/conditions.md#Incapacitated).
 
 Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
 
 ### Unwavering Mark (Level 3)
 
-Starting at 3rd level, you can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated) or you die, or if someone else marks the creature.
+Starting at 3rd level, you can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are [incapacitated](Rules/conditions.md#Incapacitated) or you die, or if someone else marks the creature.
 
 While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn't target you.
 
@@ -82,7 +81,7 @@ At 10th level, you become a master of locking down your enemies. Creatures provo
 
 ### Ferocious Charger (Level 15)
 
-Starting at 15th level, you can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone). You can use this feature only once on each of your turns.
+Starting at 15th level, you can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked [prone](Rules/conditions.md#Prone). You can use this feature only once on each of your turns.
 
 ### Vigilant Defender (Level 18)
 

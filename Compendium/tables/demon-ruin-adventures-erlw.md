@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/erlw
 aliases:
-- Demon Ruin Adventures
+- "Demon Ruin Adventures"
 ---
 # Demon Ruin Adventures
 *Source: Eberron: Rising from the Last War p. 215* 

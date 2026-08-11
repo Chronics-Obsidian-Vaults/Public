@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/dmg
 aliases:
-- Dungeon Location; Exotic Location
+- "Dungeon Location; Exotic Location"
 ---
 # Dungeon Location; Exotic Location
 *Source: Dungeon Master's Guide p. 99* 
@@ -33,5 +33,5 @@ aliases:
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [Mordenkainen's magnificent mansion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/mordenkainens-magnificent-mansion.md) |
+| 20 | Inside a [Mordenkainen's magnificent mansion](Compendium/spells/mordenkainens-magnificent-mansion.md) |
 ^exotic-location

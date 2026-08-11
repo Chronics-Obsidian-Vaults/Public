@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/ai
 aliases:
-- The Occultant
+- "The Occultant"
 ---
 # The Occultant
 *Source: Acquisitions Incorporated p. 30* 

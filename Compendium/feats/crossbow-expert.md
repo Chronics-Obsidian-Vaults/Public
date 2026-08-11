@@ -6,7 +6,7 @@ tags:
 - source/compendium/src/5e/phb
 - source/feat
 aliases:
-- Crossbow Expert
+- "Crossbow Expert"
 ---
 # Crossbow Expert
 *Source: Player's Handbook p. 165*  
@@ -15,4 +15,4 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 
 - You ignore the loading quality of crossbows with which you are proficient.  
 - Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.  
-- When you use the [Attack](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/actions.md#Attack) action and attack with a one-handed weapon, you can use a bonus action to attack with a [hand crossbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/hand-crossbow.md) you are holding.
+- When you use the [Attack](Rules/actions.md#Attack) action and attack with a one-handed weapon, you can use a bonus action to attack with a [hand crossbow](Compendium/items/hand-crossbow.md) you are holding.

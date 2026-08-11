@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - source/compendium/src/5e/egw
 aliases:
-- Preface
+- "Preface"
 ---
 # Preface
 *Source: Explorer's Guide to Wildemount, p. 4* 
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/000-00-02.webp#center)
+![](Compendium/books/explorers-guide-to-wildemount/img/000-00-02.webp#center)
 
 ## Imagination is a strange & wonderful thing
 
@@ -33,4 +33,4 @@ aliases:
 > *Matthew Mercer, Dungeon Master of Critical Role*
 ^002
 
-![](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/books/explorers-guide-to-wildemount/img/001-00-03.webp#center)
+![](Compendium/books/explorers-guide-to-wildemount/img/001-00-03.webp#center)

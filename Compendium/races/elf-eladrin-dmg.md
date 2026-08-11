@@ -1,11 +1,12 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-race
+cssclasses:
+- json5e-race
 tags:
 - source/compendium/src/5e/dmg
 - source/race/elf/eladrin
 aliases:
-- Elf (Eladrin)
+- "Elf (Eladrin)"
 ---
 # Elf (Eladrin)
 *Source: Dungeon Master's Guide p. 286*  
@@ -32,11 +33,11 @@ Accustomed to twilit forests and the night sky, you have superior vision in dark
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception) skill.
+You have proficiency in the [Perception](Rules/skills.md#Perception) skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](Rules/conditions.md#Charmed), and magic can't put you to sleep.
 
 ### Trance
 
@@ -51,8 +52,8 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Elf Weapon Training
 
-You have proficiency with the [longsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longsword.md), [shortsword](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortsword.md), [shortbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/shortbow.md), and [longbow](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/items/longbow.md).
+You have proficiency with the [longsword](Compendium/items/longsword.md), [shortsword](Compendium/items/shortsword.md), [shortbow](Compendium/items/shortbow.md), and [longbow](Compendium/items/longbow.md).
 
 ### Fey Step
 
-You can cast the [misty step](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/misty-step.md) spell once using this trait. You regain the ability to do so when you finish a short or long rest.
+You can cast the [misty step](Compendium/spells/misty-step.md) spell once using this trait. You regain the ability to do so when you finish a short or long rest.

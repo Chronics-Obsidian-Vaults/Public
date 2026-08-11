@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/erlw
 - source/monster/cr/19
@@ -9,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kalaraq Quori
+- "Kalaraq Quori"
 ---
-# [Kalaraq Quori](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\aberration/kalaraq-quori-erlw.md)
+# [Kalaraq Quori](Compendium/bestiary/aberration/kalaraq-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 306*  
 
 The most powerful quori are the kalaraqs, also known as eyebinders—entities formed of pure shadow that is outlined by a nimbus of energy. A host of disembodied eyes whirl around a kalaraq, each reflecting a consciousness the creature has consumed.
@@ -43,38 +44,31 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
   - "wisdom": !!int "13"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Deception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Deception)"
+  - "name": "[Deception](Rules/skills.md#Deception)"
     "desc": "+13"
-  - "name": "[Perception](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Perception)"
+  - "name": "[Perception](Rules/skills.md#Perception)"
     "desc": "+13"
-  - "name": "[Persuasion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/skills.md#Persuasion)"
+  - "name": "[Persuasion](Rules/skills.md#Persuasion)"
     "desc": "+13"
 "damage_resistances": "cold; necrotic; poison; psychic; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
-"condition_immunities": "[blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded),\
-  \ [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-  \ [grappled](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Grappled),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone),\
-  \ [restrained](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Restrained)"
-"senses": "[truesight](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Truesight)\
-  \ 120 ft., passive Perception 23"
+"condition_immunities": "[blinded](Rules/conditions.md#Blinded), [charmed](Rules/conditions.md#Charmed),\
+  \ [exhaustion](Rules/conditions.md#Exhaustion), [frightened](Rules/conditions.md#Frightened),\
+  \ [grappled](Rules/conditions.md#Grappled), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [prone](Rules/conditions.md#Prone),\
+  \ [restrained](Rules/conditions.md#Restrained)"
+"senses": "[truesight](Rules/senses.md#Truesight) 120 ft., passive Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "19"
 "traits":
   - "desc": "The quori's spellcasting ability is Charisma (spell save DC 21, +13 to\
       \ hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no components:\n\n**At will:** [arcane eye](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/arcane-eye.md)\n\
-      \n**3/day each:** [clairvoyance](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/clairvoyance.md),\
-      \ [confusion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/confusion.md),\
-      \ [dream](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dream.md),\
-      \ [eyebite](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/eyebite.md)"
+      \ no components:\n\n**At will:** [arcane eye](Compendium/spells/arcane-eye.md)\n\
+      \n**3/day each:** [clairvoyance](Compendium/spells/clairvoyance.md), [confusion](Compendium/spells/confusion.md),\
+      \ [dream](Compendium/spells/dream.md), [eyebite](Compendium/spells/eyebite.md)"
     "name": "Innate Spellcasting (Psionics)"
-  - "desc": "The quori can't be [surprised](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Surprised)\
-      \ while it isn't [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)."
+  - "desc": "The quori can't be [surprised](Rules/conditions.md#Surprised) while it\
+      \ isn't [incapacitated](Rules/conditions.md#Incapacitated)."
     "name": "All-Around Vision"
   - "desc": "The quori can move through other creatures and objects as if they were\
       \ difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside\
@@ -93,42 +87,41 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
   - "desc": "*Melee Spell Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 29\
       \ (4d10 + 7) necrotic damage. A creature reduced to 0 hit points from this attack\
       \ dies and has its soul imprisoned in one of the quori's eyes. The target can't\
-      \ be revived by any means short of a [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell until the quori is destroyed."
+      \ be revived by any means short of a [wish](Compendium/spells/wish.md) spell\
+      \ until the quori is destroyed."
     "name": "Soul Binding"
   - "desc": "The quori touches one humanoid, which must succeed on a DC 21 Intelligence\
       \ saving throw or be cursed. The curse lasts until it's removed by a remove\
-      \ curse or [greater restoration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/greater-restoration.md)\
-      \ spell.\n\nThe cursed target suffers 1 level of [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
-      \ every 24 hours, and finishing a long rest doesn't reduce its [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion).\
-      \ If the cursed target reaches [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
+      \ curse or [greater restoration](Compendium/spells/greater-restoration.md) spell.\n\
+      \nThe cursed target suffers 1 level of [exhaustion](Rules/conditions.md#Exhaustion)\
+      \ every 24 hours, and finishing a long rest doesn't reduce its [exhaustion](Rules/conditions.md#Exhaustion).\
+      \ If the cursed target reaches [exhaustion](Rules/conditions.md#Exhaustion)\
       \ level 6, it doesn't die; it instead becomes a thrall under the quori's control,\
-      \ and all its [exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion)\
-      \ is removed. Only the [wish](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/wish.md)\
-      \ spell can free the thrall from this control."
+      \ and all its [exhaustion](Rules/conditions.md#Exhaustion) is removed. Only\
+      \ the [wish](Compendium/spells/wish.md) spell can free the thrall from this\
+      \ control."
     "name": "Mind Seed (1/Day)"
   - "desc": "The quori creates a swarm of spectral eyes that fills a 30-foot-radius\
       \ sphere centered on a point it can see within 60 feet of it. Each creature\
       \ in that area must make a DC 21 Wisdom saving throw. On a failure, a creature\
-      \ takes 45 (10d8) psychic damage, and it is [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ takes 45 (10d8) psychic damage, and it is [blinded](Rules/conditions.md#Blinded)\
       \ for 1 minute. On a success, a creature takes half as much damage and isn't\
-      \ [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded).\
-      \ A [blinded](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Blinded)\
+      \ [blinded](Rules/conditions.md#Blinded). A [blinded](Rules/conditions.md#Blinded)\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Swarm of Eyes (Recharge 6)"
   - "desc": "One humanoid that the quori can see within 5 feet of it must succeed\
       \ on a DC 21 Charisma saving throw or be possessed by the quori; the quori then\
-      \ disappears, and the target is [incapacitated](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Incapacitated)\
+      \ disappears, and the target is [incapacitated](Rules/conditions.md#Incapacitated)\
       \ and loses control of its body. The quori now controls the body but doesn't\
       \ deprive the target of awareness. The quori can't be targeted by any attack,\
       \ spell, or other effect, and it retains its alignment, Intelligence, Wisdom,\
-      \ Charisma, and immunity to being [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ and [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened).\
-      \ It otherwise uses the possessed target's statistics, but doesn't gain access\
-      \ to the target's knowledge, class features, or proficiencies.\n\nThe possession\
-      \ lasts until the body drops to 0 hit points, the quori ends it as a bonus action,\
-      \ or the quori is forced out by an effect like the [dispel evil and good](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/spells/dispel-evil-and-good.md)\
+      \ Charisma, and immunity to being [charmed](Rules/conditions.md#Charmed) and\
+      \ [frightened](Rules/conditions.md#Frightened). It otherwise uses the possessed\
+      \ target's statistics, but doesn't gain access to the target's knowledge, class\
+      \ features, or proficiencies.\n\nThe possession lasts until the body drops to\
+      \ 0 hit points, the quori ends it as a bonus action, or the quori is forced\
+      \ out by an effect like the [dispel evil and good](Compendium/spells/dispel-evil-and-good.md)\
       \ spell. When the possession ends, the quori reappears in an unoccupied space\
       \ within 5 feet of the body. The target is immune to this quori's Possession\
       \ for 24 hours after succeeding on the saving throw or after the possession\
@@ -136,6 +129,6 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     "name": "Possession (Recharge 6)"
 "source":
   - "ERLW"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/aberration/token/kalaraq-quori-erlw.webp"
+"image": "Compendium/bestiary/aberration/token/kalaraq-quori-erlw.webp"
 ```
 ^statblock

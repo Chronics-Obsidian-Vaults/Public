@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/0
@@ -9,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Homunculus
+- "Homunculus"
 ---
-# [Homunculus](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\construct/homunculus.md)
-*Source: Monster Manual p. 188, Eberron: Rising from the Last War, Mythic Odysseys of Theros, The Book of Many Things. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Homunculus](Compendium/bestiary/construct/homunculus.md)
+*Source: Monster Manual p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
 
@@ -41,10 +42,8 @@ A homunculus knows everything its creator knows, including all the languages the
   - !!int "7"
 "speed": "20 ft., fly 40 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](Rules/conditions.md#Charmed), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "0"
 "traits":
@@ -55,18 +54,13 @@ A homunculus knows everything its creator knows, including all the languages the
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1\
       \ piercing damage, and the target must succeed on a DC 10 Constitution saving\
-      \ throw or be [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 1 minute. If the saving throw fails by 5 or more, the target is instead\
-      \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ for 5 (1d10) minutes and [unconscious](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Unconscious)\
-      \ while [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)\
-      \ in this way."
+      \ throw or be [poisoned](Rules/conditions.md#Poisoned) for 1 minute. If the\
+      \ saving throw fails by 5 or more, the target is instead [poisoned](Rules/conditions.md#Poisoned)\
+      \ for 5 (1d10) minutes and [unconscious](Rules/conditions.md#Unconscious) while\
+      \ [poisoned](Rules/conditions.md#Poisoned) in this way."
     "name": "Bite"
 "source":
   - "MM"
-  - "ERLW"
-  - "MOT"
-  - "BMT"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/construct/token/homunculus.webp"
+"image": "Compendium/bestiary/construct/token/homunculus.webp"
 ```
 ^statblock

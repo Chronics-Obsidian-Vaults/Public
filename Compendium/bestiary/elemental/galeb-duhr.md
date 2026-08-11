@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+- json5e-monster
 tags:
 - source/compendium/src/5e/mm
 - source/monster/cr/6
@@ -11,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Galeb Duhr
+- "Galeb Duhr"
 ---
-# [Galeb Duhr](Campaigns\Chronics of the Times Before\Public\Compendium\bestiary\elemental/galeb-duhr.md)
-*Source: Monster Manual p. 139, Tasha's Cauldron of Everything*  
+# [Galeb Duhr](Compendium/bestiary/elemental/galeb-duhr.md)
+*Source: Monster Manual p. 139*  
 
 The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
 
@@ -50,12 +51,10 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Exhaustion),\
-  \ [paralyzed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Paralyzed),\
-  \ [petrified](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Petrified),\
-  \ [poisoned](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Poisoned)"
-"senses": "[darkvision](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/senses.md#Darkvision)\
-  \ 60 ft., tremorsense 60 ft., passive Perception 11"
+"condition_immunities": "[exhaustion](Rules/conditions.md#Exhaustion), [paralyzed](Rules/conditions.md#Paralyzed),\
+  \ [petrified](Rules/conditions.md#Petrified), [poisoned](Rules/conditions.md#Poisoned)"
+"senses": "[darkvision](Rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive\
+  \ Perception 11"
 "languages": "Terran"
 "cr": "6"
 "traits":
@@ -65,7 +64,7 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
   - "desc": "If the galeb duhr rolls at least 20 feet straight toward a target and\
       \ then hits it with a slam attack on the same turn, the target takes an extra\
       \ 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on\
-      \ a DC 16 Strength saving throw or be knocked [prone](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Prone)."
+      \ a DC 16 Strength saving throw or be knocked [prone](Rules/conditions.md#Prone)."
     "name": "Rolling Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
@@ -73,17 +72,15 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
     "name": "Slam"
   - "desc": "The galeb duhr magically animates up to two boulders it can see within\
       \ 60 feet of it. A boulder has statistics like those of a galeb duhr, except\
-      \ it has Intelligence 1 and Charisma 1, it can't be [charmed](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Charmed)\
-      \ or [frightened](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Frightened),\
-      \ and it lacks this action option. A boulder remains animated as long as the\
-      \ galeb duhr maintains [concentration](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration),\
-      \ up to 1 minute (as if [concentrating](/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Rules/conditions.md#Concentration)\
-      \ on a spell)."
+      \ it has Intelligence 1 and Charisma 1, it can't be [charmed](Rules/conditions.md#Charmed)\
+      \ or [frightened](Rules/conditions.md#Frightened), and it lacks this action\
+      \ option. A boulder remains animated as long as the galeb duhr maintains [concentration](Rules/conditions.md#Concentration),\
+      \ up to 1 minute (as if [concentrating](Rules/conditions.md#Concentration) on\
+      \ a spell)."
     "name": "Animate Boulders (1/Day)"
 "source":
   - "MM"
-  - "TCE"
-"image": "/Campaigns/Chronics%20of%20the%20Times%20Before/Public/Compendium/bestiary/elemental/token/galeb-duhr.webp"
+"image": "Compendium/bestiary/elemental/token/galeb-duhr.webp"
 ```
 ^statblock
 

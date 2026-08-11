@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - source/compendium/src/5e/tce
 aliases:
-- Military Force Contact; Commanding Officer
+- "Military Force Contact; Commanding Officer"
 ---
 # Military Force Contact; Commanding Officer
 *Source: Tasha's Cauldron of Everything p. 97* 
